@@ -1,5 +1,5 @@
 // AI Radar Backend — Fetcher (src/fetcher.js)
-// Fetches from 16 sources, normalizes to common schema
+// Fetches from 26 sources, normalizes to common schema
 
 import { safeFetch, parseXML, sleep, log, errorLog } from "./utils.js";
 
@@ -9,22 +9,34 @@ const DELAY_BETWEEN_SOURCES = 500; // ms — avoid rate limiting
 
 export async function fetchAllSources() {
   const sources = [
-    { name: "Hacker News",           fn: fetchHackerNews },
-    { name: "HuggingFace Papers",    fn: fetchHuggingFacePapers },
-    { name: "HuggingFace Models",    fn: fetchHuggingFaceModels },
-    { name: "ArXiv AI",              fn: fetchArxiv },
-    { name: "GitHub Trending",       fn: fetchGitHub },
-    { name: "Reddit LocalLLaMA",     fn: fetchRedditLocalLLaMA },
-    { name: "Reddit MachineLearning",fn: fetchRedditML },
-    { name: "Papers With Code",      fn: fetchPapersWithCode },
-    { name: "OpenAI Blog",           fn: fetchOpenAIBlog },
-    { name: "Anthropic Blog",        fn: fetchAnthropicBlog },
-    { name: "DeepMind Blog",         fn: fetchDeepMindBlog },
-    { name: "Meta AI Blog",          fn: fetchMetaAIBlog },
-    { name: "NVIDIA Blog",           fn: fetchNvidiaBlog },
-    { name: "VentureBeat AI",        fn: fetchVentureBeat },
-    { name: "TechCrunch AI",         fn: fetchTechCrunch },
-    { name: "Product Hunt AI",       fn: fetchProductHunt },
+    // ── Original 16 ──
+    { name: "Hacker News",              fn: fetchHackerNews },
+    { name: "HuggingFace Papers",       fn: fetchHuggingFacePapers },
+    { name: "HuggingFace Models",       fn: fetchHuggingFaceModels },
+    { name: "ArXiv AI",                 fn: fetchArxiv },
+    { name: "GitHub Trending",          fn: fetchGitHub },
+    { name: "Reddit LocalLLaMA",        fn: fetchRedditLocalLLaMA },
+    { name: "Reddit MachineLearning",   fn: fetchRedditML },
+    { name: "Papers With Code",         fn: fetchPapersWithCode },
+    { name: "OpenAI Blog",              fn: fetchOpenAIBlog },
+    { name: "MIT AI News",              fn: fetchMITNews },
+    { name: "Google DeepMind",          fn: fetchDeepMindBlog },
+    { name: "Meta AI Blog",             fn: fetchMetaAIBlog },
+    { name: "NVIDIA Blog",              fn: fetchNvidiaBlog },
+    { name: "VentureBeat AI",           fn: fetchVentureBeat },
+    { name: "TechCrunch AI",            fn: fetchTechCrunch },
+    { name: "Product Hunt AI",          fn: fetchProductHunt },
+    // ── New sources ──
+    { name: "The Verge AI",             fn: fetchVergeAI },
+    { name: "Ars Technica",             fn: fetchArsTechnica },
+    { name: "Wired AI",                 fn: fetchWiredAI },
+    { name: "MIT Technology Review",    fn: fetchMITTechReview },
+    { name: "404 Media",                fn: fetch404Media },
+    { name: "AI News",                  fn: fetchAINews },
+    { name: "MarkTechPost",             fn: fetchMarkTechPost },
+    { name: "SiliconANGLE AI",          fn: fetchSiliconAngle },
+    { name: "AWS ML Blog",              fn: fetchAWSML },
+    { name: "Google Research",          fn: fetchGoogleResearch },
   ];
 
   const results = [];
@@ -60,7 +72,6 @@ function normalize(item) {
     score:       0,
     priority:    "LOW",
     sentiment:   "neutral",
-    // Engagement metrics for ranking
     downloads:   Number(item.downloads || 0),
     likes:       Number(item.likes     || 0),
     stars:       Number(item.stars     || 0),
@@ -99,7 +110,7 @@ function hnType(title = "") {
   return "news";
 }
 
-// ── 2. HuggingFace Papers ────────────────────────────────────────────────────
+// ── 2. HuggingFace Papers ─────────────────────────────────────────────────────
 
 async function fetchHuggingFacePapers() {
   const res  = await safeFetch("https://huggingface.co/api/daily_papers");
@@ -119,7 +130,7 @@ async function fetchHuggingFacePapers() {
   }));
 }
 
-// ── 3. HuggingFace Models (quality filtered) ─────────────────────────────────
+// ── 3. HuggingFace Models ─────────────────────────────────────────────────────
 
 async function fetchHuggingFaceModels() {
   const res  = await safeFetch("https://huggingface.co/api/models?sort=lastModified&direction=-1&limit=60&full=true");
@@ -142,7 +153,7 @@ async function fetchHuggingFaceModels() {
     }));
 }
 
-// ── 4. ArXiv ─────────────────────────────────────────────────────────────────
+// ── 4. ArXiv ──────────────────────────────────────────────────────────────────
 
 async function fetchArxiv() {
   const url = "https://export.arxiv.org/api/query?search_query=cat:cs.AI+OR+cat:cs.LG+OR+cat:cs.CL&sortBy=lastUpdatedDate&sortOrder=descending&max_results=20";
@@ -161,7 +172,6 @@ async function fetchArxiv() {
     const summary = parseXML(e, "summary")?.replace(/\s+/g, " ").trim();
     const arxivId = id?.split("/abs/")[1];
 
-    // Extract authors
     const authors = [];
     const authorPattern = /<author>([\s\S]*?)<\/author>/g;
     let am;
@@ -189,7 +199,7 @@ async function fetchArxiv() {
   return items.slice(0, 15);
 }
 
-// ── 5. GitHub ────────────────────────────────────────────────────────────────
+// ── 5. GitHub ─────────────────────────────────────────────────────────────────
 
 async function fetchGitHub() {
   const url = "https://api.github.com/search/repositories?q=AI+OR+LLM+OR+%22machine+learning%22&sort=stars&order=desc&per_page=20";
@@ -211,13 +221,11 @@ async function fetchGitHub() {
     }));
 }
 
-// ── 6. Reddit r/LocalLLaMA ───────────────────────────────────────────────────
+// ── 6 & 7. Reddit ─────────────────────────────────────────────────────────────
 
 async function fetchRedditLocalLLaMA() {
   return fetchRedditRSS("LocalLLaMA", "Reddit r/LocalLLaMA", "🔴");
 }
-
-// ── 7. Reddit r/MachineLearning ──────────────────────────────────────────────
 
 async function fetchRedditML() {
   return fetchRedditRSS("MachineLearning", "Reddit r/MachineLearning", "🔴");
@@ -257,7 +265,7 @@ async function fetchRedditRSS(subreddit, sourceName, icon) {
   return items.slice(0, 15);
 }
 
-// ── 8. Papers With Code ──────────────────────────────────────────────────────
+// ── 8. Papers With Code ───────────────────────────────────────────────────────
 
 async function fetchPapersWithCode() {
   return fetchRSSBlog("https://paperswithcode.com/latest/rss", "Papers With Code", "📊", "research");
@@ -265,11 +273,10 @@ async function fetchPapersWithCode() {
 
 // ── RSS helper ────────────────────────────────────────────────────────────────
 
-async function fetchRSSBlog(url, sourceName, icon, type = "news") {
+async function fetchRSSBlog(url, sourceName, icon, type = "news", limit = 10) {
   const res  = await safeFetch(url, { headers: { "User-Agent": "AI-Radar-Bot/2.0" } });
   const text = await res.text();
 
-  // Try RSS <item> format first, then Atom <entry>
   const isAtom  = text.includes("<entry>");
   const tagName = isAtom ? "entry" : "item";
   const pattern = new RegExp(`<${tagName}>([\\s\\S]*?)<\\/${tagName}>`, "g");
@@ -300,16 +307,16 @@ async function fetchRSSBlog(url, sourceName, icon, type = "news") {
     }
   }
 
-  return items.slice(0, 10);
+  return items.slice(0, limit);
 }
 
-// ── 9-15. Blog RSS sources ────────────────────────────────────────────────────
+// ── 9-16. Original blog sources ───────────────────────────────────────────────
 
 async function fetchOpenAIBlog() {
   return fetchRSSBlog("https://openai.com/blog/rss.xml", "OpenAI Blog", "🟢", "news");
 }
 
-async function fetchAnthropicBlog() {
+async function fetchMITNews() {
   return fetchRSSBlog("https://news.mit.edu/topic/artificial-intelligence2", "MIT AI News", "🎓", "research");
 }
 
@@ -332,8 +339,6 @@ async function fetchVentureBeat() {
 async function fetchTechCrunch() {
   return fetchRSSBlog("https://techcrunch.com/category/artificial-intelligence/feed/", "TechCrunch AI", "💚", "news");
 }
-
-// ── 16. Product Hunt ─────────────────────────────────────────────────────────
 
 async function fetchProductHunt() {
   const apiKey = process.env.PRODUCT_HUNT_API_KEY;
@@ -363,6 +368,66 @@ async function fetchProductHunt() {
     votes:     n.votesCount || 0,
     tags:      extractTags(n.name + " " + n.tagline),
   }));
+}
+
+// ── 17. The Verge AI ──────────────────────────────────────────────────────────
+
+async function fetchVergeAI() {
+  return fetchRSSBlog("https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "The Verge AI", "🔺", "news");
+}
+
+// ── 18. Ars Technica ──────────────────────────────────────────────────────────
+
+async function fetchArsTechnica() {
+  return fetchRSSBlog("https://feeds.arstechnica.com/arstechnica/index", "Ars Technica", "🔶", "news");
+}
+
+// ── 19. Wired AI ──────────────────────────────────────────────────────────────
+
+async function fetchWiredAI() {
+  return fetchRSSBlog("https://www.wired.com/feed/category/artificial-intelligence/latest/rss", "Wired AI", "⬛", "news");
+}
+
+// ── 20. MIT Technology Review ─────────────────────────────────────────────────
+
+async function fetchMITTechReview() {
+  return fetchRSSBlog("https://www.technologyreview.com/topic/artificial-intelligence/feed/", "MIT Tech Review", "🏛️", "research");
+}
+
+// ── 21. 404 Media ─────────────────────────────────────────────────────────────
+
+async function fetch404Media() {
+  return fetchRSSBlog("https://www.404media.co/rss", "404 Media", "📡", "news");
+}
+
+// ── 22. AI News (artificialintelligence-news.com) ─────────────────────────────
+
+async function fetchAINews() {
+  return fetchRSSBlog("https://www.artificialintelligence-news.com/feed/rss/", "AI News", "🤖", "news");
+}
+
+// ── 23. MarkTechPost ──────────────────────────────────────────────────────────
+
+async function fetchMarkTechPost() {
+  return fetchRSSBlog("https://marktechpost.com/feed", "MarkTechPost", "📘", "research");
+}
+
+// ── 24. SiliconANGLE AI ───────────────────────────────────────────────────────
+
+async function fetchSiliconAngle() {
+  return fetchRSSBlog("https://siliconangle.com/category/ai/feed", "SiliconANGLE AI", "📐", "news");
+}
+
+// ── 25. AWS Machine Learning Blog ────────────────────────────────────────────
+
+async function fetchAWSML() {
+  return fetchRSSBlog("https://aws.amazon.com/blogs/machine-learning/feed", "AWS ML Blog", "☁️", "tool");
+}
+
+// ── 26. Google Research Blog ──────────────────────────────────────────────────
+
+async function fetchGoogleResearch() {
+  return fetchRSSBlog("https://research.google/blog/rss", "Google Research", "🔍", "research");
 }
 
 // ── Tag extractor ─────────────────────────────────────────────────────────────
