@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-11T11:26:49.723Z",
+  "generatedAt": "2026-03-11T11:53:44.466Z",
   "date": "10-03-2026",
-  "count": 81,
+  "count": 82,
   "summary": null,
   "items": [
     {
@@ -1524,6 +1524,32 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.09881",
+      "title": "Do What I Say: A Spoken Prompt Dataset for Instruction-Following",
+      "url": "https://huggingface.co/papers/2603.09881",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-10T12:39:46.000Z",
+      "abstract": "Speech Large Language Models (SLLMs) have rapidly expanded, supporting a wide range of tasks. These models are typically evaluated using text prompts, which may not reflect real-world scenarios where",
+      "authors": [
+        "Maike Züfle",
+        "Sara Papi",
+        "Fabian Retkowski",
+        "Szymon Mazurek",
+        "Marek Kasztelnik"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
