@@ -1,5 +1,6 @@
 // AI Radar Backend — Writer (src/writer.js)
 // Writes all JSON output files with smart change detection
+// Items are filed under their ACTUAL publication date, not today's date
 
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from "fs";
 import { createHash } from "crypto";
@@ -26,16 +27,27 @@ export async function loadExistingDay(dateKey) {
 export async function writeAllFiles({ items, trending, summary, dateKey }) {
   ensureDir(DATA_DIR);
 
-  const breaking = items
+  // ── Group items by their ACTUAL publication date ──────────────────────────
+  // Items are filed under the date they were published, not today
+  const today        = dateKey; // e.g. "11-03-2026"
+  const byDate       = groupByDate(items);
+  const todayItems   = byDate[today] || [];
+  const otherDates   = Object.entries(byDate).filter(([d]) => d !== today);
+
+  log(`Items by date: today=${todayItems.length}, other dates=${otherDates.reduce((a,[,v])=>a+v.length,0)}`);
+
+  // ── Write today's files ───────────────────────────────────────────────────
+
+  const breaking = todayItems
     .filter(i => i.score >= 9)
     .slice(0, 10);
 
   const latest = {
     generatedAt: new Date().toISOString(),
-    date:        dateKey,
-    count:       items.length,
+    date:        today,
+    count:       todayItems.length,
     summary:     summary || null,
-    items:       items.slice(0, 60), // cap latest.json at 60 items ~100KB
+    items:       todayItems.slice(0, 60),
   };
 
   const breakingOut = {
@@ -44,36 +56,89 @@ export async function writeAllFiles({ items, trending, summary, dateKey }) {
     items:       breaking,
   };
 
-  const dayData = {
+  const todayDayData = {
     generatedAt: new Date().toISOString(),
-    date:        dateKey,
-    count:       items.length,
+    date:        today,
+    count:       todayItems.length,
     summary:     summary || null,
-    items,
+    items:       todayItems,
   };
 
-  // Write day archive file
-  const dayPath = dayFilePath(dateKey);
-  ensureDir(dayPath.split("/").slice(0, -1).join("/"));
-  smartWrite(dayPath, dayData);
+  // Write today's archive file
+  const todayPath = dayFilePath(today);
+  ensureDir(todayPath.split("/").slice(0, -1).join("/"));
+  smartWrite(todayPath, todayDayData);
 
-  // Write latest.json
+  // Write latest.json — only today's items
   smartWrite(`${DATA_DIR}/latest.json`, latest);
 
-  // Write breaking.json
+  // Write breaking.json — only today's breaking
   smartWrite(`${DATA_DIR}/breaking.json`, breakingOut);
 
   // Write trending.json
   if (trending) smartWrite(`${DATA_DIR}/trending.json`, trending);
 
-  // Update index.json
-  updateIndex(dateKey);
+  // ── Write other date archive files ────────────────────────────────────────
+  // Old articles go into their correct historical date files
 
-  // Write metadata.json
-  writeMetadata(items, trending);
+  for (const [dateStr, dateItems] of otherDates) {
+    // Load existing items for that date and merge (don't overwrite)
+    const existingItems = await loadExistingDay(dateStr);
+    const existingUrls  = new Set(existingItems.map(i => i.url));
+    const newForDate    = dateItems.filter(i => !existingUrls.has(i.url));
 
-  log(`Wrote ${items.length} items to ${dayPath}`);
-  log(`Wrote latest.json (${items.slice(0,60).length} items), breaking.json (${breaking.length} items)`);
+    if (!newForDate.length) continue;
+
+    const merged = [...existingItems, ...newForDate].sort((a, b) =>
+      new Date(b.timestamp) - new Date(a.timestamp)
+    );
+
+    const dateDayData = {
+      generatedAt: new Date().toISOString(),
+      date:        dateStr,
+      count:       merged.length,
+      summary:     null,
+      items:       merged,
+    };
+
+    const datePath = dayFilePath(dateStr);
+    ensureDir(datePath.split("/").slice(0, -1).join("/"));
+    smartWrite(datePath, dateDayData);
+    updateIndex(dateStr);
+    log(`  Filed ${newForDate.length} items under ${dateStr}`);
+  }
+
+  // ── Update index and metadata ─────────────────────────────────────────────
+
+  updateIndex(today);
+
+  writeMetadata(todayItems, trending);
+
+  log(`Wrote ${todayItems.length} items to today (${today}), latest.json, breaking.json (${breaking.length} items)`);
+}
+
+// ── Group items by actual publication date ────────────────────────────────────
+
+function groupByDate(items) {
+  const grouped = {};
+  for (const item of items) {
+    const dateKey = timestampToDateKey(item.timestamp);
+    if (!grouped[dateKey]) grouped[dateKey] = [];
+    grouped[dateKey].push(item);
+  }
+  return grouped;
+}
+
+function timestampToDateKey(timestamp) {
+  try {
+    const d  = new Date(timestamp);
+    if (isNaN(d.getTime())) return todayKey(); // fallback to today if invalid
+    const dd = String(d.getDate()).padStart(2, "0");
+    const mm = String(d.getMonth() + 1).padStart(2, "0");
+    return `${dd}-${mm}-${d.getFullYear()}`;
+  } catch {
+    return todayKey();
+  }
 }
 
 // ── Smart write — skip if content unchanged ───────────────────────────────────
@@ -110,7 +175,6 @@ function updateIndex(dateKey) {
 
   if (!dates.includes(dateKey)) {
     dates.unshift(dateKey);
-    // Keep sorted descending
     dates.sort((a, b) => {
       const toMs = k => {
         const [dd, mm, yyyy] = k.split("-");
@@ -124,15 +188,17 @@ function updateIndex(dateKey) {
 }
 
 // ── Metadata.json ─────────────────────────────────────────────────────────────
+// Uses today-only items so popup numbers match dashboard numbers
 
-function writeMetadata(items, trending) {
+function writeMetadata(todayItems, trending) {
   const meta = {
     lastUpdated:  new Date().toISOString(),
-    todayCount:   items.length,
-    highCount:    items.filter(i => i.priority === "HIGH").length,
-    mediumCount:  items.filter(i => i.priority === "MEDIUM").length,
+    todayCount:   todayItems.length,
+    highCount:    todayItems.filter(i => i.priority === "HIGH").length,
+    mediumCount:  todayItems.filter(i => i.priority === "MEDIUM").length,
     topTrending:  trending?.trending?.slice(0, 3) || [],
     version:      "2.0.0",
+    sourceCount:  26,
   };
   smartWrite(`${DATA_DIR}/metadata.json`, meta);
 }
