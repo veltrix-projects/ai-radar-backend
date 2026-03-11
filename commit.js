@@ -8,28 +8,59 @@ import { detectTrending }           from "./src/trending.js";
 import { generateSummary }          from "./src/summary.js";
 import { deduplicateItems }         from "./src/dedupe.js";
 import { log, errorLog, todayKey }  from "./src/utils.js";
+import { readFileSync, writeFileSync, existsSync } from "fs";
+
+const SEEN_FILE = "./data/seen.json";
+const MAX_SEEN  = 5000;
+
+function loadSeen() {
+  try {
+    if (!existsSync(SEEN_FILE)) return new Set();
+    const raw = readFileSync(SEEN_FILE, "utf8");
+    return new Set(JSON.parse(raw));
+  } catch {
+    return new Set();
+  }
+}
+
+function saveSeen(seen) {
+  const arr = [...seen].slice(-MAX_SEEN);
+  writeFileSync(SEEN_FILE, JSON.stringify(arr, null, 2));
+}
 
 async function run() {
   const startTime = Date.now();
   log("Commit pipeline started");
 
   try {
-    // 1. Load buffer accumulated from fetch runs
     const buffered = await loadBuffer();
     log(`Buffer contains ${buffered.length} items`);
 
-    // 2. Load today's existing committed data
+    const seen       = loadSeen();
+    const seenUrls   = new Set([...seen]);
+    const seenTitles = new Set();
+
     const existing = await loadExistingDay(todayKey());
     log(`Existing today: ${existing.length} items`);
 
-    // 3. Merge buffer with existing, deduplicate
-    const existingUrls   = new Set(existing.map(i => i.url));
-    const existingTitles = new Set(existing.map(i => i.title?.toLowerCase().trim()));
-    const fresh = deduplicateItems(buffered, existingUrls, existingTitles);
+    for (const item of existing) {
+      if (item.url)   seenUrls.add(item.url);
+      if (item.title) seenTitles.add(item.title.toLowerCase().trim());
+    }
+
+    const fresh = deduplicateItems(buffered, seenUrls, seenTitles);
     log(`${fresh.length} genuinely new items to commit`);
 
+    // GUARD: Don't write empty files
+    if (!fresh.length && existing.length === 0) {
+      log("Buffer empty and no existing data for today — skipping write");
+      await clearBuffer();
+      return;
+    }
+
     if (!fresh.length && existing.length > 0) {
-      log("No new items to commit — skipping");
+      log("No new items to commit — skipping (existing data preserved on gh-pages)");
+      await clearBuffer();
       return;
     }
 
@@ -37,14 +68,11 @@ async function run() {
       new Date(b.timestamp) - new Date(a.timestamp)
     );
 
-    // 4. Detect trending topics from today's full dataset
     const trending = detectTrending(allToday);
     log(`Detected ${trending.trending.length} trending topics`);
 
-    // 5. Generate daily summary (only if we have enough items and it's not already done today)
     const summary = await generateSummary(allToday, existing.length === 0);
 
-    // 6. Write all JSON files
     await writeAllFiles({
       items:    allToday,
       trending,
@@ -52,7 +80,12 @@ async function run() {
       dateKey:  todayKey(),
     });
 
-    // 7. Clear buffer after successful write
+    for (const item of fresh) {
+      if (item.url) seen.add(item.url);
+    }
+    saveSeen(seen);
+    log(`Seen set updated (${seen.size} total URLs tracked)`);
+
     await clearBuffer();
     log("Buffer cleared");
 
