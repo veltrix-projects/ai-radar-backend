@@ -306,11 +306,11 @@ async function fetchRSSBlog(url, sourceName, icon, type = "news") {
 // ── 9-15. Blog RSS sources ────────────────────────────────────────────────────
 
 async function fetchOpenAIBlog() {
-  return fetchRSSBlog("https://openai.com/blog/rss", "OpenAI Blog", "🟢", "news");
+  return fetchRSSBlog("https://openai.com/blog/rss.xml", "OpenAI Blog", "🟢", "news");
 }
 
 async function fetchAnthropicBlog() {
-  return fetchRSSBlog("https://www.anthropic.com/news/rss.xml", "Anthropic Blog", "🟣", "news");
+  return fetchRSSBlog("https://www.anthropic.com/index/feed.xml", "Anthropic Blog", "🟣", "news");
 }
 
 async function fetchDeepMindBlog() {
