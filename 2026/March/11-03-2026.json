@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-12T05:12:03.053Z",
+  "generatedAt": "2026-03-12T06:09:09.051Z",
   "date": "11-03-2026",
-  "count": 93,
+  "count": 94,
   "summary": null,
   "items": [
     {
@@ -31,7 +31,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 126804,
+      "stars": 126811,
       "votes": 0,
       "points": 0
     },
@@ -84,7 +84,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 178756,
+      "stars": 178761,
       "votes": 0,
       "points": 0
     },
@@ -297,7 +297,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 164888,
+      "stars": 164891,
       "votes": 0,
       "points": 0
     },
@@ -348,7 +348,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 157762,
+      "stars": 157765,
       "votes": 0,
       "points": 0
     },
@@ -471,6 +471,26 @@
       ],
       "score": 6,
       "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "reddit_LocalLLaMA_t3_1rr5zfo",
+      "title": "What is Hunter Alpha?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rr5zfo/what_is_hunter_alpha/",
+      "source": "Reddit r/LocalLLaMA",
+      "sourceIcon": "🔴",
+      "type": "news",
+      "timestamp": "2026-03-11T20:50:09+00:00",
+      "abstract": "",
+      "authors": [],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -1958,6 +1978,32 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.10705",
+      "title": "Prism-Δ: Differential Subspace Steering for Prompt Highlighting in Large Language Models",
+      "url": "https://huggingface.co/papers/2603.10705",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-11T08:24:45.000Z",
+      "abstract": "Prompt highlighting steers a large language model to prioritize user-specified text spans during generation. A key challenge is extracting steering directions that capture the difference between relev",
+      "authors": [
+        "Yuyao Ge",
+        "Shenghua Liu",
+        "Yiwei Wang",
+        "Tianyu Liu",
+        "Baolong Bi"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "reddit_LocalLLaMA_t3_1rqnpvj",
       "title": "M5 Max just arrived - benchmarks incoming",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rqnpvj/m5_max_just_arrived_benchmarks_incoming/",
@@ -2040,28 +2086,6 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1rqkewn",
-      "title": "Testing 3 uncensored Qwen 35b models on Strix Halo (Cyber Security)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rqkewn/testing_3_uncensored_qwen_35b_models_on_strix/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-11T04:47:36+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "qwen"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
