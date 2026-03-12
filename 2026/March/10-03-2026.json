@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-12T11:48:00.226Z",
+  "generatedAt": "2026-03-12T12:37:52.683Z",
   "date": "10-03-2026",
-  "count": 24,
+  "count": 25,
   "summary": null,
   "items": [
     {
@@ -492,6 +492,34 @@
       "authors": [],
       "tags": [
         "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.09482",
+      "title": "StyleVLA: Driving Style-Aware Vision Language Action Model for Autonomous Driving",
+      "url": "https://huggingface.co/papers/2603.09482",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-10T06:33:58.000Z",
+      "abstract": "Vision Language Models (VLMs) bridge visual perception and linguistic reasoning. In Autonomous Driving (AD), this synergy has enabled Vision Language Action (VLA) models, which translate high-level mu",
+      "authors": [
+        "Yuan Gao",
+        "Dengyuan Hua",
+        "Mattia Piccinini",
+        "Finn Rasmus Schäfer",
+        "Korbinian Moller"
+      ],
+      "tags": [
+        "autonomous"
       ],
       "score": 6,
       "priority": "MEDIUM",
