@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-03-12T13:57:18.691Z",
+  "generatedAt": "2026-03-12T14:45:22.216Z",
   "date": "10-03-2026",
-  "count": 23,
+  "count": 24,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2603.10377",
+      "title": "Causal Concept Graphs in LLM Latent Space for Stepwise Reasoning",
+      "url": "https://huggingface.co/papers/2603.10377",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-10T23:46:38.000Z",
+      "abstract": "Sparse autoencoders can localize where concepts live in language models, but not how they interact during multi-step reasoning. We propose Causal Concept Graphs (CCG): a directed acyclic graph over sp",
+      "authors": [
+        "Md Muntaqim Meherab",
+        "Noor Islam S. Mohammad",
+        "Faiza Feroz"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fcybertru",
       "title": "Cybertruck Tried to Drive 'Straight Off an Overpass' Attorney Claims",
@@ -229,22 +255,18 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.10101",
-      "title": "CLIPO: Contrastive Learning in Policy Optimization Generalizes RLVR",
-      "url": "https://huggingface.co/papers/2603.10101",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
+      "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
+      "title": "Building a strong data infrastructure for AI agent success",
+      "url": "https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/",
+      "source": "MIT Tech Review",
+      "sourceIcon": "🏛️",
       "type": "research",
-      "timestamp": "2026-03-10T13:59:54.000Z",
-      "abstract": "Reinforcement Learning with Verifiable Rewards (RLVR) has significantly advanced the reasoning capacity of Large Language Models (LLMs). However, RLVR solely relies on final answers as outcome rewards",
-      "authors": [
-        "Sijia Cui",
-        "Pengyu Cheng",
-        "Jiajun Song",
-        "Yongbo Gai",
-        "Guojun Zhang"
+      "timestamp": "2026-03-10T14:00:00.000Z",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "agent"
       ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
