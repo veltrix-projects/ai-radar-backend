@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-12T01:08:40.480Z",
+  "generatedAt": "2026-03-12T03:42:42.652Z",
   "date": "10-03-2026",
-  "count": 40,
+  "count": 24,
   "summary": null,
   "items": [
     {
@@ -108,389 +108,6 @@
       "points": 0
     },
     {
-      "id": "arxiv_2603.09974v1",
-      "title": "Task Aware Modulation Using Representation Learning for Upsaling of Terrestrial Carbon Fluxes",
-      "url": "https://arxiv.org/abs/2603.09974v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-03-10T17:59:29Z",
-      "abstract": "Accurately upscaling terrestrial carbon fluxes is central to estimating the global carbon budget, yet remains challenging due to the sparse and regionally biased distribution of ground measurements. E",
-      "authors": [
-        "Aleksei Rozanov",
-        "Arvind Renganathan",
-        "Vipin Kumar"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2603.01367v2",
-      "title": "DUEL: Exact Likelihood for Masked Diffusion via Deterministic Unmasking",
-      "url": "https://arxiv.org/abs/2603.01367v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-03-10T17:59:15Z",
-      "abstract": "Masked diffusion models (MDMs) generate text by iteratively selecting positions to unmask and then predicting tokens at those positions. Yet MDMs lack proper likelihood evaluation: the evidence lower",
-      "authors": [
-        "Gilad Turok",
-        "Chris De Sa",
-        "Volodymyr Kuleshov"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2603.09972v1",
-      "title": "From Data Statistics to Feature Geometry: How Correlations Shape Superposition",
-      "url": "https://arxiv.org/abs/2603.09972v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-03-10T17:59:02Z",
-      "abstract": "A central idea in mechanistic interpretability is that neural networks represent more features than they have dimensions, arranging them in superposition to form an over-complete basis. This framing h",
-      "authors": [
-        "Lucas Prieto",
-        "Edward Stevinson",
-        "Melih Barsbey",
-        "Tolga Birdal",
-        "Pedro A. M. Mediano"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2603.09970v1",
-      "title": "CREATE: Testing LLMs for Associative Creativity",
-      "url": "https://arxiv.org/abs/2603.09970v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-03-10T17:58:44Z",
-      "abstract": "A key component of creativity is associative reasoning: the ability to draw novel yet meaningful connections between concepts. We introduce CREATE, a benchmark designed to evaluate models' capacity fo",
-      "authors": [
-        "Manya Wadhwa",
-        "Tiasa Singha Roy",
-        "Harvey Lederman",
-        "Junyi Jessy Li",
-        "Greg Durrett"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2409.18827v2",
-      "title": "ARLBench: Flexible and Efficient Benchmarking for Hyperparameter Optimization in Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2409.18827v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-03-10T17:58:13Z",
-      "abstract": "Hyperparameters are a critical factor in reliably training well-performing reinforcement learning (RL) agents. Unfortunately, developing and evaluating automated approaches for tuning such hyperparame",
-      "authors": [
-        "Jannis Becktepe",
-        "Julian Dierkes",
-        "Carolin Benjamins",
-        "Aditya Mohan",
-        "David Salinas"
-      ],
-      "tags": [
-        "benchmark",
-        "reinforcement learning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2603.09964v1",
-      "title": "Understanding the Use of a Large Language Model-Powered Guide to Make Virtual Reality Accessible for Blind and Low Vision People",
-      "url": "https://arxiv.org/abs/2603.09964v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-03-10T17:56:57Z",
-      "abstract": "As social virtual reality (VR) grows more popular, addressing accessibility for blind and low vision (BLV) users is increasingly critical. Researchers have proposed an AI \"sighted guide\" to help users",
-      "authors": [
-        "Jazmin Collins",
-        "Sharon Y Lin",
-        "Tianqi Liu",
-        "Andrea Stevenson Won",
-        "Shiri Azenkot"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2603.09963v1",
-      "title": "Emotional Modulation in Swarm Decision Dynamics",
-      "url": "https://arxiv.org/abs/2603.09963v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-03-10T17:56:42Z",
-      "abstract": "Collective decision-making in biological and human groups often emerges from simple interaction rules that amplify minor differences into consensus. The bee equation, developed initially to describe n",
-      "authors": [
-        "David Freire-Obregón"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2603.09961v1",
-      "title": "BEACON: Language-Conditioned Navigation Affordance Prediction under Occlusion",
-      "url": "https://arxiv.org/abs/2603.09961v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-03-10T17:56:16Z",
-      "abstract": "Language-conditioned local navigation requires a robot to infer a nearby traversable target location from its current observation and an open-vocabulary, relational instruction. Existing vision-langua",
-      "authors": [
-        "Xinyu Gao",
-        "Gang Chen",
-        "Javier Alonso-Mora"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2603.09957v1",
-      "title": "Think Before You Lie: How Reasoning Improves Honesty",
-      "url": "https://arxiv.org/abs/2603.09957v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-03-10T17:52:49Z",
-      "abstract": "While existing evaluations of large language models (LLMs) measure deception rates, the underlying conditions that give rise to deceptive behavior are poorly understood. We investigate this question u",
-      "authors": [
-        "Ann Yuan",
-        "Asma Ghandeharioun",
-        "Carter Blum",
-        "Alicia Machado",
-        "Jessica Hoffmann"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2603.09955v1",
-      "title": "From Semantics to Pixels: Coarse-to-Fine Masked Autoencoders for Hierarchical Visual Understanding",
-      "url": "https://arxiv.org/abs/2603.09955v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-03-10T17:51:12Z",
-      "abstract": "Self-supervised visual pre-training methods face an inherent tension: contrastive learning (CL) captures global semantics but loses fine-grained detail, while masked image modeling (MIM) preserves loc",
-      "authors": [
-        "Wenzhao Xiang",
-        "Yue Wu",
-        "Hongyang Yu",
-        "Feng Gao",
-        "Fan Yang"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2603.09952v1",
-      "title": "On the Width Scaling of Neural Optimizers Under Matrix Operator Norms I: Row/Column Normalization and Hyperparameter Transfer",
-      "url": "https://arxiv.org/abs/2603.09952v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-03-10T17:49:19Z",
-      "abstract": "A central question in modern deep learning is how to design optimizers whose behavior remains stable as the network width $w$ increases. We address this question by interpreting several widely used ne",
-      "authors": [
-        "Ruihan Xu",
-        "Jiajin Li",
-        "Yiping Lu"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2603.09951v1",
-      "title": "Towards a Neural Debugger for Python",
-      "url": "https://arxiv.org/abs/2603.09951v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-03-10T17:47:05Z",
-      "abstract": "Training large language models (LLMs) on Python execution traces grounds them in code execution and enables the line-by-line execution prediction of whole Python programs, effectively turning them int",
-      "authors": [
-        "Maximilian Beck",
-        "Jonas Gehring",
-        "Jannik Kossen",
-        "Gabriel Synnaeve"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2603.09950v1",
-      "title": "When Learning Rates Go Wrong: Early Structural Signals in PPO Actor-Critic",
-      "url": "https://arxiv.org/abs/2603.09950v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-03-10T17:46:31Z",
-      "abstract": "Deep Reinforcement Learning systems are highly sensitive to the learning rate (LR), and selecting stable and performant training runs often requires extensive hyperparameter search. In Proximal Policy",
-      "authors": [
-        "Alberto Fernández-Hernández",
-        "Cristian Pérez-Corral",
-        "Jose I. Mestre",
-        "Manuel F. Dolz",
-        "Jose Duato"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2503.21735v4",
-      "title": "GateLens: A Reasoning-Enhanced LLM Agent for Automotive Software Release Analytics",
-      "url": "https://arxiv.org/abs/2503.21735v4",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-03-10T17:44:31Z",
-      "abstract": "Ensuring reliable data-driven decisions is crucial in domains where analytical accuracy directly impacts safety, compliance, or operational outcomes. Decision support in such domains relies on large t",
-      "authors": [
-        "Arsham Gholamzadeh Khoee",
-        "Shuai Wang",
-        "Robert Feldt",
-        "Dhasarathy Parthasarathy",
-        "Yinan Yu"
-      ],
-      "tags": [
-        "llm",
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2603.09947v1",
-      "title": "The Confidence Gate Theorem: When Should Ranked Decision Systems Abstain?",
-      "url": "https://arxiv.org/abs/2603.09947v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-03-10T17:44:10Z",
-      "abstract": "Ranked decision systems -- recommenders, ad auctions, clinical triage queues -- must decide when to intervene in ranked outputs and when to abstain. We study when confidence-based abstention monotonic",
-      "authors": [
-        "Ronald Doku"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
       "title": "ABB: Physical AI simulation boosts ROI for factory automation",
       "url": "https://www.artificialintelligence-news.com/news/abb-physical-ai-simulation-secures-factory-automation-roi/",
@@ -573,6 +190,60 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.10165",
+      "title": "OpenClaw-RL: Train Any Agent Simply by Talking",
+      "url": "https://huggingface.co/papers/2603.10165",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-10T14:59:01.000Z",
+      "abstract": "Every agent interaction generates a next-state signal, namely the user reply, tool output, terminal or GUI state change that follows each action, yet no existing agentic RL system recovers it as a liv",
+      "authors": [
+        "Yinjie Wang",
+        "Xuyang Chen",
+        "Xiaolong Jin",
+        "Mengdi Wang",
+        "Ling Yang"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.10101",
+      "title": "CLIPO: Contrastive Learning in Policy Optimization Generalizes RLVR",
+      "url": "https://huggingface.co/papers/2603.10101",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-10T13:59:54.000Z",
+      "abstract": "Reinforcement Learning with Verifiable Rewards (RLVR) has significantly advanced the reasoning capacity of Large Language Models (LLMs). However, RLVR solely relies on final answers as outcome rewards",
+      "authors": [
+        "Sijia Cui",
+        "Pengyu Cheng",
+        "Jiajun Song",
+        "Yongbo Gai",
+        "Guojun Zhang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
       "title": "How Pokémon Go is giving delivery robots an inch-perfect view of the world",
       "url": "https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/",
@@ -593,6 +264,33 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.10098",
+      "title": "Code-Space Response Oracles: Generating Interpretable Multi-Agent Policies with Large Language Models",
+      "url": "https://huggingface.co/papers/2603.10098",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-10T13:37:06.000Z",
+      "abstract": "Recent advances in multi-agent reinforcement learning, particularly Policy-Space Response Oracles (PSRO), have enabled the computation of approximate game-theoretic equilibria in increasingly complex",
+      "authors": [
+        "Daniel Hennes",
+        "Zun Li",
+        "John Schultz",
+        "Marc Lanctot"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fviral-qu",
       "title": "Viral 'Quittr' Porn Addiction App Exposed the Masturbation Habits of Hundreds of Thousands of Users",
       "url": "https://www.404media.co/viral-quittr-porn-addiction-app-exposed-the-masturbation-habits-of-hundreds-of-thousands-of-users/",
@@ -605,34 +303,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.09906",
-      "title": "Thinking to Recall: How Reasoning Unlocks Parametric Knowledge in LLMs",
-      "url": "https://huggingface.co/papers/2603.09906",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-10T12:59:20.000Z",
-      "abstract": "While reasoning in LLMs plays a natural role in math, code generation, and multi-hop factual questions, its effect on simple, single-hop factual questions remains unclear. Such questions do not requir",
-      "authors": [
-        "Zorik Gekhman",
-        "Roee Aharoni",
-        "Eran Ofek",
-        "Mor Geva",
-        "Roi Reichart"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -663,34 +333,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.09896",
-      "title": "Stepping VLMs onto the Court: Benchmarking Spatial Intelligence in Sports",
-      "url": "https://huggingface.co/papers/2603.09896",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-10T12:50:32.000Z",
-      "abstract": "Sports have long attracted broad attention as they push the limits of human physical and cognitive capabilities. Amid growing interest in spatial intelligence for vision-language models (VLMs), sports",
-      "authors": [
-        "Yuchen Yang",
-        "Yuqing Shao",
-        "Duxiu Huang",
-        "Linfeng Dong",
-        "Yifei Liu"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "hf_paper_2603.09881",
       "title": "Do What I Say: A Spoken Prompt Dataset for Instruction-Following",
       "url": "https://huggingface.co/papers/2603.09881",
@@ -710,34 +352,6 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.09877",
-      "title": "InternVL-U: Democratizing Unified Multimodal Models for Understanding, Reasoning, Generation and Editing",
-      "url": "https://huggingface.co/papers/2603.09877",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-10T12:38:33.000Z",
-      "abstract": "Unified multimodal models (UMMs) that integrate understanding, reasoning, generation, and editing face inherent trade-offs between maintaining strong semantic comprehension and acquiring powerful gene",
-      "authors": [
-        "Changyao Tian",
-        "Danni Yang",
-        "Guanzhou Chen",
-        "Erfei Cui",
-        "Zhaokai Wang"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -825,32 +439,6 @@
       "tags": [
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.09488",
-      "title": "Streaming Autoregressive Video Generation via Diagonal Distillation",
-      "url": "https://huggingface.co/papers/2603.09488",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-10T06:45:24.000Z",
-      "abstract": "Large pretrained diffusion models have significantly enhanced the quality of generated videos, and yet their use in real-time streaming remains limited. Autoregressive models offer a natural framework",
-      "authors": [
-        "Jinxiu Liu",
-        "Xuanming Liu",
-        "Kangfu Mei",
-        "Yandong Wen",
-        "Ming-HsuanYang"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

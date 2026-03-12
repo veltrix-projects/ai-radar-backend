@@ -1,37 +1,9 @@
 {
-  "generatedAt": "2026-03-12T01:08:40.481Z",
+  "generatedAt": "2026-03-12T03:42:42.653Z",
   "date": "09-03-2026",
-  "count": 25,
+  "count": 24,
   "summary": null,
   "items": [
-    {
-      "id": "hf_paper_2603.09117",
-      "title": "Decoupling Reasoning and Confidence: Resurrecting Calibration in Reinforcement Learning from Verifiable Rewards",
-      "url": "https://huggingface.co/papers/2603.09117",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-09T22:47:59.000Z",
-      "abstract": "Reinforcement Learning from Verifiable Rewards (RLVR) significantly enhances large language models (LLMs) reasoning but severely suffers from calibration degeneration, where models become excessively",
-      "authors": [
-        "Zhengzhao Ma",
-        "Xueru Wen",
-        "Boxi Cao",
-        "Yaojie Lu",
-        "Hongyu Lin"
-      ],
-      "tags": [
-        "reinforcement learning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "CUDA 13.2 Introduces Enhanced CUDA Tile Support and New Python Features",
@@ -200,32 +172,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.08899",
-      "title": "ConFu: Contemplate the Future for Better Speculative Sampling",
-      "url": "https://huggingface.co/papers/2603.08899",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-09T16:11:06.000Z",
-      "abstract": "Speculative decoding has emerged as a powerful approach to accelerate large language model (LLM) inference by employing lightweight draft models to propose candidate tokens that are subsequently verif",
-      "authors": [
-        "Zongyue Qin",
-        "Raghavv Goel",
-        "Mukul Gagrani",
-        "Risheek Garrepalli",
-        "Mingu Lee"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -449,7 +395,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 130268,
+      "stars": 130281,
       "votes": 0,
       "points": 0
     },
@@ -466,6 +412,34 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.08561",
+      "title": "RetroAgent: From Solving to Evolving via Retrospective Dual Intrinsic Feedback",
+      "url": "https://huggingface.co/papers/2603.08561",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-09T12:23:33.000Z",
+      "abstract": "Large language model (LLM)-based agents trained with reinforcement learning (RL) have shown strong potential on complex interactive tasks. However, standard RL paradigms favor static problem-solving o",
+      "authors": [
+        "Xiaoying Zhang",
+        "Zichen Liu",
+        "Yipeng Zhang",
+        "Xia Hu",
+        "Wenqi Shao"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -566,7 +540,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 107850,
+      "stars": 107853,
       "votes": 0,
       "points": 0
     }

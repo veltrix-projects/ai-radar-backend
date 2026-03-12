@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-12T01:08:40.483Z",
+  "generatedAt": "2026-03-12T03:42:42.657Z",
   "date": "05-03-2026",
-  "count": 6,
+  "count": 7,
   "summary": null,
   "items": [
     {
@@ -23,6 +23,32 @@
       "tags": [
         "reinforcement learning"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.05757",
+      "title": "EmboAlign: Aligning Video Generation with Compositional Constraints for Zero-Shot Manipulation",
+      "url": "https://huggingface.co/papers/2603.05757",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-05T18:31:56.000Z",
+      "abstract": "Video generative models (VGMs) pretrained on large-scale internet data can produce temporally coherent rollout videos that capture rich object dynamics, offering a compelling foundation for zero-shot",
+      "authors": [
+        "Gehao Zhang",
+        "Zhenyang Ni",
+        "Payal Mohapatra",
+        "Han Liu",
+        "Ruohan Zhang"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
