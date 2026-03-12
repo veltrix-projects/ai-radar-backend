@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-12T10:04:22.246Z",
+  "generatedAt": "2026-03-12T11:03:58.420Z",
   "date": "11-03-2026",
-  "count": 89,
+  "count": 87,
   "summary": null,
   "items": [
     {
@@ -31,7 +31,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 126851,
+      "stars": 126856,
       "votes": 0,
       "points": 0
     },
@@ -1337,26 +1337,6 @@
       "points": 0
     },
     {
-      "id": "techcrunch_ai_https%3A%2F%2Ftechcrunch.com%2F2026%2F03",
-      "title": "Amazon expands a program that lets customers shop from other retailers&#8217; sites",
-      "url": "https://techcrunch.com/2026/03/11/amazon-expands-a-program-that-lets-customers-shop-from-other-retailers-sites/",
-      "source": "TechCrunch AI",
-      "sourceIcon": "💚",
-      "type": "news",
-      "timestamp": "2026-03-11T14:48:30.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fpodcast-",
       "title": "Podcast: How to Talk to Your Friend Experiencing 'AI Psychosis'",
       "url": "https://www.404media.co/podcast-how-to-talk-to-your-friend-experiencing-ai-psychosis/",
@@ -1720,55 +1700,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.10848",
-      "title": "V_{0.5}: Generalist Value Model as a Prior for Sparse RL Rollouts",
-      "url": "https://huggingface.co/papers/2603.10848",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-11T10:57:41.000Z",
-      "abstract": "In Reinforcement Learning with Verifiable Rewards (RLVR), constructing a robust advantage baseline is critical for policy gradients, effectively guiding the policy model to reinforce desired behaviors",
-      "authors": [
-        "Yi-Kai Zhang",
-        "Yueqing Sun",
-        "Hongyan Hao",
-        "Qi Gu",
-        "Xunliang Cai"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1rqpmea",
-      "title": "Open sourced LLM ranking 2026",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rqpmea/open_sourced_llm_ranking_2026/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "model",
-      "timestamp": "2026-03-11T10:02:37+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "llm",
-        "open source"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
       "title": "Manulife moves AI agents into core financial workflows",
       "url": "https://www.artificialintelligence-news.com/news/manulife-moves-ai-agents-into-core-financial-workflows/",
@@ -1906,6 +1837,34 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.10702",
+      "title": "UniCom: Unified Multimodal Modeling via Compressed Continuous Semantic Representations",
+      "url": "https://huggingface.co/papers/2603.10702",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-11T08:14:26.000Z",
+      "abstract": "Current unified multimodal models typically rely on discrete visual tokenizers to bridge the modality gap. However, discretization inevitably discards fine-grained semantic information, leading to sub",
+      "authors": [
+        "Yaqi Zhao",
+        "Wang Lin",
+        "Zijian Zhang",
+        "Miles Yang",
+        "Jingyuan Chen"
+      ],
+      "tags": [
+        "multimodal"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
