@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-12T15:50:03.960Z",
+  "generatedAt": "2026-03-12T16:51:24.601Z",
   "date": "02-03-2026",
-  "count": 3,
+  "count": 4,
   "summary": null,
   "items": [
     {
@@ -37,6 +37,32 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.01990",
+      "title": "According to Me: Long-Term Personalized Referential Memory QA",
+      "url": "https://huggingface.co/papers/2603.01990",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-02T10:42:29.000Z",
+      "abstract": "Personalized AI assistants must recall and reason over long-term user memory, which naturally spans multiple modalities and sources such as images, videos, and emails. However, existing Long-term Memo",
+      "authors": [
+        "Jingbiao Mei",
+        "Jinghong Chen",
+        "Guangyu Yang",
+        "Xinyu Hou",
+        "Margaret Li"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
