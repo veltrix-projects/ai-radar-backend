@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T21:34:06.156Z",
+  "generatedAt": "2026-03-13T22:20:36.182Z",
   "date": "10-03-2026",
   "count": 15,
   "summary": null,
@@ -81,34 +81,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.11076",
-      "title": "DIVE: Scaling Diversity in Agentic Task Synthesis for Generalizable Tool Use",
-      "url": "https://huggingface.co/papers/2603.11076",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-10T16:54:23.000Z",
-      "abstract": "Recent work synthesizes agentic tasks for post-training tool-using LLMs, yet robust generalization under shifts in tasks and toolsets remains an open challenge. We trace this brittleness to insufficie",
-      "authors": [
-        "Aili Chen",
-        "Chi Zhang",
-        "Junteng Liu",
-        "Jiangjie Chen",
-        "Chengyu Du"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -215,6 +187,34 @@
       "authors": [],
       "tags": [
         "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.09970",
+      "title": "CREATE: Testing LLMs for Associative Creativity",
+      "url": "https://huggingface.co/papers/2603.09970",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-10T13:58:44.000Z",
+      "abstract": "A key component of creativity is associative reasoning: the ability to draw novel yet meaningful connections between concepts. We introduce CREATE, a benchmark designed to evaluate models' capacity fo",
+      "authors": [
+        "Manya Wadhwa",
+        "Tiasa Singha Roy",
+        "Harvey Lederman",
+        "Junyi Jessy Li",
+        "Greg Durrett"
+      ],
+      "tags": [
+        "llm"
       ],
       "score": 6,
       "priority": "MEDIUM",
