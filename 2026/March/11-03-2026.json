@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-13T12:37:10.693Z",
+  "generatedAt": "2026-03-13T13:54:13.054Z",
   "date": "11-03-2026",
-  "count": 26,
+  "count": 27,
   "summary": null,
   "items": [
     {
@@ -229,6 +229,32 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.11178",
+      "title": "PACED: Distillation at the Frontier of Student Competence",
+      "url": "https://huggingface.co/papers/2603.11178",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-11T14:00:05.000Z",
+      "abstract": "Standard LLM distillation wastes compute on two fronts: problems the student has already mastered (near-zero gradients) and problems far beyond its reach (incoherent gradients that erode existing capa",
+      "authors": [
+        "Yuanda Xu",
+        "Hejian Sang",
+        "Zhengze Zhou",
+        "Ran He",
+        "Zhipeng Wang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-13T12:37:10.692Z",
+  "generatedAt": "2026-03-13T13:54:13.053Z",
   "date": "12-03-2026",
-  "count": 82,
+  "count": 79,
   "summary": null,
   "items": [
     {
@@ -488,6 +488,34 @@
       "tags": [],
       "score": 6,
       "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2603.12255v1",
+      "title": "Spatial-TTT: Streaming Visual-based Spatial Intelligence with Test-Time Training",
+      "url": "https://arxiv.org/abs/2603.12255v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-03-12T17:58:58Z",
+      "abstract": "Humans perceive and understand real-world spaces through a stream of visual observations. Therefore, the ability to streamingly maintain and update spatial evidence from potentially unbounded video st",
+      "authors": [
+        "Fangfu Liu",
+        "Diankun Wu",
+        "Jiawei Chi",
+        "Yimo Cai",
+        "Yi-Hsin Hung"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 4,
+      "priority": "LOW",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -1392,34 +1420,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.12255",
-      "title": "Spatial-TTT: Streaming Visual-based Spatial Intelligence with Test-Time Training",
-      "url": "https://huggingface.co/papers/2603.12255",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-12T13:58:58.000Z",
-      "abstract": "Humans perceive and understand real-world spaces through a stream of visual observations. Therefore, the ability to streamingly maintain and update spatial evidence from potentially unbounded video st",
-      "authors": [
-        "Fangfu Liu",
-        "Diankun Wu",
-        "Jiawei Chi",
-        "Yimo Cai",
-        "Yi-Hsin Hung"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "hf_paper_2603.12250",
       "title": "DVD: Deterministic Video Depth Estimation with Generative Priors",
       "url": "https://huggingface.co/papers/2603.12250",
@@ -1478,32 +1478,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.12201",
-      "title": "IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse",
-      "url": "https://huggingface.co/papers/2603.12201",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-12T13:27:21.000Z",
-      "abstract": "Long-context agentic workflows have emerged as a defining use case for large language models, making attention efficiency critical for both inference speed and serving cost. Sparse attention addresses",
-      "authors": [
-        "Yushi Bai",
-        "Qian Dong",
-        "Ting Jiang",
-        "Xin Lv",
-        "Zhengxiao Du"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -1574,28 +1548,6 @@
       "points": 0
     },
     {
-      "id": "reddit_LocalLLaMA_t3_1rrq0oo",
-      "title": "Update on Qwen 3.5 35B A3B on Raspberry PI 5",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rrq0oo/update_on_qwen_35_35b_a3b_on_raspberry_pi_5/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-12T12:56:24+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "qwen"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "hf_paper_2603.12145",
       "title": "Automatic Generation of High-Performance RL Environments",
       "url": "https://huggingface.co/papers/2603.12145",
@@ -1613,30 +1565,6 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1rrppv1",
-      "title": "96GB (V)RAM agentic coding users, gpt-oss-120b vs qwen3.5 27b/122b",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rrppv1/96gb_vram_agentic_coding_users_gptoss120b_vs/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "model",
-      "timestamp": "2026-03-12T12:42:35+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "gpt",
-        "qwen",
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
