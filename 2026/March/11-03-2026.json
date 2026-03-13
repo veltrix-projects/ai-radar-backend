@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-13T05:09:20.554Z",
+  "generatedAt": "2026-03-13T06:07:29.269Z",
   "date": "11-03-2026",
-  "count": 25,
+  "count": 26,
   "summary": null,
   "items": [
     {
@@ -507,6 +507,35 @@
       "authors": [],
       "tags": [
         "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.10444",
+      "title": "The Curse and Blessing of Mean Bias in FP4-Quantized LLM Training",
+      "url": "https://huggingface.co/papers/2603.10444",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-11T01:59:12.000Z",
+      "abstract": "Large language models trained on natural language exhibit pronounced anisotropy: a small number of directions concentrate disproportionate energy, while the remaining dimensions form a broad semantic",
+      "authors": [
+        "Hengjie Cao",
+        "Zhendong Huang",
+        "Mengyi Chen",
+        "Yifeng Yang",
+        "Fanqi Yu"
+      ],
+      "tags": [
+        "llm",
+        "training"
       ],
       "score": 6,
       "priority": "MEDIUM",
