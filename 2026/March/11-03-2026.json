@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-03-13T01:14:56.461Z",
+  "generatedAt": "2026-03-13T03:40:34.792Z",
   "date": "11-03-2026",
-  "count": 41,
+  "count": 27,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2603.11510",
+      "title": "Tiny Aya: Bridging Scale and Multilingual Depth",
+      "url": "https://huggingface.co/papers/2603.11510",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-11T23:53:13.000Z",
+      "abstract": "Tiny Aya redefines what a small multilingual language model can achieve. Trained on 70 languages and refined through region-aware posttraining, it delivers state-of-the-art in translation quality, str",
+      "authors": [
+        "Alejandro R. Salamanca",
+        "Diana Abagyan",
+        "Daniel D'souza",
+        "Ammar Khairi",
+        "David Mora"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
       "title": "How to Design a Streaming Decision Agent with Partial Reasoning, Online Replanning, and Reactive Mid-Execution Adaptation in Dynamic Environments",
@@ -27,6 +53,30 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.11487",
+      "title": "Attention Sinks Are Provably Necessary in Softmax Transformers: Evidence from Trigger-Conditional Tasks",
+      "url": "https://huggingface.co/papers/2603.11487",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-11T23:13:28.000Z",
+      "abstract": "Transformers often display an attention sink: probability mass concentrates on a fixed, content-agnostic position. We prove that computing a simple trigger-conditional behavior necessarily induces a s",
+      "authors": [
+        "Yuval Ran-Milo"
+      ],
+      "tags": [
+        "transformer"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fai-arti",
       "title": "One of Grammarly’s ‘experts’ is suing the company over its identity-stealing AI feature",
       "url": "https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin",
@@ -39,6 +89,32 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.11421",
+      "title": "ShotVerse: Advancing Cinematic Camera Control for Text-Driven Multi-Shot Video Creation",
+      "url": "https://huggingface.co/papers/2603.11421",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-11T21:27:08.000Z",
+      "abstract": "Text-driven video generation has democratized film creation, but camera control in cinematic multi-shot scenarios remains a significant block. Implicit textual prompts lack precision, while explicit t",
+      "authors": [
+        "Songlin Yang",
+        "Zhe Wang",
+        "Xuyi Yang",
+        "Songchun Zhang",
+        "Xianghao Kong"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -104,338 +180,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2603.11047v1",
-      "title": "LiTo: Surface Light Field Tokenization",
-      "url": "https://arxiv.org/abs/2603.11047v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-03-11T17:59:59Z",
-      "abstract": "We propose a 3D latent representation that jointly models object geometry and view-dependent appearance. Most prior works focus on either reconstructing 3D geometry or predicting view-independent diff",
-      "authors": [
-        "Jen-Hao Rick Chang",
-        "Xiaoming Zhao",
-        "Dorian Chan",
-        "Oncel Tuzel"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2603.11045v1",
-      "title": "Neural Field Thermal Tomography: A Differentiable Physics Framework for Non-Destructive Evaluation",
-      "url": "https://arxiv.org/abs/2603.11045v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-03-11T17:59:42Z",
-      "abstract": "We propose Neural Field Thermal Tomography (NeFTY), a differentiable physics framework for the quantitative 3D reconstruction of material properties from transient surface temperature measurements. Wh",
-      "authors": [
-        "Tao Zhong",
-        "Yixun Hu",
-        "Dongzhe Zheng",
-        "Aditya Sood",
-        "Christine Allen-Blanchette"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2506.11687v2",
-      "title": "Differential Privacy in Machine Learning: A Survey from Symbolic AI to LLMs",
-      "url": "https://arxiv.org/abs/2506.11687v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-03-11T17:59:42Z",
-      "abstract": "Machine learning models should not reveal particular information that is not otherwise accessible. Differential privacy provides a formal framework to mitigate privacy risks by ensuring that the inclu",
-      "authors": [
-        "Francisco Aguilera-Martínez",
-        "Fernando Berzal"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2603.11039v1",
-      "title": "Instruction set for the representation of graphs",
-      "url": "https://arxiv.org/abs/2603.11039v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-03-11T17:57:44Z",
-      "abstract": "We present IsalGraph, a method for representing the structure of any finite, simple graph as a compact string over a nine-character instruction alphabet. The encoding is executed by a small virtual ma",
-      "authors": [
-        "Ezequiel Lopez-Rubio",
-        "Mario Pascual-Gonzalez"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2603.11027v1",
-      "title": "Beyond the Illusion of Consensus: From Surface Heuristics to Knowledge-Grounded Evaluation in LLM-as-a-Judge",
-      "url": "https://arxiv.org/abs/2603.11027v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-03-11T17:50:38Z",
-      "abstract": "The paradigm of LLM-as-a-judge relies on a critical assumption, namely that high inter-evaluator agreement indicates reliable and objective evaluation. We present two complementary findings that chall",
-      "authors": [
-        "Mingyang Song",
-        "Mao Zheng",
-        "Chenning Xu"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2603.11024v1",
-      "title": "Does AI See like Art Historians? Interpreting How Vision Language Models Recognize Artistic Style",
-      "url": "https://arxiv.org/abs/2603.11024v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-03-11T17:49:45Z",
-      "abstract": "VLMs have become increasingly proficient at a range of computer vision tasks, such as visual question answering and object detection. This includes increasingly strong capabilities in the domain of ar",
-      "authors": [
-        "Marvin Limpijankit",
-        "Milad Alshomary",
-        "Yassin Oulad Daoud",
-        "Amith Ananthram",
-        "Tim Trombley"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2603.11021v1",
-      "title": "Leech Lattice Vector Quantization for Efficient LLM Compression",
-      "url": "https://arxiv.org/abs/2603.11021v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-03-11T17:48:45Z",
-      "abstract": "Scalar quantization of large language models (LLMs) is fundamentally limited by information-theoretic bounds. While vector quantization (VQ) overcomes these limits by encoding blocks of parameters joi",
-      "authors": [
-        "Tycho F. A. van der Ouderaa",
-        "Mart van Baalen",
-        "Paul Whatmough",
-        "Markus Nagel"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2602.02895v2",
-      "title": "Moving On, Even When You're Broken: Fail-Active Trajectory Generation via Diffusion Policies Conditioned on Embodiment and Task",
-      "url": "https://arxiv.org/abs/2602.02895v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-03-11T17:38:28Z",
-      "abstract": "Robot failure is detrimental and disruptive, often requiring human intervention to recover. Our vision is 'fail-active' operation, allowing robots to safely complete their tasks even when damaged. Foc",
-      "authors": [
-        "Gilberto G. Briscoe-Martinez",
-        "Yaashia Gautam",
-        "Rahul Shetty",
-        "Anuj Pasricha",
-        "Marco M. Nicotra"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2512.23752v4",
-      "title": "Geometric Scaling of Bayesian Inference in LLMs",
-      "url": "https://arxiv.org/abs/2512.23752v4",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-03-11T17:34:01Z",
-      "abstract": "Recent work has shown that small transformers trained in controlled \"wind-tunnel'' settings can implement exact Bayesian inference, and that their training dynamics produce a geometric substrate -- lo",
-      "authors": [
-        "Naman Agarwal",
-        "Siddhartha R. Dalal",
-        "Vishal Misra"
-      ],
-      "tags": [
-        "llm",
-        "inference"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2603.11008v1",
-      "title": "A Systematic Study of Pseudo-Relevance Feedback with LLMs",
-      "url": "https://arxiv.org/abs/2603.11008v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-03-11T17:31:50Z",
-      "abstract": "Pseudo-relevance feedback (PRF) methods built on large language models (LLMs) can be organized along two key design dimensions: the feedback source, which is where the feedback text is derived from an",
-      "authors": [
-        "Nour Jedidi",
-        "Jimmy Lin"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2603.09172v2",
-      "title": "Reinforced Generation of Combinatorial Structures: Ramsey Numbers",
-      "url": "https://arxiv.org/abs/2603.09172v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-03-11T17:30:52Z",
-      "abstract": "We present improved lower bounds for five classical Ramsey numbers: $\\mathbf{R}(3, 13)$ is increased from $60$ to $61$, $\\mathbf{R}(3, 18)$ from $99$ to $100$, $\\mathbf{R}(4, 13)$ from $138$ to $139$,",
-      "authors": [
-        "Ansh Nagda",
-        "Prabhakar Raghavan",
-        "Abhradeep Thakurta"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2512.22473v4",
-      "title": "Gradient Dynamics of Attention: How Cross-Entropy Sculpts Bayesian Manifolds",
-      "url": "https://arxiv.org/abs/2512.22473v4",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-03-11T17:25:35Z",
-      "abstract": "Transformers empirically perform precise probabilistic reasoning in carefully constructed ``Bayesian wind tunnels'' and in large-scale language models, yet the mechanisms by which gradient-based learn",
-      "authors": [
-        "Naman Agarwal",
-        "Siddhartha R. Dalal",
-        "Vishal Misra"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2603.11001v1",
-      "title": "RCTs &amp; Human Uplift Studies: Methodological Challenges and Practical Solutions for Frontier AI Evaluation",
-      "url": "https://arxiv.org/abs/2603.11001v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-03-11T17:25:03Z",
-      "abstract": "Human uplift studies - or studies that measure AI effects on human performance relative to a status quo, typically using randomized controlled trial (RCT) methodology - are increasingly used to inform",
-      "authors": [
-        "Patricia Paskov",
-        "Kevin Wei",
-        "Shen Zhou Hong",
-        "Dan Bateyko",
-        "Xavier Roberts-Gaal"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -569,59 +313,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.11048",
-      "title": "COMIC: Agentic Sketch Comedy Generation",
-      "url": "https://huggingface.co/papers/2603.11048",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-11T13:59:59.000Z",
-      "abstract": "We propose a fully automated AI system that produces short comedic videos similar to sketch shows such as Saturday Night Live. Starting with character references, the system employs a population of ag",
-      "authors": [
-        "Susung Hong",
-        "Brian Curless",
-        "Ira Kemelmacher-Shlizerman",
-        "Steve Seitz"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.11042",
-      "title": "V2M-Zero: Zero-Pair Time-Aligned Video-to-Music Generation",
-      "url": "https://huggingface.co/papers/2603.11042",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-11T13:59:40.000Z",
-      "abstract": "Generating music that temporally aligns with video events is challenging for existing text-to-music models, which lack fine-grained temporal control. We introduce V2M-Zero, a zero-pair video-to-music",
-      "authors": [
-        "Yan-Bo Lin",
-        "Jonah Casebeer",
-        "Long Mai",
-        "Aniruddha Mahapatra",
-        "Gedas Bertasius"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Frakut",
       "title": "Rakuten fixes issues twice as fast with Codex",
       "url": "https://openai.com/index/rakuten",
@@ -654,35 +345,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.10913",
-      "title": "LLM2Vec-Gen: Generative Embeddings from Large Language Models",
-      "url": "https://huggingface.co/papers/2603.10913",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-11T11:58:47.000Z",
-      "abstract": "LLM-based text embedders typically encode the semantic content of their input. However, embedding tasks require mapping diverse inputs to similar outputs. Typically, this input-output is addressed by",
-      "authors": [
-        "Parishad BehnamGhader",
-        "Vaibhav Adlakha",
-        "Fabian David Schmidt",
-        "Nicolas Chapados",
-        "Marius Mosbach"
-      ],
-      "tags": [
-        "llm",
-        "embeddings"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -817,88 +479,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.10757",
-      "title": "CodePercept: Code-Grounded Visual STEM Perception for MLLMs",
-      "url": "https://huggingface.co/papers/2603.10757",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-11T09:32:58.000Z",
-      "abstract": "When MLLMs fail at Science, Technology, Engineering, and Mathematics (STEM) visual reasoning, a fundamental question arises: is it due to perceptual deficiencies or reasoning limitations? Through syst",
-      "authors": [
-        "Tongkun Guan",
-        "Zhibo Yang",
-        "Jianqiang Wan",
-        "Mingkun Yang",
-        "Zhengtao Guo"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.10705",
-      "title": "Prism-Δ: Differential Subspace Steering for Prompt Highlighting in Large Language Models",
-      "url": "https://huggingface.co/papers/2603.10705",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-11T08:24:45.000Z",
-      "abstract": "Prompt highlighting steers a large language model to prioritize user-specified text spans during generation. A key challenge is extracting steering directions that capture the difference between relev",
-      "authors": [
-        "Yuyao Ge",
-        "Shenghua Liu",
-        "Yiwei Wang",
-        "Tianyu Liu",
-        "Baolong Bi"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.10702",
-      "title": "UniCom: Unified Multimodal Modeling via Compressed Continuous Semantic Representations",
-      "url": "https://huggingface.co/papers/2603.10702",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-11T08:14:26.000Z",
-      "abstract": "Current unified multimodal models typically rely on discrete visual tokenizers to bridge the modality gap. However, discretization inevitably discards fine-grained semantic information, leading to sub",
-      "authors": [
-        "Yaqi Zhao",
-        "Wang Lin",
-        "Zijian Zhang",
-        "Miles Yang",
-        "Jingyuan Chen"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
       "title": "Google AI Introduces Gemini Embedding 2: A Multimodal Embedding Model that Lets Your Bring Text, Images, Video, Audio, and Docs into the Embedding Space",
       "url": "https://www.marktechpost.com/2026/03/11/google-ai-introduces-gemini-embedding-2-a-multimodal-embedding-model-that-lets-your-bring-text-images-video-audio-and-docs-into-the-embedding-space/",
@@ -915,6 +495,59 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.10652",
+      "title": "Are Video Reasoning Models Ready to Go Outside?",
+      "url": "https://huggingface.co/papers/2603.10652",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-11T07:10:52.000Z",
+      "abstract": "In real-world deployment, vision-language models often encounter disturbances such as weather, occlusion, and camera motion. Under such conditions, their understanding and reasoning degrade substantia",
+      "authors": [
+        "Yangfan He",
+        "Changgyu Boo",
+        "Jaehong Yoon"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.11103",
+      "title": "Understanding by Reconstruction: Reversing the Software Development Process for LLM Pretraining",
+      "url": "https://huggingface.co/papers/2603.11103",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-11T05:23:20.000Z",
+      "abstract": "While Large Language Models (LLMs) have achieved remarkable success in code generation, they often struggle with the deep, long-horizon reasoning required for complex software engineering. We attribut",
+      "authors": [
+        "Zhiyuan Zeng",
+        "Yichi Zhang",
+        "Yong Shan",
+        "Kai Hua",
+        "Siyuan Fang"
+      ],
+      "tags": [
+        "llm",
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

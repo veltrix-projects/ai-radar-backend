@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-03-13T01:14:56.463Z",
+  "generatedAt": "2026-03-13T03:40:34.792Z",
   "date": "10-03-2026",
-  "count": 23,
+  "count": 19,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2603.10377",
-      "title": "Causal Concept Graphs in LLM Latent Space for Stepwise Reasoning",
-      "url": "https://huggingface.co/papers/2603.10377",
+      "id": "hf_paper_2603.10365",
+      "title": "Geometric Autoencoder for Diffusion Models",
+      "url": "https://huggingface.co/papers/2603.10365",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-03-10T23:46:38.000Z",
-      "abstract": "Sparse autoencoders can localize where concepts live in language models, but not how they interact during multi-step reasoning. We propose Causal Concept Graphs (CCG): a directed acyclic graph over sp",
+      "timestamp": "2026-03-10T23:29:16.000Z",
+      "abstract": "Latent diffusion models have established a new state-of-the-art in high-resolution visual generation. Integrating Vision Foundation Model priors improves generative efficiency, yet existing latent des",
       "authors": [
-        "Md Muntaqim Meherab",
-        "Noor Islam S. Mohammad",
-        "Faiza Feroz"
+        "Hangyu Liu",
+        "Jianyong Wang",
+        "Yutao Sun"
       ],
       "tags": [
-        "llm"
+        "diffusion"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -202,47 +202,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.10160",
-      "title": "ReMix: Reinforcement routing for mixtures of LoRAs in LLM finetuning",
-      "url": "https://huggingface.co/papers/2603.10160",
+      "id": "hf_paper_2603.10178",
+      "title": "Video-Based Reward Modeling for Computer-Use Agents",
+      "url": "https://huggingface.co/papers/2603.10178",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-03-10T14:51:27.000Z",
-      "abstract": "Low-rank adapters (LoRAs) are a parameter-efficient finetuning technique that injects trainable low-rank matrices into pretrained models to adapt them to new tasks. Mixture-of-LoRAs models expand neur",
+      "timestamp": "2026-03-10T15:17:22.000Z",
+      "abstract": "Computer-using agents (CUAs) are becoming increasingly capable; however, it remains difficult to scale evaluation of whether a trajectory truly fulfills a user instruction. In this work, we study rewa",
       "authors": [
-        "Ruizhong Qiu",
-        "Hanqing Zeng",
-        "Yinglong Xia",
-        "Yiwen Meng",
-        "Ren Chen"
+        "Linxin Song",
+        "Jieyu Zhang",
+        "Huanxin Sheng",
+        "Taiwei Shi",
+        "Gupta Rahul"
       ],
       "tags": [
-        "llm"
+        "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.10145",
-      "title": "Lost in Backpropagation: The LM Head is a Gradient Bottleneck",
-      "url": "https://huggingface.co/papers/2603.10145",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-10T14:27:01.000Z",
-      "abstract": "The last layer of neural language models (LMs) projects output features of dimension D to logits in dimension V, the size of the vocabulary, where usually D ll V. This mismatch is known to raise risks",
-      "authors": [
-        "Nathan Godey",
-        "Yoav Artzi"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -324,34 +301,6 @@
       "timestamp": "2026-03-10T12:55:37.000Z",
       "abstract": "In finance, achieving operational automation by integrating agentic AI requires a data-centric foundation to drive real value. Financial infrastructure provider SEI has engaged IBM to modernise its in",
       "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.09827",
-      "title": "MA-EgoQA: Question Answering over Egocentric Videos from Multiple Embodied Agents",
-      "url": "https://huggingface.co/papers/2603.09827",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-10T11:48:35.000Z",
-      "abstract": "As embodied models become powerful, humans will collaborate with multiple embodied AI agents at their workplace or home in the future. To ensure better communication between human users and the multi-",
-      "authors": [
-        "Kangsan Kim",
-        "Yanlai Yang",
-        "Suji Kim",
-        "Woongyeong Yeo",
-        "Youngwan Lee"
-      ],
       "tags": [
         "agent"
       ],
@@ -453,34 +402,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.09482",
-      "title": "StyleVLA: Driving Style-Aware Vision Language Action Model for Autonomous Driving",
-      "url": "https://huggingface.co/papers/2603.09482",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-10T06:33:58.000Z",
-      "abstract": "Vision Language Models (VLMs) bridge visual perception and linguistic reasoning. In Autonomous Driving (AD), this synergy has enabled Vision Language Action (VLA) models, which translate high-level mu",
-      "authors": [
-        "Yuan Gao",
-        "Dengyuan Hua",
-        "Mattia Piccinini",
-        "Finn Rasmus Schäfer",
-        "Korbinian Moller"
-      ],
-      "tags": [
-        "autonomous"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
       "title": "ByteDance Releases DeerFlow 2.0: An Open-Source SuperAgent Harness that Orchestrates Sub-Agents, Memory, and Sandboxes to do Complex Tasks",
       "url": "https://www.marktechpost.com/2026/03/09/bytedance-releases-deerflow-2-0-an-open-source-superagent-harness-that-orchestrates-sub-agents-memory-and-sandboxes-to-do-complex-tasks/",
@@ -494,32 +415,6 @@
         "rag",
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.09229",
-      "title": "Flash-KMeans: Fast and Memory-Efficient Exact K-Means",
-      "url": "https://huggingface.co/papers/2603.09229",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-10T01:54:52.000Z",
-      "abstract": "k-means has historically been positioned primarily as an offline processing primitive, typically used for dataset organization or embedding preprocessing rather than as a first-class component in onli",
-      "authors": [
-        "Shuo Yang",
-        "Haocheng Xi",
-        "Yilong Zhao",
-        "Muyang Li",
-        "Xiaoze Fan"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
