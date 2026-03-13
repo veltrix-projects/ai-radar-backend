@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-13T17:07:03.341Z",
+  "generatedAt": "2026-03-13T17:56:49.860Z",
   "date": "11-03-2026",
-  "count": 27,
+  "count": 28,
   "summary": null,
   "items": [
     {
@@ -104,6 +104,35 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.11327",
+      "title": "Meta-Reinforcement Learning with Self-Reflection for Agentic Search",
+      "url": "https://huggingface.co/papers/2603.11327",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-11T17:40:26.000Z",
+      "abstract": "This paper introduces MR-Search, an in-context meta reinforcement learning (RL) formulation for agentic search with self-reflection. Instead of optimizing a policy within a single independent episode",
+      "authors": [
+        "Teng Xiao",
+        "Yige Yuan",
+        "Hamish Ivison",
+        "Huaisheng Zhu",
+        "Faeze Brahman"
+      ],
+      "tags": [
+        "agent",
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
