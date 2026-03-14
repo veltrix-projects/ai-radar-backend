@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-14T20:18:08.550Z",
+  "generatedAt": "2026-03-14T20:50:14.568Z",
   "date": "13-03-2026",
   "count": 29,
   "summary": null,
@@ -17,6 +17,28 @@
       "tags": [
         "agent",
         "autonomous"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "reddit_LocalLLaMA_t3_1rt2eaf",
+      "title": "Besides Qwen and GLM, what models are you using?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rt2eaf/besides_qwen_and_glm_what_models_are_you_using/",
+      "source": "Reddit r/LocalLLaMA",
+      "sourceIcon": "🔴",
+      "type": "news",
+      "timestamp": "2026-03-13T22:49:37+00:00",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "qwen"
       ],
       "score": 8,
       "priority": "HIGH",
@@ -187,28 +209,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1rsyo23",
-      "title": "Ik_llama vs llamacpp",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rsyo23/ik_llama_vs_llamacpp/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-13T20:25:27+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "llama"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -605,7 +605,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 102089,
+      "stars": 102095,
       "votes": 0,
       "points": 0
     }
