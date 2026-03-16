@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-16T07:52:32.186Z",
+  "generatedAt": "2026-03-16T08:45:21.412Z",
   "date": "12-03-2026",
   "count": 28,
   "summary": null,
@@ -427,29 +427,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.12228",
-      "title": "Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights",
-      "url": "https://huggingface.co/papers/2603.12228",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-12T13:49:30.000Z",
-      "abstract": "Pretraining produces a learned parameter vector that is typically treated as a starting point for further iterative adaptation. In this work, we instead view the outcome of pretraining as a distributi",
-      "authors": [
-        "Yulu Gan",
-        "Phillip Isola"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Fp",
       "title": "Protecting cities with AI-driven flash flood forecasting",
       "url": "https://research.google/blog/protecting-cities-with-ai-driven-flash-flood-forecasting/",
@@ -567,6 +544,34 @@
       "authors": [],
       "tags": [
         "gemini"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.11975",
+      "title": "HomeSafe-Bench: Evaluating Vision-Language Models on Unsafe Action Detection for Embodied Agents in Household Scenarios",
+      "url": "https://huggingface.co/papers/2603.11975",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-12T10:25:44.000Z",
+      "abstract": "The rapid evolution of embodied agents has accelerated the deployment of household robots in real-world environments. However, unlike structured industrial settings, household spaces introduce unpredi",
+      "authors": [
+        "Jiayue Pu",
+        "Zhongxiang Sun",
+        "Zilu Zhang",
+        "Xiao Zhang",
+        "Jun Xu"
+      ],
+      "tags": [
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
