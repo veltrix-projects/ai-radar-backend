@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-16T16:54:18.171Z",
+  "generatedAt": "2026-03-16T17:54:27.483Z",
   "date": "12-03-2026",
   "count": 28,
   "summary": null,
@@ -433,26 +433,6 @@
       "points": 0
     },
     {
-      "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fstreami",
-      "title": "Bespoke AI models are the next big thing in filmmaking",
-      "url": "https://www.theverge.com/streaming/893538/ai-model-netflix-interpositive-ben-affleck",
-      "source": "The Verge AI",
-      "sourceIcon": "🔺",
-      "type": "news",
-      "timestamp": "2026-03-12T13:56:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Fp",
       "title": "Protecting cities with AI-driven flash flood forecasting",
       "url": "https://research.google/blog/protecting-cities-with-ai-driven-flash-flood-forecasting/",
@@ -613,6 +593,28 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.11749",
+      "title": "Compression Favors Consistency, Not Truth: When and Why Language Models Prefer Correct Information",
+      "url": "https://huggingface.co/papers/2603.11749",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-12T05:52:38.000Z",
+      "abstract": "Why do language models sometimes prefer correct statements even when trained on mixed-quality data? We introduce the Compression--Consistency Principle: next-token prediction favors hypotheses that al",
+      "authors": [
+        "Konstantin Krestnikov"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
