@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-16T12:50:32.839Z",
+  "generatedAt": "2026-03-16T14:16:02.432Z",
   "date": "13-03-2026",
   "count": 47,
   "summary": null,
@@ -293,26 +293,6 @@
       "points": 0
     },
     {
-      "id": "ars_technica_https%3A%2F%2Farstechnica.com%2Fgadgets%",
-      "title": "Adobe settles DOJ cancellation fee lawsuit, will pay $75 million penalty",
-      "url": "https://arstechnica.com/gadgets/2026/03/adobe-settles-doj-cancellation-fee-lawsuit-will-pay-75-million-penalty/",
-      "source": "Ars Technica",
-      "sourceIcon": "🔶",
-      "type": "news",
-      "timestamp": "2026-03-13T18:47:08.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "arxiv_2603.13228v1",
       "title": "PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization",
       "url": "https://arxiv.org/abs/2603.13228v1",
@@ -353,6 +333,32 @@
         "Michael McCabe",
         "Alberto Bietti",
         "François Lanusse"
+      ],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2603.13224v1",
+      "title": "Visual-ERM: Reward Modeling for Visual Equivalence",
+      "url": "https://arxiv.org/abs/2603.13224v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-03-13T17:58:14Z",
+      "abstract": "Vision-to-code tasks require models to reconstruct structured visual inputs, such as charts, tables, and SVGs, into executable or structured representations with high visual fidelity. While recent Lar",
+      "authors": [
+        "Ziyu Liu",
+        "Shengyuan Ding",
+        "Xinyu Fang",
+        "Xuanlang Dai",
+        "Penghui Yang"
       ],
       "tags": [],
       "score": 4,
@@ -770,32 +776,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.13224",
-      "title": "Visual-ERM: Reward Modeling for Visual Equivalence",
-      "url": "https://huggingface.co/papers/2603.13224",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-13T13:58:14.000Z",
-      "abstract": "Vision-to-code tasks require models to reconstruct structured visual inputs, such as charts, tables, and SVGs, into executable or structured representations with high visual fidelity. While recent Lar",
-      "authors": [
-        "Ziyu Liu",
-        "Shengyuan Ding",
-        "Xinyu Fang",
-        "Xuanlang Dai",
-        "Penghui Yang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fpeople-h",
       "title": "People Hate Datacenters, Survey Finds",
       "url": "https://www.404media.co/people-hate-datacenters-survey-finds/",
@@ -957,6 +937,30 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.12935",
+      "title": "Can Fairness Be Prompted? Prompt-Based Debiasing Strategies in High-Stakes Recommendations",
+      "url": "https://huggingface.co/papers/2603.12935",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-13T08:30:42.000Z",
+      "abstract": "Large Language Models (LLMs) can infer sensitive attributes such as gender or age from indirect cues like names and pronouns, potentially biasing recommendations. While several debiasing methods exist",
+      "authors": [
+        "Mihaela Rotar",
+        "Theresia Veronika Rampisela",
+        "Maria Maistro"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2603.12916",
       "title": "Surprised by Attention: Predictable Query Dynamics for Time Series Anomaly Detection",
       "url": "https://huggingface.co/papers/2603.12916",
@@ -1074,7 +1078,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 102323,
+      "stars": 102332,
       "votes": 0,
       "points": 0
     }
