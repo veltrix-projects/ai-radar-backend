@@ -1,31 +1,9 @@
 {
-  "generatedAt": "2026-03-16T04:17:01.023Z",
+  "generatedAt": "2026-03-16T06:02:10.498Z",
   "date": "12-03-2026",
-  "count": 29,
+  "count": 28,
   "summary": null,
   "items": [
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "How to Build an Autonomous Machine Learning Research Loop in Google Colab Using Andrej Karpathy’s AutoResearch Framework for Hyperparameter Discovery and Experiment Tracking",
-      "url": "https://www.marktechpost.com/2026/03/12/how-to-build-an-autonomous-machine-learning-research-loop-in-google-colab-using-andrej-karpathys-autoresearch-framework-for-hyperparameter-discovery-and-experiment-tracking/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-03-12T22:46:41.000Z",
-      "abstract": "In this tutorial, we implement a Colab-ready version of the AutoResearch framework originally proposed by Andrej Karpathy. We build an automated experimentation pipeline that clones the AutoResearch r",
-      "authors": [],
-      "tags": [
-        "autonomous"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
       "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
@@ -620,24 +598,22 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.11653",
-      "title": "Simple Recipe Works: Vision-Language-Action Models are Natural Continual Learners with Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2603.11653",
+      "id": "hf_paper_2603.11647",
+      "title": "OmniForcing: Unleashing Real-time Joint Audio-Visual Generation",
+      "url": "https://huggingface.co/papers/2603.11647",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-03-12T04:22:39.000Z",
-      "abstract": "Continual Reinforcement Learning (CRL) for Vision-Language-Action (VLA) models is a promising direction toward self-improving embodied agents that can adapt in openended, evolving environments. Howeve",
+      "timestamp": "2026-03-12T04:17:36.000Z",
+      "abstract": "Recent joint audio-visual diffusion models achieve remarkable generation quality but suffer from high latency due to their bidirectional attention dependencies, hindering real-time applications. We pr",
       "authors": [
-        "Jiaheng Hu",
-        "Jay Shim",
-        "Chen Tang",
-        "Yoonchang Sung",
-        "Bo Liu"
+        "Yaofeng Su",
+        "Yuming Li",
+        "Zeyue Xue",
+        "Jie Huang",
+        "Siming Fu"
       ],
-      "tags": [
-        "reinforcement learning"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

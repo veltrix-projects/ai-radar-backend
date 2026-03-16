@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-16T04:17:01.022Z",
+  "generatedAt": "2026-03-16T06:02:10.497Z",
   "date": "13-03-2026",
-  "count": 47,
+  "count": 50,
   "summary": null,
   "items": [
     {
@@ -836,6 +836,84 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.13131",
+      "title": "Steve-Evolving: Open-World Embodied Self-Evolution via Fine-Grained Diagnosis and Dual-Track Knowledge Distillation",
+      "url": "https://huggingface.co/papers/2603.13131",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-13T12:23:34.000Z",
+      "abstract": "Open-world embodied agents must solve long-horizon tasks where the main bottleneck is not single-step planning quality but how interaction experience is organized and evolved. To this end, we present",
+      "authors": [
+        "Zhengwei Xie",
+        "Zhisheng Chen",
+        "Ziyan Weng",
+        "Tingyu Wu",
+        "Chenglong Li"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.13089",
+      "title": "V-Bridge: Bridging Video Generative Priors to Versatile Few-shot Image Restoration",
+      "url": "https://huggingface.co/papers/2603.13089",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-13T11:39:44.000Z",
+      "abstract": "Large-scale video generative models are trained on vast and diverse visual data, enabling them to internalize rich structural, semantic, and dynamic priors of the visual world. While these models have",
+      "authors": [
+        "Shenghe Zheng",
+        "Junpeng Jiang",
+        "Wenbo Li"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.13032",
+      "title": "Multimodal OCR: Parse Anything from Documents",
+      "url": "https://huggingface.co/papers/2603.13032",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-13T10:42:21.000Z",
+      "abstract": "We present Multimodal OCR (MOCR), a document parsing paradigm that jointly parses text and graphics into unified textual representations. Unlike conventional OCR systems that focus on text recognition",
+      "authors": [
+        "Handong Zheng",
+        "Yumeng Li",
+        "Kaile Zhang",
+        "Liang Xin",
+        "Guangwei Zhao"
+      ],
+      "tags": [
+        "multimodal"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2603.13023",
       "title": "daVinci-Env: Open SWE Environment Synthesis at Scale",
       "url": "https://huggingface.co/papers/2603.13023",
@@ -1016,7 +1094,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 102262,
+      "stars": 102272,
       "votes": 0,
       "points": 0
     },
