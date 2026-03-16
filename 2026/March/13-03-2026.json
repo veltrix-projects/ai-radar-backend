@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-16T11:40:22.390Z",
+  "generatedAt": "2026-03-16T12:50:32.839Z",
   "date": "13-03-2026",
-  "count": 48,
+  "count": 47,
   "summary": null,
   "items": [
     {
@@ -300,26 +300,6 @@
       "sourceIcon": "🔶",
       "type": "news",
       "timestamp": "2026-03-13T18:47:08.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ars_technica_https%3A%2F%2Farstechnica.com%2Fcars%2F2",
-      "title": "Doubling the voltage: What 800 V architecture really changes in EVs",
-      "url": "https://arstechnica.com/cars/2026/03/doubling-the-voltage-what-800-v-architecture-really-changes-in-evs/",
-      "source": "Ars Technica",
-      "sourceIcon": "🔶",
-      "type": "news",
-      "timestamp": "2026-03-13T18:30:17.000Z",
       "abstract": "",
       "authors": [],
       "tags": [],
@@ -977,6 +957,30 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.12916",
+      "title": "Surprised by Attention: Predictable Query Dynamics for Time Series Anomaly Detection",
+      "url": "https://huggingface.co/papers/2603.12916",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-13T07:40:51.000Z",
+      "abstract": "Multivariate time series anomalies often manifest as shifts in cross-channel dependencies rather than simple amplitude excursions. In autonomous driving, for instance, a steering command might be inte",
+      "authors": [
+        "Kadir-Kaan Özer",
+        "René Ebeling",
+        "Markus Enzweiler"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2603.12824",
       "title": "NanoVDR: Distilling a 2B Vision-Language Retriever into a 70M Text-Only Encoder for Visual Document Retrieval",
       "url": "https://huggingface.co/papers/2603.12824",
@@ -1070,35 +1074,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 102313,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.12634",
-      "title": "Spend Less, Reason Better: Budget-Aware Value Tree Search for LLM Agents",
-      "url": "https://huggingface.co/papers/2603.12634",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-13T00:10:27.000Z",
-      "abstract": "Test-time scaling has become a dominant paradigm for improving LLM agent reliability, yet current approaches treat compute as an abundant resource, allowing agents to exhaust token and tool budgets on",
-      "authors": [
-        "Yushu Li",
-        "Wenlong Deng",
-        "Jiajin Li",
-        "Xiaoxiao Li"
-      ],
-      "tags": [
-        "llm",
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
+      "stars": 102323,
       "votes": 0,
       "points": 0
     }
