@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-16T01:25:20.771Z",
+  "generatedAt": "2026-03-16T04:17:01.024Z",
   "date": "11-03-2026",
-  "count": 20,
+  "count": 19,
   "summary": null,
   "items": [
     {
@@ -208,32 +208,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.11045",
-      "title": "Neural Field Thermal Tomography: A Differentiable Physics Framework for Non-Destructive Evaluation",
-      "url": "https://huggingface.co/papers/2603.11045",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-11T13:59:42.000Z",
-      "abstract": "We propose Neural Field Thermal Tomography (NeFTY), a differentiable physics framework for the quantitative 3D reconstruction of material properties from transient surface temperature measurements. Wh",
-      "authors": [
-        "Tao Zhong",
-        "Yixun Hu",
-        "Dongzhe Zheng",
-        "Aditya Sood",
-        "Christine Allen-Blanchette"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Frakut",
       "title": "Rakuten fixes issues twice as fast with Codex",
       "url": "https://openai.com/index/rakuten",
@@ -266,6 +240,32 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.10899",
+      "title": "LookaheadKV: Fast and Accurate KV Cache Eviction by Glimpsing into the Future without Generation",
+      "url": "https://huggingface.co/papers/2603.10899",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-11T11:44:32.000Z",
+      "abstract": "Transformer-based large language models (LLMs) rely on key-value (KV) caching to avoid redundant computation during autoregressive inference. While this mechanism greatly improves efficiency, the cach",
+      "authors": [
+        "Jinwoo Ahn",
+        "Ingyu Seong",
+        "Akhil Kedia",
+        "Junhan Kim",
+        "Hyemi Jang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -413,35 +413,6 @@
         "Nikos Nikolaidis"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.10444",
-      "title": "The Curse and Blessing of Mean Bias in FP4-Quantized LLM Training",
-      "url": "https://huggingface.co/papers/2603.10444",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-11T01:59:12.000Z",
-      "abstract": "Large language models trained on natural language exhibit pronounced anisotropy: a small number of directions concentrate disproportionate energy, while the remaining dimensions form a broad semantic",
-      "authors": [
-        "Hengjie Cao",
-        "Zhendong Huang",
-        "Mengyi Chen",
-        "Yifeng Yang",
-        "Fanqi Yu"
-      ],
-      "tags": [
-        "llm",
-        "training"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
