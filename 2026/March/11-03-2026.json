@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-16T19:48:30.923Z",
+  "generatedAt": "2026-03-16T20:29:07.915Z",
   "date": "11-03-2026",
-  "count": 14,
+  "count": 15,
   "summary": null,
   "items": [
     {
@@ -298,6 +298,31 @@
       "tags": [
         "agent"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.10781",
+      "title": "Taking Shortcuts for Categorical VQA Using Super Neurons",
+      "url": "https://huggingface.co/papers/2603.10781",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-11T09:54:45.000Z",
+      "abstract": "Sparse Attention Vectors (SAVs) have emerged as an excellent training-free alternative to supervised finetuning or low-rank adaptation to improve the performance of Vision Language Models (VLMs). At t",
+      "authors": [
+        "Pierre Musacchio",
+        "Jaeyi Jeong",
+        "Dahun Kim",
+        "Jaesik Park"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
