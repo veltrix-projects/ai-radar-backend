@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-17T08:40:44.624Z",
+  "generatedAt": "2026-03-17T09:45:47.568Z",
   "date": "16-03-2026",
   "count": 98,
   "summary": null,
@@ -244,26 +244,6 @@
       "tags": [
         "mistral"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1rvmfdd",
-      "title": "NVIDIA admits to only 2x performance boost at max throughput with new generation of Rubin GPUs",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rvmfdd/nvidia_admits_to_only_2x_performance_boost_at_max/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-16T21:12:06+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
@@ -784,7 +764,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 127501,
+      "stars": 127504,
       "votes": 0,
       "points": 0
     },
@@ -1451,6 +1431,28 @@
       "points": 0
     },
     {
+      "id": "reddit_LocalLLaMA_t3_1rvcwzx",
+      "title": "Qwen3.5-27b 8 bit vs 16 bit",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rvcwzx/qwen3527b_8_bit_vs_16_bit/",
+      "source": "Reddit r/LocalLLaMA",
+      "sourceIcon": "🔴",
+      "type": "news",
+      "timestamp": "2026-03-16T15:39:59+00:00",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "qwen"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fpodcast",
       "title": "Yahoo CEO Jim Lanzone on reviving the web&#8217;s homepage",
       "url": "https://www.theverge.com/podcast/895221/yahoo-jim-lanzone-scout-ai-sports-finance-open-web",
@@ -1694,32 +1696,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.15558",
-      "title": "Panoramic Affordance Prediction",
-      "url": "https://huggingface.co/papers/2603.15558",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-16T13:21:49.000Z",
-      "abstract": "Affordance prediction serves as a critical bridge between perception and action in embodied AI. However, existing research is confined to pinhole camera models, which suffer from narrow Fields of View",
-      "authors": [
-        "Zixin Zhang",
-        "Chenfei Liao",
-        "Hongfei Zhang",
-        "Harold Haodong Chen",
-        "Kanghao Chen"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "reddit_LocalLLaMA_t3_1rv98wo",
       "title": "Qwen3.5-9B on document benchmarks: where it beats frontier models and where it doesn't.",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rv98wo/qwen359b_on_document_benchmarks_where_it_beats/",
@@ -1736,6 +1712,32 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.15555",
+      "title": "Learning Latent Proxies for Controllable Single-Image Relighting",
+      "url": "https://huggingface.co/papers/2603.15555",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-16T13:16:59.000Z",
+      "abstract": "Single-image relighting is highly under-constrained: small illumination changes can produce large, nonlinear variations in shading, shadows, and specularities, while geometry and materials remain unob",
+      "authors": [
+        "Haoze Zheng",
+        "Zihao Wang",
+        "Xianfeng Wu",
+        "Yajing Bai",
+        "Yexin Liu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -1802,35 +1804,6 @@
       ],
       "tags": [
         "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.15478",
-      "title": "ViFeEdit: A Video-Free Tuner of Your Video Diffusion Transformer",
-      "url": "https://huggingface.co/papers/2603.15478",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-16T12:10:46.000Z",
-      "abstract": "Diffusion Transformers (DiTs) have demonstrated remarkable scalability and quality in image and video generation, prompting growing interest in extending them to controllable generation and editing ta",
-      "authors": [
-        "Ruonan Yu",
-        "Zhenxiong Tan",
-        "Zigeng Chen",
-        "Songhua Liu",
-        "Xinchao Wang"
-      ],
-      "tags": [
-        "transformer",
-        "diffusion"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -2008,15 +1981,21 @@
       "points": 0
     },
     {
-      "id": "reddit_MachineLearning_t3_1rv45pi",
-      "title": "[D] how to parallelize optimal parameter search for DL NNs on multiple datasets?",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1rv45pi/d_how_to_parallelize_optimal_parameter_search_for/",
-      "source": "Reddit r/MachineLearning",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-16T08:49:36+00:00",
-      "abstract": "",
-      "authors": [],
+      "id": "hf_paper_2603.15206",
+      "title": "Efficient Document Parsing via Parallel Token Prediction",
+      "url": "https://huggingface.co/papers/2603.15206",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-16T08:45:34.000Z",
+      "abstract": "Document parsing, as a fundamental yet crucial vision task, is being revolutionized by vision-language models (VLMs). However, the autoregressive (AR) decoding inherent to VLMs creates a significant b",
+      "authors": [
+        "Lei Li",
+        "Ze Zhao",
+        "Meng Li",
+        "Zhongwang Lun",
+        "Yi Yuan"
+      ],
       "tags": [],
       "score": 6,
       "priority": "MEDIUM",
@@ -2120,6 +2099,30 @@
       "tags": [
         "training"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.15016",
+      "title": "Riemannian Motion Generation: A Unified Framework for Human Motion Representation and Generation via Riemannian Flow Matching",
+      "url": "https://huggingface.co/papers/2603.15016",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-16T05:19:10.000Z",
+      "abstract": "Human motion generation is often learned in Euclidean spaces, although valid motions follow structured non-Euclidean geometry. We present Riemannian Motion Generation (RMG), a unified framework that r",
+      "authors": [
+        "Fangran Miao",
+        "Jian Huang",
+        "Ting Li"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
