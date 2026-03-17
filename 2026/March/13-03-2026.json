@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-17T09:45:47.571Z",
+  "generatedAt": "2026-03-17T10:41:12.877Z",
   "date": "13-03-2026",
-  "count": 15,
+  "count": 16,
   "summary": null,
   "items": [
     {
@@ -120,6 +120,34 @@
       ],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.13594",
+      "title": "EnterpriseOps-Gym: Environments and Evaluations for Stateful Agentic Planning and Tool Use in Enterprise Settings",
+      "url": "https://huggingface.co/papers/2603.13594",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-13T17:09:39.000Z",
+      "abstract": "Large language models are shifting from passive information providers to active agents intended for complex workflows. However, their deployment as reliable AI workers in enterprise is stalled by benc",
+      "authors": [
+        "Shiva Krishna Reddy Malay",
+        "Shravan Nayak",
+        "Jishnu Sethumadhavan Nair",
+        "Sagar Davasam",
+        "Aman Tiwari"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
