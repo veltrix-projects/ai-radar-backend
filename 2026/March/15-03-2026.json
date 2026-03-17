@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-17T10:41:12.875Z",
+  "generatedAt": "2026-03-17T11:37:12.758Z",
   "date": "15-03-2026",
-  "count": 8,
+  "count": 9,
   "summary": null,
   "items": [
     {
@@ -42,6 +42,31 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.14610",
+      "title": "Make it SING: Analyzing Semantic Invariants in Classifiers",
+      "url": "https://huggingface.co/papers/2603.14610",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-15T17:13:14.000Z",
+      "abstract": "All classifiers, including state-of-the-art vision models, possess invariants, partially rooted in the geometry of their linear mappings. These invariants, which reside in the null-space of the classi",
+      "authors": [
+        "Harel Yadid",
+        "Meir Yossef Levi",
+        "Roy Betser",
+        "Guy Gilboa"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
