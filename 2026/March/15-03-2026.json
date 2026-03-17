@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-17T14:17:56.556Z",
+  "generatedAt": "2026-03-17T15:35:48.345Z",
   "date": "15-03-2026",
-  "count": 11,
+  "count": 12,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,31 @@
       "tags": [
         "agent"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.14659",
+      "title": "VisionCoach: Reinforcing Grounded Video Reasoning via Visual-Perception Prompting",
+      "url": "https://huggingface.co/papers/2603.14659",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-15T19:32:02.000Z",
+      "abstract": "Video reasoning requires models to locate and track question-relevant evidence across frames. While reinforcement learning (RL) with verifiable rewards improves accuracy, it still struggles to achieve",
+      "authors": [
+        "Daeun Lee",
+        "Shoubin Yu",
+        "Yue Zhang",
+        "Mohit Bansal"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
