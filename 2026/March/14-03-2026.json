@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-17T06:37:10.262Z",
+  "generatedAt": "2026-03-17T07:49:03.065Z",
   "date": "14-03-2026",
   "count": 7,
   "summary": null,
@@ -95,20 +95,28 @@
       "points": 0
     },
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Garry Tan Releases gstack: An Open-Source Claude Code System for Planning, Code Review, QA, and Shipping",
-      "url": "https://www.marktechpost.com/2026/03/14/garry-tan-releases-gstack-an-open-source-claude-code-system-for-planning-code-review-qa-and-shipping/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
+      "id": "hf_paper_2603.13985",
+      "title": "Supervised Fine-Tuning versus Reinforcement Learning: A Study of Post-Training Methods for Large Language Models",
+      "url": "https://huggingface.co/papers/2603.13985",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-03-14T08:44:43.000Z",
-      "abstract": "What if AI-assisted coding became more reliable by separating product planning, engineering review, release, and QA into distinct operating modes? That is the idea behind Garry Tan’s gstack, an open-s",
-      "authors": [],
-      "tags": [
-        "claude"
+      "timestamp": "2026-03-14T11:24:38.000Z",
+      "abstract": "Pre-trained Large Language Model (LLM) exhibits broad capabilities, yet, for specific tasks or domains their attainment of higher accuracy and more reliable reasoning generally depends on post-trainin",
+      "authors": [
+        "Haitao Jiang",
+        "Wenbo Zhang",
+        "Jiarui Yao",
+        "Hengrui Cai",
+        "Sheng Wang"
       ],
-      "score": 4,
-      "priority": "LOW",
+      "tags": [
+        "fine-tuning",
+        "training",
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
