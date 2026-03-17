@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-17T15:35:48.345Z",
+  "generatedAt": "2026-03-17T16:56:46.244Z",
   "date": "15-03-2026",
-  "count": 12,
+  "count": 13,
   "summary": null,
   "items": [
     {
@@ -63,6 +63,34 @@
       "authors": [],
       "tags": [
         "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.14645",
+      "title": "Spectrum Matching: a Unified Perspective for Superior Diffusability in Latent Diffusion",
+      "url": "https://huggingface.co/papers/2603.14645",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-15T18:47:43.000Z",
+      "abstract": "In this paper, we study the diffusability (learnability) of variational autoencoders (VAE) in latent diffusion. First, we show that pixel-space diffusion trained with an MSE objective is inherently bi",
+      "authors": [
+        "Mang Ning",
+        "Mingxiao Li",
+        "Le Zhang",
+        "Lanmiao Liu",
+        "Matthew B. Blaschko"
+      ],
+      "tags": [
+        "diffusion"
       ],
       "score": 6,
       "priority": "MEDIUM",
