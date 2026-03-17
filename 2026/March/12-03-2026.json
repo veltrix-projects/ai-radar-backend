@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-17T01:16:52.525Z",
+  "generatedAt": "2026-03-17T03:53:52.448Z",
   "date": "12-03-2026",
-  "count": 21,
+  "count": 20,
   "summary": null,
   "items": [
     {
@@ -319,6 +319,32 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.12146",
+      "title": "FlashMotion: Few-Step Controllable Video Generation with Trajectory Guidance",
+      "url": "https://huggingface.co/papers/2603.12146",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-12T12:45:53.000Z",
+      "abstract": "Recent advances in trajectory-controllable video generation have achieved remarkable progress. Previous methods mainly use adapter-based architectures for precise motion control along predefined traje",
+      "authors": [
+        "Quanhao Li",
+        "Zhen Xing",
+        "Rui Wang",
+        "Haidong Cao",
+        "Qi Dai"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Fi",
       "title": "Introducing Groundsource: Turning news reports into data with Gemini",
       "url": "https://research.google/blog/introducing-groundsource-turning-news-reports-into-data-with-gemini/",
@@ -330,34 +356,6 @@
       "authors": [],
       "tags": [
         "gemini"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.11975",
-      "title": "HomeSafe-Bench: Evaluating Vision-Language Models on Unsafe Action Detection for Embodied Agents in Household Scenarios",
-      "url": "https://huggingface.co/papers/2603.11975",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-12T10:25:44.000Z",
-      "abstract": "The rapid evolution of embodied agents has accelerated the deployment of household robots in real-world environments. However, unlike structured industrial settings, household spaces introduce unpredi",
-      "authors": [
-        "Jiayue Pu",
-        "Zhongxiang Sun",
-        "Zilu Zhang",
-        "Xiao Zhang",
-        "Jun Xu"
-      ],
-      "tags": [
-        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -455,32 +453,6 @@
       "abstract": "Why do language models sometimes prefer correct statements even when trained on mixed-quality data? We introduce the Compression--Consistency Principle: next-token prediction favors hypotheses that al",
       "authors": [
         "Konstantin Krestnikov"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.11647",
-      "title": "OmniForcing: Unleashing Real-time Joint Audio-Visual Generation",
-      "url": "https://huggingface.co/papers/2603.11647",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-12T04:17:36.000Z",
-      "abstract": "Recent joint audio-visual diffusion models achieve remarkable generation quality but suffer from high latency due to their bidirectional attention dependencies, hindering real-time applications. We pr",
-      "authors": [
-        "Yaofeng Su",
-        "Yuming Li",
-        "Zeyue Xue",
-        "Jie Huang",
-        "Siming Fu"
       ],
       "tags": [],
       "score": 6,
