@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-17T03:53:52.448Z",
+  "generatedAt": "2026-03-17T05:18:05.531Z",
   "date": "11-03-2026",
   "count": 12,
   "summary": null,
@@ -85,30 +85,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.10926",
-      "title": "ECoLAD: Deployment-Oriented Evaluation for Automotive Time-Series Anomaly Detection",
-      "url": "https://huggingface.co/papers/2603.10926",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-11T12:08:56.000Z",
-      "abstract": "Time-series anomaly detectors are commonly compared on workstation-class hardware under unconstrained execution. In-vehicle monitoring, however, requires predictable latency and stable behavior under",
-      "authors": [
-        "Kadir-Kaan Özer",
-        "René Ebeling",
-        "Markus Enzweiler"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
       "title": "New partnership to offer smart robots for dangerous environments",
       "url": "https://www.artificialintelligence-news.com/news/new-partnership-to-offer-ai-for-robotics-for-work-in-dangerous-environments/",
@@ -151,6 +127,26 @@
       "points": 0
     },
     {
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fwayfa",
+      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+      "url": "https://openai.com/index/wayfair",
+      "source": "OpenAI Blog",
+      "sourceIcon": "🟢",
+      "type": "news",
+      "timestamp": "2026-03-11T11:00:00.000Z",
+      "abstract": "",
+      "authors": [],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fequip",
       "title": "From model to agent: Equipping the Responses API with a computer environment",
       "url": "https://openai.com/index/equip-responses-api-computer-environment",
@@ -163,26 +159,6 @@
       "tags": [
         "agent"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fwayfa",
-      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-      "url": "https://openai.com/index/wayfair",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-03-11T11:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
@@ -259,6 +235,36 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.13391",
+      "title": "WebVR: Benchmarking Multimodal LLMs for WebPage Recreation from Videos via Human-Aligned Visual Rubrics",
+      "url": "https://huggingface.co/papers/2603.13391",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-11T03:48:23.000Z",
+      "abstract": "Existing web-generation benchmarks rely on text prompts or static screenshots as input. However, videos naturally convey richer signals such as interaction flow, transition timing, and motion continui",
+      "authors": [
+        "Yuhong Dai",
+        "Yanlin Lai",
+        "Mitt Huang",
+        "Hangyu Guo",
+        "Dingming Li"
+      ],
+      "tags": [
+        "llm",
+        "multimodal",
+        "benchmark"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
