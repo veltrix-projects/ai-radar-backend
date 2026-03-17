@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-17T12:48:03.013Z",
+  "generatedAt": "2026-03-17T14:17:56.558Z",
   "date": "13-03-2026",
-  "count": 15,
+  "count": 16,
   "summary": null,
   "items": [
     {
@@ -208,6 +208,30 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.13518",
+      "title": "VoXtream2: Full-stream TTS with dynamic speaking rate control",
+      "url": "https://huggingface.co/papers/2603.13518",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-13T14:49:25.000Z",
+      "abstract": "Full-stream text-to-speech (TTS) for interactive systems must start speaking with minimal delay while remaining controllable as text arrives incrementally. We present VoXtream2, a zero-shot full-strea",
+      "authors": [
+        "Nikita Torgashov",
+        "Gustav Eje Henter",
+        "Gabriel Skantze"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
