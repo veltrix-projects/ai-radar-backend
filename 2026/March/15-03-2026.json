@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-18T19:42:29.084Z",
+  "generatedAt": "2026-03-18T20:27:23.926Z",
   "date": "15-03-2026",
-  "count": 4,
+  "count": 5,
   "summary": null,
   "items": [
     {
@@ -73,6 +73,34 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.14326",
+      "title": "ECG-Reasoning-Benchmark: A Benchmark for Evaluating Clinical Reasoning Capabilities in ECG Interpretation",
+      "url": "https://huggingface.co/papers/2603.14326",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-15T07:09:38.000Z",
+      "abstract": "While Multimodal Large Language Models (MLLMs) show promising performance in automated electrocardiogram interpretation, it remains unclear whether they genuinely perform actual step-by-step reasoning",
+      "authors": [
+        "Jungwoo Oh",
+        "Hyunseung Chung",
+        "Junhee Lee",
+        "Min-Gyu Kim",
+        "Hangyul Yoon"
+      ],
+      "tags": [
+        "benchmark"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
