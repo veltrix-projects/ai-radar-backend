@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-18T08:37:52.995Z",
+  "generatedAt": "2026-03-18T09:43:44.511Z",
   "date": "11-03-2026",
-  "count": 7,
+  "count": 8,
   "summary": null,
   "items": [
     {
@@ -77,6 +77,32 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.13398",
+      "title": "Qianfan-OCR: A Unified End-to-End Model for Document Intelligence",
+      "url": "https://huggingface.co/papers/2603.13398",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-11T12:08:22.000Z",
+      "abstract": "We present Qianfan-OCR, a 4B-parameter end-to-end vision-language model that unifies document parsing, layout analysis, and document understanding within a single architecture. It performs direct imag",
+      "authors": [
+        "Daxiang Dong",
+        "Mingming Zheng",
+        "Dong Xu",
+        "Chunhua Luo",
+        "Bairong Zhuang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-18T08:37:52.991Z",
+  "generatedAt": "2026-03-18T09:43:44.506Z",
   "date": "17-03-2026",
-  "count": 84,
+  "count": 81,
   "summary": null,
   "items": [
     {
@@ -207,26 +207,6 @@
       "tags": [
         "claude"
       ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1rwiuvg",
-      "title": "Multi-GPU? Check your PCI-E lanes! x570, Doubled my prompt proc. speed by switching 'primary' devices, on an asymmetrical x16 / x4 lane setup.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rwiuvg/multigpu_check_your_pcie_lanes_x570_doubled_my/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-17T20:45:12+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
@@ -540,6 +520,34 @@
       ],
       "tags": [
         "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2603.16859v1",
+      "title": "SocialOmni: Benchmarking Audio-Visual Social Interactivity in Omni Models",
+      "url": "https://arxiv.org/abs/2603.16859v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-03-17T17:58:44Z",
+      "abstract": "Omni-modal large language models (OLMs) redefine human-machine interaction by natively integrating audio, vision, and text. However, existing OLM benchmarks remain anchored to static, accuracy-centric",
+      "authors": [
+        "Tianyu Xie",
+        "Jinfa Huang",
+        "Yuexiao Ma",
+        "Rongfang Luo",
+        "Yan Yang"
+      ],
+      "tags": [
+        "benchmark"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -999,6 +1007,26 @@
       "points": 0
     },
     {
+      "id": "google_deepmind_https%3A%2F%2Fdeepmind.google%2Fblog%2Fm",
+      "title": "Measuring progress toward AGI: A cognitive framework",
+      "url": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
+      "source": "Google DeepMind",
+      "sourceIcon": "🔵",
+      "type": "research",
+      "timestamp": "2026-03-17T16:03:47.000Z",
+      "abstract": "We’re introducing a framework to measure progress toward AGI, and launching a Kaggle hackathon to build the relevant evaluations.",
+      "authors": [],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "techcrunch_ai_https%3A%2F%2Ftechcrunch.com%2F2026%2F03",
       "title": "Google&#8217;s Personal Intelligence feature is expanding to all US users",
       "url": "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/",
@@ -1307,60 +1335,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.16861",
-      "title": "MolmoB0T: Large-Scale Simulation Enables Zero-Shot Manipulation",
-      "url": "https://huggingface.co/papers/2603.16861",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-17T13:59:03.000Z",
-      "abstract": "A prevailing view in robot learning is that simulation alone is not enough; effective sim-to-real transfer is widely believed to require at least some real-world data collection or task-specific fine-",
-      "authors": [
-        "Abhay Deshpande",
-        "Maya Guru",
-        "Rose Hendrix",
-        "Snehal Jauhri",
-        "Ainaz Eftekhar"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.16859",
-      "title": "SocialOmni: Benchmarking Audio-Visual Social Interactivity in Omni Models",
-      "url": "https://huggingface.co/papers/2603.16859",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-17T13:58:44.000Z",
-      "abstract": "Omni-modal large language models (OLMs) redefine human-machine interaction by natively integrating audio, vision, and text. However, existing OLM benchmarks remain anchored to static, accuracy-centric",
-      "authors": [
-        "Tianyu Xie",
-        "Jinfa Huang",
-        "Yuexiao Ma",
-        "Rongfang Luo",
-        "Yan Yang"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -1687,26 +1661,6 @@
       "points": 0
     },
     {
-      "id": "reddit_MachineLearning_t3_1rw1eag",
-      "title": "[R] Attention Residuals by Kimi Team",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1rw1eag/r_attention_residuals_by_kimi_team/",
-      "source": "Reddit r/MachineLearning",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-17T09:05:17+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
       "title": "Google AI Releases WAXAL: A Multilingual African Speech Dataset for Training Automatic Speech Recognition and Text-to-Speech Models",
       "url": "https://www.marktechpost.com/2026/03/17/google-ai-releases-waxal-a-multilingual-african-speech-dataset-for-training-automatic-speech-recognition-and-text-to-speech-models/",
@@ -1778,35 +1732,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.16189",
-      "title": "Reliable Reasoning in SVG-LLMs via Multi-Task Multi-Reward Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2603.16189",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-17T03:16:30.000Z",
-      "abstract": "With the rapid advancement of vision-language models, an increasing number of studies have explored their potential for SVG generation tasks. Although existing approaches improve performance by constr",
-      "authors": [
-        "Haomin Wang",
-        "Qi Wei",
-        "Qianli Ma",
-        "Shengyuan Ding",
-        "Jinhui Yin"
-      ],
-      "tags": [
-        "llm",
-        "reinforcement learning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "hf_paper_2603.16139",
       "title": "Rethinking UMM Visual Generation: Masked Modeling for Efficient Image-Only Pre-training",
       "url": "https://huggingface.co/papers/2603.16139",
@@ -1854,7 +1779,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 102647,
+      "stars": 102658,
       "votes": 0,
       "points": 0
     },
