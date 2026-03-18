@@ -1,9 +1,38 @@
 {
-  "generatedAt": "2026-03-18T16:50:44.679Z",
+  "generatedAt": "2026-03-18T17:53:14.958Z",
   "date": "09-03-2026",
-  "count": 3,
+  "count": 4,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2603.09022",
+      "title": "MEMO: Memory-Augmented Model Context Optimization for Robust Multi-Turn Multi-Agent LLM Games",
+      "url": "https://huggingface.co/papers/2603.09022",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-09T19:36:32.000Z",
+      "abstract": "Multi-turn, multi-agent LLM game evaluations often exhibit substantial run-to-run variance. In long-horizon interactions, small early deviations compound across turns and are amplified by multi-agent",
+      "authors": [
+        "Yunfei Xie",
+        "Kevin Wang",
+        "Bobby Cheng",
+        "Jianzhu Yao",
+        "Zhizhou Sha"
+      ],
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "google_deepmind_https%3A%2F%2Fdeepmind.google%2Fblog%2F1",
       "title": "From games to biology and beyond: 10 years of AlphaGo’s impact",
@@ -51,7 +80,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 131879,
+      "stars": 131882,
       "votes": 0,
       "points": 0
     },

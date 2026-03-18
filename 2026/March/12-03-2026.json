@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-18T16:50:44.678Z",
+  "generatedAt": "2026-03-18T17:53:14.955Z",
   "date": "12-03-2026",
-  "count": 7,
+  "count": 9,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,50 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
+      "title": "Improve operational visibility for inference workloads on Amazon Bedrock with new CloudWatch metrics for TTFT and Estimated Quota Consumption",
+      "url": "https://aws.amazon.com/blogs/machine-learning/improve-operational-visibility-for-inference-workloads-on-amazon-bedrock-with-new-cloudwatch-metrics-for-ttft-and-estimated-quota-consumption/",
+      "source": "AWS ML Blog",
+      "sourceIcon": "☁️",
+      "type": "tool",
+      "timestamp": "2026-03-12T21:20:17.000Z",
+      "abstract": "Today, we’re announcing two new Amazon CloudWatch metrics for Amazon Bedrock, TimeToFirstToken and EstimatedTPMQuotaUsage. In this post, we cover how these work and how to set alarms, establish baseli",
+      "authors": [],
+      "tags": [
+        "inference"
+      ],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
+      "title": "Secure AI agents with Policy in Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-policy-in-amazon-bedrock-agentcore/",
+      "source": "AWS ML Blog",
+      "sourceIcon": "☁️",
+      "type": "tool",
+      "timestamp": "2026-03-12T21:16:50.000Z",
+      "abstract": "In this post, you will understand how Policy in Amazon Bedrock AgentCore creates a deterministic enforcement layer that operates independently of the agent's own reasoning. You will learn how to turn",
+      "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
