@@ -1,36 +1,9 @@
 {
-  "generatedAt": "2026-03-18T01:20:51.562Z",
+  "generatedAt": "2026-03-18T04:00:35.108Z",
   "date": "15-03-2026",
-  "count": 12,
+  "count": 6,
   "summary": null,
   "items": [
-    {
-      "id": "hf_paper_2603.14769",
-      "title": "POLCA: Stochastic Generative Optimization with LLM",
-      "url": "https://huggingface.co/papers/2603.14769",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-15T23:07:44.000Z",
-      "abstract": "Optimizing complex systems, ranging from LLM prompts to multi-turn agents, traditionally requires labor-intensive manual iteration. We formalize this challenge as a stochastic generative optimization",
-      "authors": [
-        "Xuanfei Ren",
-        "Allen Nie",
-        "Tengyang Xie",
-        "Ching-An Cheng"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
       "title": "A Coding Implementation to Design an Enterprise AI Governance System Using OpenClaw Gateway Policy Engines, Approval Workflows and Auditable Agent Execution",
@@ -44,31 +17,6 @@
       "tags": [
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.14659",
-      "title": "VisionCoach: Reinforcing Grounded Video Reasoning via Visual-Perception Prompting",
-      "url": "https://huggingface.co/papers/2603.14659",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-15T19:32:02.000Z",
-      "abstract": "Video reasoning requires models to locate and track question-relevant evidence across frames. While reinforcement learning (RL) with verifiable rewards improves accuracy, it still struggles to achieve",
-      "authors": [
-        "Daeun Lee",
-        "Shoubin Yu",
-        "Yue Zhang",
-        "Mohit Bansal"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -101,75 +49,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.14645",
-      "title": "Spectrum Matching: a Unified Perspective for Superior Diffusability in Latent Diffusion",
-      "url": "https://huggingface.co/papers/2603.14645",
+      "id": "hf_paper_2603.14465",
+      "title": "AgentProcessBench: Diagnosing Step-Level Process Quality in Tool-Using Agents",
+      "url": "https://huggingface.co/papers/2603.14465",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-03-15T18:47:43.000Z",
-      "abstract": "In this paper, we study the diffusability (learnability) of variational autoencoders (VAE) in latent diffusion. First, we show that pixel-space diffusion trained with an MSE objective is inherently bi",
+      "timestamp": "2026-03-15T12:13:58.000Z",
+      "abstract": "While Large Language Models (LLMs) have evolved into tool-using agents, they remain brittle in long-horizon interactions. Unlike mathematical reasoning where errors are often rectifiable via backtrack",
       "authors": [
-        "Mang Ning",
-        "Mingxiao Li",
-        "Le Zhang",
-        "Lanmiao Liu",
-        "Matthew B. Blaschko"
+        "Shengda Fan",
+        "Xuyan Ye",
+        "Yupeng Huo",
+        "Zhi-Yuan Chen",
+        "Yiju Guo"
       ],
       "tags": [
-        "diffusion"
+        "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.14610",
-      "title": "Make it SING: Analyzing Semantic Invariants in Classifiers",
-      "url": "https://huggingface.co/papers/2603.14610",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-15T17:13:14.000Z",
-      "abstract": "All classifiers, including state-of-the-art vision models, possess invariants, partially rooted in the geometry of their linear mappings. These invariants, which reside in the null-space of the classi",
-      "authors": [
-        "Harel Yadid",
-        "Meir Yossef Levi",
-        "Roy Betser",
-        "Guy Gilboa"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.14371",
-      "title": "OxyGen: Unified KV Cache Management for Vision-Language-Action Models under Multi-Task Parallelism",
-      "url": "https://huggingface.co/papers/2603.14371",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-15T09:23:56.000Z",
-      "abstract": "Embodied AI agents increasingly require parallel execution of multiple tasks, such as manipulation, conversation, and memory construction, from shared observations under distinct time constraints. Rec",
-      "authors": [
-        "Xiangyu Li",
-        "Huaizhi Tang",
-        "Xin Ding",
-        "Weijun Wang",
-        "Ting Cao"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -202,31 +99,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.14347",
-      "title": "Motivation in Large Language Models",
-      "url": "https://huggingface.co/papers/2603.14347",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-15T08:30:36.000Z",
-      "abstract": "Motivation is a central driver of human behavior, shaping decisions, goals, and task performance. As large language models (LLMs) become increasingly aligned with human preferences, we ask whether the",
-      "authors": [
-        "Omer Nahum",
-        "Asael Sklar",
-        "Ariel Goldstein",
-        "Roi Reichart"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
       "title": "Zhipu AI Introduces GLM-OCR: A 0.9B Multimodal OCR Model for Document Parsing and Key Information Extraction (KIE)",
       "url": "https://www.marktechpost.com/2026/03/15/zhipu-ai-introduces-glm-ocr-a-0-9b-multimodal-ocr-model-for-document-parsing-and-key-information-extraction-kie/",
@@ -242,35 +114,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.14312",
-      "title": "Autonomous Agents Coordinating Distributed Discovery Through Emergent Artifact Exchange",
-      "url": "https://huggingface.co/papers/2603.14312",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-15T06:06:57.000Z",
-      "abstract": "We present ScienceClaw + Infinite, a framework for autonomous scientific investigation in which independent agents conduct research without central coordination, and any contributor can deploy new age",
-      "authors": [
-        "Fiona Y. Wang",
-        "Lee Marom",
-        "Subhadeep Pal",
-        "Rachel K. Luu",
-        "Wei Lu"
-      ],
-      "tags": [
-        "agent",
-        "autonomous"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
