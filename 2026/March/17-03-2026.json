@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-18T06:52:14.583Z",
+  "generatedAt": "2026-03-18T07:46:40.440Z",
   "date": "17-03-2026",
-  "count": 86,
+  "count": 85,
   "summary": null,
   "items": [
     {
@@ -217,18 +217,20 @@
       "points": 0
     },
     {
-      "id": "reddit_LocalLLaMA_t3_1rwiuvg",
-      "title": "Multi-GPU? Check your PCI-E lanes! x570, Doubled my prompt proc. speed by switching 'primary' devices, on an asymmetrical x16 / x4 lane setup.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rwiuvg/multigpu_check_your_pcie_lanes_x570_doubled_my/",
+      "id": "reddit_LocalLLaMA_t3_1rwiaw8",
+      "title": "Best Private and Local Only Coding Agent?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rwiaw8/best_private_and_local_only_coding_agent/",
       "source": "Reddit r/LocalLLaMA",
       "sourceIcon": "🔴",
       "type": "news",
-      "timestamp": "2026-03-17T20:45:12+00:00",
+      "timestamp": "2026-03-17T20:25:00+00:00",
       "abstract": "",
       "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -1288,32 +1290,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.16871",
-      "title": "WorldCam: Interactive Autoregressive 3D Gaming Worlds with Camera Pose as a Unifying Geometric Representation",
-      "url": "https://huggingface.co/papers/2603.16871",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-17T13:59:56.000Z",
-      "abstract": "Recent advances in video diffusion transformers have enabled interactive gaming world models that allow users to explore generated environments over extended horizons. However, existing approaches str",
-      "authors": [
-        "Jisu Nam",
-        "Yicong Hong",
-        "Chun-Hao Paul Huang",
-        "Feng Liu",
-        "JoungBin Lee"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "hf_paper_2603.16867",
       "title": "Efficient Reasoning on the Edge",
       "url": "https://huggingface.co/papers/2603.16867",
@@ -1601,6 +1577,32 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.16669",
+      "title": "Kinema4D: Kinematic 4D World Modeling for Spatiotemporal Embodied Simulation",
+      "url": "https://huggingface.co/papers/2603.16669",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-17T11:36:38.000Z",
+      "abstract": "Simulating robot-world interactions is a cornerstone of Embodied AI. Recently, a few works have shown promise in leveraging video generations to transcend the rigid visual/physical constraints of trad",
+      "authors": [
+        "Mutian Xu",
+        "Tianbao Zhang",
+        "Tianqi Liu",
+        "Zhaoxi Chen",
+        "Xiaoguang Han"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "reddit_MachineLearning_t3_1rw3a3j",
       "title": "[D] Releasing a professional MQM-annotated MT dataset (16 lang pairs, 48 annotators)",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1rw3a3j/d_releasing_a_professional_mqmannotated_mt/",
@@ -1675,26 +1677,6 @@
       "type": "news",
       "timestamp": "2026-03-17T10:00:00.000Z",
       "abstract": "Artificial intelligence investment is entering a more selective phase as companies and investors look beyond early excitement and focus on the data centre infrastructure required to run AI systems. Re",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1rw1k8r",
-      "title": "Is memory speed everything? A quick comparison between the RTX 6000 96GB and the AMD W7800 48GB x2.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rw1k8r/is_memory_speed_everything_a_quick_comparison/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-17T09:15:50+00:00",
-      "abstract": "",
       "authors": [],
       "tags": [],
       "score": 4,
@@ -1851,21 +1833,21 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.16184",
-      "title": "Polyglot-Lion: Efficient Multilingual ASR for Singapore via Balanced Fine-Tuning of Qwen3-ASR",
-      "url": "https://huggingface.co/papers/2603.16184",
+      "id": "hf_paper_2603.16139",
+      "title": "Rethinking UMM Visual Generation: Masked Modeling for Efficient Image-Only Pre-training",
+      "url": "https://huggingface.co/papers/2603.16139",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-03-17T03:09:42.000Z",
-      "abstract": "We present Polyglot-Lion, a family of compact multilingual automatic speech recognition (ASR) models tailored for the linguistic landscape of Singapore, covering English, Mandarin, Tamil, and Malay. O",
+      "timestamp": "2026-03-17T01:41:48.000Z",
+      "abstract": "Unified Multimodal Models (UMMs) are often constrained by the pre-training of their visual generation components, which typically relies on inefficient paradigms and scarce, high-quality text-image pa",
       "authors": [
-        "Quy-Anh Dang",
-        "Chris Ngo"
+        "Peng Sun",
+        "Jun Xie",
+        "Tao Lin"
       ],
       "tags": [
-        "qwen",
-        "fine-tuning"
+        "training"
       ],
       "score": 8,
       "priority": "HIGH",
@@ -1898,7 +1880,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 102632,
+      "stars": 102642,
       "votes": 0,
       "points": 0
     },
