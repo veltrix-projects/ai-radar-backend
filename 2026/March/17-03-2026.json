@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-18T09:43:44.506Z",
+  "generatedAt": "2026-03-18T10:42:28.426Z",
   "date": "17-03-2026",
-  "count": 81,
+  "count": 79,
   "summary": null,
   "items": [
     {
@@ -420,6 +420,32 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2603.16867v1",
+      "title": "Efficient Reasoning on the Edge",
+      "url": "https://arxiv.org/abs/2603.16867v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-03-17T17:59:51Z",
+      "abstract": "Large language models (LLMs) with chain-of-thought reasoning achieve state-of-the-art performance across complex problem-solving tasks, but their verbose reasoning traces and large context requirement",
+      "authors": [
+        "Yelysei Bondarenko",
+        "Thomas Hehn",
+        "Rob Hesselink",
+        "Romain Lepert",
+        "Fabio Valerio Massoli"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -1316,58 +1342,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.16867",
-      "title": "Efficient Reasoning on the Edge",
-      "url": "https://huggingface.co/papers/2603.16867",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-17T13:59:51.000Z",
-      "abstract": "Large language models (LLMs) with chain-of-thought reasoning achieve state-of-the-art performance across complex problem-solving tasks, but their verbose reasoning traces and large context requirement",
-      "authors": [
-        "Yelysei Bondarenko",
-        "Thomas Hehn",
-        "Rob Hesselink",
-        "Romain Lepert",
-        "Fabio Valerio Massoli"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.16844",
-      "title": "M^3: Dense Matching Meets Multi-View Foundation Models for Monocular Gaussian Splatting SLAM",
-      "url": "https://huggingface.co/papers/2603.16844",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-17T13:52:37.000Z",
-      "abstract": "Streaming reconstruction from uncalibrated monocular video remains challenging, as it requires both high-precision pose estimation and computationally efficient online refinement in dynamic environmen",
-      "authors": [
-        "Kerui Ren",
-        "Guanghao Li",
-        "Changjian Jiang",
-        "Yingxiang Xu",
-        "Tao Lu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "hf_paper_2603.16790",
       "title": "InCoder-32B: Code Foundation Model for Industrial Scenarios",
       "url": "https://huggingface.co/papers/2603.16790",
@@ -1684,34 +1658,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.16448",
-      "title": "TRUST-SQL: Tool-Integrated Multi-Turn Reinforcement Learning for Text-to-SQL over Unknown Schemas",
-      "url": "https://huggingface.co/papers/2603.16448",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-17T08:30:42.000Z",
-      "abstract": "Text-to-SQL parsing has achieved remarkable progress under the Full Schema Assumption. However, this premise fails in real-world enterprise environments where databases contain hundreds of tables with",
-      "authors": [
-        "Ai Jian",
-        "Xiaoyun Zhang",
-        "Wanrou Du",
-        "Jingqing Ruan",
-        "Jiangbo Pei"
-      ],
-      "tags": [
-        "reinforcement learning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
       "title": "How to Build High-Performance GPU-Accelerated Simulations and Differentiable Physics Workflows Using NVIDIA Warp Kernels",
       "url": "https://www.marktechpost.com/2026/03/16/how-to-build-high-performance-gpu-accelerated-simulations-and-differentiable-physics-workflows-using-nvidia-warp-kernels/",
@@ -1779,7 +1725,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 102658,
+      "stars": 102664,
       "votes": 0,
       "points": 0
     },

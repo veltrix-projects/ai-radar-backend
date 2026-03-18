@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-18T09:43:44.508Z",
+  "generatedAt": "2026-03-18T10:42:28.428Z",
   "date": "15-03-2026",
-  "count": 3,
+  "count": 5,
   "summary": null,
   "items": [
     {
@@ -27,6 +27,34 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.14704",
+      "title": "Chain-of-Trajectories: Unlocking the Intrinsic Generative Optimality of Diffusion Models via Graph-Theoretic Planning",
+      "url": "https://huggingface.co/papers/2603.14704",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-15T21:28:51.000Z",
+      "abstract": "Diffusion models operate in a reflexive System 1 mode, constrained by a fixed, content-agnostic sampling schedule. This rigidity arises from the curse of state dimensionality, where the combinatorial",
+      "authors": [
+        "Ping Chen",
+        "Xiang Liu",
+        "Xingpeng Zhang",
+        "Fei Shen",
+        "Xun Gong"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
       "title": "Meet OpenViking: An Open-Source Context Database that Brings Filesystem-Based Memory and Retrieval to AI Agent Systems like OpenClaw",
       "url": "https://www.marktechpost.com/2026/03/15/meet-openviking-an-open-source-context-database-that-brings-filesystem-based-memory-and-retrieval-to-ai-agent-systems-like-openclaw/",
@@ -37,6 +65,31 @@
       "abstract": "OpenViking is an open-source Context Database for AI Agents from Volcengine. The project is built around a simple architectural concept: agent systems should not treat context as a flat collection of",
       "authors": [],
       "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.14588",
+      "title": "SuperLocalMemory V3: Information-Geometric Foundations for Zero-LLM Enterprise Agent Memory",
+      "url": "https://huggingface.co/papers/2603.14588",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-15T16:20:54.000Z",
+      "abstract": "Persistent memory is a central capability for AI agents, yet the mathematical foundations of memory retrieval, lifecycle management, and consistency remain unexplored. Current systems employ cosine si",
+      "authors": [
+        "Varun Pratap Bhardwaj"
+      ],
+      "tags": [
+        "llm",
         "agent"
       ],
       "score": 6,
