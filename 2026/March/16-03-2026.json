@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-18T04:00:35.107Z",
+  "generatedAt": "2026-03-18T05:44:16.916Z",
   "date": "16-03-2026",
-  "count": 39,
+  "count": 38,
   "summary": null,
   "items": [
     {
@@ -394,6 +394,30 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.15929",
+      "title": "Semi-Autonomous Formalization of the Vlasov-Maxwell-Landau Equilibrium",
+      "url": "https://huggingface.co/papers/2603.15929",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-16T17:21:53.000Z",
+      "abstract": "We present a complete Lean 4 formalization of the equilibrium characterization in the Vlasov-Maxwell-Landau (VML) system, which describes the motion of charged plasma. The project demonstrates the ful",
+      "authors": [
+        "Vasily Ilin"
+      ],
+      "tags": [
+        "autonomous"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
       "title": "Where OpenAI’s technology could show up in Iran",
       "url": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
@@ -499,32 +523,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.15854",
-      "title": "FlashSampling: Fast and Memory-Efficient Exact Sampling",
-      "url": "https://huggingface.co/papers/2603.15854",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-16T15:37:08.000Z",
-      "abstract": "Sampling from a categorical distribution is mathematically simple, but in large-vocabulary decoding, it often triggers extra memory traffic and extra kernels after the LM head. We present FlashSamplin",
-      "authors": [
-        "Tomas Ruiz",
-        "Zhen Qin",
-        "Yifan Zhang",
-        "Xuyang Shen",
-        "Yiran Zhong"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fpodcast",
       "title": "Yahoo CEO Jim Lanzone on reviving the web&#8217;s homepage",
       "url": "https://www.theverge.com/podcast/895221/yahoo-jim-lanzone-scout-ai-sports-finance-open-web",
@@ -607,23 +605,23 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.15726",
-      "title": "MiroThinker-1.7 & H1: Towards Heavy-Duty Research Agents via Verification",
-      "url": "https://huggingface.co/papers/2603.15726",
+      "id": "hf_paper_2603.15600",
+      "title": "From Passive Observer to Active Critic: Reinforcement Learning Elicits Process Reasoning for Robotic Manipulation",
+      "url": "https://huggingface.co/papers/2603.15600",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-03-16T13:55:42.000Z",
-      "abstract": "We present MiroThinker-1.7, a new research agent designed for complex long-horizon reasoning tasks. Building on this foundation, we further introduce MiroThinker-H1, which extends the agent with heavy",
+      "timestamp": "2026-03-16T13:53:28.000Z",
+      "abstract": "Accurate process supervision remains a critical challenge for long-horizon robotic manipulation. A primary bottleneck is that current video MLLMs, trained primarily under a Supervised Fine-Tuning (SFT",
       "authors": [
-        "MiroMind Team",
-        "S. Bai",
-        "L. Bing",
-        "L. Lei",
-        "R. Li"
+        "Yibin Liu",
+        "Yaxing Lyu",
+        "Daqi Gao",
+        "Zhixuan Liang",
+        "Weiliang Tang"
       ],
       "tags": [
-        "agent"
+        "reinforcement learning"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -709,34 +707,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.15309",
-      "title": "CCTU: A Benchmark for Tool Use under Complex Constraints",
-      "url": "https://huggingface.co/papers/2603.15309",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-16T10:05:13.000Z",
-      "abstract": "Solving problems through tool use under explicit constraints constitutes a highly challenging yet unavoidable scenario for large language models (LLMs), requiring capabilities such as function calling",
-      "authors": [
-        "Junjie Ye",
-        "Guoqiang Zhang",
-        "Wenjie Fu",
-        "Tao Gui",
-        "Qi Zhang"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -837,7 +807,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 108180,
+      "stars": 108186,
       "votes": 0,
       "points": 0
     },

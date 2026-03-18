@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-18T04:00:35.111Z",
+  "generatedAt": "2026-03-18T05:44:16.921Z",
   "date": "09-03-2026",
-  "count": 4,
+  "count": 5,
   "summary": null,
   "items": [
     {
@@ -51,7 +51,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 131747,
+      "stars": 131763,
       "votes": 0,
       "points": 0
     },
@@ -65,6 +65,32 @@
       "timestamp": "2026-03-09T10:00:00.000Z",
       "abstract": "",
       "authors": [],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.13366",
+      "title": "Thinking in Uncertainty: Mitigating Hallucinations in MLRMs with Latent Entropy-Aware Decoding",
+      "url": "https://huggingface.co/papers/2603.13366",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-09T08:47:54.000Z",
+      "abstract": "Recent advancements in multimodal large reasoning models (MLRMs) have significantly improved performance in visual question answering. However, we observe that transition words (e.g., because, however",
+      "authors": [
+        "Zhongxing Xu",
+        "Zhonghua Wang",
+        "Zhe Qian",
+        "Dachuan Shi",
+        "Feilong Tang"
+      ],
       "tags": [],
       "score": 8,
       "priority": "HIGH",
