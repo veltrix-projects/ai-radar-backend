@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-18T05:44:16.916Z",
+  "generatedAt": "2026-03-18T06:52:14.584Z",
   "date": "16-03-2026",
-  "count": 38,
+  "count": 39,
   "summary": null,
   "items": [
     {
@@ -68,6 +68,34 @@
       ],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.16063",
+      "title": "ViT-AdaLA: Adapting Vision Transformers with Linear Attention",
+      "url": "https://huggingface.co/papers/2603.16063",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-16T22:15:48.000Z",
+      "abstract": "Vision Transformers (ViTs) based vision foundation models (VFMs) have achieved remarkable performance across diverse vision tasks, but suffer from quadratic complexity that limits scalability to long",
+      "authors": [
+        "Yifan Li",
+        "Seunghyun Yoon",
+        "Viet Dac Lai",
+        "Franck Dernoncourt",
+        "Jason Kuen"
+      ],
+      "tags": [
+        "transformer"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -807,7 +835,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 108186,
+      "stars": 108191,
       "votes": 0,
       "points": 0
     },
