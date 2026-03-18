@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-03-18T22:26:03.315Z",
+  "generatedAt": "2026-03-18T22:55:34.282Z",
   "date": "16-03-2026",
   "count": 34,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2603.16077",
+      "title": "MDM-Prime-v2: Binary Encoding and Index Shuffling Enable Compute-optimal Scaling of Diffusion Language Models",
+      "url": "https://huggingface.co/papers/2603.16077",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-16T22:54:16.000Z",
+      "abstract": "Masked diffusion models (MDM) exhibit superior generalization when learned using a Partial masking scheme (Prime). This approach converts tokens into sub-tokens and models the diffusion process at the",
+      "authors": [
+        "Chen-Hao Chao",
+        "Wei-Fang Sun",
+        "Junwei Qua",
+        "Chun-Yi Lee",
+        "Rahul G. Krishnan"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
       "title": "Mistral AI Releases Mistral Small 4: A 119B-Parameter MoE Model that Unifies Instruct, Reasoning, and Multimodal Workloads",
@@ -547,34 +575,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.15401",
-      "title": "SWE-Skills-Bench: Do Agent Skills Actually Help in Real-World Software Engineering?",
-      "url": "https://huggingface.co/papers/2603.15401",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-16T11:16:31.000Z",
-      "abstract": "Agent skills, structured procedural knowledge packages injected at inference time, are increasingly used to augment LLM agents on software engineering tasks. However, their real utility in end-to-end",
-      "authors": [
-        "Tingxu Han",
-        "Yi Zhang",
-        "Wei Song",
-        "Chunrong Fang",
-        "Zhenyu Chen"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
       "title": "Securing digital assets against future threats",
       "url": "https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/",
@@ -742,7 +742,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 108216,
+      "stars": 108218,
       "votes": 0,
       "points": 0
     },
