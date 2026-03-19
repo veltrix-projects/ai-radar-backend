@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-19T05:23:38.704Z",
+  "generatedAt": "2026-03-19T06:33:03.383Z",
   "date": "17-03-2026",
-  "count": 28,
+  "count": 27,
   "summary": null,
   "items": [
     {
@@ -351,60 +351,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.16864",
-      "title": "SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation",
-      "url": "https://huggingface.co/papers/2603.16864",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-17T13:59:30.000Z",
-      "abstract": "Video Super-Resolution (VSR) aims to restore high-quality video frames from low-resolution (LR) estimates, yet most existing VSR approaches behave like black boxes at inference time: users cannot reli",
-      "authors": [
-        "Jiongze Yu",
-        "Xiangbo Gao",
-        "Pooja Verlani",
-        "Akshay Gadde",
-        "Yilin Wang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.16792",
-      "title": "V-Co: A Closer Look at Visual Representation Alignment via Co-Denoising",
-      "url": "https://huggingface.co/papers/2603.16792",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-17T13:01:54.000Z",
-      "abstract": "Pixel-space diffusion has recently re-emerged as a strong alternative to latent diffusion, enabling high-quality generation without pretrained autoencoders. However, standard pixel-space diffusion mod",
-      "authors": [
-        "Han Lin",
-        "Xichen Pan",
-        "Zun Wang",
-        "Yue Zhang",
-        "Chu Wang"
-      ],
-      "tags": [
-        "alignment"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
       "title": "Trustpilot partners with AI companies as traditional search declines",
       "url": "https://www.artificialintelligence-news.com/news/ai-in-ecommerce-trustpilot-partnerships-integration-news-trad-search-declines/",
@@ -437,6 +383,32 @@
         "Ming Li",
         "Xirui Li",
         "Tianyi Zhou"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.16542",
+      "title": "Conservative Offline Robot Policy Learning via Posterior-Transition Reweighting",
+      "url": "https://huggingface.co/papers/2603.16542",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-17T10:05:35.000Z",
+      "abstract": "Offline post-training adapts a pretrained robot policy to a target dataset by supervised regression on recorded actions. In practice, robot datasets are heterogeneous: they mix embodiments, camera set",
+      "authors": [
+        "Wanpeng Zhang",
+        "Hao Luo",
+        "Sipeng Zheng",
+        "Yicheng Feng",
+        "Haiweng Xu"
       ],
       "tags": [],
       "score": 6,
@@ -605,7 +577,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 102772,
+      "stars": 102780,
       "votes": 0,
       "points": 0
     },

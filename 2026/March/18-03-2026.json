@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-19T05:23:38.703Z",
+  "generatedAt": "2026-03-19T06:33:03.382Z",
   "date": "18-03-2026",
-  "count": 87,
+  "count": 88,
   "summary": null,
   "items": [
     {
@@ -47,28 +47,6 @@
       "points": 0
     },
     {
-      "id": "reddit_MachineLearning_t3_1rxjhv5",
-      "title": "[P] Interactive course showing the full AI agent stack in 60 lines of Python",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1rxjhv5/p_interactive_course_showing_the_full_ai_agent/",
-      "source": "Reddit r/MachineLearning",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-18T23:07:13+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "gh_701547123",
       "title": "open-webui/open-webui — User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
       "url": "https://github.com/open-webui/open-webui",
@@ -95,7 +73,27 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 127770,
+      "stars": 127779,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "reddit_LocalLLaMA_t3_1rxi0qi",
+      "title": "M5 Max 128GB with three 120B models",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rxi0qi/m5_max_128gb_with_three_120b_models/",
+      "source": "Reddit r/LocalLLaMA",
+      "sourceIcon": "🔴",
+      "type": "news",
+      "timestamp": "2026-03-18T22:10:23+00:00",
+      "abstract": "",
+      "authors": [],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
       "votes": 0,
       "points": 0
     },
@@ -140,28 +138,6 @@
       "points": 0
     },
     {
-      "id": "reddit_MachineLearning_t3_1rxh7xs",
-      "title": "[P] Weber Electrodynamic Optimizer + SDR Hardware Entropy for Autonomous ML Research (fork of karpathy/autoresearch)",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1rxh7xs/p_weber_electrodynamic_optimizer_sdr_hardware/",
-      "source": "Reddit r/MachineLearning",
-      "sourceIcon": "🔴",
-      "type": "research",
-      "timestamp": "2026-03-18T21:39:21+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "autonomous"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "gh_155220641",
       "title": "huggingface/transformers — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text",
       "url": "https://github.com/huggingface/transformers",
@@ -188,7 +164,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 158052,
+      "stars": 158058,
       "votes": 0,
       "points": 0
     },
@@ -1482,6 +1458,59 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.17948",
+      "title": "VideoAtlas: Navigating Long-Form Video in Logarithmic Compute",
+      "url": "https://huggingface.co/papers/2603.17948",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-18T13:20:19.000Z",
+      "abstract": "Extending language models to video introduces two challenges: representation, where existing methods rely on lossy approximations, and long-context, where caption- or agent-based pipelines collapse vi",
+      "authors": [
+        "Mohamed Eltahir",
+        "Ali Habibullah",
+        "Yazan Alshoibi",
+        "Lama Ayash",
+        "Tanveer Hussain"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.17942",
+      "title": "Efficient Training-Free Multi-Token Prediction via Embedding-Space Probing",
+      "url": "https://huggingface.co/papers/2603.17942",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-18T13:14:01.000Z",
+      "abstract": "Large language models (LLMs) exhibit latent multi-token prediction (MTP) capabilities despite being trained solely for next-token generation. We propose a simple, training-free MTP approach that probe",
+      "authors": [
+        "Raghavv Goel",
+        "Mukul Gagrani",
+        "Mingu Lee",
+        "Chris Lott"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fpodcast-",
       "title": "Podcast: The Disappearing DOGE Depositions",
       "url": "https://www.404media.co/podcast-the-disappearing-doge-depositions/",
@@ -1859,19 +1888,28 @@
       "points": 0
     },
     {
-      "id": "reddit_LocalLLaMA_t3_1rwvn6h",
-      "title": "MiniMax-M2.7 Announced!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rwvn6h/minimaxm27_announced/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-18T05:53:04+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
+      "id": "hf_paper_2603.17541",
+      "title": "Temporal Gains, Spatial Costs: Revisiting Video Fine-Tuning in Multimodal Large Language Models",
+      "url": "https://huggingface.co/papers/2603.17541",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-18T05:46:44.000Z",
+      "abstract": "Multimodal large language models (MLLMs) are typically trained in multiple stages, with video-based supervised fine-tuning (Video-SFT) serving as a key step for improving visual understanding. Yet its",
+      "authors": [
+        "Linghao Zhang",
+        "Jungang Li",
+        "Yonghua Hei",
+        "Sicheng Tao",
+        "Song Dai"
+      ],
+      "tags": [
+        "multimodal",
+        "fine-tuning"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
