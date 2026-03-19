@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-19T09:34:34.106Z",
+  "generatedAt": "2026-03-19T10:31:34.023Z",
   "date": "16-03-2026",
-  "count": 27,
+  "count": 28,
   "summary": null,
   "items": [
     {
@@ -556,6 +556,32 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.14935",
+      "title": "Video-CoE: Reinforcing Video Event Prediction via Chain of Events",
+      "url": "https://huggingface.co/papers/2603.14935",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-16T03:38:15.000Z",
+      "abstract": "Despite advances in the application of MLLMs for various video tasks, video event prediction (VEP) remains relatively underexplored. VEP requires the model to perform fine-grained temporal modeling of",
+      "authors": [
+        "Qile Su",
+        "Jing Tang",
+        "Rui Chen",
+        "Lei Sun",
+        "Xiangxiang Chu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

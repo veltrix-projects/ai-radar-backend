@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-19T09:34:34.105Z",
+  "generatedAt": "2026-03-19T10:31:34.023Z",
   "date": "17-03-2026",
-  "count": 30,
+  "count": 31,
   "summary": null,
   "items": [
     {
@@ -86,6 +86,32 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.17218",
+      "title": "Alignment Makes Language Models Normative, Not Descriptive",
+      "url": "https://huggingface.co/papers/2603.17218",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-17T19:47:08.000Z",
+      "abstract": "Post-training alignment optimizes language models to match human preference signals, but this objective is not equivalent to modeling observed human behavior. We compare 120 base-aligned model pairs o",
+      "authors": [
+        "Eilam Shapira",
+        "Moshe Tennenholtz",
+        "Roi Reichart"
+      ],
+      "tags": [
+        "alignment"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -353,6 +379,31 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.17079",
+      "title": "ACE-LoRA: Graph-Attentive Context Enhancement for Parameter-Efficient Adaptation of Medical Vision-Language Models",
+      "url": "https://huggingface.co/papers/2603.17079",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-17T15:06:33.000Z",
+      "abstract": "The success of CLIP-like vision-language models (VLMs) on natural images has inspired medical counterparts, yet existing approaches largely fall into two extremes: specialist models trained on single-",
+      "authors": [
+        "M. Arda Aydın",
+        "Melih B. Yilmaz",
+        "Aykut Koç",
+        "Tolga Çukur"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2603.17074",
       "title": "PRISM: Demystifying Retention and Interaction in Mid-Training",
       "url": "https://huggingface.co/papers/2603.17074",
@@ -409,30 +460,6 @@
       "timestamp": "2026-03-17T12:26:00.000Z",
       "abstract": "Trustpilot is reported to be pursuing partnerships with large eCommerce companies as AI-driven shopping gains traction. In an interview with Bloomberg News [paywall], chief executive Adrian Blair said",
       "authors": [],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.16642",
-      "title": "When AI Navigates the Fog of War",
-      "url": "https://huggingface.co/papers/2603.16642",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-17T11:13:10.000Z",
-      "abstract": "Can AI reason about a war before its trajectory becomes historically obvious? Analyzing this capability is difficult because retrospective geopolitical prediction is heavily confounded by training-dat",
-      "authors": [
-        "Ming Li",
-        "Xirui Li",
-        "Tianyi Zhou"
-      ],
       "tags": [],
       "score": 6,
       "priority": "MEDIUM",
@@ -655,7 +682,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 102799,
+      "stars": 102803,
       "votes": 0,
       "points": 0
     },
