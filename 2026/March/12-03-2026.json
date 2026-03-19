@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-19T18:09:08.728Z",
+  "generatedAt": "2026-03-19T19:26:31.155Z",
   "date": "12-03-2026",
-  "count": 4,
+  "count": 5,
   "summary": null,
   "items": [
     {
@@ -79,6 +79,31 @@
       "tags": [
         "gemini"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.11535",
+      "title": "Expert Threshold Routing for Autoregressive Language Modeling with Dynamic Computation Allocation and Load Balancing",
+      "url": "https://huggingface.co/papers/2603.11535",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-12T00:45:48.000Z",
+      "abstract": "Token-choice Mixture-of-Experts (TC-MoE) routes each token to a fixed number of experts, limiting dynamic computation allocation and requiring auxiliary losses to maintain load balance. We propose Exp",
+      "authors": [
+        "Hanchi Sun",
+        "Yixin Liu",
+        "Yonghui Wu",
+        "Lichao Sun"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
