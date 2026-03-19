@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-19T03:59:29.430Z",
+  "generatedAt": "2026-03-19T05:23:38.704Z",
   "date": "17-03-2026",
-  "count": 27,
+  "count": 28,
   "summary": null,
   "items": [
     {
@@ -60,6 +60,34 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.17187",
+      "title": "MetaClaw: Just Talk -- An Agent That Meta-Learns and Evolves in the Wild",
+      "url": "https://huggingface.co/papers/2603.17187",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-17T18:30:30.000Z",
+      "abstract": "Large language model (LLM) agents are increasingly used for complex tasks, yet deployed agents often remain static, failing to adapt as user needs evolve. This creates a tension between the need for c",
+      "authors": [
+        "Peng Xia",
+        "Jianwen Chen",
+        "Xinyu Yang",
+        "Haoqin Tu",
+        "Jiaqi Liu"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -170,6 +198,32 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.17117",
+      "title": "MosaicMem: Hybrid Spatial Memory for Controllable Video World Models",
+      "url": "https://huggingface.co/papers/2603.17117",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-17T16:19:44.000Z",
+      "abstract": "Video diffusion models are moving beyond short, plausible clips toward world simulators that must remain consistent under camera motion, revisits, and intervention. Yet spatial memory remains a key bo",
+      "authors": [
+        "Wei Yu",
+        "Runjia Qian",
+        "Yumeng Li",
+        "Liquan Wang",
+        "Songheng Yin"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "google_deepmind_https%3A%2F%2Fdeepmind.google%2Fblog%2Fm",
       "title": "Measuring progress toward AGI: A cognitive framework",
       "url": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
@@ -242,6 +296,33 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.17074",
+      "title": "PRISM: Demystifying Retention and Interaction in Mid-Training",
+      "url": "https://huggingface.co/papers/2603.17074",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-17T15:04:33.000Z",
+      "abstract": "We present PRISM, a comprehensive empirical study of mid-training design choices for large language models. Through controlled experiments across seven base models spanning four families (Granite, LLa",
+      "authors": [
+        "Bharat Runwal",
+        "Ashish Agrawal",
+        "Anurag Roy",
+        "Rameswar Panda"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -344,32 +425,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.16649",
-      "title": "Mixture of Style Experts for Diverse Image Stylization",
-      "url": "https://huggingface.co/papers/2603.16649",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-17T11:20:19.000Z",
-      "abstract": "Diffusion-based stylization has advanced significantly, yet existing methods are limited to color-driven transformations, neglecting complex semantics and material details.We introduce StyleExpert, a",
-      "authors": [
-        "Shihao Zhu",
-        "Ziheng Ouyang",
-        "Yijia Kang",
-        "Qilong Wang",
-        "Mi Zhou"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "hf_paper_2603.16642",
       "title": "When AI Navigates the Fog of War",
       "url": "https://huggingface.co/papers/2603.16642",
@@ -382,28 +437,6 @@
         "Ming Li",
         "Xirui Li",
         "Tianyi Zhou"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.16587",
-      "title": "HistoAtlas: A Pan-Cancer Morphology Atlas Linking Histomics to Molecular Programs and Clinical Outcomes",
-      "url": "https://huggingface.co/papers/2603.16587",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-17T10:36:07.000Z",
-      "abstract": "We present HistoAtlas, a pan-cancer computational atlas that extracts 38 interpretable histomic features from 6,745 diagnostic H&E slides across 21 TCGA cancer types and systematically links every fea",
-      "authors": [
-        "Pierre-Antoine Bannier"
       ],
       "tags": [],
       "score": 6,
@@ -480,6 +513,34 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.16496",
+      "title": "AdaMem: Adaptive User-Centric Memory for Long-Horizon Dialogue Agents",
+      "url": "https://huggingface.co/papers/2603.16496",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-17T09:22:54.000Z",
+      "abstract": "Large language model (LLM) agents increasingly rely on external memory to support long-horizon interaction, personalized assistance, and multi-step reasoning. However, existing memory systems still fa",
+      "authors": [
+        "Shannan Yan",
+        "Jingchen Ni",
+        "Leqi Zheng",
+        "Jiajun Zhang",
+        "Peixi Wu"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
       "title": "Google AI Releases WAXAL: A Multilingual African Speech Dataset for Training Automatic Speech Recognition and Text-to-Speech Models",
       "url": "https://www.marktechpost.com/2026/03/17/google-ai-releases-waxal-a-multilingual-african-speech-dataset-for-training-automatic-speech-recognition-and-text-to-speech-models/",
@@ -493,32 +554,6 @@
         "training",
         "speech"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.16309",
-      "title": "Omnilingual MT: Machine Translation for 1,600 Languages",
-      "url": "https://huggingface.co/papers/2603.16309",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-17T05:43:42.000Z",
-      "abstract": "High-quality machine translation (MT) can scale to hundreds of languages, setting a high bar for multilingual systems. However, compared to the world's 7,000 languages, current systems still offer onl",
-      "authors": [
-        "Omnilingual MT Team",
-        "Belen Alastruey",
-        "Niyati Bafna",
-        "Andrea Caciolai",
-        "Kevin Heffernan"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -570,7 +605,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 102764,
+      "stars": 102772,
       "votes": 0,
       "points": 0
     },

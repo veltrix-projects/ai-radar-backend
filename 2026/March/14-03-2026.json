@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-19T03:59:29.432Z",
+  "generatedAt": "2026-03-19T05:23:38.706Z",
   "date": "14-03-2026",
-  "count": 6,
+  "count": 5,
   "summary": null,
   "items": [
     {
@@ -59,32 +59,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.13875",
-      "title": "GradMem: Learning to Write Context into Memory with Test-Time Gradient Descent",
-      "url": "https://huggingface.co/papers/2603.13875",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-14T06:17:33.000Z",
-      "abstract": "Many large language model applications require conditioning on long contexts. Transformers typically support this by storing a large per-layer KV-cache of past activations, which incurs substantial me",
-      "authors": [
-        "Yuri Kuratov",
-        "Matvey Kairov",
-        "Aydar Bulatov",
-        "Ivan Rodkin",
-        "Mikhail Burtsev"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
