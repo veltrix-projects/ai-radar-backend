@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-19T06:33:03.383Z",
+  "generatedAt": "2026-03-19T07:41:00.396Z",
   "date": "17-03-2026",
-  "count": 27,
+  "count": 29,
   "summary": null,
   "items": [
     {
@@ -60,6 +60,29 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.17216",
+      "title": "AI Scientist via Synthetic Task Scaling",
+      "url": "https://huggingface.co/papers/2603.17216",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-17T19:43:16.000Z",
+      "abstract": "With the advent of AI agents, automatic scientific discovery has become a tenable goal. Many recent works scaffold agentic systems that can perform machine learning research, but don't offer a princip",
+      "authors": [
+        "Ziyang Cai",
+        "Harkirat Behl"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -395,6 +418,35 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.16557",
+      "title": "BenchPreS: A Benchmark for Context-Aware Personalized Preference Selectivity of Persistent-Memory LLMs",
+      "url": "https://huggingface.co/papers/2603.16557",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-17T10:19:05.000Z",
+      "abstract": "Large language models (LLMs) increasingly store user preferences in persistent memory to support personalization across interactions. However, in third-party communication settings governed by social",
+      "authors": [
+        "Sangyeon Yoon",
+        "Sunkyoung Kim",
+        "Hyesoo Hong",
+        "Wonje Jeung",
+        "Yongil Kim"
+      ],
+      "tags": [
+        "llm",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2603.16542",
       "title": "Conservative Offline Robot Policy Learning via Posterior-Transition Reweighting",
       "url": "https://huggingface.co/papers/2603.16542",
@@ -577,7 +629,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 102780,
+      "stars": 102786,
       "votes": 0,
       "points": 0
     },
