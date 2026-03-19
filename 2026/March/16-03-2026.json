@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-19T15:10:27.661Z",
+  "generatedAt": "2026-03-19T16:13:08.730Z",
   "date": "16-03-2026",
-  "count": 26,
+  "count": 24,
   "summary": null,
   "items": [
     {
@@ -133,28 +133,6 @@
     },
     {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
-      "title": "Introducing NVIDIA BlueField-4-Powered CMX Context Memory Storage Platform for the Next Frontier of AI",
-      "url": "https://developer.nvidia.com/blog/introducing-nvidia-bluefield-4-powered-inference-context-memory-storage-platform-for-the-next-frontier-of-ai/",
-      "source": "NVIDIA Blog",
-      "sourceIcon": "🟩",
-      "type": "tool",
-      "timestamp": "2026-03-16T20:30:00.000Z",
-      "abstract": "AI‑native organizations increasingly face scaling challenges as agentic AI workflows drive context windows to millions of tokens and models scale toward...]]>",
-      "authors": [],
-      "tags": [
-        "rag"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "How NVIDIA Dynamo 1.0 Powers Multi-Node Inference at Production Scale",
       "url": "https://developer.nvidia.com/blog/nvidia-dynamo-1-production-ready/",
       "source": "NVIDIA Blog",
@@ -188,6 +166,28 @@
       "tags": [
         "agent",
         "autonomous"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
+      "title": "Introducing NVIDIA BlueField-4-Powered CMX Context Memory Storage Platform for the Next Frontier of AI",
+      "url": "https://developer.nvidia.com/blog/introducing-nvidia-bluefield-4-powered-inference-context-memory-storage-platform-for-the-next-frontier-of-ai/",
+      "source": "NVIDIA Blog",
+      "sourceIcon": "🟩",
+      "type": "tool",
+      "timestamp": "2026-03-16T20:30:00.000Z",
+      "abstract": "AI‑native organizations increasingly face scaling challenges as agentic AI workflows drive context windows to millions of tokens and models scale toward...]]>",
+      "authors": [],
+      "tags": [
+        "rag"
       ],
       "score": 8,
       "priority": "HIGH",
@@ -264,28 +264,6 @@
       "points": 0
     },
     {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Agentic AI in the Enterprise Part 2: Guidance by Persona",
-      "url": "https://aws.amazon.com/blogs/machine-learning/agentic-ai-in-the-enterprise-part-2-guidance-by-persona/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-03-16T17:55:54.000Z",
-      "abstract": "This is Part II of a two-part series from the AWS Generative AI Innovation Center. In Part II, we speak directly to the leaders who must turn that shared foundation into action. Each role carries a di",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Ft",
       "title": "Testing LLMs on superconductivity research questions",
       "url": "https://research.google/blog/testing-llms-on-superconductivity-research-questions/",
@@ -321,29 +299,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Introducing Disaggregated Inference on AWS powered by llm-d",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-disaggregated-inference-on-aws-powered-by-llm-d/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-03-16T16:55:53.000Z",
-      "abstract": "In this blog post, we introduce the concepts behind next-generation inference capabilities, including disaggregated serving, intelligent request scheduling, and expert parallelism. We discuss their be",
-      "authors": [],
-      "tags": [
-        "llm",
-        "inference"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
