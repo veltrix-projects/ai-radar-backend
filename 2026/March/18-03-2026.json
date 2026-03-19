@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-19T11:28:46.753Z",
+  "generatedAt": "2026-03-19T11:58:00.525Z",
   "date": "18-03-2026",
-  "count": 76,
+  "count": 75,
   "summary": null,
   "items": [
     {
@@ -73,7 +73,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 127824,
+      "stars": 127828,
       "votes": 0,
       "points": 0
     },
@@ -1522,48 +1522,6 @@
       "points": 0
     },
     {
-      "id": "reddit_MachineLearning_t3_1rx1gtn",
-      "title": "[R] A Gradient Descent Misalignment — Causes Normalisation To Emerge",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1rx1gtn/r_a_gradient_descent_misalignment_causes/",
-      "source": "Reddit r/MachineLearning",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-18T11:37:24+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "alignment"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ars_technica_https%3A%2F%2Farstechnica.com%2Ftech-pol",
-      "title": "Users hate it, but age-check tech is coming. Here's how it works.",
-      "url": "https://arstechnica.com/tech-policy/2026/03/after-discord-fiasco-age-check-tech-promises-privacy-by-running-locally-does-it-work/",
-      "source": "Ars Technica",
-      "sourceIcon": "🔶",
-      "type": "news",
-      "timestamp": "2026-03-18T11:30:47.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
       "title": "NVIDIA AI Open-Sources &#8216;OpenShell&#8217;: A Secure Runtime Environment for Autonomous AI Agents",
       "url": "https://www.marktechpost.com/2026/03/18/nvidia-ai-open-sources-openshell-a-secure-runtime-environment-for-autonomous-ai-agents/",
@@ -1576,6 +1534,34 @@
       "tags": [
         "agent",
         "autonomous"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.17662",
+      "title": "FINER: MLLMs Hallucinate under Fine-grained Negative Queries",
+      "url": "https://huggingface.co/papers/2603.17662",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-18T08:28:05.000Z",
+      "abstract": "Multimodal large language models (MLLMs) struggle with hallucinations, particularly with fine-grained queries, a challenge underrepresented by existing benchmarks that focus on coarse image-related qu",
+      "authors": [
+        "Rui Xiao",
+        "Sanghwan Kim",
+        "Yongqin Xian",
+        "Zeynep Akata",
+        "Stephan Alaniz"
+      ],
+      "tags": [
+        "llm"
       ],
       "score": 8,
       "priority": "HIGH",
