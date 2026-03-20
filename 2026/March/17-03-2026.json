@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-20T01:15:59.245Z",
+  "generatedAt": "2026-03-20T03:41:52.995Z",
   "date": "17-03-2026",
-  "count": 27,
+  "count": 20,
   "summary": null,
   "items": [
     {
@@ -48,32 +48,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.17240",
-      "title": "GigaWorld-Policy: An Efficient Action-Centered World--Action Model",
-      "url": "https://huggingface.co/papers/2603.17240",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-17T20:52:02.000Z",
-      "abstract": "World-Action Models (WAM) initialized from pre-trained video generation backbones have demonstrated remarkable potential for robot policy learning. However, existing approaches face two critical bottl",
-      "authors": [
-        "Angen Ye",
-        "Boyuan Wang",
-        "Chaojun Ni",
-        "Guan Huang",
-        "Guosheng Zhao"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Fg",
       "title": "Google Research at The Check Up: from healthcare innovation to real-world care settings",
       "url": "https://research.google/blog/google-research-at-the-check-up-from-healthcare-innovation-to-real-world-care-settings/",
@@ -86,55 +60,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.17218",
-      "title": "Alignment Makes Language Models Normative, Not Descriptive",
-      "url": "https://huggingface.co/papers/2603.17218",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-17T19:47:08.000Z",
-      "abstract": "Post-training alignment optimizes language models to match human preference signals, but this objective is not equivalent to modeling observed human behavior. We compare 120 base-aligned model pairs o",
-      "authors": [
-        "Eilam Shapira",
-        "Moshe Tennenholtz",
-        "Roi Reichart"
-      ],
-      "tags": [
-        "alignment"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.17216",
-      "title": "AI Scientist via Synthetic Task Scaling",
-      "url": "https://huggingface.co/papers/2603.17216",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-17T19:43:16.000Z",
-      "abstract": "With the advent of AI agents, automatic scientific discovery has become a tenable goal. Many recent works scaffold agentic systems that can perform machine learning research, but don't offer a princip",
-      "authors": [
-        "Ziyang Cai",
-        "Harkirat Behl"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -285,51 +210,6 @@
       "points": 0
     },
     {
-      "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fpodcast",
-      "title": "The future of code is exciting and terrifying",
-      "url": "https://www.theverge.com/podcast/895910/claude-code-future-developers-vergecast",
-      "source": "The Verge AI",
-      "sourceIcon": "🔺",
-      "type": "news",
-      "timestamp": "2026-03-17T15:16:47.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.17079",
-      "title": "ACE-LoRA: Graph-Attentive Context Enhancement for Parameter-Efficient Adaptation of Medical Vision-Language Models",
-      "url": "https://huggingface.co/papers/2603.17079",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-17T15:06:33.000Z",
-      "abstract": "The success of CLIP-like vision-language models (VLMs) on natural images has inspired medical counterparts, yet existing approaches largely fall into two extremes: specialist models trained on single-",
-      "authors": [
-        "M. Arda Aydın",
-        "Melih B. Yilmaz",
-        "Aykut Koç",
-        "Tolga Çukur"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fai-job-l",
       "title": "AI Job Loss Research Ignores How AI Is Utterly Destroying the Internet",
       "url": "https://www.404media.co/ai-job-loss-research-ignores-how-ai-is-utterly-destroying-the-internet/",
@@ -380,61 +260,6 @@
       "abstract": "Adapting large-scale Vision-Language Models (VLMs) like CLIP to downstream tasks often suffers from a \"one-size-fits-all\" architectural approach, where visual and textual tokens are processed uniforml",
       "authors": [
         "Md Jahidul Islam"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.16557",
-      "title": "BenchPreS: A Benchmark for Context-Aware Personalized Preference Selectivity of Persistent-Memory LLMs",
-      "url": "https://huggingface.co/papers/2603.16557",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-17T10:19:05.000Z",
-      "abstract": "Large language models (LLMs) increasingly store user preferences in persistent memory to support personalization across interactions. However, in third-party communication settings governed by social",
-      "authors": [
-        "Sangyeon Yoon",
-        "Sunkyoung Kim",
-        "Hyesoo Hong",
-        "Wonje Jeung",
-        "Yongil Kim"
-      ],
-      "tags": [
-        "llm",
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.16542",
-      "title": "Conservative Offline Robot Policy Learning via Posterior-Transition Reweighting",
-      "url": "https://huggingface.co/papers/2603.16542",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-17T10:05:35.000Z",
-      "abstract": "Offline post-training adapts a pretrained robot policy to a target dataset by supervised regression on recorded actions. In practice, robot datasets are heterogeneous: they mix embodiments, camera set",
-      "authors": [
-        "Wanpeng Zhang",
-        "Hao Luo",
-        "Sipeng Zheng",
-        "Yicheng Feng",
-        "Haiweng Xu"
       ],
       "tags": [],
       "score": 6,
@@ -575,7 +400,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 102869,
+      "stars": 102886,
       "votes": 0,
       "points": 0
     },

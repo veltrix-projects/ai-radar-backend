@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-20T01:15:59.247Z",
+  "generatedAt": "2026-03-20T03:41:52.997Z",
   "date": "13-03-2026",
   "count": 11,
   "summary": null,
@@ -57,6 +57,34 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.16929",
+      "title": "MHPO: Modulated Hazard-aware Policy Optimization for Stable Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2603.16929",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-13T20:45:15.000Z",
+      "abstract": "Regulating the importance ratio is critical for the training stability of Group Relative Policy Optimization (GRPO) based frameworks. However, prevailing ratio control methods, such as hard clipping,",
+      "authors": [
+        "Hongjun Wang",
+        "Wei Liu",
+        "Weibo Gu",
+        "Xing Sun",
+        "Kai Han"
+      ],
+      "tags": [
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -138,34 +166,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.13033",
-      "title": "ESPIRE: A Diagnostic Benchmark for Embodied Spatial Reasoning of Vision-Language Models",
-      "url": "https://huggingface.co/papers/2603.13033",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-13T10:43:00.000Z",
-      "abstract": "A recent trend in vision-language models (VLMs) has been to enhance their spatial cognition for embodied domains. Despite progress, existing evaluations have been limited both in paradigm and in cover",
-      "authors": [
-        "Yanpeng Zhao",
-        "Wentao Ding",
-        "Hongtao Li",
-        "Baoxiong Jia",
-        "Zilong Zheng"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

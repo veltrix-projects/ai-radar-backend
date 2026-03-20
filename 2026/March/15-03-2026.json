@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-03-20T01:15:59.247Z",
+  "generatedAt": "2026-03-20T03:41:52.996Z",
   "date": "15-03-2026",
-  "count": 2,
+  "count": 3,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2603.14706",
+      "title": "AdapterTune: Zero-Initialized Low-Rank Adapters for Frozen Vision Transformers",
+      "url": "https://huggingface.co/papers/2603.14706",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-15T21:29:26.000Z",
+      "abstract": "Frozen-backbone transfer with Vision Transformers faces two under-addressed issues: optimization instability when adapters are naively inserted into a fixed feature extractor, and the absence of princ",
+      "authors": [
+        "Salim Khazem"
+      ],
+      "tags": [
+        "transformer"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2603.14482",
       "title": "V-JEPA 2.1: Unlocking Dense Features in Video Self-Supervised Learning",

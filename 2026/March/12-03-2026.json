@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-20T01:15:59.248Z",
+  "generatedAt": "2026-03-20T03:41:52.998Z",
   "date": "12-03-2026",
-  "count": 5,
+  "count": 7,
   "summary": null,
   "items": [
     {
@@ -18,6 +18,32 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.12372",
+      "title": "Efficient Reasoning with Balanced Thinking",
+      "url": "https://huggingface.co/papers/2603.12372",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-12T14:48:07.000Z",
+      "abstract": "Large Reasoning Models (LRMs) have shown remarkable reasoning capabilities, yet they often suffer from overthinking, expending redundant computational steps on simple problems, or underthinking, faili",
+      "authors": [
+        "Yulin Li",
+        "Tengyao Tu",
+        "Li Ding",
+        "Junjie Wang",
+        "Huiling Zhen"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -79,6 +105,32 @@
       "tags": [
         "gemini"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.11804",
+      "title": "OSM-based Domain Adaptation for Remote Sensing VLMs",
+      "url": "https://huggingface.co/papers/2603.11804",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-12T07:08:30.000Z",
+      "abstract": "Vision-Language Models (VLMs) adapted to remote sensing rely heavily on domain-specific image-text supervision, yet high-quality annotations for satellite and aerial imagery remain scarce and expensiv",
+      "authors": [
+        "Stefan Maria Ailuro",
+        "Mario Markov",
+        "Mohammad Mahdi",
+        "Delyan Boychev",
+        "Luc Van Gool"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
