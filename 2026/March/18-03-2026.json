@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-20T12:37:13.208Z",
+  "generatedAt": "2026-03-20T13:55:13.649Z",
   "date": "18-03-2026",
-  "count": 21,
+  "count": 22,
   "summary": null,
   "items": [
     {
@@ -14,6 +14,34 @@
       "timestamp": "2026-03-18T23:42:46.000Z",
       "abstract": "",
       "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.18429",
+      "title": "AndroTMem: From Interaction Trajectories to Anchored Memory in Long-Horizon GUI Agents",
+      "url": "https://huggingface.co/papers/2603.18429",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-18T22:45:21.000Z",
+      "abstract": "Long-horizon GUI agents are a key step toward real-world deployment, yet effective interaction memory under prevailing paradigms remains under-explored. Replaying full interaction sequences is redunda",
+      "authors": [
+        "Yibo Shi",
+        "Jungang Li",
+        "Linghao Zhang",
+        "Zihao Dongfang",
+        "Biao Wu"
+      ],
       "tags": [
         "agent"
       ],

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-20T12:37:13.207Z",
+  "generatedAt": "2026-03-20T13:55:13.648Z",
   "date": "19-03-2026",
-  "count": 83,
+  "count": 73,
   "summary": null,
   "items": [
     {
@@ -120,26 +120,6 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1rydtag",
-      "title": "Nemotron-3-Nano (4B), new hybrid Mamba + Attention model from NVIDIA, running locally in your browser on WebGPU.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rydtag/nemotron3nano_4b_new_hybrid_mamba_attention_model/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "model",
-      "timestamp": "2026-03-19T21:59:23+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -462,6 +442,35 @@
       "tags": [
         "llm",
         "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2603.19223v1",
+      "title": "F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World",
+      "url": "https://arxiv.org/abs/2603.19223v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-03-19T17:59:21Z",
+      "abstract": "We present F2LLM-v2, a new family of general-purpose, multilingual embedding models in 8 distinct sizes ranging from 80M to 14B. Trained on a newly curated composite of 60 million publicly available h",
+      "authors": [
+        "Ziyin Zhang",
+        "Zihan Liao",
+        "Hang Yu",
+        "Peng Di",
+        "Rui Wang"
+      ],
+      "tags": [
+        "llm",
+        "embeddings"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -991,48 +1000,6 @@
       "points": 0
     },
     {
-      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
-      "title": "NVIDIA Vera Rubin POD: Seven Chips, Five Rack-Scale Systems, One AI Supercomputer",
-      "url": "https://developer.nvidia.com/blog/nvidia-vera-rubin-pod-seven-chips-five-rack-scale-systems-one-ai-supercomputer/",
-      "source": "NVIDIA Blog",
-      "sourceIcon": "🟩",
-      "type": "tool",
-      "timestamp": "2026-03-19T16:05:58.000Z",
-      "abstract": "Artificial intelligence is token-driven. Every prompt, reasoning step, and agent interaction generates tokens. Over the past year, token consumption has grown...]]>",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
-      "title": "Newton Adds Contact-Rich Manipulation and Locomotion Capabilities for Industrial Robotics",
-      "url": "https://developer.nvidia.com/blog/newton-adds-contact-rich-manipulation-and-locomotion-capabilities-for-industrial-robotics/",
-      "source": "NVIDIA Blog",
-      "sourceIcon": "🟩",
-      "type": "tool",
-      "timestamp": "2026-03-19T16:00:50.000Z",
-      "abstract": "Physics forms the foundation of robotic simulation, enabling realistic modeling of motion and interaction. For tasks like locomotion and manipulation,...]]>",
-      "authors": [],
-      "tags": [
-        "robotics"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "reddit_LocalLLaMA_t3_1ry49iy",
       "title": "Agent this, coding that, but all I want is a KNOWLEDGEABLE model! Where are those?",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ry49iy/agent_this_coding_that_but_all_i_want_is_a/",
@@ -1044,28 +1011,6 @@
       "authors": [],
       "tags": [
         "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1ry2v92",
-      "title": "PearlOS. We gave swarm intelligence a local desktop environment and code control to self-evolve. Has been pretty incredible to see so far. Open source and free if you want your own.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ry2v92/pearlos_we_gave_swarm_intelligence_a_local/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-19T15:04:22+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "open source"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -1197,78 +1142,6 @@
       "points": 0
     },
     {
-      "id": "reddit_LocalLLaMA_t3_1ry1dy1",
-      "title": "acestep.cpp: portable C++17 implementation of ACE-Step 1.5 music generation using GGML. Runs on CPU, CUDA, ROCm, Metal, Vulkan",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ry1dy1/acestepcpp_portable_c17_implementation_of_acestep/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-19T14:08:17+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.19235",
-      "title": "Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding",
-      "url": "https://huggingface.co/papers/2603.19235",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-19T13:59:58.000Z",
-      "abstract": "While Multimodal Large Language Models demonstrate impressive semantic capabilities, they often suffer from spatial blindness, struggling with fine-grained geometric reasoning and physical dynamics. E",
-      "authors": [
-        "Xianjin Wu",
-        "Dingkang Liang",
-        "Tianrui Feng",
-        "Kui Xia",
-        "Yumeng Zhang"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.19234",
-      "title": "Matryoshka Gaussian Splatting",
-      "url": "https://huggingface.co/papers/2603.19234",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-19T13:59:56.000Z",
-      "abstract": "The ability to render scenes at adjustable fidelity from a single model, known as level of detail (LoD), is crucial for practical deployment of 3D Gaussian Splatting (3DGS). Existing discrete LoD meth",
-      "authors": [
-        "Zhilin Guo",
-        "Boqiao Zhang",
-        "Hakan Aktas",
-        "Kyle Fogarty",
-        "Jeffrey Hu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "hf_paper_2603.19231",
       "title": "MonoArt: Progressive Structural Reasoning for Monocular Articulated 3D Reconstruction",
       "url": "https://huggingface.co/papers/2603.19231",
@@ -1376,35 +1249,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.19223",
-      "title": "F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World",
-      "url": "https://huggingface.co/papers/2603.19223",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-19T13:59:21.000Z",
-      "abstract": "We present F2LLM-v2, a new family of general-purpose, multilingual embedding models in 8 distinct sizes ranging from 80M to 14B. Trained on a newly curated composite of 60 million publicly available h",
-      "authors": [
-        "Ziyin Zhang",
-        "Zihan Liao",
-        "Hang Yu",
-        "Peng Di",
-        "Rui Wang"
-      ],
-      "tags": [
-        "llm",
-        "embeddings"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "hf_paper_2603.19217",
       "title": "LVOmniBench: Pioneering Long Audio-Video Understanding Evaluation for Omnimodal LLMs",
       "url": "https://huggingface.co/papers/2603.19217",
@@ -1479,26 +1323,6 @@
       "points": 0
     },
     {
-      "id": "reddit_MachineLearning_t3_1rxzyao",
-      "title": "AlgoTrade Hackathon 206 (Zagreb, Croatia)",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1rxzyao/algotrade_hackathon_206_zagreb_croatia/",
-      "source": "Reddit r/MachineLearning",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-19T13:08:25+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Ftech%2F",
       "title": "Adobe’s AI image generator can now be trained on your own art",
       "url": "https://www.theverge.com/tech/897243/adobe-firefly-ai-custom-models-image-public-beta",
@@ -1511,28 +1335,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_MachineLearning_t3_1rxz4xk",
-      "title": "[D] Breaking down MiroThinker H1's verification centric reasoning: why fewer interaction rounds produce better agent performance",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1rxz4xk/d_breaking_down_mirothinker_h1s_verification/",
-      "source": "Reddit r/MachineLearning",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-19T12:31:24+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -1616,32 +1418,6 @@
       "tags": [
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.18886",
-      "title": "Reasoning over mathematical objects: on-policy reward modeling and test time aggregation",
-      "url": "https://huggingface.co/papers/2603.18886",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-19T09:27:12.000Z",
-      "abstract": "The ability to precisely derive mathematical objects is a core requirement for downstream STEM applications, including mathematics, physics, and chemistry, where reasoning must culminate in formally s",
-      "authors": [
-        "Pranjal Aggarwal",
-        "Marjan Ghazvininejad",
-        "Seungone Kim",
-        "Ilia Kulikov",
-        "Jack Lanchantin"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -1818,7 +1594,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 108287,
+      "stars": 108289,
       "votes": 0,
       "points": 0
     },
