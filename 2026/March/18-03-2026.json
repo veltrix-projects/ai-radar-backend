@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-20T08:00:45.399Z",
+  "generatedAt": "2026-03-20T09:03:41.935Z",
   "date": "18-03-2026",
-  "count": 22,
+  "count": 23,
   "summary": null,
   "items": [
     {
@@ -443,6 +443,32 @@
         "agent",
         "benchmark"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.17554",
+      "title": "Prompt-Free Universal Region Proposal Network",
+      "url": "https://huggingface.co/papers/2603.17554",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-18T06:02:13.000Z",
+      "abstract": "Identifying potential objects is critical for object recognition and analysis across various computer vision applications. Existing methods typically localize potential objects by relying on exemplar",
+      "authors": [
+        "Qihong Tang",
+        "Changhan Liu",
+        "Shaofeng Zhang",
+        "Wenbin Li",
+        "Qi Fan"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

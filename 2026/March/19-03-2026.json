@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-20T08:00:45.397Z",
+  "generatedAt": "2026-03-20T09:03:41.934Z",
   "date": "19-03-2026",
-  "count": 93,
+  "count": 94,
   "summary": null,
   "items": [
     {
@@ -31,7 +31,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 130311,
+      "stars": 130319,
       "votes": 0,
       "points": 0
     },
@@ -138,6 +138,29 @@
       "points": 0
     },
     {
+      "id": "reddit_LocalLLaMA_t3_1ryelpe",
+      "title": "Qwen3-TTS ported to llama.cpp",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ryelpe/qwen3tts_ported_to_llamacpp/",
+      "source": "Reddit r/LocalLLaMA",
+      "sourceIcon": "🔴",
+      "type": "model",
+      "timestamp": "2026-03-19T22:29:28+00:00",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "llama",
+        "qwen"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "techcrunch_ai_https%3A%2F%2Ftechcrunch.com%2F2026%2F03",
       "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
       "url": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
@@ -151,6 +174,26 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "reddit_LocalLLaMA_t3_1rydtag",
+      "title": "Nemotron-3-Nano (4B), new hybrid Mamba + Attention model from NVIDIA, running locally in your browser on WebGPU.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rydtag/nemotron3nano_4b_new_hybrid_mamba_attention_model/",
+      "source": "Reddit r/LocalLLaMA",
+      "sourceIcon": "🔴",
+      "type": "model",
+      "timestamp": "2026-03-19T21:59:23+00:00",
+      "abstract": "",
+      "authors": [],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -197,37 +240,6 @@
       "downloads": 0,
       "likes": 0,
       "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "gh_155220641",
-      "title": "huggingface/transformers — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text",
-      "url": "https://github.com/huggingface/transformers",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-03-19T21:22:29Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "audio",
-        "deep-learning",
-        "deepseek",
-        "gemma",
-        "glm",
-        "hacktoberfest",
-        "llm",
-        "machine-learning",
-        "model-hub",
-        "natural-language-processing"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 158131,
       "votes": 0,
       "points": 0
     },
@@ -558,6 +570,35 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2603.19220v1",
+      "title": "Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2603.19220v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-03-19T17:58:52Z",
+      "abstract": "We introduce Nemotron-Cascade 2, an open 30B MoE model with 3B activated parameters that delivers best-in-class reasoning and strong agentic capabilities. Despite its compact size, its mathematical an",
+      "authors": [
+        "Zhuolin Yang",
+        "Zihan Liu",
+        "Yang Chen",
+        "Wenliang Dai",
+        "Boxin Wang"
+      ],
+      "tags": [
+        "llm",
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -1477,6 +1518,31 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.19224",
+      "title": "EffectErase: Joint Video Object Removal and Insertion for High-Quality Effect Erasing",
+      "url": "https://huggingface.co/papers/2603.19224",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-19T13:59:22.000Z",
+      "abstract": "Video object removal aims to eliminate dynamic target objects and their visual effects, such as deformation, shadows, and reflections, while restoring seamless backgrounds. Recent diffusion-based vide",
+      "authors": [
+        "Yang Fu",
+        "Yike Zheng",
+        "Ziyun Dai",
+        "Henghui Ding"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2603.19223",
       "title": "F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World",
       "url": "https://huggingface.co/papers/2603.19223",
@@ -1495,35 +1561,6 @@
       "tags": [
         "llm",
         "embeddings"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.19220",
-      "title": "Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation",
-      "url": "https://huggingface.co/papers/2603.19220",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-19T13:58:52.000Z",
-      "abstract": "We introduce Nemotron-Cascade 2, an open 30B MoE model with 3B activated parameters that delivers best-in-class reasoning and strong agentic capabilities. Despite its compact size, its mathematical an",
-      "authors": [
-        "Zhuolin Yang",
-        "Zihan Liu",
-        "Yang Chen",
-        "Wenliang Dai",
-        "Boxin Wang"
-      ],
-      "tags": [
-        "llm",
-        "training"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -1916,28 +1953,6 @@
       "points": 0
     },
     {
-      "id": "reddit_LocalLLaMA_t3_1rxue4x",
-      "title": "Qwen3.5 Knowledge density and performance",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rxue4x/qwen35_knowledge_density_and_performance/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-19T08:00:54+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "qwen"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "techcrunch_ai_https%3A%2F%2Ftechcrunch.com%2F2026%2F03",
       "title": "Multiverse Computing pushes its compressed AI models into the mainstream",
       "url": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/",
@@ -2054,7 +2069,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 108274,
+      "stars": 108276,
       "votes": 0,
       "points": 0
     },
