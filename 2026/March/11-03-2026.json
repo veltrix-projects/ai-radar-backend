@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-20T03:41:52.999Z",
+  "generatedAt": "2026-03-20T05:12:07.721Z",
   "date": "11-03-2026",
-  "count": 6,
+  "count": 7,
   "summary": null,
   "items": [
     {
@@ -122,6 +122,32 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.13395",
+      "title": "COT-FM: Cluster-wise Optimal Transport Flow Matching",
+      "url": "https://huggingface.co/papers/2603.13395",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-11T09:52:17.000Z",
+      "abstract": "We introduce COT-FM, a general framework that reshapes the probability path in Flow Matching (FM) to achieve faster and more reliable generation. FM models often produce curved trajectories due to ran",
+      "authors": [
+        "Chiensheng Chiang",
+        "Kuan-Hsun Tu",
+        "Jia-Wei Liao",
+        "Cheng-Fu Chou",
+        "Tsung-Wei Ke"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

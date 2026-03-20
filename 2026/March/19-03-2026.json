@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-20T03:41:52.993Z",
+  "generatedAt": "2026-03-20T05:12:07.716Z",
   "date": "19-03-2026",
   "count": 90,
   "summary": null,
@@ -31,7 +31,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 130280,
+      "stars": 130287,
       "votes": 0,
       "points": 0
     },
@@ -98,37 +98,6 @@
       "points": 0
     },
     {
-      "id": "gh_574523116",
-      "title": "f/prompts.chat — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and op",
-      "url": "https://github.com/f/prompts.chat",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-03-19T22:40:10Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "ai",
-        "artificial-intelligence",
-        "awesome-list",
-        "chatgpt",
-        "chatgpt-prompts",
-        "claude",
-        "gemini",
-        "gpt",
-        "gpt-4",
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 153370,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "reddit_LocalLLaMA_t3_1ryetd5",
       "title": "Vercel will train model on your code",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ryetd5/vercel_will_train_model_on_your_code/",
@@ -182,6 +151,26 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "reddit_LocalLLaMA_t3_1rydtag",
+      "title": "Nemotron-3-Nano (4B), new hybrid Mamba + Attention model from NVIDIA, running locally in your browser on WebGPU.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rydtag/nemotron3nano_4b_new_hybrid_mamba_attention_model/",
+      "source": "Reddit r/LocalLLaMA",
+      "sourceIcon": "🔴",
+      "type": "model",
+      "timestamp": "2026-03-19T21:59:23+00:00",
+      "abstract": "",
+      "authors": [],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -258,7 +247,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 158120,
+      "stars": 158121,
       "votes": 0,
       "points": 0
     },
@@ -1708,28 +1697,6 @@
       "points": 0
     },
     {
-      "id": "reddit_LocalLLaMA_t3_1rxxfre",
-      "title": "I fine-tuned Qwen 0.5B for task automation and wanted to share the results.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rxxfre/i_finetuned_qwen_05b_for_task_automation_and/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-19T11:05:32+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "qwen"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "reddit_LocalLLaMA_t3_1rxwcda",
       "title": "Benchmarked MiniMax M2.7 through 2 benchmarks. Here's how it did",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rxwcda/benchmarked_minimax_m27_through_2_benchmarks/",
@@ -1885,6 +1852,36 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.18815",
+      "title": "ProRL Agent: Rollout-as-a-Service for RL Training of Multi-Turn LLM Agents",
+      "url": "https://huggingface.co/papers/2603.18815",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-19T08:08:51.000Z",
+      "abstract": "Multi-turn LLM agents are increasingly important for solving complex, interactive tasks, and reinforcement learning (RL) is a key ingredient for improving their long-horizon behavior. However, RL trai",
+      "authors": [
+        "Hao Zhang",
+        "Mingjie Liu",
+        "Shaokun Zhang",
+        "Songyang Han",
+        "Jian Hu"
+      ],
+      "tags": [
+        "llm",
+        "agent",
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "reddit_LocalLLaMA_t3_1rxue4x",
       "title": "Qwen3.5 Knowledge density and performance",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rxue4x/qwen35_knowledge_density_and_performance/",
@@ -1949,6 +1946,34 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.18743",
+      "title": "Memento-Skills: Let Agents Design Agents",
+      "url": "https://huggingface.co/papers/2603.18743",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-19T06:45:22.000Z",
+      "abstract": "We introduce Memento-Skills, a generalist, continually-learnable LLM agent system that functions as an agent-designing agent: it autonomously constructs, adapts, and improves task-specific agents thro",
+      "authors": [
+        "Huichi Zhou",
+        "Siyuan Guo",
+        "Anjie Liu",
+        "Zhongwei Yu",
+        "Ziqin Gong"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
       "title": "Meet Mamba-3: A New State Space Model Frontier with 2x Smaller States and Enhanced MIMO Decoding Hardware Efficiency",
       "url": "https://www.marktechpost.com/2026/03/18/meet-mamba-3-a-new-state-space-model-frontier-with-2x-smaller-states-and-enhanced-mimo-decoding-hardware-efficiency/",
@@ -1996,29 +2021,6 @@
       "downloads": 0,
       "likes": 0,
       "stars": 108271,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1rxovb9",
-      "title": "Qwen3.5-40B-Claude-4.5-Opus-High-Reasoning-Thinking - Reg, Uncensored and RoughHouse and... 43 Qwen 3.5 fine tunes.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rxovb9/qwen3540bclaude45opushighreasoningthinking_reg/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "model",
-      "timestamp": "2026-03-19T02:55:19+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "claude",
-        "qwen"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
       "votes": 0,
       "points": 0
     },
