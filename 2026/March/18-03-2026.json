@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-20T05:12:07.717Z",
+  "generatedAt": "2026-03-20T06:10:13.048Z",
   "date": "18-03-2026",
-  "count": 20,
+  "count": 21,
   "summary": null,
   "items": [
     {
@@ -332,6 +332,32 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.18002",
+      "title": "Loc3R-VLM: Language-based Localization and 3D Reasoning with Vision-Language Models",
+      "url": "https://huggingface.co/papers/2603.18002",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-18T13:59:10.000Z",
+      "abstract": "Multimodal Large Language Models (MLLMs) have made impressive progress in connecting vision and language, but they still struggle with spatial understanding and viewpoint-aware reasoning. Recent effor",
+      "authors": [
+        "Kevin Qu",
+        "Haozhe Qi",
+        "Mihai Dusmanu",
+        "Mahdi Rad",
+        "Rui Wang"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
