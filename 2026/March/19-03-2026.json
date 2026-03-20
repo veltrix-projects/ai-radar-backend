@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-20T13:55:13.648Z",
+  "generatedAt": "2026-03-20T14:38:05.307Z",
   "date": "19-03-2026",
-  "count": 73,
+  "count": 70,
   "summary": null,
   "items": [
     {
@@ -281,26 +281,6 @@
       "sourceIcon": "💚",
       "type": "news",
       "timestamp": "2026-03-19T19:09:02.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1ry9936",
-      "title": "Will Gemma 3 12B be the best all-rounder(no coding) during Iran's internet shutdowns on my RTX 4060 laptop?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ry9936/will_gemma_3_12b_be_the_best_allrounderno_coding/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-19T18:57:33+00:00",
       "abstract": "",
       "authors": [],
       "tags": [],
@@ -1102,46 +1082,6 @@
       "points": 0
     },
     {
-      "id": "reddit_MachineLearning_t3_1ry1mej",
-      "title": "[P] XGBoost + TF-IDF for emotion prediction — good state accuracy but struggling with intensity (need advice)",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ry1mej/p_xgboost_tfidf_for_emotion_prediction_good_state/",
-      "source": "Reddit r/MachineLearning",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-19T14:17:30+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_MachineLearning_t3_1ry1j0g",
-      "title": "[D] How hard is it to get Research Engineer interview from Deepmind?",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ry1j0g/d_how_hard_is_it_to_get_research_engineer/",
-      "source": "Reddit r/MachineLearning",
-      "sourceIcon": "🔴",
-      "type": "research",
-      "timestamp": "2026-03-19T14:13:50+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "hf_paper_2603.19231",
       "title": "MonoArt: Progressive Structural Reasoning for Monocular Articulated 3D Reconstruction",
       "url": "https://huggingface.co/papers/2603.19231",
@@ -1196,34 +1136,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.19228",
-      "title": "SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing",
-      "url": "https://huggingface.co/papers/2603.19228",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-19T13:59:51.000Z",
-      "abstract": "Current instruction-guided video editing models struggle to simultaneously balance precise semantic modifications with faithful motion preservation. While existing approaches rely on injecting explici",
-      "authors": [
-        "Xinyao Zhang",
-        "Wenkai Dong",
-        "Yuxin Song",
-        "Bo Fang",
-        "Qi Zhang"
-      ],
-      "tags": [
-        "alignment"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "hf_paper_2603.19224",
       "title": "EffectErase: Joint Video Object Removal and Insertion for High-Quality Effect Erasing",
       "url": "https://huggingface.co/papers/2603.19224",
@@ -1267,6 +1179,32 @@
       "tags": [
         "llm"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.19203",
+      "title": "Tinted Frames: Question Framing Blinds Vision-Language Models",
+      "url": "https://huggingface.co/papers/2603.19203",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-19T13:53:09.000Z",
+      "abstract": "Vision-Language Models (VLMs) have been shown to be blind, often underutilizing their visual inputs even on tasks that require visual reasoning. In this work, we demonstrate that VLMs are selectively",
+      "authors": [
+        "Wan-Cyuan Fan",
+        "Jiayun Luo",
+        "Declan Kutscher",
+        "Leonid Sigal",
+        "Ritwik Gupta"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -1594,7 +1532,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 108289,
+      "stars": 108290,
       "votes": 0,
       "points": 0
     },
