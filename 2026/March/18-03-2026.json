@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-20T06:10:13.048Z",
+  "generatedAt": "2026-03-20T07:27:40.552Z",
   "date": "18-03-2026",
-  "count": 21,
+  "count": 22,
   "summary": null,
   "items": [
     {
@@ -443,6 +443,32 @@
         "agent",
         "benchmark"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.18090",
+      "title": "MOSS-TTS Technical Report",
+      "url": "https://huggingface.co/papers/2603.18090",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-18T05:08:06.000Z",
+      "abstract": "This technical report presents MOSS-TTS, a speech generation foundation model built on a scalable recipe: discrete audio tokens, autoregressive modeling, and large-scale pretraining. Built on MOSS-Aud",
+      "authors": [
+        "Yitian Gong",
+        "Botian Jiang",
+        "Yiwei Zhao",
+        "Yucheng Yuan",
+        "Kuangwei Chen"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
