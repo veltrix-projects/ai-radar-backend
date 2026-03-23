@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-23T08:02:34.425Z",
+  "generatedAt": "2026-03-23T09:34:30.559Z",
   "date": "20-03-2026",
-  "count": 38,
+  "count": 40,
   "summary": null,
   "items": [
     {
@@ -756,6 +756,34 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.20105",
+      "title": "The Y-Combinator for LLMs: Solving Long-Context Rot with λ-Calculus",
+      "url": "https://huggingface.co/papers/2603.20105",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-20T12:29:51.000Z",
+      "abstract": "LLMs are increasingly used as general-purpose reasoners, but long inputs remain bottlenecked by a fixed context window. Recursive Language Models (RLMs) address this by externalising the prompt and re",
+      "authors": [
+        "Amartya Roy",
+        "Rasul Tutunov",
+        "Xiaotong Ji",
+        "Matthieu Zimmer",
+        "Haitham Bou-Ammar"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
       "title": "OpenAI is throwing everything into building a fully automated researcher",
       "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
@@ -815,6 +843,34 @@
         "Shuai Shao"
       ],
       "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.19714",
+      "title": "LoopRPT: Reinforcement Pre-Training for Looped Language Models",
+      "url": "https://huggingface.co/papers/2603.19714",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-20T03:35:38.000Z",
+      "abstract": "Looped language models (LoopLMs) perform iterative latent computation to refine internal representations, offering a promising alternative to explicit chain-of-thought (CoT) reasoning. However, existi",
+      "authors": [
+        "Guo Tang",
+        "Shixin Jiang",
+        "Heng Chang",
+        "Nuo Chen",
+        "Yuhan Li"
+      ],
+      "tags": [
+        "training"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

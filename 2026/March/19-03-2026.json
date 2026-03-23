@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-23T08:02:34.425Z",
+  "generatedAt": "2026-03-23T09:34:30.560Z",
   "date": "19-03-2026",
-  "count": 23,
+  "count": 24,
   "summary": null,
   "items": [
     {
@@ -123,6 +123,35 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.19466",
+      "title": "ProactiveBench: Benchmarking Proactiveness in Multimodal Large Language Models",
+      "url": "https://huggingface.co/papers/2603.19466",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-19T16:58:03.000Z",
+      "abstract": "Effective collaboration begins with knowing when to ask for help. For example, when trying to identify an occluded object, a human would ask someone to remove the obstruction. Can MLLMs exhibit a simi",
+      "authors": [
+        "Thomas De Min",
+        "Subhankar Roy",
+        "Stéphane Lathuilière",
+        "Elisa Ricci",
+        "Massimiliano Mancini"
+      ],
+      "tags": [
+        "multimodal",
+        "benchmark"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2603.19461",
       "title": "Hyperagents",
       "url": "https://huggingface.co/papers/2603.19461",
@@ -185,6 +214,30 @@
       "authors": [],
       "tags": [
         "rag"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.19453",
+      "title": "Cooperation and Exploitation in LLM Policy Synthesis for Sequential Social Dilemmas",
+      "url": "https://huggingface.co/papers/2603.19453",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-19T16:27:48.000Z",
+      "abstract": "We study LLM policy synthesis: using a large language model to iteratively generate programmatic agent policies for multi-agent environments. Rather than training neural policies via reinforcement lea",
+      "authors": [
+        "Víctor Gallego"
+      ],
+      "tags": [
+        "llm"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -270,32 +323,6 @@
         "Muntasir Wahed",
         "Jerry Xiong",
         "Yifan Shen"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.19203",
-      "title": "Tinted Frames: Question Framing Blinds Vision-Language Models",
-      "url": "https://huggingface.co/papers/2603.19203",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-19T13:53:09.000Z",
-      "abstract": "Vision-Language Models (VLMs) have been shown to be blind, often underutilizing their visual inputs even on tasks that require visual reasoning. In this work, we demonstrate that VLMs are selectively",
-      "authors": [
-        "Wan-Cyuan Fan",
-        "Jiayun Luo",
-        "Declan Kutscher",
-        "Leonid Sigal",
-        "Ritwik Gupta"
       ],
       "tags": [],
       "score": 6,
@@ -501,7 +528,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 108383,
+      "stars": 108388,
       "votes": 0,
       "points": 0
     },
