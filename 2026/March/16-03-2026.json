@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-23T14:09:03.666Z",
+  "generatedAt": "2026-03-23T15:32:49.071Z",
   "date": "16-03-2026",
-  "count": 14,
+  "count": 15,
   "summary": null,
   "items": [
     {
@@ -167,6 +167,33 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.15911",
+      "title": "Human-AI Synergy in Agentic Code Review",
+      "url": "https://huggingface.co/papers/2603.15911",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-16T16:56:18.000Z",
+      "abstract": "Code review is a critical software engineering practice where developers review code changes before integration to ensure code quality, detect defects, and improve maintainability. In recent years, AI",
+      "authors": [
+        "Suzhen Zhong",
+        "Shayan Noei",
+        "Ying Zou",
+        "Bram Adams"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-23T14:09:03.663Z",
+  "generatedAt": "2026-03-23T15:32:49.068Z",
   "date": "20-03-2026",
-  "count": 35,
+  "count": 33,
   "summary": null,
   "items": [
     {
@@ -94,26 +94,6 @@
       "sourceIcon": "🔶",
       "type": "news",
       "timestamp": "2026-03-20T21:26:50.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ars_technica_https%3A%2F%2Farstechnica.com%2Fai%2F202",
-      "title": "Writer denies it, but publisher pulls horror novel after multiple allegations of AI use",
-      "url": "https://arstechnica.com/ai/2026/03/hachette-pulls-shy-girl-horror-novel-after-concerns-about-ai-use/",
-      "source": "Ars Technica",
-      "sourceIcon": "🔶",
-      "type": "news",
-      "timestamp": "2026-03-20T21:03:10.000Z",
       "abstract": "",
       "authors": [],
       "tags": [],
@@ -688,26 +668,6 @@
       "points": 0
     },
     {
-      "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fpodcast",
-      "title": "Why people really hate AI",
-      "url": "https://www.theverge.com/podcast/897900/ai-trust-gap-killer-app-vergecast",
-      "source": "The Verge AI",
-      "sourceIcon": "🔺",
-      "type": "news",
-      "timestamp": "2026-03-20T13:27:53.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "hf_paper_2603.20105",
       "title": "The Y-Combinator for LLMs: Solving Long-Context Rot with λ-Calculus",
       "url": "https://huggingface.co/papers/2603.20105",
@@ -779,6 +739,32 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.19753",
+      "title": "ReLi3D: Relightable Multi-view 3D Reconstruction with Disentangled Illumination",
+      "url": "https://huggingface.co/papers/2603.19753",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-20T04:37:39.000Z",
+      "abstract": "Reconstructing 3D assets from images has long required separate pipelines for geometry reconstruction, material estimation, and illumination recovery, each with distinct limitations and computational",
+      "authors": [
+        "Jan-Niklas Dihlmann",
+        "Mark Boss",
+        "Simon Donne",
+        "Andreas Engelhardt",
+        "Hendrik P. A. Lensch"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2603.19714",
       "title": "LoopRPT: Reinforcement Pre-Training for Looped Language Models",
       "url": "https://huggingface.co/papers/2603.19714",
@@ -793,34 +779,6 @@
         "Heng Chang",
         "Nuo Chen",
         "Yuhan Li"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.19635",
-      "title": "BEAVER: A Training-Free Hierarchical Prompt Compression Method via Structure-Aware Page Selection",
-      "url": "https://huggingface.co/papers/2603.19635",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-20T00:35:04.000Z",
-      "abstract": "The exponential expansion of context windows in LLMs has unlocked capabilities for long-document understanding but introduced severe bottlenecks in inference latency and information utilization. Exist",
-      "authors": [
-        "Zhengpei Hu",
-        "Kai Li",
-        "Dapeng Fu",
-        "Chang Zeng",
-        "Yue Li"
       ],
       "tags": [
         "training"

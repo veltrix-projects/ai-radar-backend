@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-23T14:09:03.671Z",
+  "generatedAt": "2026-03-23T15:32:49.075Z",
   "date": "09-03-2026",
-  "count": 3,
+  "count": 4,
   "summary": null,
   "items": [
     {
@@ -77,7 +77,31 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 132841,
+      "stars": 132850,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.08462",
+      "title": "Reasoning as Compression: Unifying Budget Forcing via the Conditional Information Bottleneck",
+      "url": "https://huggingface.co/papers/2603.08462",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-09T10:56:57.000Z",
+      "abstract": "Chain-of-Thought (CoT) prompting improves LLM accuracy on complex tasks but often increases token usage and inference cost. Existing \"Budget Forcing\" methods reducing cost via fine-tuning with heurist",
+      "authors": [
+        "Fabio Valerio Massoli",
+        "Andrey Kuzmin",
+        "Arash Behboodi"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
       "votes": 0,
       "points": 0
     }
