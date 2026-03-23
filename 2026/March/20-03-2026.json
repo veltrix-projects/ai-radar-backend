@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-23T11:38:04.973Z",
+  "generatedAt": "2026-03-23T12:43:56.680Z",
   "date": "20-03-2026",
-  "count": 38,
+  "count": 36,
   "summary": null,
   "items": [
     {
@@ -147,26 +147,6 @@
       "points": 0
     },
     {
-      "id": "ars_technica_https%3A%2F%2Farstechnica.com%2Fsecurity",
-      "title": "Widely used Trivy scanner compromised in ongoing supply-chain attack",
-      "url": "https://arstechnica.com/security/2026/03/widely-used-trivy-scanner-compromised-in-ongoing-supply-chain-attack/",
-      "source": "Ars Technica",
-      "sourceIcon": "🔶",
-      "type": "news",
-      "timestamp": "2026-03-20T20:50:46.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fai-arti",
       "title": "Trump takes another shot at dismantling state AI regulation",
       "url": "https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework",
@@ -229,6 +209,32 @@
       ],
       "score": 6,
       "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2603.20192v1",
+      "title": "LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation",
+      "url": "https://arxiv.org/abs/2603.20192v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-03-20T17:59:46Z",
+      "abstract": "Recent advances in diffusion models have significantly improved text-to-video generation, enabling personalized content creation with fine-grained control over both foreground and background elements.",
+      "authors": [
+        "Jiazheng Xing",
+        "Fei Du",
+        "Hangjie Yuan",
+        "Pengwei Liu",
+        "Hongbin Xu"
+      ],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -616,32 +622,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.20192",
-      "title": "LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation",
-      "url": "https://huggingface.co/papers/2603.20192",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-20T13:59:46.000Z",
-      "abstract": "Recent advances in diffusion models have significantly improved text-to-video generation, enabling personalized content creation with fine-grained control over both foreground and background elements.",
-      "authors": [
-        "Jiazheng Xing",
-        "Fei Du",
-        "Hangjie Yuan",
-        "Pengwei Liu",
-        "Hongbin Xu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Ftiny-cit",
       "title": "Tiny Township Fears Iran Drone Strikes Because of New Nuclear Weapons Datacenter",
       "url": "https://www.404media.co/tiny-city-fears-iran-drone-strikes-because-of-new-nuclear-weapons-datacenter/",
@@ -700,34 +680,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.20155",
-      "title": "Beyond Single Tokens: Distilling Discrete Diffusion Models via Discrete MMD",
-      "url": "https://huggingface.co/papers/2603.20155",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-20T13:29:12.000Z",
-      "abstract": "It is currently difficult to distill discrete diffusion models. In contrast, continuous diffusion literature has many distillation approaches methods that can reduce sampling steps to a handful.\n  Our",
-      "authors": [
-        "Emiel Hoogeboom",
-        "David Ruhe",
-        "Jonathan Heek",
-        "Thomas Mensink",
-        "Tim Salimans"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
