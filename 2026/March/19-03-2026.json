@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-23T10:44:13.893Z",
+  "generatedAt": "2026-03-23T11:38:04.973Z",
   "date": "19-03-2026",
   "count": 21,
   "summary": null,
@@ -55,27 +55,27 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.19500",
-      "title": "Teaching an Agent to Sketch One Part at a Time",
-      "url": "https://huggingface.co/papers/2603.19500",
+      "id": "hf_paper_2603.19571",
+      "title": "CurveStream: Boosting Streaming Video Understanding in MLLMs via Curvature-Aware Hierarchical Visual Memory Management",
+      "url": "https://huggingface.co/papers/2603.19571",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-03-19T18:08:53.000Z",
-      "abstract": "We develop a method for producing vector sketches one part at a time. To do this, we train a multi-modal language model-based agent using a novel multi-turn process-reward reinforcement learning follo",
+      "timestamp": "2026-03-19T22:28:57.000Z",
+      "abstract": "Multimodal Large Language Models have achieved significant success in offline video understanding, yet their application to streaming videos is severely limited by the linear explosion of visual token",
       "authors": [
-        "Xiaodan Du",
-        "Ruize Xu",
-        "David Yunis",
-        "Yael Vinker",
-        "Greg Shakhnarovich"
+        "Chao Wang",
+        "Xudong Tan",
+        "Jianjian Cao",
+        "Kangcong Li",
+        "Tao Chen"
       ],
       "tags": [
-        "agent"
+        "llm"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -145,35 +145,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.19461",
-      "title": "Hyperagents",
-      "url": "https://huggingface.co/papers/2603.19461",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-19T16:50:08.000Z",
-      "abstract": "Self-improving AI systems aim to reduce reliance on human engineering by learning to improve their own learning and problem-solving processes. Existing approaches to self-improvement rely on fixed, ha",
-      "authors": [
-        "Jenny Zhang",
-        "Bingchen Zhao",
-        "Wannan Yang",
-        "Jakob Foerster",
-        "Jeff Clune"
-      ],
-      "tags": [
-        "rag",
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -301,6 +272,31 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.19209",
+      "title": "Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders",
+      "url": "https://huggingface.co/papers/2603.19209",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-19T13:56:32.000Z",
+      "abstract": "Large vision--language models (VLMs) often use a frozen vision backbone, whose image features are mapped into a large language model through a lightweight connector. While transformer-based encoders a",
+      "authors": [
+        "Shang-Jui Ray Kuo",
+        "Paola Cascante-Bonilla"
+      ],
+      "tags": [
+        "transformer"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
