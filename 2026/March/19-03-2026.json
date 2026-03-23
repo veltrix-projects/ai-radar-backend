@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-23T17:44:15.237Z",
+  "generatedAt": "2026-03-23T18:40:43.996Z",
   "date": "19-03-2026",
   "count": 21,
   "summary": null,
@@ -88,6 +88,34 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.19470",
+      "title": "Adaptive Layerwise Perturbation: Unifying Off-Policy Corrections for LLM RL",
+      "url": "https://huggingface.co/papers/2603.19470",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-19T17:04:17.000Z",
+      "abstract": "Off-policy problems such as policy staleness and training-inference mismatch, has become a major bottleneck for training stability and further exploration for LLM RL. To enhance inference efficiency,",
+      "authors": [
+        "Chenlu Ye",
+        "Xuanchang Zhang",
+        "Yifan Hao",
+        "Zhou Yu",
+        "Ziji Zhang"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -431,33 +459,6 @@
         "Simon Takadiyi Gunda"
       ],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.18558",
-      "title": "HiMu: Hierarchical Multimodal Frame Selection for Long Video Question Answering",
-      "url": "https://huggingface.co/papers/2603.18558",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-19T03:11:53.000Z",
-      "abstract": "Long-form video question answering requires reasoning over extended temporal contexts, making frame selection critical for large vision-language models (LVLMs) bound by finite context windows. Existin",
-      "authors": [
-        "Dan Ben-Ami",
-        "Gabriele Serussi",
-        "Kobi Cohen",
-        "Chaim Baskin"
-      ],
-      "tags": [
-        "multimodal"
-      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
