@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-23T04:03:39.826Z",
+  "generatedAt": "2026-03-23T05:52:20.802Z",
   "date": "20-03-2026",
-  "count": 32,
+  "count": 38,
   "summary": null,
   "items": [
     {
@@ -209,21 +209,23 @@
       "points": 0
     },
     {
-      "id": "arxiv_2603.20048v1",
-      "title": "Structured Latent Dynamics in Wireless CSI via Homomorphic World Models",
-      "url": "https://arxiv.org/abs/2603.20048v1",
+      "id": "arxiv_2603.20193v1",
+      "title": "From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering",
+      "url": "https://arxiv.org/abs/2603.20193v1",
       "source": "ArXiv",
       "sourceIcon": "📄",
       "type": "research",
-      "timestamp": "2026-03-20T15:32:47Z",
-      "abstract": "We introduce a self-supervised framework for learning predictive and structured representations of wireless channels by modeling the temporal evolution of channel state information (CSI) in a compact",
+      "timestamp": "2026-03-20T17:59:54Z",
+      "abstract": "Existing tampering detection benchmarks largely rely on object masks, which severely misalign with the true edit signal: many pixels inside a mask are untouched or only trivially modified, while subtl",
       "authors": [
-        "Salmane Naoumi",
-        "Mehdi Bennis",
-        "Marwa Chafii"
+        "Xinyi Shang",
+        "Yi Tang",
+        "Jiacheng Cui",
+        "Ahmed Elhagry",
+        "Salwa K. Al Khatib"
       ],
       "tags": [
-        "phi"
+        "benchmark"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -235,77 +237,19 @@
       "points": 0
     },
     {
-      "id": "arxiv_2603.20046v1",
-      "title": "Experience is the Best Teacher: Motivating Effective Exploration in Reinforcement Learning for LLMs",
-      "url": "https://arxiv.org/abs/2603.20046v1",
+      "id": "arxiv_2603.20189v1",
+      "title": "MeanFlow Meets Control: Scaling Sampled-Data Control for Swarms",
+      "url": "https://arxiv.org/abs/2603.20189v1",
       "source": "ArXiv",
       "sourceIcon": "📄",
       "type": "research",
-      "timestamp": "2026-03-20T15:32:06Z",
-      "abstract": "Reinforcement Learning (RL) with rubric-based rewards has recently shown remarkable progress in enhancing general reasoning capabilities of Large Language Models (LLMs), yet still suffers from ineffec",
+      "timestamp": "2026-03-20T17:59:18Z",
+      "abstract": "Steering large-scale swarms in only a few control updates is challenging because real systems operate in sampled-data form: control inputs are updated intermittently and applied over finite intervals.",
       "authors": [
-        "Wenjian Zhang",
-        "Kongcheng Zhang",
-        "Jiaxin Qi",
-        "Baisheng Lai",
-        "Jianqiang Huang"
-      ],
-      "tags": [
-        "llm",
-        "reinforcement learning"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2508.13876v2",
-      "title": "Improved Generalized Planning with LLMs through Strategy Refinement and Reflection",
-      "url": "https://arxiv.org/abs/2508.13876v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-03-20T15:30:50Z",
-      "abstract": "LLMs have recently been used to generate Python programs representing generalized plans in PDDL planning, i.e., plans that generalize across the tasks of a given PDDL domain. Previous work proposed a",
-      "authors": [
-        "Katharina Stein",
-        "Nils Hodel",
-        "Daniel Fišer",
-        "Jörg Hoffmann",
-        "Michael Katz"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2505.19361v6",
-      "title": "Consistency-based Abductive Reasoning over Perceptual Errors of Multiple Pre-trained Models in Novel Environments",
-      "url": "https://arxiv.org/abs/2505.19361v6",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-03-20T15:30:40Z",
-      "abstract": "The deployment of pre-trained perception models in novel environments often leads to performance degradation due to distributional shifts. Although recent artificial intelligence approaches for metaco",
-      "authors": [
-        "Mario Leiva",
-        "Noel Ngu",
-        "Joshua Shay Kricheli",
-        "Aditya Taparia",
-        "Ransalu Senanayake"
+        "Anqi Dong",
+        "Yongxin Chen",
+        "Karl H. Johansson",
+        "Johan Karlsson"
       ],
       "tags": [],
       "score": 4,
@@ -318,23 +262,22 @@
       "points": 0
     },
     {
-      "id": "arxiv_2602.07451v3",
-      "title": "DLLM Agent: See Farther, Run Faster",
-      "url": "https://arxiv.org/abs/2602.07451v3",
+      "id": "arxiv_2603.20185v1",
+      "title": "VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking",
+      "url": "https://arxiv.org/abs/2603.20185v1",
       "source": "ArXiv",
       "sourceIcon": "📄",
       "type": "research",
-      "timestamp": "2026-03-20T15:27:06Z",
-      "abstract": "Diffusion large language models (DLLMs) have emerged as an alternative to autoregressive (AR) decoding with appealing efficiency and modeling properties, yet their implications for agentic multi-step",
+      "timestamp": "2026-03-20T17:58:47Z",
+      "abstract": "Video agentic models have advanced challenging video-language tasks. However, most agentic approaches still heavily rely on greedy parsing over densely sampled video frames, resulting in high computat",
       "authors": [
-        "Huiling Zhen",
-        "Weizhe Lin",
-        "Renxi Liu",
-        "Kai Han",
-        "Yiming Li"
+        "Jingyang Lin",
+        "Jialian Wu",
+        "Jiang Liu",
+        "Ximeng Sun",
+        "Ze Wang"
       ],
       "tags": [
-        "llm",
         "agent"
       ],
       "score": 6,
@@ -347,25 +290,24 @@
       "points": 0
     },
     {
-      "id": "arxiv_2603.20042v1",
-      "title": "LoASR-Bench: Evaluating Large Speech Language Models on Low-Resource Automatic Speech Recognition Across Language Families",
-      "url": "https://arxiv.org/abs/2603.20042v1",
+      "id": "arxiv_2603.20184v1",
+      "title": "Kolmogorov-Arnold causal generative models",
+      "url": "https://arxiv.org/abs/2603.20184v1",
       "source": "ArXiv",
       "sourceIcon": "📄",
       "type": "research",
-      "timestamp": "2026-03-20T15:26:34Z",
-      "abstract": "Large language models (LLMs) have driven substantial advances in speech language models (SpeechLMs), yielding strong performance in automatic speech recognition (ASR) under high-resource conditions. H",
+      "timestamp": "2026-03-20T17:58:38Z",
+      "abstract": "Causal generative models provide a principled framework for answering observational, interventional, and counterfactual queries from observational data. However, many deep causal models rely on highly",
       "authors": [
-        "Jianan Chen",
-        "Xiaoxue Gao",
-        "Tatsuya Kawahara",
-        "Nancy F. Chen"
+        "Alejandro Almodóvar",
+        "Mar Elizo",
+        "Patricia A. Apellániz",
+        "Santiago Zazo",
+        "Juan Parras"
       ],
-      "tags": [
-        "speech"
-      ],
-      "score": 4,
-      "priority": "LOW",
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -374,19 +316,20 @@
       "points": 0
     },
     {
-      "id": "arxiv_2603.20037v1",
-      "title": "Federated Hyperdimensional Computing for Resource-Constrained Industrial IoT",
-      "url": "https://arxiv.org/abs/2603.20037v1",
+      "id": "arxiv_2603.20181v1",
+      "title": "Improving Generalization on Cybersecurity Tasks with Multi-Modal Contrastive Learning",
+      "url": "https://arxiv.org/abs/2603.20181v1",
       "source": "ArXiv",
       "sourceIcon": "📄",
       "type": "research",
-      "timestamp": "2026-03-20T15:22:12Z",
-      "abstract": "In the Industrial Internet of Things (IIoT) systems, edge devices often operate under strict constraints in memory, compute capability, and wireless bandwidth. These limitations challenge the deployme",
+      "timestamp": "2026-03-20T17:57:00Z",
+      "abstract": "The use of ML in cybersecurity has long been impaired by generalization issues: Models that work well in controlled scenarios fail to maintain performance in production. The root cause often lies in M",
       "authors": [
-        "Nikita Zeulin",
-        "Olga Galinina",
-        "Nageen Himayat",
-        "Sergey Andreev"
+        "Jianan Huang",
+        "Rodolfo V. Valentim",
+        "Luca Vassio",
+        "Matteo Boffa",
+        "Marco Mellia"
       ],
       "tags": [],
       "score": 4,
@@ -399,26 +342,26 @@
       "points": 0
     },
     {
-      "id": "arxiv_2603.17246v2",
-      "title": "On the Cone Effect and Modality Gap in Medical Vision-Language Embeddings",
-      "url": "https://arxiv.org/abs/2603.17246v2",
+      "id": "arxiv_2511.16665v3",
+      "title": "Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter",
+      "url": "https://arxiv.org/abs/2511.16665v3",
       "source": "ArXiv",
       "sourceIcon": "📄",
       "type": "research",
-      "timestamp": "2026-03-20T15:22:06Z",
-      "abstract": "Vision-Language Models (VLMs) exhibit a characteristic \"cone effect\" in which nonlinear encoders map embeddings into highly concentrated regions of the representation space, contributing to cross-moda",
+      "timestamp": "2026-03-20T17:56:05Z",
+      "abstract": "The emergence of Large Language Models (LLMs) with strong reasoning capabilities marks a significant milestone, unlocking new frontiers in complex problem-solving. However, training these reasoning mo",
       "authors": [
-        "David Restrepo",
-        "Miguel L Martins",
-        "Chenwei Wu",
-        "Luis Filipe Nakayama",
-        "Diego M Lopez"
+        "Qinghao Hu",
+        "Shang Yang",
+        "Junxian Guo",
+        "Xiaozhe Yao",
+        "Yujun Lin"
       ],
       "tags": [
-        "embeddings"
+        "training"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
+      "score": 4,
+      "priority": "LOW",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -427,16 +370,17 @@
       "points": 0
     },
     {
-      "id": "arxiv_2603.20036v1",
-      "title": "Continual Learning as Shared-Manifold Continuation Under Compatible Shift",
-      "url": "https://arxiv.org/abs/2603.20036v1",
+      "id": "arxiv_2603.20180v1",
+      "title": "Adaptive Greedy Frame Selection for Long Video Understanding",
+      "url": "https://arxiv.org/abs/2603.20180v1",
       "source": "ArXiv",
       "sourceIcon": "📄",
       "type": "research",
-      "timestamp": "2026-03-20T15:21:19Z",
-      "abstract": "Continual learning methods usually preserve old behavior by regularizing parameters, matching old outputs, or replaying previous examples. These strategies can reduce forgetting, but they do not direc",
+      "timestamp": "2026-03-20T17:55:32Z",
+      "abstract": "Large vision--language models (VLMs) are increasingly applied to long-video question answering, yet inference is often bottlenecked by the number of input frames and resulting visual tokens. Naive spa",
       "authors": [
-        "Henry J. Kobs"
+        "Yuning Huang",
+        "Fengqing Zhu"
       ],
       "tags": [],
       "score": 4,
@@ -449,23 +393,24 @@
       "points": 0
     },
     {
-      "id": "arxiv_2603.20034v1",
-      "title": "CoverageBench: Evaluating Information Coverage across Tasks and Domains",
-      "url": "https://arxiv.org/abs/2603.20034v1",
+      "id": "arxiv_2603.20179v1",
+      "title": "AI Agents Can Already Autonomously Perform Experimental High Energy Physics",
+      "url": "https://arxiv.org/abs/2603.20179v1",
       "source": "ArXiv",
       "sourceIcon": "📄",
       "type": "research",
-      "timestamp": "2026-03-20T15:20:44Z",
-      "abstract": "We wish to measure the information coverage of an ad hoc retrieval algorithm, that is, how much of the range of available relevant information is covered by the search results. Information coverage is",
+      "timestamp": "2026-03-20T17:55:27Z",
+      "abstract": "Large language model-based AI agents are now able to autonomously execute substantial portions of a high energy physics (HEP) analysis pipeline with minimal expert-curated input. Given access to a HEP",
       "authors": [
-        "Saron Samuel",
-        "Andrew Yates",
-        "Dawn Lawrie",
-        "Ian Soboroff",
-        "Trevor Adriaanse"
+        "Eric A. Moreno",
+        "Samuel Bright-Thonney",
+        "Andrzej Novak",
+        "Dolores Garcia",
+        "Philip Harris"
       ],
       "tags": [
-        "rag"
+        "agent",
+        "autonomous"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -477,22 +422,45 @@
       "points": 0
     },
     {
-      "id": "arxiv_2507.17343v3",
-      "title": "Principled Multimodal Representation Learning",
-      "url": "https://arxiv.org/abs/2507.17343v3",
+      "id": "arxiv_2603.01211v2",
+      "title": "A Unified Framework to Quantify Cultural Intelligence of AI",
+      "url": "https://arxiv.org/abs/2603.01211v2",
       "source": "ArXiv",
       "sourceIcon": "📄",
       "type": "research",
-      "timestamp": "2026-03-20T15:18:29Z",
-      "abstract": "Multimodal representation learning seeks to create a unified representation space by integrating diverse data modalities to improve multimodal understanding. Traditional methods often depend on pairwi",
+      "timestamp": "2026-03-20T17:50:30Z",
+      "abstract": "As generative AI technologies are increasingly being launched across the globe, assessing their competence to operate in different cultural contexts is exigently becoming a priority. While recent year",
       "authors": [
-        "Xiaohao Liu",
-        "Xiaobo Xia",
-        "See-Kiong Ng",
-        "Tat-Seng Chua"
+        "Sunipa Dev",
+        "Vinodkumar Prabhakaran",
+        "Rutledge Chin Feman",
+        "Aida Davani",
+        "Remi Denton"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2603.20172v1",
+      "title": "Measuring Faithfulness Depends on How You Measure: Classifier Sensitivity in LLM Chain-of-Thought Evaluation",
+      "url": "https://arxiv.org/abs/2603.20172v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-03-20T17:48:43Z",
+      "abstract": "Recent work on chain-of-thought (CoT) faithfulness reports single aggregate numbers (e.g., DeepSeek-R1 acknowledges hints 39% of the time), implying that faithfulness is an objective, measurable prope",
+      "authors": [
+        "Richard J. Young"
       ],
       "tags": [
-        "multimodal"
+        "llm"
       ],
       "score": 8,
       "priority": "HIGH",
@@ -504,40 +472,20 @@
       "points": 0
     },
     {
-      "id": "arxiv_2603.20028v1",
-      "title": "Orchestrating Human-AI Software Delivery: A Retrospective Longitudinal Field Study of Three Software Modernization Programs",
-      "url": "https://arxiv.org/abs/2603.20028v1",
+      "id": "arxiv_2603.20170v1",
+      "title": "Learning Dynamic Belief Graphs for Theory-of-mind Reasoning",
+      "url": "https://arxiv.org/abs/2603.20170v1",
       "source": "ArXiv",
       "sourceIcon": "📄",
       "type": "research",
-      "timestamp": "2026-03-20T15:14:36Z",
-      "abstract": "Evidence on AI in software engineering still leans heavily toward individual task completion, while evidence on team-level delivery remains scarce. We report a retrospective longitudinal field study o",
+      "timestamp": "2026-03-20T17:46:55Z",
+      "abstract": "Theory of Mind (ToM) reasoning with Large Language Models (LLMs) requires inferring how people's implicit, evolving beliefs shape what they seek and how they act under uncertainty -- especially in hig",
       "authors": [
-        "Maximiliano Armesto",
-        "Christophe Kolb"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2603.20025v1",
-      "title": "Graph-Informed Adversarial Modeling: Infimal Subadditivity of Interpolative Divergences",
-      "url": "https://arxiv.org/abs/2603.20025v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-03-20T15:12:42Z",
-      "abstract": "We study adversarial learning when the target distribution factorizes according to a known Bayesian network. For interpolative divergences, including $(f,Γ)$-divergences, we prove a new infimal subadd",
-      "authors": [
-        "Panagiota Birmpa",
-        "Eric Joseph Hall"
+        "Ruxiao Chen",
+        "Xilei Zhao",
+        "Thomas J. Cova",
+        "Frank A. Drews",
+        "Susu Xu"
       ],
       "tags": [],
       "score": 4,
@@ -550,19 +498,46 @@
       "points": 0
     },
     {
-      "id": "arxiv_2603.20024v1",
-      "title": "Layered Quantum Architecture Search for 3D Point Cloud Classification",
-      "url": "https://arxiv.org/abs/2603.20024v1",
+      "id": "arxiv_2603.12180v2",
+      "title": "Strategic Navigation or Stochastic Search? How Agents and Humans Reason Over Document Collections",
+      "url": "https://arxiv.org/abs/2603.12180v2",
       "source": "ArXiv",
       "sourceIcon": "📄",
       "type": "research",
-      "timestamp": "2026-03-20T15:10:15Z",
-      "abstract": "We introduce layered Quantum Architecture Search (layered-QAS), a strategy inspired by classical network morphism that designs Parametrised Quantum Circuit (PQC) architectures by progressively growing",
+      "timestamp": "2026-03-20T17:46:44Z",
+      "abstract": "Multimodal agents offer a promising path to automating complex document-intensive workflows. Yet, a critical question remains: do these agents demonstrate genuine strategic reasoning, or merely stocha",
       "authors": [
-        "Natacha Kuete Meli",
-        "Jovita Lukasik",
-        "Vladislav Golyanik",
-        "Michael Moeller"
+        "Łukasz Borchmann",
+        "Jordy Van Landeghem",
+        "Michał Turski",
+        "Shreyansh Padarha",
+        "Ryan Othniel Kearns"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2603.20164v1",
+      "title": "The Robot's Inner Critic: Self-Refinement of Social Behaviors through VLM-based Replanning",
+      "url": "https://arxiv.org/abs/2603.20164v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-03-20T17:40:21Z",
+      "abstract": "Conventional robot social behavior generation has been limited in flexibility and autonomy, relying on predefined motions or human feedback. This study proposes CRISP (Critique-and-Replan for Interact",
+      "authors": [
+        "Jiyu Lim",
+        "Youngwoo Yoon",
+        "Kwanghyun Park"
       ],
       "tags": [],
       "score": 4,
@@ -575,24 +550,24 @@
       "points": 0
     },
     {
-      "id": "arxiv_2603.20021v1",
-      "title": "ODySSeI: An Open-Source End-to-End Framework for Automated Detection, Segmentation, and Severity Estimation of Lesions in Invasive Coronary Angiography Images",
-      "url": "https://arxiv.org/abs/2603.20021v1",
+      "id": "arxiv_2402.01703v5",
+      "title": "Community-Informed AI Models for Police Accountability",
+      "url": "https://arxiv.org/abs/2402.01703v5",
       "source": "ArXiv",
       "sourceIcon": "📄",
       "type": "research",
-      "timestamp": "2026-03-20T15:07:15Z",
-      "abstract": "Invasive Coronary Angiography (ICA) is the clinical gold standard for the assessment of coronary artery disease. However, its interpretation remains subjective and prone to intra- and inter-operator v",
+      "timestamp": "2026-03-20T17:39:55Z",
+      "abstract": "Face-to-face interactions between police officers and the public affect both individual well-being and democratic legitimacy. Many government-public interactions are captured on video, including inter",
       "authors": [
-        "Anand Choudhary",
-        "Xiaowu Sun",
-        "Thabo Mahendiran",
-        "Ortal Senouf",
-        "Denise Auberson"
+        "Benjamin A. T. Grahama",
+        "Lauren Brown",
+        "Georgios Chochlakis",
+        "Morteza Dehghani",
+        "Raquel Delerme"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
+      "score": 4,
+      "priority": "LOW",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -641,6 +616,32 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.20192",
+      "title": "LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation",
+      "url": "https://huggingface.co/papers/2603.20192",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-20T13:59:46.000Z",
+      "abstract": "Recent advances in diffusion models have significantly improved text-to-video generation, enabling personalized content creation with fine-grained control over both foreground and background elements.",
+      "authors": [
+        "Jiazheng Xing",
+        "Fei Du",
+        "Hangjie Yuan",
+        "Pengwei Liu",
+        "Hongbin Xu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Ftiny-cit",
       "title": "Tiny Township Fears Iran Drone Strikes Because of New Nuclear Weapons Datacenter",
       "url": "https://www.404media.co/tiny-city-fears-iran-drone-strikes-because-of-new-nuclear-weapons-datacenter/",
@@ -661,6 +662,32 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.20169",
+      "title": "EgoForge: Goal-Directed Egocentric World Simulator",
+      "url": "https://huggingface.co/papers/2603.20169",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-20T13:46:55.000Z",
+      "abstract": "Generative world models have shown promise for simulating dynamic environments, yet egocentric video remains challenging due to rapid viewpoint changes, frequent hand-object interactions, and goal-dir",
+      "authors": [
+        "Yifan Shen",
+        "Jiateng Liu",
+        "Xinzhuo Li",
+        "Yuanzhe Liu",
+        "Bingxuan Li"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Ftech%2F",
       "title": "Amazon is making an Alexa phone",
       "url": "https://www.theverge.com/tech/897915/amazon-transformer-alexa-phone",
@@ -673,6 +700,34 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.20155",
+      "title": "Beyond Single Tokens: Distilling Discrete Diffusion Models via Discrete MMD",
+      "url": "https://huggingface.co/papers/2603.20155",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-20T13:29:12.000Z",
+      "abstract": "It is currently difficult to distill discrete diffusion models. In contrast, continuous diffusion literature has many distillation approaches methods that can reduce sampling steps to a handful.\n  Our",
+      "authors": [
+        "Emiel Hoogeboom",
+        "David Ruhe",
+        "Jonathan Heek",
+        "Thomas Mensink",
+        "Tim Salimans"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -733,6 +788,115 @@
       "tags": [
         "llama",
         "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.19809",
+      "title": "How Well Does Generative Recommendation Generalize?",
+      "url": "https://huggingface.co/papers/2603.19809",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-20T05:48:57.000Z",
+      "abstract": "A widely held hypothesis for why generative recommendation (GR) models outperform conventional item ID-based models is that they generalize better. However, there is few systematic way to verify this",
+      "authors": [
+        "Yijie Ding",
+        "Zitian Guo",
+        "Jiacheng Li",
+        "Letian Peng",
+        "Shuai Shao"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.19708",
+      "title": "WorldAgents: Can Foundation Image Models be Agents for 3D World Models?",
+      "url": "https://huggingface.co/papers/2603.19708",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-20T03:22:41.000Z",
+      "abstract": "Given the remarkable ability of 2D foundation image models to generate high-fidelity outputs, we investigate a fundamental question: do 2D foundation image models inherently possess 3D world model cap",
+      "authors": [
+        "Ziya Erkoç",
+        "Angela Dai",
+        "Matthias Nießner"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.19685",
+      "title": "A Subgoal-driven Framework for Improving Long-Horizon LLM Agents",
+      "url": "https://huggingface.co/papers/2603.19685",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-20T02:32:16.000Z",
+      "abstract": "Large language model (LLM)-based agents have emerged as powerful autonomous controllers for digital environments, including mobile interfaces, operating systems, and web browsers. Web navigation, for",
+      "authors": [
+        "Taiyi Wang",
+        "Sian Gooding",
+        "Florian Hartmann",
+        "Oriana Riva",
+        "Edward Grefenstette"
+      ],
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.19635",
+      "title": "BEAVER: A Training-Free Hierarchical Prompt Compression Method via Structure-Aware Page Selection",
+      "url": "https://huggingface.co/papers/2603.19635",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-20T00:35:04.000Z",
+      "abstract": "The exponential expansion of context windows in LLMs has unlocked capabilities for long-document understanding but introduced severe bottlenecks in inference latency and information utilization. Exist",
+      "authors": [
+        "Zhengpei Hu",
+        "Kai Li",
+        "Dapeng Fu",
+        "Chang Zeng",
+        "Yue Li"
+      ],
+      "tags": [
+        "training"
       ],
       "score": 6,
       "priority": "MEDIUM",

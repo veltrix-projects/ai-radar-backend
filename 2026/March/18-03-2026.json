@@ -1,37 +1,9 @@
 {
-  "generatedAt": "2026-03-23T04:03:39.827Z",
+  "generatedAt": "2026-03-23T05:52:20.940Z",
   "date": "18-03-2026",
-  "count": 14,
+  "count": 11,
   "summary": null,
   "items": [
-    {
-      "id": "hf_paper_2603.18429",
-      "title": "AndroTMem: From Interaction Trajectories to Anchored Memory in Long-Horizon GUI Agents",
-      "url": "https://huggingface.co/papers/2603.18429",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-18T22:45:21.000Z",
-      "abstract": "Long-horizon GUI agents are a key step toward real-world deployment, yet effective interaction memory under prevailing paradigms remains under-explored. Replaying full interaction sequences is redunda",
-      "authors": [
-        "Yibo Shi",
-        "Jungang Li",
-        "Linghao Zhang",
-        "Zihao Dongfang",
-        "Biao Wu"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
       "title": "Kick off Nova customization experiments using Nova Forge SDK",
@@ -217,32 +189,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.18002",
-      "title": "Loc3R-VLM: Language-based Localization and 3D Reasoning with Vision-Language Models",
-      "url": "https://huggingface.co/papers/2603.18002",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-18T13:59:10.000Z",
-      "abstract": "Multimodal Large Language Models (MLLMs) have made impressive progress in connecting vision and language, but they still struggle with spatial understanding and viewpoint-aware reasoning. Recent effor",
-      "authors": [
-        "Kevin Qu",
-        "Haozhe Qi",
-        "Mihai Dusmanu",
-        "Mahdi Rad",
-        "Rui Wang"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fpodcast-",
       "title": "Podcast: The Disappearing DOGE Depositions",
       "url": "https://www.404media.co/podcast-the-disappearing-doge-depositions/",
@@ -263,48 +209,21 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.17554",
-      "title": "Prompt-Free Universal Region Proposal Network",
-      "url": "https://huggingface.co/papers/2603.17554",
+      "id": "hf_paper_2603.17512",
+      "title": "Language on Demand, Knowledge at Core: Composing LLMs with Encoder-Decoder Translation Models for Extensible Multilinguality",
+      "url": "https://huggingface.co/papers/2603.17512",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-03-18T06:02:13.000Z",
-      "abstract": "Identifying potential objects is critical for object recognition and analysis across various computer vision applications. Existing methods typically localize potential objects by relying on exemplar",
+      "timestamp": "2026-03-18T05:19:08.000Z",
+      "abstract": "Large language models (LLMs) exhibit strong general intelligence, yet their multilingual performance remains highly imbalanced. Although LLMs encode substantial cross-lingual knowledge in a unified se",
       "authors": [
-        "Qihong Tang",
-        "Changhan Liu",
-        "Shaofeng Zhang",
-        "Wenbin Li",
-        "Qi Fan"
+        "Mengyu Bu",
+        "Yang Feng"
       ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.18090",
-      "title": "MOSS-TTS Technical Report",
-      "url": "https://huggingface.co/papers/2603.18090",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-18T05:08:06.000Z",
-      "abstract": "This technical report presents MOSS-TTS, a speech generation foundation model built on a scalable recipe: discrete audio tokens, autoregressive modeling, and large-scale pretraining. Built on MOSS-Aud",
-      "authors": [
-        "Yitian Gong",
-        "Botian Jiang",
-        "Yiwei Zhao",
-        "Yucheng Yuan",
-        "Kuangwei Chen"
+      "tags": [
+        "llm"
       ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
