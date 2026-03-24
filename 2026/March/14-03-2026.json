@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-24T11:38:58.228Z",
+  "generatedAt": "2026-03-24T12:49:52.752Z",
   "date": "14-03-2026",
-  "count": 2,
+  "count": 3,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,32 @@
       "tags": [
         "rag"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.16932",
+      "title": "Look Where It Matters: High-Resolution Crops Retrieval for Efficient VLMs",
+      "url": "https://huggingface.co/papers/2603.16932",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-14T06:11:32.000Z",
+      "abstract": "Vision-language models (VLMs) typically process images at a native high-resolution, forcing a trade-off between accuracy and computational efficiency: high-resolution inputs capture fine details but i",
+      "authors": [
+        "Nimrod Shabtay",
+        "Moshe Kimhi",
+        "Artem Spector",
+        "Sivan Haray",
+        "Ehud Rivlin"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
