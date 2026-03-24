@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-24T15:38:45.339Z",
+  "generatedAt": "2026-03-24T16:52:13.788Z",
   "date": "19-03-2026",
   "count": 13,
   "summary": null,
@@ -79,32 +79,6 @@
       "tags": [
         "rag"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.19456",
-      "title": "In-the-Wild Camouflage Attack on Vehicle Detectors through Controllable Image Editing",
-      "url": "https://huggingface.co/papers/2603.19456",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-19T16:30:03.000Z",
-      "abstract": "Deep neural networks (DNNs) have achieved remarkable success in computer vision but remain highly vulnerable to adversarial attacks. Among them, camouflage attacks manipulate an object's visible appea",
-      "authors": [
-        "Xiao Fang",
-        "Yiming Gong",
-        "Stanislav Panev",
-        "Celso de Melo",
-        "Shuowen Hu"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -243,6 +217,31 @@
       "authors": [],
       "tags": [
         "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.18911",
+      "title": "Progressive Training for Explainable Citation-Grounded Dialogue: Reducing Hallucination to Zero in English-Hindi LLMs",
+      "url": "https://huggingface.co/papers/2603.18911",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-19T09:48:19.000Z",
+      "abstract": "Knowledge-grounded dialogue systems aim to generate informative, contextually relevant responses by conditioning on external knowledge sources. However, most existing approaches focus exclusively on E",
+      "authors": [
+        "Vedant Pandya"
+      ],
+      "tags": [
+        "llm",
+        "training"
       ],
       "score": 6,
       "priority": "MEDIUM",
