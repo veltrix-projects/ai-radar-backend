@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-24T08:40:30.642Z",
+  "generatedAt": "2026-03-24T09:45:46.496Z",
   "date": "19-03-2026",
   "count": 14,
   "summary": null,
@@ -195,6 +195,34 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.20309",
+      "title": "BubbleRAG: Evidence-Driven Retrieval-Augmented Generation for Black-Box Knowledge Graphs",
+      "url": "https://huggingface.co/papers/2603.20309",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-19T12:00:36.000Z",
+      "abstract": "Large Language Models (LLMs) exhibit hallucinations in knowledge-intensive tasks. Graph-based retrieval augmented generation (RAG) has emerged as a promising solution, yet existing approaches suffer f",
+      "authors": [
+        "Duyi Pan",
+        "Tianao Lou",
+        "Xin Li",
+        "Haoze Song",
+        "Yiwen Wu"
+      ],
+      "tags": [
+        "rag"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fhow-w",
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
@@ -255,32 +283,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.18795",
-      "title": "Perceptio: Perception Enhanced Vision Language Models via Spatial Token Generation",
-      "url": "https://huggingface.co/papers/2603.18795",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-19T07:46:01.000Z",
-      "abstract": "Large Vision Language Models (LVLMs) excel at semantic understanding but struggle with fine grained spatial grounding, as the model must implicitly infer complex geometry without ever producing a spat",
-      "authors": [
-        "Yuchen Li",
-        "Amanmeet Garg",
-        "Shalini Chaudhuri",
-        "Rui Zhao",
-        "Garin Kessler"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

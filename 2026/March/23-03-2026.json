@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-24T08:40:30.639Z",
+  "generatedAt": "2026-03-24T09:45:46.492Z",
   "date": "23-03-2026",
-  "count": 80,
+  "count": 79,
   "summary": null,
   "items": [
     {
@@ -468,6 +468,32 @@
       "timestamp": "2026-03-23T18:00:45.000Z",
       "abstract": "",
       "authors": [],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2603.22286v1",
+      "title": "WorldCache: Content-Aware Caching for Accelerated Video World Models",
+      "url": "https://arxiv.org/abs/2603.22286v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-03-23T17:59:54Z",
+      "abstract": "Diffusion Transformers (DiTs) power high-fidelity video world models but remain computationally expensive due to sequential denoising and costly spatio-temporal attention. Training-free feature cachin",
+      "authors": [
+        "Umair Nawaz",
+        "Ahmed Heakl",
+        "Ufaq Khan",
+        "Abdelrahman Shaker",
+        "Salman Khan"
+      ],
       "tags": [],
       "score": 4,
       "priority": "LOW",
@@ -1143,32 +1169,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.22286",
-      "title": "WorldCache: Content-Aware Caching for Accelerated Video World Models",
-      "url": "https://huggingface.co/papers/2603.22286",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-23T13:59:54.000Z",
-      "abstract": "Diffusion Transformers (DiTs) power high-fidelity video world models but remain computationally expensive due to sequential denoising and costly spatio-temporal attention. Training-free feature cachin",
-      "authors": [
-        "Umair Nawaz",
-        "Ahmed Heakl",
-        "Ufaq Khan",
-        "Abdelrahman Shaker",
-        "Salman Khan"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "hf_paper_2603.22276",
       "title": "Scaling DoRA: High-Rank Adaptation via Factored Norms and Fused Kernels",
       "url": "https://huggingface.co/papers/2603.22276",
@@ -1435,34 +1435,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.22117",
-      "title": "On the Direction of RLVR Updates for LLM Reasoning: Identification and Exploitation",
-      "url": "https://huggingface.co/papers/2603.22117",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-23T11:42:24.000Z",
-      "abstract": "Reinforcement learning with verifiable rewards (RLVR) has substantially improved the reasoning capabilities of large language models. While existing analyses identify that RLVR-induced changes are spa",
-      "authors": [
-        "Kexin Huang",
-        "Haoming Meng",
-        "Junkang Wu",
-        "Jinda Lu",
-        "Chiyu Ma"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "gh_1136590548",
       "title": "affaan-m/everything-claude-code — The agent harness performance optimization system. Skills, instincts, memory, security, and research",
       "url": "https://github.com/affaan-m/everything-claude-code",
@@ -1488,7 +1460,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 103052,
+      "stars": 103238,
       "votes": 0,
       "points": 0
     },
@@ -1509,35 +1481,6 @@
         "Jinwoo Shin"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.22053",
-      "title": "AnimalCLAP: Taxonomy-Aware Language-Audio Pretraining for Species Recognition and Trait Inference",
-      "url": "https://huggingface.co/papers/2603.22053",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-23T10:53:02.000Z",
-      "abstract": "Animal vocalizations provide crucial insights for wildlife assessment, particularly in complex environments such as forests, aiding species identification and ecological monitoring. Recent advances in",
-      "authors": [
-        "Risa Shinoda",
-        "Kaede Shiohara",
-        "Nakamasa Inoue",
-        "Hiroaki Santo",
-        "Fumio Okura"
-      ],
-      "tags": [
-        "inference",
-        "training"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -1594,7 +1537,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 108431,
+      "stars": 108435,
       "votes": 0,
       "points": 0
     },
@@ -1667,6 +1610,30 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.21884",
+      "title": "Not All Layers Are Created Equal: Adaptive LoRA Ranks for Personalized Image Generation",
+      "url": "https://huggingface.co/papers/2603.21884",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-23T08:13:47.000Z",
+      "abstract": "Low Rank Adaptation (LoRA) is the de facto fine-tuning strategy to generate personalized images from pre-trained diffusion models. Choosing a good rank is extremely critical, since it trades off perfo",
+      "authors": [
+        "Donald Shenaj",
+        "Federico Errica",
+        "Antonio Carta"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
