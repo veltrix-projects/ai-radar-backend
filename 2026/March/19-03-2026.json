@@ -1,37 +1,9 @@
 {
-  "generatedAt": "2026-03-24T01:14:05.771Z",
+  "generatedAt": "2026-03-24T03:54:35.945Z",
   "date": "19-03-2026",
-  "count": 19,
+  "count": 16,
   "summary": null,
   "items": [
-    {
-      "id": "hf_paper_2603.19571",
-      "title": "CurveStream: Boosting Streaming Video Understanding in MLLMs via Curvature-Aware Hierarchical Visual Memory Management",
-      "url": "https://huggingface.co/papers/2603.19571",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-19T22:28:57.000Z",
-      "abstract": "Multimodal Large Language Models have achieved significant success in offline video understanding, yet their application to streaming videos is severely limited by the linear explosion of visual token",
-      "authors": [
-        "Chao Wang",
-        "Xudong Tan",
-        "Jianjian Cao",
-        "Kangcong Li",
-        "Tao Chen"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Frip-meta",
       "title": "RIP Metaverse, an $80 Billion Dumpster Fire Nobody Wanted",
@@ -94,35 +66,6 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.19466",
-      "title": "ProactiveBench: Benchmarking Proactiveness in Multimodal Large Language Models",
-      "url": "https://huggingface.co/papers/2603.19466",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-19T16:58:03.000Z",
-      "abstract": "Effective collaboration begins with knowing when to ask for help. For example, when trying to identify an occluded object, a human would ask someone to remove the obstruction. Can MLLMs exhibit a simi",
-      "authors": [
-        "Thomas De Min",
-        "Subhankar Roy",
-        "Stéphane Lathuilière",
-        "Elisa Ricci",
-        "Massimiliano Mancini"
-      ],
-      "tags": [
-        "multimodal",
-        "benchmark"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -234,31 +177,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.19209",
-      "title": "Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders",
-      "url": "https://huggingface.co/papers/2603.19209",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-19T13:56:32.000Z",
-      "abstract": "Large vision--language models (VLMs) often use a frozen vision backbone, whose image features are mapped into a large language model through a lightweight connector. While transformer-based encoders a",
-      "authors": [
-        "Shang-Jui Ray Kuo",
-        "Paola Cascante-Bonilla"
-      ],
-      "tags": [
-        "transformer"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fmapping-",
       "title": "Mapping Google's Unmappable City",
       "url": "https://www.404media.co/mapping-googles-unmappable-city/",
@@ -272,31 +190,6 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.19076",
-      "title": "DROID-SLAM in the Wild",
-      "url": "https://huggingface.co/papers/2603.19076",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-19T12:02:12.000Z",
-      "abstract": "We present a robust, real-time RGB SLAM system that handles dynamic environments by leveraging differentiable Uncertainty-aware Bundle Adjustment. Traditional SLAM methods typically assume static scen",
-      "authors": [
-        "Moyang Li",
-        "Zihan Zhu",
-        "Marc Pollefeys",
-        "Daniel Barath"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -364,6 +257,32 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.18795",
+      "title": "Perceptio: Perception Enhanced Vision Language Models via Spatial Token Generation",
+      "url": "https://huggingface.co/papers/2603.18795",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-19T07:46:01.000Z",
+      "abstract": "Large Vision Language Models (LVLMs) excel at semantic understanding but struggle with fine grained spatial grounding, as the model must implicitly infer complex geometry without ever producing a spat",
+      "authors": [
+        "Yuchen Li",
+        "Amanmeet Garg",
+        "Shalini Chaudhuri",
+        "Rui Zhao",
+        "Garin Kessler"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

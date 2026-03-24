@@ -1,9 +1,34 @@
 {
-  "generatedAt": "2026-03-24T01:14:05.769Z",
+  "generatedAt": "2026-03-24T03:54:35.943Z",
   "date": "22-03-2026",
-  "count": 8,
+  "count": 11,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2603.21489",
+      "title": "Effective Strategies for Asynchronous Software Engineering Agents",
+      "url": "https://huggingface.co/papers/2603.21489",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-22T22:26:35.000Z",
+      "abstract": "AI agents have become increasingly capable at isolated software engineering (SWE) tasks such as resolving issues on Github. Yet long-horizon tasks involving multiple interdependent subtasks still pose",
+      "authors": [
+        "Jiayi Geng",
+        "Graham Neubig"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
       "title": "Implementing Deep Q-Learning (DQN) from Scratch Using RLax JAX Haiku and Optax to Train a CartPole Reinforcement Learning Agent",
@@ -112,6 +137,35 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.21383",
+      "title": "PivotRL: High Accuracy Agentic Post-Training at Low Compute Cost",
+      "url": "https://huggingface.co/papers/2603.21383",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-22T15:59:48.000Z",
+      "abstract": "Post-training for long-horizon agentic tasks has a tension between compute efficiency and generalization. While supervised fine-tuning (SFT) is compute efficient, it often suffers from out-of-domain (",
+      "authors": [
+        "Junkeun Yi",
+        "Damon Mosk-Aoyama",
+        "Baihe Huang",
+        "Ritu Gala",
+        "Charles Wang"
+      ],
+      "tags": [
+        "agent",
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fai-arti",
       "title": "Musk says he’s building a Terafab chip plant in Austin, Texas",
       "url": "https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant",
@@ -162,6 +216,35 @@
       "abstract": "In this tutorial, we explore the capabilities of the pymatgen library for computational materials science using Python. We begin by constructing crystal structures such as silicon, sodium chloride, an",
       "authors": [],
       "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.21065",
+      "title": "LongCat-Flash-Prover: Advancing Native Formal Reasoning via Agentic Tool-Integrated Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2603.21065",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-22T01:16:09.000Z",
+      "abstract": "We introduce LongCat-Flash-Prover, a flagship 560-billion-parameter open-source Mixture-of- Experts (MoE) model that advances Native Formal Reasoning in Lean4 through agentic tool-integrated reasoning",
+      "authors": [
+        "Jianing Wang",
+        "Jianfei Zhang",
+        "Qi Guo",
+        "Linsen Guo",
+        "Rumei Li"
+      ],
+      "tags": [
+        "agent",
+        "reinforcement learning"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
