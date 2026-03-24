@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-24T06:36:29.897Z",
+  "generatedAt": "2026-03-24T07:49:00.321Z",
   "date": "22-03-2026",
   "count": 11,
   "summary": null,
@@ -186,6 +186,33 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.21342",
+      "title": "Generalized Discrete Diffusion from Snapshots",
+      "url": "https://huggingface.co/papers/2603.21342",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-22T13:58:01.000Z",
+      "abstract": "We introduce Generalized Discrete Diffusion from Snapshots (GDDS), a unified framework for discrete diffusion modeling that supports arbitrary noising processes over large discrete state spaces. Our f",
+      "authors": [
+        "Oussama Zekri",
+        "Théo Uscidda",
+        "Nicolas Boullé",
+        "Anna Korba"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fgames%2",
       "title": "AI was everywhere at gaming’s big developer conference — except the games",
       "url": "https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference",
@@ -216,35 +243,6 @@
       "abstract": "In this tutorial, we explore the capabilities of the pymatgen library for computational materials science using Python. We begin by constructing crystal structures such as silicon, sodium chloride, an",
       "authors": [],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.21065",
-      "title": "LongCat-Flash-Prover: Advancing Native Formal Reasoning via Agentic Tool-Integrated Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2603.21065",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-22T01:16:09.000Z",
-      "abstract": "We introduce LongCat-Flash-Prover, a flagship 560-billion-parameter open-source Mixture-of- Experts (MoE) model that advances Native Formal Reasoning in Lean4 through agentic tool-integrated reasoning",
-      "authors": [
-        "Jianing Wang",
-        "Jianfei Zhang",
-        "Qi Guo",
-        "Linsen Guo",
-        "Rumei Li"
-      ],
-      "tags": [
-        "agent",
-        "reinforcement learning"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

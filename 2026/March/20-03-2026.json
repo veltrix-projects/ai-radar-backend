@@ -1,31 +1,9 @@
 {
-  "generatedAt": "2026-03-24T06:36:29.898Z",
+  "generatedAt": "2026-03-24T07:49:00.322Z",
   "date": "20-03-2026",
-  "count": 9,
+  "count": 6,
   "summary": null,
   "items": [
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "NVIDIA Releases Nemotron-Cascade 2: An Open 30B MoE with 3B Active Parameters, Delivering Better Reasoning and Strong Agentic Capabilities",
-      "url": "https://www.marktechpost.com/2026/03/20/nvidia-releases-nemotron-cascade-2-an-open-30b-moe-with-3b-active-parameters-delivering-better-reasoning-and-strong-agentic-capabilities/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-03-20T22:38:13.000Z",
-      "abstract": "NVIDIA has announced the release of Nemotron-Cascade 2, an open-weight 30B Mixture-of-Experts (MoE) model with 3B activated parameters. The model focuses on maximizing &#8216;intelligence density,&#82",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "hf_paper_2603.20538",
       "title": "Understanding Behavior Cloning with Action Quantization",
@@ -90,34 +68,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.20193",
-      "title": "From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering",
-      "url": "https://huggingface.co/papers/2603.20193",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-20T13:59:54.000Z",
-      "abstract": "Existing tampering detection benchmarks largely rely on object masks, which severely misalign with the true edit signal: many pixels inside a mask are untouched or only trivially modified, while subtl",
-      "authors": [
-        "Xinyi Shang",
-        "Yi Tang",
-        "Jiacheng Cui",
-        "Ahmed Elhagry",
-        "Salwa K. Al Khatib"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Ftiny-cit",
       "title": "Tiny Township Fears Iran Drone Strikes Because of New Nuclear Weapons Datacenter",
       "url": "https://www.404media.co/tiny-city-fears-iran-drone-strikes-because-of-new-nuclear-weapons-datacenter/",
@@ -151,32 +101,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.19987",
-      "title": "Breaking the Capability Ceiling of LLM Post-Training by Reintroducing Markov States",
-      "url": "https://huggingface.co/papers/2603.19987",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-20T10:35:49.000Z",
-      "abstract": "Reinforcement learning (RL) has become a standard paradigm for post-training and aligning Large Language Models (LLMs), yet recent evidence suggests it faces a persistent \"capability ceiling\": unlike",
-      "authors": [
-        "Yurun Yuan",
-        "Tengyang Xie"
-      ],
-      "tags": [
-        "llm",
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
