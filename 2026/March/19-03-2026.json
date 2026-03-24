@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-24T03:54:35.945Z",
+  "generatedAt": "2026-03-24T06:36:29.898Z",
   "date": "19-03-2026",
-  "count": 16,
+  "count": 15,
   "summary": null,
   "items": [
     {
@@ -45,34 +45,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.19470",
-      "title": "Adaptive Layerwise Perturbation: Unifying Off-Policy Corrections for LLM RL",
-      "url": "https://huggingface.co/papers/2603.19470",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-19T17:04:17.000Z",
-      "abstract": "Off-policy problems such as policy staleness and training-inference mismatch, has become a major bottleneck for training stability and further exploration for LLM RL. To enhance inference efficiency,",
-      "authors": [
-        "Chenlu Ye",
-        "Xuanchang Zhang",
-        "Yifan Hao",
-        "Zhou Yu",
-        "Ziji Zhang"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
       "title": "Use RAG for video generation using Amazon Bedrock and Amazon Nova Reel",
       "url": "https://aws.amazon.com/blogs/machine-learning/use-rag-for-video-generation-using-amazon-bedrock-and-amazon-nova-reel/",
@@ -107,6 +79,32 @@
       "tags": [
         "rag"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.19456",
+      "title": "In-the-Wild Camouflage Attack on Vehicle Detectors through Controllable Image Editing",
+      "url": "https://huggingface.co/papers/2603.19456",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-19T16:30:03.000Z",
+      "abstract": "Deep neural networks (DNNs) have achieved remarkable success in computer vision but remain highly vulnerable to adversarial attacks. Among them, camouflage attacks manipulate an object's visible appea",
+      "authors": [
+        "Xiao Fang",
+        "Yiming Gong",
+        "Stanislav Panev",
+        "Celso de Melo",
+        "Shuowen Hu"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -306,32 +304,6 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.18655",
-      "title": "Multiscale Switch for Semi-Supervised and Contrastive Learning in Medical Ultrasound Image Segmentation",
-      "url": "https://huggingface.co/papers/2603.18655",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-19T05:20:37.000Z",
-      "abstract": "Medical ultrasound image segmentation faces significant challenges due to limited labeled data and characteristic imaging artifacts including speckle noise and low-contrast boundaries. While semi-supe",
-      "authors": [
-        "Jingguo Qu",
-        "Xinyang Han",
-        "Yao Pu",
-        "Man-Lik Chui",
-        "Simon Takadiyi Gunda"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
