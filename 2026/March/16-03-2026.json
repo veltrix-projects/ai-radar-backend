@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-24T17:49:35.984Z",
+  "generatedAt": "2026-03-24T18:50:38.527Z",
   "date": "16-03-2026",
   "count": 12,
   "summary": null,
@@ -176,26 +176,6 @@
       "points": 0
     },
     {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "NTT DATA and NVIDIA bring enterprise AI factories to production scale",
-      "url": "https://www.artificialintelligence-news.com/news/ntt-data-nvidia-enterprise-ai-factories-production/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-03-16T12:00:00.000Z",
-      "abstract": "NTT DATA has announced an initiative to deliver NVIDIA-powered platforms designed to give organisations a repeatable, production-ready model for scaling AI. The offering integrates NVIDIA&#8217;s GPU-",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
       "title": "Securing digital assets against future threats",
       "url": "https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/",
@@ -232,6 +212,28 @@
       "tags": [
         "reinforcement learning"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.14999",
+      "title": "Aperiodic Structures Never Collapse: Fibonacci Hierarchies for Lossless Compression",
+      "url": "https://huggingface.co/papers/2603.14999",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-16T05:02:59.000Z",
+      "abstract": "We study whether an aperiodic hierarchy can provide a structural advantage for lossless compression over periodic alternatives. We show that Fibonacci quasicrystal tilings avoid the finite-depth colla",
+      "authors": [
+        "Roberto Tacconelli"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
