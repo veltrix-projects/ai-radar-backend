@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-24T10:42:04.089Z",
+  "generatedAt": "2026-03-24T11:38:58.221Z",
   "date": "23-03-2026",
   "count": 78,
   "summary": null,
@@ -657,6 +657,29 @@
       "points": 0
     },
     {
+      "id": "arxiv_2603.22276v1",
+      "title": "Scaling DoRA: High-Rank Adaptation via Factored Norms and Fused Kernels",
+      "url": "https://arxiv.org/abs/2603.22276v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-03-23T17:57:24Z",
+      "abstract": "Weight-Decomposed Low-Rank Adaptation (DoRA) extends LoRA by decoupling weight magnitude from direction, but its forward pass requires the row-wise norm of W + sBA, a computation that every major fram",
+      "authors": [
+        "Alexandra Zelenin",
+        "Alexandra Zhuravlyova"
+      ],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "arxiv_2603.22273v1",
       "title": "Decoupling Exploration and Policy Optimization: Uncertainty Guided Tree Search for Hard Exploration",
       "url": "https://arxiv.org/abs/2603.22273v1",
@@ -1191,19 +1214,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.22276",
-      "title": "Scaling DoRA: High-Rank Adaptation via Factored Norms and Fused Kernels",
-      "url": "https://huggingface.co/papers/2603.22276",
+      "id": "hf_paper_2603.22275",
+      "title": "Repurposing Geometric Foundation Models for Multi-view Diffusion",
+      "url": "https://huggingface.co/papers/2603.22275",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-03-23T13:57:24.000Z",
-      "abstract": "Weight-Decomposed Low-Rank Adaptation (DoRA) extends LoRA by decoupling weight magnitude from direction, but its forward pass requires the row-wise norm of W + sBA, a computation that every major fram",
+      "timestamp": "2026-03-23T13:57:05.000Z",
+      "abstract": "While recent advances in generative latent spaces have driven substantial progress in single-image generation, the optimal latent space for novel view synthesis (NVS) remains largely unexplored. In pa",
       "authors": [
-        "Alexandra Zelenin",
-        "Alexandra Zhuravlyova"
+        "Wooseok Jang",
+        "Seonghu Jeon",
+        "Jisang Han",
+        "Jinhyeok Choi",
+        "Minkyung Kwon"
       ],
-      "tags": [],
+      "tags": [
+        "diffusion"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -1429,36 +1457,6 @@
       "points": 0
     },
     {
-      "id": "gh_1136590548",
-      "title": "affaan-m/everything-claude-code — The agent harness performance optimization system. Skills, instincts, memory, security, and research",
-      "url": "https://github.com/affaan-m/everything-claude-code",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-03-23T11:35:33Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "ai-agents",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "developer-tools",
-        "llm",
-        "mcp",
-        "productivity",
-        "JavaScript"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 103372,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "hf_paper_2603.22057",
       "title": "SpatialBoost: Enhancing Visual Representation through Language-Guided Reasoning",
       "url": "https://huggingface.co/papers/2603.22057",
@@ -1511,7 +1509,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 108437,
+      "stars": 108438,
       "votes": 0,
       "points": 0
     },

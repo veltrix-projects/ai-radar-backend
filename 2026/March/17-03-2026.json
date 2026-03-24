@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-24T10:42:04.093Z",
+  "generatedAt": "2026-03-24T11:38:58.225Z",
   "date": "17-03-2026",
-  "count": 11,
+  "count": 12,
   "summary": null,
   "items": [
     {
@@ -77,6 +77,32 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.20278",
+      "title": "OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis",
+      "url": "https://huggingface.co/papers/2603.20278",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-17T16:10:12.000Z",
+      "abstract": "Training deep research agents requires long-horizon trajectories that interleave search, evidence aggregation, and multi-step reasoning. However, existing data collection pipelines typically rely on p",
+      "authors": [
+        "Zhuofeng Li",
+        "Dongfu Jiang",
+        "Xueguang Ma",
+        "Haoxiang Zhang",
+        "Ping Nie"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -210,7 +236,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 103367,
+      "stars": 103375,
       "votes": 0,
       "points": 0
     },
