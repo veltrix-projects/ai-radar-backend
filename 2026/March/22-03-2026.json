@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-25T01:19:13.610Z",
+  "generatedAt": "2026-03-25T03:56:44.094Z",
   "date": "22-03-2026",
-  "count": 8,
+  "count": 4,
   "summary": null,
   "items": [
     {
@@ -84,111 +84,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.21342",
-      "title": "Generalized Discrete Diffusion from Snapshots",
-      "url": "https://huggingface.co/papers/2603.21342",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-22T13:58:01.000Z",
-      "abstract": "We introduce Generalized Discrete Diffusion from Snapshots (GDDS), a unified framework for discrete diffusion modeling that supports arbitrary noising processes over large discrete state spaces. Our f",
-      "authors": [
-        "Oussama Zekri",
-        "Théo Uscidda",
-        "Nicolas Boullé",
-        "Anna Korba"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.21341",
-      "title": "RoboAlign: Learning Test-Time Reasoning for Language-Action Alignment in Vision-Language-Action Models",
-      "url": "https://huggingface.co/papers/2603.21341",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-22T13:57:55.000Z",
-      "abstract": "Improving embodied reasoning in multimodal-large-language models (MLLMs) is essential for building vision-language-action models (VLAs) on top of them to readily translate multimodal understanding int",
-      "authors": [
-        "Dongyoung Kim",
-        "Sumin Park",
-        "Woomin Song",
-        "Seungku Kim",
-        "Taeyoung Kim"
-      ],
-      "tags": [
-        "alignment"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.21315",
-      "title": "FluidWorld: Reaction-Diffusion Dynamics as a Predictive Substrate for World Models",
-      "url": "https://huggingface.co/papers/2603.21315",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-22T12:49:43.000Z",
-      "abstract": "World models learn to predict future states of an environment, enabling planning and mental simulation. Current approaches default to Transformer-based predictors operating in learned latent spaces. T",
-      "authors": [
-        "Fabien Polly"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.21304",
-      "title": "F4Splat: Feed-Forward Predictive Densification for Feed-Forward 3D Gaussian Splatting",
-      "url": "https://huggingface.co/papers/2603.21304",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-22T12:03:56.000Z",
-      "abstract": "Feed-forward 3D Gaussian Splatting methods enable single-pass reconstruction and real-time rendering. However, they typically adopt rigid pixel-to-Gaussian or voxel-to-Gaussian pipelines that uniforml",
-      "authors": [
-        "Injae Kim",
-        "Chaehyeon Kim",
-        "Minseong Bae",
-        "Minseok Joo",
-        "Hyunwoo J. Kim"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

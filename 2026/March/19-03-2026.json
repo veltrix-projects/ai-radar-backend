@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-25T01:19:13.612Z",
+  "generatedAt": "2026-03-25T03:56:44.096Z",
   "date": "19-03-2026",
-  "count": 13,
+  "count": 10,
   "summary": null,
   "items": [
     {
@@ -135,60 +135,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.20309",
-      "title": "BubbleRAG: Evidence-Driven Retrieval-Augmented Generation for Black-Box Knowledge Graphs",
-      "url": "https://huggingface.co/papers/2603.20309",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-19T12:00:36.000Z",
-      "abstract": "Large Language Models (LLMs) exhibit hallucinations in knowledge-intensive tasks. Graph-based retrieval augmented generation (RAG) has emerged as a promising solution, yet existing approaches suffer f",
-      "authors": [
-        "Duyi Pan",
-        "Tianao Lou",
-        "Xin Li",
-        "Haoze Song",
-        "Yiwen Wu"
-      ],
-      "tags": [
-        "rag"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.19028",
-      "title": "SEM: Sparse Embedding Modulation for Post-Hoc Debiasing of Vision-Language Models",
-      "url": "https://huggingface.co/papers/2603.19028",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-19T11:28:08.000Z",
-      "abstract": "Models that bridge vision and language, such as CLIP, are key components of multimodal AI, yet their large-scale, uncurated training data introduce severe social and spurious biases. Existing post-hoc",
-      "authors": [
-        "Quentin Guimard",
-        "Federico Bartsch",
-        "Simone Caldarella",
-        "Rahaf Aljundi",
-        "Elisa Ricci"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fhow-w",
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
@@ -223,31 +169,6 @@
       "authors": [],
       "tags": [
         "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.18911",
-      "title": "Progressive Training for Explainable Citation-Grounded Dialogue: Reducing Hallucination to Zero in English-Hindi LLMs",
-      "url": "https://huggingface.co/papers/2603.18911",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-19T09:48:19.000Z",
-      "abstract": "Knowledge-grounded dialogue systems aim to generate informative, contextually relevant responses by conditioning on external knowledge sources. However, most existing approaches focus exclusively on E",
-      "authors": [
-        "Vedant Pandya"
-      ],
-      "tags": [
-        "llm",
-        "training"
       ],
       "score": 6,
       "priority": "MEDIUM",
