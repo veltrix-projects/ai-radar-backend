@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-25T06:37:04.014Z",
+  "generatedAt": "2026-03-25T07:47:29.729Z",
   "date": "22-03-2026",
-  "count": 4,
+  "count": 5,
   "summary": null,
   "items": [
     {
@@ -21,30 +21,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Meet GitAgent: The Docker for AI Agents that is Finally Solving the Fragmentation between LangChain, AutoGen, and Claude Code",
-      "url": "https://www.marktechpost.com/2026/03/22/meet-gitagent-the-docker-for-ai-agents-that-is-finally-solving-the-fragmentation-between-langchain-autogen-and-claude-code/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-03-22T21:21:48.000Z",
-      "abstract": "The current state of AI agent development is characterized by significant architectural fragmentation. Software devs building autonomous systems must generally commit to one of several competing ecosy",
-      "authors": [],
-      "tags": [
-        "claude",
-        "rag",
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -84,6 +60,56 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.22350",
+      "title": "Session Risk Memory (SRM): Temporal Authorization for Deterministic Pre-Execution Safety Gates",
+      "url": "https://huggingface.co/papers/2603.22350",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-22T04:30:28.000Z",
+      "abstract": "Deterministic pre-execution safety gates evaluate whether individual agent actions are compatible with their assigned roles. While effective at per-action authorization, these systems are structurally",
+      "authors": [
+        "Florin Adrian Chitan"
+      ],
+      "tags": [
+        "safety"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.21064",
+      "title": "2Xplat: Two Experts Are Better Than One Generalist",
+      "url": "https://huggingface.co/papers/2603.21064",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-22T01:14:38.000Z",
+      "abstract": "Pose-free feed-forward 3D Gaussian Splatting (3DGS) has opened a new frontier for rapid 3D modeling, enabling high-quality Gaussian representations to be generated from uncalibrated multi-view images",
+      "authors": [
+        "Hwasik Jeong",
+        "Seungryong Lee",
+        "Gyeongjin Kang",
+        "Seungkwon Yang",
+        "Xiangyu Sun"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
