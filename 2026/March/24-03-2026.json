@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-25T07:47:29.727Z",
+  "generatedAt": "2026-03-25T08:39:16.879Z",
   "date": "24-03-2026",
   "count": 79,
   "summary": null,
@@ -1117,7 +1117,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 99236,
+      "stars": 99240,
       "votes": 0,
       "points": 0
     },
@@ -1245,6 +1245,34 @@
         "Yu Gao"
       ],
       "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.23499",
+      "title": "DA-Flow: Degradation-Aware Optical Flow Estimation with Diffusion Models",
+      "url": "https://huggingface.co/papers/2603.23499",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-24T13:59:13.000Z",
+      "abstract": "Optical flow models trained on high-quality data often degrade severely when confronted with real-world corruptions such as blur, noise, and compression artifacts. To overcome this limitation, we form",
+      "authors": [
+        "Jaewon Min",
+        "Jaeeun Lee",
+        "Yeji Choi",
+        "Paul Hyunbin Cho",
+        "Jin Hyeon Kim"
+      ],
+      "tags": [
+        "diffusion"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -1644,26 +1672,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_MachineLearning_t3_1s27pnk",
-      "title": "[D] Matryoshka Representation Learning",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1s27pnk/d_matryoshka_representation_learning/",
-      "source": "Reddit r/MachineLearning",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-24T08:06:50+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

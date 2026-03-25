@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-25T07:47:29.728Z",
+  "generatedAt": "2026-03-25T08:39:16.880Z",
   "date": "23-03-2026",
-  "count": 29,
+  "count": 28,
   "summary": null,
   "items": [
     {
@@ -102,32 +102,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.22606",
-      "title": "TrajLoom: Dense Future Trajectory Generation from Video",
-      "url": "https://huggingface.co/papers/2603.22606",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-23T18:10:58.000Z",
-      "abstract": "Predicting future motion is crucial in video understanding and controllable video generation. Dense point trajectories are a compact, expressive motion representation, but modeling their future evolut",
-      "authors": [
-        "Zewei Zhang",
-        "Jia Jun Cheng Xian",
-        "Kaiwen Liu",
-        "Ming Liang",
-        "Hang Chu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -325,35 +299,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.22386",
-      "title": "From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents",
-      "url": "https://huggingface.co/papers/2603.22386",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-23T13:42:59.000Z",
-      "abstract": "Large language model (LLM)-based systems are becoming increasingly popular for solving tasks by constructing executable workflows that interleave LLM calls, information retrieval, tool use, code execu",
-      "authors": [
-        "Ling Yue",
-        "Kushal Raj Bhandari",
-        "Ching-Yun Ko",
-        "Dhaval Patel",
-        "Shuxin Lin"
-      ],
-      "tags": [
-        "llm",
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fridicule",
       "title": "Ridicule as Praxis (with Emily Bender and Alex Hanna)",
       "url": "https://www.404media.co/ridicule-as-praxis-with-emily-bender-and-alex-hanna/",
@@ -481,6 +426,32 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.22003",
+      "title": "VP-VLA: Visual Prompting as an Interface for Vision-Language-Action Models",
+      "url": "https://huggingface.co/papers/2603.22003",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-23T10:08:58.000Z",
+      "abstract": "Vision-Language-Action (VLA) models typically map visual observations and linguistic instructions directly to robotic control signals. This \"black-box\" mapping forces a single forward pass to simultan",
+      "authors": [
+        "Zixuan Wang",
+        "Yuxin Chen",
+        "Yuqi Liu",
+        "Jinhui Ye",
+        "Pengguang Chen"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "gh_655806940",
       "title": "microsoft/generative-ai-for-beginners — 21 Lessons, Get Started Building with Generative AI",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
@@ -507,7 +478,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 108488,
+      "stars": 108491,
       "votes": 0,
       "points": 0
     },
