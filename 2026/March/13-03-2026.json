@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-25T18:44:09.555Z",
+  "generatedAt": "2026-03-25T19:40:34.991Z",
   "date": "13-03-2026",
-  "count": 7,
+  "count": 8,
   "summary": null,
   "items": [
     {
@@ -57,6 +57,29 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.13669",
+      "title": "SHAMISA: SHAped Modeling of Implicit Structural Associations for Self-supervised No-Reference Image Quality Assessment",
+      "url": "https://huggingface.co/papers/2603.13669",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-13T20:37:26.000Z",
+      "abstract": "No-Reference Image Quality Assessment (NR-IQA) aims to estimate perceptual quality without access to a reference image of pristine quality. Learning an NR-IQA model faces a fundamental bottleneck: its",
+      "authors": [
+        "Mahdi Naseri",
+        "Zhou Wang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
