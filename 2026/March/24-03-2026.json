@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-25T08:39:16.879Z",
+  "generatedAt": "2026-03-25T09:43:43.585Z",
   "date": "24-03-2026",
-  "count": 79,
+  "count": 78,
   "summary": null,
   "items": [
     {
@@ -695,34 +695,6 @@
       "points": 0
     },
     {
-      "id": "arxiv_2603.23495v1",
-      "title": "VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions",
-      "url": "https://arxiv.org/abs/2603.23495v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-03-24T17:58:17Z",
-      "abstract": "Existing approaches for improving the efficiency of Large Vision-Language Models (LVLMs) are largely based on the concept of visual token reduction. This approach, however, creates an information bott",
-      "authors": [
-        "Adrian Bulat",
-        "Alberto Baldrati",
-        "Ioannis Maniadis Metaxas",
-        "Yassine Ouali",
-        "Georgios Tzimiropoulos"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
       "title": "Accelerating custom entity recognition with Claude tool use in Amazon Bedrock",
       "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-custom-entity-recognition-with-claude-tool-use-in-amazon-bedrock/",
@@ -1099,29 +1071,6 @@
       "points": 0
     },
     {
-      "id": "gh_612354784",
-      "title": "ggml-org/llama.cpp — LLM inference in C/C++",
-      "url": "https://github.com/ggml-org/llama.cpp",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-03-24T16:10:05Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "ggml",
-        "C++"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 99240,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "Building NVIDIA Nemotron 3 Agents for Reasoning, Multimodal RAG, Voice, and Safety",
       "url": "https://developer.nvidia.com/blog/building-nvidia-nemotron-3-agents-for-reasoning-multimodal-rag-voice-and-safety/",
@@ -1207,6 +1156,26 @@
       "points": 0
     },
     {
+      "id": "reddit_LocalLLaMA_t3_1s2ff19",
+      "title": "Built a tracker of every company that cited AI as the reason for layoffs in 2026",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s2ff19/built_a_tracker_of_every_company_that_cited_ai_as/",
+      "source": "Reddit r/LocalLLaMA",
+      "sourceIcon": "🔴",
+      "type": "news",
+      "timestamp": "2026-03-24T14:31:25+00:00",
+      "abstract": "",
+      "authors": [],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "reddit_LocalLLaMA_t3_1s2fch0",
       "title": "[Developing situation] LiteLLM compromised",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s2fch0/developing_situation_litellm_compromised/",
@@ -1221,32 +1190,6 @@
       ],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.23500",
-      "title": "UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation",
-      "url": "https://huggingface.co/papers/2603.23500",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-24T13:59:17.000Z",
-      "abstract": "Unified models capable of interleaved generation have emerged as a promising paradigm, with the community increasingly converging on autoregressive modeling for text and flow matching for image genera",
-      "authors": [
-        "Jie Liu",
-        "Zilyu Ye",
-        "Linxiao Yuan",
-        "Shenhan Zhu",
-        "Yu Gao"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -1309,6 +1252,34 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.23495",
+      "title": "VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions",
+      "url": "https://huggingface.co/papers/2603.23495",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-24T13:58:17.000Z",
+      "abstract": "Existing approaches for improving the efficiency of Large Vision-Language Models (LVLMs) are largely based on the concept of visual token reduction. This approach, however, creates an information bott",
+      "authors": [
+        "Adrian Bulat",
+        "Alberto Baldrati",
+        "Ioannis Maniadis Metaxas",
+        "Yassine Ouali",
+        "Georgios Tzimiropoulos"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2603.23483",
       "title": "SpecEyes: Accelerating Agentic Multimodal LLMs via Speculative Perception and Planning",
       "url": "https://huggingface.co/papers/2603.23483",
@@ -1355,6 +1326,32 @@
         "Yuchen Mo"
       ],
       "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.23471",
+      "title": "Regulating AI Agents",
+      "url": "https://huggingface.co/papers/2603.23471",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-24T13:38:27.000Z",
+      "abstract": "AI agents -- systems that can independently take actions to pursue complex goals with only limited human oversight -- have entered the mainstream. These systems are now being widely used to produce so",
+      "authors": [
+        "Kathrin Gardhouse",
+        "Amin Oueslati",
+        "Noam Kolt"
+      ],
+      "tags": [
+        "agent"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -1610,26 +1607,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1s28mdx",
-      "title": "Total beginner here—Why is LM Studio making me do the &quot;heavy lifting&quot; manually?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s28mdx/total_beginner_herewhy_is_lm_studio_making_me_do/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-24T09:06:01+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
