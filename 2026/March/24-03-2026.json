@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-26T06:58:01.403Z",
+  "generatedAt": "2026-03-26T08:01:46.163Z",
   "date": "24-03-2026",
-  "count": 22,
+  "count": 23,
   "summary": null,
   "items": [
     {
@@ -330,6 +330,34 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.23404",
+      "title": "Unleashing Spatial Reasoning in Multimodal Large Language Models via Textual Representation Guided Reasoning",
+      "url": "https://huggingface.co/papers/2603.23404",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-24T12:38:09.000Z",
+      "abstract": "Existing Multimodal Large Language Models (MLLMs) struggle with 3D spatial reasoning, as they fail to construct structured abstractions of the 3D environment depicted in video inputs. To bridge this g",
+      "authors": [
+        "Jiacheng Hua",
+        "Yishu Yin",
+        "Yuhang Wu",
+        "Tai Wang",
+        "Yifei Huang"
+      ],
+      "tags": [
+        "multimodal"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
