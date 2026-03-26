@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-26T04:26:01.242Z",
+  "generatedAt": "2026-03-26T05:55:13.033Z",
   "date": "24-03-2026",
-  "count": 25,
+  "count": 24,
   "summary": null,
   "items": [
     {
@@ -312,77 +312,19 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.23495",
-      "title": "VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions",
-      "url": "https://huggingface.co/papers/2603.23495",
+      "id": "hf_paper_2603.23478",
+      "title": "UniFunc3D: Unified Active Spatial-Temporal Grounding for 3D Functionality Segmentation",
+      "url": "https://huggingface.co/papers/2603.23478",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-03-24T13:58:17.000Z",
-      "abstract": "Existing approaches for improving the efficiency of Large Vision-Language Models (LVLMs) are largely based on the concept of visual token reduction. This approach, however, creates an information bott",
+      "timestamp": "2026-03-24T13:42:31.000Z",
+      "abstract": "Functionality segmentation in 3D scenes requires an agent to ground implicit natural-language instructions into precise masks of fine-grained interactive elements. Existing methods rely on fragmented",
       "authors": [
-        "Adrian Bulat",
-        "Alberto Baldrati",
-        "Ioannis Maniadis Metaxas",
-        "Yassine Ouali",
-        "Georgios Tzimiropoulos"
+        "Jiaying Lin",
+        "Dan Xu"
       ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.23488",
-      "title": "One View Is Enough! Monocular Training for In-the-Wild Novel View Generation",
-      "url": "https://huggingface.co/papers/2603.23488",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-24T13:54:25.000Z",
-      "abstract": "Monocular novel-view synthesis has long required multi-view image pairs for supervision, limiting training data scale and diversity. We argue it is not necessary: one view is enough. We present OVIE,",
-      "authors": [
-        "Adrien Ramanana Rahary",
-        "Nicolas Dufour",
-        "Patrick Perez",
-        "David Picard"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.23471",
-      "title": "Regulating AI Agents",
-      "url": "https://huggingface.co/papers/2603.23471",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-24T13:38:27.000Z",
-      "abstract": "AI agents -- systems that can independently take actions to pursue complex goals with only limited human oversight -- have entered the mainstream. These systems are now being widely used to produce so",
-      "authors": [
-        "Kathrin Gardhouse",
-        "Amin Oueslati",
-        "Noam Kolt"
-      ],
-      "tags": [
-        "agent"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -516,6 +458,35 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.22918",
+      "title": "EVA: Efficient Reinforcement Learning for End-to-End Video Agent",
+      "url": "https://huggingface.co/papers/2603.22918",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-24T04:06:29.000Z",
+      "abstract": "Video understanding with multimodal large language models (MLLMs) remains challenging due to the long token sequences of videos, which contain extensive temporal dependencies and redundant frames. Exi",
+      "authors": [
+        "Yaolun Zhang",
+        "Ruohui Wang",
+        "Jiahao Wang",
+        "Yepeng Tang",
+        "Xuanyu Zheng"
+      ],
+      "tags": [
+        "agent",
+        "reinforcement learning"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

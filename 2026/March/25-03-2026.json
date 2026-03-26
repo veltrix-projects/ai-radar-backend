@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-26T04:26:01.241Z",
+  "generatedAt": "2026-03-26T05:55:13.032Z",
   "date": "25-03-2026",
-  "count": 100,
+  "count": 98,
   "summary": null,
   "items": [
     {
@@ -31,7 +31,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 128724,
+      "stars": 128738,
       "votes": 0,
       "points": 0
     },
@@ -201,28 +201,6 @@
       "points": 0
     },
     {
-      "id": "reddit_LocalLLaMA_t3_1s3mjly",
-      "title": "M5 Max Qwen 3 VS Qwen 3.5 Pre-fill Performance",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s3mjly/m5_max_qwen_3_vs_qwen_35_prefill_performance/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-25T20:36:48+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "qwen"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "gh_155220641",
       "title": "huggingface/transformers — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text",
       "url": "https://github.com/huggingface/transformers",
@@ -249,7 +227,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 158416,
+      "stars": 158424,
       "votes": 0,
       "points": 0
     },
@@ -516,37 +494,6 @@
       "downloads": 0,
       "likes": 0,
       "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "gh_574523116",
-      "title": "f/prompts.chat — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and op",
-      "url": "https://github.com/f/prompts.chat",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-03-25T18:23:47Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "ai",
-        "artificial-intelligence",
-        "awesome-list",
-        "chatgpt",
-        "chatgpt-prompts",
-        "claude",
-        "gemini",
-        "gpt",
-        "gpt-4",
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 154255,
       "votes": 0,
       "points": 0
     },
@@ -1599,6 +1546,34 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.24472",
+      "title": "Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs?",
+      "url": "https://huggingface.co/papers/2603.24472",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-25T12:14:52.000Z",
+      "abstract": "Self-distillation has emerged as an effective post-training paradigm for LLMs, often improving performance while shortening reasoning traces. However, in mathematical reasoning, we find that it can re",
+      "authors": [
+        "Jeonghye Kim",
+        "Xufang Luo",
+        "Minbeom Kim",
+        "Sangmook Lee",
+        "Dohyung Kim"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "reddit_LocalLLaMA_t3_1s39024",
       "title": "DeepSeek Employee Teases &quot;Massive&quot; New Model Surpassing DeepSeek V3.2",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s39024/deepseek_employee_teases_massive_new_model/",
@@ -1804,7 +1779,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 108326,
+      "stars": 108517,
       "votes": 0,
       "points": 0
     },
@@ -2174,29 +2149,6 @@
       ],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1s3170r",
-      "title": "[Benchmark] The Ultimate Llama.cpp Shootout: RTX 5090 vs DGX Spark vs AMD AI395 & R9700 (ROCm/Vulkan)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s3170r/benchmark_the_ultimate_llamacpp_shootout_rtx_5090/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "model",
-      "timestamp": "2026-03-25T04:42:43+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "llama",
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
