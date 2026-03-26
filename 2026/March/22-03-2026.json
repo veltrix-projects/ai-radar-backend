@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-26T01:53:44.682Z",
+  "generatedAt": "2026-03-26T04:26:01.244Z",
   "date": "22-03-2026",
-  "count": 3,
+  "count": 2,
   "summary": null,
   "items": [
     {
@@ -30,49 +30,27 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.22350",
-      "title": "Session Risk Memory (SRM): Temporal Authorization for Deterministic Pre-Execution Safety Gates",
-      "url": "https://huggingface.co/papers/2603.22350",
+      "id": "hf_paper_2603.21289",
+      "title": "When Models Judge Themselves: Unsupervised Self-Evolution for Multimodal Reasoning",
+      "url": "https://huggingface.co/papers/2603.21289",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-03-22T04:30:28.000Z",
-      "abstract": "Deterministic pre-execution safety gates evaluate whether individual agent actions are compatible with their assigned roles. While effective at per-action authorization, these systems are structurally",
+      "timestamp": "2026-03-22T11:22:19.000Z",
+      "abstract": "Recent progress in multimodal large language models has led to strong performance on reasoning tasks, but these improvements largely rely on high-quality annotated data or teacher-model distillation,",
       "authors": [
-        "Florin Adrian Chitan"
+        "Zhengxian Wu",
+        "Kai Shi",
+        "Chuanrui Zhang",
+        "Zirui Liao",
+        "Jun Yang"
       ],
       "tags": [
-        "safety"
+        "multimodal"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.21064",
-      "title": "2Xplat: Two Experts Are Better Than One Generalist",
-      "url": "https://huggingface.co/papers/2603.21064",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-22T01:14:38.000Z",
-      "abstract": "Pose-free feed-forward 3D Gaussian Splatting (3DGS) has opened a new frontier for rapid 3D modeling, enabling high-quality Gaussian representations to be generated from uncalibrated multi-view images",
-      "authors": [
-        "Hwasik Jeong",
-        "Seungryong Lee",
-        "Gyeongjin Kang",
-        "Seungkwon Yang",
-        "Xiangyu Sun"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
