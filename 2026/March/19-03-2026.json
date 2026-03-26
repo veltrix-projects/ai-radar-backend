@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-26T10:44:02.346Z",
+  "generatedAt": "2026-03-26T12:53:37.542Z",
   "date": "19-03-2026",
-  "count": 6,
+  "count": 7,
   "summary": null,
   "items": [
     {
@@ -107,6 +107,35 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.18742",
+      "title": "6Bit-Diffusion: Inference-Time Mixed-Precision Quantization for Video Diffusion Models",
+      "url": "https://huggingface.co/papers/2603.18742",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-19T06:45:11.000Z",
+      "abstract": "Diffusion transformers have demonstrated remarkable capabilities in generating videos. However, their practical deployment is severely constrained by high memory usage and computational cost. Post-Tra",
+      "authors": [
+        "Rundong Su",
+        "Jintao Zhang",
+        "Zhihang Yuan",
+        "Haojie Duanmu",
+        "Jianfei Chen"
+      ],
+      "tags": [
+        "diffusion",
+        "inference"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
