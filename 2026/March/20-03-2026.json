@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-26T09:31:39.262Z",
+  "generatedAt": "2026-03-26T10:44:02.345Z",
   "date": "20-03-2026",
-  "count": 2,
+  "count": 3,
   "summary": null,
   "items": [
     {
@@ -24,6 +24,32 @@
         "agent",
         "benchmark"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.20176",
+      "title": "LagerNVS: Latent Geometry for Fully Neural Real-time Novel View Synthesis",
+      "url": "https://huggingface.co/papers/2603.20176",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-20T13:53:06.000Z",
+      "abstract": "Recent work has shown that neural networks can perform 3D tasks such as Novel View Synthesis (NVS) without explicit 3D reconstruction. Even so, we argue that strong 3D inductive biases are still helpf",
+      "authors": [
+        "Stanislaw Szymanowicz",
+        "Minghao Chen",
+        "Jianyuan Wang",
+        "Christian Rupprecht",
+        "Andrea Vedaldi"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
