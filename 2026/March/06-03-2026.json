@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-26T14:21:13.479Z",
+  "generatedAt": "2026-03-26T15:48:40.320Z",
   "date": "06-03-2026",
-  "count": 1,
+  "count": 2,
   "summary": null,
   "items": [
     {
@@ -19,6 +19,34 @@
       ],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.23522",
+      "title": "Qworld: Question-Specific Evaluation Criteria for LLMs",
+      "url": "https://huggingface.co/papers/2603.23522",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-06T10:20:45.000Z",
+      "abstract": "Evaluating large language models (LLMs) on open-ended questions is difficult because response quality depends on the question's context. Binary scores and static rubrics fail to capture these context-",
+      "authors": [
+        "Shanghua Gao",
+        "Yuchang Su",
+        "Pengwei Sui",
+        "Curtis Ginder",
+        "Marinka Zitnik"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
