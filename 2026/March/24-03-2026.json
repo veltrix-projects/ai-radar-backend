@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-27T04:09:50.287Z",
+  "generatedAt": "2026-03-27T05:55:18.385Z",
   "date": "24-03-2026",
-  "count": 17,
+  "count": 16,
   "summary": null,
   "items": [
     {
@@ -99,22 +99,19 @@
       "points": 0
     },
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "This AI Paper Introduces TinyLoRA, A 13-Parameter Fine-Tuning Method That Reaches 91.8 Percent GSM8K on Qwen2.5-7B",
-      "url": "https://www.marktechpost.com/2026/03/24/this-ai-paper-introduces-tinylora-a-13-parameter-fine-tuning-method-that-reaches-91-8-percent-gsm8k-on-qwen2-5-7b/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
+      "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Ft",
+      "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+      "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+      "source": "Google Research",
+      "sourceIcon": "🔍",
       "type": "research",
-      "timestamp": "2026-03-24T18:49:40.000Z",
-      "abstract": "Researchers from FAIR at Meta, Cornell University, and Carnegie Mellon University have demonstrated that large language models (LLMs) can learn to reason using a remarkably small number of trained par",
+      "timestamp": "2026-03-24T19:54:00.000Z",
+      "abstract": "Algorithms &amp; Theory",
       "authors": [],
-      "tags": [
-        "qwen",
-        "fine-tuning"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -352,35 +349,6 @@
       "authors": [],
       "tags": [
         "gpt"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.22918",
-      "title": "EVA: Efficient Reinforcement Learning for End-to-End Video Agent",
-      "url": "https://huggingface.co/papers/2603.22918",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-24T04:06:29.000Z",
-      "abstract": "Video understanding with multimodal large language models (MLLMs) remains challenging due to the long token sequences of videos, which contain extensive temporal dependencies and redundant frames. Exi",
-      "authors": [
-        "Yaolun Zhang",
-        "Ruohui Wang",
-        "Jiahao Wang",
-        "Yepeng Tang",
-        "Xuanyu Zheng"
-      ],
-      "tags": [
-        "agent",
-        "reinforcement learning"
       ],
       "score": 8,
       "priority": "HIGH",
