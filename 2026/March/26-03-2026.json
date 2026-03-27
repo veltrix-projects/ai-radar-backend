@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-27T12:42:08.736Z",
+  "generatedAt": "2026-03-27T14:05:38.758Z",
   "date": "26-03-2026",
-  "count": 81,
+  "count": 78,
   "summary": null,
   "items": [
     {
@@ -1353,32 +1353,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.25745",
-      "title": "Less Gaussians, Texture More: 4K Feed-Forward Textured Splatting",
-      "url": "https://huggingface.co/papers/2603.25745",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-26T13:59:59.000Z",
-      "abstract": "Existing feed-forward 3D Gaussian Splatting methods predict pixel-aligned primitives, leading to a quadratic growth in primitive count as resolution increases. This fundamentally limits their scalabil",
-      "authors": [
-        "Yixing Lao",
-        "Xuyang Bai",
-        "Xiaoyang Wu",
-        "Nuoyuan Yan",
-        "Zixin Luo"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "hf_paper_2603.25744",
       "title": "MuRF: Unlocking the Multi-Scale Potential of Vision Foundation Models",
       "url": "https://huggingface.co/papers/2603.25744",
@@ -1555,29 +1529,6 @@
       "points": 0
     },
     {
-      "id": "reddit_LocalLLaMA_t3_1s46ylj",
-      "title": "Mistral AI to release Voxtral TTS, a 3-billion-parameter text-to-speech model with open weights that the company says outperformed ElevenLabs Flash v2.5 in human preference tests. The model runs on ab",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s46ylj/mistral_ai_to_release_voxtral_tts_a/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "model",
-      "timestamp": "2026-03-26T13:07:18+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "mistral",
-        "speech"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fai-arti",
       "title": "Webtoon is adding AI localization tools to its comics platform",
       "url": "https://www.theverge.com/ai-artificial-intelligence/899108/webtoon-canvas-ai-translation-localization-yongsoo-kim",
@@ -1668,32 +1619,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.25551",
-      "title": "Voxtral TTS",
-      "url": "https://huggingface.co/papers/2603.25551",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-26T11:23:34.000Z",
-      "abstract": "We introduce Voxtral TTS, an expressive multilingual text-to-speech model that generates natural speech from as little as 3 seconds of reference audio. Voxtral TTS adopts a hybrid architecture that co",
-      "authors": [
-        "Alexander H. Liu",
-        "Alexis Tacnet",
-        "Andy Ehrenberg",
-        "Andy Lo",
-        "Chen-Yo Sun"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "hf_paper_2603.25502",
       "title": "RealRestorer: Towards Generalizable Real-World Image Restoration with Large-Scale Image Editing Models",
       "url": "https://huggingface.co/papers/2603.25502",
@@ -1732,6 +1657,33 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.25398",
+      "title": "PMT: Plain Mask Transformer for Image and Video Segmentation with Frozen Vision Encoders",
+      "url": "https://huggingface.co/papers/2603.25398",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-26T08:44:30.000Z",
+      "abstract": "Vision Foundation Models (VFMs) pre-trained at scale enable a single frozen encoder to serve multiple downstream tasks simultaneously. Recent VFM-based encoder-only models for image and video segmenta",
+      "authors": [
+        "Niccolò Cavagnero",
+        "Narges Norouzi",
+        "Gijs Dubbelman",
+        "Daan de Geus"
+      ],
+      "tags": [
+        "transformer"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -1785,37 +1737,6 @@
       "downloads": 0,
       "likes": 0,
       "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "gh_655806940",
-      "title": "microsoft/generative-ai-for-beginners — 21 Lessons, Get Started Building with Generative AI",
-      "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-03-26T03:43:56Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "ai",
-        "azure",
-        "chatgpt",
-        "dall-e",
-        "generative-ai",
-        "generativeai",
-        "gpt",
-        "language-model",
-        "llms",
-        "microsoft-for-beginners"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 108603,
       "votes": 0,
       "points": 0
     },
