@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-27T10:39:00.573Z",
+  "generatedAt": "2026-03-27T11:35:28.866Z",
   "date": "25-03-2026",
-  "count": 27,
+  "count": 28,
   "summary": null,
   "items": [
     {
@@ -177,6 +177,62 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.24800",
+      "title": "Calibri: Enhancing Diffusion Transformers via Parameter-Efficient Calibration",
+      "url": "https://huggingface.co/papers/2603.24800",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-25T16:19:50.000Z",
+      "abstract": "In this paper, we uncover the hidden potential of Diffusion Transformers (DiTs) to significantly enhance generative tasks. Through an in-depth analysis of the denoising process, we demonstrate that in",
+      "authors": [
+        "Danil Tokhchukov",
+        "Aysel Mirzoeva",
+        "Andrey Kuznetsov",
+        "Konstantin Sobolev"
+      ],
+      "tags": [
+        "transformer",
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.24793",
+      "title": "AVControl: Efficient Framework for Training Audio-Visual Controls",
+      "url": "https://huggingface.co/papers/2603.24793",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-25T16:06:43.000Z",
+      "abstract": "Controlling video and audio generation requires diverse modalities, from depth and pose to camera trajectories and audio transformations, yet existing approaches either train a single monolithic model",
+      "authors": [
+        "Matan Ben-Yosef",
+        "Tavi Halperin",
+        "Naomi Ken Korem",
+        "Mohammad Salama",
+        "Harel Cain"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -535,34 +591,6 @@
       ],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.23994",
-      "title": "Understanding the Challenges in Iterative Generative Optimization with LLMs",
-      "url": "https://huggingface.co/papers/2603.23994",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-25T02:49:24.000Z",
-      "abstract": "Generative optimization uses large language models (LLMs) to iteratively improve artifacts (such as code, workflows or prompts) using execution feedback. It is a promising approach to building self-im",
-      "authors": [
-        "Allen Nie",
-        "Xavier Daull",
-        "Zhiyi Kuang",
-        "Abhinav Akkiraju",
-        "Anish Chaudhuri"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
