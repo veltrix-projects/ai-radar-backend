@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-27T09:55:06.925Z",
+  "generatedAt": "2026-03-27T10:39:00.576Z",
   "date": "19-03-2026",
-  "count": 4,
+  "count": 5,
   "summary": null,
   "items": [
     {
@@ -65,6 +65,34 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.18718",
+      "title": "MemMA: Coordinating the Memory Cycle through Multi-Agent Reasoning and In-Situ Self-Evolution",
+      "url": "https://huggingface.co/papers/2603.18718",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-19T06:15:59.000Z",
+      "abstract": "Memory-augmented LLM agents maintain external memory banks to support long-horizon interaction, yet most existing systems treat construction, retrieval, and utilization as isolated subroutines. This c",
+      "authors": [
+        "Minhua Lin",
+        "Zhiwei Zhang",
+        "Hanqing Lu",
+        "Hui Liu",
+        "Xianfeng Tang"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
