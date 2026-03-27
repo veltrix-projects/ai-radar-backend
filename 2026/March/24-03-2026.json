@@ -1,9 +1,38 @@
 {
-  "generatedAt": "2026-03-27T01:24:22.155Z",
+  "generatedAt": "2026-03-27T04:09:50.287Z",
   "date": "24-03-2026",
-  "count": 18,
+  "count": 17,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2603.23883",
+      "title": "BioVITA: Biological Dataset, Model, and Benchmark for Visual-Textual-Acoustic Alignment",
+      "url": "https://huggingface.co/papers/2603.23883",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-24T23:15:04.000Z",
+      "abstract": "Understanding animal species from multimodal data poses an emerging challenge at the intersection of computer vision and ecology. While recent biological models, such as BioCLIP, have demonstrated str",
+      "authors": [
+        "Risa Shinoda",
+        "Kaede Shiohara",
+        "Nakamasa Inoue",
+        "Kuniaki Saito",
+        "Hiroaki Santo"
+      ],
+      "tags": [
+        "benchmark",
+        "alignment"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
       "title": "Paged Attention in Large Language Models LLMs",
@@ -222,29 +251,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.23478",
-      "title": "UniFunc3D: Unified Active Spatial-Temporal Grounding for 3D Functionality Segmentation",
-      "url": "https://huggingface.co/papers/2603.23478",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-24T13:42:31.000Z",
-      "abstract": "Functionality segmentation in 3D scenes requires an agent to ground implicit natural-language instructions into precise masks of fine-grained interactive elements. Existing methods rely on fragmented",
-      "authors": [
-        "Jiaying Lin",
-        "Dan Xu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fa-top-go",
       "title": "A Top Google Search Result for Claude Plugins Was Planted by Hackers",
       "url": "https://www.404media.co/a-top-google-search-result-for-claude-plugins-was-planted-by-hackers/",
@@ -315,28 +321,6 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fpower",
-      "title": "Powering product discovery in ChatGPT",
-      "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-03-24T09:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "gpt"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fupdat",
       "title": "Update on the OpenAI Foundation",
       "url": "https://openai.com/index/update-on-the-openai-foundation",
@@ -357,19 +341,21 @@
       "points": 0
     },
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Yann LeCun’s New LeWorldModel (LeWM) Research Targets JEPA Collapse in Pixel-Based Predictive World Modeling",
-      "url": "https://www.marktechpost.com/2026/03/23/yann-lecuns-new-leworldmodel-lewm-research-targets-jepa-collapse-in-pixel-based-predictive-world-modeling/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-03-24T05:53:58.000Z",
-      "abstract": "World Models (WMs) are a central framework for developing agents that reason and plan in a compact latent space. However, training these models directly from pixel data often leads to &#8216;represent",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fpower",
+      "title": "Powering product discovery in ChatGPT",
+      "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+      "source": "OpenAI Blog",
+      "sourceIcon": "🟢",
+      "type": "news",
+      "timestamp": "2026-03-24T09:00:00.000Z",
+      "abstract": "",
       "authors": [],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "tags": [
+        "gpt"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-27T01:24:22.154Z",
+  "generatedAt": "2026-03-27T04:09:50.286Z",
   "date": "25-03-2026",
-  "count": 32,
+  "count": 28,
   "summary": null,
   "items": [
     {
@@ -21,6 +21,36 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.24943",
+      "title": "FinMCP-Bench: Benchmarking LLM Agents for Real-World Financial Tool Use under the Model Context Protocol",
+      "url": "https://huggingface.co/papers/2603.24943",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-25T22:20:04.000Z",
+      "abstract": "This paper introduces FinMCP-Bench, a novel benchmark for evaluating large language models (LLMs) in solving real-world financial problems through tool invocation of financial model context protocols.",
+      "authors": [
+        "Jie Zhu",
+        "Yimin Tian",
+        "Boyang Li",
+        "Kehao Wu",
+        "Zhongzhi Liang"
+      ],
+      "tags": [
+        "llm",
+        "agent",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -194,6 +224,35 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.24755",
+      "title": "SlopCodeBench: Benchmarking How Coding Agents Degrade Over Long-Horizon Iterative Tasks",
+      "url": "https://huggingface.co/papers/2603.24755",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-25T15:26:44.000Z",
+      "abstract": "Software development is iterative, yet agentic coding benchmarks overwhelmingly evaluate single-shot solutions against complete specifications. Code can pass the test suite but become progressively ha",
+      "authors": [
+        "Gabriel Orlanski",
+        "Devjeet Roy",
+        "Alexander Yun",
+        "Changho Shin",
+        "Alex Gu"
+      ],
+      "tags": [
+        "agent",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
       "title": "Ocorian: Family offices turn to AI for financial data insights",
       "url": "https://www.artificialintelligence-news.com/news/ocorian-family-offices-ai-for-financial-data-insights/",
@@ -294,34 +353,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.24533",
-      "title": "UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience",
-      "url": "https://huggingface.co/papers/2603.24533",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-25T13:10:29.000Z",
-      "abstract": "Autonomous mobile GUI agents have attracted increasing attention along with the advancement of Multimodal Large Language Models (MLLMs). However, existing methods still suffer from inefficient learnin",
-      "authors": [
-        "Zichuan Lin",
-        "Feiyu Liu",
-        "Yijun Yang",
-        "Jiafei Lyu",
-        "Yiming Gao"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "Designing Protein Binders Using the Generative Model Proteina-Complexa",
       "url": "https://developer.nvidia.com/blog/designing-protein-binders-using-the-generative-model-proteina-complexa/",
@@ -335,114 +366,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.24506",
-      "title": "Toward Physically Consistent Driving Video World Models under Challenging Trajectories",
-      "url": "https://huggingface.co/papers/2603.24506",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-25T12:47:39.000Z",
-      "abstract": "Video generation models have shown strong potential as world models for autonomous driving simulation. However, existing approaches are primarily trained on real-world driving datasets, which mostly c",
-      "authors": [
-        "Jiawei Zhou",
-        "Zhenxin Zhu",
-        "Lingyi Du",
-        "Linye Lyu",
-        "Lijun Zhou"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.24472",
-      "title": "Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs?",
-      "url": "https://huggingface.co/papers/2603.24472",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-25T12:14:52.000Z",
-      "abstract": "Self-distillation has emerged as an effective post-training paradigm for LLMs, often improving performance while shortening reasoning traces. However, in mathematical reasoning, we find that it can re",
-      "authors": [
-        "Jeonghye Kim",
-        "Xufang Luo",
-        "Minbeom Kim",
-        "Sangmook Lee",
-        "Dohyung Kim"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.24458",
-      "title": "OmniWeaving: Towards Unified Video Generation with Free-form Composition and Reasoning",
-      "url": "https://huggingface.co/papers/2603.24458",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-25T12:08:18.000Z",
-      "abstract": "While proprietary systems such as Seedance-2.0 have achieved remarkable success in omni-capable video generation, open-source alternatives significantly lag behind. Most academic models remain heavily",
-      "authors": [
-        "Kaihang Pan",
-        "Qi Tian",
-        "Jianwei Zhang",
-        "Weijie Kong",
-        "Jiangfeng Xiong"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.24440",
-      "title": "CUA-Suite: Massive Human-annotated Video Demonstrations for Computer-Use Agents",
-      "url": "https://huggingface.co/papers/2603.24440",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-25T11:52:56.000Z",
-      "abstract": "Computer-use agents (CUAs) hold great promise for automating complex desktop workflows, yet progress toward general-purpose agents is bottlenecked by the scarcity of continuous, high-quality human dem",
-      "authors": [
-        "Xiangru Jian",
-        "Shravan Nayak",
-        "Kevin Qinghong Lin",
-        "Aarash Feizi",
-        "Kaixin Li"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -482,35 +405,6 @@
       "abstract": "In the AI era, power is the ultimate constraint, and every AI factory operates within a hard limit. This makes performance per watt—the rate at which power is...]]>",
       "authors": [],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.24329",
-      "title": "GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents",
-      "url": "https://huggingface.co/papers/2603.24329",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-25T10:10:45.000Z",
-      "abstract": "Multimodal LLMs are increasingly deployed as perceptual backbones for autonomous agents in 3D environments, from robotics to virtual worlds. These applications require agents to perceive rapid state c",
-      "authors": [
-        "Yunzhe Wang",
-        "Runhui Xu",
-        "Kexin Zheng",
-        "Tianyi Zhang",
-        "Jayavibhav Niranjan Kogundi"
-      ],
-      "tags": [
-        "agent",
-        "benchmark"
-      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
