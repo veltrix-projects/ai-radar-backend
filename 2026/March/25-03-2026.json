@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-27T19:14:26.040Z",
+  "generatedAt": "2026-03-27T19:55:55.776Z",
   "date": "25-03-2026",
-  "count": 29,
+  "count": 31,
   "summary": null,
   "items": [
     {
@@ -121,6 +121,32 @@
       "tags": [
         "agent"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.24844",
+      "title": "Reaching Beyond the Mode: RL for Distributional Reasoning in Language Models",
+      "url": "https://huggingface.co/papers/2603.24844",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-25T18:20:25.000Z",
+      "abstract": "Given a question, a language model (LM) implicitly encodes a distribution over possible answers. In practice, post-training procedures for LMs often collapse this distribution onto a single dominant m",
+      "authors": [
+        "Isha Puri",
+        "Mehul Damani",
+        "Idan Shenfeld",
+        "Marzyeh Ghassemi",
+        "Jacob Andreas"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -448,6 +474,35 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.24517",
+      "title": "AVO: Agentic Variation Operators for Autonomous Evolutionary Search",
+      "url": "https://huggingface.co/papers/2603.24517",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-25T12:55:04.000Z",
+      "abstract": "Agentic Variation Operators (AVO) are a new family of evolutionary variation operators that replace the fixed mutation, crossover, and hand-designed heuristics of classical evolutionary search with au",
+      "authors": [
+        "Terry Chen",
+        "Zhifan Ye",
+        "Bing Xu",
+        "Zihao Ye",
+        "Timmy Liu"
+      ],
+      "tags": [
+        "agent",
+        "autonomous"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
