@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-27T18:08:47.345Z",
+  "generatedAt": "2026-03-27T19:14:26.040Z",
   "date": "25-03-2026",
   "count": 29,
   "summary": null,
@@ -17,6 +17,35 @@
       "tags": [
         "multimodal",
         "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.24961",
+      "title": "Can MLLMs Read Students' Minds? Unpacking Multimodal Error Analysis in Handwritten Math",
+      "url": "https://huggingface.co/papers/2603.24961",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-25T22:57:20.000Z",
+      "abstract": "Assessing student handwritten scratchwork is crucial for personalized educational feedback but presents unique challenges due to diverse handwriting, complex layouts, and varied problem-solving approa",
+      "authors": [
+        "Dingjie Song",
+        "Tianlong Xu",
+        "Yi-Fan Zhang",
+        "Hang Li",
+        "Zhiling Yan"
+      ],
+      "tags": [
+        "llm",
+        "multimodal"
       ],
       "score": 8,
       "priority": "HIGH",
@@ -273,35 +302,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.24755",
-      "title": "SlopCodeBench: Benchmarking How Coding Agents Degrade Over Long-Horizon Iterative Tasks",
-      "url": "https://huggingface.co/papers/2603.24755",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-25T15:26:44.000Z",
-      "abstract": "Software development is iterative, yet agentic coding benchmarks overwhelmingly evaluate single-shot solutions against complete specifications. Code can pass the test suite but become progressively ha",
-      "authors": [
-        "Gabriel Orlanski",
-        "Devjeet Roy",
-        "Alexander Yun",
-        "Changho Shin",
-        "Alex Gu"
-      ],
-      "tags": [
-        "agent",
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
