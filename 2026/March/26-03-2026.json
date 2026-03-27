@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-27T05:55:18.382Z",
+  "generatedAt": "2026-03-27T06:58:00.057Z",
   "date": "26-03-2026",
-  "count": 87,
+  "count": 86,
   "summary": null,
   "items": [
     {
@@ -859,36 +859,6 @@
       "points": 0
     },
     {
-      "id": "arxiv_2603.25702v1",
-      "title": "S2D2: Fast Decoding for Diffusion LLMs via Training-Free Self-Speculation",
-      "url": "https://arxiv.org/abs/2603.25702v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-03-26T17:48:50Z",
-      "abstract": "Block-diffusion language models offer a promising path toward faster-than-autoregressive generation by combining block-wise autoregressive decoding with within-block parallel denoising. However, in th",
-      "authors": [
-        "Ligong Han",
-        "Hao Wang",
-        "Han Gao",
-        "Kai Xu",
-        "Akash Srivastava"
-      ],
-      "tags": [
-        "llm",
-        "diffusion",
-        "training"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "arxiv_2603.25699v1",
       "title": "Neural Network Conversion of Machine Learning Pipelines",
       "url": "https://arxiv.org/abs/2603.25699v1",
@@ -1467,6 +1437,36 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.25702",
+      "title": "S2D2: Fast Decoding for Diffusion LLMs via Training-Free Self-Speculation",
+      "url": "https://huggingface.co/papers/2603.25702",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-26T13:48:50.000Z",
+      "abstract": "Block-diffusion language models offer a promising path toward faster-than-autoregressive generation by combining block-wise autoregressive decoding with within-block parallel denoising. However, in th",
+      "authors": [
+        "Ligong Han",
+        "Hao Wang",
+        "Han Gao",
+        "Kai Xu",
+        "Akash Srivastava"
+      ],
+      "tags": [
+        "llm",
+        "diffusion",
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "techcrunch_ai_https%3A%2F%2Ftechcrunch.com%2F2026%2F03",
       "title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
       "url": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
@@ -1548,36 +1548,6 @@
       "downloads": 0,
       "likes": 0,
       "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "gh_1136590548",
-      "title": "affaan-m/everything-claude-code — The agent harness performance optimization system. Skills, instincts, memory, security, and research",
-      "url": "https://github.com/affaan-m/everything-claude-code",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-03-26T12:04:06Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "ai-agents",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "developer-tools",
-        "llm",
-        "mcp",
-        "productivity",
-        "JavaScript"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 110767,
       "votes": 0,
       "points": 0
     },
@@ -1937,7 +1907,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 108588,
+      "stars": 108592,
       "votes": 0,
       "points": 0
     },
