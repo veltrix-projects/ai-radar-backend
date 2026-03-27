@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-27T14:05:38.764Z",
+  "generatedAt": "2026-03-27T15:13:31.906Z",
   "date": "14-03-2026",
-  "count": 2,
+  "count": 3,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,31 @@
       "tags": [
         "rag"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.13904",
+      "title": "Pixel-level Scene Understanding in One Token: Visual States Need What-is-Where Composition",
+      "url": "https://huggingface.co/papers/2603.13904",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-14T07:32:02.000Z",
+      "abstract": "For robotic agents operating in dynamic environments, learning visual state representations from streaming video observations is essential for sequential decision making. Recent self-supervised learni",
+      "authors": [
+        "Seokmin Lee",
+        "Yunghee Lee",
+        "Byeonghyun Pak",
+        "Byeongju Woo"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
