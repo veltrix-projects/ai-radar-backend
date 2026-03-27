@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-27T08:58:34.032Z",
+  "generatedAt": "2026-03-27T09:55:06.922Z",
   "date": "26-03-2026",
-  "count": 84,
+  "count": 85,
   "summary": null,
   "items": [
     {
@@ -107,6 +107,26 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "reddit_LocalLLaMA_t3_1s4lrcl",
+      "title": "Quick Modly update after 1 week — added TripoSG and TRELLIS",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s4lrcl/quick_modly_update_after_1_week_added_triposg_and/",
+      "source": "Reddit r/LocalLLaMA",
+      "sourceIcon": "🔴",
+      "type": "news",
+      "timestamp": "2026-03-26T22:17:23+00:00",
+      "abstract": "",
+      "authors": [],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -1618,6 +1638,32 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.25562",
+      "title": "Revisiting On-Policy Distillation: Empirical Failure Modes and Simple Fixes",
+      "url": "https://huggingface.co/papers/2603.25562",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-26T11:35:59.000Z",
+      "abstract": "On-policy distillation (OPD) is appealing for large language model (LLM) post-training because it evaluates teacher feedback on student-generated rollouts rather than fixed teacher traces. In long-hor",
+      "authors": [
+        "Yuqian Fu",
+        "Haohuan Huang",
+        "Kaiwen Jiang",
+        "Yuanheng Zhu",
+        "Dongbin Zhao"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "reddit_MachineLearning_t3_1s44vgv",
       "title": "[P] gumbel-mcts, a high-performance Gumbel MCTS implementation",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1s44vgv/p_gumbelmcts_a_highperformance_gumbel_mcts/",
@@ -1776,28 +1822,6 @@
       "points": 0
     },
     {
-      "id": "reddit_LocalLLaMA_t3_1s42cdi",
-      "title": "nvidia/gpt-oss-puzzle-88B · Hugging Face",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s42cdi/nvidiagptosspuzzle88b_hugging_face/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "model",
-      "timestamp": "2026-03-26T09:06:35+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "gpt"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
       "title": "Tencent AI Open Sources Covo-Audio: A 7B Speech Language Model and Inference Pipeline for Real-Time Audio Conversations and Reasoning",
       "url": "https://www.marktechpost.com/2026/03/26/tencent-ai-open-sources-covo-audio-a-7b-speech-language-model-and-inference-pipeline-for-real-time-audio-conversations-and-reasoning/",
@@ -1873,7 +1897,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 108597,
+      "stars": 108598,
       "votes": 0,
       "points": 0
     },
