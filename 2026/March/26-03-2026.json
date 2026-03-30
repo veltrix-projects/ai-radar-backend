@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-30T04:37:59.098Z",
+  "generatedAt": "2026-03-30T06:25:02.977Z",
   "date": "26-03-2026",
-  "count": 19,
+  "count": 20,
   "summary": null,
   "items": [
     {
@@ -220,7 +220,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 154524,
+      "stars": 154529,
       "votes": 0,
       "points": 0
     },
@@ -293,6 +293,35 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.25730",
+      "title": "PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference",
+      "url": "https://huggingface.co/papers/2603.25730",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-26T13:59:05.000Z",
+      "abstract": "Autoregressive video diffusion models have demonstrated remarkable progress, yet they remain bottlenecked by intractable linear KV-cache growth, temporal repetition, and compounding errors during long",
+      "authors": [
+        "Xiaofeng Mao",
+        "Shaohao Rui",
+        "Kaining Ying",
+        "Bo Zheng",
+        "Chuanhao Li"
+      ],
+      "tags": [
+        "inference",
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2603.25718",
       "title": "Electrostatic Photoluminescence Tuning in All-Solid-State Perovskite Transistors",
       "url": "https://huggingface.co/papers/2603.25718",
@@ -335,36 +364,6 @@
         "Xiaoqiang Liu"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.25702",
-      "title": "S2D2: Fast Decoding for Diffusion LLMs via Training-Free Self-Speculation",
-      "url": "https://huggingface.co/papers/2603.25702",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-26T13:48:50.000Z",
-      "abstract": "Block-diffusion language models offer a promising path toward faster-than-autoregressive generation by combining block-wise autoregressive decoding with within-block parallel denoising. However, in th",
-      "authors": [
-        "Ligong Han",
-        "Hao Wang",
-        "Han Gao",
-        "Kai Xu",
-        "Akash Srivastava"
-      ],
-      "tags": [
-        "llm",
-        "diffusion",
-        "training"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -437,6 +436,34 @@
       ],
       "tags": [
         "transformer"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.25158",
+      "title": "Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills",
+      "url": "https://huggingface.co/papers/2603.25158",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-26T04:26:38.000Z",
+      "abstract": "Equipping Large Language Model (LLM) agents with domain-specific skills is critical for tackling complex tasks. Yet, manual authoring creates a severe scalability bottleneck. Conversely, automated ski",
+      "authors": [
+        "Jingwei Ni",
+        "Yihao Liu",
+        "Xinpeng Liu",
+        "Yutao Sun",
+        "Mengyu Zhou"
+      ],
+      "tags": [
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
