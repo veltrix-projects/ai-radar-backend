@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-30T09:52:37.260Z",
+  "generatedAt": "2026-03-30T10:55:17.606Z",
   "date": "25-03-2026",
   "count": 28,
   "summary": null,
@@ -209,34 +209,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.24800",
-      "title": "Calibri: Enhancing Diffusion Transformers via Parameter-Efficient Calibration",
-      "url": "https://huggingface.co/papers/2603.24800",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-25T16:19:50.000Z",
-      "abstract": "In this paper, we uncover the hidden potential of Diffusion Transformers (DiTs) to significantly enhance generative tasks. Through an in-depth analysis of the denoising process, we demonstrate that in",
-      "authors": [
-        "Danil Tokhchukov",
-        "Aysel Mirzoeva",
-        "Andrey Kuznetsov",
-        "Konstantin Sobolev"
-      ],
-      "tags": [
-        "transformer",
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "hf_paper_2603.24793",
       "title": "AVControl: Efficient Framework for Training Audio-Visual Controls",
       "url": "https://huggingface.co/papers/2603.24793",
@@ -404,6 +376,34 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.24649",
+      "title": "MedOpenClaw: Auditable Medical Imaging Agents Reasoning over Uncurated Full Studies",
+      "url": "https://huggingface.co/papers/2603.24649",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-25T13:33:58.000Z",
+      "abstract": "Currently, evaluating vision-language models (VLMs) in medical imaging tasks oversimplifies clinical reality by relying on pre-selected 2D images that demand significant manual labor to curate. This s",
+      "authors": [
+        "Weixiang Shen",
+        "Yanzhu Hu",
+        "Che Liu",
+        "Junde Wu",
+        "Jiayuan Zhu"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

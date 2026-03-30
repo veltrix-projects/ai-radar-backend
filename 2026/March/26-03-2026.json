@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-30T09:52:37.260Z",
+  "generatedAt": "2026-03-30T10:55:17.605Z",
   "date": "26-03-2026",
   "count": 18,
   "summary": null,
@@ -291,6 +291,34 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.25723",
+      "title": "Natural-Language Agent Harnesses",
+      "url": "https://huggingface.co/papers/2603.25723",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-26T13:58:15.000Z",
+      "abstract": "Agent performance increasingly depends on harness engineering, yet harness design is usually buried in controller code and runtime-specific conventions, making it hard to transfer, compare, and study",
+      "authors": [
+        "Linyue Pan",
+        "Lexiao Zou",
+        "Shuo Guo",
+        "Jingchen Ni",
+        "Hai-Tao Zheng"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2603.25716",
       "title": "Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models",
       "url": "https://huggingface.co/papers/2603.25716",
@@ -305,32 +333,6 @@
         "Xin Zhou",
         "Yikang Ding",
         "Xiaoqiang Liu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.25562",
-      "title": "Revisiting On-Policy Distillation: Empirical Failure Modes and Simple Fixes",
-      "url": "https://huggingface.co/papers/2603.25562",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-26T11:35:59.000Z",
-      "abstract": "On-policy distillation (OPD) is appealing for large language model (LLM) post-training because it evaluates teacher feedback on student-generated rollouts rather than fixed teacher traces. In long-hor",
-      "authors": [
-        "Yuqian Fu",
-        "Haohuan Huang",
-        "Kaiwen Jiang",
-        "Yuanheng Zhu",
-        "Dongbin Zhao"
       ],
       "tags": [],
       "score": 6,
