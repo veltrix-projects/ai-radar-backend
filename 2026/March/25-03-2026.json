@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-30T16:47:30.430Z",
+  "generatedAt": "2026-03-30T17:44:13.609Z",
   "date": "25-03-2026",
-  "count": 24,
+  "count": 25,
   "summary": null,
   "items": [
     {
@@ -380,6 +380,32 @@
         "agent",
         "autonomous"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.24477",
+      "title": "Composer 2 Technical Report",
+      "url": "https://huggingface.co/papers/2603.24477",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-25T12:18:37.000Z",
+      "abstract": "Composer 2 is a specialized model designed for agentic software engineering. The model demonstrates strong long-term planning and coding intelligence while maintaining the ability to efficiently solve",
+      "authors": [
+        "Cursor Research",
+        "Aaron Chan",
+        "Ahmed Shalaby",
+        "Alexander Wettig",
+        "Aman Sanger"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
