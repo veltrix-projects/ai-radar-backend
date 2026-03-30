@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-30T10:55:17.605Z",
+  "generatedAt": "2026-03-30T11:49:49.810Z",
   "date": "26-03-2026",
-  "count": 18,
+  "count": 19,
   "summary": null,
   "items": [
     {
@@ -228,6 +228,32 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.25804",
+      "title": "RealChart2Code: Advancing Chart-to-Code Generation with Real Data and Multi-Task Evaluation",
+      "url": "https://huggingface.co/papers/2603.25804",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-26T14:11:46.000Z",
+      "abstract": "Vision-Language Models (VLMs) have demonstrated impressive capabilities in code generation across various domains. However, their ability to replicate complex, multi-panel visualizations from real-wor",
+      "authors": [
+        "Jiajun Zhang",
+        "Yuying Li",
+        "Zhixun Li",
+        "Xingyu Guo",
+        "Jingzhuo Wu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
