@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-31T04:29:15.677Z",
+  "generatedAt": "2026-03-31T06:02:14.434Z",
   "date": "27-03-2026",
-  "count": 6,
+  "count": 8,
   "summary": null,
   "items": [
     {
@@ -18,6 +18,31 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.27048",
+      "title": "MOOZY: A Patient-First Foundation Model for Computational Pathology",
+      "url": "https://huggingface.co/papers/2603.27048",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-27T19:33:33.000Z",
+      "abstract": "Computational pathology needs whole-slide image (WSI) foundation models that transfer across diverse clinical tasks, yet current approaches remain largely slide-centric, often depend on private data a",
+      "authors": [
+        "Yousef Kotp",
+        "Vincent Quoc-Huy Trinh",
+        "Christopher Pal",
+        "Mahdi S. Hosseini"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -85,25 +110,53 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.26664",
-      "title": "Learning to Commit: Generating Organic Pull Requests via Online Repository Memory",
-      "url": "https://huggingface.co/papers/2603.26664",
+      "id": "hf_paper_2603.26639",
+      "title": "Make Geometry Matter for Spatial Reasoning",
+      "url": "https://huggingface.co/papers/2603.26639",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-03-27T13:58:56.000Z",
-      "abstract": "Large language model (LLM)-based coding agents achieve impressive results on controlled benchmarks yet routinely produce pull requests that real maintainers reject. The root cause is not functional in",
+      "timestamp": "2026-03-27T13:45:12.000Z",
+      "abstract": "Empowered by large-scale training, vision-language models (VLMs) achieve strong image and video understanding, yet their ability to perform spatial reasoning in both static scenes and dynamic videos r",
       "authors": [
-        "Mo Li",
-        "L. H. Xu",
-        "Qitai Tan",
-        "Ting Cao",
-        "Yunxin Liu"
+        "Shihua Zhang",
+        "Qiuhong Shen",
+        "Shizun Wang",
+        "Tianbo Pan",
+        "Xinchao Wang"
       ],
       "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.26610",
+      "title": "Think over Trajectories: Leveraging Video Generation to Reconstruct GPS Trajectories from Cellular Signaling",
+      "url": "https://huggingface.co/papers/2603.26610",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-27T13:07:13.000Z",
+      "abstract": "Mobile devices continuously interact with cellular base stations, generating massive volumes of signaling records that provide broad coverage for understanding human mobility. However, such records of",
+      "authors": [
+        "Ruixing Zhang",
+        "Hanzhang Jiang",
+        "Leilei Sun",
+        "Liangzhe Han",
+        "Jibin Wang"
+      ],
+      "tags": [
+        "rag"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-31T04:29:15.677Z",
+  "generatedAt": "2026-03-31T06:02:14.434Z",
   "date": "26-03-2026",
-  "count": 13,
+  "count": 12,
   "summary": null,
   "items": [
     {
@@ -81,6 +81,32 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.25926",
+      "title": "Density-aware Soft Context Compression with Semi-Dynamic Compression Ratio",
+      "url": "https://huggingface.co/papers/2603.25926",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-26T17:36:55.000Z",
+      "abstract": "Soft context compression reduces the computational workload of processing long contexts in LLMs by encoding long context into a smaller number of latent tokens. However, existing frameworks apply unif",
+      "authors": [
+        "Yijiong Yu",
+        "Shuai Yuan",
+        "Jie Zheng",
+        "Huazheng Wang",
+        "Ji Pei"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -208,60 +234,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.25804",
-      "title": "RealChart2Code: Advancing Chart-to-Code Generation with Real Data and Multi-Task Evaluation",
-      "url": "https://huggingface.co/papers/2603.25804",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-26T14:11:46.000Z",
-      "abstract": "Vision-Language Models (VLMs) have demonstrated impressive capabilities in code generation across various domains. However, their ability to replicate complex, multi-panel visualizations from real-wor",
-      "authors": [
-        "Jiajun Zhang",
-        "Yuying Li",
-        "Zhixun Li",
-        "Xingyu Guo",
-        "Jingzhuo Wu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.25723",
-      "title": "Natural-Language Agent Harnesses",
-      "url": "https://huggingface.co/papers/2603.25723",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-26T13:58:15.000Z",
-      "abstract": "Agent performance increasingly depends on harness engineering, yet harness design is usually buried in controller code and runtime-specific conventions, making it hard to transfer, compare, and study",
-      "authors": [
-        "Linyue Pan",
-        "Lexiao Zou",
-        "Shuo Guo",
-        "Jingchen Ni",
-        "Hai-Tao Zheng"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
