@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-31T09:56:02.945Z",
+  "generatedAt": "2026-03-31T10:47:34.326Z",
   "date": "27-03-2026",
-  "count": 10,
+  "count": 11,
   "summary": null,
   "items": [
     {
@@ -64,6 +64,29 @@
         "Vincent Quoc-Huy Trinh",
         "Christopher Pal",
         "Mahdi S. Hosseini"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.27040",
+      "title": "Unified Number-Free Text-to-Motion Generation Via Flow Matching",
+      "url": "https://huggingface.co/papers/2603.27040",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-27T19:10:56.000Z",
+      "abstract": "Generative models excel at motion synthesis for a fixed number of agents but struggle to generalize with variable agents. Based on limited, domain-specific data, existing methods employ autoregressive",
+      "authors": [
+        "Guanhe Huang",
+        "Oya Celiktutan"
       ],
       "tags": [],
       "score": 6,
