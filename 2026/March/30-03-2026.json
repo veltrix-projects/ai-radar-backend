@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-31T20:34:23.987Z",
+  "generatedAt": "2026-03-31T21:30:24.044Z",
   "date": "30-03-2026",
-  "count": 47,
+  "count": 45,
   "summary": null,
   "items": [
     {
@@ -79,48 +79,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1s835d5",
-      "title": "New - Apple Neural Engine (ANE) backend for llama.cpp",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s835d5/new_apple_neural_engine_ane_backend_for_llamacpp/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "model",
-      "timestamp": "2026-03-30T20:59:13+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "llama"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_MachineLearning_t3_1s82qdb",
-      "title": "[P] fastrad: GPU-native radiomics library — 25× faster than PyRadiomics, 100% IBSI-compliant, all 8 feature classes",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1s82qdb/p_fastrad_gpunative_radiomics_library_25_faster/",
-      "source": "Reddit r/MachineLearning",
-      "sourceIcon": "🔴",
-      "type": "tool",
-      "timestamp": "2026-03-30T20:43:38+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -933,34 +891,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.28547",
-      "title": "GEditBench v2: A Human-Aligned Benchmark for General Image Editing",
-      "url": "https://huggingface.co/papers/2603.28547",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-30T11:08:32.000Z",
-      "abstract": "Recent advances in image editing have enabled models to handle complex instructions with impressive realism. However, existing evaluation frameworks lag behind: current benchmarks suffer from narrow t",
-      "authors": [
-        "Zhangqi Jiang",
-        "Zheng Sun",
-        "Xianfang Zeng",
-        "Yufeng Yang",
-        "Xuanyang Zhang"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
       "title": "Kong names Bruce Felt as chief financial officer",
       "url": "https://www.artificialintelligence-news.com/news/kong-names-bruce-felt-as-chief-financial-officer/",
@@ -971,6 +901,34 @@
       "abstract": "A developer of API and AI connectivity technologies, Kong, has announced that Bruce Felt has joined it as CFO. Felt is a seasoned finance leader who brings experience guiding enterprise software compa",
       "authors": [],
       "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.28480",
+      "title": "INSID3: Training-Free In-Context Segmentation with DINOv3",
+      "url": "https://huggingface.co/papers/2603.28480",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-30T10:16:37.000Z",
+      "abstract": "In-context segmentation (ICS) aims to segment arbitrary concepts, e.g., objects, parts, or personalized instances, given one annotated visual examples. Existing work relies on (i) fine-tuning vision f",
+      "authors": [
+        "Claudia Cuttano",
+        "Gabriele Trivigno",
+        "Christoph Reich",
+        "Daniel Cremers",
+        "Carlo Masone"
+      ],
+      "tags": [
+        "training"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
