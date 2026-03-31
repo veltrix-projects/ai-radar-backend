@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-31T18:49:12.339Z",
+  "generatedAt": "2026-03-31T19:49:32.499Z",
   "date": "29-03-2026",
-  "count": 10,
+  "count": 11,
   "summary": null,
   "items": [
     {
@@ -231,6 +231,32 @@
       "tags": [
         "agent"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.27593",
+      "title": "STRIDE: When to Speak Meets Sequence Denoising for Streaming Video Understanding",
+      "url": "https://huggingface.co/papers/2603.27593",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-29T05:23:45.000Z",
+      "abstract": "Recent progress in video large language models (Video-LLMs) has enabled strong offline reasoning over long and complex videos. However, real-world deployments increasingly require streaming perception",
+      "authors": [
+        "Junho Kim",
+        "Hosu Lee",
+        "James M. Rehg",
+        "Minsu Kim",
+        "Yong Man Ro"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
