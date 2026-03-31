@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-31T01:51:42.299Z",
+  "generatedAt": "2026-03-31T04:29:15.677Z",
   "date": "26-03-2026",
-  "count": 17,
+  "count": 13,
   "summary": null,
   "items": [
     {
@@ -242,61 +242,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.25746",
-      "title": "ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling",
-      "url": "https://huggingface.co/papers/2603.25746",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-26T13:59:59.000Z",
-      "abstract": "Multi-shot video generation is crucial for long narrative storytelling, yet current bidirectional architectures suffer from limited interactivity and high latency. We propose ShotStream, a novel causa",
-      "authors": [
-        "Yawen Luo",
-        "Xiaoyu Shi",
-        "Junhao Zhuang",
-        "Yutian Chen",
-        "Quande Liu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.25730",
-      "title": "PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference",
-      "url": "https://huggingface.co/papers/2603.25730",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-26T13:59:05.000Z",
-      "abstract": "Autoregressive video diffusion models have demonstrated remarkable progress, yet they remain bottlenecked by intractable linear KV-cache growth, temporal repetition, and compounding errors during long",
-      "authors": [
-        "Xiaofeng Mao",
-        "Shaohao Rui",
-        "Kaining Ying",
-        "Bo Zheng",
-        "Chuanhao Li"
-      ],
-      "tags": [
-        "inference",
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "hf_paper_2603.25723",
       "title": "Natural-Language Agent Harnesses",
       "url": "https://huggingface.co/papers/2603.25723",
@@ -325,32 +270,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.25716",
-      "title": "Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models",
-      "url": "https://huggingface.co/papers/2603.25716",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-26T13:56:01.000Z",
-      "abstract": "Video world models have shown immense potential in simulating the physical world, yet existing memory mechanisms primarily treat environments as static canvases. When dynamic subjects hide out of sigh",
-      "authors": [
-        "Kaijin Chen",
-        "Dingkang Liang",
-        "Xin Zhou",
-        "Yikang Ding",
-        "Xiaoqiang Liu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
       "title": "RPA matters, but AI changes how automation works",
       "url": "https://www.artificialintelligence-news.com/news/rpa-still-matters-but-ai-is-changing-how-automation-works/",
@@ -363,34 +282,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.25158",
-      "title": "Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills",
-      "url": "https://huggingface.co/papers/2603.25158",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-26T04:26:38.000Z",
-      "abstract": "Equipping Large Language Model (LLM) agents with domain-specific skills is critical for tackling complex tasks. Yet, manual authoring creates a severe scalability bottleneck. Conversely, automated ski",
-      "authors": [
-        "Jingwei Ni",
-        "Yihao Liu",
-        "Xinpeng Liu",
-        "Yutao Sun",
-        "Mengyu Zhou"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
