@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-31T08:46:56.530Z",
+  "generatedAt": "2026-03-31T09:56:02.943Z",
   "date": "30-03-2026",
-  "count": 84,
+  "count": 81,
   "summary": null,
   "items": [
     {
@@ -113,7 +113,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 166548,
+      "stars": 166556,
       "votes": 0,
       "points": 0
     },
@@ -369,34 +369,6 @@
         "Arthur Pellegrino"
       ],
       "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2603.28762v1",
-      "title": "On-the-fly Repulsion in the Contextual Space for Rich Diversity in Diffusion Transformers",
-      "url": "https://arxiv.org/abs/2603.28762v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-03-30T17:59:13Z",
-      "abstract": "Modern Text-to-Image (T2I) diffusion models have achieved remarkable semantic alignment, yet they often suffer from a significant lack of variety, converging on a narrow set of visual solutions for an",
-      "authors": [
-        "Omer Dahary",
-        "Benaya Koren",
-        "Daniel Garibi",
-        "Daniel Cohen-Or"
-      ],
-      "tags": [
-        "transformer",
-        "diffusion"
-      ],
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
@@ -1106,6 +1078,34 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.28762",
+      "title": "On-the-fly Repulsion in the Contextual Space for Rich Diversity in Diffusion Transformers",
+      "url": "https://huggingface.co/papers/2603.28762",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-30T13:59:13.000Z",
+      "abstract": "Modern Text-to-Image (T2I) diffusion models have achieved remarkable semantic alignment, yet they often suffer from a significant lack of variety, converging on a narrow set of visual solutions for an",
+      "authors": [
+        "Omer Dahary",
+        "Benaya Koren",
+        "Daniel Garibi",
+        "Daniel Cohen-Or"
+      ],
+      "tags": [
+        "transformer",
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "reddit_LocalLLaMA_t3_1s7r9wu",
       "title": "I tested as many of the small local and OpenRouter models I could with my own agentic text-to-SQL benchmark. Surprises ensured...",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s7r9wu/i_tested_as_many_of_the_small_local_and/",
@@ -1467,34 +1467,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.28610",
-      "title": "ResAdapt: Adaptive Resolution for Efficient Multimodal Reasoning",
-      "url": "https://huggingface.co/papers/2603.28610",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-30T11:57:32.000Z",
-      "abstract": "Multimodal Large Language Models (MLLMs) achieve stronger visual understanding by scaling input fidelity, yet the resulting visual token growth makes jointly sustaining high spatial resolution and lon",
-      "authors": [
-        "Huanxuan Liao",
-        "Zhongtao Jiang",
-        "Yupu Hao",
-        "Yuqiao Tan",
-        "Shizhu He"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
       "title": "How AEO vs GEO reshapes AI-driven brand discovery in 2026",
       "url": "https://www.artificialintelligence-news.com/news/how-aeo-vs-geo-reshapes-ai-driven-brand-discovery-in-2026/",
@@ -1524,32 +1496,6 @@
       "timestamp": "2026-03-30T11:49:38.000Z",
       "abstract": "As artificial intelligence becomes a driving force in financial prediction, the reliability of its forecasting tools faces increasing scrutiny. Many traders question whether claims of high accuracy tr",
       "authors": [],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.28589",
-      "title": "Towards a Medical AI Scientist",
-      "url": "https://huggingface.co/papers/2603.28589",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-30T11:37:25.000Z",
-      "abstract": "Autonomous systems that generate scientific hypotheses, conduct experiments, and draft manuscripts have recently emerged as a promising paradigm for accelerating discovery. However, existing AI Scient",
-      "authors": [
-        "Hongtao Wu",
-        "Boyun Zheng",
-        "Dingjie Song",
-        "Yu Jiang",
-        "Jianfeng Gao"
-      ],
       "tags": [],
       "score": 6,
       "priority": "MEDIUM",
@@ -1756,32 +1702,6 @@
       "tags": [
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.28342",
-      "title": "Kernel-Smith: A Unified Recipe for Evolutionary Kernel Optimization",
-      "url": "https://huggingface.co/papers/2603.28342",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-30T08:12:49.000Z",
-      "abstract": "We present Kernel-Smith, a framework for high-performance GPU kernel and operator generation that combines a stable evaluation-driven evolutionary agent with an evolution-oriented post-training recipe",
-      "authors": [
-        "He Du",
-        "Qiming Ge",
-        "Jiakai Hu",
-        "Aijun Yang",
-        "Zheng Cai"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-31T08:46:56.532Z",
+  "generatedAt": "2026-03-31T09:56:02.945Z",
   "date": "27-03-2026",
-  "count": 9,
+  "count": 10,
   "summary": null,
   "items": [
     {
@@ -88,6 +88,32 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.27027",
+      "title": "TAPS: Task Aware Proposal Distributions for Speculative Sampling",
+      "url": "https://huggingface.co/papers/2603.27027",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-27T18:34:20.000Z",
+      "abstract": "Speculative decoding accelerates autoregressive generation by letting a lightweight draft model propose future tokens that a larger target model then verifies in parallel. In practice, however, draft",
+      "authors": [
+        "Mohamad Zbib",
+        "Mohamad Bazzi",
+        "Ammar Mohanna",
+        "Hasan Abed Al Kader Hammoud",
+        "Bernard Ghanem"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
