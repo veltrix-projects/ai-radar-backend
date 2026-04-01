@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-01T12:57:15.759Z",
+  "generatedAt": "2026-04-01T14:27:06.132Z",
   "date": "27-03-2026",
-  "count": 6,
+  "count": 4,
   "summary": null,
   "items": [
     {
@@ -45,80 +45,6 @@
       "points": 0
     },
     {
-      "id": "404_media_https%3A%2F%2Fwww.404media.co%2Firan-is-",
-      "title": "Iran Is Winning the AI Slop Propaganda War",
-      "url": "https://www.404media.co/iran-is-winning-the-ai-slop-propaganda-war/",
-      "source": "404 Media",
-      "sourceIcon": "📡",
-      "type": "news",
-      "timestamp": "2026-03-27T14:30:29.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.26599",
-      "title": "VGGRPO: Towards World-Consistent Video Generation with 4D Latent Reward",
-      "url": "https://huggingface.co/papers/2603.26599",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-27T12:57:51.000Z",
-      "abstract": "Large-scale video diffusion models achieve impressive visual quality, yet often fail to preserve geometric consistency. Prior approaches improve consistency either by augmenting the generator with add",
-      "authors": [
-        "Zhaochong An",
-        "Orest Kupyn",
-        "Théo Uscidda",
-        "Andrea Colaco",
-        "Karan Ahuja"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.26546",
-      "title": "AutoWeather4D: Autonomous Driving Video Weather Conversion via G-Buffer Dual-Pass Editing",
-      "url": "https://huggingface.co/papers/2603.26546",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-27T11:56:47.000Z",
-      "abstract": "Generative video models have significantly advanced the photorealistic synthesis of adverse weather for autonomous driving; however, they consistently demand massive datasets to learn rare weather sce",
-      "authors": [
-        "Tianyu Liu",
-        "Weitao Xiong",
-        "Kunming Luo",
-        "Manyuan Zhang",
-        "Peng Liu"
-      ],
-      "tags": [
-        "autonomous"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "hf_paper_2603.26246",
       "title": "Distilling Conversations: Abstract Compression of Conversational Audio Context for LLM-based ASR",
       "url": "https://huggingface.co/papers/2603.26246",
@@ -137,6 +63,32 @@
       "tags": [
         "llm"
       ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.26174",
+      "title": "CREval: An Automated Interpretable Evaluation for Creative Image Manipulation under Complex Instructions",
+      "url": "https://huggingface.co/papers/2603.26174",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-27T04:42:09.000Z",
+      "abstract": "Instruction-based multimodal image manipulation has recently made rapid progress. However, existing evaluation methods lack a systematic and human-aligned framework for assessing model performance on",
+      "authors": [
+        "Chonghuinan Wang",
+        "Zihan Chen",
+        "Yuxiang Wei",
+        "Tianyi Jiang",
+        "Xiaohe Wu"
+      ],
+      "tags": [],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
