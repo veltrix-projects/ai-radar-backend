@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-01T08:14:58.319Z",
+  "generatedAt": "2026-04-01T09:42:08.930Z",
   "date": "28-03-2026",
-  "count": 4,
+  "count": 5,
   "summary": null,
   "items": [
     {
@@ -51,7 +51,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 133945,
+      "stars": 133952,
       "votes": 0,
       "points": 0
     },
@@ -88,6 +88,35 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.27164",
+      "title": "daVinci-LLM:Towards the Science of Pretraining",
+      "url": "https://huggingface.co/papers/2603.27164",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-28T03:00:49.000Z",
+      "abstract": "The foundational pretraining phase determines a model's capability ceiling, as post-training struggles to overcome capability foundations established during pretraining, yet it remains critically unde",
+      "authors": [
+        "Yiwei Qin",
+        "Yixiu Liu",
+        "Tiantian Mi",
+        "Muhang Xie",
+        "Zhen Huang"
+      ],
+      "tags": [
+        "llm",
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

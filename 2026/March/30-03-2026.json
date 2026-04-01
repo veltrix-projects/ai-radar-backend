@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-01T08:14:58.318Z",
+  "generatedAt": "2026-04-01T09:42:08.929Z",
   "date": "30-03-2026",
-  "count": 26,
+  "count": 27,
   "summary": null,
   "items": [
     {
@@ -323,6 +323,34 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.28763",
+      "title": "PoseDreamer: Scalable and Photorealistic Human Data Generation Pipeline with Diffusion Models",
+      "url": "https://huggingface.co/papers/2603.28763",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-30T13:59:18.000Z",
+      "abstract": "Acquiring labeled datasets for 3D human mesh estimation is challenging due to depth ambiguities and the inherent difficulty of annotating 3D geometry from monocular images. Existing datasets are eithe",
+      "authors": [
+        "Lorenza Prospero",
+        "Orest Kupyn",
+        "Ostap Viniavskyi",
+        "João F. Henriques",
+        "Christian Rupprecht"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fthe-jour",
       "title": "The Journalist Who Tracked Epstein Island Visitors’ Phones (with Dhruv Mehrotra)",
       "url": "https://www.404media.co/the-journalist-who-tracked-epstein-island-visitors-phones-with-dhruv-mehrotra/",
@@ -383,16 +411,24 @@
       "points": 0
     },
     {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "Kong names Bruce Felt as chief financial officer",
-      "url": "https://www.artificialintelligence-news.com/news/kong-names-bruce-felt-as-chief-financial-officer/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-03-30T11:02:00.000Z",
-      "abstract": "A developer of API and AI connectivity technologies, Kong, has announced that Bruce Felt has joined it as CFO. Felt is a seasoned finance leader who brings experience guiding enterprise software compa",
-      "authors": [],
-      "tags": [],
+      "id": "hf_paper_2603.28590",
+      "title": "MonitorBench: A Comprehensive Benchmark for Chain-of-Thought Monitorability in Large Language Models",
+      "url": "https://huggingface.co/papers/2603.28590",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-30T11:37:42.000Z",
+      "abstract": "Large language models (LLMs) can generate chains of thought (CoTs) that are not always causally responsible for their final outputs. When such a mismatch occurs, the CoT no longer faithfully reflects",
+      "authors": [
+        "Han Wang",
+        "Yifan Sun",
+        "Brian Ko",
+        "Mann Talati",
+        "Jiawen Gong"
+      ],
+      "tags": [
+        "benchmark"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -403,20 +439,15 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.28489",
-      "title": "Video Generation Models as World Models: Efficient Paradigms, Architectures and Algorithms",
-      "url": "https://huggingface.co/papers/2603.28489",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-30T10:23:45.000Z",
-      "abstract": "The rapid evolution of video generation has enabled models to simulate complex physical dynamics and long-horizon causalities, positioning them as potential world simulators. However, a critical gap s",
-      "authors": [
-        "Muyang He",
-        "Hanzhong Guo",
-        "Junxiong Lin",
-        "Yizhou Yu"
-      ],
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "Kong names Bruce Felt as chief financial officer",
+      "url": "https://www.artificialintelligence-news.com/news/kong-names-bruce-felt-as-chief-financial-officer/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-03-30T11:02:00.000Z",
+      "abstract": "A developer of API and AI connectivity technologies, Kong, has announced that Bruce Felt has joined it as CFO. Felt is a seasoned finance leader who brings experience guiding enterprise software compa",
+      "authors": [],
       "tags": [],
       "score": 6,
       "priority": "MEDIUM",
@@ -471,6 +502,32 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.28224",
+      "title": "Ghost-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Ghost Detection and Removal",
+      "url": "https://huggingface.co/papers/2603.28224",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-30T05:46:55.000Z",
+      "abstract": "LiDAR has become an essential sensing modality in autonomous driving, robotics, and smart-city applications. However, ghost points (or ghosts), which are false reflections caused by multi-path laser r",
+      "authors": [
+        "Kazuma Ikeda",
+        "Ryosei Hara",
+        "Rokuto Nagata",
+        "Ozora Sako. Zihao Ding",
+        "Takahiro Kado"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2603.28088",
       "title": "GEMS: Agent-Native Multimodal Generation with Memory and Skills",
       "url": "https://huggingface.co/papers/2603.28088",
@@ -512,31 +569,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.28032",
-      "title": "CARLA-Air: Fly Drones Inside a CARLA World -- A Unified Infrastructure for Air-Ground Embodied Intelligence",
-      "url": "https://huggingface.co/papers/2603.28032",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-30T00:49:29.000Z",
-      "abstract": "The convergence of low-altitude economies, embodied intelligence, and air-ground cooperative systems creates growing demand for simulation infrastructure capable of jointly modeling aerial and ground",
-      "authors": [
-        "Tianle Zeng",
-        "Hanxuan Chen",
-        "Yanci Wen",
-        "Hong Zhang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
