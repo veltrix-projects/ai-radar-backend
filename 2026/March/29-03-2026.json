@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-01T16:44:35.532Z",
+  "generatedAt": "2026-04-01T17:42:41.600Z",
   "date": "29-03-2026",
   "count": 5,
   "summary": null,
@@ -93,26 +93,32 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 108799,
+      "stars": 108803,
       "votes": 0,
       "points": 0
     },
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Meet A-Evolve: The PyTorch Moment For Agentic AI Systems Replacing Manual Tuning With Automated State Mutation And Self-Correction",
-      "url": "https://www.marktechpost.com/2026/03/29/meet-a-evolve-the-pytorch-moment-for-agentic-ai-systems-replacing-manual-tuning-with-automated-state-mutation-and-self-correction/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
+      "id": "hf_paper_2603.27520",
+      "title": "TokenDial: Continuous Attribute Control in Text-to-Video via Spatiotemporal Token Offsets",
+      "url": "https://huggingface.co/papers/2603.27520",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-03-29T18:17:23.000Z",
-      "abstract": "A team of researchers associated with Amazon has released A-Evolve, a universal infrastructure designed to automate the development of autonomous AI agents. The framework aims to replace the &#8216;ma",
-      "authors": [],
-      "tags": [
-        "agent"
+      "timestamp": "2026-03-29T01:07:41.000Z",
+      "abstract": "We present TokenDial, a framework for continuous, slider-style attribute control in pretrained text-to-video generation models. While modern generators produce strong holistic videos, they offer limit",
+      "authors": [
+        "Zhixuan Liu",
+        "Peter Schaldenbrand",
+        "Yijun Li",
+        "Long Mai",
+        "Aniruddha Mahapatra"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "tags": [
+        "text-to-video"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

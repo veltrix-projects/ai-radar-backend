@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-01T16:44:35.533Z",
+  "generatedAt": "2026-04-01T17:42:41.601Z",
   "date": "27-03-2026",
-  "count": 4,
+  "count": 5,
   "summary": null,
   "items": [
     {
@@ -37,6 +37,32 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.26357",
+      "title": "MPDiT: Multi-Patch Global-to-Local Transformer Architecture For Efficient Flow Matching and Diffusion Model",
+      "url": "https://huggingface.co/papers/2603.26357",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-27T08:30:10.000Z",
+      "abstract": "Transformer architectures, particularly Diffusion Transformers (DiTs), have become widely used in diffusion and flow-matching models due to their strong performance compared to convolutional UNets. Ho",
+      "authors": [
+        "Quan Dao",
+        "Dimitris Metaxas"
+      ],
+      "tags": [
+        "transformer",
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
