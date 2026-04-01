@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-01T14:27:06.130Z",
+  "generatedAt": "2026-04-01T15:51:42.135Z",
   "date": "30-03-2026",
-  "count": 25,
+  "count": 27,
   "summary": null,
   "items": [
     {
@@ -39,6 +39,30 @@
         "Yulia Gryaditskaya",
         "Christopher E. Peters",
         "Chun-Hao Paul Huang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.29089",
+      "title": "WorldFlow3D: Flowing Through 3D Distributions for Unbounded World Generation",
+      "url": "https://huggingface.co/papers/2603.29089",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-30T20:08:17.000Z",
+      "abstract": "Unbounded 3D world generation is emerging as a foundational task for scene modeling in computer vision, graphics, and robotics. In this work, we present WorldFlow3D, a novel method capable of generati",
+      "authors": [
+        "Amogh Joshi",
+        "Julian Ost",
+        "Felix Heide"
       ],
       "tags": [],
       "score": 6,
@@ -91,6 +115,34 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.29025",
+      "title": "The Model Says Walk: How Surface Heuristics Override Implicit Constraints in LLM Reasoning",
+      "url": "https://huggingface.co/papers/2603.29025",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-30T17:36:09.000Z",
+      "abstract": "Large language models systematically fail when a salient surface cue conflicts with an unstated feasibility constraint. We study this through a diagnose-measure-bridge-treat framework. Causal-behavior",
+      "authors": [
+        "Yubo Li",
+        "Lu Zhang",
+        "Tianchong Jiang",
+        "Ramayya Krishnan",
+        "Rema Padman"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
