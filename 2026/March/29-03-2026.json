@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-01T02:40:50.106Z",
+  "generatedAt": "2026-04-01T05:16:43.019Z",
   "date": "29-03-2026",
-  "count": 11,
+  "count": 10,
   "summary": null,
   "items": [
     {
@@ -93,7 +93,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 108771,
+      "stars": 108776,
       "votes": 0,
       "points": 0
     },
@@ -113,61 +113,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.27813",
-      "title": "MuSEAgent: A Multimodal Reasoning Agent with Stateful Experiences",
-      "url": "https://huggingface.co/papers/2603.27813",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-29T14:54:31.000Z",
-      "abstract": "Research agents have recently achieved significant progress in information seeking and synthesis across heterogeneous textual and visual sources. In this paper, we introduce MuSEAgent, a multimodal re",
-      "authors": [
-        "Shijian Wang",
-        "Jiarui Jin",
-        "Runhao Fu",
-        "Zexuan Yan",
-        "Xingjian Wang"
-      ],
-      "tags": [
-        "multimodal",
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.27703",
-      "title": "KAT-Coder-V2 Technical Report",
-      "url": "https://huggingface.co/papers/2603.27703",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-29T10:01:35.000Z",
-      "abstract": "We present KAT-Coder-V2, an agentic coding model developed by the KwaiKAT team at Kuaishou. KAT-Coder-V2 adopts a \"Specialize-then-Unify\" paradigm that decomposes agentic coding into five expert domai",
-      "authors": [
-        "Fengxiang Li",
-        "Han Zhang",
-        "Haoyang Huang",
-        "Jinghui Wang",
-        "Jinhua Hao"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -260,6 +205,32 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.27538",
+      "title": "LongCat-Next: Lexicalizing Modalities as Discrete Tokens",
+      "url": "https://huggingface.co/papers/2603.27538",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-29T02:35:03.000Z",
+      "abstract": "The prevailing Next-Token Prediction (NTP) paradigm has driven the success of large language models through discrete autoregressive modeling. However, contemporary multimodal systems remain language-c",
+      "authors": [
+        "Meituan LongCat Team",
+        "Bin Xiao",
+        "Chao Wang",
+        "Chengjiang Li",
+        "Chi Zhang"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

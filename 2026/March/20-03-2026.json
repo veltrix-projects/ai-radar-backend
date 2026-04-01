@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-01T02:40:50.110Z",
+  "generatedAt": "2026-04-01T05:16:43.024Z",
   "date": "20-03-2026",
   "count": 2,
   "summary": null,
@@ -25,22 +25,22 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.26728",
-      "title": "SEAR: Schema-Based Evaluation and Routing for LLM Gateways",
-      "url": "https://huggingface.co/papers/2603.26728",
+      "id": "hf_paper_2603.19835",
+      "title": "FIPO: Eliciting Deep Reasoning with Future-KL Influenced Policy Optimization",
+      "url": "https://huggingface.co/papers/2603.19835",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-03-20T00:51:35.000Z",
-      "abstract": "Evaluating production LLM responses and routing requests across providers in LLM gateways requires fine-grained quality signals and operationally grounded decisions. To address this gap, we present SE",
+      "timestamp": "2026-03-20T06:24:50.000Z",
+      "abstract": "We present Future-KL Influenced Policy Optimization (FIPO), a reinforcement learning algorithm designed to overcome reasoning bottlenecks in large language models. While GRPO style training scales eff",
       "authors": [
-        "Zecheng Zhang",
-        "Han Zheng",
-        "Yue Xu"
+        "Chiyu Ma",
+        "Shuo Yang",
+        "Kexin Huang",
+        "Jinda Lu",
+        "Haoming Meng"
       ],
-      "tags": [
-        "llm"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
