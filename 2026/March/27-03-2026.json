@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-01T09:42:08.931Z",
+  "generatedAt": "2026-04-01T10:46:52.008Z",
   "date": "27-03-2026",
-  "count": 5,
+  "count": 6,
   "summary": null,
   "items": [
     {
@@ -112,6 +112,34 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.26246",
+      "title": "Distilling Conversations: Abstract Compression of Conversational Audio Context for LLM-based ASR",
+      "url": "https://huggingface.co/papers/2603.26246",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-27T06:09:30.000Z",
+      "abstract": "Standard LLM-based speech recognition systems typically process utterances in isolation, limiting their ability to leverage conversational context. In this work, we study whether multimodal context fr",
+      "authors": [
+        "Shashi Kumar",
+        "Esaú Villatoro-Tello",
+        "Sergio Burdisso",
+        "Kadri Hacioglu",
+        "Thibault Bañeras-Roux"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
