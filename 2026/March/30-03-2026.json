@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-02T05:54:48.850Z",
+  "generatedAt": "2026-04-02T07:01:25.785Z",
   "date": "30-03-2026",
-  "count": 21,
+  "count": 19,
   "summary": null,
   "items": [
     {
@@ -37,6 +37,34 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.29002",
+      "title": "Understand and Accelerate Memory Processing Pipeline for Disaggregated LLM Inference",
+      "url": "https://huggingface.co/papers/2603.29002",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-30T17:03:39.000Z",
+      "abstract": "Modern large language models (LLMs) increasingly depends on efficient long-context processing and generation mechanisms, including sparse attention, retrieval-augmented generation (RAG), and compresse",
+      "authors": [
+        "Zifan He",
+        "Rui Ma",
+        "Yizhou Sun",
+        "Jason Cong"
+      ],
+      "tags": [
+        "llm",
+        "inference"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -329,29 +357,6 @@
       "points": 0
     },
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Salesforce AI Research Releases VoiceAgentRAG: A Dual-Agent Memory Router that Cuts Voice RAG Retrieval Latency by 316x",
-      "url": "https://www.marktechpost.com/2026/03/30/salesforce-ai-research-releases-voiceagentrag-a-dual-agent-memory-router-that-cuts-voice-rag-retrieval-latency-by-316x/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-03-30T09:56:14.000Z",
-      "abstract": "In the world of voice AI, the difference between a helpful assistant and an awkward interaction is measured in milliseconds. While text-based Retrieval-Augmented Generation (RAG) systems can afford a",
-      "authors": [],
-      "tags": [
-        "rag",
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "hf_paper_2603.28407",
       "title": "MiroEval: Benchmarking Multimodal Deep Research Agents in Process and Outcome",
       "url": "https://huggingface.co/papers/2603.28407",
@@ -382,32 +387,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.28052",
-      "title": "Meta-Harness: End-to-End Optimization of Model Harnesses",
-      "url": "https://huggingface.co/papers/2603.28052",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-30T01:33:50.000Z",
-      "abstract": "The performance of large language model (LLM) systems depends not only on model weights, but also on their harness: the code that determines what information to store, retrieve, and present to the mod",
-      "authors": [
-        "Yoonho Lee",
-        "Roshen Nair",
-        "Qizheng Zhang",
-        "Kangwook Lee",
-        "Omar Khattab"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fai-arti",
       "title": "All the latest in AI &#8216;music&#8217;",
       "url": "https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit",
@@ -420,28 +399,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Agent-Infra Releases AIO Sandbox: An All-in-One Runtime for AI Agents with Browser, Shell, Shared Filesystem, and MCP",
-      "url": "https://www.marktechpost.com/2026/03/29/agent-infra-releases-aio-sandbox-an-all-in-one-runtime-for-ai-agents-with-browser-shell-shared-filesystem-and-mcp/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-03-30T00:04:53.000Z",
-      "abstract": "In the development of autonomous agents, the technical bottleneck is shifting from model reasoning to the execution environment. While Large Language Models (LLMs) can generate code and multi-step pla",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
