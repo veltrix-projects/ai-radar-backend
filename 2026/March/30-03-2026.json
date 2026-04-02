@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-02T01:22:35.391Z",
+  "generatedAt": "2026-04-02T04:04:49.602Z",
   "date": "30-03-2026",
-  "count": 24,
+  "count": 22,
   "summary": null,
   "items": [
     {
@@ -18,32 +18,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.29092",
-      "title": "TrajectoryMover: Generative Movement of Object Trajectories in Videos",
-      "url": "https://huggingface.co/papers/2603.29092",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-30T20:15:36.000Z",
-      "abstract": "Generative video editing has enabled several intuitive editing operations for short video clips that would previously have been difficult to achieve, especially for non-expert editors. Existing method",
-      "authors": [
-        "Kiran Chhatre",
-        "Hyeonho Jeong",
-        "Yulia Gryaditskaya",
-        "Christopher E. Peters",
-        "Chun-Hao Paul Huang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -367,34 +341,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.28590",
-      "title": "MonitorBench: A Comprehensive Benchmark for Chain-of-Thought Monitorability in Large Language Models",
-      "url": "https://huggingface.co/papers/2603.28590",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-30T11:37:42.000Z",
-      "abstract": "Large language models (LLMs) can generate chains of thought (CoTs) that are not always causally responsible for their final outputs. When such a mismatch occurs, the CoT no longer faithfully reflects",
-      "authors": [
-        "Han Wang",
-        "Yifan Sun",
-        "Brian Ko",
-        "Mann Talati",
-        "Jiawen Gong"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
       "title": "Kong names Bruce Felt as chief financial officer",
       "url": "https://www.artificialintelligence-news.com/news/kong-names-bruce-felt-as-chief-financial-officer/",
@@ -458,20 +404,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.28224",
-      "title": "Ghost-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Ghost Detection and Removal",
-      "url": "https://huggingface.co/papers/2603.28224",
+      "id": "hf_paper_2603.28052",
+      "title": "Meta-Harness: End-to-End Optimization of Model Harnesses",
+      "url": "https://huggingface.co/papers/2603.28052",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-03-30T05:46:55.000Z",
-      "abstract": "LiDAR has become an essential sensing modality in autonomous driving, robotics, and smart-city applications. However, ghost points (or ghosts), which are false reflections caused by multi-path laser r",
+      "timestamp": "2026-03-30T01:33:50.000Z",
+      "abstract": "The performance of large language model (LLM) systems depends not only on model weights, but also on their harness: the code that determines what information to store, retrieve, and present to the mod",
       "authors": [
-        "Kazuma Ikeda",
-        "Ryosei Hara",
-        "Rokuto Nagata",
-        "Ozora Sako. Zihao Ding",
-        "Takahiro Kado"
+        "Yoonho Lee",
+        "Roshen Nair",
+        "Qizheng Zhang",
+        "Kangwook Lee",
+        "Omar Khattab"
       ],
       "tags": [],
       "score": 6,
