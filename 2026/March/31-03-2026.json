@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-02T07:01:25.785Z",
+  "generatedAt": "2026-04-02T08:32:40.893Z",
   "date": "31-03-2026",
   "count": 30,
   "summary": null,
@@ -465,32 +465,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.00093",
-      "title": "RawGen: Learning Camera Raw Image Generation",
-      "url": "https://huggingface.co/papers/2604.00093",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-31T14:12:48.000Z",
-      "abstract": "Cameras capture scene-referred linear raw images, which are processed by onboard image signal processors (ISPs) into display-referred 8-bit sRGB outputs. Although raw data is more faithful for low-lev",
-      "authors": [
-        "Dongyoung Kim",
-        "Junyong Lee",
-        "Abhijith Punnappurath",
-        "Mahmoud Afifi",
-        "Sangmin Han"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fhow-thom",
       "title": "How Thomson Reuters Powers ICE and Palantir",
       "url": "https://www.404media.co/how-thomson-reuters-powers-ice-and-palantir/",
@@ -636,6 +610,32 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.29247",
+      "title": "MemRerank: Preference Memory for Personalized Product Reranking",
+      "url": "https://huggingface.co/papers/2603.29247",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-31T00:16:18.000Z",
+      "abstract": "LLM-based shopping agents increasingly rely on long purchase histories and multi-turn interactions for personalization, yet naively appending raw history to prompts is often ineffective due to noise,",
+      "authors": [
+        "Zhiyuan Peng",
+        "Xuyang Wu",
+        "Huaixiao Tou",
+        "Yi Fang",
+        "Yi Gong"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
