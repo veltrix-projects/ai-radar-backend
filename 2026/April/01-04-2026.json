@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-02T08:32:40.890Z",
+  "generatedAt": "2026-04-02T09:52:20.557Z",
   "date": "01-04-2026",
   "count": 67,
   "summary": null,
@@ -126,37 +126,6 @@
       "downloads": 0,
       "likes": 0,
       "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "gh_552661142",
-      "title": "langchain-ai/langchain — The agent engineering platform",
-      "url": "https://github.com/langchain-ai/langchain",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-04-01T20:50:08Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "agents",
-        "ai",
-        "ai-agents",
-        "anthropic",
-        "chatgpt",
-        "deepagents",
-        "enterprise",
-        "framework",
-        "gemini",
-        "generative-ai"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 132031,
       "votes": 0,
       "points": 0
     },
@@ -799,6 +768,30 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2604.01161",
+      "title": "Reasoning Shift: How Context Silently Shortens LLM Reasoning",
+      "url": "https://huggingface.co/papers/2604.01161",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-01T13:14:18.000Z",
+      "abstract": "Large language models (LLMs) exhibiting test-time scaling behavior, such as extended reasoning traces and self-verification, have demonstrated remarkable performance on complex, long-term reasoning ta",
+      "authors": [
+        "Gleb Rodionov"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "reddit_MachineLearning_t3_1s9k5kr",
       "title": "[R] The SPORE Clustering Algorithm",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1s9k5kr/r_the_spore_clustering_algorithm/",
@@ -1295,7 +1288,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 104268,
+      "stars": 104278,
       "votes": 0,
       "points": 0
     },
@@ -1366,6 +1359,29 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2604.00626",
+      "title": "A Survey of On-Policy Distillation for Large Language Models",
+      "url": "https://huggingface.co/papers/2604.00626",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-01T04:32:34.000Z",
+      "abstract": "Knowledge distillation has become a primary mechanism for transferring reasoning and domain expertise from frontier Large Language Models (LLMs) to smaller, deployable students. However, the dominant",
+      "authors": [
+        "Mingyang Song",
+        "Mao Zheng"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2604.00590",
       "title": "UniMixer: A Unified Architecture for Scaling Laws in Recommendation Systems",
       "url": "https://huggingface.co/papers/2604.00590",
@@ -1385,33 +1401,6 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.00528",
-      "title": "Think, Act, Build: An Agentic Framework with Vision Language Models for Zero-Shot 3D Visual Grounding",
-      "url": "https://huggingface.co/papers/2604.00528",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-01T02:12:16.000Z",
-      "abstract": "3D Visual Grounding (3D-VG) aims to localize objects in 3D scenes via natural language descriptions. While recent advancements leveraging Vision-Language Models (VLMs) have explored zero-shot possibil",
-      "authors": [
-        "Haibo Wang",
-        "Zihao Lin",
-        "Zhiyang Xu",
-        "Lifu Huang"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
