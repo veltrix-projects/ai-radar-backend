@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-04-02T04:04:49.713Z",
+  "generatedAt": "2026-04-02T05:54:48.852Z",
   "date": "26-03-2026",
-  "count": 3,
+  "count": 4,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2603.26017",
+      "title": "QuitoBench: A High-Quality Open Time Series Forecasting Benchmark",
+      "url": "https://huggingface.co/papers/2603.26017",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-26T22:24:34.000Z",
+      "abstract": "Time series forecasting is critical across finance, healthcare, and cloud computing, yet progress is constrained by a fundamental bottleneck: the scarcity of large-scale, high-quality benchmarks. To a",
+      "authors": [
+        "Siqiao Xue",
+        "Zhaoyang Zhu",
+        "Wei Zhang",
+        "Rongyao Cai",
+        "Rui Wang"
+      ],
+      "tags": [
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "google_deepmind_https%3A%2F%2Fdeepmind.google%2Fblog%2Fg",
       "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
@@ -27,22 +55,22 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.25645",
-      "title": "Colon-Bench: An Agentic Workflow for Scalable Dense Lesion Annotation in Full-Procedure Colonoscopy Videos",
-      "url": "https://huggingface.co/papers/2603.25645",
+      "id": "hf_paper_2603.25823",
+      "title": "ViGoR-Bench: How Far Are Visual Generative Models From Zero-Shot Visual Reasoners?",
+      "url": "https://huggingface.co/papers/2603.25823",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-03-26T12:58:43.000Z",
-      "abstract": "Early screening via colonoscopy is critical for colon cancer prevention, yet developing robust AI systems for this domain is hindered by the lack of densely annotated, long-sequence video datasets. Ex",
+      "timestamp": "2026-03-26T14:40:09.000Z",
+      "abstract": "Beneath the stunning visual fidelity of modern AIGC models lies a \"logical desert\", where systems fail tasks that require physical, causal, or complex spatial reasoning. Current evaluations largely re",
       "authors": [
-        "Abdullah Hamdi",
-        "Changchun Yang",
-        "Xin Gao"
+        "Haonan Han",
+        "Jiancheng Huang",
+        "Xiaopeng Sun",
+        "Junyan He",
+        "Rui Yang"
       ],
-      "tags": [
-        "agent"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-02T04:04:49.649Z",
+  "generatedAt": "2026-04-02T05:54:48.851Z",
   "date": "27-03-2026",
   "count": 4,
   "summary": null,
@@ -80,21 +80,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.26357",
-      "title": "MPDiT: Multi-Patch Global-to-Local Transformer Architecture For Efficient Flow Matching and Diffusion Model",
-      "url": "https://huggingface.co/papers/2603.26357",
+      "id": "hf_paper_2603.26648",
+      "title": "Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification",
+      "url": "https://huggingface.co/papers/2603.26648",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-03-27T08:30:10.000Z",
-      "abstract": "Transformer architectures, particularly Diffusion Transformers (DiTs), have become widely used in diffusion and flow-matching models due to their strong performance compared to convolutional UNets. Ho",
+      "timestamp": "2026-03-27T13:50:45.000Z",
+      "abstract": "Recent advances in large language models have improved the capabilities of coding agents, yet systematic evaluation of complex, end-to-end website development remains limited. To address this gap, we",
       "authors": [
-        "Quan Dao",
-        "Dimitris Metaxas"
+        "Zehai He",
+        "Wenyi Hong",
+        "Zhen Yang",
+        "Ziyang Pan",
+        "Mingdao Liu"
       ],
       "tags": [
-        "transformer",
-        "diffusion"
+        "agent",
+        "benchmark"
       ],
       "score": 6,
       "priority": "MEDIUM",

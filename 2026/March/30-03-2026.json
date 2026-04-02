@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-02T04:04:49.602Z",
+  "generatedAt": "2026-04-02T05:54:48.850Z",
   "date": "30-03-2026",
-  "count": 22,
+  "count": 21,
   "summary": null,
   "items": [
     {
@@ -25,30 +25,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.29089",
-      "title": "WorldFlow3D: Flowing Through 3D Distributions for Unbounded World Generation",
-      "url": "https://huggingface.co/papers/2603.29089",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-30T20:08:17.000Z",
-      "abstract": "Unbounded 3D world generation is emerging as a foundational task for scene modeling in computer vision, graphics, and robotics. In this work, we present WorldFlow3D, a novel method capable of generati",
-      "authors": [
-        "Amogh Joshi",
-        "Julian Ost",
-        "Felix Heide"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fyou-cant",
       "title": "'You Can't Defeat the Robots!': Baseball's AI Strike Zone Is Must-Watch Television",
       "url": "https://www.404media.co/you-cant-defeat-the-robots-baseballs-mlb-abs-ai-strike-zone-is-must-watch-television/",
@@ -61,34 +37,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.29025",
-      "title": "The Model Says Walk: How Surface Heuristics Override Implicit Constraints in LLM Reasoning",
-      "url": "https://huggingface.co/papers/2603.29025",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-30T17:36:09.000Z",
-      "abstract": "Large language models systematically fail when a salient surface cue conflicts with an unstated feasibility constraint. We study this through a diagnose-measure-bridge-treat framework. Causal-behavior",
-      "authors": [
-        "Yubo Li",
-        "Lu Zhang",
-        "Tianchong Jiang",
-        "Ramayya Krishnan",
-        "Rema Padman"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -397,6 +345,36 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.28407",
+      "title": "MiroEval: Benchmarking Multimodal Deep Research Agents in Process and Outcome",
+      "url": "https://huggingface.co/papers/2603.28407",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-30T09:16:03.000Z",
+      "abstract": "Recent progress in deep research systems has been impressive, but evaluation still lags behind real user needs. Existing benchmarks predominantly assess final reports using fixed rubrics, failing to e",
+      "authors": [
+        "Fangda Ye",
+        "Yuxin Hu",
+        "Pengxiang Zhu",
+        "Yibo Li",
+        "Ziqi Jin"
+      ],
+      "tags": [
+        "multimodal",
+        "agent",
+        "benchmark"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
