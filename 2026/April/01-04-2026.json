@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-03T12:59:39.344Z",
+  "generatedAt": "2026-04-03T14:02:49.622Z",
   "date": "01-04-2026",
-  "count": 34,
+  "count": 36,
   "summary": null,
   "items": [
     {
@@ -41,6 +41,58 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.01973",
+      "title": "NearID: Identity Representation Learning via Near-identity Distractors",
+      "url": "https://huggingface.co/papers/2604.01973",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-01T20:00:00.000Z",
+      "abstract": "When evaluating identity-focused tasks such as personalized generation and image editing, existing vision encoders entangle object identity with background context, leading to unreliable representatio",
+      "authors": [
+        "Aleksandar Cvejic",
+        "Rameen Abdal",
+        "Abdelrahman Eldesokey",
+        "Bernard Ghanem",
+        "Peter Wonka"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.02330",
+      "title": "ActionParty: Multi-Subject Action Binding in Generative Video Games",
+      "url": "https://huggingface.co/papers/2604.02330",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-01T20:00:00.000Z",
+      "abstract": "Recent advances in video diffusion have enabled the development of \"world models\" capable of simulating interactive environments. However, these models are largely restricted to single-agent settings,",
+      "authors": [
+        "Alexander Pondaven",
+        "Ziyi Wu",
+        "Igor Gilitschenski",
+        "Philip Torr",
+        "Sergey Tulyakov"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -669,7 +721,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 104381,
+      "stars": 104388,
       "votes": 0,
       "points": 0
     },
