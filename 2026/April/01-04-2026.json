@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-03T09:14:04.993Z",
+  "generatedAt": "2026-04-03T11:07:14.728Z",
   "date": "01-04-2026",
-  "count": 39,
+  "count": 37,
   "summary": null,
   "items": [
     {
@@ -37,6 +37,32 @@
       "timestamp": "2026-04-01T22:12:13.000Z",
       "abstract": "",
       "authors": [],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.02289",
+      "title": "Omni123: Exploring 3D Native Foundation Models with Limited 3D Data by Unifying Text to 2D and 3D Generation",
+      "url": "https://huggingface.co/papers/2604.02289",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-01T20:00:00.000Z",
+      "abstract": "Recent multimodal large language models have achieved strong performance in unified text and image understanding and generation, yet extending such native capability to 3D remains challenging due to l",
+      "authors": [
+        "Chongjie Ye",
+        "Cheng Cao",
+        "Chuanyu Pan",
+        "Yiming Hao",
+        "Yihao Zhi"
+      ],
       "tags": [],
       "score": 8,
       "priority": "HIGH",
@@ -285,105 +311,25 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.01569",
-      "title": "VideoZeroBench: Probing the Limits of Video MLLMs with Spatio-Temporal Evidence Verification",
-      "url": "https://huggingface.co/papers/2604.01569",
+      "id": "hf_paper_2604.01618",
+      "title": "Tex3D: Objects as Attack Surfaces via Adversarial 3D Textures for Vision-Language-Action Models",
+      "url": "https://huggingface.co/papers/2604.01618",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-01T20:00:00.000Z",
-      "abstract": "Recent video multimodal large language models achieve impressive results across various benchmarks. However, current evaluations suffer from two critical limitations: (1) inflated scores can mask defi",
+      "abstract": "Vision-language-action (VLA) models have shown strong performance in robotic manipulation, yet their robustness to physically realizable adversarial attacks remains underexplored. Existing studies rev",
       "authors": [
-        "Jiahao Meng",
-        "Tan Yue",
-        "Qi Xu",
-        "Haochen Wang",
-        "Zhongwei Ren"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.02329",
-      "title": "Generative World Renderer",
-      "url": "https://huggingface.co/papers/2604.02329",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-01T20:00:00.000Z",
-      "abstract": "Scaling generative inverse and forward rendering to real-world scenarios is bottlenecked by the limited realism and temporal coherence of existing synthetic datasets. To bridge this persistent domain",
-      "authors": [
-        "Zheng-Hui Huang",
-        "Zhixiang Wang",
-        "Jiaming Tan",
-        "Ruihan Yu",
-        "Yidan Zhang"
+        "Jiawei Chen",
+        "Simin Huang",
+        "Jiawei Du",
+        "Shuaihang Chen",
+        "Yu Tian"
       ],
       "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.02088",
-      "title": "FlowSlider: Training-Free Continuous Image Editing via Fidelity-Steering Decomposition",
-      "url": "https://huggingface.co/papers/2604.02088",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-01T20:00:00.000Z",
-      "abstract": "Continuous image editing aims to provide slider-style control of edit strength while preserving source-image fidelity and maintaining a consistent edit direction. Existing learning-based slider method",
-      "authors": [
-        "Taichi Endo",
-        "Guoqing Hao",
-        "Kazuhiko Sumi"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.02289",
-      "title": "Omni123: Exploring 3D Native Foundation Models with Limited 3D Data by Unifying Text to 2D and 3D Generation",
-      "url": "https://huggingface.co/papers/2604.02289",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-01T20:00:00.000Z",
-      "abstract": "Recent multimodal large language models have achieved strong performance in unified text and image understanding and generation, yet extending such native capability to 3D remains challenging due to l",
-      "authors": [
-        "Chongjie Ye",
-        "Cheng Cao",
-        "Chuanyu Pan",
-        "Yiming Hao",
-        "Yihao Zhi"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -698,6 +644,34 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2604.01014",
+      "title": "AutoMIA: Improved Baselines for Membership Inference Attack via Agentic Self-Exploration",
+      "url": "https://huggingface.co/papers/2604.01014",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-01T11:17:45.000Z",
+      "abstract": "Membership Inference Attacks (MIAs) serve as a fundamental auditing tool for evaluating training data leakage in machine learning models. However, existing methodologies predominantly rely on static,",
+      "authors": [
+        "Ruhao Liu",
+        "Weiqi Huang",
+        "Qi Li",
+        "Xinchao Wang"
+      ],
+      "tags": [
+        "agent",
+        "inference"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
       "title": "The gig workers who are training humanoid robots at home",
       "url": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
@@ -781,7 +755,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 104363,
+      "stars": 104372,
       "votes": 0,
       "points": 0
     },
@@ -819,28 +793,6 @@
       "authors": [],
       "tags": [
         "gemini"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Liquid AI Released LFM2.5-350M: A Compact 350M Parameter Model Trained on 28T Tokens with Scaled Reinforcement Learning",
-      "url": "https://www.marktechpost.com/2026/03/31/liquid-ai-released-lfm2-5-350m-a-compact-350m-parameter-model-trained-on-28t-tokens-with-scaled-reinforcement-learning/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-04-01T05:01:59.000Z",
-      "abstract": "In the current landscape of generative AI, the &#8216;scaling laws&#8217; have generally dictated that more parameters equal more intelligence. However, Liquid AI is challenging this convention with t",
-      "authors": [],
-      "tags": [
-        "reinforcement learning"
       ],
       "score": 8,
       "priority": "HIGH",
