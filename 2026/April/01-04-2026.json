@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-03T17:58:09.986Z",
+  "generatedAt": "2026-04-03T18:46:45.545Z",
   "date": "01-04-2026",
-  "count": 35,
+  "count": 34,
   "summary": null,
   "items": [
     {
@@ -41,6 +41,35 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.01658",
+      "title": "CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery",
+      "url": "https://huggingface.co/papers/2604.01658",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-01T20:00:00.000Z",
+      "abstract": "Large language model (LLM)-based evolution is a promising approach for open-ended discovery, where progress requires sustained search and knowledge accumulation. Existing methods still rely heavily on",
+      "authors": [
+        "Ao Qu",
+        "Han Zheng",
+        "Zijian Zhou",
+        "Yihao Yan",
+        "Yihong Tang"
+      ],
+      "tags": [
+        "agent",
+        "autonomous"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -196,58 +225,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.02296",
-      "title": "VOID: Video Object and Interaction Deletion",
-      "url": "https://huggingface.co/papers/2604.02296",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-01T20:00:00.000Z",
-      "abstract": "Existing video object removal methods excel at inpainting content \"behind\" the object and correcting appearance-level artifacts such as shadows and reflections. However, when the removed object has mo",
-      "authors": [
-        "Saman Motamed",
-        "William Harvey",
-        "Benjamin Klein",
-        "Luc Van Gool",
-        "Zhuoning Yuan"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.01666",
-      "title": "DynaVid: Learning to Generate Highly Dynamic Videos using Synthetic Motion Data",
-      "url": "https://huggingface.co/papers/2604.01666",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-01T20:00:00.000Z",
-      "abstract": "Despite recent progress, video diffusion models still struggle to synthesize realistic videos involving highly dynamic motions or requiring fine-grained motion controllability. A central limitation li",
-      "authors": [
-        "Wonjoon Jin",
-        "Jiyun Won",
-        "Janghyeok Han",
-        "Qi Dai",
-        "Chong Luo"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -697,7 +674,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 104401,
+      "stars": 104404,
       "votes": 0,
       "points": 0
     },
