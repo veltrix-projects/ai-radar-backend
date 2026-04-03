@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-03T17:26:19.589Z",
+  "generatedAt": "2026-04-03T17:58:09.986Z",
   "date": "01-04-2026",
   "count": 35,
   "summary": null,
@@ -37,6 +37,31 @@
       "timestamp": "2026-04-01T22:12:13.000Z",
       "abstract": "",
       "authors": [],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.01202",
+      "title": "Therefore I am. I Think",
+      "url": "https://huggingface.co/papers/2604.01202",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-01T20:00:00.000Z",
+      "abstract": "We consider the question: when a large language reasoning model makes a choice, did it think first and then decide to, or decide first and then think? In this paper, we present evidence that detectabl",
+      "authors": [
+        "Esakkivel Esakkiraja",
+        "Sai Rajeswar",
+        "Denis Akhiyarov",
+        "Rajagopal Venkatesaramani"
+      ],
       "tags": [],
       "score": 8,
       "priority": "HIGH",
@@ -218,29 +243,6 @@
         "Janghyeok Han",
         "Qi Dai",
         "Chong Luo"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.01760",
-      "title": "T5Gemma-TTS Technical Report",
-      "url": "https://huggingface.co/papers/2604.01760",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-01T20:00:00.000Z",
-      "abstract": "Autoregressive neural codec language models have shown strong zero-shot voice cloning ability, but decoder-only architectures treat input text as a prefix that competes with the growing audio sequence",
-      "authors": [
-        "Chihiro Arata",
-        "Kiyoshi Kurihara"
       ],
       "tags": [],
       "score": 6,
@@ -695,7 +697,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 104399,
+      "stars": 104401,
       "votes": 0,
       "points": 0
     },

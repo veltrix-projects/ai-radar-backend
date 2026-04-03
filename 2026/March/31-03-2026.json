@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-03T17:26:19.590Z",
+  "generatedAt": "2026-04-03T17:58:09.987Z",
   "date": "31-03-2026",
-  "count": 18,
+  "count": 17,
   "summary": null,
   "items": [
     {
@@ -91,34 +91,6 @@
       "tags": [
         "agent",
         "autonomous"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.00491",
-      "title": "Executing as You Generate: Hiding Execution Latency in LLM Code Generation",
-      "url": "https://huggingface.co/papers/2604.00491",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-31T20:00:00.000Z",
-      "abstract": "Current LLM-based coding agents follow a serial execution paradigm: the model first generates the complete code, then invokes an interpreter to execute it. This sequential workflow leaves the executor",
-      "authors": [
-        "Zhensu Sun",
-        "Zhihao Lin",
-        "Zhi Chen",
-        "Chengran Yang",
-        "Mingyi Zhou"
-      ],
-      "tags": [
-        "llm"
       ],
       "score": 6,
       "priority": "MEDIUM",
