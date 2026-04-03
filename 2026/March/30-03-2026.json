@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-03T11:07:14.730Z",
+  "generatedAt": "2026-04-03T11:57:34.075Z",
   "date": "30-03-2026",
-  "count": 4,
+  "count": 6,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,32 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.29640",
+      "title": "ASI-Evolve: AI Accelerates AI",
+      "url": "https://huggingface.co/papers/2603.29640",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-30T20:00:00.000Z",
+      "abstract": "Can AI accelerate the development of AI itself? While recent agentic systems have shown strong performance on well-scoped tasks with rapid feedback, it remains unclear whether they can tackle the cost",
+      "authors": [
+        "Weixian Xu",
+        "Tiantian Mi",
+        "Yixiu Liu",
+        "Yang Nan",
+        "Zhimeng Zhou"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -78,6 +104,34 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.28130",
+      "title": "MDPBench: A Benchmark for Multilingual Document Parsing in Real-World Scenarios",
+      "url": "https://huggingface.co/papers/2603.28130",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-30T03:47:46.000Z",
+      "abstract": "We introduce Multilingual Document Parsing Benchmark, the first benchmark for multilingual digital and photographed document parsing. Document parsing has made remarkable strides, yet almost exclusive",
+      "authors": [
+        "Zhang Li",
+        "Zhibo Lin",
+        "Qiang Liu",
+        "Ziyang Zhang",
+        "Shuo Zhang"
+      ],
+      "tags": [
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

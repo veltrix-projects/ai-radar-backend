@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-03T11:07:14.729Z",
+  "generatedAt": "2026-04-03T11:57:34.075Z",
   "date": "31-03-2026",
-  "count": 24,
+  "count": 23,
   "summary": null,
   "items": [
     {
@@ -90,20 +90,24 @@
       "points": 0
     },
     {
-      "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fai-arti",
-      "title": "You can now use ChatGPT with Apple’s CarPlay",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
-      "source": "The Verge AI",
-      "sourceIcon": "🔺",
-      "type": "news",
-      "timestamp": "2026-03-31T21:03:18.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "gpt"
+      "id": "hf_paper_2604.01328",
+      "title": "Efficient and Principled Scientific Discovery through Bayesian Optimization: A Tutorial",
+      "url": "https://huggingface.co/papers/2604.01328",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-31T20:00:00.000Z",
+      "abstract": "Traditional scientific discovery relies on an iterative hypothesise-experiment-refine cycle that has driven progress for centuries, but its intuitive, ad-hoc implementation often wastes resources, yie",
+      "authors": [
+        "Zhongwei Yu",
+        "Rasul Tutunov",
+        "Alexandre Max Maraval",
+        "Zikai Xie",
+        "Zhenzhi Tan"
       ],
-      "score": 4,
-      "priority": "LOW",
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -234,32 +238,6 @@
         "Shanu Kumar",
         "Alham Fikri Aji",
         "Yova Kementchedjhieva"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.01001",
-      "title": "EgoSim: Egocentric World Simulator for Embodied Interaction Generation",
-      "url": "https://huggingface.co/papers/2604.01001",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-31T20:00:00.000Z",
-      "abstract": "We introduce EgoSim, a closed-loop egocentric world simulator that generates spatially consistent interaction videos and persistently updates the underlying 3D scene state for continuous simulation. E",
-      "authors": [
-        "Jinkun Hao",
-        "Mingda Jia",
-        "Ruiyan Wang",
-        "Xihui Liu",
-        "Ran Yi"
       ],
       "tags": [],
       "score": 6,

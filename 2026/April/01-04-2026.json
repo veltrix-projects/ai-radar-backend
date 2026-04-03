@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-03T11:07:14.728Z",
+  "generatedAt": "2026-04-03T11:57:34.074Z",
   "date": "01-04-2026",
-  "count": 37,
+  "count": 36,
   "summary": null,
   "items": [
     {
@@ -41,6 +41,58 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.02327",
+      "title": "Steerable Visual Representations",
+      "url": "https://huggingface.co/papers/2604.02327",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-01T20:00:00.000Z",
+      "abstract": "Pretrained Vision Transformers (ViTs) such as DINOv2 and MAE provide generic image features that can be applied to a variety of downstream tasks such as retrieval, classification, and segmentation. Ho",
+      "authors": [
+        "Jona Ruthardt",
+        "Manu Gaur",
+        "Deva Ramanan",
+        "Makarand Tapaswi",
+        "Yuki M. Asano"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.01618",
+      "title": "Tex3D: Objects as Attack Surfaces via Adversarial 3D Textures for Vision-Language-Action Models",
+      "url": "https://huggingface.co/papers/2604.01618",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-01T20:00:00.000Z",
+      "abstract": "Vision-language-action (VLA) models have shown strong performance in robotic manipulation, yet their robustness to physically realizable adversarial attacks remains underexplored. Existing studies rev",
+      "authors": [
+        "Jiawei Chen",
+        "Simin Huang",
+        "Jiawei Du",
+        "Shuaihang Chen",
+        "Yu Tian"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -221,115 +273,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.02097",
-      "title": "LatentUM: Unleashing the Potential of Interleaved Cross-Modal Reasoning via a Latent-Space Unified Model",
-      "url": "https://huggingface.co/papers/2604.02097",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-01T20:00:00.000Z",
-      "abstract": "Unified models (UMs) hold promise for their ability to understand and generate content across heterogeneous modalities. Compared to merely generating visual content, the use of UMs for interleaved cro",
-      "authors": [
-        "Jiachun Jin",
-        "Zetong Zhou",
-        "Xiao Yang",
-        "Hao Zhang",
-        "Pengfei Liu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.02190",
-      "title": "UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonomous Driving",
-      "url": "https://huggingface.co/papers/2604.02190",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-01T20:00:00.000Z",
-      "abstract": "Vision-Language-Action (VLA) models have recently emerged in autonomous driving, with the promise of leveraging rich world knowledge to improve the cognitive capabilities of driving systems. However,",
-      "authors": [
-        "Yongkang Li",
-        "Lijun Zhou",
-        "Sixu Yan",
-        "Bencheng Liao",
-        "Tianyi Yan"
-      ],
-      "tags": [
-        "autonomous"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.01007",
-      "title": "Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory",
-      "url": "https://huggingface.co/papers/2604.01007",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-01T20:00:00.000Z",
-      "abstract": "AI agents increasingly operate over extended time horizons, yet their ability to retain, organize, and recall multimodal experiences remains a critical bottleneck. Building effective lifelong memory r",
-      "authors": [
-        "Jiaqi Liu",
-        "Zipeng Ling",
-        "Shi Qiu",
-        "Yanqing Liu",
-        "Siwei Han"
-      ],
-      "tags": [
-        "multimodal",
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.01618",
-      "title": "Tex3D: Objects as Attack Surfaces via Adversarial 3D Textures for Vision-Language-Action Models",
-      "url": "https://huggingface.co/papers/2604.01618",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-01T20:00:00.000Z",
-      "abstract": "Vision-language-action (VLA) models have shown strong performance in robotic manipulation, yet their robustness to physically realizable adversarial attacks remains underexplored. Existing studies rev",
-      "authors": [
-        "Jiawei Chen",
-        "Simin Huang",
-        "Jiawei Du",
-        "Shuaihang Chen",
-        "Yu Tian"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -564,6 +507,30 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2604.01152",
+      "title": "Brainstacks: Cross-Domain Cognitive Capabilities via Frozen MoE-LoRA Stacks for Continual LLM Learning",
+      "url": "https://huggingface.co/papers/2604.01152",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-01T13:08:25.000Z",
+      "abstract": "We present Brainstacks, a modular architecture for continual multi-domain fine-tuning of large language models that packages domain expertise as frozen adapter stacks composing additively on a shared",
+      "authors": [
+        "Mohammad R. Abu Ayyash"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fpodcast-",
       "title": "Podcast: Inside the AI Slop Propaganda Wars",
       "url": "https://www.404media.co/podcast-inside-the-ai-slop-propaganda-wars/",
@@ -755,7 +722,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 104372,
+      "stars": 104377,
       "votes": 0,
       "points": 0
     },
