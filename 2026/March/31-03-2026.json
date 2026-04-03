@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-03T08:02:04.352Z",
+  "generatedAt": "2026-04-03T09:14:04.993Z",
   "date": "31-03-2026",
   "count": 24,
   "summary": null,
@@ -104,6 +104,35 @@
       ],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.00917",
+      "title": "Investigating Autonomous Agent Contributions in the Wild: Activity Patterns and Code Change over Time",
+      "url": "https://huggingface.co/papers/2604.00917",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-31T20:00:00.000Z",
+      "abstract": "The rise of large language models for code has reshaped software development. Autonomous coding agents, able to create branches, open pull requests, and perform code reviews, now actively contribute t",
+      "authors": [
+        "Razvan Mihai Popescu",
+        "David Gros",
+        "Andrei Botocan",
+        "Rahul Pandita",
+        "Prem Devanbu"
+      ],
+      "tags": [
+        "agent",
+        "autonomous"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -256,29 +285,6 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "How to Build and Evolve a Custom OpenAI Agent with A-Evolve Using Benchmarks, Skills, Memory, and Workspace Mutations",
-      "url": "https://www.marktechpost.com/2026/03/31/how-to-build-and-evolve-a-custom-openai-agent-with-a-evolve-using-benchmarks-skills-memory-and-workspace-mutations/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-03-31T18:24:44.000Z",
-      "abstract": "In this tutorial, we work directly with the A-Evolve framework in Colab and build a complete evolutionary agent pipeline from the ground up. We set up the repository, configure an OpenAI-powered agent",
-      "authors": [],
-      "tags": [
-        "agent",
-        "benchmark"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
