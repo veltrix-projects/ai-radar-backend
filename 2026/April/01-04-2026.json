@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-03T05:54:48.211Z",
+  "generatedAt": "2026-04-03T06:58:25.790Z",
   "date": "01-04-2026",
-  "count": 41,
+  "count": 39,
   "summary": null,
   "items": [
     {
@@ -41,6 +41,32 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.01619",
+      "title": "Automatic Image-Level Morphological Trait Annotation for Organismal Images",
+      "url": "https://huggingface.co/papers/2604.01619",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-01T20:00:00.000Z",
+      "abstract": "Morphological traits are physical characteristics of biological organisms that provide vital clues on how organisms interact with their environment. Yet extracting these traits remains a slow, expert-",
+      "authors": [
+        "Vardaan Pahuja",
+        "Samuel Stevens",
+        "Alyson East",
+        "Sydne Record",
+        "Yu Su"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -552,55 +578,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.01194",
-      "title": "AgentWatcher: A Rule-based Prompt Injection Monitor",
-      "url": "https://huggingface.co/papers/2604.01194",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-01T13:40:03.000Z",
-      "abstract": "Large language models (LLMs) and their applications, such as agents, are highly vulnerable to prompt injection attacks. State-of-the-art prompt injection detection methods have the following limitatio",
-      "authors": [
-        "Yanting Wang",
-        "Wei Zou",
-        "Runpeng Geng",
-        "Jinyuan Jia"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.01168",
-      "title": "S0 Tuning: Zero-Overhead Adaptation of Hybrid Recurrent-Attention Models",
-      "url": "https://huggingface.co/papers/2604.01168",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-01T13:21:15.000Z",
-      "abstract": "Using roughly 48 execution-verified HumanEval training solutions, tuning a single initial state matrix per recurrent layer, with zero inference overhead, outperforms LoRA by +10.8 pp (p < 0.001) on Hu",
-      "authors": [
-        "Jack Young"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fenjoy-me",
       "title": "I Tried to Find the ‘Arousal Intelligence’ In An Animated, Augmented Reality Porn Star",
       "url": "https://www.404media.co/enjoy-me-now-augmented-reality-ar-sex-app/",
@@ -723,34 +700,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.00986",
-      "title": "Do Phone-Use Agents Respect Your Privacy?",
-      "url": "https://huggingface.co/papers/2604.00986",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-01T10:50:50.000Z",
-      "abstract": "We study whether phone-use agents respect privacy while completing benign mobile tasks. This question has remained hard to answer because privacy-compliant behavior is not operationalized for phone-us",
-      "authors": [
-        "Zhengyang Tang",
-        "Ke Ji",
-        "Xidong Wang",
-        "Zihan Ye",
-        "Xinyuan Wang"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fai-arti",
       "title": "Baidu’s robotaxis froze in traffic, creating chaos",
       "url": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china",
@@ -837,7 +786,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 104348,
+      "stars": 104354,
       "votes": 0,
       "points": 0
     },
