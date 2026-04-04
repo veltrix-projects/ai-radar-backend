@@ -1,9 +1,40 @@
 {
-  "generatedAt": "2026-04-04T22:20:23.099Z",
+  "generatedAt": "2026-04-04T22:54:32.830Z",
   "date": "04-04-2026",
-  "count": 44,
+  "count": 45,
   "summary": null,
   "items": [
+    {
+      "id": "hf_model_caiovicentino1/Gemma-4-31B-Claude-Opus-PolarQuant-Q5-Vision",
+      "title": "caiovicentino1/Gemma-4-31B-Claude-Opus-PolarQuant-Q5-Vision",
+      "url": "https://huggingface.co/caiovicentino1/Gemma-4-31B-Claude-Opus-PolarQuant-Q5-Vision",
+      "source": "HuggingFace Models",
+      "sourceIcon": "🤗",
+      "type": "model",
+      "timestamp": "2026-04-04T22:26:14.000Z",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "image-text-to-text",
+        "gemma4",
+        "polarquant",
+        "claude-opus",
+        "distill",
+        "vision",
+        "multimodal",
+        "quantized",
+        "image-text-to-text",
+        "conversational"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 55,
+      "likes": 7,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_model_TeichAI/gemma-4-31B-it-Claude-Opus-Distill",
       "title": "TeichAI/gemma-4-31B-it-Claude-Opus-Distill",
@@ -11,7 +42,7 @@
       "source": "HuggingFace Models",
       "sourceIcon": "🤗",
       "type": "model",
-      "timestamp": "2026-04-04T21:49:14.000Z",
+      "timestamp": "2026-04-04T22:26:12.000Z",
       "abstract": "",
       "authors": [],
       "tags": [
@@ -42,7 +73,7 @@
       "source": "GitHub",
       "sourceIcon": "⭐",
       "type": "tool",
-      "timestamp": "2026-04-04T21:44:52Z",
+      "timestamp": "2026-04-04T22:25:43Z",
       "abstract": "",
       "authors": [],
       "tags": [
@@ -60,7 +91,30 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 348064,
+      "stars": 348074,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "gh_612354784",
+      "title": "ggml-org/llama.cpp — LLM inference in C/C++",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "source": "GitHub",
+      "sourceIcon": "⭐",
+      "type": "tool",
+      "timestamp": "2026-04-04T22:01:08Z",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "ggml",
+        "C++"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 101376,
       "votes": 0,
       "points": 0
     },
@@ -114,7 +168,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 183130,
+      "stars": 183131,
       "votes": 0,
       "points": 0
     },
@@ -253,7 +307,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 104090,
+      "stars": 104102,
       "votes": 0,
       "points": 0
     },
@@ -289,29 +343,6 @@
       "points": 0
     },
     {
-      "id": "gh_612354784",
-      "title": "ggml-org/llama.cpp — LLM inference in C/C++",
-      "url": "https://github.com/ggml-org/llama.cpp",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-04-04T18:39:00Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "ggml",
-        "C++"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 101372,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "gh_45717250",
       "title": "tensorflow/tensorflow — An Open Source Machine Learning Framework for Everyone",
       "url": "https://github.com/tensorflow/tensorflow",
@@ -337,7 +368,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 194458,
+      "stars": 194459,
       "votes": 0,
       "points": 0
     },
@@ -387,7 +418,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 137689,
+      "stars": 137737,
       "votes": 0,
       "points": 0
     },
@@ -731,7 +762,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 132367,
+      "stars": 132369,
       "votes": 0,
       "points": 0
     },
@@ -782,7 +813,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 167156,
+      "stars": 167157,
       "votes": 0,
       "points": 0
     },
@@ -833,7 +864,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 182451,
+      "stars": 182456,
       "votes": 0,
       "points": 0
     },
@@ -884,7 +915,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 157441,
+      "stars": 157442,
       "votes": 0,
       "points": 0
     },
