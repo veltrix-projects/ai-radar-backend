@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-03T23:36:06.740Z",
+  "generatedAt": "2026-04-04T01:18:58.464Z",
   "date": "31-03-2026",
-  "count": 16,
+  "count": 17,
   "summary": null,
   "items": [
     {
@@ -67,6 +67,32 @@
         "Zhenzhi Tan"
       ],
       "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.00356",
+      "title": "Signals: Trajectory Sampling and Triage for Agentic Interactions",
+      "url": "https://huggingface.co/papers/2604.00356",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-31T20:00:00.000Z",
+      "abstract": "Agentic applications based on large language models increasingly rely on multi-step interaction loops involving planning, action execution, and environment feedback. While such systems are now deploye",
+      "authors": [
+        "Shuguang Chen",
+        "Adil Hafeez",
+        "Salman Paracha"
+      ],
+      "tags": [
+        "agent"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
