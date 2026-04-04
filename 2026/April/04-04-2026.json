@@ -1,9 +1,40 @@
 {
-  "generatedAt": "2026-04-04T21:52:28.755Z",
+  "generatedAt": "2026-04-04T22:20:23.099Z",
   "date": "04-04-2026",
-  "count": 43,
+  "count": 44,
   "summary": null,
   "items": [
+    {
+      "id": "hf_model_TeichAI/gemma-4-31B-it-Claude-Opus-Distill",
+      "title": "TeichAI/gemma-4-31B-it-Claude-Opus-Distill",
+      "url": "https://huggingface.co/TeichAI/gemma-4-31B-it-Claude-Opus-Distill",
+      "source": "HuggingFace Models",
+      "sourceIcon": "🤗",
+      "type": "model",
+      "timestamp": "2026-04-04T21:49:14.000Z",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "image-text-to-text",
+        "transformers",
+        "safetensors",
+        "gemma4",
+        "image-text-to-text",
+        "text-generation-inference",
+        "unsloth",
+        "reasoning",
+        "conversational",
+        "dataset:TeichAI/Claude-Opus-4.6-Reasoning-887x"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 174,
+      "likes": 15,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "gh_1103012935",
       "title": "openclaw/openclaw — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
@@ -11,7 +42,7 @@
       "source": "GitHub",
       "sourceIcon": "⭐",
       "type": "tool",
-      "timestamp": "2026-04-04T21:22:14Z",
+      "timestamp": "2026-04-04T21:44:52Z",
       "abstract": "",
       "authors": [],
       "tags": [
@@ -29,7 +60,30 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 348055,
+      "stars": 348064,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "reddit_LocalLLaMA_t3_1sckg9v",
+      "title": "The Average Local LLM Experience",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sckg9v/the_average_local_llm_experience/",
+      "source": "Reddit r/LocalLLaMA",
+      "sourceIcon": "🔴",
+      "type": "model",
+      "timestamp": "2026-04-04T20:54:46+00:00",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "llm",
+        "rag"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
       "votes": 0,
       "points": 0
     },
@@ -60,7 +114,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 183129,
+      "stars": 183130,
       "votes": 0,
       "points": 0
     },
@@ -199,7 +253,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 104081,
+      "stars": 104090,
       "votes": 0,
       "points": 0
     },
@@ -253,7 +307,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 101366,
+      "stars": 101372,
       "votes": 0,
       "points": 0
     },
@@ -283,7 +337,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 194457,
+      "stars": 194458,
       "votes": 0,
       "points": 0
     },
@@ -333,7 +387,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 137643,
+      "stars": 137689,
       "votes": 0,
       "points": 0
     },
@@ -527,26 +581,6 @@
       "points": 0
     },
     {
-      "id": "reddit_LocalLLaMA_t3_1sc87tk",
-      "title": "Running Gemma 4 e4b (9.6GB RAM req) on RPi 5 8GB! Stable 2.8GHz Overclock & Custom Cooling",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sc87tk/running_gemma_4_e4b_96gb_ram_req_on_rpi_5_8gb/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-04-04T12:40:12+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "reddit_LocalLLaMA_t3_1sc7uwa",
       "title": "Apple: Embarrassingly Simple Self-Distillation Improves Code Generation",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sc7uwa/apple_embarrassingly_simple_selfdistillation/",
@@ -697,7 +731,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 132366,
+      "stars": 132367,
       "votes": 0,
       "points": 0
     },
@@ -748,7 +782,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 167155,
+      "stars": 167156,
       "votes": 0,
       "points": 0
     },
@@ -799,7 +833,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 182449,
+      "stars": 182451,
       "votes": 0,
       "points": 0
     },
@@ -850,7 +884,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 157440,
+      "stars": 157441,
       "votes": 0,
       "points": 0
     },
