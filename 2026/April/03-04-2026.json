@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-05T05:57:38.206Z",
+  "generatedAt": "2026-04-05T07:03:14.114Z",
   "date": "03-04-2026",
-  "count": 21,
+  "count": 24,
   "summary": null,
   "items": [
     {
@@ -60,6 +60,28 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Google DeepMind&#8217;s Research Lets an LLM Rewrite Its Own Game Theory Algorithms — And It Outperformed the Experts",
+      "url": "https://www.marktechpost.com/2026/04/03/google-deepminds-research-lets-an-llm-rewrite-its-own-game-theory-algorithms-and-it-outperformed-the-experts/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-04-03T22:26:00.000Z",
+      "abstract": "Designing algorithms for Multi-Agent Reinforcement Learning (MARL) in imperfect-information games — scenarios where players act sequentially and cannot see each other&#8217;s private information, like",
+      "authors": [],
+      "tags": [
+        "llm"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -387,6 +409,28 @@
       "points": 0
     },
     {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "TII Releases Falcon Perception: A 0.6B-Parameter Early-Fusion Transformer for Open-Vocabulary Grounding and Segmentation from Natural Language Prompts",
+      "url": "https://www.marktechpost.com/2026/04/03/tii-releases-falcon-perception-a-0-6b-parameter-early-fusion-transformer-for-open-vocabulary-grounding-and-segmentation-from-natural-language-prompts/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-04-03T08:49:34.000Z",
+      "abstract": "In the current landscape of computer vision, the standard operating procedure involves a modular &#8216;Lego-brick&#8217; approach: a pre-trained vision encoder for feature extraction paired with a se",
+      "authors": [],
+      "tags": [
+        "transformer"
+      ],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Fe",
       "title": "Evaluating alignment of behavioral dispositions in LLMs",
       "url": "https://research.google/blog/evaluating-alignment-of-behavioral-dispositions-in-llms/",
@@ -403,6 +447,28 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Step by Step Guide to Build an End-to-End Model Optimization Pipeline with NVIDIA Model Optimizer Using FastNAS Pruning and Fine-Tuning",
+      "url": "https://www.marktechpost.com/2026/04/03/step-by-step-guide-to-build-an-end-to-end-model-optimization-pipeline-with-nvidia-model-optimizer-using-fastnas-pruning-and-fine-tuning/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-04-03T07:48:18.000Z",
+      "abstract": "In this tutorial, we build a complete end-to-end pipeline using NVIDIA Model Optimizer to train, prune, and fine-tune a deep learning model directly in Google Colab. We start by setting up the environ",
+      "authors": [],
+      "tags": [
+        "fine-tuning"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -436,7 +502,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 130079,
+      "stars": 130085,
       "votes": 0,
       "points": 0
     }
