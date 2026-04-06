@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-06T02:38:49.704Z",
+  "generatedAt": "2026-04-06T05:16:14.473Z",
   "date": "02-04-2026",
-  "count": 26,
+  "count": 27,
   "summary": null,
   "items": [
     {
@@ -39,6 +39,32 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.03128",
+      "title": "Self-Distilled RLVR",
+      "url": "https://huggingface.co/papers/2604.03128",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-02T20:00:00.000Z",
+      "abstract": "On-policy distillation (OPD) has become a popular training paradigm in the LLM community. This paradigm selects a larger model as the teacher to provide dense, fine-grained signals for each sampled tr",
+      "authors": [
+        "Chenxu Yang",
+        "Chuanyu Qin",
+        "Qingyi Si",
+        "Minghui Chen",
+        "Naibin Gu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -576,7 +602,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 154664,
+      "stars": 154668,
       "votes": 0,
       "points": 0
     }
