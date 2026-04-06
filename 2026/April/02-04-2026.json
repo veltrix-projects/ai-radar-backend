@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-06T14:40:17.160Z",
+  "generatedAt": "2026-04-06T15:38:28.593Z",
   "date": "02-04-2026",
-  "count": 26,
+  "count": 27,
   "summary": null,
   "items": [
     {
@@ -202,6 +202,34 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.03118",
+      "title": "Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation",
+      "url": "https://huggingface.co/papers/2604.03118",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-02T20:00:00.000Z",
+      "abstract": "Distilling video generation models to extremely low inference budgets (e.g., 2--4 NFEs) is crucial for real-time deployment, yet remains challenging. Trajectory-style consistency distillation often be",
+      "authors": [
+        "Xingtong Ge",
+        "Yi Zhang",
+        "Yushi Huang",
+        "Dailan He",
+        "Xiahong Wang"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
