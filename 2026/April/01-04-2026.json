@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-04-06T15:38:28.594Z",
+  "generatedAt": "2026-04-06T16:36:20.595Z",
   "date": "01-04-2026",
-  "count": 18,
+  "count": 16,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.01609",
+      "title": "Swift-SVD: Theoretical Optimality Meets Practical Efficiency in Low-Rank LLM Compression",
+      "url": "https://huggingface.co/papers/2604.01609",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-01T20:00:00.000Z",
+      "abstract": "The deployment of Large Language Models is constrained by the memory and bandwidth demands of static weights and dynamic Key-Value cache. SVD-based compression provides a hardware-friendly solution to",
+      "authors": [
+        "Ruoling Qi",
+        "Yirui Liu",
+        "Xuaner Wu",
+        "Xiangyu Wang",
+        "Ming Li"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2604.02317",
       "title": "A Simple Baseline for Streaming Video Understanding",
@@ -49,57 +77,6 @@
         "agent",
         "autonomous"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.01202",
-      "title": "Therefore I am. I Think",
-      "url": "https://huggingface.co/papers/2604.01202",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-01T20:00:00.000Z",
-      "abstract": "We consider the question: when a large language reasoning model makes a choice, did it think first and then decide to, or decide first and then think? In this paper, we present evidence that detectabl",
-      "authors": [
-        "Esakkivel Esakkiraja",
-        "Sai Rajeswar",
-        "Denis Akhiyarov",
-        "Rajagopal Venkatesaramani"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.01973",
-      "title": "NearID: Identity Representation Learning via Near-identity Distractors",
-      "url": "https://huggingface.co/papers/2604.01973",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-01T20:00:00.000Z",
-      "abstract": "When evaluating identity-focused tasks such as personalized generation and image editing, existing vision encoders entangle object identity with background context, leading to unreliable representatio",
-      "authors": [
-        "Aleksandar Cvejic",
-        "Rameen Abdal",
-        "Abdelrahman Eldesokey",
-        "Bernard Ghanem",
-        "Peter Wonka"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -272,26 +249,6 @@
       "points": 0
     },
     {
-      "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fblockade",
-      "title": "‘BLOCKADE’: The Right Is Using AI Content Scanners to Try to Supercharge Book Banning",
-      "url": "https://www.404media.co/blockade-the-right-is-using-ai-content-scanners-to-try-to-supercharge-book-banning/",
-      "source": "404 Media",
-      "sourceIcon": "📡",
-      "type": "news",
-      "timestamp": "2026-04-01T13:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
       "title": "DeepL&#8217;s Borderless Business report reveals 83% of enterprises are still behind on language AI",
       "url": "https://www.artificialintelligence-news.com/news/deepls-borderless-business-report-reveals-83-of-enterprises-are-still-behind-on-language-ai/",
@@ -375,7 +332,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 104622,
+      "stars": 104628,
       "votes": 0,
       "points": 0
     },
