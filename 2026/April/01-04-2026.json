@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-04-07T22:29:58.330Z",
+  "generatedAt": "2026-04-07T23:07:30.747Z",
   "date": "01-04-2026",
-  "count": 11,
+  "count": 12,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.02045",
+      "title": "BidirLM: From Text to Omnimodal Bidirectional Encoders by Adapting and Composing Causal LLMs",
+      "url": "https://huggingface.co/papers/2604.02045",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-01T20:00:00.000Z",
+      "abstract": "Transforming causal generative language models into bidirectional encoders offers a powerful alternative to BERT-style architectures. However, current approaches remain limited: they lack consensus on",
+      "authors": [
+        "Nicolas Boizard",
+        "Théo Deschamps-Berger",
+        "Hippolyte Gisserot-Boukhlef",
+        "Céline Hudelot",
+        "Pierre Colombo"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2604.02176",
       "title": "Adam's Law: Textual Frequency Law on Large Language Models",
