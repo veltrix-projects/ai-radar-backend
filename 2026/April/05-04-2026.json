@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-07T12:06:33.858Z",
+  "generatedAt": "2026-04-07T14:05:24.071Z",
   "date": "05-04-2026",
-  "count": 17,
+  "count": 16,
   "summary": null,
   "items": [
     {
@@ -37,6 +37,31 @@
       "tags": [
         "inference"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.04562",
+      "title": "Paper Espresso: From Paper Overload to Research Insight",
+      "url": "https://huggingface.co/papers/2604.04562",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-05T20:00:00.000Z",
+      "abstract": "The accelerating pace of scientific publishing makes it increasingly difficult for researchers to stay current. We present Paper Espresso, an open-source platform that automatically discovers, summari",
+      "authors": [
+        "Mingzhe Du",
+        "Luu Anh Tuan",
+        "Dong Huang",
+        "See-kiong Ng"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -225,60 +250,6 @@
         "Tianfu Fu"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.04771",
-      "title": "MinerU2.5-Pro: Pushing the Limits of Data-Centric Document Parsing at Scale",
-      "url": "https://huggingface.co/papers/2604.04771",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-05T20:00:00.000Z",
-      "abstract": "Current document parsing methods compete primarily on model architecture innovation, while systematic engineering of training data remains underexplored. Yet SOTA models of different architectures and",
-      "authors": [
-        "Bin Wang",
-        "Tianyao He",
-        "Linke Ouyang",
-        "Fan Wu",
-        "Zhiyuan Zhao"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.04804",
-      "title": "SkillX: Automatically Constructing Skill Knowledge Bases for Agents",
-      "url": "https://huggingface.co/papers/2604.04804",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-05T20:00:00.000Z",
-      "abstract": "Learning from experience is critical for building capable large language model (LLM) agents, yet prevailing self-evolving paradigms remain inefficient: agents learn in isolation, repeatedly rediscover",
-      "authors": [
-        "Chenxi Wang",
-        "Zhuoyun Yu",
-        "Xin Xie",
-        "Wuguannan Yao",
-        "Runnan Fang"
-      ],
-      "tags": [
-        "agent"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
