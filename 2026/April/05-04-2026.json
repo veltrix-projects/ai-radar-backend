@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-07T15:51:50.751Z",
+  "generatedAt": "2026-04-07T17:50:36.614Z",
   "date": "05-04-2026",
-  "count": 16,
+  "count": 14,
   "summary": null,
   "items": [
     {
@@ -36,6 +36,35 @@
       "authors": [],
       "tags": [
         "inference"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.04872",
+      "title": "Synthetic Sandbox for Training Machine Learning Engineering Agents",
+      "url": "https://huggingface.co/papers/2604.04872",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-05T20:00:00.000Z",
+      "abstract": "As large language model agents advance beyond software engineering (SWE) tasks toward machine learning engineering (MLE), verifying agent behavior becomes orders of magnitude more expensive: while SWE",
+      "authors": [
+        "Yuhang Zhou",
+        "Lizhu Zhang",
+        "Yifan Wu",
+        "Jiayi Liu",
+        "Xiangjun Fan"
+      ],
+      "tags": [
+        "agent",
+        "training"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -195,89 +224,6 @@
       "tags": [
         "phi",
         "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.04707",
-      "title": "OpenWorldLib: A Unified Codebase and Definition of Advanced World Models",
-      "url": "https://huggingface.co/papers/2604.04707",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-05T20:00:00.000Z",
-      "abstract": "World models have garnered significant attention as a promising research direction in artificial intelligence, yet a clear and unified definition remains lacking. In this paper, we introduce OpenWorld",
-      "authors": [
-        "DataFlow Team",
-        "Bohan Zeng",
-        "Daili Hua",
-        "Kaixin Zhu",
-        "Yifan Dai"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.04901",
-      "title": "FileGram: Grounding Agent Personalization in File-System Behavioral Traces",
-      "url": "https://huggingface.co/papers/2604.04901",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-05T20:00:00.000Z",
-      "abstract": "Coworking AI agents operating within local file systems are rapidly emerging as a paradigm in human-AI interaction; however, effective personalization remains limited by severe data constraints, as st",
-      "authors": [
-        "Shuai Liu",
-        "Shulin Tian",
-        "Kairui Hu",
-        "Yuhao Dong",
-        "Zhe Yang"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.04872",
-      "title": "Synthetic Sandbox for Training Machine Learning Engineering Agents",
-      "url": "https://huggingface.co/papers/2604.04872",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-05T20:00:00.000Z",
-      "abstract": "As large language model agents advance beyond software engineering (SWE) tasks toward machine learning engineering (MLE), verifying agent behavior becomes orders of magnitude more expensive: while SWE",
-      "authors": [
-        "Yuhang Zhou",
-        "Lizhu Zhang",
-        "Yifan Wu",
-        "Jiayi Liu",
-        "Xiangjun Fan"
-      ],
-      "tags": [
-        "agent",
-        "training"
       ],
       "score": 6,
       "priority": "MEDIUM",

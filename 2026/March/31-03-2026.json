@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-07T15:51:50.755Z",
+  "generatedAt": "2026-04-07T17:50:36.617Z",
   "date": "31-03-2026",
-  "count": 8,
+  "count": 9,
   "summary": null,
   "items": [
     {
@@ -21,6 +21,34 @@
         "Dongwei Pan"
       ],
       "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.00375",
+      "title": "Locally Confident, Globally Stuck: The Quality-Exploration Dilemma in Diffusion Language Models",
+      "url": "https://huggingface.co/papers/2604.00375",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-31T20:00:00.000Z",
+      "abstract": "Diffusion large language models (dLLMs) theoretically permit token decoding in arbitrary order, a flexibility that could enable richer exploration of reasoning paths than autoregressive (AR) LLMs. In",
+      "authors": [
+        "Liancheng Fang",
+        "Aiwei Liu",
+        "Henry Peng Zou",
+        "Yankai Chen",
+        "Enze Ma"
+      ],
+      "tags": [
+        "diffusion"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
