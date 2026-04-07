@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T14:05:24.071Z",
+  "generatedAt": "2026-04-07T15:51:50.751Z",
   "date": "05-04-2026",
   "count": 16,
   "summary": null,
@@ -37,6 +37,32 @@
       "tags": [
         "inference"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.04767",
+      "title": "Cog-DRIFT: Exploration on Adaptively Reformulated Instances Enables Learning from Hard Reasoning Problems",
+      "url": "https://huggingface.co/papers/2604.04767",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-05T20:00:00.000Z",
+      "abstract": "Reinforcement learning from verifiable rewards (RLVR) has improved the reasoning abilities of LLMs, yet a fundamental limitation remains: models cannot learn from problems that are too difficult to so",
+      "authors": [
+        "Justin Chih-Yao Chen",
+        "Archiki Prasad",
+        "Zaid Khan",
+        "Joykirat Singh",
+        "Runchu Tian"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -234,44 +260,27 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.04921",
-      "title": "TriAttention: Efficient Long Reasoning with Trigonometric KV Compression",
-      "url": "https://huggingface.co/papers/2604.04921",
+      "id": "hf_paper_2604.04872",
+      "title": "Synthetic Sandbox for Training Machine Learning Engineering Agents",
+      "url": "https://huggingface.co/papers/2604.04872",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-05T20:00:00.000Z",
-      "abstract": "Extended reasoning in large language models (LLMs) creates severe KV cache memory bottlenecks. Leading KV cache compression methods estimate KV importance using attention scores from recent post-RoPE",
+      "abstract": "As large language model agents advance beyond software engineering (SWE) tasks toward machine learning engineering (MLE), verifying agent behavior becomes orders of magnitude more expensive: while SWE",
       "authors": [
-        "Weian Mao",
-        "Xi Lin",
-        "Wei Huang",
-        "Yuxin Xie",
-        "Tianfu Fu"
+        "Yuhang Zhou",
+        "Lizhu Zhang",
+        "Yifan Wu",
+        "Jiayi Liu",
+        "Xiangjun Fan"
       ],
-      "tags": [],
+      "tags": [
+        "agent",
+        "training"
+      ],
       "score": 6,
       "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "techcrunch_ai_https%3A%2F%2Ftechcrunch.com%2F2026%2F04",
-      "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
-      "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
-      "source": "TechCrunch AI",
-      "sourceIcon": "💚",
-      "type": "news",
-      "timestamp": "2026-04-05T18:51:37.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
