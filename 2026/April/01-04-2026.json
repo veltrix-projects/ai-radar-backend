@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-04-07T08:52:56.525Z",
+  "generatedAt": "2026-04-07T09:59:45.173Z",
   "date": "01-04-2026",
-  "count": 13,
+  "count": 15,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2604.01765",
-      "title": "DriveDreamer-Policy: A Geometry-Grounded World-Action Model for Unified Generation and Planning",
-      "url": "https://huggingface.co/papers/2604.01765",
+      "id": "hf_paper_2604.02176",
+      "title": "Adam's Law: Textual Frequency Law on Large Language Models",
+      "url": "https://huggingface.co/papers/2604.02176",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-01T20:00:00.000Z",
-      "abstract": "Recently, world-action models (WAM) have emerged to bridge vision-language-action (VLA) models and world models, unifying their reasoning and instruction-following capabilities and spatio-temporal wor",
+      "abstract": "While textual frequency has been validated as relevant to human cognition in reading speed, its relatedness to Large Language Models (LLMs) is seldom studied. We propose a novel research direction in",
       "authors": [
-        "Yang Zhou",
-        "Xiaofeng Wang",
-        "Hao Shao",
-        "Letian Wang",
-        "Guosheng Zhao"
+        "Hongyuan Adam Lu",
+        "Z. L.",
+        "Victor Wei",
+        "Zefan Zhang",
+        "Zhao Hong"
       ],
       "tags": [],
       "score": 6,
@@ -31,25 +31,81 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.02486",
-      "title": "VLMs Need Words: Vision Language Models Ignore Visual Detail In Favor of Semantic Anchors",
-      "url": "https://huggingface.co/papers/2604.02486",
+      "id": "hf_paper_2604.02073",
+      "title": "PLUME: Latent Reasoning Based Universal Multimodal Embedding",
+      "url": "https://huggingface.co/papers/2604.02073",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-01T20:00:00.000Z",
-      "abstract": "Vision Language Models (VLMs) achieve impressive performance across a wide range of multimodal tasks. However, on some tasks that demand fine-grained visual perception, they often fail even when the r",
+      "abstract": "Universal multimodal embedding (UME) maps heterogeneous inputs into a shared retrieval space with a single model. Recent approaches improve UME by generating explicit chain-of-thought (CoT) rationales",
       "authors": [
-        "Haz Sameen Shahgir",
-        "Xiaofu Chen",
-        "Yu Fu",
-        "Erfan Shayegani",
-        "Nael Abu-Ghazaleh"
+        "Chenwei He",
+        "Xiangzhao Hao",
+        "Tianyu Yang",
+        "Yuxiang Ma",
+        "Yuheng Jia"
       ],
-      "tags": [],
+      "tags": [
+        "multimodal"
+      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.02288",
+      "title": "Unifying Group-Relative and Self-Distillation Policy Optimization via Sample Routing",
+      "url": "https://huggingface.co/papers/2604.02288",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-01T20:00:00.000Z",
+      "abstract": "Reinforcement learning with verifiable rewards (RLVR) has become a standard paradigm for post-training large language models. While Group Relative Policy Optimization (GRPO) is widely adopted, its coa",
+      "authors": [
+        "Gengsheng Li",
+        "Tianyu Yang",
+        "Junfeng Fang",
+        "Mingyang Song",
+        "Mao Zheng"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.00830",
+      "title": "Learning to Learn-at-Test-Time: Language Agents with Learnable Adaptation Policies",
+      "url": "https://huggingface.co/papers/2604.00830",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-01T20:00:00.000Z",
+      "abstract": "Test-Time Learning (TTL) enables language agents to iteratively refine their performance through repeated interactions with the environment at inference time. At the core of TTL is an adaptation polic",
+      "authors": [
+        "Zhanzhi Lou",
+        "Hui Chen",
+        "Yibo Li",
+        "Qian Wang",
+        "Bryan Hooi"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -262,7 +318,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 104687,
+      "stars": 104696,
       "votes": 0,
       "points": 0
     },

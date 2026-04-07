@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-07T08:52:56.513Z",
+  "generatedAt": "2026-04-07T09:59:45.171Z",
   "date": "05-04-2026",
-  "count": 20,
+  "count": 17,
   "summary": null,
   "items": [
     {
@@ -40,6 +40,34 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.04780",
+      "title": "CLEAR: Unlocking Generative Potential for Degraded Image Understanding in Unified Multimodal Models",
+      "url": "https://huggingface.co/papers/2604.04780",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-05T20:00:00.000Z",
+      "abstract": "Image degradation from blur, noise, compression, and poor illumination severely undermines multimodal understanding in real-world settings. Unified multimodal models that combine understanding and gen",
+      "authors": [
+        "Xiangzhao Hao",
+        "Zefeng Zhang",
+        "Zhenyu Zhang",
+        "Linhao Yu",
+        "Yao Chen"
+      ],
+      "tags": [
+        "multimodal"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -250,114 +278,6 @@
       ],
       "tags": [
         "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.04917",
-      "title": "Vero: An Open RL Recipe for General Visual Reasoning",
-      "url": "https://huggingface.co/papers/2604.04917",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-05T20:00:00.000Z",
-      "abstract": "What does it take to build a visual reasoner that works across charts, science, spatial understanding, and open-ended tasks? The strongest vision-language models (VLMs) show such broad visual reasonin",
-      "authors": [
-        "Gabriel Sarch",
-        "Linrong Cai",
-        "Qunzhong Wang",
-        "Haoyang Wu",
-        "Danqi Chen"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.04503",
-      "title": "Memory Intelligence Agent",
-      "url": "https://huggingface.co/papers/2604.04503",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-05T20:00:00.000Z",
-      "abstract": "Deep research agents (DRAs) integrate LLM reasoning with external tools. Memory systems enable DRAs to leverage historical experiences, which are essential for efficient reasoning and autonomous evolu",
-      "authors": [
-        "Jingyang Qiao",
-        "Weicheng Meng",
-        "Yu Cheng",
-        "Zhihang Lin",
-        "Zhizhong Zhang"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.04838",
-      "title": "Less Detail, Better Answers: Degradation-Driven Prompting for VQA",
-      "url": "https://huggingface.co/papers/2604.04838",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-05T20:00:00.000Z",
-      "abstract": "Recent advancements in Vision-Language Models (VLMs) have significantly pushed the boundaries of Visual Question Answering (VQA).However,high-resolution details can sometimes become noise that leads t",
-      "authors": [
-        "Haoxuan Han",
-        "Weijie Wang",
-        "Zeyu Zhang",
-        "Yefei He",
-        "Bohan Zhuang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.04911",
-      "title": "SpatialEdit: Benchmarking Fine-Grained Image Spatial Editing",
-      "url": "https://huggingface.co/papers/2604.04911",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-05T20:00:00.000Z",
-      "abstract": "Image spatial editing performs geometry-driven transformations, allowing precise control over object layout and camera viewpoints. Current models are insufficient for fine-grained spatial manipulation",
-      "authors": [
-        "Yicheng Xiao",
-        "Wenhu Zhang",
-        "Lin Song",
-        "Yukang Chen",
-        "Wenbo Li"
-      ],
-      "tags": [
-        "benchmark"
       ],
       "score": 6,
       "priority": "MEDIUM",
