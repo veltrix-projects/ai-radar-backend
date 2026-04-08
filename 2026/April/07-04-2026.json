@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-08T17:37:06.710Z",
+  "generatedAt": "2026-04-08T19:03:23.030Z",
   "date": "07-04-2026",
-  "count": 45,
+  "count": 43,
   "summary": null,
   "items": [
     {
@@ -113,7 +113,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 130693,
+      "stars": 130701,
       "votes": 0,
       "points": 0
     },
@@ -242,26 +242,6 @@
       "points": 0
     },
     {
-      "id": "ars_technica_https%3A%2F%2Farstechnica.com%2Fai%2F202",
-      "title": "Bluesky users are mastering the fine art of blaming everything on \"vibe coding\"",
-      "url": "https://arstechnica.com/ai/2026/04/bluesky-users-are-mastering-the-fine-art-of-blaming-everything-on-vibe-coding/",
-      "source": "Ars Technica",
-      "sourceIcon": "🔶",
-      "type": "news",
-      "timestamp": "2026-04-07T19:09:44.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "reddit_LocalLLaMA_t3_1sf57nh",
       "title": "Serving 1B+ tokens/day locally in my research lab",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sf57nh/serving_1b_tokensday_locally_in_my_research_lab/",
@@ -342,26 +322,6 @@
       "points": 0
     },
     {
-      "id": "ars_technica_https%3A%2F%2Farstechnica.com%2Ftech-pol",
-      "title": "SCOTUS overturns 5th Circuit ruling that told ISP to kick pirates off Internet",
-      "url": "https://arstechnica.com/tech-policy/2026/04/scotus-overturns-5th-circuit-ruling-that-told-isp-to-kick-pirates-off-internet/",
-      "source": "Ars Technica",
-      "sourceIcon": "🔶",
-      "type": "news",
-      "timestamp": "2026-04-07T18:00:20.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "techcrunch_ai_https%3A%2F%2Ftechcrunch.com%2F2026%2F04",
       "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
       "url": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
@@ -395,6 +355,34 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2604.06169v1",
+      "title": "In-Place Test-Time Training",
+      "url": "https://arxiv.org/abs/2604.06169v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-04-07T17:59:44Z",
+      "abstract": "The static ``train then deploy\" paradigm fundamentally limits Large Language Models (LLMs) from dynamically adapting their weights in response to continuous streams of new information inherent in real",
+      "authors": [
+        "Guhao Feng",
+        "Shengjie Luo",
+        "Kai Hua",
+        "Ge Zhang",
+        "Di He"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -579,6 +567,34 @@
       "points": 0
     },
     {
+      "id": "arxiv_2604.06156v1",
+      "title": "MMEmb-R1: Reasoning-Enhanced Multimodal Embedding with Pair-Aware Selection and Adaptive Control",
+      "url": "https://arxiv.org/abs/2604.06156v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-04-07T17:55:17Z",
+      "abstract": "MLLMs have been successfully applied to multimodal embedding tasks, yet their generative reasoning capabilities remain underutilized. Directly incorporating chain-of-thought reasoning into embedding l",
+      "authors": [
+        "Yuchi Wang",
+        "Haiyang Yu",
+        "Weikang Bian",
+        "Jiefeng Long",
+        "Xiao Liang"
+      ],
+      "tags": [
+        "multimodal"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "arxiv_2604.06155v1",
       "title": "Toward Consistent World Models with Multi-Token Prediction and Latent Semantic Enhancement",
       "url": "https://arxiv.org/abs/2604.06155v1",
@@ -692,48 +708,6 @@
         "Harvey Lederman",
         "Kyle Mahowald"
       ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1sf1u2g",
-      "title": "GLM 5.1 Benchmarks",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sf1u2g/glm_51_benchmarks/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-04-07T16:59:55+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ars_technica_https%3A%2F%2Farstechnica.com%2Fgoogle%2",
-      "title": "Testing suggests Google's AI Overviews tell millions of lies per hour",
-      "url": "https://arstechnica.com/google/2026/04/analysis-finds-google-ai-overviews-is-wrong-10-percent-of-the-time/",
-      "source": "Ars Technica",
-      "sourceIcon": "🔶",
-      "type": "news",
-      "timestamp": "2026-04-07T16:53:55.000Z",
-      "abstract": "",
-      "authors": [],
       "tags": [],
       "score": 4,
       "priority": "LOW",

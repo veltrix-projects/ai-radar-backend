@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-08T17:37:06.711Z",
+  "generatedAt": "2026-04-08T19:03:23.030Z",
   "date": "06-04-2026",
-  "count": 25,
+  "count": 24,
   "summary": null,
   "items": [
     {
@@ -21,6 +21,29 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.05467",
+      "title": "CUE-R: Beyond the Final Answer in Retrieval-Augmented Generation",
+      "url": "https://huggingface.co/papers/2604.05467",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-06T20:00:00.000Z",
+      "abstract": "As language models shift from single-shot answer generation toward multi-step reasoning that retrieves and consumes evidence mid-inference, evaluating the role of individual retrieved items becomes mo",
+      "authors": [
+        "Siddharth Jain",
+        "Venkat Narayan Vedam"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -188,62 +211,6 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.06169",
-      "title": "In-Place Test-Time Training",
-      "url": "https://huggingface.co/papers/2604.06169",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-06T20:00:00.000Z",
-      "abstract": "The static ``train then deploy\" paradigm fundamentally limits Large Language Models (LLMs) from dynamically adapting their weights in response to continuous streams of new information inherent in real",
-      "authors": [
-        "Guhao Feng",
-        "Shengjie Luo",
-        "Kai Hua",
-        "Ge Zhang",
-        "Di He"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.06156",
-      "title": "MMEmb-R1: Reasoning-Enhanced Multimodal Embedding with Pair-Aware Selection and Adaptive Control",
-      "url": "https://huggingface.co/papers/2604.06156",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-06T20:00:00.000Z",
-      "abstract": "MLLMs have been successfully applied to multimodal embedding tasks, yet their generative reasoning capabilities remain underutilized. Directly incorporating chain-of-thought reasoning into embedding l",
-      "authors": [
-        "Yuchi Wang",
-        "Haiyang Yu",
-        "Weikang Bian",
-        "Jiefeng Long",
-        "Xiao Liang"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
