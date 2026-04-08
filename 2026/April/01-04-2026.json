@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-04-08T02:35:10.315Z",
+  "generatedAt": "2026-04-08T05:05:03.722Z",
   "date": "01-04-2026",
-  "count": 12,
+  "count": 8,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.01591",
+      "title": "ThinkTwice: Jointly Optimizing Large Language Models for Reasoning and Self-Refinement",
+      "url": "https://huggingface.co/papers/2604.01591",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-01T20:00:00.000Z",
+      "abstract": "We introduce ThinkTwice, a simple two-phase framework that jointly optimizes LLMs to solve reasoning problems and refine the answers, based on Group Relative Policy Optimization (GRPO). In each pair o",
+      "authors": [
+        "Difan Jiao",
+        "Qianfeng Wen",
+        "Blair Yang",
+        "Zhenwei Tang",
+        "Ashton Anderson"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2604.02045",
       "title": "BidirLM: From Text to Omnimodal Bidirectional Encoders by Adapting and Composing Causal LLMs",
@@ -33,114 +59,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.02176",
-      "title": "Adam's Law: Textual Frequency Law on Large Language Models",
-      "url": "https://huggingface.co/papers/2604.02176",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-01T20:00:00.000Z",
-      "abstract": "While textual frequency has been validated as relevant to human cognition in reading speed, its relatedness to Large Language Models (LLMs) is seldom studied. We propose a novel research direction in",
-      "authors": [
-        "Hongyuan Adam Lu",
-        "Z. L.",
-        "Victor Wei",
-        "Zefan Zhang",
-        "Zhao Hong"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.02073",
-      "title": "PLUME: Latent Reasoning Based Universal Multimodal Embedding",
-      "url": "https://huggingface.co/papers/2604.02073",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-01T20:00:00.000Z",
-      "abstract": "Universal multimodal embedding (UME) maps heterogeneous inputs into a shared retrieval space with a single model. Recent approaches improve UME by generating explicit chain-of-thought (CoT) rationales",
-      "authors": [
-        "Chenwei He",
-        "Xiangzhao Hao",
-        "Tianyu Yang",
-        "Yuxiang Ma",
-        "Yuheng Jia"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.02288",
-      "title": "Unifying Group-Relative and Self-Distillation Policy Optimization via Sample Routing",
-      "url": "https://huggingface.co/papers/2604.02288",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-01T20:00:00.000Z",
-      "abstract": "Reinforcement learning with verifiable rewards (RLVR) has become a standard paradigm for post-training large language models. While Group Relative Policy Optimization (GRPO) is widely adopted, its coa",
-      "authors": [
-        "Gengsheng Li",
-        "Tianyu Yang",
-        "Junfeng Fang",
-        "Mingyang Song",
-        "Mao Zheng"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.00830",
-      "title": "Learning to Learn-at-Test-Time: Language Agents with Learnable Adaptation Policies",
-      "url": "https://huggingface.co/papers/2604.00830",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-01T20:00:00.000Z",
-      "abstract": "Test-Time Learning (TTL) enables language agents to iteratively refine their performance through repeated interactions with the environment at inference time. At the core of TTL is an adaptation polic",
-      "authors": [
-        "Zhanzhi Lou",
-        "Hui Chen",
-        "Yibo Li",
-        "Qian Wang",
-        "Bryan Hooi"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "CUDA Tile Programming Now Available for BASIC!",
       "url": "https://developer.nvidia.com/blog/cuda-tile-programming-now-available-for-basic/",
@@ -154,28 +72,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "KPMG: Inside the AI agent playbook driving enterprise margin gains",
-      "url": "https://www.artificialintelligence-news.com/news/kpmg-inside-ai-agent-playbook-enterprise-margin-gains/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-04-01T15:24:01.000Z",
-      "abstract": "Global AI investment is accelerating, yet KPMG data shows the gap between enterprise AI spend and measurable business value is widening fast. The headline figure from KPMG&#8217;s first quarterly Glob",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -266,7 +162,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 104736,
+      "stars": 104750,
       "votes": 0,
       "points": 0
     },
