@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-08T10:49:52.983Z",
+  "generatedAt": "2026-04-08T13:00:19.449Z",
   "date": "06-04-2026",
-  "count": 27,
+  "count": 26,
   "summary": null,
   "items": [
     {
@@ -21,6 +21,34 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.05939",
+      "title": "Context-Value-Action Architecture for Value-Driven Large Language Model Agents",
+      "url": "https://huggingface.co/papers/2604.05939",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-06T20:00:00.000Z",
+      "abstract": "Large Language Models (LLMs) have shown promise in simulating human behavior, yet existing agents often exhibit behavioral rigidity, a flaw frequently masked by the self-referential bias of current \"L",
+      "authors": [
+        "TianZe Zhang",
+        "Sirui Sun",
+        "Yuhang Xie",
+        "Xin Zhang",
+        "Zhiqiang Wu"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -241,60 +269,6 @@
       "tags": [
         "agent",
         "autonomous"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.04074",
-      "title": "FactReview: Evidence-Grounded Reviews with Literature Positioning and Execution-Based Claim Verification",
-      "url": "https://huggingface.co/papers/2604.04074",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-06T20:00:00.000Z",
-      "abstract": "Peer review in machine learning is under growing pressure from rising submission volume and limited reviewer time. Most LLM-based reviewing systems read only the manuscript and generate comments from",
-      "authors": [
-        "Hang Xu",
-        "Ling Yue",
-        "Chaoqian Ouyang",
-        "Yuchen Liu",
-        "Libin Zheng"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.05939",
-      "title": "Context-Value-Action Architecture for Value-Driven Large Language Model Agents",
-      "url": "https://huggingface.co/papers/2604.05939",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-06T20:00:00.000Z",
-      "abstract": "Large Language Models (LLMs) have shown promise in simulating human behavior, yet existing agents often exhibit behavioral rigidity, a flaw frequently masked by the self-referential bias of current \"L",
-      "authors": [
-        "TianZe Zhang",
-        "Sirui Sun",
-        "Yuhang Xie",
-        "Xin Zhang",
-        "Zhiqiang Wu"
-      ],
-      "tags": [
-        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
