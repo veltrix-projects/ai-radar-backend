@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-04-08T13:00:19.451Z",
+  "generatedAt": "2026-04-08T14:51:07.787Z",
   "date": "03-04-2026",
-  "count": 3,
+  "count": 4,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.04979",
+      "title": "Squeez: Task-Conditioned Tool-Output Pruning for Coding Agents",
+      "url": "https://huggingface.co/papers/2604.04979",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-03T20:00:00.000Z",
+      "abstract": "Coding agents repeatedly consume long tool observations even though only a small fraction of each observation matters for the next step. We study task-conditioned tool-output pruning: given a focused",
+      "authors": [
+        "Ádám Kovács"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2604.03619",
       "title": "Can Natural Image Autoencoders Compactly Tokenize fMRI Volumes for Long-Range Dynamics Modeling?",
