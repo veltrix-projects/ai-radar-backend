@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-04-08T14:51:07.788Z",
+  "generatedAt": "2026-04-08T16:10:00.234Z",
   "date": "01-04-2026",
-  "count": 7,
+  "count": 8,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.01622",
+      "title": "Expert-Choice Routing Enables Adaptive Computation in Diffusion Language Models",
+      "url": "https://huggingface.co/papers/2604.01622",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-01T20:00:00.000Z",
+      "abstract": "Diffusion language models (DLMs) enable parallel, non-autoregressive text generation, yet existing DLM mixture-of-experts (MoE) models inherit token-choice (TC) routing from autoregressive systems, le",
+      "authors": [
+        "Shuibai Zhang",
+        "Caspian Zhuang",
+        "Chihan Cui",
+        "Zhihan Yang",
+        "Fred Zhangzhi Peng"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2604.01591",
       "title": "ThinkTwice: Jointly Optimizing Large Language Models for Reasoning and Self-Refinement",
@@ -134,7 +162,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 104800,
+      "stars": 104809,
       "votes": 0,
       "points": 0
     },
