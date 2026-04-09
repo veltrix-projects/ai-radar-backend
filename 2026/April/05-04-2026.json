@@ -1,9 +1,61 @@
 {
-  "generatedAt": "2026-04-09T07:58:48.170Z",
+  "generatedAt": "2026-04-09T09:09:21.604Z",
   "date": "05-04-2026",
-  "count": 2,
+  "count": 4,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.04913",
+      "title": "A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens",
+      "url": "https://huggingface.co/papers/2604.04913",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-05T20:00:00.000Z",
+      "abstract": "Anticipating diverse future states is a central challenge in video world modeling. Discriminative world models produce a deterministic prediction that implicitly averages over possible futures, while",
+      "authors": [
+        "Tommie Kerssies",
+        "Gabriele Berton",
+        "Ju He",
+        "Qihang Yu",
+        "Wufei Ma"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.05060",
+      "title": "R3PM-Net: Real-time, Robust, Real-world Point Matching Network",
+      "url": "https://huggingface.co/papers/2604.05060",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-05T20:00:00.000Z",
+      "abstract": "Accurate Point Cloud Registration (PCR) is an important task in 3D data processing, involving the estimation of a rigid transformation between two point clouds. While deep-learning methods have addres",
+      "authors": [
+        "Yasaman Kashefbahrami",
+        "Erkut Akdag",
+        "Panagiotis Meletis",
+        "Evgeniya Balmashnova",
+        "Dip Goswami"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2604.04734",
       "title": "Beyond Hard Negatives: The Importance of Score Distribution in Knowledge Distillation for Dense Retrieval",
