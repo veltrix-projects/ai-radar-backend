@@ -1,9 +1,34 @@
 {
-  "generatedAt": "2026-04-09T06:06:02.904Z",
+  "generatedAt": "2026-04-09T07:58:48.170Z",
   "date": "05-04-2026",
-  "count": 3,
+  "count": 2,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.04734",
+      "title": "Beyond Hard Negatives: The Importance of Score Distribution in Knowledge Distillation for Dense Retrieval",
+      "url": "https://huggingface.co/papers/2604.04734",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-05T20:00:00.000Z",
+      "abstract": "Transferring knowledge from a cross-encoder teacher via Knowledge Distillation (KD) has become a standard paradigm for training retrieval models. While existing studies have largely focused on mining",
+      "authors": [
+        "Youngjoon Jang",
+        "Seongtae Hong",
+        "Hyeonseok Moon",
+        "Heuiseok Lim"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2604.04443",
       "title": "DeonticBench: A Benchmark for Reasoning over Rules",
@@ -22,64 +47,6 @@
       ],
       "tags": [
         "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.04356",
-      "title": "REAM: Merging Improves Pruning of Experts in LLMs",
-      "url": "https://huggingface.co/papers/2604.04356",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-05T20:00:00.000Z",
-      "abstract": "Mixture-of-Experts (MoE) large language models (LLMs) are among the top-performing architectures. The largest models, often with hundreds of billions of parameters, pose significant memory challenges",
-      "authors": [
-        "Saurav Jha",
-        "Maryam Hashemzadeh",
-        "Ali Saheb Pasand",
-        "Ali Parviz",
-        "Min-Joong Lee"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.05172",
-      "title": "ClawsBench: Evaluating Capability and Safety of LLM Productivity Agents in Simulated Workspaces",
-      "url": "https://huggingface.co/papers/2604.05172",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-05T20:00:00.000Z",
-      "abstract": "Large language model (LLM) agents are increasingly deployed to automate productivity tasks (e.g., email, scheduling, document management), but evaluating them on live services is risky due to potentia",
-      "authors": [
-        "Xiangyi Li",
-        "Kyoung Whan Choe",
-        "Yimin Liu",
-        "Xiaokun Chen",
-        "Chujun Tao"
-      ],
-      "tags": [
-        "llm",
-        "agent",
-        "safety"
       ],
       "score": 6,
       "priority": "MEDIUM",
