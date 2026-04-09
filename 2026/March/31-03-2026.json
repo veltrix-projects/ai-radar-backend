@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-04-09T04:27:41.562Z",
+  "generatedAt": "2026-04-09T06:06:02.906Z",
   "date": "31-03-2026",
-  "count": 7,
+  "count": 8,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.00698",
+      "title": "Learning to Hint for Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2604.00698",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-31T20:00:00.000Z",
+      "abstract": "Group Relative Policy Optimization (GRPO) is widely used for reinforcement learning with verifiable rewards, but it often suffers from advantage collapse: when all rollouts in a group receive the same",
+      "authors": [
+        "Yu Xia",
+        "Canwen Xu",
+        "Zhewei Yao",
+        "Julian McAuley",
+        "Yuxiong He"
+      ],
+      "tags": [
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "Stream High-Fidelity Spatial Computing Content to Any Device with NVIDIA CloudXR 6.0",
