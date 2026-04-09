@@ -1,9 +1,57 @@
 {
-  "generatedAt": "2026-04-09T01:55:44.391Z",
+  "generatedAt": "2026-04-09T04:27:41.559Z",
   "date": "05-04-2026",
-  "count": 8,
+  "count": 5,
   "summary": null,
   "items": [
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Meet MaxToki: The AI That Predicts How Your Cells Age — and What to Do About It",
+      "url": "https://www.marktechpost.com/2026/04/05/meet-maxtoki-the-ai-that-predicts-how-your-cells-age-and-what-to-do-about-it/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-04-05T20:50:14.000Z",
+      "abstract": "Most foundation models in biology have a fundamental blind spot: they see cells as frozen snapshots. Give a model a single-cell transcriptome — a readout of which genes are active in a cell at a given",
+      "authors": [],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.04443",
+      "title": "DeonticBench: A Benchmark for Reasoning over Rules",
+      "url": "https://huggingface.co/papers/2604.04443",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-05T20:00:00.000Z",
+      "abstract": "Reasoning with complex, context-specific rules remains challenging for large language models (LLMs). In legal and policy settings, this manifests as deontic reasoning: reasoning about obligations, per",
+      "authors": [
+        "Guangyao Dou",
+        "Luis Brena",
+        "Akhil Deo",
+        "William Jurayj",
+        "Jingyu Zhang"
+      ],
+      "tags": [
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2604.04356",
       "title": "REAM: Merging Improves Pruning of Experts in LLMs",
@@ -81,142 +129,6 @@
       "tags": [
         "multimodal"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.05117",
-      "title": "Watch Before You Answer: Learning from Visually Grounded Post-Training",
-      "url": "https://huggingface.co/papers/2604.05117",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-05T20:00:00.000Z",
-      "abstract": "It is critical for vision-language models (VLMs) to comprehensively understand visual, temporal, and textual cues. However, despite rapid progress in multimodal modeling, video understanding performan",
-      "authors": [
-        "Yuxuan Zhang",
-        "EunJeong Hwang",
-        "Huaisong Zhang",
-        "Penghui Du",
-        "Yiming Jia"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.05091",
-      "title": "MegaTrain: Full Precision Training of 100B+ Parameter Large Language Models on a Single GPU",
-      "url": "https://huggingface.co/papers/2604.05091",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-05T20:00:00.000Z",
-      "abstract": "We present MegaTrain, a memory-centric system that efficiently trains 100B+ parameter large language models at full precision on a single GPU. Unlike traditional GPU-centric systems, MegaTrain stores",
-      "authors": [
-        "Zhengqing Yuan",
-        "Hanchi Sun",
-        "Lichao Sun",
-        "Yanfang Ye"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.04323",
-      "title": "How Well Do Agentic Skills Work in the Wild: Benchmarking LLM Skill Usage in Realistic Settings",
-      "url": "https://huggingface.co/papers/2604.04323",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-05T20:00:00.000Z",
-      "abstract": "Agent skills, which are reusable, domain-specific knowledge artifacts, have become a popular mechanism for extending LLM-based agents, yet formally benchmarking skill usage performance remains scarce.",
-      "authors": [
-        "Yujian Liu",
-        "Jiabao Ji",
-        "Li An",
-        "Tommi Jaakkola",
-        "Yang Zhang"
-      ],
-      "tags": [
-        "llm",
-        "agent",
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.04934",
-      "title": "Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision",
-      "url": "https://huggingface.co/papers/2604.04934",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-05T20:00:00.000Z",
-      "abstract": "We present Vanast, a unified framework that generates garment-transferred human animation videos directly from a single human image, garment images, and a pose guidance video. Conventional two-stage p",
-      "authors": [
-        "Hyunsoo Cha",
-        "Wonjung Woo",
-        "Byungjun Kim",
-        "Hanbyul Joo"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.05081",
-      "title": "MedGemma 1.5 Technical Report",
-      "url": "https://huggingface.co/papers/2604.05081",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-05T20:00:00.000Z",
-      "abstract": "We introduce MedGemma 1.5 4B, the latest model in the MedGemma collection. MedGemma 1.5 expands on MedGemma 1 by integrating additional capabilities: high-dimensional medical imaging (CT/MRI volumes a",
-      "authors": [
-        "Andrew Sellergren",
-        "Chufan Gao",
-        "Fereshteh Mahvar",
-        "Timo Kohlberger",
-        "Fayaz Jamil"
-      ],
-      "tags": [],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
