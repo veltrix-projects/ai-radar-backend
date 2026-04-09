@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T15:03:01.087Z",
+  "generatedAt": "2026-04-09T16:45:04.207Z",
   "date": "07-04-2026",
   "count": 16,
   "summary": null,
@@ -37,6 +37,34 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.07273",
+      "title": "GenLCA: 3D Diffusion for Full-Body Avatars from In-the-Wild Videos",
+      "url": "https://huggingface.co/papers/2604.07273",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-07T20:00:00.000Z",
+      "abstract": "We present GenLCA, a diffusion-based generative model for generating and editing photorealistic full-body avatars from text and image inputs. The generated avatars are faithful to the inputs, while su",
+      "authors": [
+        "Yiqian Wu",
+        "Rawal Khirodkar",
+        "Egor Zakharov",
+        "Timur Bagautdinov",
+        "Lei Xiao"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -169,32 +197,6 @@
         "Cong Chen",
         "Yangfu Li",
         "Yuanhuiyi Lyu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.07209",
-      "title": "INSPATIO-WORLD: A Real-Time 4D World Simulator via Spatiotemporal Autoregressive Modeling",
-      "url": "https://huggingface.co/papers/2604.07209",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-07T20:00:00.000Z",
-      "abstract": "Building world models with spatial consistency and real-time interactivity remains a fundamental challenge in computer vision. Current video generation paradigms often struggle with a lack of spatial",
-      "authors": [
-        "InSpatio Team",
-        "Donghui Shen",
-        "Guofeng Zhang",
-        "Haomin Liu",
-        "Haoyu Ji"
       ],
       "tags": [],
       "score": 6,
