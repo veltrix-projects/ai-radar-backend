@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-10T21:29:08.282Z",
+  "generatedAt": "2026-04-10T23:01:17.568Z",
   "date": "07-04-2026",
-  "count": 15,
+  "count": 16,
   "summary": null,
   "items": [
     {
@@ -145,6 +145,35 @@
         "Rui Yang"
       ],
       "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.07338",
+      "title": "Appear2Meaning: A Cross-Cultural Benchmark for Structured Cultural Metadata Inference from Images",
+      "url": "https://huggingface.co/papers/2604.07338",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-07T20:00:00.000Z",
+      "abstract": "Recent advances in vision-language models (VLMs) have improved image captioning for cultural heritage. However, inferring structured cultural metadata (e.g., creator, origin, period) from visual input",
+      "authors": [
+        "Yuechen Jiang",
+        "Enze Zhang",
+        "Md Mohsinul Kabir",
+        "Qianqian Xie",
+        "Stavroula Golfomitsou"
+      ],
+      "tags": [
+        "benchmark",
+        "inference"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
