@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-10T01:28:13.091Z",
+  "generatedAt": "2026-04-10T04:26:38.828Z",
   "date": "07-04-2026",
-  "count": 13,
+  "count": 9,
   "summary": null,
   "items": [
     {
@@ -25,132 +25,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.07273",
-      "title": "GenLCA: 3D Diffusion for Full-Body Avatars from In-the-Wild Videos",
-      "url": "https://huggingface.co/papers/2604.07273",
+      "id": "hf_paper_2604.07296",
+      "title": "OpenSpatial: A Principled Data Engine for Empowering Spatial Intelligence",
+      "url": "https://huggingface.co/papers/2604.07296",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-07T20:00:00.000Z",
-      "abstract": "We present GenLCA, a diffusion-based generative model for generating and editing photorealistic full-body avatars from text and image inputs. The generated avatars are faithful to the inputs, while su",
+      "abstract": "Spatial understanding is a fundamental cornerstone of human-level intelligence. Nonetheless, current research predominantly focuses on domain-specific data production, leaving a critical void: the abs",
       "authors": [
-        "Yiqian Wu",
-        "Rawal Khirodkar",
-        "Egor Zakharov",
-        "Timur Bagautdinov",
-        "Lei Xiao"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.06757",
-      "title": "FlowInOne:Unifying Multimodal Generation as Image-in, Image-out Flow Matching",
-      "url": "https://huggingface.co/papers/2604.06757",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-07T20:00:00.000Z",
-      "abstract": "Multimodal generation has long been dominated by text-driven pipelines where language dictates vision but cannot reason or create within it. We challenge this paradigm by asking whether all modalities",
-      "authors": [
-        "Junchao Yi",
-        "Rui Zhao",
-        "Jiahao Tang",
-        "Weixian Lei",
-        "Linjie Li"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.07350",
-      "title": "Fast Spatial Memory with Elastic Test-Time Training",
-      "url": "https://huggingface.co/papers/2604.07350",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-07T20:00:00.000Z",
-      "abstract": "Large Chunk Test-Time Training (LaCT) has shown strong performance on long-context 3D reconstruction, but its fully plastic inference-time updates remain vulnerable to catastrophic forgetting and over",
-      "authors": [
-        "Ziqiao Ma",
-        "Xueyang Yu",
-        "Haoyu Zhen",
-        "Yuncong Yang",
-        "Joyce Chai"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.06912",
-      "title": "Q-Zoom: Query-Aware Adaptive Perception for Efficient Multimodal Large Language Models",
-      "url": "https://huggingface.co/papers/2604.06912",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-07T20:00:00.000Z",
-      "abstract": "MLLMs require high-resolution visual inputs for fine-grained tasks like document understanding and dense scene perception. However, current global resolution scaling paradigms indiscriminately flood t",
-      "authors": [
-        "Yuheng Shi",
-        "Xiaohuan Pei",
-        "Linfeng Wen",
-        "Minjing Dong",
-        "Chang Xu"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.04746",
-      "title": "Think in Strokes, Not Pixels: Process-Driven Image Generation via Interleaved Reasoning",
-      "url": "https://huggingface.co/papers/2604.04746",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-07T20:00:00.000Z",
-      "abstract": "Humans paint images incrementally: they plan a global layout, sketch a coarse draft, inspect, and refine details, and most importantly, each step is grounded in the evolving visual states. However, ca",
-      "authors": [
-        "Lei Zhang",
-        "Junjiao Tian",
-        "Zhipeng Fan",
-        "Kunpeng Li",
-        "Jialiang Wang"
+        "Jianhui Liu",
+        "Haoze Sun",
+        "Wenbo Li",
+        "Yanbing Zhang",
+        "Rui Yang"
       ],
       "tags": [],
       "score": 6,
@@ -163,25 +51,28 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.07340",
-      "title": "TC-AE: Unlocking Token Capacity for Deep Compression Autoencoders",
-      "url": "https://huggingface.co/papers/2604.07340",
+      "id": "hf_paper_2604.07429",
+      "title": "GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents",
+      "url": "https://huggingface.co/papers/2604.07429",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-07T20:00:00.000Z",
-      "abstract": "We propose TC-AE, a ViT-based architecture for deep compression autoencoders. Existing methods commonly increase the channel number of latent representations to maintain reconstruction quality under h",
+      "abstract": "Towards an embodied generalist for real-world interaction, Multimodal Large Language Model (MLLM) agents still suffer from challenging latency, sparse feedback, and irreversible mistakes. Video games",
       "authors": [
-        "Teng Li",
-        "Ziyuan Huang",
-        "Cong Chen",
-        "Yangfu Li",
-        "Yuanhuiyi Lyu"
+        "Mingyu Ouyang",
+        "Siyuan Hu",
+        "Kevin Qinghong Lin",
+        "Hwee Tou Ng",
+        "Mike Zheng Shou"
       ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "tags": [
+        "multimodal",
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -189,27 +80,27 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.06834",
-      "title": "On the Step Length Confounding in LLM Reasoning Data Selection",
-      "url": "https://huggingface.co/papers/2604.06834",
+      "id": "hf_paper_2604.07430",
+      "title": "HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents",
+      "url": "https://huggingface.co/papers/2604.07430",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-07T20:00:00.000Z",
-      "abstract": "Large reasoning models have recently demonstrated strong performance on complex tasks that require long chain-of-thought reasoning, through supervised fine-tuning on large-scale and high-quality datas",
+      "abstract": "We introduce HY-Embodied-0.5, a family of foundation models specifically designed for real-world embodied agents. To bridge the gap between general Vision-Language Models (VLMs) and the demands of emb",
       "authors": [
-        "Bing Wang",
-        "Rui Miao",
-        "Chen Shen",
-        "Shaotian Yan",
-        "Kaiyuan Liu"
+        "Tencent Robotics X",
+        "HY Vision Team",
+        "Xumin Yu",
+        "Zuyan Liu",
+        "Ziyi Wang"
       ],
       "tags": [
-        "llm"
+        "agent"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
