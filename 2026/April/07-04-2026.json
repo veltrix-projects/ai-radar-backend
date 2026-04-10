@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-10T15:11:45.218Z",
+  "generatedAt": "2026-04-10T16:11:46.731Z",
   "date": "07-04-2026",
-  "count": 14,
+  "count": 15,
   "summary": null,
   "items": [
     {
@@ -207,6 +207,34 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.06377",
+      "title": "The Master Key Hypothesis: Unlocking Cross-Model Capability Transfer via Linear Subspace Alignment",
+      "url": "https://huggingface.co/papers/2604.06377",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-07T15:02:10.000Z",
+      "abstract": "We investigate whether post-trained capabilities can be transferred across models without retraining, with a focus on transfer across different model scales. We propose the Master Key Hypothesis, whic",
+      "authors": [
+        "Rishab Balasubramanian",
+        "Pin-Jie Lin",
+        "Rituraj Sharma",
+        "Anjie Fang",
+        "Fardin Abdi"
+      ],
+      "tags": [
+        "alignment"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
