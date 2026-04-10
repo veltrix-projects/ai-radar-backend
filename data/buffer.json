@@ -5118,5 +5118,133 @@
     "stars": 0,
     "votes": 0,
     "points": 0
+  },
+  {
+    "id": "hf_paper_2604.08172",
+    "title": "On the Global Photometric Alignment for Low-Level Vision",
+    "url": "https://huggingface.co/papers/2604.08172",
+    "source": "HuggingFace Papers",
+    "sourceIcon": "🤗",
+    "type": "research",
+    "timestamp": "2026-04-08T20:00:00.000Z",
+    "abstract": "Supervised low-level vision models rely on pixel-wise losses against paired references, yet paired training sets exhibit per-pair photometric inconsistency, say, different image pairs demand different",
+    "authors": [
+      "Mingjia Li",
+      "Tianle Du",
+      "Hainuo Wang",
+      "Qiming Hu",
+      "Xiaojie Guo"
+    ],
+    "tags": [
+      "alignment"
+    ],
+    "score": 6,
+    "priority": "MEDIUM",
+    "sentiment": "neutral",
+    "downloads": 0,
+    "likes": 0,
+    "stars": 0,
+    "votes": 0,
+    "points": 0
+  },
+  {
+    "id": "hf_paper_2604.08064",
+    "title": "ImplicitMemBench: Measuring Unconscious Behavioral Adaptation in Large Language Models",
+    "url": "https://huggingface.co/papers/2604.08064",
+    "source": "HuggingFace Papers",
+    "sourceIcon": "🤗",
+    "type": "research",
+    "timestamp": "2026-04-08T20:00:00.000Z",
+    "abstract": "Existing memory benchmarks for LLM agents evaluate explicit recall of facts, yet overlook implicit memory where experience becomes automated behavior without conscious retrieval. This gap is critical:",
+    "authors": [
+      "Chonghan Qin",
+      "Xiachong Feng",
+      "Weitao Ma",
+      "Xiaocheng Feng",
+      "Lingpeng Kong"
+    ],
+    "tags": [],
+    "score": 6,
+    "priority": "MEDIUM",
+    "sentiment": "neutral",
+    "downloads": 0,
+    "likes": 0,
+    "stars": 0,
+    "votes": 0,
+    "points": 0
+  },
+  {
+    "id": "hf_paper_2604.07427",
+    "title": "Personalizing Text-to-Image Generation to Individual Taste",
+    "url": "https://huggingface.co/papers/2604.07427",
+    "source": "HuggingFace Papers",
+    "sourceIcon": "🤗",
+    "type": "research",
+    "timestamp": "2026-04-07T20:00:00.000Z",
+    "abstract": "Modern text-to-image (T2I) models generate high-fidelity visuals but remain indifferent to individual user preferences. While existing reward models optimize for \"average\" human appeal, they fail to c",
+    "authors": [
+      "Anne-Sofie Maerten",
+      "Juliane Verwiebe",
+      "Shyamgopal Karthik",
+      "Ameya Prabhu",
+      "Johan Wagemans"
+    ],
+    "tags": [
+      "text-to-image"
+    ],
+    "score": 6,
+    "priority": "MEDIUM",
+    "sentiment": "neutral",
+    "downloads": 0,
+    "likes": 0,
+    "stars": 0,
+    "votes": 0,
+    "points": 0
+  },
+  {
+    "id": "hf_paper_2604.06938",
+    "title": "POS-ISP: Pipeline Optimization at the Sequence Level for Task-aware ISP",
+    "url": "https://huggingface.co/papers/2604.06938",
+    "source": "HuggingFace Papers",
+    "sourceIcon": "🤗",
+    "type": "research",
+    "timestamp": "2026-04-07T20:00:00.000Z",
+    "abstract": "Recent work has explored optimizing image signal processing (ISP) pipelines for various tasks by composing predefined modules and adapting them to task-specific objectives. However, jointly optimizing",
+    "authors": [
+      "Jiyun Won",
+      "Heemin Yang",
+      "Woohyeok Kim",
+      "Jungseul Ok",
+      "Sunghyun Cho"
+    ],
+    "tags": [],
+    "score": 6,
+    "priority": "MEDIUM",
+    "sentiment": "neutral",
+    "downloads": 0,
+    "likes": 0,
+    "stars": 0,
+    "votes": 0,
+    "points": 0
+  },
+  {
+    "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+    "title": "Meta has a competitive AI model but loses its open-source identity",
+    "url": "https://www.artificialintelligence-news.com/news/meta-muse-spark-ai-model-open-source/",
+    "source": "AI News",
+    "sourceIcon": "🤖",
+    "type": "news",
+    "timestamp": "2026-04-10T08:00:00.000Z",
+    "abstract": "The open-source AI movement has never lacked for options. Mistral, Falcon, and a growing field of open-weight models have been available to developers for years. But when Meta threw its weight behind",
+    "authors": [],
+    "tags": [],
+    "score": 8,
+    "priority": "HIGH",
+    "sentiment": "positive",
+    "downloads": 0,
+    "likes": 0,
+    "stars": 0,
+    "votes": 0,
+    "points": 0
   }
 ]
