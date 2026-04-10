@@ -1,9 +1,54 @@
 {
-  "generatedAt": "2026-04-10T04:26:38.826Z",
+  "generatedAt": "2026-04-10T08:04:55.729Z",
   "date": "08-04-2026",
-  "count": 33,
+  "count": 41,
   "summary": null,
   "items": [
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "A Comprehensive Implementation Guide to ModelScope for Model Search, Inference, Fine-Tuning, Evaluation, and Export",
+      "url": "https://www.marktechpost.com/2026/04/08/a-comprehensive-implementation-guide-to-modelscope-for-model-search-inference-fine-tuning-evaluation-and-export/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-04-08T22:43:24.000Z",
+      "abstract": "In this tutorial, we explore ModelScope through a practical, end-to-end workflow that runs smoothly on Colab. We begin by setting up the environment, verifying dependencies, and confirming GPU availab",
+      "authors": [],
+      "tags": [
+        "fine-tuning",
+        "inference"
+      ],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Meet OSGym: A New OS Infrastructure Framework That Manages 1,000+ Replicas at $0.23/Day for Computer Use Agent Research",
+      "url": "https://www.marktechpost.com/2026/04/08/meet-osgym-a-new-os-infrastructure-framework-that-manages-1000-replicas-at-0-23-day-for-computer-use-agent-research/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-04-08T21:54:44.000Z",
+      "abstract": "Training AI agents that can actually use a computer — opening apps, clicking buttons, browsing the web, writing code — is one of the hardest infrastructure problems in modern AI. It&#8217;s not a data",
+      "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "techcrunch_ai_https%3A%2F%2Ftechcrunch.com%2F2026%2F04",
       "title": "Poke makes using AI agents as easy as sending a text",
@@ -56,6 +101,62 @@
       "timestamp": "2026-04-08T20:01:33.000Z",
       "abstract": "Generative AI",
       "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.08168",
+      "title": "ViVa: A Video-Generative Value Model for Robot Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2604.08168",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-08T20:00:00.000Z",
+      "abstract": "Vision-language-action (VLA) models have advanced robot manipulation through large-scale pretraining, but real-world deployment remains challenging due to partial observability and delayed feedback. R",
+      "authors": [
+        "Jindi Lv",
+        "Hao Li",
+        "Jie Li",
+        "Yifei Nie",
+        "Fankun Kong"
+      ],
+      "tags": [
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.08523",
+      "title": "ClawBench: Can AI Agents Complete Everyday Online Tasks?",
+      "url": "https://huggingface.co/papers/2604.08523",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-08T20:00:00.000Z",
+      "abstract": "AI agents may be able to automate your inbox, but can they automate other routine aspects of your life? Everyday online tasks offer a realistic yet unsolved testbed for evaluating the next generation",
+      "authors": [
+        "Yuxuan Zhang",
+        "Yubo Wang",
+        "Yipeng Zhu",
+        "Penghui Du",
+        "Junwen Miao"
+      ],
       "tags": [
         "agent"
       ],
@@ -421,23 +522,23 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.08516",
-      "title": "MolmoWeb: Open Visual Web Agent and Open Data for the Open Web",
-      "url": "https://huggingface.co/papers/2604.08516",
+      "id": "hf_paper_2604.08172",
+      "title": "On the Global Photometric Alignment for Low-Level Vision",
+      "url": "https://huggingface.co/papers/2604.08172",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-08T20:00:00.000Z",
-      "abstract": "Web agents--autonomous systems that navigate and execute tasks on the web on behalf of users--have the potential to transform how people interact with the digital world. However, the most capable web",
+      "abstract": "Supervised low-level vision models rely on pixel-wise losses against paired references, yet paired training sets exhibit per-pair photometric inconsistency, say, different image pairs demand different",
       "authors": [
-        "Tanmay Gupta",
-        "Piper Wolters",
-        "Zixian Ma",
-        "Peter Sushko",
-        "Rock Yuren Pang"
+        "Mingjia Li",
+        "Tianle Du",
+        "Hainuo Wang",
+        "Qiming Hu",
+        "Xiaojie Guo"
       ],
       "tags": [
-        "agent"
+        "alignment"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -449,27 +550,25 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.08539",
-      "title": "OpenVLThinkerV2: A Generalist Multimodal Reasoning Model for Multi-domain Visual Tasks",
-      "url": "https://huggingface.co/papers/2604.08539",
+      "id": "hf_paper_2604.08064",
+      "title": "ImplicitMemBench: Measuring Unconscious Behavioral Adaptation in Large Language Models",
+      "url": "https://huggingface.co/papers/2604.08064",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-08T20:00:00.000Z",
-      "abstract": "Group Relative Policy Optimization (GRPO) has emerged as the de facto Reinforcement Learning (RL) objective driving recent advancements in Multimodal Large Language Models. However, extending this suc",
+      "abstract": "Existing memory benchmarks for LLM agents evaluate explicit recall of facts, yet overlook implicit memory where experience becomes automated behavior without conscious retrieval. This gap is critical:",
       "authors": [
-        "Wenbo Hu",
-        "Xin Chen",
-        "Yan Gao-Tian",
-        "Yihe Deng",
-        "Nanyun Peng"
+        "Chonghan Qin",
+        "Xiachong Feng",
+        "Weitao Ma",
+        "Xiaocheng Feng",
+        "Lingpeng Kong"
       ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -765,6 +864,71 @@
       "points": 0
     },
     {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "AI&#8217;s software development success and central management needs",
+      "url": "https://www.artificialintelligence-news.com/news/ai-workflows-developer-success-and-central-project-management-needs/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-04-08T10:43:00.000Z",
+      "abstract": "A survey carried out by OutSystems, The State of AI Development 2026 [email wall], argues that AI has moved into early production phase for many enterprises, primarily inside the IT function. The surv",
+      "authors": [],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "Microsoft open-source toolkit secures AI agents at runtime",
+      "url": "https://www.artificialintelligence-news.com/news/microsoft-open-source-toolkit-secures-ai-agents-at-runtime/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-04-08T10:23:53.000Z",
+      "abstract": "A new open-source toolkit from Microsoft focuses on runtime security to force strict governance onto enterprise AI agents. The release tackles a growing anxiety: autonomous language models are now exe",
+      "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Z.AI Introduces GLM-5.1: An Open-Weight 754B Agentic Model That Achieves SOTA on SWE-Bench Pro and Sustains 8-Hour Autonomous Execution",
+      "url": "https://www.marktechpost.com/2026/04/08/z-ai-introduces-glm-5-1-an-open-weight-754b-agentic-model-that-achieves-sota-on-swe-bench-pro-and-sustains-8-hour-autonomous-execution/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-04-08T08:19:10.000Z",
+      "abstract": "Z.AI, the AI platform developed by the team behind the GLM model family, has released GLM-5.1 — its next-generation flagship model developed specifically for agentic engineering. Unlike models optimiz",
+      "authors": [],
+      "tags": [
+        "agent",
+        "autonomous"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fintro",
       "title": "Introducing the Child Safety Blueprint",
       "url": "https://openai.com/index/introducing-child-safety-blueprint",
@@ -780,6 +944,29 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "How to Combine Google Search, Google Maps, and Custom Functions in a Single Gemini API Call With Context Circulation, Parallel Tool IDs, and Multi-Step Agentic Chains",
+      "url": "https://www.marktechpost.com/2026/04/07/how-to-combine-google-search-google-maps-and-custom-functions-in-a-single-gemini-api-call-with-context-circulation-parallel-tool-ids-and-multi-step-agentic-chains/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-04-08T01:56:34.000Z",
+      "abstract": "In this tutorial, we explore the latest Gemini API tooling updates Google announced in March 2026, specifically the ability to combine built-in tools like Google Search and Google Maps with custom fun",
+      "authors": [],
+      "tags": [
+        "gemini",
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
