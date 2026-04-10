@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-10T11:40:19.323Z",
+  "generatedAt": "2026-04-10T12:48:18.892Z",
   "date": "08-04-2026",
-  "count": 36,
+  "count": 35,
   "summary": null,
   "items": [
     {
@@ -114,6 +114,60 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2604.08523",
+      "title": "ClawBench: Can AI Agents Complete Everyday Online Tasks?",
+      "url": "https://huggingface.co/papers/2604.08523",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-08T20:00:00.000Z",
+      "abstract": "AI agents may be able to automate your inbox, but can they automate other routine aspects of your life? Everyday online tasks offer a realistic yet unsolved testbed for evaluating the next generation",
+      "authors": [
+        "Yuxuan Zhang",
+        "Yubo Wang",
+        "Yipeng Zhu",
+        "Penghui Du",
+        "Junwen Miao"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.08120",
+      "title": "Small Vision-Language Models are Smart Compressors for Long Video Understanding",
+      "url": "https://huggingface.co/papers/2604.08120",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-08T20:00:00.000Z",
+      "abstract": "Adapting Multimodal Large Language Models (MLLMs) for hour-long videos is bottlenecked by context limits. Dense visual streams saturate token budgets and exacerbate the lost-in-the-middle phenomenon.",
+      "authors": [
+        "Junjie Fei",
+        "Jun Chen",
+        "Zechun Liu",
+        "Yunyang Xiong",
+        "Chong Zhou"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2601.20524",
       "title": "AnomalyVFM -- Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors",
       "url": "https://huggingface.co/papers/2601.20524",
@@ -209,34 +263,6 @@
       ],
       "tags": [
         "reinforcement learning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.08523",
-      "title": "ClawBench: Can AI Agents Complete Everyday Online Tasks?",
-      "url": "https://huggingface.co/papers/2604.08523",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-08T20:00:00.000Z",
-      "abstract": "AI agents may be able to automate your inbox, but can they automate other routine aspects of your life? Everyday online tasks offer a realistic yet unsolved testbed for evaluating the next generation",
-      "authors": [
-        "Yuxuan Zhang",
-        "Yubo Wang",
-        "Yipeng Zhu",
-        "Penghui Du",
-        "Junwen Miao"
-      ],
-      "tags": [
-        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -428,35 +454,6 @@
       "tags": [
         "diffusion",
         "text-to-video"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.08124",
-      "title": "Beyond Stochastic Exploration: What Makes Training Data Valuable for Agentic Search",
-      "url": "https://huggingface.co/papers/2604.08124",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-08T20:00:00.000Z",
-      "abstract": "Reinforcement learning (RL) has become an effective approach for advancing the reasoning capabilities of large language models (LLMs) through the strategic integration of external search engines. Howe",
-      "authors": [
-        "Chuzhan Hao",
-        "Wenfeng Feng",
-        "Guochao Jiang",
-        "Guofeng Quan",
-        "Guohua Liu"
-      ],
-      "tags": [
-        "agent",
-        "training"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -709,26 +706,6 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fai-arti",
-      "title": "The vibes are off at OpenAI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/908513/the-vibes-are-off-at-openai",
-      "source": "The Verge AI",
-      "sourceIcon": "🔺",
-      "type": "news",
-      "timestamp": "2026-04-08T13:47:38.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
