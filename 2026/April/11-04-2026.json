@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-12T10:30:15.544Z",
+  "generatedAt": "2026-04-12T11:27:14.582Z",
   "date": "11-04-2026",
-  "count": 27,
+  "count": 31,
   "summary": null,
   "items": [
     {
@@ -31,7 +31,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 168665,
+      "stars": 168670,
       "votes": 0,
       "points": 0
     },
@@ -62,7 +62,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 131356,
+      "stars": 131363,
       "votes": 0,
       "points": 0
     },
@@ -152,6 +152,26 @@
       "points": 0
     },
     {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Researchers from MIT, NVIDIA, and Zhejiang University Propose TriAttention: A KV Cache Compression Method That Matches Full Attention at 2.5× Higher Throughput",
+      "url": "https://www.marktechpost.com/2026/04/11/researchers-from-mit-nvidia-and-zhejiang-university-propose-triattention-a-kv-cache-compression-method-that-matches-full-attention-at-2-5x-higher-throughput/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-04-11T20:10:41.000Z",
+      "abstract": "Long-chain reasoning is one of the most compute-intensive tasks in modern large language models. When a model like DeepSeek-R1 or Qwen3 works through a complex math problem, it can generate tens of th",
+      "authors": [],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "reddit_LocalLLaMA_t3_1sithlm",
       "title": "If you haven't yet given Gemma 4 a go...do it today",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sithlm/if_you_havent_yet_given_gemma_4_a_godo_it_today/",
@@ -192,6 +212,28 @@
       "points": 0
     },
     {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "How to Build a Secure Local-First Agent Runtime with OpenClaw Gateway, Skills, and Controlled Tool Execution",
+      "url": "https://www.marktechpost.com/2026/04/11/how-to-build-a-secure-local-first-agent-runtime-with-openclaw-gateway-skills-and-controlled-tool-execution/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-04-11T18:10:59.000Z",
+      "abstract": "In this tutorial, we build and operate a fully local, schema-valid OpenClaw runtime. We configure the OpenClaw gateway with strict loopback binding, set up authenticated model access through environme",
+      "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "gh_612354784",
       "title": "ggml-org/llama.cpp — LLM inference in C/C++",
       "url": "https://github.com/ggml-org/llama.cpp",
@@ -210,7 +252,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 103227,
+      "stars": 103233,
       "votes": 0,
       "points": 0
     },
@@ -303,7 +345,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 107806,
+      "stars": 107826,
       "votes": 0,
       "points": 0
     },
@@ -318,6 +360,29 @@
       "abstract": "",
       "authors": [],
       "tags": [
+        "qwen"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "reddit_LocalLLaMA_t3_1simsqp",
+      "title": "Run Qwen3.5-397B-A13B with vLLM and 8xR9700",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1simsqp/run_qwen35397ba13b_with_vllm_and_8xr9700/",
+      "source": "Reddit r/LocalLLaMA",
+      "sourceIcon": "🔴",
+      "type": "news",
+      "timestamp": "2026-04-11T15:56:27+00:00",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "llm",
         "qwen"
       ],
       "score": 8,
@@ -532,6 +597,26 @@
       "points": 0
     },
     {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "How Knowledge Distillation Compresses Ensemble Intelligence into a Single Deployable AI Model",
+      "url": "https://www.marktechpost.com/2026/04/11/how-knowledge-distillation-compresses-ensemble-intelligence-into-a-single-deployable-ai-model/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-04-11T07:33:41.000Z",
+      "abstract": "Complex prediction problems often lead to ensembles because combining multiple models improves accuracy by reducing variance and capturing diverse patterns. However, these ensembles are impractical in",
+      "authors": [],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "ars_technica_https%3A%2F%2Farstechnica.com%2Fspace%2F",
       "title": "The Artemis II mission has ended. Where does NASA go from here?",
       "url": "https://arstechnica.com/space/2026/04/the-artemis-ii-mission-has-ended-where-does-nasa-go-from-here/",
@@ -578,7 +663,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 159226,
+      "stars": 159227,
       "votes": 0,
       "points": 0
     },
