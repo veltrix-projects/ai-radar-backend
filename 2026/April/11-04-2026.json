@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-12T07:47:53.311Z",
+  "generatedAt": "2026-04-12T08:37:55.462Z",
   "date": "11-04-2026",
-  "count": 30,
+  "count": 33,
   "summary": null,
   "items": [
     {
@@ -31,7 +31,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 168653,
+      "stars": 168660,
       "votes": 0,
       "points": 0
     },
@@ -62,7 +62,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 131337,
+      "stars": 131344,
       "votes": 0,
       "points": 0
     },
@@ -152,6 +152,26 @@
       "points": 0
     },
     {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Researchers from MIT, NVIDIA, and Zhejiang University Propose TriAttention: A KV Cache Compression Method That Matches Full Attention at 2.5× Higher Throughput",
+      "url": "https://www.marktechpost.com/2026/04/11/researchers-from-mit-nvidia-and-zhejiang-university-propose-triattention-a-kv-cache-compression-method-that-matches-full-attention-at-2-5x-higher-throughput/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-04-11T20:10:41.000Z",
+      "abstract": "Long-chain reasoning is one of the most compute-intensive tasks in modern large language models. When a model like DeepSeek-R1 or Qwen3 works through a complex math problem, it can generate tens of th",
+      "authors": [],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "reddit_LocalLLaMA_t3_1sithlm",
       "title": "If you haven't yet given Gemma 4 a go...do it today",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sithlm/if_you_havent_yet_given_gemma_4_a_godo_it_today/",
@@ -192,6 +212,28 @@
       "points": 0
     },
     {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "How to Build a Secure Local-First Agent Runtime with OpenClaw Gateway, Skills, and Controlled Tool Execution",
+      "url": "https://www.marktechpost.com/2026/04/11/how-to-build-a-secure-local-first-agent-runtime-with-openclaw-gateway-skills-and-controlled-tool-execution/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-04-11T18:10:59.000Z",
+      "abstract": "In this tutorial, we build and operate a fully local, schema-valid OpenClaw runtime. We configure the OpenClaw gateway with strict loopback binding, set up authenticated model access through environme",
+      "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "gh_612354784",
       "title": "ggml-org/llama.cpp — LLM inference in C/C++",
       "url": "https://github.com/ggml-org/llama.cpp",
@@ -210,7 +252,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 103206,
+      "stars": 103211,
       "votes": 0,
       "points": 0
     },
@@ -303,7 +345,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 107737,
+      "stars": 107769,
       "votes": 0,
       "points": 0
     },
@@ -601,7 +643,27 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 133215,
+      "stars": 133222,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "How Knowledge Distillation Compresses Ensemble Intelligence into a Single Deployable AI Model",
+      "url": "https://www.marktechpost.com/2026/04/11/how-knowledge-distillation-compresses-ensemble-intelligence-into-a-single-deployable-ai-model/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-04-11T07:33:41.000Z",
+      "abstract": "Complex prediction problems often lead to ensembles because combining multiple models improves accuracy by reducing variance and capturing diverse patterns. However, these ensembles are impractical in",
+      "authors": [],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
       "votes": 0,
       "points": 0
     },
@@ -652,7 +714,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 159219,
+      "stars": 159224,
       "votes": 0,
       "points": 0
     },
