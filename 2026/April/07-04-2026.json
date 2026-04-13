@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-13T02:32:10.669Z",
+  "generatedAt": "2026-04-13T05:33:03.131Z",
   "date": "07-04-2026",
-  "count": 15,
+  "count": 13,
   "summary": null,
   "items": [
     {
@@ -18,6 +18,61 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.07413",
+      "title": "FORGE:Fine-grained Multimodal Evaluation for Manufacturing Scenarios",
+      "url": "https://huggingface.co/papers/2604.07413",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-07T20:00:00.000Z",
+      "abstract": "The manufacturing sector is increasingly adopting Multimodal Large Language Models (MLLMs) to transition from simple perception to autonomous execution, yet current evaluations fail to reflect the rig",
+      "authors": [
+        "Xiangru Jian",
+        "Hao Xu",
+        "Wei Pang",
+        "Xinjian Zhao",
+        "Chengyu Tao"
+      ],
+      "tags": [
+        "multimodal"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.06870",
+      "title": "RefineAnything: Multimodal Region-Specific Refinement for Perfect Local Details",
+      "url": "https://huggingface.co/papers/2604.06870",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-07T20:00:00.000Z",
+      "abstract": "We introduce region-specific image refinement as a dedicated problem setting: given an input image and a user-specified region (e.g., a scribble mask or a bounding box), the goal is to restore fine-gr",
+      "authors": [
+        "Dewei Zhou",
+        "You Li",
+        "Zongxin Yang",
+        "Yi Yang"
+      ],
+      "tags": [
+        "multimodal"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -66,112 +121,6 @@
         "Samer Abualhanud",
         "Christian Grannemann",
         "Max Mehltretter"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.07427",
-      "title": "Personalizing Text-to-Image Generation to Individual Taste",
-      "url": "https://huggingface.co/papers/2604.07427",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-07T20:00:00.000Z",
-      "abstract": "Modern text-to-image (T2I) models generate high-fidelity visuals but remain indifferent to individual user preferences. While existing reward models optimize for \"average\" human appeal, they fail to c",
-      "authors": [
-        "Anne-Sofie Maerten",
-        "Juliane Verwiebe",
-        "Shyamgopal Karthik",
-        "Ameya Prabhu",
-        "Johan Wagemans"
-      ],
-      "tags": [
-        "text-to-image"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.06938",
-      "title": "POS-ISP: Pipeline Optimization at the Sequence Level for Task-aware ISP",
-      "url": "https://huggingface.co/papers/2604.06938",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-07T20:00:00.000Z",
-      "abstract": "Recent work has explored optimizing image signal processing (ISP) pipelines for various tasks by composing predefined modules and adapting them to task-specific objectives. However, jointly optimizing",
-      "authors": [
-        "Jiyun Won",
-        "Heemin Yang",
-        "Woohyeok Kim",
-        "Jungseul Ok",
-        "Sunghyun Cho"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.06628",
-      "title": "Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability",
-      "url": "https://huggingface.co/papers/2604.06628",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-07T20:00:00.000Z",
-      "abstract": "A prevailing narrative in LLM post-training holds that supervised finetuning (SFT) memorizes while reinforcement learning (RL) generalizes. We revisit this claim for reasoning SFT with long chain-of-t",
-      "authors": [
-        "Qihan Ren",
-        "Peng Wang",
-        "Ruikun Cai",
-        "Shuai Shao",
-        "Dadi Guo"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.07296",
-      "title": "OpenSpatial: A Principled Data Engine for Empowering Spatial Intelligence",
-      "url": "https://huggingface.co/papers/2604.07296",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-07T20:00:00.000Z",
-      "abstract": "Spatial understanding is a fundamental cornerstone of human-level intelligence. Nonetheless, current research predominantly focuses on domain-specific data production, leaving a critical void: the abs",
-      "authors": [
-        "Jianhui Liu",
-        "Haoze Sun",
-        "Wenbo Li",
-        "Yanbing Zhang",
-        "Rui Yang"
       ],
       "tags": [],
       "score": 6,
