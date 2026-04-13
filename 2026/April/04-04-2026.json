@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-04-13T12:13:05.768Z",
+  "generatedAt": "2026-04-13T20:29:22.182Z",
   "date": "04-04-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2602.06057",
-      "title": "QEIL v2: Heterogeneous Computing for Edge Intelligence via Roofline-Derived Pareto-Optimal Energy Modeling and Multi-Objective Orchestration",
-      "url": "https://huggingface.co/papers/2602.06057",
+      "id": "hf_paper_2604.04987",
+      "title": "Cactus: Accelerating Auto-Regressive Decoding with Constrained Acceptance Speculative Sampling",
+      "url": "https://huggingface.co/papers/2604.04987",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-04T20:00:00.000Z",
-      "abstract": "Deploying large language models (LLMs) on heterogeneous edge devices demands frameworks that jointly optimize energy efficiency, inference quality, and reliability. Our prior QEIL v1 (Kumar & Jha, 202",
+      "abstract": "Speculative sampling (SpS) has been successful in accelerating the decoding throughput of auto-regressive large language models by leveraging smaller draft models. SpS strictly enforces the generated",
       "authors": [
-        "Satyam Kumar",
-        "Saurabh Jha"
+        "Yongchang Hao",
+        "Lili Mou"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
