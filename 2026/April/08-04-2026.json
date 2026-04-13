@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-13T09:27:51.528Z",
+  "generatedAt": "2026-04-13T11:01:53.424Z",
   "date": "08-04-2026",
-  "count": 18,
+  "count": 15,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,29 @@
       "tags": [
         "agent"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.08641",
+      "title": "On Semiotic-Grounded Interpretive Evaluation of Generative Art",
+      "url": "https://huggingface.co/papers/2604.08641",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-08T20:00:00.000Z",
+      "abstract": "Interpretation is essential to deciphering the language of art: audiences communicate with artists by recovering meaning from visual artifacts. However, current Generative Art (GenArt) evaluators rema",
+      "authors": [
+        "Ruixiang Jiang",
+        "Changwen Chen"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -93,60 +116,6 @@
         "Sehyun Chun",
         "Seokhee Hong",
         "Junwon Hwang"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.08523",
-      "title": "ClawBench: Can AI Agents Complete Everyday Online Tasks?",
-      "url": "https://huggingface.co/papers/2604.08523",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-08T20:00:00.000Z",
-      "abstract": "AI agents may be able to automate your inbox, but can they automate other routine aspects of your life? Everyday online tasks offer a realistic yet unsolved testbed for evaluating the next generation",
-      "authors": [
-        "Yuxuan Zhang",
-        "Yubo Wang",
-        "Yipeng Zhu",
-        "Penghui Du",
-        "Junwen Miao"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.08120",
-      "title": "Small Vision-Language Models are Smart Compressors for Long Video Understanding",
-      "url": "https://huggingface.co/papers/2604.08120",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-08T20:00:00.000Z",
-      "abstract": "Adapting Multimodal Large Language Models (MLLMs) for hour-long videos is bottlenecked by context limits. Dense visual streams saturate token budgets and exacerbate the lost-in-the-middle phenomenon.",
-      "authors": [
-        "Junjie Fei",
-        "Jun Chen",
-        "Zechun Liu",
-        "Yunyang Xiong",
-        "Chong Zhou"
       ],
       "tags": [],
       "score": 8,
@@ -359,48 +328,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "AI&#8217;s software development success and central management needs",
-      "url": "https://www.artificialintelligence-news.com/news/ai-workflows-developer-success-and-central-project-management-needs/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-04-08T10:43:00.000Z",
-      "abstract": "A survey carried out by OutSystems, The State of AI Development 2026 [email wall], argues that AI has moved into early production phase for many enterprises, primarily inside the IT function. The surv",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "Microsoft open-source toolkit secures AI agents at runtime",
-      "url": "https://www.artificialintelligence-news.com/news/microsoft-open-source-toolkit-secures-ai-agents-at-runtime/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-04-08T10:23:53.000Z",
-      "abstract": "A new open-source toolkit from Microsoft focuses on runtime security to force strict governance onto enterprise AI agents. The release tackles a growing anxiety: autonomous language models are now exe",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
