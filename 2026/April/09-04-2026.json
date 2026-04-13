@@ -1,9 +1,65 @@
 {
-  "generatedAt": "2026-04-13T15:53:17.154Z",
+  "generatedAt": "2026-04-13T16:54:41.175Z",
   "date": "09-04-2026",
   "count": 19,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.09482",
+      "title": "Process Reward Agents for Steering Knowledge-Intensive Reasoning",
+      "url": "https://huggingface.co/papers/2604.09482",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-09T20:00:00.000Z",
+      "abstract": "Reasoning in knowledge-intensive domains remains challenging as intermediate steps are often not locally verifiable: unlike math or code, evaluating step correctness may require synthesizing clues acr",
+      "authors": [
+        "Jiwoong Sohn",
+        "Tomasz Sternal",
+        "Kenneth Styppa",
+        "Torsten Hoefler",
+        "Michael Moor"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.09130",
+      "title": "EquiformerV3: Scaling Efficient, Expressive, and General SE(3)-Equivariant Graph Attention Transformers",
+      "url": "https://huggingface.co/papers/2604.09130",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-09T20:00:00.000Z",
+      "abstract": "As SE(3)-equivariant graph neural networks mature as a core tool for 3D atomistic modeling, improving their efficiency, expressivity, and physical consistency has become a central challenge for large-",
+      "authors": [
+        "Yi-Lun Liao",
+        "Alexander J. Hoffman",
+        "Sabrina C. Shen",
+        "Alexandre Duval",
+        "Sam Walton Norwood"
+      ],
+      "tags": [
+        "transformer"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2604.09237",
       "title": "ScheMatiQ: From Research Question to Structured Data through Interactive Schema Discovery",
@@ -101,60 +157,6 @@
         "Baixin Xu"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.09201",
-      "title": "CT-1: Vision-Language-Camera Models Transfer Spatial Reasoning Knowledge to Camera-Controllable Video Generation",
-      "url": "https://huggingface.co/papers/2604.09201",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-09T20:00:00.000Z",
-      "abstract": "Camera-controllable video generation aims to synthesize videos with flexible and physically plausible camera movements. However, existing methods either provide imprecise camera control from text prom",
-      "authors": [
-        "Haoyu Zhao",
-        "Zihao Zhang",
-        "Jiaxi Gu",
-        "Haoran Chen",
-        "Qingping Zheng"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.09168",
-      "title": "ELT: Elastic Looped Transformers for Visual Generation",
-      "url": "https://huggingface.co/papers/2604.09168",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-09T20:00:00.000Z",
-      "abstract": "We introduce Elastic Looped Transformers (ELT), a highly parameter-efficient class of visual generative models based on a recurrent transformer architecture. While conventional generative models rely",
-      "authors": [
-        "Sahil Goyal",
-        "Swayam Agrawal",
-        "Gautham Govind Anil",
-        "Prateek Jain",
-        "Sujoy Paul"
-      ],
-      "tags": [
-        "transformer"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
