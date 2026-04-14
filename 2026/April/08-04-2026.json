@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-14T17:39:45.548Z",
+  "generatedAt": "2026-04-14T18:59:43.620Z",
   "date": "08-04-2026",
-  "count": 8,
+  "count": 9,
   "summary": null,
   "items": [
     {
@@ -16,6 +16,35 @@
       "authors": [],
       "tags": [
         "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.08706",
+      "title": "Efficient RL Training for LLMs with Experience Replay",
+      "url": "https://huggingface.co/papers/2604.08706",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-08T20:00:00.000Z",
+      "abstract": "While Experience Replay - the practice of storing rollouts and reusing them multiple times during training - is a foundational technique in general RL, it remains largely unexplored in LLM post-traini",
+      "authors": [
+        "Charles Arnal",
+        "Vivien Cabannes",
+        "Taco Cohen",
+        "Julia Kempe",
+        "Remi Munos"
+      ],
+      "tags": [
+        "llm",
+        "training"
       ],
       "score": 6,
       "priority": "MEDIUM",
