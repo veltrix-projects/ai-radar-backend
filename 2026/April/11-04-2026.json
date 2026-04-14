@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-14T00:03:33.171Z",
+  "generatedAt": "2026-04-14T03:46:37.705Z",
   "date": "11-04-2026",
-  "count": 6,
+  "count": 7,
   "summary": null,
   "items": [
     {
@@ -18,6 +18,35 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.10784",
+      "title": "TorchUMM: A Unified Multimodal Model Codebase for Evaluation, Analysis, and Post-training",
+      "url": "https://huggingface.co/papers/2604.10784",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-11T20:00:00.000Z",
+      "abstract": "Recent advances in unified multimodal models (UMMs) have led to a proliferation of architectures capable of understanding, generating, and editing across visual and textual modalities. However, develo",
+      "authors": [
+        "Yinyi Luo",
+        "Wenwen Wang",
+        "Hayes Bai",
+        "Hongyu Zhu",
+        "Hao Chen"
+      ],
+      "tags": [
+        "multimodal",
+        "training"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
