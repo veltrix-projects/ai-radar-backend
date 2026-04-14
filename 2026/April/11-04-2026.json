@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-14T21:11:43.797Z",
+  "generatedAt": "2026-04-14T22:08:44.735Z",
   "date": "11-04-2026",
   "count": 6,
   "summary": null,
@@ -17,6 +17,33 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.10539",
+      "title": "IceCache: Memory-efficient KV-cache Management for Long-Sequence LLMs",
+      "url": "https://huggingface.co/papers/2604.10539",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-11T20:00:00.000Z",
+      "abstract": "Key-Value (KV) cache plays a crucial role in accelerating inference in large language models (LLMs) by storing intermediate attention states and avoiding redundant computation during autoregressive ge",
+      "authors": [
+        "Yuzhen Mao",
+        "Qitong Wang",
+        "Martin Ester",
+        "Ke Li"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -91,34 +118,6 @@
         "Adrian Gwoździej"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.10425",
-      "title": "DiningBench: A Hierarchical Multi-view Benchmark for Perception and Reasoning in the Dietary Domain",
-      "url": "https://huggingface.co/papers/2604.10425",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-11T20:00:00.000Z",
-      "abstract": "Recent advancements in Vision-Language Models (VLMs) have revolutionized general visual understanding. However, their application in the food domain remains constrained by benchmarks that rely on coar",
-      "authors": [
-        "Song Jin",
-        "Juntian Zhang",
-        "Xun Zhang",
-        "Zeying Tian",
-        "Fei Jiang"
-      ],
-      "tags": [
-        "benchmark"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
