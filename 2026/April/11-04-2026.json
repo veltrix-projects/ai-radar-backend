@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-14T05:55:31.350Z",
+  "generatedAt": "2026-04-14T07:19:56.114Z",
   "date": "11-04-2026",
-  "count": 9,
+  "count": 10,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,34 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.10425",
+      "title": "DiningBench: A Hierarchical Multi-view Benchmark for Perception and Reasoning in the Dietary Domain",
+      "url": "https://huggingface.co/papers/2604.10425",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-11T20:00:00.000Z",
+      "abstract": "Recent advancements in Vision-Language Models (VLMs) have revolutionized general visual understanding. However, their application in the food domain remains constrained by benchmarks that rely on coar",
+      "authors": [
+        "Song Jin",
+        "Juntian Zhang",
+        "Xun Zhang",
+        "Zeying Tian",
+        "Fei Jiang"
+      ],
+      "tags": [
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

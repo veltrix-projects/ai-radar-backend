@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-14T05:55:31.349Z",
+  "generatedAt": "2026-04-14T07:19:56.114Z",
   "date": "12-04-2026",
-  "count": 23,
+  "count": 22,
   "summary": null,
   "items": [
     {
@@ -60,6 +60,34 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.11666",
+      "title": "Playing Along: Learning a Double-Agent Defender for Belief Steering via Theory of Mind",
+      "url": "https://huggingface.co/papers/2604.11666",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-12T20:00:00.000Z",
+      "abstract": "As large language models (LLMs) become the engine behind conversational systems, their ability to reason about the intentions and states of their dialogue partners (i.e., form and use a theory-of-mind",
+      "authors": [
+        "Hanqi Xiao",
+        "Vaidehi Patil",
+        "Zaid Khan",
+        "Hyunji Lee",
+        "Elias Stengel-Eskin"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -345,59 +373,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.09459",
-      "title": "From Reasoning to Agentic: Credit Assignment in Reinforcement Learning for Large Language Models",
-      "url": "https://huggingface.co/papers/2604.09459",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-12T20:00:00.000Z",
-      "abstract": "Reinforcement learning (RL) for large language models (LLMs) increasingly relies on sparse, outcome-level rewards -- yet determining which actions within a long trajectory caused the outcome remains d",
-      "authors": [
-        "Chenchen Zhang"
-      ],
-      "tags": [
-        "agent",
-        "reinforcement learning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.11641",
-      "title": "CodeTracer: Towards Traceable Agent States",
-      "url": "https://huggingface.co/papers/2604.11641",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-12T20:00:00.000Z",
-      "abstract": "Code agents are advancing rapidly, but debugging them is becoming increasingly difficult. As frameworks orchestrate parallel tool calls and multi-stage workflows over complex tasks, making the agent's",
-      "authors": [
-        "Han Li",
-        "Yifan Yao",
-        "Letian Zhu",
-        "Rili Feng",
-        "Hongyi Ye"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "techcrunch_ai_https%3A%2F%2Ftechcrunch.com%2F2026%2F04",
       "title": "Apple reportedly testing four designs for upcoming smart glasses",
       "url": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
@@ -508,7 +483,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 109311,
+      "stars": 109318,
       "votes": 0,
       "points": 0
     },
