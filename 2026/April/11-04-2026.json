@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-14T03:46:37.705Z",
+  "generatedAt": "2026-04-14T05:55:31.350Z",
   "date": "11-04-2026",
-  "count": 7,
+  "count": 9,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,64 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.10480",
+      "title": "Tracing the Roots: A Multi-Agent Framework for Uncovering Data Lineage in Post-Training LLMs",
+      "url": "https://huggingface.co/papers/2604.10480",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-11T20:00:00.000Z",
+      "abstract": "Post-training data plays a pivotal role in shaping the capabilities of Large Language Models (LLMs), yet datasets are often treated as isolated artifacts, overlooking the systemic connections that und",
+      "authors": [
+        "Yu Li",
+        "Xiaoran Shang",
+        "Qizhi Pei",
+        "Yun Zhu",
+        "Xin Gao"
+      ],
+      "tags": [
+        "llm",
+        "agent",
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.10718",
+      "title": "SciPredict: Can LLMs Predict the Outcomes of Scientific Experiments in Natural Sciences?",
+      "url": "https://huggingface.co/papers/2604.10718",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-11T20:00:00.000Z",
+      "abstract": "Accelerating scientific discovery requires the identification of which experiments would yield the best outcomes before committing resources to costly physical validation. While existing benchmarks ev",
+      "authors": [
+        "Udari Madhushani Sehwag",
+        "Elaine Lau",
+        "Haniyeh Ehsani Oskouie",
+        "Shayan Shabihi",
+        "Erich Liang"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

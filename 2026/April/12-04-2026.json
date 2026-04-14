@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-14T03:46:37.705Z",
+  "generatedAt": "2026-04-14T05:55:31.349Z",
   "date": "12-04-2026",
-  "count": 21,
+  "count": 23,
   "summary": null,
   "items": [
     {
@@ -60,6 +60,145 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.11716",
+      "title": "SWE-AGILE: A Software Agent Framework for Efficiently Managing Dynamic Reasoning Context",
+      "url": "https://huggingface.co/papers/2604.11716",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-12T20:00:00.000Z",
+      "abstract": "Prior representative ReAct-style approaches in autonomous Software Engineering (SWE) typically lack the explicit System-2 reasoning required for deep analysis and handling complex edge cases. While re",
+      "authors": [
+        "Shuquan Lian",
+        "Juncheng Liu",
+        "Yazhe Chen",
+        "Yuhong Chen",
+        "Hui Li"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.11521",
+      "title": "Continuous Adversarial Flow Models",
+      "url": "https://huggingface.co/papers/2604.11521",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-12T20:00:00.000Z",
+      "abstract": "We propose continuous adversarial flow models, a type of continuous-time flow model trained with an adversarial objective. Unlike flow matching, which uses a fixed mean-squared-error criterion, our ap",
+      "authors": [
+        "Shanchuan Lin",
+        "Ceyuan Yang",
+        "Zhijie Lin",
+        "Hao Chen",
+        "Haoqi Fan"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.11035",
+      "title": "Introspective Diffusion Language Models",
+      "url": "https://huggingface.co/papers/2604.11035",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-12T20:00:00.000Z",
+      "abstract": "Diffusion language models promise parallel generation, yet still lag behind autoregressive (AR) models in quality. We stem this gap to a failure of introspective consistency: AR models agree with thei",
+      "authors": [
+        "Yifan Yu",
+        "Yuqing Jian",
+        "Junxiong Wang",
+        "Zhongzhu Zhou",
+        "Donglin Zhuang"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.10905",
+      "title": "Audio Flamingo Next: Next-Generation Open Audio-Language Models for Speech, Sound, and Music",
+      "url": "https://huggingface.co/papers/2604.10905",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-12T20:00:00.000Z",
+      "abstract": "We present Audio Flamingo Next (AF-Next), the next-generation and most capable large audio-language model in the Audio Flamingo series, designed to advance understanding and reasoning over speech, env",
+      "authors": [
+        "Sreyan Ghosh",
+        "Arushi Goel",
+        "Kaousheik Jayakumar",
+        "Lasha Koroshinadze",
+        "Nishit Anand"
+      ],
+      "tags": [
+        "speech"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.11784",
+      "title": "ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents",
+      "url": "https://huggingface.co/papers/2604.11784",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-12T20:00:00.000Z",
+      "abstract": "GUI agents drive applications through their visual interfaces instead of programmatic APIs, interacting with arbitrary software via taps, swipes, and keystrokes, reaching a long tail of applications t",
+      "authors": [
+        "Fei Tang",
+        "Zhiqiong Lu",
+        "Boxuan Zhang",
+        "Weiming Lu",
+        "Jun Xiao"
+      ],
+      "tags": [
+        "agent",
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -259,83 +398,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.11804",
-      "title": "OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation",
-      "url": "https://huggingface.co/papers/2604.11804",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-12T20:00:00.000Z",
-      "abstract": "In this work, we study Human-Object Interaction Video Generation (HOIVG), which aims to synthesize high-quality human-object interaction videos conditioned on text, reference images, audio, and pose.",
-      "authors": [
-        "Donghao Zhou",
-        "Guisheng Liu",
-        "Hao Yang",
-        "Jiatong Li",
-        "Jingyu Lin"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.11491",
-      "title": "ADD for Multi-Bit Image Watermarking",
-      "url": "https://huggingface.co/papers/2604.11491",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-12T20:00:00.000Z",
-      "abstract": "As generative models enable rapid creation of high-fidelity images, societal concerns about misinformation and authenticity have intensified. A promising remedy is multi-bit image watermarking, which",
-      "authors": [
-        "An Luo",
-        "Jie Ding"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.10949",
-      "title": "Pseudo-Unification: Entropy Probing Reveals Divergent Information Patterns in Unified Multimodal Models",
-      "url": "https://huggingface.co/papers/2604.10949",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-12T20:00:00.000Z",
-      "abstract": "Unified multimodal models (UMMs) were designed to combine the reasoning ability of large language models (LLMs) with the generation capability of vision models. In practice, however, this synergy rema",
-      "authors": [
-        "Songlin Yang",
-        "Xianghao Kong",
-        "Anyi Rao"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "techcrunch_ai_https%3A%2F%2Ftechcrunch.com%2F2026%2F04",
       "title": "Apple reportedly testing four designs for upcoming smart glasses",
       "url": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
@@ -446,7 +508,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 109310,
+      "stars": 109311,
       "votes": 0,
       "points": 0
     },

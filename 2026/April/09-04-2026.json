@@ -1,9 +1,34 @@
 {
-  "generatedAt": "2026-04-14T03:46:37.706Z",
+  "generatedAt": "2026-04-14T05:55:31.351Z",
   "date": "09-04-2026",
-  "count": 18,
+  "count": 15,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.09212",
+      "title": "SPASM: Stable Persona-driven Agent Simulation for Multi-turn Dialogue Generation",
+      "url": "https://huggingface.co/papers/2604.09212",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-09T20:00:00.000Z",
+      "abstract": "Large language models are increasingly deployed in multi-turn settings such as tutoring, support, and counseling, where reliability depends on preserving consistent roles, personas, and goals across l",
+      "authors": [
+        "Han Luo",
+        "Guy Laban"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2604.08921",
       "title": "TAIHRI: Task-Aware 3D Human Keypoints Localization for Close-Range Human-Robot Interaction",
@@ -21,110 +46,6 @@
         "Yong Deng"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.09132",
-      "title": "Strips as Tokens: Artist Mesh Generation with Native UV Segmentation",
-      "url": "https://huggingface.co/papers/2604.09132",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-09T20:00:00.000Z",
-      "abstract": "Recent advancements in autoregressive transformers have demonstrated remarkable potential for generating artist-quality meshes. However, the token ordering strategies employed by existing methods typi",
-      "authors": [
-        "Rui Xu",
-        "Dafei Qin",
-        "Kaichun Qiao",
-        "Qiujie Dong",
-        "Huaijin Pi"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.09181",
-      "title": "MixFlow: Mixed Source Distributions Improve Rectified Flows",
-      "url": "https://huggingface.co/papers/2604.09181",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-09T20:00:00.000Z",
-      "abstract": "Diffusion models and their variations, such as rectified flows, generate diverse and high-quality images, but they are still hindered by slow iterative sampling caused by the highly curved generative",
-      "authors": [
-        "Nazir Nayal",
-        "Christopher Wewer",
-        "Jan Eric Lenssen"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.09527",
-      "title": "Envisioning the Future, One Step at a Time",
-      "url": "https://huggingface.co/papers/2604.09527",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-09T20:00:00.000Z",
-      "abstract": "Accurately anticipating how complex, diverse scenes will evolve requires models that represent uncertainty, simulate along extended interaction chains, and efficiently explore many plausible futures.",
-      "authors": [
-        "Stefan Andreas Baumann",
-        "Jannik Wiese",
-        "Tommaso Martorella",
-        "Mahdi M. Kalayeh",
-        "Björn Ommer"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.09482",
-      "title": "Process Reward Agents for Steering Knowledge-Intensive Reasoning",
-      "url": "https://huggingface.co/papers/2604.09482",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-09T20:00:00.000Z",
-      "abstract": "Reasoning in knowledge-intensive domains remains challenging as intermediate steps are often not locally verifiable: unlike math or code, evaluating step correctness may require synthesizing clues acr",
-      "authors": [
-        "Jiwoong Sohn",
-        "Tomasz Sternal",
-        "Kenneth Styppa",
-        "Torsten Hoefler",
-        "Michael Moor"
-      ],
-      "tags": [
-        "agent"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
