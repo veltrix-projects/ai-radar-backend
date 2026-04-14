@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-14T14:58:16.321Z",
+  "generatedAt": "2026-04-14T16:07:35.659Z",
   "date": "12-04-2026",
-  "count": 19,
+  "count": 17,
   "summary": null,
   "items": [
     {
@@ -60,6 +60,30 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.11004",
+      "title": "Panoptic Pairwise Distortion Graph",
+      "url": "https://huggingface.co/papers/2604.11004",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-12T20:00:00.000Z",
+      "abstract": "In this work, we introduce a new perspective on comparative image assessment by representing an image pair as a structured composition of its regions. In contrast, existing methods focus on whole imag",
+      "authors": [
+        "Muhammad Kamran Janjua",
+        "Abdul Wahab",
+        "Bahador Rashidi"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -279,32 +303,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.11521",
-      "title": "Continuous Adversarial Flow Models",
-      "url": "https://huggingface.co/papers/2604.11521",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-12T20:00:00.000Z",
-      "abstract": "We propose continuous adversarial flow models, a type of continuous-time flow model trained with an adversarial objective. Unlike flow matching, which uses a fixed mean-squared-error criterion, our ap",
-      "authors": [
-        "Shanchuan Lin",
-        "Ceyuan Yang",
-        "Zhijie Lin",
-        "Hao Chen",
-        "Haoqi Fan"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "techcrunch_ai_https%3A%2F%2Ftechcrunch.com%2F2026%2F04",
       "title": "Apple reportedly testing four designs for upcoming smart glasses",
       "url": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
@@ -317,50 +315,6 @@
       "tags": [],
       "score": 6,
       "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "techcrunch_ai_https%3A%2F%2Ftechcrunch.com%2F2026%2F04",
-      "title": "From LLMs to hallucinations, here&#8217;s a simple guide to common AI terms",
-      "url": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "source": "TechCrunch AI",
-      "sourceIcon": "💚",
-      "type": "news",
-      "timestamp": "2026-04-12T15:07:08.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "llm"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "techcrunch_ai_https%3A%2F%2Ftechcrunch.com%2F2026%2F04",
-      "title": "At the HumanX conference, everyone was talking about Claude",
-      "url": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
-      "source": "TechCrunch AI",
-      "sourceIcon": "💚",
-      "type": "news",
-      "timestamp": "2026-04-12T15:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "claude"
-      ],
-      "score": 4,
-      "priority": "LOW",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -415,7 +369,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 109328,
+      "stars": 109329,
       "votes": 0,
       "points": 0
     },
