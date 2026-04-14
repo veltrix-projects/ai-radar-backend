@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-14T07:19:56.114Z",
+  "generatedAt": "2026-04-14T10:15:21.003Z",
   "date": "11-04-2026",
-  "count": 10,
+  "count": 11,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,56 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.10628",
+      "title": "BMdataset: A Musicologically Curated LilyPond Dataset",
+      "url": "https://huggingface.co/papers/2604.10628",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-11T20:00:00.000Z",
+      "abstract": "Symbolic music research has relied almost exclusively on MIDI-based datasets; text-based engraving formats such as LilyPond remain unexplored for music understanding. We present BMdataset, a musicolog",
+      "authors": [
+        "Matteo Spanio",
+        "Ilay Guler",
+        "Antonio Rodà"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.10799",
+      "title": "Advancing Polish Language Modeling through Tokenizer Optimization in the Bielik v3 7B and 11B Series",
+      "url": "https://huggingface.co/papers/2604.10799",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-11T20:00:00.000Z",
+      "abstract": "The development of the Bielik v3 PL series, encompassing both the 7B and 11B parameter variants, represents a significant milestone in the field of language-specific large language model (LLM) optimiz",
+      "authors": [
+        "Krzysztof Ociepa",
+        "Łukasz Flis",
+        "Remigiusz Kinas",
+        "Krzysztof Wróbel",
+        "Adrian Gwoździej"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -104,35 +154,6 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.10784",
-      "title": "TorchUMM: A Unified Multimodal Model Codebase for Evaluation, Analysis, and Post-training",
-      "url": "https://huggingface.co/papers/2604.10784",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-11T20:00:00.000Z",
-      "abstract": "Recent advances in unified multimodal models (UMMs) have led to a proliferation of architectures capable of understanding, generating, and editing across visual and textual modalities. However, develo",
-      "authors": [
-        "Yinyi Luo",
-        "Wenwen Wang",
-        "Hayes Bai",
-        "Hongyu Zhu",
-        "Hao Chen"
-      ],
-      "tags": [
-        "multimodal",
-        "training"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

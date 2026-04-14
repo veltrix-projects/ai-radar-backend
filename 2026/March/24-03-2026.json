@@ -1,9 +1,38 @@
 {
-  "generatedAt": "2026-04-14T07:19:56.122Z",
+  "generatedAt": "2026-04-14T10:15:21.011Z",
   "date": "24-03-2026",
-  "count": 2,
+  "count": 3,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.08570",
+      "title": "QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation",
+      "url": "https://huggingface.co/papers/2604.08570",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-24T20:00:00.000Z",
+      "abstract": "Large Language Models (LLMs) are increasingly used for code generation, yet quantum code generation is still evaluated mostly within single frameworks, making it difficult to separate quantum reasonin",
+      "authors": [
+        "Ali Slim",
+        "Haydar Hamieh",
+        "Jawad Kotaich",
+        "Yehya Ghosn",
+        "Mahdi Chehimi"
+      ],
+      "tags": [
+        "llm",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Ft",
       "title": "TurboQuant: Redefining AI efficiency with extreme compression",

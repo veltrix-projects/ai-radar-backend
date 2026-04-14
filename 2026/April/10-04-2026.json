@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-14T07:19:56.115Z",
+  "generatedAt": "2026-04-14T10:15:21.003Z",
   "date": "10-04-2026",
   "count": 21,
   "summary": null,
@@ -89,6 +89,32 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2604.02340",
+      "title": "Not All Denoising Steps Are Equal: Model Scheduling for Faster Masked Diffusion Language Models",
+      "url": "https://huggingface.co/papers/2604.02340",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-10T20:00:00.000Z",
+      "abstract": "Recent advances in masked diffusion language models (MDLMs) narrow the quality gap to autoregressive LMs, but their sampling remains expensive because generation requires many full-sequence denoising",
+      "authors": [
+        "Ivan Sedykh",
+        "Nikita Sorokin",
+        "Valentin Malykh"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2604.10333",
       "title": "Zero-shot World Models Are Developmentally Efficient Learners",
       "url": "https://huggingface.co/papers/2604.10333",
@@ -130,34 +156,6 @@
       ],
       "tags": [
         "inference"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.10098",
-      "title": "Attention Sink in Transformers: A Survey on Utilization, Interpretation, and Mitigation",
-      "url": "https://huggingface.co/papers/2604.10098",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-10T20:00:00.000Z",
-      "abstract": "As the foundational architecture of modern machine learning, Transformers have driven remarkable progress across diverse AI domains. Despite their transformative impact, a persistent challenge across",
-      "authors": [
-        "Zunhai Su",
-        "Hengyuan Zhang",
-        "Wei Wu",
-        "Yifan Zhang",
-        "Yaxiu Liu"
-      ],
-      "tags": [
-        "transformer"
       ],
       "score": 6,
       "priority": "MEDIUM",

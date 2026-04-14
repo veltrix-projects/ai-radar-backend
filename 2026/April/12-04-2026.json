@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-14T07:19:56.114Z",
+  "generatedAt": "2026-04-14T10:15:21.002Z",
   "date": "12-04-2026",
-  "count": 22,
+  "count": 18,
   "summary": null,
   "items": [
     {
@@ -60,6 +60,30 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.11290",
+      "title": "Polyglot Teachers: Evaluating Language Models for Multilingual Synthetic Data Generation",
+      "url": "https://huggingface.co/papers/2604.11290",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-12T20:00:00.000Z",
+      "abstract": "Synthesizing supervised finetuning (SFT) data from language models (LMs) to teach smaller models multilingual tasks has become increasingly common. However, teacher model selection is often ad hoc, ty",
+      "authors": [
+        "Lester James V. Miranda",
+        "Ivan Vulić",
+        "Anna Korhonen"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -205,35 +229,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.11784",
-      "title": "ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents",
-      "url": "https://huggingface.co/papers/2604.11784",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-12T20:00:00.000Z",
-      "abstract": "GUI agents drive applications through their visual interfaces instead of programmatic APIs, interacting with arbitrary software via taps, swipes, and keystrokes, reaching a long tail of applications t",
-      "authors": [
-        "Fei Tang",
-        "Zhiqiong Lu",
-        "Boxuan Zhang",
-        "Weiming Lu",
-        "Jun Xiao"
-      ],
-      "tags": [
-        "agent",
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "hf_paper_2604.11805",
       "title": "Solving Physics Olympiad via Reinforcement Learning on Physics Simulators",
       "url": "https://huggingface.co/papers/2604.11805",
@@ -279,89 +274,6 @@
       ],
       "tags": [
         "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.11547",
-      "title": "Eliciting Medical Reasoning with Knowledge-enhanced Data Synthesis: A Semi-Supervised Reinforcement Learning Approach",
-      "url": "https://huggingface.co/papers/2604.11547",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-12T20:00:00.000Z",
-      "abstract": "While large language models hold promise for complex medical applications, their development is hindered by the scarcity of high-quality reasoning data. To address this issue, existing approaches typi",
-      "authors": [
-        "Haolin Li",
-        "Shuyang Jiang",
-        "Ruipeng Zhang",
-        "Jiangchao Yao",
-        "Ya Zhang"
-      ],
-      "tags": [
-        "reinforcement learning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.11778",
-      "title": "General365: Benchmarking General Reasoning in Large Language Models Across Diverse and Challenging Tasks",
-      "url": "https://huggingface.co/papers/2604.11778",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-12T20:00:00.000Z",
-      "abstract": "Contemporary large language models (LLMs) have demonstrated remarkable reasoning capabilities, particularly in specialized domains like mathematics and physics. However, their ability to generalize th",
-      "authors": [
-        "Junlin Liu",
-        "Shengnan An",
-        "Shuang Zhou",
-        "Dan Ma",
-        "Shixiong Luo"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.11446",
-      "title": "Low-rank Optimization Trajectories Modeling for LLM RLVR Acceleration",
-      "url": "https://huggingface.co/papers/2604.11446",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-12T20:00:00.000Z",
-      "abstract": "Recently, scaling reinforcement learning with verifiable rewards (RLVR) for large language models (LLMs) has emerged as an effective training paradigm for significantly improving model capabilities, w",
-      "authors": [
-        "Zhipeng Chen",
-        "Tao Qian",
-        "Wayne Xin Zhao",
-        "Ji-Rong Wen"
-      ],
-      "tags": [
-        "llm"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -483,7 +395,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 109318,
+      "stars": 109323,
       "votes": 0,
       "points": 0
     },
@@ -504,28 +416,6 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Liquid AI Releases LFM2.5-VL-450M: a 450M-Parameter Vision-Language Model with Bounding Box Prediction, Multilingual Support, and Sub-250ms Edge Inference",
-      "url": "https://www.marktechpost.com/2026/04/11/liquid-ai-releases-lfm2-5-vl-450m-a-450m-parameter-vision-language-model-with-bounding-box-prediction-multilingual-support-and-sub-250ms-edge-inference/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-04-12T02:41:10.000Z",
-      "abstract": "Liquid AI just released LFM2.5-VL-450M, an updated version of its earlier LFM2-VL-450M vision-language model. The new release introduces bounding box prediction, improved instruction following, expand",
-      "authors": [],
-      "tags": [
-        "inference"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

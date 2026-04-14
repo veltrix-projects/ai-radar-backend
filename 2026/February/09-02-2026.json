@@ -1,25 +1,31 @@
 {
-  "generatedAt": "2026-03-26T12:53:37.553Z",
+  "generatedAt": "2026-04-14T10:15:21.017Z",
   "date": "09-02-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "google_deepmind_https%3A%2F%2Fdeepmind.google%2Fblog%2Fa",
-      "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
-      "url": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
-      "source": "Google DeepMind",
-      "sourceIcon": "🔵",
+      "id": "hf_paper_2604.09557",
+      "title": "SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding",
+      "url": "https://huggingface.co/papers/2604.09557",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-02-09T16:12:06.000Z",
-      "abstract": "Research papers point to the growing impact of Deep Think across fields",
-      "authors": [],
-      "tags": [
-        "gemini"
+      "timestamp": "2026-02-09T19:00:00.000Z",
+      "abstract": "Speculative Decoding (SD) has emerged as a critical technique for accelerating Large Language Model (LLM) inference. Unlike deterministic system optimizations, SD performance is inherently data-depend",
+      "authors": [
+        "Talor Abramovich",
+        "Maor Ashkenazi",
+        "Carl",
+        "Putterman",
+        "Benjamin Chislett"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "tags": [
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
