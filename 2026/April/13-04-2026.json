@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-15T10:18:03.202Z",
+  "generatedAt": "2026-04-15T11:31:51.870Z",
   "date": "13-04-2026",
-  "count": 31,
+  "count": 29,
   "summary": null,
   "items": [
     {
@@ -236,61 +236,6 @@
         "Zehuan Yuan"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.13010",
-      "title": "Lightning OPD: Efficient Post-Training for Large Reasoning Models with Offline On-Policy Distillation",
-      "url": "https://huggingface.co/papers/2604.13010",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-13T20:00:00.000Z",
-      "abstract": "On-policy distillation (OPD) has emerged as an efficient post-training paradigm for large language models. However, standard OPD requires a live teacher inference server throughout training, resulting",
-      "authors": [
-        "Yecheng Wu",
-        "Song Han",
-        "Hai Cai"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.12374",
-      "title": "Nemotron 3 Super: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning",
-      "url": "https://huggingface.co/papers/2604.12374",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-13T20:00:00.000Z",
-      "abstract": "We describe the pre-training, post-training, and quantization of Nemotron 3 Super, a 120 billion (active 12 billion) parameter hybrid Mamba-Attention Mixture-of-Experts model. Nemotron 3 Super is the",
-      "authors": [
-        "NVIDIA",
-        "Aakshita Chandiramani",
-        "Aaron Blakeman",
-        "Abdullahi Olaoye",
-        "Abhibha Gupta"
-      ],
-      "tags": [
-        "transformer",
-        "agent"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

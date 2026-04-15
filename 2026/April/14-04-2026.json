@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-15T10:18:03.200Z",
+  "generatedAt": "2026-04-15T11:31:51.866Z",
   "date": "14-04-2026",
-  "count": 67,
+  "count": 68,
   "summary": null,
   "items": [
     {
@@ -51,7 +51,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 131940,
+      "stars": 131959,
       "votes": 0,
       "points": 0
     },
@@ -677,6 +677,32 @@
       "points": 0
     },
     {
+      "id": "arxiv_2604.13010v1",
+      "title": "Lightning OPD: Efficient Post-Training for Large Reasoning Models with Offline On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2604.13010v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-04-14T17:44:50Z",
+      "abstract": "On-policy distillation (OPD) has emerged as an efficient post-training paradigm for large language models. However, standard OPD requires a live teacher inference server throughout training, resulting",
+      "authors": [
+        "Yecheng Wu",
+        "Song Han",
+        "Hai Cai"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "arxiv_2510.13793v2",
       "title": "NoisePrints: Distortion-Free Watermarks for Authorship in Private Diffusion Models",
       "url": "https://arxiv.org/abs/2510.13793v2",
@@ -1262,6 +1288,28 @@
       "points": 0
     },
     {
+      "id": "reddit_LocalLLaMA_t3_1sl7f8e",
+      "title": "Home-rolled loop agent is surprisingly effective",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sl7f8e/homerolled_loop_agent_is_surprisingly_effective/",
+      "source": "Reddit r/LocalLLaMA",
+      "sourceIcon": "🔴",
+      "type": "news",
+      "timestamp": "2026-04-14T12:35:31+00:00",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "reddit_LocalLLaMA_t3_1sl7bug",
       "title": "Gemma 4 31B — 4bit is all you need",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sl7bug/gemma_4_31b_4bit_is_all_you_need/",
@@ -1382,26 +1430,6 @@
       ],
       "score": 6,
       "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1sl48ew",
-      "title": "How to Distill from 100B+ to <4B Models",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sl48ew/how_to_distill_from_100b_to_4b_models/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-04-14T10:01:28+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
