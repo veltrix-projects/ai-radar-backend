@@ -1,9 +1,39 @@
 {
-  "generatedAt": "2026-04-15T14:51:38.487Z",
+  "generatedAt": "2026-04-15T16:00:06.784Z",
   "date": "12-04-2026",
-  "count": 8,
+  "count": 7,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.12710",
+      "title": "LASA: Language-Agnostic Semantic Alignment at the Semantic Bottleneck for LLM Safety",
+      "url": "https://huggingface.co/papers/2604.12710",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-12T20:00:00.000Z",
+      "abstract": "Large language models (LLMs) often demonstrate strong safety performance in high-resource languages, yet exhibit severe vulnerabilities when queried in low-resource languages. We attribute this gap to",
+      "authors": [
+        "Junxiao Yang",
+        "Haoran Liu",
+        "Jinzhe Tu",
+        "Jiale Cheng",
+        "Zhexin Zhang"
+      ],
+      "tags": [
+        "llm",
+        "alignment",
+        "safety"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2604.11211",
       "title": "3DTV: A Feedforward Interpolation Network for Real-Time View Synthesis",
@@ -111,58 +141,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.10966",
-      "title": "You Only Judge Once: Multi-response Reward Modeling in a Single Forward Pass",
-      "url": "https://huggingface.co/papers/2604.10966",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-12T20:00:00.000Z",
-      "abstract": "We present a discriminative multimodal reward model that scores all candidate responses in a single forward pass. Conventional discriminative reward models evaluate each response independently, requir",
-      "authors": [
-        "Yinuo Yang",
-        "Zixian Ma",
-        "Manasi Ganti",
-        "Jieyu Zhang",
-        "Ranjay Krishna"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.11579",
-      "title": "Seeing Through Touch: Tactile-Driven Visual Localization of Material Regions",
-      "url": "https://huggingface.co/papers/2604.11579",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-12T20:00:00.000Z",
-      "abstract": "We address the problem of tactile localization, where the goal is to identify image regions that share the same material properties as a tactile input. Existing visuo-tactile methods rely on global al",
-      "authors": [
-        "Seongyu Kim",
-        "Seungwoo Lee",
-        "Hyeonggon Ryu",
-        "Joon Son Chung",
-        "Arda Senocak"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "gh_655806940",
       "title": "microsoft/generative-ai-for-beginners — 21 Lessons, Get Started Building with Generative AI",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
@@ -189,7 +167,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 109366,
+      "stars": 109367,
       "votes": 0,
       "points": 0
     },

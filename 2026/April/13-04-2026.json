@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-04-15T14:51:38.486Z",
+  "generatedAt": "2026-04-15T16:00:06.783Z",
   "date": "13-04-2026",
   "count": 29,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.12978",
+      "title": "GlotOCR Bench: OCR Models Still Struggle Beyond a Handful of Unicode Scripts",
+      "url": "https://huggingface.co/papers/2604.12978",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-13T20:00:00.000Z",
+      "abstract": "Optical character recognition (OCR) has advanced rapidly with the rise of vision-language models, yet evaluation has remained concentrated on a small cluster of high- and mid-resource scripts. We intr",
+      "authors": [
+        "Amir Hossein Kargaran",
+        "Nafiseh Nikeghbal",
+        "Jana Diesner",
+        "François Yvon",
+        "Hinrich Schütze"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2604.12152",
       "title": "Domain-Specific Latent Representations Improve the Fidelity of Diffusion-Based Medical Image Super-Resolution",
@@ -160,35 +186,6 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.12890",
-      "title": "Towards Long-horizon Agentic Multimodal Search",
-      "url": "https://huggingface.co/papers/2604.12890",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-13T20:00:00.000Z",
-      "abstract": "Multimodal deep search agents have shown great potential in solving complex tasks by iteratively collecting textual and visual evidence. However, managing the heterogeneous information and high token",
-      "authors": [
-        "Yifan Du",
-        "Zikang Liu",
-        "Jinbiao Peng",
-        "Jie Wu",
-        "Junyi Li"
-      ],
-      "tags": [
-        "multimodal",
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

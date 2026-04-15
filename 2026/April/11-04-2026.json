@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-15T14:51:38.487Z",
+  "generatedAt": "2026-04-15T16:00:06.784Z",
   "date": "11-04-2026",
-  "count": 3,
+  "count": 4,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,31 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.10812",
+      "title": "PokeRL: Reinforcement Learning for Pokemon Red",
+      "url": "https://huggingface.co/papers/2604.10812",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-11T20:00:00.000Z",
+      "abstract": "Pokemon Red is a long-horizon JRPG with sparse rewards, partial observability, and quirky control mechanics that make it a challenging benchmark for reinforcement learning. While recent work has shown",
+      "authors": [
+        "Dheeraj Mudireddy",
+        "Sai Patibandla"
+      ],
+      "tags": [
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
