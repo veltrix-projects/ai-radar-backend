@@ -1,9 +1,95 @@
 {
-  "generatedAt": "2026-04-15T03:45:18.753Z",
+  "generatedAt": "2026-04-15T05:55:18.904Z",
   "date": "09-04-2026",
-  "count": 13,
+  "count": 16,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.05072",
+      "title": "Hierarchical SVG Tokenization: Learning Compact Visual Programs for Scalable Vector Graphics Modeling",
+      "url": "https://huggingface.co/papers/2604.05072",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-09T20:00:00.000Z",
+      "abstract": "Recent large language models have shifted SVG generation from differentiable rendering optimization to autoregressive program synthesis. However, existing approaches still rely on generic byte-level t",
+      "authors": [
+        "Ximing Xing",
+        "Ziteng Xue",
+        "Zhenxi Li",
+        "Weicong Liang",
+        "Linqing Wang"
+      ],
+      "tags": [
+        "phi"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.09746",
+      "title": "CONSCIENTIA: Can LLM Agents Learn to Strategize? Emergent Deception and Trust in a Multi-Agent NYC Simulation",
+      "url": "https://huggingface.co/papers/2604.09746",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-09T20:00:00.000Z",
+      "abstract": "As large language models (LLMs) are increasingly deployed as autonomous agents, understanding how strategic behavior emerges in multi-agent environments has become an important alignment challenge. We",
+      "authors": [
+        "Aarush Sinha",
+        "Arion Das",
+        "Soumyadeep Nag",
+        "Charan Karnati",
+        "Shravani Nag"
+      ],
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.09443",
+      "title": "Many-Tier Instruction Hierarchy in LLM Agents",
+      "url": "https://huggingface.co/papers/2604.09443",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-09T20:00:00.000Z",
+      "abstract": "Large language model agents receive instructions from many sources-system messages, user prompts, tool outputs, and more-each carrying different levels of trust and authority. When these instructions",
+      "authors": [
+        "Jingyu Zhang",
+        "Tianjian Li",
+        "William Jurayj",
+        "Hongyuan Zhan",
+        "Benjamin Van Durme"
+      ],
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2604.08865",
       "title": "SPPO: Sequence-Level PPO for Long-Horizon Reasoning Tasks",

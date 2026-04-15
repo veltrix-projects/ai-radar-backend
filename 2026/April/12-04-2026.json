@@ -1,23 +1,54 @@
 {
-  "generatedAt": "2026-04-15T03:45:18.751Z",
+  "generatedAt": "2026-04-15T05:55:18.902Z",
   "date": "12-04-2026",
   "count": 8,
   "summary": null,
   "items": [
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Meta AI and KAUST Researchers Propose Neural Computers That Fold Computation, Memory, and I/O Into One Learned Model",
-      "url": "https://www.marktechpost.com/2026/04/12/meta-ai-and-kaust-researchers-propose-neural-computers-that-fold-computation-memory-and-i-o-into-one-learned-model/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
+      "id": "hf_paper_2604.12119",
+      "title": "Beyond Perception Errors: Semantic Fixation in Large Vision-Language Models",
+      "url": "https://huggingface.co/papers/2604.12119",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-04-12T21:52:24.000Z",
-      "abstract": "Researchers from Meta AI and the King Abdullah University of Science and Technology (KAUST) have introduced Neural Computers (NCs) — a proposed machine form in which a neural network itself acts as th",
-      "authors": [],
+      "timestamp": "2026-04-12T20:00:00.000Z",
+      "abstract": "Large vision-language models (VLMs) often rely on familiar semantic priors, but existing evaluations do not cleanly separate perception failures from rule-mapping failures. We study this behavior as s",
+      "authors": [
+        "Md Tanvirul Alam"
+      ],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.11689",
+      "title": "LARY: A Latent Action Representation Yielding Benchmark for Generalizable Vision-to-Action Alignment",
+      "url": "https://huggingface.co/papers/2604.11689",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-12T20:00:00.000Z",
+      "abstract": "While the shortage of explicit action data limits Vision-Language-Action (VLA) models, human action videos offer a scalable yet unlabeled data source. A critical challenge in utilizing large-scale hum",
+      "authors": [
+        "Dujun Nie",
+        "Fengjiao Chen",
+        "Qi Lv",
+        "Jun Kuang",
+        "Xiaoyu Li"
+      ],
+      "tags": [
+        "benchmark",
+        "alignment"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -106,34 +137,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.11544",
-      "title": "Time is Not a Label: Continuous Phase Rotation for Temporal Knowledge Graphs and Agentic Memory",
-      "url": "https://huggingface.co/papers/2604.11544",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-12T20:00:00.000Z",
-      "abstract": "Structured memory representations such as knowledge graphs are central to autonomous agents and other long-lived systems. However, most existing approaches model time as discrete metadata, either sort",
-      "authors": [
-        "Weixian Waylon Li",
-        "Jiaxin Zhang",
-        "Xianan Jim Yang",
-        "Tiejun Ma",
-        "Yiwen Guo"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fcolumn%",
       "title": "The AI code wars are heating up",
       "url": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
@@ -180,7 +183,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 109345,
+      "stars": 109349,
       "votes": 0,
       "points": 0
     },

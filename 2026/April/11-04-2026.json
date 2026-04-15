@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-15T03:45:18.752Z",
+  "generatedAt": "2026-04-15T05:55:18.903Z",
   "date": "11-04-2026",
-  "count": 5,
+  "count": 3,
   "summary": null,
   "items": [
     {
@@ -39,59 +39,6 @@
       ],
       "tags": [
         "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.10708",
-      "title": "Audio-Omni: Extending Multi-modal Understanding to Versatile Audio Generation and Editing",
-      "url": "https://huggingface.co/papers/2604.10708",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-11T20:00:00.000Z",
-      "abstract": "Recent progress in multimodal models has spurred rapid advances in audio understanding, generation, and editing. However, these capabilities are typically addressed by specialized models, leaving the",
-      "authors": [
-        "Zeyue Tian",
-        "Binxin Yang",
-        "Zhaoyang Liu",
-        "Jiexuan Zhang",
-        "Ruibin Yuan"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.10539",
-      "title": "IceCache: Memory-efficient KV-cache Management for Long-Sequence LLMs",
-      "url": "https://huggingface.co/papers/2604.10539",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-11T20:00:00.000Z",
-      "abstract": "Key-Value (KV) cache plays a crucial role in accelerating inference in large language models (LLMs) by storing intermediate attention states and avoiding redundant computation during autoregressive ge",
-      "authors": [
-        "Yuzhen Mao",
-        "Qitong Wang",
-        "Martin Ester",
-        "Ke Li"
-      ],
-      "tags": [
-        "llm"
       ],
       "score": 6,
       "priority": "MEDIUM",
