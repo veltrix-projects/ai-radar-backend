@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-15T00:04:05.795Z",
+  "generatedAt": "2026-04-15T03:45:18.752Z",
   "date": "11-04-2026",
-  "count": 7,
+  "count": 5,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,31 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.10465",
+      "title": "Rethinking the Diffusion Model from a Langevin Perspective",
+      "url": "https://huggingface.co/papers/2604.10465",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-11T20:00:00.000Z",
+      "abstract": "Diffusion models are often introduced from multiple perspectives, such as VAEs, score matching, or flow matching, accompanied by dense and technically demanding mathematics that can be difficult for b",
+      "authors": [
+        "Candi Zheng",
+        "Yuan Lan"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -68,82 +93,6 @@
       "tags": [
         "llm"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.10688",
-      "title": "SCOPE: Signal-Calibrated On-Policy Distillation Enhancement with Dual-Path Adaptive Weighting",
-      "url": "https://huggingface.co/papers/2604.10688",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-11T20:00:00.000Z",
-      "abstract": "On-policy reinforcement learning has become the dominant paradigm for reasoning alignment in large language models, yet its sparse, outcome-level rewards make token-level credit assignment notoriously",
-      "authors": [
-        "Binbin Zheng",
-        "Xing Ma",
-        "Yiheng Liang",
-        "Jingqing Ruan",
-        "Xiaoliang Fu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.10628",
-      "title": "BMdataset: A Musicologically Curated LilyPond Dataset",
-      "url": "https://huggingface.co/papers/2604.10628",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-11T20:00:00.000Z",
-      "abstract": "Symbolic music research has relied almost exclusively on MIDI-based datasets; text-based engraving formats such as LilyPond remain unexplored for music understanding. We present BMdataset, a musicolog",
-      "authors": [
-        "Matteo Spanio",
-        "Ilay Guler",
-        "Antonio Rodà"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.10799",
-      "title": "Advancing Polish Language Modeling through Tokenizer Optimization in the Bielik v3 7B and 11B Series",
-      "url": "https://huggingface.co/papers/2604.10799",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-11T20:00:00.000Z",
-      "abstract": "The development of the Bielik v3 PL series, encompassing both the 7B and 11B parameter variants, represents a significant milestone in the field of language-specific large language model (LLM) optimiz",
-      "authors": [
-        "Krzysztof Ociepa",
-        "Łukasz Flis",
-        "Remigiusz Kinas",
-        "Krzysztof Wróbel",
-        "Adrian Gwoździej"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-15T00:04:05.795Z",
+  "generatedAt": "2026-04-15T03:45:18.751Z",
   "date": "12-04-2026",
-  "count": 14,
+  "count": 8,
   "summary": null,
   "items": [
     {
@@ -25,15 +25,21 @@
       "points": 0
     },
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "A Coding Implementation of MolmoAct for Depth-Aware Spatial Reasoning, Visual Trajectory Tracing, and Robotic Action Prediction",
-      "url": "https://www.marktechpost.com/2026/04/12/a-coding-implementation-of-molmoact-for-depth-aware-spatial-reasoning-visual-trajectory-tracing-and-robotic-action-prediction/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
+      "id": "hf_paper_2604.10966",
+      "title": "You Only Judge Once: Multi-response Reward Modeling in a Single Forward Pass",
+      "url": "https://huggingface.co/papers/2604.10966",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-04-12T20:17:15.000Z",
-      "abstract": "In this tutorial, we walk through MolmoAct step by step and build a practical understanding of how action-reasoning models can reason in space from visual observations. We set up the environment, load",
-      "authors": [],
+      "timestamp": "2026-04-12T20:00:00.000Z",
+      "abstract": "We present a discriminative multimodal reward model that scores all candidate responses in a single forward pass. Conventional discriminative reward models evaluate each response independently, requir",
+      "authors": [
+        "Yinuo Yang",
+        "Zixian Ma",
+        "Manasi Ganti",
+        "Jieyu Zhang",
+        "Ranjay Krishna"
+      ],
       "tags": [],
       "score": 8,
       "priority": "HIGH",
@@ -45,45 +51,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.11753",
-      "title": "Agentic Aggregation for Parallel Scaling of Long-Horizon Agentic Tasks",
-      "url": "https://huggingface.co/papers/2604.11753",
+      "id": "hf_paper_2604.11579",
+      "title": "Seeing Through Touch: Tactile-Driven Visual Localization of Material Regions",
+      "url": "https://huggingface.co/papers/2604.11579",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-12T20:00:00.000Z",
-      "abstract": "We study parallel test-time scaling for long-horizon agentic tasks such as agentic search and deep research, where multiple rollouts are generated in parallel and aggregated into a final response. Whi",
+      "abstract": "We address the problem of tactile localization, where the goal is to identify image regions that share the same material properties as a tactile input. Existing visuo-tactile methods rely on global al",
       "authors": [
-        "Yoonsang Lee",
-        "Howard Yen",
-        "Xi Ye",
-        "Danqi Chen"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.11004",
-      "title": "Panoptic Pairwise Distortion Graph",
-      "url": "https://huggingface.co/papers/2604.11004",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-12T20:00:00.000Z",
-      "abstract": "In this work, we introduce a new perspective on comparative image assessment by representing an image pair as a structured composition of its regions. In contrast, existing methods focus on whole imag",
-      "authors": [
-        "Muhammad Kamran Janjua",
-        "Abdul Wahab",
-        "Bahador Rashidi"
+        "Seongyu Kim",
+        "Seungwoo Lee",
+        "Hyeonggon Ryu",
+        "Joon Son Chung",
+        "Arda Senocak"
       ],
       "tags": [],
       "score": 6,
@@ -96,152 +77,25 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.04385",
-      "title": "How Alignment Routes: Localizing, Scaling, and Controlling Policy Circuits in Language Models",
-      "url": "https://huggingface.co/papers/2604.04385",
+      "id": "hf_paper_2604.11784",
+      "title": "ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents",
+      "url": "https://huggingface.co/papers/2604.11784",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-12T20:00:00.000Z",
-      "abstract": "This paper localizes the policy routing mechanism in alignment-trained language models. An intermediate-layer attention gate reads detected content and triggers deeper amplifier heads that boost the s",
+      "abstract": "GUI agents drive applications through their visual interfaces instead of programmatic APIs, interacting with arbitrary software via taps, swipes, and keystrokes, reaching a long tail of applications t",
       "authors": [
-        "Gregory N. Frank"
+        "Fei Tang",
+        "Zhiqiong Lu",
+        "Boxuan Zhang",
+        "Weiming Lu",
+        "Jun Xiao"
       ],
       "tags": [
-        "alignment"
+        "agent",
+        "training"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.11737",
-      "title": "Learning Long-term Motion Embeddings for Efficient Kinematics Generation",
-      "url": "https://huggingface.co/papers/2604.11737",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-12T20:00:00.000Z",
-      "abstract": "Understanding and predicting motion is a fundamental component of visual intelligence. Although modern video models exhibit strong comprehension of scene dynamics, exploring multiple possible futures",
-      "authors": [
-        "Nick Stracke",
-        "Kolja Bauer",
-        "Stefan Andreas Baumann",
-        "Miguel Angel Bautista",
-        "Josh Susskind"
-      ],
-      "tags": [
-        "embeddings"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.11297",
-      "title": "The Past Is Not Past: Memory-Enhanced Dynamic Reward Shaping",
-      "url": "https://huggingface.co/papers/2604.11297",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-12T20:00:00.000Z",
-      "abstract": "Despite the success of reinforcement learning for large language models, a common failure mode is reduced sampling diversity, where the policy repeatedly generates similar erroneous behaviors. Classic",
-      "authors": [
-        "Yang Liu",
-        "Enxi Wang",
-        "Yufei Gao",
-        "Weixin Zhang",
-        "Bo Wang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.11259",
-      "title": "Mobile GUI Agent Privacy Personalization with Trajectory Induced Preference Optimization",
-      "url": "https://huggingface.co/papers/2604.11259",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-12T20:00:00.000Z",
-      "abstract": "Mobile GUI agents powered by Multimodal Large Language Models (MLLMs) can execute complex tasks on mobile devices. Despite this progress, most existing systems still optimize task success or efficienc",
-      "authors": [
-        "Zhixin Lin",
-        "Jungang Li",
-        "Dongliang Xu",
-        "Shidong Pan",
-        "Yibo Shi"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.11152",
-      "title": "SHARE: Social-Humanities AI for Research and Education",
-      "url": "https://huggingface.co/papers/2604.11152",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-12T20:00:00.000Z",
-      "abstract": "This intermediate technical report introduces the SHARE family of base models and the MIRROR user interface. The SHARE models are the first causal language models fully pretrained by and for the socia",
-      "authors": [
-        "João Gonçalves",
-        "Sonia de Jager",
-        "Petr Knoth",
-        "David Pride",
-        "Nick Jelicic"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.11290",
-      "title": "Polyglot Teachers: Evaluating Language Models for Multilingual Synthetic Data Generation",
-      "url": "https://huggingface.co/papers/2604.11290",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-12T20:00:00.000Z",
-      "abstract": "Synthesizing supervised finetuning (SFT) data from language models (LMs) to teach smaller models multilingual tasks has become increasingly common. However, teacher model selection is often ad hoc, ty",
-      "authors": [
-        "Lester James V. Miranda",
-        "Ivan Vulić",
-        "Anna Korhonen"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -326,7 +180,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 109338,
+      "stars": 109345,
       "votes": 0,
       "points": 0
     },
