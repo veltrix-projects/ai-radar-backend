@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-15T07:19:50.191Z",
+  "generatedAt": "2026-04-15T10:18:03.200Z",
   "date": "14-04-2026",
-  "count": 68,
+  "count": 67,
   "summary": null,
   "items": [
     {
@@ -51,7 +51,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 131918,
+      "stars": 131940,
       "votes": 0,
       "points": 0
     },
@@ -538,6 +538,34 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2604.13018v1",
+      "title": "Toward Autonomous Long-Horizon Engineering for ML Research",
+      "url": "https://arxiv.org/abs/2604.13018v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-04-14T17:55:16Z",
+      "abstract": "Autonomous AI research has advanced rapidly, but long-horizon ML research engineering remains difficult: agents must sustain coherent progress across task comprehension, environment setup, implementat",
+      "authors": [
+        "Guoxin Chen",
+        "Jie Chen",
+        "Lei Chen",
+        "Jiale Zhao",
+        "Fanzhe Meng"
+      ],
+      "tags": [
+        "autonomous"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -1234,28 +1262,6 @@
       "points": 0
     },
     {
-      "id": "reddit_LocalLLaMA_t3_1sl7f8e",
-      "title": "Home-rolled loop agent is surprisingly effective",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sl7f8e/homerolled_loop_agent_is_surprisingly_effective/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-04-14T12:35:31+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "reddit_LocalLLaMA_t3_1sl7bug",
       "title": "Gemma 4 31B — 4bit is all you need",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sl7bug/gemma_4_31b_4bit_is_all_you_need/",
@@ -1391,26 +1397,6 @@
       "sourceIcon": "🔴",
       "type": "news",
       "timestamp": "2026-04-14T10:01:28+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1sl2bac",
-      "title": "MiniMax m2.7 under 64gb for Macs - 91% MMLU",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sl2bac/minimax_m27_under_64gb_for_macs_91_mmlu/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-04-14T08:09:13+00:00",
       "abstract": "",
       "authors": [],
       "tags": [],

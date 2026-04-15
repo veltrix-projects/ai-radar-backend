@@ -1,9 +1,60 @@
 {
-  "generatedAt": "2026-04-15T07:19:50.193Z",
+  "generatedAt": "2026-04-15T10:18:03.202Z",
   "date": "13-04-2026",
-  "count": 30,
+  "count": 31,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.13023",
+      "title": "SpotSound: Enhancing Large Audio-Language Models with Fine-Grained Temporal Grounding",
+      "url": "https://huggingface.co/papers/2604.13023",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-13T20:00:00.000Z",
+      "abstract": "Large Audio-Language Models (ALMs) have recently demonstrated remarkable capabilities in holistic audio understanding, yet they remain unreliable for temporal grounding, i.e., the task of pinpointing",
+      "authors": [
+        "Luoyi Sun",
+        "Xiao Zhou",
+        "Zeqian Li",
+        "Ya Zhang",
+        "Yanfeng Wang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.12989",
+      "title": "Accelerating Speculative Decoding with Block Diffusion Draft Trees",
+      "url": "https://huggingface.co/papers/2604.12989",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-13T20:00:00.000Z",
+      "abstract": "Speculative decoding accelerates autoregressive language models by using a lightweight drafter to propose multiple future tokens, which the target model then verifies in parallel. DFlash shows that a",
+      "authors": [
+        "Liran Ringel",
+        "Yaniv Romano"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2604.12373",
       "title": "Masked by Consensus: Disentangling Privileged Knowledge in LLM Correctness",
@@ -239,34 +290,6 @@
       "tags": [
         "transformer",
         "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.13018",
-      "title": "Toward Autonomous Long-Horizon Engineering for ML Research",
-      "url": "https://huggingface.co/papers/2604.13018",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-13T20:00:00.000Z",
-      "abstract": "Autonomous AI research has advanced rapidly, but long-horizon ML research engineering remains difficult: agents must sustain coherent progress across task comprehension, environment setup, implementat",
-      "authors": [
-        "Guoxin Chen",
-        "Jie Chen",
-        "Lei Chen",
-        "Jiale Zhao",
-        "Fanzhe Meng"
-      ],
-      "tags": [
-        "autonomous"
       ],
       "score": 6,
       "priority": "MEDIUM",
