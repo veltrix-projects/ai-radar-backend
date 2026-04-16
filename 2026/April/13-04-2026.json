@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T06:29:11.471Z",
+  "generatedAt": "2026-04-16T09:53:56.196Z",
   "date": "13-04-2026",
   "count": 19,
   "summary": null,
@@ -58,25 +58,27 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.09687",
-      "title": "Grid2Matrix: Revealing Digital Agnosia in Vision-Language Models",
-      "url": "https://huggingface.co/papers/2604.09687",
+      "id": "hf_paper_2507.04227",
+      "title": "Mobile GUI Agents under Real-world Threats: Are We There Yet?",
+      "url": "https://huggingface.co/papers/2507.04227",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-13T20:00:00.000Z",
-      "abstract": "Vision-Language Models (VLMs) excel on many multimodal reasoning benchmarks, but these evaluations often do not require an exhaustive readout of the image and can therefore obscure failures in faithfu",
+      "abstract": "Recent years have witnessed a rapid development of mobile GUI agents powered by large language models (LLMs), which can autonomously execute diverse device-control tasks based on natural language inst",
       "authors": [
-        "Yunkai Zhang",
-        "Linda Li",
-        "Yingxin Cui",
-        "Xiyuan Ruan",
-        "Zeyu Zheng"
+        "Guohong Liu",
+        "Jialei Ye",
+        "Jiacheng Liu",
+        "Yuanchun Li",
+        "Wei Liu"
       ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
