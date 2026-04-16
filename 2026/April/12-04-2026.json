@@ -1,110 +1,26 @@
 {
-  "generatedAt": "2026-04-16T01:49:55.651Z",
+  "generatedAt": "2026-04-16T04:45:24.798Z",
   "date": "12-04-2026",
-  "count": 6,
+  "count": 3,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2604.11177",
-      "title": "Do Thought Streams Matter? Evaluating Reasoning in Gemini Vision-Language Models for Video Scene Understanding",
-      "url": "https://huggingface.co/papers/2604.11177",
+      "id": "hf_paper_2604.11626",
+      "title": "RationalRewards: Reasoning Rewards Scale Visual Generation Both Training and Test Time",
+      "url": "https://huggingface.co/papers/2604.11626",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-12T20:00:00.000Z",
-      "abstract": "We benchmark how internal reasoning traces, which we call thought streams, affect video scene understanding in vision-language models. Using four configurations of Google's Gemini 2.5 Flash and Flash",
+      "abstract": "Most reward models for visual generation reduce rich human judgments to a single unexplained score, discarding the reasoning that underlies preference. We show that teaching reward models to produce e",
       "authors": [
-        "Shivam Sharma",
-        "Sankalp Nagaonkar",
-        "Ashish Choithani",
-        "Ashutosh Trivedi"
+        "Haozhe Wang",
+        "Cong Wei",
+        "Weiming Ren",
+        "Jiaming Liu",
+        "Fangzhen Lin"
       ],
       "tags": [
-        "gemini"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.12710",
-      "title": "LASA: Language-Agnostic Semantic Alignment at the Semantic Bottleneck for LLM Safety",
-      "url": "https://huggingface.co/papers/2604.12710",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-12T20:00:00.000Z",
-      "abstract": "Large language models (LLMs) often demonstrate strong safety performance in high-resource languages, yet exhibit severe vulnerabilities when queried in low-resource languages. We attribute this gap to",
-      "authors": [
-        "Junxiao Yang",
-        "Haoran Liu",
-        "Jinzhe Tu",
-        "Jiale Cheng",
-        "Zhexin Zhang"
-      ],
-      "tags": [
-        "llm",
-        "alignment",
-        "safety"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.11211",
-      "title": "3DTV: A Feedforward Interpolation Network for Real-Time View Synthesis",
-      "url": "https://huggingface.co/papers/2604.11211",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-12T20:00:00.000Z",
-      "abstract": "Real-time free-viewpoint rendering requires balancing multi-camera redundancy with the latency constraints of interactive applications. We address this challenge by combining lightweight geometry with",
-      "authors": [
-        "Stefan Schulz",
-        "Fernando Edelstein",
-        "Hannah Dröge",
-        "Matthias B. Hullin",
-        "Markus Plack"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.11784",
-      "title": "ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents",
-      "url": "https://huggingface.co/papers/2604.11784",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-12T20:00:00.000Z",
-      "abstract": "GUI agents drive applications through their visual interfaces instead of programmatic APIs, interacting with arbitrary software via taps, swipes, and keystrokes, reaching a long tail of applications t",
-      "authors": [
-        "Fei Tang",
-        "Zhiqiong Lu",
-        "Boxuan Zhang",
-        "Weiming Lu",
-        "Jun Xiao"
-      ],
-      "tags": [
-        "agent",
         "training"
       ],
       "score": 6,
@@ -117,18 +33,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.12119",
-      "title": "Beyond Perception Errors: Semantic Fixation in Large Vision-Language Models",
-      "url": "https://huggingface.co/papers/2604.12119",
+      "id": "hf_paper_2604.10866",
+      "title": "OccuBench: Evaluating AI Agents on Real-World Professional Tasks via Language World Models",
+      "url": "https://huggingface.co/papers/2604.10866",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-12T20:00:00.000Z",
-      "abstract": "Large vision-language models (VLMs) often rely on familiar semantic priors, but existing evaluations do not cleanly separate perception failures from rule-mapping failures. We study this behavior as s",
+      "abstract": "AI agents are expected to perform professional work across hundreds of occupational domains (from emergency department triage to nuclear reactor safety monitoring to customs import processing), yet ex",
       "authors": [
-        "Md Tanvirul Alam"
+        "Xiaomeng Hu",
+        "Yinger Zhang",
+        "Fei Huang",
+        "Jianhong Tu",
+        "Yang Su"
       ],
-      "tags": [],
+      "tags": [
+        "agent"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

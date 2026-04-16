@@ -1,104 +1,27 @@
 {
-  "generatedAt": "2026-04-16T01:49:55.651Z",
+  "generatedAt": "2026-04-16T04:45:24.797Z",
   "date": "13-04-2026",
-  "count": 24,
+  "count": 20,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2604.12946",
-      "title": "Parcae: Scaling Laws For Stable Looped Language Models",
-      "url": "https://huggingface.co/papers/2604.12946",
+      "id": "hf_paper_2604.13151",
+      "title": "Exploration and Exploitation Errors Are Measurable for Language Model Agents",
+      "url": "https://huggingface.co/papers/2604.13151",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-13T20:00:00.000Z",
-      "abstract": "Traditional fixed-depth architectures scale quality by increasing training FLOPs, typically through increased parameterization, at the expense of a higher memory footprint, or data. A potential altern",
+      "abstract": "Language Model (LM) agents are increasingly used in complex open-ended decision-making tasks, from AI coding to physical AI. A core requirement in these settings is the ability to both explore the pro",
       "authors": [
-        "Hayden Prairie",
-        "Zachary Novack",
-        "Taylor Berg-Kirkpatrick",
-        "Daniel Y. Fu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.13015",
-      "title": "Learning Versatile Humanoid Manipulation with Touch Dreaming",
-      "url": "https://huggingface.co/papers/2604.13015",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-13T20:00:00.000Z",
-      "abstract": "Humanoid robots promise general-purpose assistance, yet real-world humanoid loco-manipulation remains challenging because it requires whole-body stability, dexterous hands, and contact-aware perceptio",
-      "authors": [
-        "Yaru Niu",
-        "Zhenlong Fang",
-        "Binghong Chen",
-        "Shuai Zhou",
-        "Revanth Senthilkumaran"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.12978",
-      "title": "GlotOCR Bench: OCR Models Still Struggle Beyond a Handful of Unicode Scripts",
-      "url": "https://huggingface.co/papers/2604.12978",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-13T20:00:00.000Z",
-      "abstract": "Optical character recognition (OCR) has advanced rapidly with the rise of vision-language models, yet evaluation has remained concentrated on a small cluster of high- and mid-resource scripts. We intr",
-      "authors": [
-        "Amir Hossein Kargaran",
-        "Nafiseh Nikeghbal",
-        "Jana Diesner",
-        "François Yvon",
-        "Hinrich Schütze"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.12152",
-      "title": "Domain-Specific Latent Representations Improve the Fidelity of Diffusion-Based Medical Image Super-Resolution",
-      "url": "https://huggingface.co/papers/2604.12152",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-13T20:00:00.000Z",
-      "abstract": "Latent diffusion models for medical image super-resolution universally inherit variational autoencoders designed for natural photographs. We show that this default choice, not the diffusion architectu",
-      "authors": [
-        "Sebastian Cajas",
-        "Ashaba Judith",
-        "Rahul Gorijavolu",
-        "Sahil Kapadia",
-        "Hillary Clinton Kasimbazi"
+        "Jaden Park",
+        "Jungtaek Kim",
+        "Jongwon Jeong",
+        "Robert D. Nowak",
+        "Kangwook Lee"
       ],
       "tags": [
-        "diffusion"
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -110,78 +33,50 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.13023",
-      "title": "SpotSound: Enhancing Large Audio-Language Models with Fine-Grained Temporal Grounding",
-      "url": "https://huggingface.co/papers/2604.13023",
+      "id": "hf_paper_2604.13201",
+      "title": "InfiniteScienceGym: An Unbounded, Procedurally-Generated Benchmark for Scientific Analysis",
+      "url": "https://huggingface.co/papers/2604.13201",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-13T20:00:00.000Z",
-      "abstract": "Large Audio-Language Models (ALMs) have recently demonstrated remarkable capabilities in holistic audio understanding, yet they remain unreliable for temporal grounding, i.e., the task of pinpointing",
+      "abstract": "Large language models are emerging as scientific assistants, but evaluating their ability to reason from empirical data remains challenging. Benchmarks derived from published studies and human annotat",
       "authors": [
-        "Luoyi Sun",
-        "Xiao Zhou",
-        "Zeqian Li",
-        "Ya Zhang",
-        "Yanfeng Wang"
+        "Oliver Bentham",
+        "Vivek Srikumar"
+      ],
+      "tags": [
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.09687",
+      "title": "Grid2Matrix: Revealing Digital Agnosia in Vision-Language Models",
+      "url": "https://huggingface.co/papers/2604.09687",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-13T20:00:00.000Z",
+      "abstract": "Vision-Language Models (VLMs) excel on many multimodal reasoning benchmarks, but these evaluations often do not require an exhaustive readout of the image and can therefore obscure failures in faithfu",
+      "authors": [
+        "Yunkai Zhang",
+        "Linda Li",
+        "Yingxin Cui",
+        "Xiyuan Ruan",
+        "Zeyu Zheng"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.12989",
-      "title": "Accelerating Speculative Decoding with Block Diffusion Draft Trees",
-      "url": "https://huggingface.co/papers/2604.12989",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-13T20:00:00.000Z",
-      "abstract": "Speculative decoding accelerates autoregressive language models by using a lightweight drafter to propose multiple future tokens, which the target model then verifies in parallel. DFlash shows that a",
-      "authors": [
-        "Liran Ringel",
-        "Yaniv Romano"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.12373",
-      "title": "Masked by Consensus: Disentangling Privileged Knowledge in LLM Correctness",
-      "url": "https://huggingface.co/papers/2604.12373",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-13T20:00:00.000Z",
-      "abstract": "Humans use introspection to evaluate their understanding through private internal states inaccessible to external observers. We investigate whether large language models possess similar privileged kno",
-      "authors": [
-        "Tomer Ashuach",
-        "Liat Ein-Dor",
-        "Shai Gretz",
-        "Yoav Katz",
-        "Yonatan Belinkov"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

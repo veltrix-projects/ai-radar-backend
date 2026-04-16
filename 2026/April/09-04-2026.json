@@ -1,83 +1,25 @@
 {
-  "generatedAt": "2026-04-16T01:49:55.653Z",
+  "generatedAt": "2026-04-16T04:45:24.799Z",
   "date": "09-04-2026",
-  "count": 8,
+  "count": 6,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2604.09497",
-      "title": "BERT-as-a-Judge: A Robust Alternative to Lexical Methods for Efficient Reference-Based LLM Evaluation",
-      "url": "https://huggingface.co/papers/2604.09497",
+      "id": "hf_paper_2604.09409",
+      "title": "Do AI Coding Agents Log Like Humans? An Empirical Study",
+      "url": "https://huggingface.co/papers/2604.09409",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-09T20:00:00.000Z",
-      "abstract": "Accurate evaluation is central to the large language model (LLM) ecosystem, guiding model selection and downstream adoption across diverse use cases. In practice, however, evaluating generative output",
+      "abstract": "Software logging is essential for maintaining and debugging complex systems, yet it remains unclear how AI coding agents handle this non-functional requirement. While prior work characterizes human lo",
       "authors": [
-        "Hippolyte Gisserot-Boukhlef",
-        "Nicolas Boizard",
-        "Emmanuel Malherbe",
-        "Céline Hudelot",
-        "Pierre Colombo"
+        "Youssef Esseddiq Ouatiti",
+        "Mohammed Sayagh",
+        "Hao Li",
+        "Ahmed E. Hassan"
       ],
       "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.05072",
-      "title": "Hierarchical SVG Tokenization: Learning Compact Visual Programs for Scalable Vector Graphics Modeling",
-      "url": "https://huggingface.co/papers/2604.05072",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-09T20:00:00.000Z",
-      "abstract": "Recent large language models have shifted SVG generation from differentiable rendering optimization to autoregressive program synthesis. However, existing approaches still rely on generic byte-level t",
-      "authors": [
-        "Ximing Xing",
-        "Ziteng Xue",
-        "Zhenxi Li",
-        "Weicong Liang",
-        "Linqing Wang"
-      ],
-      "tags": [
-        "phi"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.09746",
-      "title": "CONSCIENTIA: Can LLM Agents Learn to Strategize? Emergent Deception and Trust in a Multi-Agent NYC Simulation",
-      "url": "https://huggingface.co/papers/2604.09746",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-09T20:00:00.000Z",
-      "abstract": "As large language models (LLMs) are increasingly deployed as autonomous agents, understanding how strategic behavior emerges in multi-agent environments has become an important alignment challenge. We",
-      "authors": [
-        "Aarush Sinha",
-        "Arion Das",
-        "Soumyadeep Nag",
-        "Charan Karnati",
-        "Shravani Nag"
-      ],
-      "tags": [
-        "llm",
         "agent"
       ],
       "score": 6,
