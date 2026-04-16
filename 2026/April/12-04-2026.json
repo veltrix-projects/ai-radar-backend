@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-16T16:52:40.496Z",
+  "generatedAt": "2026-04-16T19:42:10.788Z",
   "date": "12-04-2026",
-  "count": 4,
+  "count": 7,
   "summary": null,
   "items": [
     {
@@ -78,6 +78,88 @@
       ],
       "tags": [
         "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.11490",
+      "title": "Anthropogenic Regional Adaptation in Multimodal Vision-Language Model",
+      "url": "https://huggingface.co/papers/2604.11490",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-12T20:00:00.000Z",
+      "abstract": "While the field of vision-language (VL) has achieved remarkable success in integrating visual and textual information across multiple languages and domains, there is still no dedicated framework for a",
+      "authors": [
+        "Samuel Cahyawijaya",
+        "Peerat Limkonchotiwat",
+        "Tack Hwa Wong",
+        "Hitesh Laxmichand Patel",
+        "Amit Agarwal"
+      ],
+      "tags": [
+        "multimodal"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.11969",
+      "title": "Narrative-Driven Paper-to-Slide Generation via ArcDeck",
+      "url": "https://huggingface.co/papers/2604.11969",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-12T20:00:00.000Z",
+      "abstract": "We introduce ArcDeck, a multi-agent framework that formulates paper-to-slide generation as a structured narrative reconstruction task. Unlike existing methods that directly summarize raw text into sli",
+      "authors": [
+        "Tarik Can Ozden",
+        "Sachidanand VS",
+        "Furkan Horoz",
+        "Ozgur Kara",
+        "Junho Kim"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.11788",
+      "title": "HDR Video Generation via Latent Alignment with Logarithmic Encoding",
+      "url": "https://huggingface.co/papers/2604.11788",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-12T20:00:00.000Z",
+      "abstract": "High dynamic range (HDR) imagery offers a rich and faithful representation of scene radiance, but remains challenging for generative models due to its mismatch with the bounded, perceptually compresse",
+      "authors": [
+        "Naomi Ken Korem",
+        "Mohamed Oumoumad",
+        "Harel Cain",
+        "Matan Ben Yosef",
+        "Urska Jelercic"
+      ],
+      "tags": [
+        "alignment"
       ],
       "score": 6,
       "priority": "MEDIUM",

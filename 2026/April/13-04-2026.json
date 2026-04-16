@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-16T16:52:40.495Z",
+  "generatedAt": "2026-04-16T19:42:10.786Z",
   "date": "13-04-2026",
-  "count": 14,
+  "count": 13,
   "summary": null,
   "items": [
     {
@@ -123,26 +123,6 @@
       "points": 0
     },
     {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "How to build effective reward functions with AWS Lambda for Amazon Nova model customization",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-to-build-effective-reward-functions-with-aws-lambda-for-amazon-nova-model-customization/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-04-13T16:01:18.000Z",
-      "abstract": "This post demonstrates how Lambda enables scalable, cost-effective reward functions for Amazon Nova customization. You'll learn to choose between Reinforcement Learning via Verifiable Rewards (RLVR) f",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "google_deepmind_https%3A%2F%2Fdeepmind.google%2Fblog%2Fg",
       "title": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
       "url": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
@@ -186,20 +166,24 @@
       "points": 0
     },
     {
-      "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fhow-the-",
-      "title": "How the Internet Became Hell (with Whitney Phillips)",
-      "url": "https://www.404media.co/how-the-internet-became-hell-with-whitney-phillips/",
-      "source": "404 Media",
-      "sourceIcon": "📡",
-      "type": "news",
-      "timestamp": "2026-04-13T14:48:19.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "phi"
+      "id": "hf_paper_2604.12002",
+      "title": "Self-Distillation Zero: Self-Revision Turns Binary Rewards into Dense Supervision",
+      "url": "https://huggingface.co/papers/2604.12002",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-13T15:46:55.000Z",
+      "abstract": "Current post-training methods in verifiable settings fall into two categories. Reinforcement learning (RLVR) relies on binary rewards, which are broadly applicable and powerful, but provide only spars",
+      "authors": [
+        "Yinghui He",
+        "Simran Kaur",
+        "Adithya Bhaskar",
+        "Yongjin Yang",
+        "Jiarui Liu"
       ],
-      "score": 4,
-      "priority": "LOW",
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
