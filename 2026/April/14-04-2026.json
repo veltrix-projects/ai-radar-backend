@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-04-17T14:19:55.526Z",
+  "generatedAt": "2026-04-17T15:34:18.662Z",
   "date": "14-04-2026",
-  "count": 18,
+  "count": 19,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.14430",
+      "title": "Three-Phase Transformer",
+      "url": "https://huggingface.co/papers/2604.14430",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-14T20:00:00.000Z",
+      "abstract": "We present Three-Phase Transformer (3PT), a residual-stream structural prior for decoder-only Transformers on a standard SwiGLU + RMSNorm + RoPE + GQA backbone. The hidden vector is partitioned into N",
+      "authors": [
+        "Mohammad R. Abu Ayyash"
+      ],
+      "tags": [
+        "transformer"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2604.14062",
       "title": "OneHOI: Unifying Human-Object Interaction Generation and Editing",
