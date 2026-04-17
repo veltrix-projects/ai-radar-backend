@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-17T04:42:26.077Z",
+  "generatedAt": "2026-04-17T06:29:56.188Z",
   "date": "16-04-2026",
-  "count": 79,
+  "count": 84,
   "summary": null,
   "items": [
     {
@@ -113,7 +113,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 133811,
+      "stars": 133823,
       "votes": 0,
       "points": 0
     },
@@ -128,6 +128,28 @@
       "abstract": "",
       "authors": [],
       "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Building Transformer-Based NQS for Frustrated Spin Systems with NetKet",
+      "url": "https://www.marktechpost.com/2026/04/16/transformer-nqs-netket-j1j2-guide/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-04-16T21:32:14.000Z",
+      "abstract": "Learn how to combine Transformer architectures with Quantum Physics using NetKet and JAX. This guide walks through building a research-grade VMC pipeline to solve the frustrated J1-J2 Heisenberg spin",
+      "authors": [],
+      "tags": [
+        "transformer"
+      ],
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
@@ -854,30 +876,6 @@
       "points": 0
     },
     {
-      "id": "arxiv_2603.27844v2",
-      "title": "Model Capability Dominates: Inference-Time Optimization Lessons from AIMO 3",
-      "url": "https://arxiv.org/abs/2603.27844v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-16T17:29:54Z",
-      "abstract": "Majority voting over multiple LLM attempts improves mathematical reasoning, but correlated errors limit the effective sample size. A natural fix is to assign different reasoning strategies to differen",
-      "authors": [
-        "Natapong Nitarach"
-      ],
-      "tags": [
-        "inference"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "reddit_MachineLearning_t3_1sn9lhz",
       "title": "What should happen when you feed impossible moves into a chess-playing language model? [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1sn9lhz/what_should_happen_when_you_feed_impossible_moves/",
@@ -1421,6 +1419,26 @@
       "points": 0
     },
     {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "5 top cloud migration software for Infrastructure as Code (IaC)",
+      "url": "https://www.artificialintelligence-news.com/news/5-top-cloud-migration-software-for-infrastructure-as-code-iac/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-04-16T12:30:30.000Z",
+      "abstract": "Cloud migration becomes much harder when teams are not moving workloads, but also trying to make every environment reproducible and deployment-ready through Infrastructure as Code. The challenge is no",
+      "authors": [],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Fa",
       "title": "AI-generated synthetic neurons speed up brain mapping",
       "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/",
@@ -1483,6 +1501,28 @@
       "points": 0
     },
     {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "OpenAI Agents SDK improves governance with sandbox execution",
+      "url": "https://www.artificialintelligence-news.com/news/openai-agents-sdk-improves-governance-sandbox-execution/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-04-16T11:20:00.000Z",
+      "abstract": "OpenAI is introducing sandbox execution that allows enterprise governance teams to deploy automated workflows with controlled risk. Teams taking systems from prototype to production have faced difficu",
+      "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "reddit_MachineLearning_t3_1sn06cv",
       "title": "Can frontier AI models actually read a painting? [R]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1sn06cv/can_frontier_ai_models_actually_read_a_painting_r/",
@@ -1523,6 +1563,26 @@
       "points": 0
     },
     {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "Cadence expands AI and robotic partnerships with Nvidia, Google Cloud",
+      "url": "https://www.artificialintelligence-news.com/news/cadence-expands-ai-and-robotics-partnerships-with-nvidia-google-cloud/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-04-16T10:00:00.000Z",
+      "abstract": "Cadence Design Systems announced two AI-related collaborations at its CadenceLIVE event this week, expanding its work with Nvidia and introducing new integrations with Google Cloud. The Nvidia partner",
+      "authors": [],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "gh_132464395",
       "title": "Snailclimb/JavaGuide — Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
       "url": "https://github.com/Snailclimb/JavaGuide",
@@ -1549,7 +1609,29 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 155019,
+      "stars": 155023,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "UCSD and Together AI Research Introduces Parcae: A Stable Architecture for Looped Language Models That Achieves the Quality of a Transformer Twice the Size",
+      "url": "https://www.marktechpost.com/2026/04/16/ucsd-and-together-ai-research-introduces-parcae-a-stable-architecture-for-looped-language-models-that-achieves-the-quality-of-a-transformer-twice-the-size/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-04-16T08:30:30.000Z",
+      "abstract": "The dominant recipe for building better language models has not changed much since the Chinchilla era: spend more FLOPs, add more parameters, train on more tokens. But as inference deployments consume",
+      "authors": [],
+      "tags": [
+        "transformer"
+      ],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
       "votes": 0,
       "points": 0
     },
@@ -1594,26 +1676,6 @@
       "points": 0
     },
     {
-      "id": "reddit_MachineLearning_t3_1smv0rq",
-      "title": "[ICML 2026] Scores increased and then decreased!! [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1smv0rq/icml_2026_scores_increased_and_then_decreased_d/",
-      "source": "Reddit r/MachineLearning",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-04-16T06:02:18+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "gh_793375104",
       "title": "Shubhamsaboo/awesome-llm-apps — 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
@@ -1635,7 +1697,51 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 105953,
+      "stars": 105974,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "How to Build a Universal Long-Term Memory Layer for AI Agents Using Mem0 and OpenAI",
+      "url": "https://www.marktechpost.com/2026/04/15/how-to-build-a-universal-long-term-memory-layer-for-ai-agents-using-mem0-and-openai/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-04-16T04:58:44.000Z",
+      "abstract": "In this tutorial, we build a universal long-term memory layer for AI agents using Mem0, OpenAI models, and ChromaDB. We design a system that can extract structured memories from natural conversations,",
+      "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "A Coding Implementation to Build Multi-Agent AI Systems with SmolAgents Using Code Execution, Tool Calling, and Dynamic Orchestration",
+      "url": "https://www.marktechpost.com/2026/04/15/a-coding-implementation-to-build-multi-agent-ai-systems-with-smolagents-using-code-execution-tool-calling-and-dynamic-orchestration/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-04-16T04:38:31.000Z",
+      "abstract": "In this tutorial, we build an advanced, production-ready agentic system using SmolAgents and demonstrate how modern, lightweight AI agents can reason, execute code, dynamically manage tools, and colla",
+      "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
       "votes": 0,
       "points": 0
     },
@@ -1666,7 +1772,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 109415,
+      "stars": 109418,
       "votes": 0,
       "points": 0
     },
@@ -1696,7 +1802,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 158848,
+      "stars": 158962,
       "votes": 0,
       "points": 0
     },

@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-04-17T04:42:26.080Z",
+  "generatedAt": "2026-04-17T06:29:56.190Z",
   "date": "13-04-2026",
-  "count": 15,
+  "count": 14,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.11661",
+      "title": "Towards Autonomous Mechanistic Reasoning in Virtual Cells",
+      "url": "https://huggingface.co/papers/2604.11661",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-13T20:00:00.000Z",
+      "abstract": "Large language models (LLMs) have recently gained significant attention as a promising approach to accelerate scientific discovery. However, their application in open-ended scientific domains such as",
+      "authors": [
+        "Yunhui Jang",
+        "Lu Zhu",
+        "Jake Fawkes",
+        "Alisandra Kaye Denton",
+        "Dominique Beaini"
+      ],
+      "tags": [
+        "autonomous"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2604.14228",
       "title": "Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems",
@@ -75,32 +103,6 @@
       "tags": [
         "llm"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.12988",
-      "title": "ROSE: An Intent-Centered Evaluation Metric for NL2SQL",
-      "url": "https://huggingface.co/papers/2604.12988",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-13T20:00:00.000Z",
-      "abstract": "Execution Accuracy (EX), the widely used metric for evaluating the effectiveness of Natural Language to SQL (NL2SQL) solutions, is becoming increasingly unreliable. It is sensitive to syntactic variat",
-      "authors": [
-        "Wenqi Pei",
-        "Shizheng Hou",
-        "Boyan Li",
-        "Han Chen",
-        "Zhichao Shi"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -208,32 +210,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.12002",
-      "title": "Self-Distillation Zero: Self-Revision Turns Binary Rewards into Dense Supervision",
-      "url": "https://huggingface.co/papers/2604.12002",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-13T15:46:55.000Z",
-      "abstract": "Current post-training methods in verifiable settings fall into two categories. Reinforcement learning (RLVR) relies on binary rewards, which are broadly applicable and powerful, but provide only spars",
-      "authors": [
-        "Yinghui He",
-        "Simran Kaur",
-        "Adithya Bhaskar",
-        "Yongjin Yang",
-        "Jiarui Liu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

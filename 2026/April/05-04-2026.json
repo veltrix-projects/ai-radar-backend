@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-04-17T01:45:33.223Z",
+  "generatedAt": "2026-04-17T06:29:56.193Z",
   "date": "05-04-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2604.03088",
-      "title": "SkVM: Compiling Skills for Efficient Execution Everywhere",
-      "url": "https://huggingface.co/papers/2604.03088",
+      "id": "hf_paper_2604.04514",
+      "title": "SuperLocalMemory V3.3: The Living Brain -- Biologically-Inspired Forgetting, Cognitive Quantization, and Multi-Channel Retrieval for Zero-LLM Agent Memory Systems",
+      "url": "https://huggingface.co/papers/2604.04514",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-05T20:00:00.000Z",
-      "abstract": "LLM agents increasingly adopt skills as a reusable unit of composition. While skills are shared across diverse agent platforms, current systems treat them as raw context, causing the same skill to beh",
+      "abstract": "AI coding agents operate in a paradox: they possess vast parametric knowledge yet cannot remember a conversation from an hour ago. Existing memory systems store text in vector databases with single-ch",
       "authors": [
-        "Le Chen",
-        "Erhu Feng",
-        "Yubin Xia",
-        "Haibo Chen"
+        "Varun Pratap Bhardwaj"
       ],
-      "tags": [],
+      "tags": [
+        "llm",
+        "agent"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
