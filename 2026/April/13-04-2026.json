@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-04-17T01:45:33.218Z",
+  "generatedAt": "2026-04-17T04:42:26.080Z",
   "date": "13-04-2026",
-  "count": 14,
+  "count": 15,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2507.04227",
-      "title": "Mobile GUI Agents under Real-world Threats: Are We There Yet?",
-      "url": "https://huggingface.co/papers/2507.04227",
+      "id": "hf_paper_2604.14228",
+      "title": "Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems",
+      "url": "https://huggingface.co/papers/2604.14228",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-13T20:00:00.000Z",
-      "abstract": "Recent years have witnessed a rapid development of mobile GUI agents powered by large language models (LLMs), which can autonomously execute diverse device-control tasks based on natural language inst",
+      "abstract": "Claude Code is an agentic coding tool that can run shell commands, edit files, and call external services on behalf of the user. This study describes its comprehensive architecture by analyzing the pu",
       "authors": [
-        "Guohong Liu",
-        "Jialei Ye",
         "Jiacheng Liu",
-        "Yuanchun Li",
-        "Wei Liu"
+        "Xiaohan Zhao",
+        "Xinyi Shang",
+        "Zhiqiang Shen"
       ],
       "tags": [
+        "claude",
         "agent"
       ],
       "score": 6,
@@ -33,23 +33,47 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.13151",
-      "title": "Exploration and Exploitation Errors Are Measurable for Language Model Agents",
-      "url": "https://huggingface.co/papers/2604.13151",
+      "id": "hf_paper_2509.25843",
+      "title": "ASGuard: Activation-Scaling Guard to Mitigate Targeted Jailbreaking Attack",
+      "url": "https://huggingface.co/papers/2509.25843",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-13T20:00:00.000Z",
-      "abstract": "Language Model (LM) agents are increasingly used in complex open-ended decision-making tasks, from AI coding to physical AI. A core requirement in these settings is the ability to both explore the pro",
+      "abstract": "Large language models (LLMs), despite being safety-aligned, exhibit brittle refusal behaviors that can be circumvented by simple linguistic changes. As tense jailbreaking demonstrates that models refu",
       "authors": [
-        "Jaden Park",
-        "Jungtaek Kim",
-        "Jongwon Jeong",
-        "Robert D. Nowak",
-        "Kangwook Lee"
+        "Yein Park",
+        "Jungwoo Park",
+        "Jaewoo Kang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.13226",
+      "title": "KV Packet: Recomputation-Free Context-Independent KV Caching for LLMs",
+      "url": "https://huggingface.co/papers/2604.13226",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-13T20:00:00.000Z",
+      "abstract": "Large Language Models (LLMs) rely heavily on Key-Value (KV) caching to minimize inference latency. However, standard KV caches are context-dependent: reusing a cached document in a new context require",
+      "authors": [
+        "Chuangtao Chen",
+        "Grace Li Zhang",
+        "Xunzhao Yin",
+        "Cheng Zhuo",
+        "Bing Li"
       ],
       "tags": [
-        "agent"
+        "llm"
       ],
       "score": 6,
       "priority": "MEDIUM",

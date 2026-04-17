@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-04-17T01:45:33.219Z",
+  "generatedAt": "2026-04-17T04:42:26.081Z",
   "date": "12-04-2026",
-  "count": 7,
+  "count": 3,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.07466",
+      "title": "Cross-Tokenizer LLM Distillation through a Byte-Level Interface",
+      "url": "https://huggingface.co/papers/2604.07466",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-12T20:00:00.000Z",
+      "abstract": "Cross-tokenizer distillation (CTD), the transfer of knowledge from a teacher to a student language model when the two use different tokenizers, remains a largely unsolved problem. Existing approaches",
+      "authors": [
+        "Avyav Kumar Singh",
+        "Yen-Chen Wu",
+        "Alexandru Cioba",
+        "Alberto Bernacchia",
+        "Davide Buffelli"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2604.11490",
       "title": "Anthropogenic Regional Adaptation in Multimodal Vision-Language Model",
@@ -26,144 +54,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.11969",
-      "title": "Narrative-Driven Paper-to-Slide Generation via ArcDeck",
-      "url": "https://huggingface.co/papers/2604.11969",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-12T20:00:00.000Z",
-      "abstract": "We introduce ArcDeck, a multi-agent framework that formulates paper-to-slide generation as a structured narrative reconstruction task. Unlike existing methods that directly summarize raw text into sli",
-      "authors": [
-        "Tarik Can Ozden",
-        "Sachidanand VS",
-        "Furkan Horoz",
-        "Ozgur Kara",
-        "Junho Kim"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.11788",
-      "title": "HDR Video Generation via Latent Alignment with Logarithmic Encoding",
-      "url": "https://huggingface.co/papers/2604.11788",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-12T20:00:00.000Z",
-      "abstract": "High dynamic range (HDR) imagery offers a rich and faithful representation of scene radiance, but remains challenging for generative models due to its mismatch with the bounded, perceptually compresse",
-      "authors": [
-        "Naomi Ken Korem",
-        "Mohamed Oumoumad",
-        "Harel Cain",
-        "Matan Ben Yosef",
-        "Urska Jelercic"
-      ],
-      "tags": [
-        "alignment"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.11548",
-      "title": "SemaClaw: A Step Towards General-Purpose Personal AI Agents through Harness Engineering",
-      "url": "https://huggingface.co/papers/2604.11548",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-12T20:00:00.000Z",
-      "abstract": "The rise of OpenClaw in early 2026 marks the moment when millions of users began deploying personal AI agents into their daily lives, delegating tasks ranging from travel planning to multi-step resear",
-      "authors": [
-        "Ningyan Zhu",
-        "Huacan Wang",
-        "Jie Zhou",
-        "Feiyu Chen",
-        "Shuo Zhang"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.11045",
-      "title": "Sema Code: Decoupling AI Coding Agents into Programmable, Embeddable Infrastructure",
-      "url": "https://huggingface.co/papers/2604.11045",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-12T20:00:00.000Z",
-      "abstract": "AI coding agents have become central to developer workflows, yet every existing solution locks its reasoning capabilities within a specific delivery form, such as a CLI, IDE plugin, or web application",
-      "authors": [
-        "Huacan Wang",
-        "Jie Zhou",
-        "Ningyan Zhu",
-        "Shuo Zhang",
-        "Feiyu Chen"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.11626",
-      "title": "RationalRewards: Reasoning Rewards Scale Visual Generation Both Training and Test Time",
-      "url": "https://huggingface.co/papers/2604.11626",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-12T20:00:00.000Z",
-      "abstract": "Most reward models for visual generation reduce rich human judgments to a single unexplained score, discarding the reasoning that underlies preference. We show that teaching reward models to produce e",
-      "authors": [
-        "Haozhe Wang",
-        "Cong Wei",
-        "Weiming Ren",
-        "Jiaming Liu",
-        "Fangzhen Lin"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
