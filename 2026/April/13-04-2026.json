@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-17T09:51:48.494Z",
+  "generatedAt": "2026-04-17T11:42:58.536Z",
   "date": "13-04-2026",
-  "count": 14,
+  "count": 13,
   "summary": null,
   "items": [
     {
@@ -75,34 +75,6 @@
         "Jaewoo Kang"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.13226",
-      "title": "KV Packet: Recomputation-Free Context-Independent KV Caching for LLMs",
-      "url": "https://huggingface.co/papers/2604.13226",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-13T20:00:00.000Z",
-      "abstract": "Large Language Models (LLMs) rely heavily on Key-Value (KV) caching to minimize inference latency. However, standard KV caches are context-dependent: reusing a cached document in a new context require",
-      "authors": [
-        "Chuangtao Chen",
-        "Grace Li Zhang",
-        "Xunzhao Yin",
-        "Cheng Zhuo",
-        "Bing Li"
-      ],
-      "tags": [
-        "llm"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

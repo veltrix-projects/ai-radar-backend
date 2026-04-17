@@ -1,9 +1,64 @@
 {
-  "generatedAt": "2026-04-17T09:51:48.492Z",
+  "generatedAt": "2026-04-17T11:42:58.534Z",
   "date": "15-04-2026",
   "count": 31,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.15231",
+      "title": "RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography",
+      "url": "https://huggingface.co/papers/2604.15231",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-15T20:00:00.000Z",
+      "abstract": "Vision-language models (VLM) have markedly advanced AI-driven interpretation and reporting of complex medical imaging, such as computed tomography (CT). Yet, existing methods largely relegate clinicia",
+      "authors": [
+        "Mélanie Roschewitz",
+        "Kenneth Styppa",
+        "Yitian Tao",
+        "Jiwoong Sohn",
+        "Jean-Benoit Delbrouck"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.14572",
+      "title": "Don't Retrieve, Navigate: Distilling Enterprise Knowledge into Navigable Agent Skills for QA and RAG",
+      "url": "https://huggingface.co/papers/2604.14572",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-15T20:00:00.000Z",
+      "abstract": "Retrieval-Augmented Generation (RAG) grounds LLM responses in external evidence but treats the model as a passive consumer of search results: it never sees how the corpus is organized or what it has n",
+      "authors": [
+        "Yiqun Sun",
+        "Pengfei Wei",
+        "Lawrence B. Hsieh"
+      ],
+      "tags": [
+        "rag",
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2604.14629",
       "title": "Switch-KD: Visual-Switch Knowledge Distillation for Vision-Language Models",
@@ -236,62 +291,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.15309",
-      "title": "MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation",
-      "url": "https://huggingface.co/papers/2604.15309",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-15T20:00:00.000Z",
-      "abstract": "The rapid progress of Artificial Intelligence Generated Content (AIGC) tools enables images, videos, and visualizations to be created on demand for webpage design, offering a flexible and increasingly",
-      "authors": [
-        "Yan Li",
-        "Zezi Zeng",
-        "Yifan Yang",
-        "Yuqing Yang",
-        "Ning Liao"
-      ],
-      "tags": [
-        "multimodal",
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.14572",
-      "title": "Don't Retrieve, Navigate: Distilling Enterprise Knowledge into Navigable Agent Skills for QA and RAG",
-      "url": "https://huggingface.co/papers/2604.14572",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-15T20:00:00.000Z",
-      "abstract": "Retrieval-Augmented Generation (RAG) grounds LLM responses in external evidence but treats the model as a passive consumer of search results: it never sees how the corpus is organized or what it has n",
-      "authors": [
-        "Yiqun Sun",
-        "Pengfei Wei",
-        "Lawrence B. Hsieh"
-      ],
-      "tags": [
-        "rag",
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
