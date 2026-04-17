@@ -1,28 +1,24 @@
 {
-  "generatedAt": "2026-04-17T06:29:56.191Z",
+  "generatedAt": "2026-04-17T09:51:48.494Z",
   "date": "12-04-2026",
   "count": 2,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2604.07466",
-      "title": "Cross-Tokenizer LLM Distillation through a Byte-Level Interface",
-      "url": "https://huggingface.co/papers/2604.07466",
+      "id": "hf_paper_2604.11707",
+      "title": "Representations Before Pixels: Semantics-Guided Hierarchical Video Prediction",
+      "url": "https://huggingface.co/papers/2604.11707",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-12T20:00:00.000Z",
-      "abstract": "Cross-tokenizer distillation (CTD), the transfer of knowledge from a teacher to a student language model when the two use different tokenizers, remains a largely unsolved problem. Existing approaches",
+      "abstract": "Accurate future video prediction requires both high visual fidelity and consistent scene semantics, particularly in complex dynamic environments such as autonomous driving. We present Re2Pix, a hierar",
       "authors": [
-        "Avyav Kumar Singh",
-        "Yen-Chen Wu",
-        "Alexandru Cioba",
-        "Alberto Bernacchia",
-        "Davide Buffelli"
+        "Efstathios Karypidis",
+        "Spyros Gidaris",
+        "Nikos Komodakis"
       ],
-      "tags": [
-        "llm"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
