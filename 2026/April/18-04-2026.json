@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-19T08:03:32.010Z",
+  "generatedAt": "2026-04-19T09:11:25.160Z",
   "date": "18-04-2026",
-  "count": 25,
+  "count": 27,
   "summary": null,
   "items": [
     {
@@ -73,7 +73,53 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 184647,
+      "stars": 184651,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "A Coding Guide for Property-Based Testing Using Hypothesis with Stateful, Differential, and Metamorphic Test Design",
+      "url": "https://www.marktechpost.com/2026/04/18/a-coding-guide-for-property-based-testing-using-hypothesis-with-stateful-differential-and-metamorphic-test-design/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-04-18T21:55:25.000Z",
+      "abstract": "In this tutorial, we explore property-based testing using Hypothesis and build a rigorous testing pipeline that goes far beyond traditional unit testing. We implement invariants, differential testing,",
+      "authors": [],
+      "tags": [
+        "phi"
+      ],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Anthropic Releases Claude Opus 4.7: A Major Upgrade for Agentic Coding, High-Resolution Vision, and Long-Horizon Autonomous Tasks",
+      "url": "https://www.marktechpost.com/2026/04/18/anthropic-releases-claude-opus-4-7-a-major-upgrade-for-agentic-coding-high-resolution-vision-and-long-horizon-autonomous-tasks/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-04-18T21:40:03.000Z",
+      "abstract": "Anthropic has launched Claude Opus 4.7, it&#8217;s latest frontier model and a direct successor to Claude Opus 4.6. The release is positioned as a focused improvement rather than a full generational l",
+      "authors": [],
+      "tags": [
+        "claude",
+        "agent",
+        "autonomous"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
       "votes": 0,
       "points": 0
     },
@@ -243,37 +289,6 @@
       "points": 0
     },
     {
-      "id": "gh_155220641",
-      "title": "huggingface/transformers — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text",
-      "url": "https://github.com/huggingface/transformers",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-04-18T15:53:28Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "audio",
-        "deep-learning",
-        "deepseek",
-        "gemma",
-        "glm",
-        "hacktoberfest",
-        "llm",
-        "machine-learning",
-        "model-hub",
-        "natural-language-processing"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 159599,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "reddit_LocalLLaMA_t3_1sp10oa",
       "title": "KIMI K2.6 SOON !!",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sp10oa/kimi_k26_soon/",
@@ -310,37 +325,6 @@
       "downloads": 0,
       "likes": 0,
       "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "gh_626805178",
-      "title": "langgenius/dify — Production-ready platform for agentic workflow development.",
-      "url": "https://github.com/langgenius/dify",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-04-18T14:44:40Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "agent",
-        "agentic-ai",
-        "agentic-framework",
-        "agentic-workflow",
-        "ai",
-        "automation",
-        "gemini",
-        "genai",
-        "gpt",
-        "gpt-4"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 138277,
       "votes": 0,
       "points": 0
     },
@@ -542,6 +526,51 @@
       "authors": [],
       "tags": [
         "qwen"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Google AI Releases Auto-Diagnose: An Large Language Model LLM-Based System to Diagnose Integration Test Failures at Scale",
+      "url": "https://www.marktechpost.com/2026/04/17/google-ai-releases-auto-diagnose-an-large-language-model-llm-based-system-to-diagnose-integration-test-failures-at-scale/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-04-18T06:00:41.000Z",
+      "abstract": "If you have ever stared at thousands of lines of integration test logs wondering which of the sixteen log files actually contains your bug, you are not alone — and Google now has data to prove it. A t",
+      "authors": [],
+      "tags": [
+        "llm"
+      ],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "A End-to-End Coding Guide to Running OpenAI GPT-OSS Open-Weight Models with Advanced Inference Workflows",
+      "url": "https://www.marktechpost.com/2026/04/17/a-end-to-end-coding-guide-to-running-openai-gpt-oss-open-weight-models-with-advanced-inference-workflows/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-04-18T03:39:46.000Z",
+      "abstract": "In this tutorial, we explore how to run OpenAI’s open-weight GPT-OSS models in Google Colab with a strong focus on their technical behavior, deployment requirements, and practical inference workflows.",
+      "authors": [],
+      "tags": [
+        "gpt",
+        "inference"
       ],
       "score": 8,
       "priority": "HIGH",
