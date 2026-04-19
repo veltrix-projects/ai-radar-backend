@@ -1,9 +1,40 @@
 {
-  "generatedAt": "2026-04-19T22:26:50.225Z",
+  "generatedAt": "2026-04-19T23:58:30.207Z",
   "date": "19-04-2026",
-  "count": 51,
+  "count": 53,
   "summary": null,
   "items": [
+    {
+      "id": "hf_model_Sachin21112004/distilbart-news-summarizer",
+      "title": "Sachin21112004/distilbart-news-summarizer",
+      "url": "https://huggingface.co/Sachin21112004/distilbart-news-summarizer",
+      "source": "HuggingFace Models",
+      "sourceIcon": "🤗",
+      "type": "model",
+      "timestamp": "2026-04-19T23:41:27.000Z",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "summarization",
+        "transformers",
+        "pytorch",
+        "jax",
+        "rust",
+        "safetensors",
+        "bart",
+        "text2text-generation",
+        "summarization",
+        "news"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 3052,
+      "likes": 10,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "gh_1103012935",
       "title": "openclaw/openclaw — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
@@ -11,7 +42,7 @@
       "source": "GitHub",
       "sourceIcon": "⭐",
       "type": "tool",
-      "timestamp": "2026-04-19T22:13:37Z",
+      "timestamp": "2026-04-19T22:47:52Z",
       "abstract": "",
       "authors": [],
       "tags": [
@@ -29,7 +60,30 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 360558,
+      "stars": 360566,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "gh_612354784",
+      "title": "ggml-org/llama.cpp — LLM inference in C/C++",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "source": "GitHub",
+      "sourceIcon": "⭐",
+      "type": "tool",
+      "timestamp": "2026-04-19T22:41:43Z",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "ggml",
+        "C++"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 105006,
       "votes": 0,
       "points": 0
     },
@@ -40,7 +94,7 @@
       "source": "GitHub",
       "sourceIcon": "⭐",
       "type": "tool",
-      "timestamp": "2026-04-19T22:04:25Z",
+      "timestamp": "2026-04-19T22:30:22Z",
       "abstract": "",
       "authors": [],
       "tags": [
@@ -137,7 +191,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 161125,
+      "stars": 161138,
       "votes": 0,
       "points": 0
     },
@@ -211,7 +265,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 184738,
+      "stars": 184740,
       "votes": 0,
       "points": 0
     },
@@ -298,29 +352,6 @@
       "points": 0
     },
     {
-      "id": "gh_612354784",
-      "title": "ggml-org/llama.cpp — LLM inference in C/C++",
-      "url": "https://github.com/ggml-org/llama.cpp",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-04-19T18:38:42Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "ggml",
-        "C++"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 105004,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "gh_787076358",
       "title": "firecrawl/firecrawl — 🔥 The API to search, scrape, and interact with the web for AI",
       "url": "https://github.com/firecrawl/firecrawl",
@@ -347,7 +378,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 110822,
+      "stars": 110826,
       "votes": 0,
       "points": 0
     },
@@ -398,7 +429,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 183570,
+      "stars": 183569,
       "votes": 0,
       "points": 0
     },
@@ -429,7 +460,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 169444,
+      "stars": 169447,
       "votes": 0,
       "points": 0
     },
@@ -660,7 +691,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 132680,
+      "stars": 132686,
       "votes": 0,
       "points": 0
     },
@@ -711,7 +742,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 134078,
+      "stars": 134081,
       "votes": 0,
       "points": 0
     },
@@ -780,6 +811,28 @@
       "points": 0
     },
     {
+      "id": "reddit_LocalLLaMA_t3_1sptnbu",
+      "title": "Unsloth/Qwen3.6-35b-a3b -> Q5_K_S vs Q4_K_XL",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sptnbu/unslothqwen3635ba3b_q5_k_s_vs_q4_k_xl/",
+      "source": "Reddit r/LocalLLaMA",
+      "sourceIcon": "🔴",
+      "type": "news",
+      "timestamp": "2026-04-19T13:55:26+00:00",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "qwen"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "reddit_MachineLearning_t3_1sptj32",
       "title": "Advice on becoming a research engineer [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1sptj32/advice_on_becoming_a_research_engineer_d/",
@@ -826,7 +879,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 159620,
+      "stars": 159621,
       "votes": 0,
       "points": 0
     },
@@ -1025,7 +1078,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 106418,
+      "stars": 106420,
       "votes": 0,
       "points": 0
     },
