@@ -1,9 +1,59 @@
 {
-  "generatedAt": "2026-04-20T07:51:55.657Z",
+  "generatedAt": "2026-04-20T09:49:36.293Z",
   "date": "15-04-2026",
   "count": 19,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.14663",
+      "title": "EdgeDetect: Importance-Aware Gradient Compression with Homomorphic Aggregation for Federated Intrusion Detection",
+      "url": "https://huggingface.co/papers/2604.14663",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-15T20:00:00.000Z",
+      "abstract": "Federated learning (FL) enables collaborative intrusion detection without raw data exchange, but conventional FL incurs high communication overhead from full-precision gradient transmission and remain",
+      "authors": [
+        "Noor Islam S. Mohammad"
+      ],
+      "tags": [
+        "phi"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.14816",
+      "title": "NTIRE 2026 Challenge on Video Saliency Prediction: Methods and Results",
+      "url": "https://huggingface.co/papers/2604.14816",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-15T20:00:00.000Z",
+      "abstract": "This paper presents an overview of the NTIRE 2026 Challenge on Video Saliency Prediction. The goal of the challenge participants was to develop automatic saliency map prediction methods for the provid",
+      "authors": [
+        "Andrey Moskalenko",
+        "Alexey Bryncev",
+        "Ivan Kosmynin",
+        "Kira Shilovskaya",
+        "Mikhail Erofeev"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2502.07408",
       "title": "Maximal Brain Damage Without Data or Optimization: Disrupting Neural Networks via Sign-Bit Flips",
@@ -123,61 +173,6 @@
         "Linh Ngo"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.15231",
-      "title": "RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography",
-      "url": "https://huggingface.co/papers/2604.15231",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-15T20:00:00.000Z",
-      "abstract": "Vision-language models (VLM) have markedly advanced AI-driven interpretation and reporting of complex medical imaging, such as computed tomography (CT). Yet, existing methods largely relegate clinicia",
-      "authors": [
-        "Mélanie Roschewitz",
-        "Kenneth Styppa",
-        "Yitian Tao",
-        "Jiwoong Sohn",
-        "Jean-Benoit Delbrouck"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.14572",
-      "title": "Don't Retrieve, Navigate: Distilling Enterprise Knowledge into Navigable Agent Skills for QA and RAG",
-      "url": "https://huggingface.co/papers/2604.14572",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-15T20:00:00.000Z",
-      "abstract": "Retrieval-Augmented Generation (RAG) grounds LLM responses in external evidence but treats the model as a passive consumer of search results: it never sees how the corpus is organized or what it has n",
-      "authors": [
-        "Yiqun Sun",
-        "Pengfei Wei",
-        "Lawrence B. Hsieh"
-      ],
-      "tags": [
-        "rag",
-        "agent"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

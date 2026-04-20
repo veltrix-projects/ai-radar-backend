@@ -1,24 +1,29 @@
 {
-  "generatedAt": "2026-04-20T07:51:55.658Z",
+  "generatedAt": "2026-04-20T09:49:36.294Z",
   "date": "12-04-2026",
   "count": 2,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2604.11707",
-      "title": "Representations Before Pixels: Semantics-Guided Hierarchical Video Prediction",
-      "url": "https://huggingface.co/papers/2604.11707",
+      "id": "hf_paper_2604.12012",
+      "title": "TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment",
+      "url": "https://huggingface.co/papers/2604.12012",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-12T20:00:00.000Z",
-      "abstract": "Accurate future video prediction requires both high visual fidelity and consistent scene semantics, particularly in complex dynamic environments such as autonomous driving. We present Re2Pix, a hierar",
+      "abstract": "Recent progress in vision-language pretraining has enabled significant improvements to many downstream computer vision applications, such as classification, retrieval, segmentation and depth predictio",
       "authors": [
-        "Efstathios Karypidis",
-        "Spyros Gidaris",
-        "Nikos Komodakis"
+        "Bingyi Cao",
+        "Koert Chen",
+        "Kevis-Kokitsi Maninis",
+        "Kaifeng Chen",
+        "Arjun Karpur"
       ],
-      "tags": [],
+      "tags": [
+        "training",
+        "alignment"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
