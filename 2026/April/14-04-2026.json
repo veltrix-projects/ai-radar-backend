@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-20T09:49:36.293Z",
+  "generatedAt": "2026-04-20T11:12:38.656Z",
   "date": "14-04-2026",
-  "count": 12,
+  "count": 7,
   "summary": null,
   "items": [
     {
@@ -23,57 +23,6 @@
       "tags": [
         "llm",
         "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.14265",
-      "title": "Reinforcement Learning via Value Gradient Flow",
-      "url": "https://huggingface.co/papers/2604.14265",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-14T20:00:00.000Z",
-      "abstract": "We study behavior-regularized reinforcement learning (RL), where regularization toward a reference distribution (the dataset in offline RL or the base model in LLM RL finetuning) is essential to preve",
-      "authors": [
-        "Haoran Xu",
-        "Kaiwen Hu",
-        "Somayeh Sojoudi",
-        "Amy Zhang"
-      ],
-      "tags": [
-        "reinforcement learning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.14430",
-      "title": "Three-Phase Transformer",
-      "url": "https://huggingface.co/papers/2604.14430",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-14T20:00:00.000Z",
-      "abstract": "We present Three-Phase Transformer (3PT), a residual-stream structural prior for decoder-only Transformers on a standard SwiGLU + RMSNorm + RoPE + GQA backbone. The hidden vector is partitioned into N",
-      "authors": [
-        "Mohammad R. Abu Ayyash"
-      ],
-      "tags": [
-        "transformer"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -165,48 +114,6 @@
       "points": 0
     },
     {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "SAP brings agentic AI to human capital management",
-      "url": "https://www.artificialintelligence-news.com/news/sap-brings-agentic-ai-human-capital-management/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-04-14T12:55:09.000Z",
-      "abstract": "According to SAP, integrating agentic AI into core human capital management (HCM) modules helps target operational bloat and reduce costs. SAP’s SuccessFactors 1H 2026 release aims to anticipate admin",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "Canada&#8217;s Scotiabank preps for its AI future",
-      "url": "https://www.artificialintelligence-news.com/news/canadas-scotiabank-preps-for-its-ai-future/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-04-14T11:20:00.000Z",
-      "abstract": "Scotiabank has launched an AI framework, Scotia Intelligence, for data and AI operations that joins various platforms, data oversight, and software tools into a single instance. According to a press r",
-      "authors": [],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
       "title": "Coming soon: 10 Things That Matter in AI Right Now",
       "url": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/",
@@ -217,28 +124,6 @@
       "abstract": "",
       "authors": [],
       "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "Hyundai expands into robotics and physical AI systems",
-      "url": "https://www.artificialintelligence-news.com/news/hyundai-expands-into-robotics-and-physical-ai-systems/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-04-14T10:00:00.000Z",
-      "abstract": "Hyundai Motor Group is starting to look like a company building machines that act in the real world. The change centres on physical AI: Where AI is placed into robots and systems that move and respond",
-      "authors": [],
-      "tags": [
-        "robotics"
-      ],
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
