@@ -1,9 +1,62 @@
 {
-  "generatedAt": "2026-04-20T02:43:31.513Z",
+  "generatedAt": "2026-04-20T05:32:30.249Z",
   "date": "15-04-2026",
-  "count": 21,
+  "count": 20,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.14568",
+      "title": "Learning Adaptive Reasoning Paths for Efficient Visual Reasoning",
+      "url": "https://huggingface.co/papers/2604.14568",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-15T20:00:00.000Z",
+      "abstract": "Visual reasoning models (VRMs) have recently shown strong cross-modal reasoning capabilities by integrating visual perception with language reasoning. However, they often suffer from overthinking, pro",
+      "authors": [
+        "Yixu Huang",
+        "Tinghui Zhu",
+        "Muhao Chen"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.15411",
+      "title": "PRL-Bench: A Comprehensive Benchmark Evaluating LLMs' Capabilities in Frontier Physics Research",
+      "url": "https://huggingface.co/papers/2604.15411",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-15T20:00:00.000Z",
+      "abstract": "The paradigm of agentic science requires AI systems to conduct robust reasoning and engage in long-horizon, autonomous exploration. However, current scientific benchmarks remain confined to domain kno",
+      "authors": [
+        "Tingjia Miao",
+        "Wenkai Jin",
+        "Muhua Zhang",
+        "Jinxin Tan",
+        "Yuelin Hu"
+      ],
+      "tags": [
+        "llm",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2604.14914",
       "title": "Beyond Prompts: Unconditional 3D Inversion for Out-of-Distribution Shapes",
@@ -150,84 +203,6 @@
       ],
       "tags": [
         "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.15284",
-      "title": "GlobalSplat: Efficient Feed-Forward 3D Gaussian Splatting via Global Scene Tokens",
-      "url": "https://huggingface.co/papers/2604.15284",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-15T20:00:00.000Z",
-      "abstract": "The efficient spatial allocation of primitives serves as the foundation of 3D Gaussian Splatting, as it directly dictates the synergy between representation compactness, reconstruction speed, and rend",
-      "authors": [
-        "Roni Itkin",
-        "Noam Issachar",
-        "Yehonatan Keypur",
-        "Yehonatan Keypur",
-        "Anpei Chen"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.27844",
-      "title": "Model Capability Dominates: Inference-Time Optimization Lessons from AIMO 3",
-      "url": "https://huggingface.co/papers/2603.27844",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-15T20:00:00.000Z",
-      "abstract": "Majority voting over multiple LLM attempts improves mathematical reasoning, but correlated errors limit the effective sample size. A natural fix is to assign different reasoning strategies to differen",
-      "authors": [
-        "Natapong Nitarach"
-      ],
-      "tags": [
-        "inference"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.14922",
-      "title": "LongAct: Harnessing Intrinsic Activation Patterns for Long-Context Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2604.14922",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-15T20:00:00.000Z",
-      "abstract": "Reinforcement Learning (RL) has emerged as a critical driver for enhancing the reasoning capabilities of Large Language Models (LLMs). While recent advancements have focused on reward engineering or d",
-      "authors": [
-        "Bowen Ping",
-        "Zijun Chen",
-        "Tingfeng Hui",
-        "Qize Yu",
-        "Chenxuan Li"
-      ],
-      "tags": [
-        "reinforcement learning"
       ],
       "score": 6,
       "priority": "MEDIUM",

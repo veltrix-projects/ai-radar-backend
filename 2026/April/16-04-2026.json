@@ -1,106 +1,27 @@
 {
-  "generatedAt": "2026-04-20T02:43:31.512Z",
+  "generatedAt": "2026-04-20T05:32:30.248Z",
   "date": "16-04-2026",
-  "count": 34,
+  "count": 26,
   "summary": null,
   "items": [
     {
-      "id": "arxiv_2604.15309v1",
-      "title": "MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation",
-      "url": "https://arxiv.org/abs/2604.15309v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
+      "id": "hf_paper_2604.15715",
+      "title": "GTA-2: Benchmarking General Tool Agents from Atomic Tool-Use to Open-Ended Workflows",
+      "url": "https://huggingface.co/papers/2604.15715",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-04-16T17:59:49Z",
-      "abstract": "The rapid progress of Artificial Intelligence Generated Content (AIGC) tools enables images, videos, and visualizations to be created on demand for webpage design, offering a flexible and increasingly",
+      "timestamp": "2026-04-16T20:00:00.000Z",
+      "abstract": "The development of general-purpose agents requires a shift from executing simple instructions to completing complex, real-world productivity workflows. However, current tool-use benchmarks remain misa",
       "authors": [
-        "Yan Li",
-        "Zezi Zeng",
-        "Yifan Yang",
-        "Yuqing Yang",
-        "Ning Liao"
+        "Jize Wang",
+        "Xuanxuan Liu",
+        "Yining Li",
+        "Songyang Zhang",
+        "Yijun Wang"
       ],
       "tags": [
-        "multimodal",
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2604.15306v1",
-      "title": "Generalization in LLM Problem Solving: The Case of the Shortest Path",
-      "url": "https://arxiv.org/abs/2604.15306v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-16T17:59:43Z",
-      "abstract": "Whether language models can systematically generalize remains actively debated. Yet empirical performance is jointly shaped by multiple factors such as training data, training paradigms, and inference",
-      "authors": [
-        "Yao Tong",
-        "Jiayuan Ye",
-        "Anastasia Borovykh",
-        "Reza Shokri"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2604.15302v1",
-      "title": "Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations",
-      "url": "https://arxiv.org/abs/2604.15302v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-16T17:58:21Z",
-      "abstract": "LLM-as-judge frameworks are increasingly used for automatic NLG evaluation, yet their per-instance reliability remains poorly understood. We present a two-pronged diagnostic toolkit applied to SummEva",
-      "authors": [
-        "Manan Gupta",
-        "Dhruv Kumar"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2604.15297v1",
-      "title": "Benchmarking Optimizers for MLPs in Tabular Deep Learning",
-      "url": "https://arxiv.org/abs/2604.15297v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-16T17:57:02Z",
-      "abstract": "MLP is a heavily used backbone in modern deep learning (DL) architectures for supervised learning on tabular data, and AdamW is the go-to optimizer used to train tabular DL models. Unlike architecture",
-      "authors": [
-        "Yury Gorishniy",
-        "Ivan Rubachev",
-        "Dmitrii Feoktistov",
-        "Artem Babenko"
-      ],
-      "tags": [
+        "agent",
         "benchmark"
       ],
       "score": 6,
@@ -113,27 +34,25 @@
       "points": 0
     },
     {
-      "id": "arxiv_2604.15294v1",
-      "title": "How Do LLMs and VLMs Understand Viewpoint Rotation Without Vision? An Interpretability Study",
-      "url": "https://arxiv.org/abs/2604.15294v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
+      "id": "hf_paper_2604.16029",
+      "title": "Cut Your Losses! Learning to Prune Paths Early for Efficient Parallel Reasoning",
+      "url": "https://huggingface.co/papers/2604.16029",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-04-16T17:55:19Z",
-      "abstract": "Over the past year, spatial intelligence has drawn increasing attention. Many prior works study it from the perspective of visual-spatial intelligence, where models have access to visuospatial informa",
+      "timestamp": "2026-04-16T20:00:00.000Z",
+      "abstract": "Parallel reasoning enhances Large Reasoning Models (LRMs) but incurs prohibitive costs due to futile paths caused by early errors. To mitigate this, path pruning at the prefix level is essential, yet",
       "authors": [
-        "Zhen Yang",
-        "Ping Jian",
-        "Zhongbin Guo",
-        "Zuming Zhang",
-        "Chengzhi Li"
+        "Jiaxi Bi",
+        "Tongxu Luo",
+        "Wenyu Du",
+        "Zhengyang Tang",
+        "Benyou Wang"
       ],
-      "tags": [
-        "llm"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -141,47 +60,16 @@
       "points": 0
     },
     {
-      "id": "arxiv_2604.15291v1",
-      "title": "AD4AD: Benchmarking Visual Anomaly Detection Models for Safer Autonomous Driving",
-      "url": "https://arxiv.org/abs/2604.15291v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
+      "id": "hf_paper_2604.16254",
+      "title": "ArtifactNet: Detecting AI-Generated Music via Forensic Residual Physics",
+      "url": "https://huggingface.co/papers/2604.16254",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-04-16T17:54:53Z",
-      "abstract": "The reliability of a machine vision system for autonomous driving depends heavily on its training data distribution. When a vehicle encounters significantly different conditions, such as atypical obst",
+      "timestamp": "2026-04-16T20:00:00.000Z",
+      "abstract": "We present ArtifactNet, a lightweight framework that detects AI-generated music by reframing the problem as forensic physics -- extracting and analyzing the physical artifacts that neural audio codecs",
       "authors": [
-        "Fabrizio Genilotti",
-        "Arianna Stropeni",
-        "Gionata Grotto",
-        "Francesco Borsatti",
-        "Manuel Barusco"
-      ],
-      "tags": [
-        "benchmark",
-        "autonomous"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2604.15285v1",
-      "title": "Structural interpretability in SVMs with truncated orthogonal polynomial kernels",
-      "url": "https://arxiv.org/abs/2604.15285v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-16T17:52:08Z",
-      "abstract": "We study post-training interpretability for Support Vector Machines (SVMs) built from truncated orthogonal polynomial kernels. Since the associated reproducing kernel Hilbert space is finite-dimension",
-      "authors": [
-        "Víctor Soto-Larrosa",
-        "Nuria Torrado",
-        "Edmundo J. Huertas"
+        "Heewon Oh"
       ],
       "tags": [],
       "score": 6,
@@ -194,24 +82,23 @@
       "points": 0
     },
     {
-      "id": "arxiv_2604.15280v1",
-      "title": "Why Do Vision Language Models Struggle To Recognize Human Emotions?",
-      "url": "https://arxiv.org/abs/2604.15280v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
+      "id": "hf_paper_2604.15804",
+      "title": "Qwen3.5-Omni Technical Report",
+      "url": "https://huggingface.co/papers/2604.15804",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-04-16T17:49:58Z",
-      "abstract": "Understanding emotions is a fundamental ability for intelligent systems to be able to interact with humans. Vision-language models (VLMs) have made tremendous progress in the last few years for many v",
+      "timestamp": "2026-04-16T20:00:00.000Z",
+      "abstract": "In this work, we present Qwen3.5-Omni, the latest advancement in the Qwen-Omni model family. Representing a significant evolution over its predecessor, Qwen3.5-Omni scales to hundreds of billions of p",
       "authors": [
-        "Madhav Agarwal",
-        "Sotirios A. Tsaftaris",
-        "Laura Sevilla-Lara",
-        "Steven McDonagh"
+        "Qwen Team"
       ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
+      "tags": [
+        "qwen"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -219,50 +106,26 @@
       "points": 0
     },
     {
-      "id": "arxiv_2604.15273v1",
-      "title": "How Embeddings Shape Graph Neural Networks: Classical vs Quantum-Oriented Node Representations",
-      "url": "https://arxiv.org/abs/2604.15273v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
+      "id": "hf_paper_2604.16272",
+      "title": "VEFX-Bench: A Holistic Benchmark for Generic Video Editing and Visual Effects",
+      "url": "https://huggingface.co/papers/2604.16272",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-04-16T17:45:24Z",
-      "abstract": "Node embeddings act as the information interface for graph neural networks, yet their empirical impact is often reported under mismatched backbones, splits, and training budgets. This paper provides a",
+      "timestamp": "2026-04-16T20:00:00.000Z",
+      "abstract": "As AI-assisted video creation becomes increasingly practical, instruction-guided video editing has become essential for refining generated or captured footage to meet professional requirements. Yet th",
       "authors": [
-        "Nouhaila Innan",
-        "Antonello Rosato",
-        "Alberto Marchisio",
-        "Muhammad Shafique"
+        "Xiangbo Gao",
+        "Sicong Jiang",
+        "Bangya Liu",
+        "Xinghao Chen",
+        "Minglai Yang"
       ],
       "tags": [
-        "embeddings"
+        "benchmark"
       ],
       "score": 6,
       "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2604.15272v1",
-      "title": "Prism: Symbolic Superoptimization of Tensor Programs",
-      "url": "https://arxiv.org/abs/2604.15272v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-16T17:43:31Z",
-      "abstract": "This paper presents Prism, the first symbolic superoptimizer for tensor programs. The key idea is sGraph, a symbolic, hierarchical representation that compactly encodes large classes of tensor program",
-      "authors": [
-        "Mengdi Wu",
-        "Xiaoyu Jiang",
-        "Oded Padon",
-        "Zhihao Jia"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -293,86 +156,6 @@
       "points": 0
     },
     {
-      "id": "arxiv_2604.15271v1",
-      "title": "SegWithU: Uncertainty as Perturbation Energy for Single-Forward-Pass Risk-Aware Medical Image Segmentation",
-      "url": "https://arxiv.org/abs/2604.15271v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-16T17:42:42Z",
-      "abstract": "Reliable uncertainty estimation is critical for medical image segmentation, where automated contours feed downstream quantification and clinical decision support. Many strong uncertainty methods requi",
-      "authors": [
-        "Tianhao Fu",
-        "Austin Wang",
-        "Charles Chen",
-        "Roby Aldave-Garza",
-        "Yucheng Chen"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2604.15269v1",
-      "title": "Cloning is as Hard as Learning for Stabilizer States",
-      "url": "https://arxiv.org/abs/2604.15269v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-16T17:41:16Z",
-      "abstract": "The impossibility of simultaneously cloning non-orthogonal states lies at the foundations of quantum theory. Even when allowing for approximation errors, cloning an arbitrary unknown pure state requir",
-      "authors": [
-        "Nikhil Bansal",
-        "Matthias C. Caro",
-        "Gaurav Mahajan"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2604.15267v1",
-      "title": "CoopEval: Benchmarking Cooperation-Sustaining Mechanisms and LLM Agents in Social Dilemmas",
-      "url": "https://arxiv.org/abs/2604.15267v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-16T17:40:30Z",
-      "abstract": "It is increasingly important that LLM agents interact effectively and safely with other goal-pursuing agents, yet, recent works report the opposite trend: LLMs with stronger reasoning capabilities beh",
-      "authors": [
-        "Emanuel Tewolde",
-        "Xiao Zhang",
-        "David Guzman Piedrahita",
-        "Vincent Conitzer",
-        "Zhijing Jin"
-      ],
-      "tags": [
-        "llm",
-        "agent",
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
       "title": "Transform retail with AWS generative AI services",
       "url": "https://aws.amazon.com/blogs/machine-learning/transform-retail-with-aws-generative-ai-services/",
@@ -383,30 +166,6 @@
       "abstract": "Online retailers face a persistent challenge: shoppers struggle to determine the fit and look when ordering online, leading to increased returns and decreased purchase confidence. The cost? Lost reven",
       "authors": [],
       "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2604.15259v1",
-      "title": "Stability and Generalization in Looped Transformers",
-      "url": "https://arxiv.org/abs/2604.15259v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-16T17:35:49Z",
-      "abstract": "Looped transformers promise test-time compute scaling by spending more iterations on harder problems, but it remains unclear which architectural choices let them extrapolate to harder problems at test",
-      "authors": [
-        "Asher Labovich"
-      ],
-      "tags": [
-        "transformer"
-      ],
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
@@ -703,6 +462,37 @@
       "points": 0
     },
     {
+      "id": "gh_132464395",
+      "title": "Snailclimb/JavaGuide — Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+      "url": "https://github.com/Snailclimb/JavaGuide",
+      "source": "GitHub",
+      "sourceIcon": "⭐",
+      "type": "tool",
+      "timestamp": "2026-04-16T08:34:13Z",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "agent",
+        "context-engineering",
+        "interview",
+        "java",
+        "jvm",
+        "mcp",
+        "mysql",
+        "redis",
+        "redisson",
+        "skills"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 155077,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "gh_655806940",
       "title": "microsoft/generative-ai-for-beginners — 21 Lessons, Get Started Building with Generative AI",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
@@ -729,7 +519,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 109519,
+      "stars": 109526,
       "votes": 0,
       "points": 0
     },
