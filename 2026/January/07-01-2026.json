@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-20T05:32:30.263Z",
+  "generatedAt": "2026-04-20T07:51:55.674Z",
   "date": "07-01-2026",
-  "count": 1,
+  "count": 2,
   "summary": null,
   "items": [
     {
@@ -20,6 +20,31 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.04936",
+      "title": "Web Retrieval-Aware Chunking (W-RAC) for Efficient and Cost-Effective Retrieval-Augmented Generation Systems",
+      "url": "https://huggingface.co/papers/2604.04936",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-01-07T19:00:00.000Z",
+      "abstract": "Retrieval-Augmented Generation (RAG) systems critically depend on effective document chunking strategies to balance retrieval quality, latency, and operational cost. Traditional chunking approaches, s",
+      "authors": [
+        "Uday Allu",
+        "Sonu Kedia",
+        "Tanmay Odapally",
+        "Biddwan Ahmed"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

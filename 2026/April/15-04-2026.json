@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-04-20T05:32:30.249Z",
+  "generatedAt": "2026-04-20T07:51:55.657Z",
   "date": "15-04-2026",
-  "count": 20,
+  "count": 19,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2502.07408",
+      "title": "Maximal Brain Damage Without Data or Optimization: Disrupting Neural Networks via Sign-Bit Flips",
+      "url": "https://huggingface.co/papers/2502.07408",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-15T20:00:00.000Z",
+      "abstract": "Deep Neural Networks (DNNs) can be catastrophically disrupted by flipping only a handful of parameter bits. We introduce Deep Neural Lesion (DNL), a data-free and optimizationfree method that locates",
+      "authors": [
+        "Ido Galil",
+        "Moshe Kimhi",
+        "Ran El-Yaniv"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2604.14568",
       "title": "Learning Adaptive Reasoning Paths for Efficient Visual Reasoning",
@@ -153,56 +177,6 @@
       "tags": [
         "rag",
         "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.14629",
-      "title": "Switch-KD: Visual-Switch Knowledge Distillation for Vision-Language Models",
-      "url": "https://huggingface.co/papers/2604.14629",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-15T20:00:00.000Z",
-      "abstract": "Vision-Language Models (VLMs) have shown remarkable capabilities in joint vision-language understanding, but their large scale poses significant challenges for deployment in resource-constrained scena",
-      "authors": [
-        "Haoyi Sun",
-        "Xiaoxiao Wang",
-        "Ning Mao",
-        "Qian Wang",
-        "Lifu Mu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.14531",
-      "title": "TRACER: Trace-Based Adaptive Cost-Efficient Routing for LLM Classification",
-      "url": "https://huggingface.co/papers/2604.14531",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-15T20:00:00.000Z",
-      "abstract": "Every call to an LLM classification endpoint produces a labeled input-output pair already retained in production logs. These pairs constitute a free, growing training set: a lightweight surrogate trai",
-      "authors": [
-        "Adam Rida"
-      ],
-      "tags": [
-        "llm"
       ],
       "score": 6,
       "priority": "MEDIUM",

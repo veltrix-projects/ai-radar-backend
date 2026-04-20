@@ -1,9 +1,38 @@
 {
-  "generatedAt": "2026-04-20T05:32:30.250Z",
+  "generatedAt": "2026-04-20T07:51:55.657Z",
   "date": "14-04-2026",
   "count": 12,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2511.15915",
+      "title": "AccelOpt: A Self-Improving LLM Agentic System for AI Accelerator Kernel Optimization",
+      "url": "https://huggingface.co/papers/2511.15915",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-14T20:00:00.000Z",
+      "abstract": "We present AccelOpt, a self-improving large language model (LLM) agentic system that autonomously optimizes kernels for emerging AI acclerators, eliminating the need for expert-provided hardware-speci",
+      "authors": [
+        "Genghan Zhang",
+        "Shaowei Zhu",
+        "Anjiang Wei",
+        "Zhenyu Song",
+        "Allen Nie"
+      ],
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2604.14265",
       "title": "Reinforcement Learning via Value Gradient Flow",
@@ -46,32 +75,6 @@
       "tags": [
         "transformer"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.14062",
-      "title": "OneHOI: Unifying Human-Object Interaction Generation and Editing",
-      "url": "https://huggingface.co/papers/2604.14062",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-14T20:00:00.000Z",
-      "abstract": "Human-Object Interaction (HOI) modelling captures how humans act upon and relate to objects, typically expressed as <person, action, object> triplets. Existing approaches split into two disjoint famil",
-      "authors": [
-        "Jiun Tian Hoe",
-        "Weipeng Hu",
-        "Xudong Jiang",
-        "Yap-Peng Tan",
-        "Chee Seng Chan"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
