@@ -1,9 +1,64 @@
 {
-  "generatedAt": "2026-04-20T12:44:03.806Z",
+  "generatedAt": "2026-04-20T14:28:34.966Z",
   "date": "16-04-2026",
-  "count": 27,
+  "count": 29,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.16027",
+      "title": "Where does output diversity collapse in post-training?",
+      "url": "https://huggingface.co/papers/2604.16027",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-16T20:00:00.000Z",
+      "abstract": "Post-trained language models produce less varied outputs than their base counterparts. This output diversity collapse undermines inference-time scaling methods that rely on varied samples, and risks h",
+      "authors": [
+        "Constantinos Karouzos",
+        "Xingwei Tan",
+        "Nikolaos Aletras"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.15923",
+      "title": "Hierarchical Codec Diffusion for Video-to-Speech Generation",
+      "url": "https://huggingface.co/papers/2604.15923",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-16T20:00:00.000Z",
+      "abstract": "Video-to-Speech (VTS) generation aims to synthesize speech from a silent video without auditory signals. However, existing VTS methods disregard the hierarchical nature of speech, which spans coarse s",
+      "authors": [
+        "Jiaxin Ye",
+        "Gaoxiang Cong",
+        "Chenhui Wang",
+        "Xin-Cheng Wen",
+        "Zhaoyang Li"
+      ],
+      "tags": [
+        "diffusion",
+        "speech"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2604.16044",
       "title": "Elucidating the SNR-t Bias of Diffusion Probabilistic Models",
@@ -152,58 +207,6 @@
         "Heewon Oh"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.15804",
-      "title": "Qwen3.5-Omni Technical Report",
-      "url": "https://huggingface.co/papers/2604.15804",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-16T20:00:00.000Z",
-      "abstract": "In this work, we present Qwen3.5-Omni, the latest advancement in the Qwen-Omni model family. Representing a significant evolution over its predecessor, Qwen3.5-Omni scales to hundreds of billions of p",
-      "authors": [
-        "Qwen Team"
-      ],
-      "tags": [
-        "qwen"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.16272",
-      "title": "VEFX-Bench: A Holistic Benchmark for Generic Video Editing and Visual Effects",
-      "url": "https://huggingface.co/papers/2604.16272",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-16T20:00:00.000Z",
-      "abstract": "As AI-assisted video creation becomes increasingly practical, instruction-guided video editing has become essential for refining generated or captured footage to meet professional requirements. Yet th",
-      "authors": [
-        "Xiangbo Gao",
-        "Sicong Jiang",
-        "Bangya Liu",
-        "Xinghao Chen",
-        "Minglai Yang"
-      ],
-      "tags": [
-        "benchmark"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -480,6 +483,28 @@
       "points": 0
     },
     {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "OpenAI Agents SDK improves governance with sandbox execution",
+      "url": "https://www.artificialintelligence-news.com/news/openai-agents-sdk-improves-governance-sandbox-execution/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-04-16T11:20:00.000Z",
+      "abstract": "OpenAI is introducing sandbox execution that allows enterprise governance teams to deploy automated workflows with controlled risk. Teams taking systems from prototype to production have faced difficu",
+      "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fcodex",
       "title": "Codex for (almost) everything",
       "url": "https://openai.com/index/codex-for-almost-everything",
@@ -488,6 +513,26 @@
       "type": "news",
       "timestamp": "2026-04-16T10:00:00.000Z",
       "abstract": "",
+      "authors": [],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "Cadence expands AI and robotic partnerships with Nvidia, Google Cloud",
+      "url": "https://www.artificialintelligence-news.com/news/cadence-expands-ai-and-robotics-partnerships-with-nvidia-google-cloud/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-04-16T10:00:00.000Z",
+      "abstract": "Cadence Design Systems announced two AI-related collaborations at its CadenceLIVE event this week, expanding its work with Nvidia and introducing new integrations with Google Cloud. The Nvidia partner",
       "authors": [],
       "tags": [],
       "score": 8,
@@ -557,7 +602,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 109540,
+      "stars": 109543,
       "votes": 0,
       "points": 0
     },
