@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T15:49:02.382Z",
+  "generatedAt": "2026-04-21T16:49:09.230Z",
   "date": "17-04-2026",
   "count": 21,
   "summary": null,
@@ -108,6 +108,32 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2604.16830",
+      "title": "The Illusion of Certainty: Decoupling Capability and Calibration in On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2604.16830",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-17T20:00:00.000Z",
+      "abstract": "On-policy distillation (OPD) is an increasingly important paradigm for post-training language models. However, we identify a pervasive Scaling Law of Miscalibration: while OPD effectively improves tas",
+      "authors": [
+        "Jiaxin Zhang",
+        "Xiangyu Peng",
+        "Qinglin Chen",
+        "Qinyuan Ye",
+        "Caiming Xiong"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2604.17091",
       "title": "GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization (V1.0)",
       "url": "https://huggingface.co/papers/2604.17091",
@@ -151,32 +177,6 @@
         "Yaojie Lu",
         "Hongyu Lin",
         "Weixiang Zhou"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.16893",
-      "title": "EasyVideoR1: Easier RL for Video Understanding",
-      "url": "https://huggingface.co/papers/2604.16893",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-17T20:00:00.000Z",
-      "abstract": "Reinforcement learning from verifiable rewards (RLVR) has demonstrated remarkable effectiveness in improving the reasoning capabilities of large language models. As models evolve into natively multimo",
-      "authors": [
-        "Chuanyu Qin",
-        "Chenxu Yang",
-        "Qingyi Si",
-        "Naibin Gu",
-        "Dingyu Yao"
       ],
       "tags": [],
       "score": 6,
@@ -422,7 +422,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 135698,
+      "stars": 135703,
       "votes": 0,
       "points": 0
     },

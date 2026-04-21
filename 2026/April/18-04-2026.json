@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-21T15:49:02.382Z",
+  "generatedAt": "2026-04-21T16:49:09.230Z",
   "date": "18-04-2026",
-  "count": 7,
+  "count": 6,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,28 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.17273",
+      "title": "The Continuity Layer: Why Intelligence Needs an Architecture for What It Carries Forward",
+      "url": "https://huggingface.co/papers/2604.17273",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-18T20:00:00.000Z",
+      "abstract": "The most important architectural problem in AI is not the size of the model but the absence of a layer that carries forward what the model has come to understand. Sessions end. Context windows fill. M",
+      "authors": [
+        "Samuel Sameer Tanguturi"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -98,59 +120,6 @@
         "Markus Enzweiler"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.17454",
-      "title": "HSG: Hyperbolic Scene Graph",
-      "url": "https://huggingface.co/papers/2604.17454",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-18T20:00:00.000Z",
-      "abstract": "Scene graph representations enable structured visual understanding by modeling objects and their relationships, and have been widely used for multiview and 3D scene reasoning. Existing methods such as",
-      "authors": [
-        "Liyang Wang",
-        "Zeyu Zhang",
-        "Hao Tang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.17406",
-      "title": "EvoMaster: A Foundational Agent Framework for Building Evolving Autonomous Scientific Agents at Scale",
-      "url": "https://huggingface.co/papers/2604.17406",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-18T20:00:00.000Z",
-      "abstract": "The convergence of large language models and agents is catalyzing a new era of scientific discovery: Agentic Science. While the scientific method is inherently iterative, existing agent frameworks are",
-      "authors": [
-        "Xinyu Zhu",
-        "Yuzhu Cai",
-        "Zexi Liu",
-        "Cheng Wang",
-        "Fengyang Li"
-      ],
-      "tags": [
-        "agent",
-        "autonomous"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
