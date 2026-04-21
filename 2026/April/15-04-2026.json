@@ -1,9 +1,38 @@
 {
-  "generatedAt": "2026-04-21T18:58:41.279Z",
+  "generatedAt": "2026-04-21T20:03:38.468Z",
   "date": "15-04-2026",
-  "count": 7,
+  "count": 8,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.15579",
+      "title": "Symbolic Guardrails for Domain-Specific Agents: Stronger Safety and Security Guarantees Without Sacrificing Utility",
+      "url": "https://huggingface.co/papers/2604.15579",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-15T20:00:00.000Z",
+      "abstract": "AI agents that interact with their environments through tools enable powerful applications, but in high-stakes business settings, unintended actions can cause unacceptable harm, such as privacy breach",
+      "authors": [
+        "Yining Hong",
+        "Yining She",
+        "Eunsuk Kang",
+        "Christopher S. Timperley",
+        "Christian Kästner"
+      ],
+      "tags": [
+        "agent",
+        "safety"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2602.15143",
       "title": "Protecting Language Models Against Unauthorized Distillation through Trace Rewriting",
