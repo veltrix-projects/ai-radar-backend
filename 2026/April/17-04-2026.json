@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T14:13:21.947Z",
+  "generatedAt": "2026-04-21T15:49:02.382Z",
   "date": "17-04-2026",
   "count": 21,
   "summary": null,
@@ -108,6 +108,35 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2604.17091",
+      "title": "GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization (V1.0)",
+      "url": "https://huggingface.co/papers/2604.17091",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-17T20:00:00.000Z",
+      "abstract": "Long-horizon large language model (LLM) agents are fundamentally limited by context. As interactions become longer, tool descriptions, retrieved memories, and raw environmental feedback accumulate and",
+      "authors": [
+        "Jiaqing Liang",
+        "Jinyi Han",
+        "Weijia Li",
+        "Xinyi Wang",
+        "Zhoujia Zhang"
+      ],
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2604.16902",
       "title": "Beyond Text-Dominance: Understanding Modality Preference of Omni-modal Large Language Models",
       "url": "https://huggingface.co/papers/2604.16902",
@@ -153,35 +182,6 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.16943",
-      "title": "MNAFT: modality neuron-aware fine-tuning of multimodal large language models for image translation",
-      "url": "https://huggingface.co/papers/2604.16943",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-17T20:00:00.000Z",
-      "abstract": "Multimodal large language models (MLLMs) have shown impressive capabilities, yet they often struggle to effectively capture the fine-grained textual information within images crucial for accurate imag",
-      "authors": [
-        "Bo Li",
-        "Ningyuan Deng",
-        "Tianyu Dong",
-        "Shaobo Wang",
-        "Shaolin Zhu"
-      ],
-      "tags": [
-        "multimodal",
-        "fine-tuning"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -316,26 +316,6 @@
       "points": 0
     },
     {
-      "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fai-arti",
-      "title": "Dairy Queen is putting an AI chatbot in its drive-thrus",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto",
-      "source": "The Verge AI",
-      "sourceIcon": "🔺",
-      "type": "news",
-      "timestamp": "2026-04-17T15:46:37.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Ffaa-scra",
       "title": "FAA Scraps Civil and Criminal Penalties for Flying Drones Near ICE Vehicles",
       "url": "https://www.404media.co/faa-scraps-civil-and-criminal-penalties-for-flying-drones-near-ice-vehicles/",
@@ -442,7 +422,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 135691,
+      "stars": 135698,
       "votes": 0,
       "points": 0
     },
@@ -459,6 +439,33 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.16576",
+      "title": "On the Robustness of LLM-Based Dense Retrievers: A Systematic Analysis of Generalizability and Stability",
+      "url": "https://huggingface.co/papers/2604.16576",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-17T09:02:29.000Z",
+      "abstract": "Decoder-only large language models (LLMs) are increasingly replacing BERT-style architectures as the backbone for dense retrieval, achieving substantial performance gains and broad adoption. However,",
+      "authors": [
+        "Yongkang Li",
+        "Panagiotis Eustratiadis",
+        "Yixing Fan",
+        "Evangelos Kanoulas"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
