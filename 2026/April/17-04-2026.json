@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-21T04:42:21.628Z",
+  "generatedAt": "2026-04-21T06:29:44.654Z",
   "date": "17-04-2026",
-  "count": 20,
+  "count": 21,
   "summary": null,
   "items": [
     {
@@ -108,22 +108,54 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.16826",
-      "title": "Crowded in B-Space: Calibrating Shared Directions for LoRA Merging",
-      "url": "https://huggingface.co/papers/2604.16826",
+      "id": "hf_paper_2604.16893",
+      "title": "EasyVideoR1: Easier RL for Video Understanding",
+      "url": "https://huggingface.co/papers/2604.16893",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-17T20:00:00.000Z",
-      "abstract": "Merging separately trained LoRA adapters is a practical alternative to joint multi-task training, but it often hurts performance. Existing methods usually treat the LoRA update ΔW = BA as a single obj",
+      "abstract": "Reinforcement learning from verifiable rewards (RLVR) has demonstrated remarkable effectiveness in improving the reasoning capabilities of large language models. As models evolve into natively multimo",
       "authors": [
-        "Yixuan Tang",
-        "Yi Yang"
+        "Chuanyu Qin",
+        "Chenxu Yang",
+        "Qingyi Si",
+        "Naibin Gu",
+        "Dingyu Yao"
       ],
       "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.16943",
+      "title": "MNAFT: modality neuron-aware fine-tuning of multimodal large language models for image translation",
+      "url": "https://huggingface.co/papers/2604.16943",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-17T20:00:00.000Z",
+      "abstract": "Multimodal large language models (MLLMs) have shown impressive capabilities, yet they often struggle to effectively capture the fine-grained textual information within images crucial for accurate imag",
+      "authors": [
+        "Bo Li",
+        "Ningyuan Deng",
+        "Tianyu Dong",
+        "Shaobo Wang",
+        "Shaolin Zhu"
+      ],
+      "tags": [
+        "multimodal",
+        "fine-tuning"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -404,7 +436,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 135649,
+      "stars": 135659,
       "votes": 0,
       "points": 0
     },

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-21T04:42:21.627Z",
+  "generatedAt": "2026-04-21T06:29:44.651Z",
   "date": "18-04-2026",
-  "count": 3,
+  "count": 8,
   "summary": null,
   "items": [
     {
@@ -37,6 +37,141 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.17308",
+      "title": "SkillFlow:Benchmarking Lifelong Skill Discovery and Evolution for Autonomous Agents",
+      "url": "https://huggingface.co/papers/2604.17308",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-18T20:00:00.000Z",
+      "abstract": "As the capability frontier of autonomous agents continues to expand, they are increasingly able to complete specialized tasks through plug-and-play external skills. Yet current benchmarks mostly test",
+      "authors": [
+        "Ziao Zhang",
+        "Kou Shi",
+        "Shiting Huang",
+        "Avery Nie",
+        "Yu Zeng"
+      ],
+      "tags": [
+        "agent",
+        "benchmark",
+        "autonomous"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.17388",
+      "title": "Back to Repair: A Minimal Denoising Network\\ for Time Series Anomaly Detection",
+      "url": "https://huggingface.co/papers/2604.17388",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-18T20:00:00.000Z",
+      "abstract": "We introduce JuRe (Just Repair), a minimal denoising network for time series anomaly detection that exposes a central finding: architectural complexity is unnecessary when the training objective corre",
+      "authors": [
+        "Kadir-Kaan Özer",
+        "René Ebeling",
+        "Markus Enzweiler"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.17454",
+      "title": "HSG: Hyperbolic Scene Graph",
+      "url": "https://huggingface.co/papers/2604.17454",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-18T20:00:00.000Z",
+      "abstract": "Scene graph representations enable structured visual understanding by modeling objects and their relationships, and have been widely used for multiview and 3D scene reasoning. Existing methods such as",
+      "authors": [
+        "Liyang Wang",
+        "Zeyu Zhang",
+        "Hao Tang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.17406",
+      "title": "EvoMaster: A Foundational Agent Framework for Building Evolving Autonomous Scientific Agents at Scale",
+      "url": "https://huggingface.co/papers/2604.17406",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-18T20:00:00.000Z",
+      "abstract": "The convergence of large language models and agents is catalyzing a new era of scientific discovery: Agentic Science. While the scientific method is inherently iterative, existing agent frameworks are",
+      "authors": [
+        "Xinyu Zhu",
+        "Yuzhu Cai",
+        "Zexi Liu",
+        "Cheng Wang",
+        "Fengyang Li"
+      ],
+      "tags": [
+        "agent",
+        "autonomous"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.17338",
+      "title": "Precise Debugging Benchmark: Is Your Model Debugging or Regenerating?",
+      "url": "https://huggingface.co/papers/2604.17338",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-18T20:00:00.000Z",
+      "abstract": "Unlike code completion, debugging requires localizing faults and applying targeted edits. We observe that frontier LLMs often regenerate correct but over-edited solutions during debugging. To evaluate",
+      "authors": [
+        "Wang Bill Zhu",
+        "Miaosen Chai",
+        "Shangshang Wang",
+        "Yejia Liu",
+        "Song Bian"
+      ],
+      "tags": [
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
