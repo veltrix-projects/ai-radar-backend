@@ -1,9 +1,34 @@
 {
-  "generatedAt": "2026-04-21T20:03:38.467Z",
+  "generatedAt": "2026-04-21T21:08:57.320Z",
   "date": "18-04-2026",
   "count": 4,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.17318",
+      "title": "When Background Matters: Breaking Medical Vision Language Models by Transferable Attack",
+      "url": "https://huggingface.co/papers/2604.17318",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-18T20:00:00.000Z",
+      "abstract": "Vision-Language Models (VLMs) are increasingly used in clinical diagnostics, yet their robustness to adversarial attacks remains largely unexplored, posing serious risks. Existing medical attacks focu",
+      "authors": [
+        "Akash Ghosh",
+        "Subhadip Baidya",
+        "Sriparna Saha",
+        "Xiuying Chen"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2604.17273",
       "title": "The Continuity Layer: Why Intelligence Needs an Architecture for What It Carries Forward",
@@ -45,36 +70,6 @@
       "tags": [
         "llm",
         "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.17308",
-      "title": "SkillFlow:Benchmarking Lifelong Skill Discovery and Evolution for Autonomous Agents",
-      "url": "https://huggingface.co/papers/2604.17308",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-18T20:00:00.000Z",
-      "abstract": "As the capability frontier of autonomous agents continues to expand, they are increasingly able to complete specialized tasks through plug-and-play external skills. Yet current benchmarks mostly test",
-      "authors": [
-        "Ziao Zhang",
-        "Kou Shi",
-        "Shiting Huang",
-        "Avery Nie",
-        "Yu Zeng"
-      ],
-      "tags": [
-        "agent",
-        "benchmark",
-        "autonomous"
       ],
       "score": 6,
       "priority": "MEDIUM",
