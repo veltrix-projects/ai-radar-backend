@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-21T01:46:18.580Z",
+  "generatedAt": "2026-04-21T04:42:21.628Z",
   "date": "17-04-2026",
-  "count": 34,
+  "count": 20,
   "summary": null,
   "items": [
     {
@@ -108,6 +108,29 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2604.16826",
+      "title": "Crowded in B-Space: Calibrating Shared Directions for LoRA Merging",
+      "url": "https://huggingface.co/papers/2604.16826",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-17T20:00:00.000Z",
+      "abstract": "Merging separately trained LoRA adapters is a practical alternative to joint multi-task training, but it often hurts performance. Existing methods usually treat the LoRA update ΔW = BA as a single obj",
+      "authors": [
+        "Yixuan Tang",
+        "Yi Yang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
       "title": "Optimize video semantic search intent with Amazon Nova Model Distillation on Amazon Bedrock",
       "url": "https://aws.amazon.com/blogs/machine-learning/optimize-video-semantic-search-intent-with-amazon-nova-model-distillation-on-amazon-bedrock/",
@@ -173,312 +196,6 @@
       "points": 0
     },
     {
-      "id": "arxiv_2603.01098v2",
-      "title": "Differential privacy representation geometry for medical image analysis",
-      "url": "https://arxiv.org/abs/2603.01098v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-17T17:58:14Z",
-      "abstract": "Differential privacy (DP)'s effect in medical imaging is typically evaluated only through end-to-end performance, leaving the mechanism of privacy-induced utility loss unclear. We introduce Differenti",
-      "authors": [
-        "Soroosh Tayebi Arasteh",
-        "Marziyeh Mohammadi",
-        "Sven Nebelung",
-        "Daniel Truhn"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2507.20058v3",
-      "title": "Modeling Parkinson's Disease Progression Using Longitudinal Voice Biomarkers: A Comparative Study of Statistical and Neural Mixed-Effects Models",
-      "url": "https://arxiv.org/abs/2507.20058v3",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-17T17:57:59Z",
-      "abstract": "Predicting Parkinson's Disease (PD) progression is crucial for personalized treatment, and voice biomarkers offer a promising non-invasive method for tracking symptom severity through telemonitoring.",
-      "authors": [
-        "Ran Tong",
-        "Lanruo Wang",
-        "Tong Wang",
-        "Wei Yan"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2604.08809v2",
-      "title": "Structural Evaluation Metrics for SVG Generation via Leave-One-Out Analysis",
-      "url": "https://arxiv.org/abs/2604.08809v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-17T17:54:12Z",
-      "abstract": "SVG generation is typically evaluated by comparing rendered outputs to reference images, which captures visual similarity but not the structural properties that make SVG editable, decomposable, and re",
-      "authors": [
-        "Haonan Zhu",
-        "Adrienne Deganutti",
-        "Elad Hirsch",
-        "Purvanshi Mehta"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2502.15972v2",
-      "title": "When Cultures Meet: Multicultural Text-to-Image Generation",
-      "url": "https://arxiv.org/abs/2502.15972v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-17T17:51:32Z",
-      "abstract": "Text-to-image generation models have achieved strong performance in culturally homogeneous settings, yet their ability to generate multicultural scenes, where people and landmarks originate from diffe",
-      "authors": [
-        "Parth Bhalerao",
-        "Mounika Yalamarty",
-        "Brian Trinh",
-        "Oana Ignat"
-      ],
-      "tags": [
-        "text-to-image"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2604.15297v2",
-      "title": "Benchmarking Optimizers for MLPs in Tabular Deep Learning",
-      "url": "https://arxiv.org/abs/2604.15297v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-17T17:48:55Z",
-      "abstract": "MLP is a heavily used backbone in modern deep learning (DL) architectures for supervised learning on tabular data, and AdamW is the go-to optimizer used to train tabular DL models. Unlike architecture",
-      "authors": [
-        "Yury Gorishniy",
-        "Ivan Rubachev",
-        "Dmitrii Feoktistov",
-        "Artem Babenko"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2604.16286v1",
-      "title": "ASMR-Bench: Auditing for Sabotage in ML Research",
-      "url": "https://arxiv.org/abs/2604.16286v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-17T17:47:32Z",
-      "abstract": "As AI systems are increasingly used to conduct research autonomously, misaligned systems could introduce subtle flaws that produce misleading results while evading detection. We introduce ASMR-Bench (",
-      "authors": [
-        "Eric Gan",
-        "Aryan Bhatt",
-        "Buck Shlegeris",
-        "Julian Stastny",
-        "Vivek Hebbar"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2602.11173v2",
-      "title": "Author-in-the-Loop Response Generation and Evaluation: Integrating Author Expertise and Intent in Responses to Peer Review",
-      "url": "https://arxiv.org/abs/2602.11173v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-17T17:47:21Z",
-      "abstract": "Author response (rebuttal) writing is a critical stage of scientific peer review that demands substantial author effort. In practice, authors possess domain expertise, author-only information, and res",
-      "authors": [
-        "Qian Ruan",
-        "Iryna Gurevych"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2604.16282v1",
-      "title": "Geometric regularization of autoencoders via observed stochastic dynamics",
-      "url": "https://arxiv.org/abs/2604.16282v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-17T17:44:02Z",
-      "abstract": "Stochastic dynamical systems with slow or metastable behavior evolve, on long time scales, on an unknown low-dimensional manifold in high-dimensional ambient space. Building a reduced simulator from s",
-      "authors": [
-        "Sean Hill",
-        "Felix X. -F. Ye"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2604.16280v1",
-      "title": "Using Large Language Models and Knowledge Graphs to Improve the Interpretability of Machine Learning Models in Manufacturing",
-      "url": "https://arxiv.org/abs/2604.16280v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-17T17:41:17Z",
-      "abstract": "Explaining Machine Learning (ML) results in a transparent and user-friendly manner remains a challenging task of Explainable Artificial Intelligence (XAI). In this paper, we present a method to enhanc",
-      "authors": [
-        "Thomas Bayer",
-        "Alexander Lohr",
-        "Sarah Weiß",
-        "Bernd Michelberger",
-        "Wolfram Höpken"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2604.16279v1",
-      "title": "Evaluating the Progression of Large Language Model Capabilities for Small-Molecule Drug Design",
-      "url": "https://arxiv.org/abs/2604.16279v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-17T17:40:26Z",
-      "abstract": "Large Language Models (LLMs) have the potential to accelerate small molecule drug design due to their ability to reason about information from diverse sources and formats. However, their practical uti",
-      "authors": [
-        "Shriram Chennakesavalu",
-        "Kirill Shmilovich",
-        "Hayley Weir",
-        "Colin Grambow",
-        "John Bradshaw"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2604.16278v1",
-      "title": "Learning to Reason with Insight for Informal Theorem Proving",
-      "url": "https://arxiv.org/abs/2604.16278v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-17T17:36:21Z",
-      "abstract": "Although most of the automated theorem-proving approaches depend on formal proof systems, informal theorem proving can align better with large language models' (LLMs) strength in natural language proc",
-      "authors": [
-        "Yunhe Li",
-        "Hao Shi",
-        "Bowen Deng",
-        "Wei Wang",
-        "Mengzhe Ruan"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2604.16275v1",
-      "title": "No Universal Courtesy: A Cross-Linguistic, Multi-Model Study of Politeness Effects on LLMs Using the PLUM Corpus",
-      "url": "https://arxiv.org/abs/2604.16275v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-17T17:33:48Z",
-      "abstract": "This paper explores the response of Large Language Models (LLMs) to user prompts with different degrees of politeness and impoliteness. The Politeness Theory by Brown and Levinson and the Impoliteness",
-      "authors": [
-        "Hitesh Mehta",
-        "Arjit Saxena",
-        "Garima Chhikara",
-        "Rohit Kumar"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fgadgets",
       "title": "This charming gadget writes bad AI poetry",
       "url": "https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on",
@@ -499,59 +216,6 @@
       "points": 0
     },
     {
-      "id": "arxiv_2604.16272v1",
-      "title": "VEFX-Bench: A Holistic Benchmark for Generic Video Editing and Visual Effects",
-      "url": "https://arxiv.org/abs/2604.16272v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-17T17:28:24Z",
-      "abstract": "As AI-assisted video creation becomes increasingly practical, instruction-guided video editing has become essential for refining generated or captured footage to meet professional requirements. Yet th",
-      "authors": [
-        "Xiangbo Gao",
-        "Sicong Jiang",
-        "Bangya Liu",
-        "Xinghao Chen",
-        "Minglai Yang"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2604.16270v1",
-      "title": "From Benchmarking to Reasoning: A Dual-Aspect, Large-Scale Evaluation of LLMs on Vietnamese Legal Text",
-      "url": "https://arxiv.org/abs/2604.16270v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-17T17:28:23Z",
-      "abstract": "The complexity of Vietnam's legal texts presents a significant barrier to public access to justice. While Large Language Models offer a promising solution for legal text simplification, evaluating the",
-      "authors": [
-        "Van-Truong Le"
-      ],
-      "tags": [
-        "llm",
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
       "title": "Nova Forge SDK series part 2: Practical guide to fine-tune Nova models using data mixing capabilities",
       "url": "https://aws.amazon.com/blogs/machine-learning/nova-forge-sdk-series-part-2-practical-guide-to-fine-tune-nova-models-using-data-mixing-capabilities/",
@@ -564,34 +228,6 @@
       "tags": [],
       "score": 6,
       "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2603.20210v3",
-      "title": "CRoCoDiL: Continuous and Robust Conditioned Diffusion for Language",
-      "url": "https://arxiv.org/abs/2603.20210v3",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-17T17:27:01Z",
-      "abstract": "Masked Diffusion Models (MDMs) provide an efficient non-causal alternative to autoregressive generation but often struggle with token dependencies and semantic incoherence due to their reliance on dis",
-      "authors": [
-        "Roy Uziel",
-        "Omer Belhasin",
-        "Itay Levy",
-        "Akhiad Bercovich",
-        "Ran El-Yaniv"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 4,
-      "priority": "LOW",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -768,7 +404,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 135641,
+      "stars": 135649,
       "votes": 0,
       "points": 0
     },
