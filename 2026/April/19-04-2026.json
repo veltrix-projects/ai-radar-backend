@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-21T06:29:44.651Z",
+  "generatedAt": "2026-04-21T08:17:50.449Z",
   "date": "19-04-2026",
-  "count": 18,
+  "count": 23,
   "summary": null,
   "items": [
     {
@@ -50,7 +50,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 162353,
+      "stars": 162466,
       "votes": 0,
       "points": 0
     },
@@ -333,33 +333,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.18203",
-      "title": "Multiplication in Multimodal LLMs: Computation with Text, Image, and Audio Inputs",
-      "url": "https://huggingface.co/papers/2604.18203",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-19T20:00:00.000Z",
-      "abstract": "Multimodal LLMs can accurately perceive numerical content across modalities yet fail to perform exact multi-digit multiplication when the identical underlying arithmetic problem is presented as numera",
-      "authors": [
-        "Samuel G. Balter",
-        "Ethan Jerzak",
-        "Connor T. Jerzak"
-      ],
-      "tags": [
-        "llm",
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Ftech%2F",
       "title": "Cloud development platform Vercel was hacked",
       "url": "https://www.theverge.com/tech/914723/vercel-hacked",
@@ -380,6 +353,29 @@
       "points": 0
     },
     {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Meet OpenMythos: An Open-Source PyTorch Reconstruction of Claude Mythos Where 770M Parameters Match a 1.3B Transformer",
+      "url": "https://www.marktechpost.com/2026/04/19/meet-openmythos-an-open-source-pytorch-reconstruction-of-claude-mythos-where-770m-parameters-match-a-1-3b-transformer/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-04-19T19:47:49.000Z",
+      "abstract": "Anthropic has never published a technical paper on Claude Mythos. That has not stopped the research community from theorizing. A new open-source project called OpenMythos, released on GitHub by Kye Go",
+      "authors": [],
+      "tags": [
+        "claude",
+        "transformer"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "techcrunch_ai_https%3A%2F%2Ftechcrunch.com%2F2026%2F04",
       "title": "The 12-month window",
       "url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
@@ -393,6 +389,48 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "How TabPFN Leverages In-Context Learning to Achieve Superior Accuracy on Tabular Datasets Compared to Random Forest and CatBoost",
+      "url": "https://www.marktechpost.com/2026/04/19/how-tabpfn-leverages-in-context-learning-to-achieve-superior-accuracy-on-tabular-datasets-compared-to-random-forest-and-catboost/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-04-19T19:11:03.000Z",
+      "abstract": "Tabular data—structured information stored in rows and columns—is at the heart of most real-world machine learning problems, from healthcare records to financial transactions. Over the years, models b",
+      "authors": [],
+      "tags": [
+        "rag"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "A Coding Implementation to Build an AI-Powered File Type Detection and Security Analysis Pipeline with Magika and OpenAI",
+      "url": "https://www.marktechpost.com/2026/04/19/a-coding-implementation-to-build-an-ai-powered-file-type-detection-and-security-analysis-pipeline-with-magika-and-openai/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-04-19T18:38:58.000Z",
+      "abstract": "In this tutorial, we build a workflow that combines Magika’s deep-learning-based file type detection with OpenAI’s language intelligence to create a practical and insightful analysis pipeline. We begi",
+      "authors": [],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -440,6 +478,26 @@
       "points": 0
     },
     {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "NVIDIA Releases Ising: the First Open Quantum AI Model Family for Hybrid Quantum-Classical Systems",
+      "url": "https://www.marktechpost.com/2026/04/19/nvidia-releases-ising/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-04-19T07:54:42.000Z",
+      "abstract": "Quantum computing has spent years living in the future tense. Hardware has improved, research has compounded, and venture dollars have followed — but the gap between a quantum processor running in a l",
+      "authors": [],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "gh_793375104",
       "title": "Shubhamsaboo/awesome-llm-apps — 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
@@ -461,7 +519,53 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 106648,
+      "stars": 106665,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "xAI Launches Standalone Grok Speech-to-Text and Text-to-Speech APIs, Targeting Enterprise Voice Developers",
+      "url": "https://www.marktechpost.com/2026/04/18/xai-launches-standalone-grok-speech-to-text-and-text-to-speech-apis-targeting-enterprise-voice-developers/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-04-19T05:28:57.000Z",
+      "abstract": "Elon Musk&#8217;s AI company xAI has launched two standalone audio APIs — a Speech-to-Text (STT) API and a Text-to-Speech (TTS) API — both built on the same infrastructure that powers Grok Voice on mo",
+      "authors": [],
+      "tags": [
+        "speech"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "A Coding Tutorial for Running PrismML Bonsai 1-Bit LLM on CUDA with GGUF, Benchmarking, Chat, JSON, and RAG",
+      "url": "https://www.marktechpost.com/2026/04/18/a-coding-tutorial-for-running-prismml-bonsai-1-bit-llm-on-cuda-with-gguf-benchmarking-chat-json-and-rag/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-04-19T04:33:41.000Z",
+      "abstract": "In this tutorial, we implement how to run the Bonsai 1-bit large language model efficiently using GPU acceleration and PrismML’s optimized GGUF deployment stack. We set up the environment, install the",
+      "authors": [],
+      "tags": [
+        "llm",
+        "rag",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
       "votes": 0,
       "points": 0
     }
