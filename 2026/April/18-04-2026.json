@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-04-22T11:53:22.965Z",
+  "generatedAt": "2026-04-22T13:03:44.766Z",
   "date": "18-04-2026",
   "count": 4,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.17435",
+      "title": "MoVE: Translating Laughter and Tears via Mixture of Vocalization Experts in Speech-to-Speech Translation",
+      "url": "https://huggingface.co/papers/2604.17435",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-18T20:00:00.000Z",
+      "abstract": "Recent Speech-to-Speech Translation (S2ST) systems achieve strong semantic accuracy yet consistently strip away non-verbal vocalizations (NVs), such as laughter and crying that convey pragmatic intent",
+      "authors": [
+        "Szu-Chi Chen",
+        "I-Ning Tsai",
+        "Yi-Cheng Lin",
+        "Sung-Feng Huang",
+        "Hung-yi Lee"
+      ],
+      "tags": [
+        "speech"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2604.17397",
       "title": "Speculative Decoding for Autoregressive Video Generation",
@@ -18,34 +46,6 @@
         "Jintao Zhang"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.17632",
-      "title": "Code-Switching Information Retrieval: Benchmarks, Analysis, and the Limits of Current Retrievers",
-      "url": "https://huggingface.co/papers/2604.17632",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-18T20:00:00.000Z",
-      "abstract": "Code-switching is a pervasive linguistic phenomenon in global communication, yet modern information retrieval systems remain predominantly designed for, and evaluated within, monolingual contexts. To",
-      "authors": [
-        "Qingcheng Zeng",
-        "Yuheng Lu",
-        "Zeqi Zhou",
-        "Heli Qi",
-        "Puxuan Yu"
-      ],
-      "tags": [
-        "benchmark"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
