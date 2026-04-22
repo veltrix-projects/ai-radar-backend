@@ -1,24 +1,28 @@
 {
-  "generatedAt": "2026-04-22T02:23:15.316Z",
+  "generatedAt": "2026-04-22T05:10:34.580Z",
   "date": "19-04-2026",
-  "count": 5,
+  "count": 4,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2604.18396",
-      "title": "River-LLM: Large Language Model Seamless Exit Based on KV Share",
-      "url": "https://huggingface.co/papers/2604.18396",
+      "id": "hf_paper_2604.17761",
+      "title": "Contrastive Attribution in the Wild: An Interpretability Analysis of LLM Failures on Realistic Benchmarks",
+      "url": "https://huggingface.co/papers/2604.17761",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-19T20:00:00.000Z",
-      "abstract": "Large Language Models (LLMs) have demonstrated exceptional performance across diverse domains but are increasingly constrained by high inference latency. Early Exit has emerged as a promising solution",
+      "abstract": "Interpretability tools are increasingly used to analyze failures of Large Language Models (LLMs), yet prior work largely focuses on short prompts or toy settings, leaving their behavior on commonly us",
       "authors": [
-        "Yingtao Shen",
-        "An Zou"
+        "Rongyuan Tan",
+        "Jue Zhang",
+        "Zhuozhao Li",
+        "Qingwei Lin",
+        "Saravan Rajmohan"
       ],
       "tags": [
-        "llm"
+        "llm",
+        "benchmark"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -30,48 +34,23 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.18267",
-      "title": "MARCO: Navigating the Unseen Space of Semantic Correspondence",
-      "url": "https://huggingface.co/papers/2604.18267",
+      "id": "hf_paper_2604.18845",
+      "title": "Dual-View Training for Instruction-Following Information Retrieval",
+      "url": "https://huggingface.co/papers/2604.18845",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-19T20:00:00.000Z",
-      "abstract": "Recent advances in semantic correspondence rely on dual-encoder architectures, combining DINOv2 with diffusion backbones. While accurate, these billion-parameter models generalize poorly beyond traini",
+      "abstract": "Instruction-following information retrieval (IF-IR) studies retrieval systems that must not only find documents relevant to a query, but also obey explicit user constraints such as required attributes",
       "authors": [
-        "Claudia Cuttano",
-        "Gabriele Trivigno",
-        "Carlo Masone",
-        "Stefan Roth"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.17849",
-      "title": "On the Reliability of Computer Use Agents",
-      "url": "https://huggingface.co/papers/2604.17849",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-19T20:00:00.000Z",
-      "abstract": "Computer-use agents have rapidly improved on real-world tasks such as web navigation, desktop automation, and software interaction, in some cases surpassing human performance. Yet even when the task a",
-      "authors": [
-        "Gonzalo Gonzalez-Pumariega",
-        "Saaket Agashe",
-        "Jiachen Yang",
-        "Ang Li",
-        "Xin Eric Wang"
+        "Qingcheng Zeng",
+        "Puxuan Yu",
+        "Aman Mehta",
+        "Fuheng Zhao",
+        "Rajhans Samdani"
       ],
       "tags": [
-        "agent"
+        "training"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -83,25 +62,26 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.18168",
-      "title": "Extending One-Step Image Generation from Class Labels to Text via Discriminative Text Representation",
-      "url": "https://huggingface.co/papers/2604.18168",
+      "id": "hf_paper_2604.18164",
+      "title": "MM-JudgeBias: A Benchmark for Evaluating Compositional Biases in MLLM-as-a-Judge",
+      "url": "https://huggingface.co/papers/2604.18164",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-19T20:00:00.000Z",
-      "abstract": "Few-step generation has been a long-standing goal, with recent one-step generation methods exemplified by MeanFlow achieving remarkable results. Existing research on MeanFlow primarily focuses on clas",
+      "abstract": "Multimodal Large Language Models (MLLMs) have been increasingly used as automatic evaluators-a paradigm known as MLLM-as-a-Judge. However, their reliability and vulnerabilities to biases remain undere",
       "authors": [
-        "Chenxi Zhao",
-        "Chen Zhu",
-        "Xiaokun Feng",
-        "Aiming Hao",
-        "Jiashu Zhu"
+        "Sua Lee",
+        "Sanghee Park",
+        "Jinbae Im"
       ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "tags": [
+        "llm",
+        "benchmark"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -130,7 +110,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 106775,
+      "stars": 106796,
       "votes": 0,
       "points": 0
     }

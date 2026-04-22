@@ -1,9 +1,85 @@
 {
-  "generatedAt": "2026-04-22T02:23:15.317Z",
+  "generatedAt": "2026-04-22T05:10:34.580Z",
   "date": "18-04-2026",
   "count": 5,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.17397",
+      "title": "Speculative Decoding for Autoregressive Video Generation",
+      "url": "https://huggingface.co/papers/2604.17397",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-18T20:00:00.000Z",
+      "abstract": "Autoregressive video diffusion is emerging as a promising paradigm for streaming video synthesis, with step distillation serving as the primary means of accelerating inference. Whether speculative dec",
+      "authors": [
+        "Yuezhou Hu",
+        "Jintao Zhang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.17632",
+      "title": "Code-Switching Information Retrieval: Benchmarks, Analysis, and the Limits of Current Retrievers",
+      "url": "https://huggingface.co/papers/2604.17632",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-18T20:00:00.000Z",
+      "abstract": "Code-switching is a pervasive linguistic phenomenon in global communication, yet modern information retrieval systems remain predominantly designed for, and evaluated within, monolingual contexts. To",
+      "authors": [
+        "Qingcheng Zeng",
+        "Yuheng Lu",
+        "Zeqi Zhou",
+        "Heli Qi",
+        "Puxuan Yu"
+      ],
+      "tags": [
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.17472",
+      "title": "UniMesh: Unifying 3D Mesh Understanding and Generation",
+      "url": "https://huggingface.co/papers/2604.17472",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-18T20:00:00.000Z",
+      "abstract": "Recent advances in 3D vision have led to specialized models for either 3D understanding (e.g., shape classification, segmentation, reconstruction) or 3D generation (e.g., synthesis, completion, and ed",
+      "authors": [
+        "Peng Huang",
+        "Yifeng Chen",
+        "Zeyu Zhang",
+        "Hao Tang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2604.17596",
       "title": "Terminal Wrench: A Dataset of 331 Reward-Hackable Environments and 3,632 Exploit Trajectories",
@@ -21,82 +97,6 @@
         "Aditi Raghunathan"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.17318",
-      "title": "When Background Matters: Breaking Medical Vision Language Models by Transferable Attack",
-      "url": "https://huggingface.co/papers/2604.17318",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-18T20:00:00.000Z",
-      "abstract": "Vision-Language Models (VLMs) are increasingly used in clinical diagnostics, yet their robustness to adversarial attacks remains largely unexplored, posing serious risks. Existing medical attacks focu",
-      "authors": [
-        "Akash Ghosh",
-        "Subhadip Baidya",
-        "Sriparna Saha",
-        "Xiuying Chen"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.17273",
-      "title": "The Continuity Layer: Why Intelligence Needs an Architecture for What It Carries Forward",
-      "url": "https://huggingface.co/papers/2604.17273",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-18T20:00:00.000Z",
-      "abstract": "The most important architectural problem in AI is not the size of the model but the absence of a layer that carries forward what the model has come to understand. Sessions end. Context windows fill. M",
-      "authors": [
-        "Samuel Sameer Tanguturi"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.17609",
-      "title": "Agents Explore but Agents Ignore: LLMs Lack Environmental Curiosity",
-      "url": "https://huggingface.co/papers/2604.17609",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-18T20:00:00.000Z",
-      "abstract": "LLM-based agents are assumed to integrate environmental observations into their reasoning: discovering highly relevant but unexpected information should naturally lead to a model exploiting its own di",
-      "authors": [
-        "Leon Engländer",
-        "Sophia Althammer",
-        "Ahmet Üstün",
-        "Matthias Gallé",
-        "Tom Sherborne"
-      ],
-      "tags": [
-        "llm",
-        "agent"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
