@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-22T13:03:44.765Z",
+  "generatedAt": "2026-04-22T14:55:04.733Z",
   "date": "20-04-2026",
-  "count": 24,
+  "count": 25,
   "summary": null,
   "items": [
     {
@@ -60,6 +60,60 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.19642",
+      "title": "Micro Language Models Enable Instant Responses",
+      "url": "https://huggingface.co/papers/2604.19642",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-20T20:00:00.000Z",
+      "abstract": "Edge devices such as smartwatches and smart glasses cannot continuously run even the smallest 100M-1B parameter language models due to power and compute constraints, yet cloud inference introduces mul",
+      "authors": [
+        "Wen Cheng",
+        "Tuochao Chen",
+        "Karim Helwani",
+        "Sriram Srinivasan",
+        "Luke Zettlemoyer"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.19741",
+      "title": "CityRAG: Stepping Into a City via Spatially-Grounded Video Generation",
+      "url": "https://huggingface.co/papers/2604.19741",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-20T20:00:00.000Z",
+      "abstract": "We address the problem of generating a 3D-consistent, navigable environment that is spatially grounded: a simulation of a real location. Existing video generative models can produce a plausible sequen",
+      "authors": [
+        "Gene Chou",
+        "Charles Herrmann",
+        "Kyle Genova",
+        "Boyang Deng",
+        "Songyou Peng"
+      ],
+      "tags": [
+        "rag"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -254,34 +308,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.19667",
-      "title": "Chat2Workflow: A Benchmark for Generating Executable Visual Workflows with Natural Language",
-      "url": "https://huggingface.co/papers/2604.19667",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-20T20:00:00.000Z",
-      "abstract": "At present, executable visual workflows have emerged as a mainstream paradigm in real-world industrial deployments, offering strong reliability and controllability. However, in current practice, such",
-      "authors": [
-        "Yi Zhong",
-        "Buqiang Xu",
-        "Yijun Wang",
-        "Zifei Shan",
-        "Shuofei Qiao"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
