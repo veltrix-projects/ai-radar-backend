@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-22T07:09:45.255Z",
+  "generatedAt": "2026-04-22T09:01:52.511Z",
   "date": "20-04-2026",
-  "count": 27,
+  "count": 23,
   "summary": null,
   "items": [
     {
@@ -60,6 +60,62 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.19254",
+      "title": "ShadowPEFT: Shadow Network for Parameter-Efficient Fine-Tuning",
+      "url": "https://huggingface.co/papers/2604.19254",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-20T20:00:00.000Z",
+      "abstract": "Parameter-efficient fine-tuning (PEFT) reduces the training cost of full-parameter fine-tuning for large language models (LLMs) by training only a small set of task-specific parameters while freezing",
+      "authors": [
+        "Xianming Li",
+        "Zongxi Li",
+        "Tsz-fung Andrew Lee",
+        "Jing Li",
+        "Haoran Xie"
+      ],
+      "tags": [
+        "fine-tuning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.19406",
+      "title": "HP-Edit: A Human-Preference Post-Training Framework for Image Editing",
+      "url": "https://huggingface.co/papers/2604.19406",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-20T20:00:00.000Z",
+      "abstract": "Common image editing tasks typically adopt powerful generative diffusion models as the leading paradigm for real-world content editing. Meanwhile, although reinforcement learning (RL) methods such as",
+      "authors": [
+        "Fan Li",
+        "Chonghuinan Wang",
+        "Lina Lei",
+        "Yuping Qiu",
+        "Jiaqi Xu"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -225,112 +281,6 @@
         "agent",
         "autonomous"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.19550",
-      "title": "LoopCTR: Unlocking the Loop Scaling Power for Click-Through Rate Prediction",
-      "url": "https://huggingface.co/papers/2604.19550",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-20T20:00:00.000Z",
-      "abstract": "Scaling Transformer-based click-through rate (CTR) models by stacking more parameters brings growing computational and storage overhead, creating a widening gap between scaling ambitions and the strin",
-      "authors": [
-        "Jiakai Tang",
-        "Runfeng Zhang",
-        "Weiqiu Wang",
-        "Yifei Liu",
-        "Chuan Wang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.19742",
-      "title": "PlayCoder: Making LLM-Generated GUI Code Playable",
-      "url": "https://huggingface.co/papers/2604.19742",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-20T20:00:00.000Z",
-      "abstract": "Large language models (LLMs) have achieved strong results in code generation, but their ability to generate GUI applications, especially games, remains insufficiently studied. Existing benchmarks main",
-      "authors": [
-        "Zhiyuan Peng",
-        "Wei Tao",
-        "Xin Yin",
-        "Chenhao Ying",
-        "Yuan Luo"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.19748",
-      "title": "Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items",
-      "url": "https://huggingface.co/papers/2604.19748",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-20T20:00:00.000Z",
-      "abstract": "Recent advances in image generation and editing have opened new opportunities for virtual try-on. However, existing methods still struggle to meet complex real-world demands. We present Tstars-Tryon 1",
-      "authors": [
-        "Mengting Chen",
-        "Zhengrui Chen",
-        "Yongchao Du",
-        "Zuan Gao",
-        "Taihang Hu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.19341",
-      "title": "Evaluation-driven Scaling for Scientific Discovery",
-      "url": "https://huggingface.co/papers/2604.19341",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-20T20:00:00.000Z",
-      "abstract": "Language models are increasingly used in scientific discovery to generate hypotheses, propose candidate solutions, implement systems, and iteratively refine them. At the core of these trial-and-error",
-      "authors": [
-        "Haotian Ye",
-        "Haowei Lin",
-        "Jingyi Tang",
-        "Yizhen Luo",
-        "Caiyin Yang"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -549,28 +499,6 @@
       "points": 0
     },
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "OpenAI Scales Trusted Access for Cyber Defense With GPT-5.4-Cyber: a Fine-Tuned Model Built for Verified Security Defenders",
-      "url": "https://www.marktechpost.com/2026/04/20/openai-scales-trusted-access-for-cyber-defense-with-gpt-5-4-cyber-a-fine-tuned-model-built-for-verified-security-defenders/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-04-20T08:26:41.000Z",
-      "abstract": "OpenAI is moving from a limited pilot to broad deployment of its Trusted Access for Cyber program, introducing GPT-5.4-Cyber — a variant of GPT-5.4 fine-tuned to be cyber-permissive — for thousands of",
-      "authors": [],
-      "tags": [
-        "gpt"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
       "title": "Anthropic walks into the White House and Mythos is the reason Washington let it in",
       "url": "https://www.artificialintelligence-news.com/news/anthropic-mythos-ai-cybersecurity-white-house/",
@@ -584,28 +512,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Moonshot AI and Tsinghua Researchers Propose PrfaaS: A Cross-Datacenter KVCache Architecture that Rethinks How LLMs are Served at Scale",
-      "url": "https://www.marktechpost.com/2026/04/19/moonshot-ai-and-tsinghua-researchers-propose-prfaas-a-cross-datacenter-kvcache-architecture-that-rethinks-how-llms-are-served-at-scale/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-04-20T00:51:27.000Z",
-      "abstract": "For years, the way large language models handle inference has been stuck inside a box — literally. The high-bandwidth RDMA networks that make modern LLM serving work have confined both prefill and dec",
-      "authors": [],
-      "tags": [
-        "llm"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
