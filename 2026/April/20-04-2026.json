@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-22T14:55:04.733Z",
+  "generatedAt": "2026-04-22T16:03:07.982Z",
   "date": "20-04-2026",
-  "count": 25,
+  "count": 22,
   "summary": null,
   "items": [
     {
@@ -48,18 +48,24 @@
       "points": 0
     },
     {
-      "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Ftldr%2F",
-      "title": "Silicon Valley has forgotten what normal people want",
-      "url": "https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos",
-      "source": "The Verge AI",
-      "sourceIcon": "🔺",
-      "type": "news",
-      "timestamp": "2026-04-20T20:30:00.000Z",
-      "abstract": "",
-      "authors": [],
+      "id": "hf_paper_2604.19321",
+      "title": "RDP LoRA: Geometry-Driven Identification for Parameter-Efficient Adaptation in Large Language Models",
+      "url": "https://huggingface.co/papers/2604.19321",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-20T20:00:00.000Z",
+      "abstract": "Fine-tuning Large Language Models (LLMs) remains structurally uncertain despite parameter-efficient methods such as Low-Rank Adaptation (LoRA), as the layer-specific roles of internal representations",
+      "authors": [
+        "Yusuf Çelebi",
+        "Yağız Asker",
+        "Özay Ezerceli",
+        "Mahmoud ElHussieni",
+        "Selva Taş"
+      ],
       "tags": [],
-      "score": 4,
-      "priority": "LOW",
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -287,34 +293,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.19295",
-      "title": "TEMPO: Scaling Test-time Training for Large Reasoning Models",
-      "url": "https://huggingface.co/papers/2604.19295",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-20T20:00:00.000Z",
-      "abstract": "Test-time training (TTT) adapts model parameters on unlabeled test instances during inference time, which continuously extends capabilities beyond the reach of offline training. Despite initial gains,",
-      "authors": [
-        "Qingyang Zhang",
-        "Xinke Kong",
-        "Haitao Wu",
-        "Qinghua Hu",
-        "Minghao Wu"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fscientis",
       "title": "Scientists Gave a Bunch of Salmon Cocaine. This Is What Happened Next",
       "url": "https://www.404media.co/scientists-gave-a-bunch-of-salmon-cocaine-this-is-what-happened-next/",
@@ -503,28 +481,6 @@
       "points": 0
     },
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "OpenAI Scales Trusted Access for Cyber Defense With GPT-5.4-Cyber: a Fine-Tuned Model Built for Verified Security Defenders",
-      "url": "https://www.marktechpost.com/2026/04/20/openai-scales-trusted-access-for-cyber-defense-with-gpt-5-4-cyber-a-fine-tuned-model-built-for-verified-security-defenders/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-04-20T08:26:41.000Z",
-      "abstract": "OpenAI is moving from a limited pilot to broad deployment of its Trusted Access for Cyber program, introducing GPT-5.4-Cyber — a variant of GPT-5.4 fine-tuned to be cyber-permissive — for thousands of",
-      "authors": [],
-      "tags": [
-        "gpt"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
       "title": "Anthropic walks into the White House and Mythos is the reason Washington let it in",
       "url": "https://www.artificialintelligence-news.com/news/anthropic-mythos-ai-cybersecurity-white-house/",
@@ -538,28 +494,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Moonshot AI and Tsinghua Researchers Propose PrfaaS: A Cross-Datacenter KVCache Architecture that Rethinks How LLMs are Served at Scale",
-      "url": "https://www.marktechpost.com/2026/04/19/moonshot-ai-and-tsinghua-researchers-propose-prfaas-a-cross-datacenter-kvcache-architecture-that-rethinks-how-llms-are-served-at-scale/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-04-20T00:51:27.000Z",
-      "abstract": "For years, the way large language models handle inference has been stuck inside a box — literally. The high-bandwidth RDMA networks that make modern LLM serving work have confined both prefill and dec",
-      "authors": [],
-      "tags": [
-        "llm"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
