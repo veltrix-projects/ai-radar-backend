@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-04-23T15:23:41.325Z",
+  "generatedAt": "2026-04-23T16:56:33.607Z",
   "date": "19-04-2026",
-  "count": 2,
+  "count": 3,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.18780",
+      "title": "Streaming Structured Inference with Flash-SemiCRF",
+      "url": "https://huggingface.co/papers/2604.18780",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-19T20:00:00.000Z",
+      "abstract": "Semi-Markov Conditional Random Fields (semi-CRFs) assign labels to segments of a sequence rather than to individual positions, enabling exact inference over segment-level features and principled uncer",
+      "authors": [
+        "Benjamin K. Johnson",
+        "Thomas Goralski",
+        "Ayush Semwal",
+        "Hui Shen",
+        "H. Josh Jang"
+      ],
+      "tags": [
+        "inference"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2604.18805",
       "title": "AI scientists produce results without reasoning scientifically",
@@ -52,7 +80,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 107125,
+      "stars": 107146,
       "votes": 0,
       "points": 0
     }

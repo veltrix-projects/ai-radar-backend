@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-04-23T15:23:41.326Z",
+  "generatedAt": "2026-04-23T16:56:33.608Z",
   "date": "16-04-2026",
-  "count": 5,
+  "count": 6,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.16659",
+      "title": "Benign Fine-Tuning Breaks Safety Alignment in Audio LLMs",
+      "url": "https://huggingface.co/papers/2604.16659",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-16T20:00:00.000Z",
+      "abstract": "Prior work shows that fine-tuning aligned models on benign data degrades safety in text and vision modalities, and that proximity to harmful content in representation space predicts which samples caus",
+      "authors": [
+        "Jaechul Roh",
+        "Amir Houmansadr"
+      ],
+      "tags": [
+        "llm",
+        "fine-tuning",
+        "alignment",
+        "safety"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "How to Build Vision AI Pipelines Using NVIDIA DeepStream Coding Agents",
