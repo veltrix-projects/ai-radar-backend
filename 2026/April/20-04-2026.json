@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-23T18:03:39.444Z",
+  "generatedAt": "2026-04-23T19:47:32.866Z",
   "date": "20-04-2026",
-  "count": 16,
+  "count": 17,
   "summary": null,
   "items": [
     {
@@ -41,6 +41,32 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.19835",
+      "title": "Expert Upcycling: Shifting the Compute-Efficient Frontier of Mixture-of-Experts",
+      "url": "https://huggingface.co/papers/2604.19835",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-20T20:00:00.000Z",
+      "abstract": "Mixture-of-Experts (MoE) has become the dominant architecture for scaling large language models: frontier models routinely decouple total parameters from per-token computation through sparse expert ro",
+      "authors": [
+        "Chaitanya Dwivedi",
+        "Binxuan Huang",
+        "Himanshu Gupta",
+        "Pratik Jayarao",
+        "Neeraj Varshney"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
