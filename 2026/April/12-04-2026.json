@@ -1,23 +1,28 @@
 {
-  "generatedAt": "2026-04-23T03:50:48.370Z",
+  "generatedAt": "2026-04-23T05:59:40.086Z",
   "date": "12-04-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2602.10751",
-      "title": "Predicting integers from continuous parameters",
-      "url": "https://huggingface.co/papers/2602.10751",
+      "id": "hf_paper_2604.11610",
+      "title": "Self-Evolving LLM Memory Extraction Across Heterogeneous Tasks",
+      "url": "https://huggingface.co/papers/2604.11610",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-12T20:00:00.000Z",
-      "abstract": "We study the problem of predicting numeric labels that are constrained to the integers or to a subrange of the integers. For example, the number of up-votes on social media posts, or the number of bic",
+      "abstract": "As LLM-based assistants become persistent and personalized, they must extract and retain useful information from past conversations as memory. However, the types of information worth remembering vary",
       "authors": [
-        "Bas Maat",
-        "Peter Bloem"
+        "Yuqing Yang",
+        "Tengxiao Liu",
+        "Wang Bill Zhu",
+        "Taiwei Shi",
+        "Linxin Song"
       ],
-      "tags": [],
+      "tags": [
+        "llm"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

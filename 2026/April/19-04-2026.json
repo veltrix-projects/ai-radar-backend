@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-23T03:50:48.367Z",
+  "generatedAt": "2026-04-23T05:59:40.083Z",
   "date": "19-04-2026",
-  "count": 5,
+  "count": 2,
   "summary": null,
   "items": [
     {
@@ -22,91 +22,6 @@
       ],
       "tags": [
         "agent",
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.17982",
-      "title": "Mitigating Multimodal Hallucination via Phase-wise Self-reward",
-      "url": "https://huggingface.co/papers/2604.17982",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-19T20:00:00.000Z",
-      "abstract": "Large Vision-Language Models (LVLMs) still struggle with vision hallucination, where generated responses are inconsistent with the visual input. Existing methods either rely on large-scale annotated d",
-      "authors": [
-        "Yu Zhang",
-        "Chuyang Sun",
-        "Kehai Chen",
-        "Xuefeng Bai",
-        "Yang Xiang"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.18518",
-      "title": "UDM-GRPO: Stable and Efficient Group Relative Policy Optimization for Uniform Discrete Diffusion Models",
-      "url": "https://huggingface.co/papers/2604.18518",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-19T20:00:00.000Z",
-      "abstract": "Uniform Discrete Diffusion Model (UDM) has recently emerged as a promising paradigm for discrete generative modeling; however, its integration with reinforcement learning remains largely unexplored. W",
-      "authors": [
-        "Jiaqi Wang",
-        "Haoge Deng",
-        "Ting Pan",
-        "Yang Liu",
-        "Chengyuan Wang"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.17761",
-      "title": "Contrastive Attribution in the Wild: An Interpretability Analysis of LLM Failures on Realistic Benchmarks",
-      "url": "https://huggingface.co/papers/2604.17761",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-19T20:00:00.000Z",
-      "abstract": "Interpretability tools are increasingly used to analyze failures of Large Language Models (LLMs), yet prior work largely focuses on short prompts or toy settings, leaving their behavior on commonly us",
-      "authors": [
-        "Rongyuan Tan",
-        "Jue Zhang",
-        "Zhuozhao Li",
-        "Qingwei Lin",
-        "Saravan Rajmohan"
-      ],
-      "tags": [
-        "llm",
         "benchmark"
       ],
       "score": 6,
@@ -140,7 +55,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 106959,
+      "stars": 107021,
       "votes": 0,
       "points": 0
     }

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-23T03:50:48.366Z",
+  "generatedAt": "2026-04-23T05:59:40.083Z",
   "date": "20-04-2026",
-  "count": 22,
+  "count": 21,
   "summary": null,
   "items": [
     {
@@ -41,6 +41,89 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.19859",
+      "title": "DR-Venus: Towards Frontier Edge-Scale Deep Research Agents with Only 10K Open Data",
+      "url": "https://huggingface.co/papers/2604.19859",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-20T20:00:00.000Z",
+      "abstract": "Edge-scale deep research agents based on small language models are attractive for real-world deployment due to their advantages in cost, latency, and privacy. In this work, we study how to train a str",
+      "authors": [
+        "Venus Team",
+        "Sunhao Dai",
+        "Yong Deng",
+        "Jinzhen Lin",
+        "Yusheng Song"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.19902",
+      "title": "MMCORE: MultiModal COnnection with Representation Aligned Latent Embeddings",
+      "url": "https://huggingface.co/papers/2604.19902",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-20T20:00:00.000Z",
+      "abstract": "We present MMCORE, a unified framework designed for multimodal image generation and editing. MMCORE leverages a pre-trained Vision-Language Model (VLM) to predict semantic visual embeddings via learna",
+      "authors": [
+        "Zijie Li",
+        "Yichun Shi",
+        "Jingxiang Sun",
+        "Ye Wang",
+        "Yixuan Huang"
+      ],
+      "tags": [
+        "multimodal",
+        "embeddings"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.19926",
+      "title": "CreativeGame:Toward Mechanic-Aware Creative Game Generation",
+      "url": "https://huggingface.co/papers/2604.19926",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-20T20:00:00.000Z",
+      "abstract": "Large language models can generate plausible game code, but turning this capability into iterative creative improvement remains difficult. In practice, single-shot generation often produces brittle ru",
+      "authors": [
+        "Hongnan Ma",
+        "Han Wang",
+        "Shenglin Wang",
+        "Tieyue Yin",
+        "Yiwei Shi"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -171,118 +254,6 @@
         "Sebastian Ehlert"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.19254",
-      "title": "ShadowPEFT: Shadow Network for Parameter-Efficient Fine-Tuning",
-      "url": "https://huggingface.co/papers/2604.19254",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-20T20:00:00.000Z",
-      "abstract": "Parameter-efficient fine-tuning (PEFT) reduces the training cost of full-parameter fine-tuning for large language models (LLMs) by training only a small set of task-specific parameters while freezing",
-      "authors": [
-        "Xianming Li",
-        "Zongxi Li",
-        "Tsz-fung Andrew Lee",
-        "Jing Li",
-        "Haoran Xie"
-      ],
-      "tags": [
-        "fine-tuning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.19406",
-      "title": "HP-Edit: A Human-Preference Post-Training Framework for Image Editing",
-      "url": "https://huggingface.co/papers/2604.19406",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-20T20:00:00.000Z",
-      "abstract": "Common image editing tasks typically adopt powerful generative diffusion models as the leading paradigm for real-world content editing. Meanwhile, although reinforcement learning (RL) methods such as",
-      "authors": [
-        "Fan Li",
-        "Chonghuinan Wang",
-        "Lina Lei",
-        "Yuping Qiu",
-        "Jiaqi Xu"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.19747",
-      "title": "AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model",
-      "url": "https://huggingface.co/papers/2604.19747",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-20T20:00:00.000Z",
-      "abstract": "Sparse-view 3D reconstruction is essential for modeling scenes from casual captures, but remain challenging for non-generative reconstruction. Existing diffusion-based approaches mitigates this issues",
-      "authors": [
-        "Yutian Chen",
-        "Shi Guo",
-        "Renbiao Jin",
-        "Tianshuo Yang",
-        "Xin Cai"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.19587",
-      "title": "SmartPhotoCrafter: Unified Reasoning, Generation and Optimization for Automatic Photographic Image Editing",
-      "url": "https://huggingface.co/papers/2604.19587",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-20T20:00:00.000Z",
-      "abstract": "Traditional photographic image editing typically requires users to possess sufficient aesthetic understanding to provide appropriate instructions for adjusting image quality and camera parameters. How",
-      "authors": [
-        "Ying Zeng",
-        "Miaosen Luo",
-        "Guangyuan Li",
-        "Yang Yang",
-        "Ruiyang Fan"
-      ],
-      "tags": [
-        "phi"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
