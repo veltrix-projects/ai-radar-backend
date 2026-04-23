@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-04-23T08:00:55.930Z",
+  "generatedAt": "2026-04-23T10:01:42.750Z",
   "date": "15-04-2026",
-  "count": 2,
+  "count": 3,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.16529",
+      "title": "Scaling Test-Time Compute for Agentic Coding",
+      "url": "https://huggingface.co/papers/2604.16529",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-15T20:00:00.000Z",
+      "abstract": "Test-time scaling has become a powerful way to improve large language models. However, existing methods are best suited to short, bounded outputs that can be directly compared, ranked or refined. Long",
+      "authors": [
+        "Joongwon Kim",
+        "Wannan Yang",
+        "Kelvin Niu",
+        "Hongming Zhang",
+        "Yun Zhu"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2604.14932",
       "title": "WavAlign: Enhancing Intelligence and Expressiveness in Spoken Dialogue Models via Adaptive Hybrid Post-Training",
