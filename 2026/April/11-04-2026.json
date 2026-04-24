@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-24T09:01:54.392Z",
+  "generatedAt": "2026-04-24T10:48:39.006Z",
   "date": "11-04-2026",
-  "count": 1,
+  "count": 2,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,36 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2506.17001",
+      "title": "PersonalAI: A Systematic Comparison of Knowledge Graph Storage and Retrieval Approaches for Personalized LLM agents",
+      "url": "https://huggingface.co/papers/2506.17001",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-11T20:00:00.000Z",
+      "abstract": "Personalizing language models by effectively incorporating user interaction history remains a central challenge in the development of adaptive AI systems. While large language models (LLMs), combined",
+      "authors": [
+        "Mikhail Menschikov",
+        "Dmitry Evseev",
+        "Victoria Dochkina",
+        "Ruslan Kostoev",
+        "Ilia Perepechkin"
+      ],
+      "tags": [
+        "llm",
+        "rag",
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
