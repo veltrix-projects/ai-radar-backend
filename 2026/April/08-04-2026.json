@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-24T16:58:56.981Z",
+  "generatedAt": "2026-04-24T17:51:03.804Z",
   "date": "08-04-2026",
-  "count": 1,
+  "count": 2,
   "summary": null,
   "items": [
     {
@@ -20,6 +20,33 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.08645",
+      "title": "3D-VCD: Hallucination Mitigation in 3D-LLM Embodied Agents through Visual Contrastive Decoding",
+      "url": "https://huggingface.co/papers/2604.08645",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-08T20:00:00.000Z",
+      "abstract": "Large multimodal models are increasingly used as the reasoning core of embodied agents operating in 3D environments, yet they remain prone to hallucinations that can produce unsafe and ungrounded deci",
+      "authors": [
+        "Makanjuola Ogunleye",
+        "Eman Abdelrahman",
+        "Ismini Lourentzou"
+      ],
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
