@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-24T01:49:18.407Z",
+  "generatedAt": "2026-04-24T04:48:13.733Z",
   "date": "21-04-2026",
-  "count": 24,
+  "count": 21,
   "summary": null,
   "items": [
     {
@@ -209,124 +209,28 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.20720",
-      "title": "COMPASS: COntinual Multilingual PEFT with Adaptive Semantic Sampling",
-      "url": "https://huggingface.co/papers/2604.20720",
+      "id": "hf_paper_2604.20987",
+      "title": "Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks",
+      "url": "https://huggingface.co/papers/2604.20987",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-21T20:00:00.000Z",
-      "abstract": "Large language models (LLMs) often exhibit performance disparities across languages, with naive multilingual fine-tuning frequently degrading performance due to negative cross-lingual interference. To",
+      "abstract": "Long horizon interactive environments are a testbed for evaluating agents skill usage abilities. These environments demand multi step reasoning, the chaining of multiple skills over many timesteps, an",
       "authors": [
-        "Noah Flynn"
+        "Xiyang Wu",
+        "Zongxia Li",
+        "Guangyao Shi",
+        "Alexander Duffy",
+        "Tyler Marques"
       ],
-      "tags": [],
+      "tags": [
+        "llm",
+        "agent"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.20329",
-      "title": "Image Generators are Generalist Vision Learners",
-      "url": "https://huggingface.co/papers/2604.20329",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-21T20:00:00.000Z",
-      "abstract": "Recent works show that image and video generators exhibit zero-shot visual understanding behaviors, in a way reminiscent of how LLMs develop emergent capabilities of language understanding and reasoni",
-      "authors": [
-        "Valentin Gabeur",
-        "Shangbang Long",
-        "Songyou Peng",
-        "Paul Voigtlaender",
-        "Shuyang Sun"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.20841",
-      "title": "DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation",
-      "url": "https://huggingface.co/papers/2604.20841",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-21T20:00:00.000Z",
-      "abstract": "Recent advances in video generative models enable the synthesis of realistic human-object interaction videos across a wide range of scenarios and object categories, including complex dexterous manipul",
-      "authors": [
-        "Hyeonwoo Kim",
-        "Jeonghwan Kim",
-        "Kyungwon Cho",
-        "Hanbyul Joo"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.20733",
-      "title": "Near-Future Policy Optimization",
-      "url": "https://huggingface.co/papers/2604.20733",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-21T20:00:00.000Z",
-      "abstract": "Reinforcement learning with verifiable rewards (RLVR) has become a core post-training recipe. Introducing suitable off-policy trajectories into on-policy exploration accelerates RLVR convergence and r",
-      "authors": [
-        "Chuanyu Qin",
-        "Chenxu Yang",
-        "Qingyi Si",
-        "Naibin Gu",
-        "Dingyu Yao"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.20570",
-      "title": "Exploring Spatial Intelligence from a Generative Perspective",
-      "url": "https://huggingface.co/papers/2604.20570",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-21T20:00:00.000Z",
-      "abstract": "Spatial intelligence is essential for multimodal large language models, yet current benchmarks largely assess it only from an understanding perspective. We ask whether modern generative or unified mul",
-      "authors": [
-        "Muzhi Zhu",
-        "Shunyao Jiang",
-        "Huanyi Zheng",
-        "Zekai Luo",
-        "Hao Zhong"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -352,6 +256,28 @@
       "tags": [
         "agent"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.20720",
+      "title": "COMPASS: COntinual Multilingual PEFT with Adaptive Semantic Sampling",
+      "url": "https://huggingface.co/papers/2604.20720",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-21T20:00:00.000Z",
+      "abstract": "Large language models (LLMs) often exhibit performance disparities across languages, with naive multilingual fine-tuning frequently degrading performance due to negative cross-lingual interference. To",
+      "authors": [
+        "Noah Flynn"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -388,7 +314,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 109750,
+      "stars": 109768,
       "votes": 0,
       "points": 0
     },
