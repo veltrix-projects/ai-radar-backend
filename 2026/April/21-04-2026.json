@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-24T17:51:03.799Z",
+  "generatedAt": "2026-04-24T18:38:01.695Z",
   "date": "21-04-2026",
-  "count": 21,
+  "count": 22,
   "summary": null,
   "items": [
     {
@@ -209,6 +209,29 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2604.20156",
+      "title": "Temporally Extended Mixture-of-Experts Models",
+      "url": "https://huggingface.co/papers/2604.20156",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-21T20:00:00.000Z",
+      "abstract": "Mixture-of-Experts models, now popular for scaling capacity at fixed inference speed, switch experts at nearly every token. Once a model outgrows available GPU memory, this churn can render optimizati",
+      "authors": [
+        "Zeyu Shen",
+        "Peter Henderson"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2604.20398",
       "title": "WebGen-R1: Incentivizing Large Language Models to Generate Functional and Aesthetic Websites with Reinforcement Learning",
       "url": "https://huggingface.co/papers/2604.20398",
@@ -319,7 +342,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 109801,
+      "stars": 109802,
       "votes": 0,
       "points": 0
     },
