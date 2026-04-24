@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-24T04:48:13.733Z",
+  "generatedAt": "2026-04-24T06:59:49.235Z",
   "date": "21-04-2026",
-  "count": 21,
+  "count": 23,
   "summary": null,
   "items": [
     {
@@ -209,6 +209,61 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2604.20398",
+      "title": "WebGen-R1: Incentivizing Large Language Models to Generate Functional and Aesthetic Websites with Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2604.20398",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-21T20:00:00.000Z",
+      "abstract": "While Large Language Models (LLMs) excel at function-level code generation, project-level tasks such as generating functional and visually aesthetic multi-page websites remain highly challenging. Exis",
+      "authors": [
+        "Juyong Jiang",
+        "Chenglin Cai",
+        "Chansung Park",
+        "Jiasi Shen",
+        "Sunghun Kim"
+      ],
+      "tags": [
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.20244",
+      "title": "Hybrid Policy Distillation for LLMs",
+      "url": "https://huggingface.co/papers/2604.20244",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-21T20:00:00.000Z",
+      "abstract": "Knowledge distillation (KD) is a powerful paradigm for compressing large language models (LLMs), whose effectiveness depends on intertwined choices of divergence direction, optimization strategy, and",
+      "authors": [
+        "Wenhong Zhu",
+        "Ruobing Xie",
+        "Rui Wang",
+        "Pengfei Liu"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2604.20987",
       "title": "Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks",
       "url": "https://huggingface.co/papers/2604.20987",
@@ -314,7 +369,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 109768,
+      "stars": 109773,
       "votes": 0,
       "points": 0
     },
