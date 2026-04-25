@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-25T08:42:02.373Z",
+  "generatedAt": "2026-04-25T09:42:38.528Z",
   "date": "24-04-2026",
-  "count": 53,
+  "count": 58,
   "summary": null,
   "items": [
     {
@@ -464,6 +464,28 @@
       "points": 0
     },
     {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "DeepSeek AI Releases DeepSeek-V4: Compressed Sparse Attention and Heavily Compressed Attention Enable One-Million-Token Contexts",
+      "url": "https://www.marktechpost.com/2026/04/24/deepseek-ai-releases-deepseek-v4-compressed-sparse-attention-and-heavily-compressed-attention-enable-one-million-token-contexts/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-04-24T17:36:03.000Z",
+      "abstract": "DeepSeek-AI has released a preview version of the DeepSeek-V4 series: two Mixture-of-Experts (MoE) language models built around one core challenge making one-million-token context windows practical an",
+      "authors": [],
+      "tags": [
+        "deepseek"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "ars_technica_https%3A%2F%2Farstechnica.com%2Fscience%",
       "title": "Meet the 19-meter Cretaceous kraken that swam with mosasaurs",
       "url": "https://arstechnica.com/science/2026/04/meet-the-19-meter-cretaceous-kraken-that-swam-with-mosasaurs/",
@@ -584,6 +606,28 @@
       "points": 0
     },
     {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "Why AI agents need interaction infrastructure",
+      "url": "https://www.artificialintelligence-news.com/news/why-ai-agents-need-interaction-infrastructure/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-04-24T16:24:17.000Z",
+      "abstract": "To stop automation waste, enterprises must deploy interaction infrastructure that physically governs how independent AI agents operate. AI agents now populate corporate networks, reasoning through tas",
+      "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "reddit_LocalLLaMA_t3_1sujzpf",
       "title": "VLLM PR : New MoE model from Cohere soon",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sujzpf/vllm_pr_new_moe_model_from_cohere_soon/",
@@ -599,6 +643,28 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "reddit_LocalLLaMA_t3_1suiruw",
+      "title": "Deepseek flash seems like a very good replacement for Haiku at the very least",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1suiruw/deepseek_flash_seems_like_a_very_good_replacement/",
+      "source": "Reddit r/LocalLLaMA",
+      "sourceIcon": "🔴",
+      "type": "news",
+      "timestamp": "2026-04-24T15:21:00+00:00",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "deepseek"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -1000,7 +1066,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 133976,
+      "stars": 133983,
       "votes": 0,
       "points": 0
     },
@@ -1092,22 +1158,61 @@
       "points": 0
     },
     {
-      "id": "reddit_LocalLLaMA_t3_1su9yva",
-      "title": "Qwen3.6 35B-A3B is quite useful on 780m iGPU (llama.cpp,vulkan)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1su9yva/qwen36_35ba3b_is_quite_useful_on_780m_igpu/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "model",
-      "timestamp": "2026-04-24T08:40:58+00:00",
-      "abstract": "",
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "How AI models use real-time cryptocurrency data to interpret market behaviour",
+      "url": "https://www.artificialintelligence-news.com/news/how-ai-models-use-real-time-cryptocurrency-data-to-interpret-market-behaviour/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-04-24T07:47:32.000Z",
+      "abstract": "AI systems are increasingly built around data that does not really pause. Financial markets are an obvious example, where inputs keep updating, not arriving in fixed batches. In that kind of setup, so",
+      "authors": [],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Google DeepMind Introduces Decoupled DiLoCo: An Asynchronous Training Architecture Achieving 88% Goodput Under High Hardware Failure Rates",
+      "url": "https://www.marktechpost.com/2026/04/23/google-deepmind-introduces-decoupled-diloco-an-asynchronous-training-architecture-achieving-88-goodput-under-high-hardware-failure-rates/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-04-24T04:40:10.000Z",
+      "abstract": "Training frontier AI models is, at its core, a coordination problem. Thousands of chips must communicate with each other continuously, synchronizing every gradient update across the network. When one",
       "authors": [],
       "tags": [
-        "llama",
-        "qwen"
+        "training"
       ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Mend Releases AI Security Governance Framework: Covering Asset Inventory, Risk Tiering, AI Supply Chain Security, and Maturity Model",
+      "url": "https://www.marktechpost.com/2026/04/23/mend-releases-ai-security-governance-framework/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-04-24T02:07:11.000Z",
+      "abstract": "Mend.io's new framework gives engineering and security teams a practical playbook for governing AI systems before the next incident forces the conversation.\nThe post Mend Releases AI Security Governan",
+      "authors": [],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
