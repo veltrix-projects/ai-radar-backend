@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-26T09:54:36.544Z",
+  "generatedAt": "2026-04-26T10:37:25.550Z",
   "date": "25-04-2026",
-  "count": 34,
+  "count": 33,
   "summary": null,
   "items": [
     {
@@ -294,6 +294,29 @@
       "points": 0
     },
     {
+      "id": "reddit_LocalLLaMA_t3_1svfjyv",
+      "title": "FP4 inference in llama.cpp (NVFP4) and ik_llama.cpp (MXFP4) landed - Finally",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1svfjyv/fp4_inference_in_llamacpp_nvfp4_and_ik_llamacpp/",
+      "source": "Reddit r/LocalLLaMA",
+      "sourceIcon": "🔴",
+      "type": "model",
+      "timestamp": "2026-04-25T15:42:44+00:00",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "llama",
+        "inference"
+      ],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "reddit_LocalLLaMA_t3_1svfebz",
       "title": "PSA: Ubuntu 26.04 makes it easier to get started with AMD XDNA2 NPU",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1svfebz/psa_ubuntu_2604_makes_it_easier_to_get_started/",
@@ -440,6 +463,28 @@
       "points": 0
     },
     {
+      "id": "reddit_LocalLLaMA_t3_1svaat8",
+      "title": "What do you consider to be the minimum performance (t/s) for local Agent workflows?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1svaat8/what_do_you_consider_to_be_the_minimum/",
+      "source": "Reddit r/LocalLLaMA",
+      "sourceIcon": "🔴",
+      "type": "news",
+      "timestamp": "2026-04-25T12:02:13+00:00",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "ars_technica_https%3A%2F%2Farstechnica.com%2Fscience%",
       "title": "Artemis II broke Fred Haise's distance record, but he is happy to pass it on",
       "url": "https://arstechnica.com/science/2026/04/artemis-ii-broke-fred-haises-distance-record-but-he-is-happy-to-pass-it-on/",
@@ -540,71 +585,6 @@
       "points": 0
     },
     {
-      "id": "reddit_LocalLLaMA_t3_1sv8ewy",
-      "title": "🛡️ Shield 82M: A PII stripping/filtering model 🛡️",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sv8ewy/shield_82m_a_pii_strippingfiltering_model/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "model",
-      "timestamp": "2026-04-25T10:21:53+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1sv8eua",
-      "title": "Qwen3.6-27B at ~80 tps with 218k context window on 1x RTX 5090 served by vllm 0.19",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sv8eua/qwen3627b_at_80_tps_with_218k_context_window_on/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-04-25T10:21:45+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "llm",
-        "qwen"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1sv8806",
-      "title": "DeepSeek V4 Update",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sv8806/deepseek_v4_update/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-04-25T10:10:26+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "deepseek"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
       "title": "Google DeepMind Introduces Vision Banana: An Instruction-Tuned Image Generator That Beats SAM 3 on Segmentation and Depth Anything V3 on Metric Depth Estimation",
       "url": "https://www.marktechpost.com/2026/04/25/google-deepmind-introduces-vision-banana-an-instruction-tuned-image-generator-that-beats-sam-3-on-segmentation-and-depth-anything-v3-on-metric-depth-estimation/",
@@ -673,7 +653,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 159930,
+      "stars": 159931,
       "votes": 0,
       "points": 0
     },
