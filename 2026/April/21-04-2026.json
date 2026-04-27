@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27T10:06:47.731Z",
+  "generatedAt": "2026-04-27T12:04:40.474Z",
   "date": "21-04-2026",
   "count": 19,
   "summary": null,
@@ -189,6 +189,32 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2604.21718",
+      "title": "Building a Precise Video Language with Human-AI Oversight",
+      "url": "https://huggingface.co/papers/2604.21718",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-21T20:00:00.000Z",
+      "abstract": "Video-language models (VLMs) learn to reason about the dynamic visual world through natural language. We introduce a suite of open datasets, benchmarks, and recipes for scalable oversight that enable",
+      "authors": [
+        "Zhiqiu Lin",
+        "Chancharik Mitra",
+        "Siyuan Cen",
+        "Isaac Li",
+        "Yuhan Huang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2604.20156",
       "title": "Temporally Extended Mixture-of-Experts Models",
       "url": "https://huggingface.co/papers/2604.20156",
@@ -229,33 +255,6 @@
       ],
       "tags": [
         "reinforcement learning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.20244",
-      "title": "Hybrid Policy Distillation for LLMs",
-      "url": "https://huggingface.co/papers/2604.20244",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-21T20:00:00.000Z",
-      "abstract": "Knowledge distillation (KD) is a powerful paradigm for compressing large language models (LLMs), whose effectiveness depends on intertwined choices of divergence direction, optimization strategy, and",
-      "authors": [
-        "Wenhong Zhu",
-        "Ruobing Xie",
-        "Rui Wang",
-        "Pengfei Liu"
-      ],
-      "tags": [
-        "llm"
       ],
       "score": 6,
       "priority": "MEDIUM",
