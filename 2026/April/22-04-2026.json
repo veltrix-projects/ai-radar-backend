@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-27T12:04:40.473Z",
+  "generatedAt": "2026-04-27T14:31:47.312Z",
   "date": "22-04-2026",
-  "count": 19,
+  "count": 20,
   "summary": null,
   "items": [
     {
@@ -81,6 +81,34 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.22085",
+      "title": "Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents",
+      "url": "https://huggingface.co/papers/2604.22085",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-22T20:00:00.000Z",
+      "abstract": "The transition from stateless language model inference to persistent, multi session autonomous agents has revealed memory to be a primary architectural bottleneck in the deployment of production grade",
+      "authors": [
+        "Seyed Moein Abtahi",
+        "Rasa Rahnema",
+        "Hetkumar Patel",
+        "Neel Patel",
+        "Majid Fekri"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
