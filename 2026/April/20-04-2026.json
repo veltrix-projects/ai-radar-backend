@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-27T05:17:05.755Z",
+  "generatedAt": "2026-04-27T07:43:03.141Z",
   "date": "20-04-2026",
-  "count": 4,
+  "count": 5,
   "summary": null,
   "items": [
     {
@@ -41,6 +41,28 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.18580",
+      "title": "Sessa: Selective State Space Attention",
+      "url": "https://huggingface.co/papers/2604.18580",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-20T20:00:00.000Z",
+      "abstract": "Modern sequence modeling is dominated by two families: Transformers, whose self-attention can access arbitrary elements of the visible sequence, and structured state-space models, which propagate info",
+      "authors": [
+        "Liubomyr Horbatko"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
