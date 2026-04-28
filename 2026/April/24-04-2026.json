@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-28T08:08:04.835Z",
+  "generatedAt": "2026-04-28T10:28:41.152Z",
   "date": "24-04-2026",
-  "count": 13,
+  "count": 14,
   "summary": null,
   "items": [
     {
@@ -42,6 +42,31 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.23210",
+      "title": "Discovering Agentic Safety Specifications from 1-Bit Danger Signals",
+      "url": "https://huggingface.co/papers/2604.23210",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-24T20:00:00.000Z",
+      "abstract": "Can large language model agents discover hidden safety objectives through experience alone? We introduce EPO-Safe (Experiential Prompt Optimization for Safe Agents), a framework where an LLM iterative",
+      "authors": [
+        "Víctor Gallego"
+      ],
+      "tags": [
+        "agent",
+        "safety"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -272,7 +297,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 134531,
+      "stars": 134563,
       "votes": 0,
       "points": 0
     },

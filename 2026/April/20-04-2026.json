@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-28T08:08:04.838Z",
+  "generatedAt": "2026-04-28T10:28:41.155Z",
   "date": "20-04-2026",
-  "count": 5,
+  "count": 6,
   "summary": null,
   "items": [
     {
@@ -48,6 +48,63 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2604.22841",
+      "title": "ATTN-FIQA: Interpretable Attention-based Face Image Quality Assessment with Vision Transformers",
+      "url": "https://huggingface.co/papers/2604.22841",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-20T20:00:00.000Z",
+      "abstract": "Face Image Quality Assessment (FIQA) aims to assess the recognition utility of face samples and is essential for reliable face recognition (FR) systems. Existing approaches require computationally exp",
+      "authors": [
+        "Guray Ozgur",
+        "Tahar Chettaoui",
+        "Eduarda Caldeira",
+        "Jan Niklas Kolf",
+        "Marco Huber"
+      ],
+      "tags": [
+        "transformer"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.22842",
+      "title": "EX-FIQA: Leveraging Intermediate Early eXit Representations from Vision Transformers for Face Image Quality Assessment",
+      "url": "https://huggingface.co/papers/2604.22842",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-20T20:00:00.000Z",
+      "abstract": "Face Image Quality Assessment is crucial for reliable face recognition systems, yet existing Vision Transformer-based approaches rely exclusively on final-layer representations, ignoring quality-relev",
+      "authors": [
+        "Guray Ozgur",
+        "Tahar Chettaoui",
+        "Eduarda Caldeira",
+        "Jan Niklas Kolf",
+        "Andrea Atzori"
+      ],
+      "tags": [
+        "transformer",
+        "rag"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2604.19548",
       "title": "Taming Actor-Observer Asymmetry in Agents via Dialectical Alignment",
       "url": "https://huggingface.co/papers/2604.19548",
@@ -66,34 +123,6 @@
       "tags": [
         "agent",
         "alignment"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.20012",
-      "title": "EmbodiedMidtrain: Bridging the Gap between Vision-Language Models and Vision-Language-Action Models via Mid-training",
-      "url": "https://huggingface.co/papers/2604.20012",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-20T20:00:00.000Z",
-      "abstract": "Vision-Language-Action Models (VLAs) inherit their visual and linguistic capabilities from Vision-Language Models (VLMs), yet most VLAs are built from off-the-shelf VLMs that are not adapted to the em",
-      "authors": [
-        "Yiyang Du",
-        "Zhanqiu Guo",
-        "Xin Ye",
-        "Liu Ren",
-        "Chenyan Xiong"
-      ],
-      "tags": [
-        "training"
       ],
       "score": 6,
       "priority": "MEDIUM",

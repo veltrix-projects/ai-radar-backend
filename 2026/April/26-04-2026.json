@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T08:08:04.834Z",
+  "generatedAt": "2026-04-28T10:28:41.151Z",
   "date": "26-04-2026",
   "count": 14,
   "summary": null,
@@ -19,6 +19,32 @@
       ],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.24583",
+      "title": "Improving Vision-language Models with Perception-centric Process Reward Models",
+      "url": "https://huggingface.co/papers/2604.24583",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-26T20:00:00.000Z",
+      "abstract": "Recent advancements in reinforcement learning with verifiable rewards (RLVR) have significantly improved the complex reasoning ability of vision-language models (VLMs). However, its outcome-level supe",
+      "authors": [
+        "Yingqian Min",
+        "Kun Zhou",
+        "Yifan Li",
+        "Yuhuan Wu",
+        "Han Peng"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -245,7 +271,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 109951,
+      "stars": 109959,
       "votes": 0,
       "points": 0
     },
@@ -338,29 +364,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 168659,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "RAG Without Vectors: How PageIndex Retrieves by Reasoning",
-      "url": "https://www.marktechpost.com/2026/04/25/rag-without-vectors-how-pageindex-retrieves-by-reasoning/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-04-26T04:22:40.000Z",
-      "abstract": "Retrieval is where most RAG systems quietly break. Traditional pipelines rely on vector similarity—embedding queries and document chunks into the same space and fetching the “closest” matches. But sim",
-      "authors": [],
-      "tags": [
-        "rag"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
+      "stars": 168800,
       "votes": 0,
       "points": 0
     }

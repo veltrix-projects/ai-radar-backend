@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T08:08:04.836Z",
+  "generatedAt": "2026-04-28T10:28:41.153Z",
   "date": "23-04-2026",
   "count": 13,
   "summary": null,
@@ -45,22 +45,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.22554",
-      "title": "Video Analysis and Generation via a Semantic Progress Function",
-      "url": "https://huggingface.co/papers/2604.22554",
+      "id": "hf_paper_2604.22446",
+      "title": "From Skills to Talent: Organising Heterogeneous Agents as a Real-World Company",
+      "url": "https://huggingface.co/papers/2604.22446",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-23T20:00:00.000Z",
-      "abstract": "Transformations produced by image and video generation models often evolve in a highly non-linear manner: long stretches where the content barely changes are followed by sudden, abrupt semantic jumps.",
+      "abstract": "Individual agent capabilities have advanced rapidly through modular skills and tool integrations, yet multi-agent systems remain constrained by fixed team structures, tightly coupled coordination logi",
       "authors": [
-        "Gal Metzer",
-        "Sagi Polaczek",
-        "Ali Mahdavi-Amiri",
-        "Raja Giryes",
-        "Daniel Cohen-Or"
+        "Zhengxu Yu",
+        "Yu Fu",
+        "Zhiyuan He",
+        "Yuxuan Huang",
+        "Lee Ka Yiu"
       ],
-      "tags": [],
+      "tags": [
+        "agent"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -220,8 +222,8 @@
     },
     {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Facademy%2Fcod",
-      "title": "Automations",
-      "url": "https://openai.com/academy/codex-automations",
+      "title": "How to get started with Codex",
+      "url": "https://openai.com/academy/codex-how-to-start",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
@@ -240,8 +242,8 @@
     },
     {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Facademy%2Fcod",
-      "title": "How to get started with Codex",
-      "url": "https://openai.com/academy/codex-how-to-start",
+      "title": "Codex settings",
+      "url": "https://openai.com/academy/codex-settings",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
