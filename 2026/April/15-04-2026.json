@@ -1,9 +1,38 @@
 {
-  "generatedAt": "2026-04-28T18:59:35.393Z",
+  "generatedAt": "2026-04-28T21:34:42.472Z",
   "date": "15-04-2026",
-  "count": 1,
+  "count": 2,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.15574",
+      "title": "Why Fine-Tuning Encourages Hallucinations and How to Fix It",
+      "url": "https://huggingface.co/papers/2604.15574",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-15T20:00:00.000Z",
+      "abstract": "Large language models are prone to hallucinating factually incorrect statements. A key source of these errors is exposure to new factual information through supervised fine-tuning (SFT), which can inc",
+      "authors": [
+        "Guy Kaplan",
+        "Zorik Gekhman",
+        "Zhen Zhu",
+        "Lotem Rozner",
+        "Yuval Reif"
+      ],
+      "tags": [
+        "rag",
+        "fine-tuning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "google_deepmind_https%3A%2F%2Fdeepmind.google%2Fblog%2Fg",
       "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",

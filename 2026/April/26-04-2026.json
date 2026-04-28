@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-28T18:59:35.387Z",
+  "generatedAt": "2026-04-28T21:34:42.466Z",
   "date": "26-04-2026",
-  "count": 11,
+  "count": 10,
   "summary": null,
   "items": [
     {
@@ -19,6 +19,31 @@
       ],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.24170",
+      "title": "Credal Concept Bottleneck Models for Epistemic-Aleatoric Uncertainty Decomposition",
+      "url": "https://huggingface.co/papers/2604.24170",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-26T20:00:00.000Z",
+      "abstract": "Concept Bottleneck Models (CBMs) predict through human-interpretable concepts, but they typically output point concept probabilities that conflate epistemic uncertainty (reducible model underspecifica",
+      "authors": [
+        "Tanmoy Mukherjee",
+        "Thomas Bailleux",
+        "Pierre Marquis",
+        "Zied Bouraoui"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -105,73 +130,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.24762",
-      "title": "OmniShotCut: Holistic Relational Shot Boundary Detection with Shot-Query Transformer",
-      "url": "https://huggingface.co/papers/2604.24762",
+      "id": "hf_paper_2604.24040",
+      "title": "Improving Robustness of Tabular Retrieval via Representational Stability",
+      "url": "https://huggingface.co/papers/2604.24040",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-26T20:00:00.000Z",
-      "abstract": "Shot Boundary Detection (SBD) aims to automatically identify shot changes and divide a video into coherent shots. While SBD was widely studied in the literature, existing state-of-the-art methods ofte",
+      "abstract": "Transformer-based table retrieval systems flatten structured tables into token sequences, making retrieval sensitive to the choice of serialization even when table semantics remain unchanged. We show",
       "authors": [
-        "Boyang Wang",
-        "Guangyi Xu",
-        "Zhipeng Tang",
-        "Jiahui Zhang",
-        "Zezhou Cheng"
-      ],
-      "tags": [
-        "transformer"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.24300",
-      "title": "ReVSI: Rebuilding Visual Spatial Intelligence Evaluation for Accurate Assessment of VLM 3D Reasoning",
-      "url": "https://huggingface.co/papers/2604.24300",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-26T20:00:00.000Z",
-      "abstract": "Current evaluations of spatial intelligence can be systematically invalid under modern vision-language model (VLM) settings. First, many benchmarks derive question-answer (QA) pairs from point-cloud-b",
-      "authors": [
-        "Yiming Zhang",
-        "Jiacheng Chen",
-        "Jiaqi Tan",
-        "Yongsen Mao",
-        "Wenhu Chen"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.24170",
-      "title": "Credal Concept Bottleneck Models for Epistemic-Aleatoric Uncertainty Decomposition",
-      "url": "https://huggingface.co/papers/2604.24170",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-26T20:00:00.000Z",
-      "abstract": "Concept Bottleneck Models (CBMs) predict through human-interpretable concepts, but they typically output point concept probabilities that conflate epistemic uncertainty (reducible model underspecifica",
-      "authors": [
-        "Tanmoy Mukherjee",
-        "Thomas Bailleux",
-        "Pierre Marquis",
-        "Zied Bouraoui"
+        "Kushal Raj Bhandari",
+        "Adarsh Singh",
+        "Jianxi Gao",
+        "Soham Dan",
+        "Vivek Gupta"
       ],
       "tags": [],
       "score": 6,
@@ -210,7 +182,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 109980,
+      "stars": 109986,
       "votes": 0,
       "points": 0
     },
@@ -283,7 +255,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 169164,
+      "stars": 169241,
       "votes": 0,
       "points": 0
     }
