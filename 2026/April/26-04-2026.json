@@ -1,24 +1,26 @@
 {
-  "generatedAt": "2026-04-28T10:28:41.151Z",
+  "generatedAt": "2026-04-28T12:10:09.841Z",
   "date": "26-04-2026",
-  "count": 14,
+  "count": 13,
   "summary": null,
   "items": [
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "How to Build Smarter Multilingual Text Wrapping with BudouX Through Parsing, HTML Rendering, Model Introspection, and Toy Training",
-      "url": "https://www.marktechpost.com/2026/04/26/how-to-build-smarter-multilingual-text-wrapping-with-budoux-through-parsing-html-rendering-model-introspection-and-toy-training/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
+      "id": "hf_paper_2604.21106",
+      "title": "How Much Is One Recurrence Worth? Iso-Depth Scaling Laws for Looped Language Models",
+      "url": "https://huggingface.co/papers/2604.21106",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-04-26T22:58:28.000Z",
-      "abstract": "In this tutorial, we explore how we use BudouX to bring intelligent, phrase-aware line breaking to languages where whitespace is not naturally present, such as Japanese, Chinese, and Thai. We begin by",
-      "authors": [],
-      "tags": [
-        "training"
+      "timestamp": "2026-04-26T20:00:00.000Z",
+      "abstract": "We measure how much one extra recurrence is worth to a looped (depth-recurrent) language model, in equivalent unique parameters. From an iso-depth sweep of 116 pretraining runs across recurrence count",
+      "authors": [
+        "Kristian Schwethelm",
+        "Daniel Rueckert",
+        "Georgios Kaissis"
       ],
-      "score": 4,
-      "priority": "LOW",
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -271,7 +273,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 109959,
+      "stars": 109969,
       "votes": 0,
       "points": 0
     },
@@ -316,29 +318,6 @@
       "points": 0
     },
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Top 7 Benchmarks That Actually Matter for Agentic Reasoning in Large Language Models",
-      "url": "https://www.marktechpost.com/2026/04/26/top-7-benchmarks-that-actually-matter-for-agentic-reasoning-in-large-language-models/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-04-26T07:59:03.000Z",
-      "abstract": "As AI agents move from research demos to production deployments, one question has become impossible to ignore: how do you actually know if an agent is good? Perplexity scores and MMLU leaderboard numb",
-      "authors": [],
-      "tags": [
-        "agent",
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "gh_1136590548",
       "title": "affaan-m/everything-claude-code — The agent harness performance optimization system. Skills, instincts, memory, security, and research",
       "url": "https://github.com/affaan-m/everything-claude-code",
@@ -364,7 +343,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 168800,
+      "stars": 168884,
       "votes": 0,
       "points": 0
     }
