@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T02:02:34.491Z",
+  "generatedAt": "2026-04-28T05:42:06.631Z",
   "date": "22-04-2026",
   "count": 16,
   "summary": null,
@@ -88,6 +88,32 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2604.22875",
+      "title": "SketchVLM: Vision language models can annotate images to explain thoughts and guide users",
+      "url": "https://huggingface.co/papers/2604.22875",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-22T20:00:00.000Z",
+      "abstract": "When answering questions about images, humans naturally point, label, and draw to explain their reasoning. In contrast, modern vision-language models (VLMs) such as Gemini-3-Pro and GPT-5 only respond",
+      "authors": [
+        "Brandon Collins",
+        "Logan Bolton",
+        "Hung Huy Nguyen",
+        "Mohammad Reza Taesiri",
+        "Trung Bui"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2604.22119",
       "title": "Emergent Strategic Reasoning Risks in AI: A Taxonomy-Driven Evaluation Framework",
       "url": "https://huggingface.co/papers/2604.22119",
@@ -161,32 +187,6 @@
         "phi",
         "diffusion"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.21915",
-      "title": "Vista4D: Video Reshooting with 4D Point Clouds",
-      "url": "https://huggingface.co/papers/2604.21915",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-22T20:00:00.000Z",
-      "abstract": "We present Vista4D, a robust and flexible video reshooting framework that grounds the input video and target cameras in a 4D point cloud. Specifically, given an input video, our method re-synthesizes",
-      "authors": [
-        "Kuan Heng Lin",
-        "Zhizheng Liu",
-        "Pablo Salamanca",
-        "Yash Kant",
-        "Ryan Burgert"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
