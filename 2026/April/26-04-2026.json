@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-04-28T12:10:09.841Z",
+  "generatedAt": "2026-04-28T17:08:26.472Z",
   "date": "26-04-2026",
-  "count": 13,
+  "count": 11,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.24597",
+      "title": "Quantum Kernel Advantage over Classical Collapse in Medical Foundation Model Embeddings",
+      "url": "https://huggingface.co/papers/2604.24597",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-26T20:00:00.000Z",
+      "abstract": "We provide evidence of quantum kernel advantage under noiseless simulation in binary insurance classification on MIMIC-CXR chest radiographs using quantum support vector machines (QSVM) with frozen em",
+      "authors": [
+        "Sebastian Cajas Ordóñez",
+        "Felipe Ocampo Osorio",
+        "Dax Enshan Koh",
+        "Rafi Al Attrach",
+        "Aldo Marzullo"
+      ],
+      "tags": [
+        "embeddings"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2604.21106",
       "title": "How Much Is One Recurrence Worth? Iso-Depth Scaling Laws for Looped Language Models",
@@ -165,88 +193,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.24003",
-      "title": "Stabilizing Efficient Reasoning with Step-Level Advantage Selection",
-      "url": "https://huggingface.co/papers/2604.24003",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-26T20:00:00.000Z",
-      "abstract": "Large language models (LLMs) achieve strong reasoning performance by allocating substantial computation at inference time, often generating long and verbose reasoning traces. While recent work on effi",
-      "authors": [
-        "Han Wang",
-        "Xiaodong Yu",
-        "Jialian Wu",
-        "Jiang Liu",
-        "Ximeng Sun"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.24764",
-      "title": "World-R1: Reinforcing 3D Constraints for Text-to-Video Generation",
-      "url": "https://huggingface.co/papers/2604.24764",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-26T20:00:00.000Z",
-      "abstract": "Recent video foundation models demonstrate impressive visual synthesis but frequently suffer from geometric inconsistencies. While existing methods attempt to inject 3D priors via architectural modifi",
-      "authors": [
-        "Weijie Wang",
-        "Xiaoxuan He",
-        "Youping Gu",
-        "Yifan Yang",
-        "Zeyu Zhang"
-      ],
-      "tags": [
-        "text-to-video"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.24198",
-      "title": "Rewarding the Scientific Process: Process-Level Reward Modeling for Agentic Data Analysis",
-      "url": "https://huggingface.co/papers/2604.24198",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-26T20:00:00.000Z",
-      "abstract": "Process Reward Models (PRMs) have achieved remarkable success in augmenting the reasoning capabilities of Large Language Models (LLMs) within static domains such as mathematics. However, their potenti",
-      "authors": [
-        "Zhisong Qiu",
-        "Shuofei Qiao",
-        "Kewei Xu",
-        "Yuqi Zhu",
-        "Lun Du"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "gh_655806940",
       "title": "microsoft/generative-ai-for-beginners — 21 Lessons, Get Started Building with Generative AI",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
@@ -273,7 +219,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 109969,
+      "stars": 109972,
       "votes": 0,
       "points": 0
     },
@@ -343,7 +289,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 168884,
+      "stars": 168961,
       "votes": 0,
       "points": 0
     }
