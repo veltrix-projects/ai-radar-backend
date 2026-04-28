@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-04-28T17:08:26.472Z",
+  "generatedAt": "2026-04-28T18:59:35.387Z",
   "date": "26-04-2026",
   "count": 11,
   "summary": null,
   "items": [
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "How to Build Smarter Multilingual Text Wrapping with BudouX Through Parsing, HTML Rendering, Model Introspection, and Toy Training",
+      "url": "https://www.marktechpost.com/2026/04/26/how-to-build-smarter-multilingual-text-wrapping-with-budoux-through-parsing-html-rendering-model-introspection-and-toy-training/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-04-26T22:58:28.000Z",
+      "abstract": "In this tutorial, we explore how we use BudouX to bring intelligent, phrase-aware line breaking to languages where whitespace is not naturally present, such as Japanese, Chinese, and Thai. We begin by",
+      "authors": [],
+      "tags": [
+        "training"
+      ],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2604.24597",
       "title": "Quantum Kernel Advantage over Classical Collapse in Medical Foundation Model Embeddings",
@@ -137,55 +159,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.24479",
-      "title": "Zero-to-CAD: Agentic Synthesis of Interpretable CAD Programs at Million-Scale Without Real Data",
-      "url": "https://huggingface.co/papers/2604.24479",
+      "id": "hf_paper_2604.24170",
+      "title": "Credal Concept Bottleneck Models for Epistemic-Aleatoric Uncertainty Decomposition",
+      "url": "https://huggingface.co/papers/2604.24170",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-26T20:00:00.000Z",
-      "abstract": "Computer-Aided Design (CAD) models are defined by their construction history: a parametric recipe that encodes design intent. However, existing large-scale 3D datasets predominantly consist of boundar",
+      "abstract": "Concept Bottleneck Models (CBMs) predict through human-interpretable concepts, but they typically output point concept probabilities that conflate epistemic uncertainty (reducible model underspecifica",
       "authors": [
-        "Mohammadmehdi Ataei",
-        "Farzaneh Askari",
-        "Kamal Rahimi Malekshan",
-        "Pradeep Kumar Jayaraman"
+        "Tanmoy Mukherjee",
+        "Thomas Bailleux",
+        "Pierre Marquis",
+        "Zied Bouraoui"
       ],
-      "tags": [
-        "agent"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.24763",
-      "title": "Tuna-2: Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation",
-      "url": "https://huggingface.co/papers/2604.24763",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-26T20:00:00.000Z",
-      "abstract": "Unified multimodal models typically rely on pretrained vision encoders and use separate visual representations for understanding and generation, creating misalignment between the two tasks and prevent",
-      "authors": [
-        "Zhiheng Liu",
-        "Weiming Ren",
-        "Xiaoke Huang",
-        "Shoufa Chen",
-        "Tianhong Li"
-      ],
-      "tags": [
-        "multimodal",
-        "embeddings"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -219,7 +210,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 109972,
+      "stars": 109980,
       "votes": 0,
       "points": 0
     },
@@ -244,19 +235,22 @@
       "points": 0
     },
     {
-      "id": "techcrunch_ai_https%3A%2F%2Ftechcrunch.com%2F2026%2F04",
-      "title": "To buy this Bay Area home, you’ll need Anthropic equity",
-      "url": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
-      "source": "TechCrunch AI",
-      "sourceIcon": "💚",
-      "type": "news",
-      "timestamp": "2026-04-26T15:30:00.000Z",
-      "abstract": "",
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Top 7 Benchmarks That Actually Matter for Agentic Reasoning in Large Language Models",
+      "url": "https://www.marktechpost.com/2026/04/26/top-7-benchmarks-that-actually-matter-for-agentic-reasoning-in-large-language-models/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-04-26T07:59:03.000Z",
+      "abstract": "As AI agents move from research demos to production deployments, one question has become impossible to ignore: how do you actually know if an agent is good? Perplexity scores and MMLU leaderboard numb",
       "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "tags": [
+        "agent",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -289,7 +283,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 168961,
+      "stars": 169164,
       "votes": 0,
       "points": 0
     }
