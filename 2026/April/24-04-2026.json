@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-28T05:42:06.630Z",
+  "generatedAt": "2026-04-28T08:08:04.835Z",
   "date": "24-04-2026",
-  "count": 12,
+  "count": 13,
   "summary": null,
   "items": [
     {
@@ -42,6 +42,34 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2508.10180",
+      "title": "For-Value: Efficient Forward-Only Data Valuation for finetuning LLMs and VLMs",
+      "url": "https://huggingface.co/papers/2508.10180",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-24T20:00:00.000Z",
+      "abstract": "Data valuation is essential for enhancing the transparency and accountability of large language models (LLMs) and vision-language models (VLMs). However, existing methods typically rely on gradient co",
+      "authors": [
+        "Wenlong Deng",
+        "Qi Zeng",
+        "Jiaming Zhang",
+        "Minghui Chen",
+        "Zixin Ding"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -244,7 +272,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 134515,
+      "stars": 134531,
       "votes": 0,
       "points": 0
     },

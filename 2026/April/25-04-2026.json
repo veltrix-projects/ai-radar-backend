@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-28T05:42:06.630Z",
+  "generatedAt": "2026-04-28T08:08:04.835Z",
   "date": "25-04-2026",
-  "count": 6,
+  "count": 7,
   "summary": null,
   "items": [
     {
@@ -39,6 +39,34 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.23775",
+      "title": "Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms",
+      "url": "https://huggingface.co/papers/2604.23775",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-25T20:00:00.000Z",
+      "abstract": "Vision-Language-Action (VLA) models are emerging as a unified substrate for embodied intelligence. This shift raises a new class of safety challenges, stemming from the embodied nature of VLA systems,",
+      "authors": [
+        "Qi Li",
+        "Bo Yin",
+        "Weiqi Huang",
+        "Ruhao Liu",
+        "Bojun Zou"
+      ],
+      "tags": [
+        "safety"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -123,7 +151,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 155264,
+      "stars": 155267,
       "votes": 0,
       "points": 0
     },

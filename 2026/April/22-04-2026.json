@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T05:42:06.631Z",
+  "generatedAt": "2026-04-28T08:08:04.836Z",
   "date": "22-04-2026",
   "count": 16,
   "summary": null,
@@ -88,6 +88,32 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2604.21480",
+      "title": "Efficient Agent Evaluation via Diversity-Guided User Simulation",
+      "url": "https://huggingface.co/papers/2604.21480",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-22T20:00:00.000Z",
+      "abstract": "Large language models (LLMs) are increasingly deployed as customer-facing agents, yet evaluating their reliability remains challenging due to stochastic, multi-turn interactions. Current evaluation pr",
+      "authors": [
+        "Itay Nakash",
+        "George Kour",
+        "Ateret Anaby-Tavor"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2604.22875",
       "title": "SketchVLM: Vision language models can annotate images to explain thoughts and guide users",
       "url": "https://huggingface.co/papers/2604.22875",
@@ -157,35 +183,6 @@
       ],
       "tags": [
         "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.21518",
-      "title": "DiffNR: Diffusion-Enhanced Neural Representation Optimization for Sparse-View 3D Tomographic Reconstruction",
-      "url": "https://huggingface.co/papers/2604.21518",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-22T20:00:00.000Z",
-      "abstract": "Neural representations (NRs), such as neural fields and 3D Gaussians, effectively model volumetric data in computed tomography (CT) but suffer from severe artifacts under sparse-view settings. To addr",
-      "authors": [
-        "Shiyan Su",
-        "Ruyi Zha",
-        "Danli Shi",
-        "Hongdong Li",
-        "Xuelian Cheng"
-      ],
-      "tags": [
-        "phi",
-        "diffusion"
       ],
       "score": 6,
       "priority": "MEDIUM",

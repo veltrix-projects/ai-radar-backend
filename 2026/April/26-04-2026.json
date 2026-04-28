@@ -1,9 +1,85 @@
 {
-  "generatedAt": "2026-04-28T05:42:06.629Z",
+  "generatedAt": "2026-04-28T08:08:04.834Z",
   "date": "26-04-2026",
-  "count": 9,
+  "count": 14,
   "summary": null,
   "items": [
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "How to Build Smarter Multilingual Text Wrapping with BudouX Through Parsing, HTML Rendering, Model Introspection, and Toy Training",
+      "url": "https://www.marktechpost.com/2026/04/26/how-to-build-smarter-multilingual-text-wrapping-with-budoux-through-parsing-html-rendering-model-introspection-and-toy-training/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-04-26T22:58:28.000Z",
+      "abstract": "In this tutorial, we explore how we use BudouX to bring intelligent, phrase-aware line breaking to languages where whitespace is not naturally present, such as Japanese, Chinese, and Thai. We begin by",
+      "authors": [],
+      "tags": [
+        "training"
+      ],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.24762",
+      "title": "OmniShotCut: Holistic Relational Shot Boundary Detection with Shot-Query Transformer",
+      "url": "https://huggingface.co/papers/2604.24762",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-26T20:00:00.000Z",
+      "abstract": "Shot Boundary Detection (SBD) aims to automatically identify shot changes and divide a video into coherent shots. While SBD was widely studied in the literature, existing state-of-the-art methods ofte",
+      "authors": [
+        "Boyang Wang",
+        "Guangyi Xu",
+        "Zhipeng Tang",
+        "Jiahui Zhang",
+        "Zezhou Cheng"
+      ],
+      "tags": [
+        "transformer"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.24300",
+      "title": "ReVSI: Rebuilding Visual Spatial Intelligence Evaluation for Accurate Assessment of VLM 3D Reasoning",
+      "url": "https://huggingface.co/papers/2604.24300",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-26T20:00:00.000Z",
+      "abstract": "Current evaluations of spatial intelligence can be systematically invalid under modern vision-language model (VLM) settings. First, many benchmarks derive question-answer (QA) pairs from point-cloud-b",
+      "authors": [
+        "Yiming Zhang",
+        "Jiacheng Chen",
+        "Jiaqi Tan",
+        "Yongsen Mao",
+        "Wenhu Chen"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2604.24479",
       "title": "Zero-to-CAD: Agentic Synthesis of Interpretable CAD Programs at Million-Scale Without Real Data",
@@ -169,7 +245,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 109945,
+      "stars": 109951,
       "votes": 0,
       "points": 0
     },
@@ -214,6 +290,29 @@
       "points": 0
     },
     {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Top 7 Benchmarks That Actually Matter for Agentic Reasoning in Large Language Models",
+      "url": "https://www.marktechpost.com/2026/04/26/top-7-benchmarks-that-actually-matter-for-agentic-reasoning-in-large-language-models/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-04-26T07:59:03.000Z",
+      "abstract": "As AI agents move from research demos to production deployments, one question has become impossible to ignore: how do you actually know if an agent is good? Perplexity scores and MMLU leaderboard numb",
+      "authors": [],
+      "tags": [
+        "agent",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "gh_1136590548",
       "title": "affaan-m/everything-claude-code — The agent harness performance optimization system. Skills, instincts, memory, security, and research",
       "url": "https://github.com/affaan-m/everything-claude-code",
@@ -239,7 +338,29 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 168528,
+      "stars": 168659,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "RAG Without Vectors: How PageIndex Retrieves by Reasoning",
+      "url": "https://www.marktechpost.com/2026/04/25/rag-without-vectors-how-pageindex-retrieves-by-reasoning/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-04-26T04:22:40.000Z",
+      "abstract": "Retrieval is where most RAG systems quietly break. Traditional pipelines rely on vector similarity—embedding queries and document chunks into the same space and fetching the “closest” matches. But sim",
+      "authors": [],
+      "tags": [
+        "rag"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
       "votes": 0,
       "points": 0
     }
