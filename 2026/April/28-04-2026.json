@@ -1,25 +1,23 @@
 {
-  "generatedAt": "2026-04-29T21:37:06.920Z",
+  "generatedAt": "2026-04-29T22:47:24.611Z",
   "date": "28-04-2026",
-  "count": 29,
+  "count": 16,
   "summary": null,
   "items": [
     {
-      "id": "reddit_MachineLearning_t3_1syepnz",
-      "title": "The Structured Output Benchmark (SOB) - validates both JSON parse and value accuracy [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1syepnz/the_structured_output_benchmark_sob_validates/",
-      "source": "Reddit r/MachineLearning",
-      "sourceIcon": "🔴",
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "OpenAI Releases Privacy Filter: A 1.5B-Parameter Open-Source PII Redaction Model with 50M Active Parameters",
+      "url": "https://www.marktechpost.com/2026/04/28/openai-releases-privacy-filter-a-1-5b-parameter-open-source-pii-redaction-model-with-50m-active-parameters/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
       "type": "research",
-      "timestamp": "2026-04-28T21:22:09+00:00",
-      "abstract": "",
+      "timestamp": "2026-04-28T21:37:57.000Z",
+      "abstract": "OpenAI's Privacy Filter Is a 1.5B-Parameter PII Detector Built on a Distilled Decoder — And It Runs in Your Browser\nThe post OpenAI Releases Privacy Filter: A 1.5B-Parameter Open-Source PII Redaction",
       "authors": [],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -67,208 +65,6 @@
       "points": 0
     },
     {
-      "id": "arxiv_2602.00592v2",
-      "title": "DockSmith: Scaling Reliable Coding Environments via an Agentic Docker Builder",
-      "url": "https://arxiv.org/abs/2602.00592v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-28T17:59:51Z",
-      "abstract": "Reliable Docker-based environment construction is a dominant bottleneck for scaling execution-grounded training and evaluation of software engineering agents. We introduce DockSmith, a specialized age",
-      "authors": [
-        "Jiaran Zhang",
-        "Luck Ma",
-        "Fanqi Wan",
-        "Di Qi",
-        "Xu Zhao"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2604.25917v1",
-      "title": "Recursive Multi-Agent Systems",
-      "url": "https://arxiv.org/abs/2604.25917v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-28T17:59:34Z",
-      "abstract": "Recursive or looped language models have recently emerged as a new scaling axis by iteratively refining the same model computation over latent states to deepen reasoning. We extend such scaling princi",
-      "authors": [
-        "Xiyuan Yang",
-        "Jiaru Zou",
-        "Rui Pan",
-        "Ruizhong Qiu",
-        "Pan Lu"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2506.23773v2",
-      "title": "BayesL: a Logical Framework for the Verification of Bayesian Networks",
-      "url": "https://arxiv.org/abs/2506.23773v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-28T17:54:29Z",
-      "abstract": "Modern explainable AI still struggles with a fundamental gap: although Bayesian networks (BNs) provide transparent probabilistic structure, there is no unified way to formally express, query, and veri",
-      "authors": [
-        "Stefano M. Nicoletti",
-        "E. Moritz Hahn",
-        "Mariëlle Stoelinga"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2604.25907v1",
-      "title": "How Fast Should a Model Commit to Supervision? Training Reasoning Models on the Tsallis Loss Continuum",
-      "url": "https://arxiv.org/abs/2604.25907v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-28T17:52:38Z",
-      "abstract": "Adapting reasoning models to new tasks during post-training with only output-level supervision stalls under reinforcement learning from verifiable rewards (RLVR) when the initial success probability $",
-      "authors": [
-        "Chu-Cheng Lin",
-        "Eugene Ie"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2604.25905v1",
-      "title": "A paradox of AI fluency",
-      "url": "https://arxiv.org/abs/2604.25905v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-28T17:51:13Z",
-      "abstract": "How much does a user's skill with AI shape what AI actually delivers for them? This question is critical for users, AI product builders, and society at large, but it remains underexplored. Using a ric",
-      "authors": [
-        "Christopher Potts",
-        "Moritz Sudhof"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2604.25904v1",
-      "title": "Teacher Forcing as Generalized Bayes: Optimization Geometry Mismatch in Switching Surrogates for Chaotic Dynamics",
-      "url": "https://arxiv.org/abs/2604.25904v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-28T17:50:37Z",
-      "abstract": "Identity teacher forcing (ITF) enables stable training of deterministic recurrent surrogates for chaotic dynamical systems and has been highly effective for dynamical systems reconstruction (DSR) with",
-      "authors": [
-        "Andre Herz",
-        "Daniel Durstewitz",
-        "Georgia Koppe"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2604.25903v1",
-      "title": "Carbon-Taxed Transformers: A Green Compression Pipeline for Overgrown Language Models",
-      "url": "https://arxiv.org/abs/2604.25903v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-28T17:48:16Z",
-      "abstract": "The accelerating adoption of Large Language Models (LLMs) in software engineering (SE) has brought with it a silent crisis: unsustainable computational cost. While these models demonstrate remarkable",
-      "authors": [
-        "Ajmain Inqiad Alam",
-        "Palash Roy",
-        "Chanchal K. Roy",
-        "Banani Roy",
-        "Kevin A. Schneider"
-      ],
-      "tags": [
-        "transformer"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2604.25902v1",
-      "title": "Toward a Functional Geometric Algebra for Natural Language Semantics",
-      "url": "https://arxiv.org/abs/2604.25902v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-28T17:47:46Z",
-      "abstract": "Distributional and neural approaches to natural language semantics have been built almost exclusively on conventional linear algebra: vectors, matrices, tensors, and the operations that accompany them",
-      "authors": [
-        "James Pustejovsky"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
       "title": "Migrating a text agent to a voice assistant with Amazon Nova 2 Sonic",
       "url": "https://aws.amazon.com/blogs/machine-learning/migrating-a-text-agent-to-a-voice-assistant-with-amazon-nova-2-sonic/",
@@ -291,111 +87,6 @@
       "points": 0
     },
     {
-      "id": "arxiv_2604.25898v1",
-      "title": "TSN-Affinity: Similarity-Driven Parameter Reuse for Continual Offline Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2604.25898v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-28T17:41:04Z",
-      "abstract": "Continual offline reinforcement learning (CORL) aims to learn a sequence of tasks from datasets collected over time while preserving performance on previously learned tasks. This setting corresponds t",
-      "authors": [
-        "Dominik Żurek",
-        "Kamil Faber",
-        "Marcin Pietron",
-        "Paweł Gajewski",
-        "Roberto Corizzo"
-      ],
-      "tags": [
-        "reinforcement learning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2604.25897v1",
-      "title": "Variational Neural Belief Parameterizations for Robust Dexterous Grasping under Multimodal Uncertainty",
-      "url": "https://arxiv.org/abs/2604.25897v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-28T17:40:49Z",
-      "abstract": "Contact variability, sensing uncertainty, and external disturbances make grasp execution stochastic. Expected-quality objectives ignore tail outcomes and often select grasps that fail under adverse co",
-      "authors": [
-        "Clinton Enwerem",
-        "Shreya Kalyanaraman",
-        "John S. Baras",
-        "Calin Belta"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2604.25895v1",
-      "title": "Three Models of RLHF Annotation: Extension, Evidence, and Authority",
-      "url": "https://arxiv.org/abs/2604.25895v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-28T17:39:14Z",
-      "abstract": "Preference-based alignment methods, most prominently Reinforcement Learning with Human Feedback (RLHF), use the judgments of human annotators to shape large language model behaviour. However, the norm",
-      "authors": [
-        "Steve Coyne"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2604.25891v1",
-      "title": "Conditional misalignment: common interventions can hide emergent misalignment behind contextual triggers",
-      "url": "https://arxiv.org/abs/2604.25891v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-28T17:36:06Z",
-      "abstract": "Finetuning a language model can lead to emergent misalignment (EM) [Betley et al., 2025b]. Models trained on a narrow distribution of misaligned behavior generalize to more egregious behaviors when te",
-      "authors": [
-        "Jan Dubiński",
-        "Jan Betley",
-        "Anna Sztyber-Betley",
-        "Daniel Tan",
-        "Owain Evans"
-      ],
-      "tags": [
-        "alignment"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
       "title": "IBM launches AI platform Bob to regulate SDLC costs",
       "url": "https://www.artificialintelligence-news.com/news/ibm-launches-ai-platform-bob-to-regulate-sdlc-costs/",
@@ -409,58 +100,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2604.22821v2",
-      "title": "Audio2Tool: Speak, Call, Act -- A Dataset for Benchmarking Speech Tool Use",
-      "url": "https://arxiv.org/abs/2604.22821v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-28T17:29:55Z",
-      "abstract": "Voice assistants increasingly rely on Speech Language Models (SpeechLMs) to interpret spoken queries and execute complex tasks, yet existing benchmarks lack domain breadth, acoustic diversity, and com",
-      "authors": [
-        "Ramit Pahwa",
-        "Apoorva Beedu",
-        "Parivesh Priye",
-        "Rutu Gandhi",
-        "Saloni Takawale"
-      ],
-      "tags": [
-        "benchmark",
-        "speech"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2604.25887v1",
-      "title": "No Pedestrian Left Behind: Real-Time Detection and Tracking of Vulnerable Road Users for Adaptive Traffic Signal Control",
-      "url": "https://arxiv.org/abs/2604.25887v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-04-28T17:29:23Z",
-      "abstract": "Current pedestrian crossing signals operate on fixed timing without adjustment to pedestrian behavior, which can leave vulnerable road users (VRUs) such as the elderly, disabled, or distracted pedestr",
-      "authors": [
-        "Anas Gamal Aly",
-        "Hala ElAarag"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -637,21 +276,19 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Four-c",
-      "title": "Our commitment to community safety",
-      "url": "https://openai.com/index/our-commitment-to-community-safety",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-04-28T00:00:00.000Z",
-      "abstract": "",
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Top 10 Physical AI Models Powering Real-World Robots in 2026",
+      "url": "https://www.marktechpost.com/2026/04/28/top-10-physical-ai-models-powering-real-world-robots-in-2026/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-04-28T08:14:02.000Z",
+      "abstract": "The gap between language model capabilities and robotic deployment has been narrowing considerably over the past 18 months. A new class of foundation models — purpose-built not for text generation but",
       "authors": [],
-      "tags": [
-        "safety"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -670,6 +307,28 @@
       "authors": [],
       "tags": [
         "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Four-c",
+      "title": "Our commitment to community safety",
+      "url": "https://openai.com/index/our-commitment-to-community-safety",
+      "source": "OpenAI Blog",
+      "sourceIcon": "🟢",
+      "type": "news",
+      "timestamp": "2026-04-28T00:00:00.000Z",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "safety"
       ],
       "score": 8,
       "priority": "HIGH",
