@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-29T05:37:54.506Z",
+  "generatedAt": "2026-04-29T08:01:11.482Z",
   "date": "22-04-2026",
-  "count": 8,
+  "count": 9,
   "summary": null,
   "items": [
     {
@@ -88,20 +88,45 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.21681",
-      "title": "Sapiens2",
-      "url": "https://huggingface.co/papers/2604.21681",
+      "id": "hf_paper_2604.21481",
+      "title": "Preferences of a Voice-First Nation: Large-Scale Pairwise Evaluation and Preference Analysis for TTS in Indian Languages",
+      "url": "https://huggingface.co/papers/2604.21481",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-22T20:00:00.000Z",
-      "abstract": "We present Sapiens2, a model family of high-resolution transformers for human-centric vision focused on generalization, versatility, and high-fidelity outputs. Our model sizes range from 0.4 to 5 bill",
+      "abstract": "Crowdsourced pairwise evaluation has emerged as a scalable approach for assessing foundation models. However, applying it to Text to Speech(TTS) introduces high variance due to linguistic diversity an",
       "authors": [
-        "Rawal Khirodkar",
-        "He Wen",
-        "Julieta Martinez",
-        "Yuan Dong",
-        "Su Zhaoen"
+        "Srija Anand",
+        "Ashwin Sankar",
+        "Ishvinder Sethi",
+        "Aaditya Pareek",
+        "Kartik Rajput"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.21523",
+      "title": "Seeing Isn't Believing: Uncovering Blind Spots in Evaluator Vision-Language Models",
+      "url": "https://huggingface.co/papers/2604.21523",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-22T20:00:00.000Z",
+      "abstract": "Large Vision-Language Models (VLMs) are increasingly used to evaluate outputs of other models, for image-to-text (I2T) tasks such as visual question answering, and text-to-image (T2I) generation tasks",
+      "authors": [
+        "Mohammed Safi Ur Rahman Khan",
+        "Sanjay Suryanarayanan",
+        "Tushar Anand",
+        "Mitesh M. Khapra"
       ],
       "tags": [],
       "score": 6,
