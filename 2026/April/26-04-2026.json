@@ -1,24 +1,167 @@
 {
-  "generatedAt": "2026-04-29T02:04:12.507Z",
+  "generatedAt": "2026-04-29T05:37:54.504Z",
   "date": "26-04-2026",
   "count": 9,
   "summary": null,
   "items": [
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "How to Build Smarter Multilingual Text Wrapping with BudouX Through Parsing, HTML Rendering, Model Introspection, and Toy Training",
-      "url": "https://www.marktechpost.com/2026/04/26/how-to-build-smarter-multilingual-text-wrapping-with-budoux-through-parsing-html-rendering-model-introspection-and-toy-training/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
+      "id": "hf_paper_2604.24005",
+      "title": "TCOD: Exploring Temporal Curriculum in On-Policy Distillation for Multi-turn Autonomous Agents",
+      "url": "https://huggingface.co/papers/2604.24005",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-04-26T22:58:28.000Z",
-      "abstract": "In this tutorial, we explore how we use BudouX to bring intelligent, phrase-aware line breaking to languages where whitespace is not naturally present, such as Japanese, Chinese, and Thai. We begin by",
-      "authors": [],
-      "tags": [
-        "training"
+      "timestamp": "2026-04-26T20:00:00.000Z",
+      "abstract": "On-policy distillation (OPD) has shown strong potential for transferring reasoning ability from frontier or domain-specific models to smaller students. While effective on static single-turn tasks, its",
+      "authors": [
+        "Jiaqi Wang",
+        "Wenhao Zhang",
+        "Weijie Shi",
+        "Yaliang Li",
+        "James Cheng"
       ],
-      "score": 4,
-      "priority": "LOW",
+      "tags": [
+        "agent",
+        "autonomous"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.23941",
+      "title": "GoClick: Lightweight Element Grounding Model for Autonomous GUI Interaction",
+      "url": "https://huggingface.co/papers/2604.23941",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-26T20:00:00.000Z",
+      "abstract": "Graphical User Interface (GUI) element grounding (precisely locating elements on screenshots based on natural language instructions) is fundamental for agents interacting with GUIs. Deploying this cap",
+      "authors": [
+        "Hongxin Li",
+        "Yuntao Chen",
+        "Zhaoxiang Zhang"
+      ],
+      "tags": [
+        "autonomous"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.24441",
+      "title": "AutoGUI-v2: A Comprehensive Multi-Modal GUI Functionality Understanding Benchmark",
+      "url": "https://huggingface.co/papers/2604.24441",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-26T20:00:00.000Z",
+      "abstract": "Autonomous agents capable of navigating Graphical User Interfaces (GUIs) hold the potential to revolutionize digital productivity. However, achieving true digital autonomy extends beyond reactive elem",
+      "authors": [
+        "Hongxin Li",
+        "Xiping Wang",
+        "Jingran Su",
+        "Zheng Ju",
+        "Yuntao Chen"
+      ],
+      "tags": [
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.24842",
+      "title": "Co-Director: Agentic Generative Video Storytelling",
+      "url": "https://huggingface.co/papers/2604.24842",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-26T20:00:00.000Z",
+      "abstract": "While diffusion models generate high-fidelity video clips, transforming them into coherent storytelling engines remains challenging. Current agentic pipelines automate this via chained modules but suf",
+      "authors": [
+        "Yale Song",
+        "Yiwen Song",
+        "Nick Losier",
+        "Nathan Hodson",
+        "Ye Jin"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.24819",
+      "title": "Programming with Data: Test-Driven Data Engineering for Self-Improving LLMs from Raw Corpora",
+      "url": "https://huggingface.co/papers/2604.24819",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-26T20:00:00.000Z",
+      "abstract": "Reliably transferring specialized human knowledge from text into large language models remains a fundamental challenge in artificial intelligence. Fine-tuning on domain corpora has enabled substantial",
+      "authors": [
+        "Chenkai Pan",
+        "Xinglong Xu",
+        "Yuhang Xu",
+        "Yujun Wu",
+        "Siyuan Li"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.24625",
+      "title": "Meta-CoT: Enhancing Granularity and Generalization in Image Editing",
+      "url": "https://huggingface.co/papers/2604.24625",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-26T20:00:00.000Z",
+      "abstract": "Unified multi-modal understanding/generative models have shown improved image editing performance by incorporating fine-grained understanding into their Chain-of-Thought (CoT) process. However, a crit",
+      "authors": [
+        "Shiyi Zhang",
+        "Yiji Cheng",
+        "Tiankai Hang",
+        "Zijin Yin",
+        "Runze He"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -41,109 +184,6 @@
         "Jianxi Gao",
         "Soham Dan",
         "Vivek Gupta"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.24170",
-      "title": "Credal Concept Bottleneck Models for Epistemic-Aleatoric Uncertainty Decomposition",
-      "url": "https://huggingface.co/papers/2604.24170",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-26T20:00:00.000Z",
-      "abstract": "Concept Bottleneck Models (CBMs) predict through human-interpretable concepts, but they typically output point concept probabilities that conflate epistemic uncertainty (reducible model underspecifica",
-      "authors": [
-        "Tanmoy Mukherjee",
-        "Thomas Bailleux",
-        "Pierre Marquis",
-        "Zied Bouraoui"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.24597",
-      "title": "Quantum Kernel Advantage over Classical Collapse in Medical Foundation Model Embeddings",
-      "url": "https://huggingface.co/papers/2604.24597",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-26T20:00:00.000Z",
-      "abstract": "We provide evidence of quantum kernel advantage under noiseless simulation in binary insurance classification on MIMIC-CXR chest radiographs using quantum support vector machines (QSVM) with frozen em",
-      "authors": [
-        "Sebastian Cajas Ordóñez",
-        "Felipe Ocampo Osorio",
-        "Dax Enshan Koh",
-        "Rafi Al Attrach",
-        "Aldo Marzullo"
-      ],
-      "tags": [
-        "embeddings"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.21106",
-      "title": "How Much Is One Recurrence Worth? Iso-Depth Scaling Laws for Looped Language Models",
-      "url": "https://huggingface.co/papers/2604.21106",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-26T20:00:00.000Z",
-      "abstract": "We measure how much one extra recurrence is worth to a looped (depth-recurrent) language model, in equivalent unique parameters. From an iso-depth sweep of 116 pretraining runs across recurrence count",
-      "authors": [
-        "Kristian Schwethelm",
-        "Daniel Rueckert",
-        "Georgios Kaissis"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.24583",
-      "title": "Improving Vision-language Models with Perception-centric Process Reward Models",
-      "url": "https://huggingface.co/papers/2604.24583",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-26T20:00:00.000Z",
-      "abstract": "Recent advancements in reinforcement learning with verifiable rewards (RLVR) have significantly improved the complex reasoning ability of vision-language models (VLMs). However, its outcome-level supe",
-      "authors": [
-        "Yingqian Min",
-        "Kun Zhou",
-        "Yifan Li",
-        "Yuhuan Wu",
-        "Han Peng"
       ],
       "tags": [],
       "score": 6,
@@ -203,36 +243,6 @@
       "downloads": 0,
       "likes": 0,
       "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "gh_1136590548",
-      "title": "affaan-m/everything-claude-code — The agent harness performance optimization system. Skills, instincts, memory, security, and research",
-      "url": "https://github.com/affaan-m/everything-claude-code",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-04-26T04:53:53Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "ai-agents",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "developer-tools",
-        "llm",
-        "mcp",
-        "productivity",
-        "JavaScript"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 169363,
       "votes": 0,
       "points": 0
     }
