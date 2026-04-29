@@ -1,32 +1,27 @@
 {
-  "generatedAt": "2026-04-28T02:02:34.494Z",
+  "generatedAt": "2026-04-29T02:04:12.510Z",
   "date": "19-04-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2604.18519",
-      "title": "LLM Safety From Within: Detecting Harmful Content with Internal Representations",
-      "url": "https://huggingface.co/papers/2604.18519",
+      "id": "hf_paper_2604.18756",
+      "title": "Towards Understanding the Robustness of Sparse Autoencoders",
+      "url": "https://huggingface.co/papers/2604.18756",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-19T20:00:00.000Z",
-      "abstract": "Guard models are widely used to detect harmful content in user prompts and LLM responses. However, state-of-the-art guard models rely solely on terminal-layer representations and overlook the rich saf",
+      "abstract": "Large Language Models (LLMs) remain vulnerable to optimization-based jailbreak attacks that exploit internal gradient structure. While Sparse Autoencoders (SAEs) are widely used for interpretability,",
       "authors": [
-        "Difan Jiao",
-        "Yilun Liu",
-        "Ye Yuan",
-        "Zhenwei Tang",
-        "Linfeng Du"
+        "Ahson Saiyed",
+        "Sabrina Sadiekh",
+        "Chirag Agarwal"
       ],
-      "tags": [
-        "llm",
-        "safety"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
