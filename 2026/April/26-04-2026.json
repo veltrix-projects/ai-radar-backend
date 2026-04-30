@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-04-30T10:21:48.720Z",
+  "generatedAt": "2026-04-30T11:55:58.492Z",
   "date": "26-04-2026",
   "count": 7,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.24927",
+      "title": "Large Language Models Explore by Latent Distilling",
+      "url": "https://huggingface.co/papers/2604.24927",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-26T20:00:00.000Z",
+      "abstract": "Generating diverse responses is crucial for test-time scaling of large language models (LLMs), yet standard stochastic sampling mostly yields surface-level lexical variation, limiting semantic explora",
+      "authors": [
+        "Yuanhao Zeng",
+        "Ao Lu",
+        "Lufei Li",
+        "Zheng Zhang",
+        "Yexin Li"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2604.24977",
       "title": "A Survey on LLM-based Conversational User Simulation",
@@ -125,34 +151,6 @@
       ],
       "tags": [
         "autonomous"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.24441",
-      "title": "AutoGUI-v2: A Comprehensive Multi-Modal GUI Functionality Understanding Benchmark",
-      "url": "https://huggingface.co/papers/2604.24441",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-26T20:00:00.000Z",
-      "abstract": "Autonomous agents capable of navigating Graphical User Interfaces (GUIs) hold the potential to revolutionize digital productivity. However, achieving true digital autonomy extends beyond reactive elem",
-      "authors": [
-        "Hongxin Li",
-        "Xiping Wang",
-        "Jingran Su",
-        "Zheng Ju",
-        "Yuntao Chen"
-      ],
-      "tags": [
-        "benchmark"
       ],
       "score": 6,
       "priority": "MEDIUM",
