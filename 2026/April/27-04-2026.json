@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-30T02:04:22.004Z",
+  "generatedAt": "2026-04-30T05:41:54.598Z",
   "date": "27-04-2026",
-  "count": 28,
+  "count": 22,
   "summary": null,
   "items": [
     {
@@ -140,167 +140,6 @@
       ],
       "tags": [
         "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.25819",
-      "title": "Mutual Forcing: Dual-Mode Self-Evolution for Fast Autoregressive Audio-Video Character Generation",
-      "url": "https://huggingface.co/papers/2604.25819",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-27T20:00:00.000Z",
-      "abstract": "In this work, we propose Mutual Forcing, a framework for fast autoregressive audio-video generation with long-horizon audio-video synchronization. Our approach addresses two key challenges: joint audi",
-      "authors": [
-        "Yupeng Zhou",
-        "Lianghua Huang",
-        "Zhifan Wu",
-        "Jiabao Wang",
-        "Yupeng Shi"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.25636",
-      "title": "Refinement via Regeneration: Enlarging Modification Space Boosts Image Refinement in Unified Multimodal Models",
-      "url": "https://huggingface.co/papers/2604.25636",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-27T20:00:00.000Z",
-      "abstract": "Unified multimodal models (UMMs) integrate visual understanding and generation within a single framework. For text-to-image (T2I) tasks, this unified capability allows UMMs to refine outputs after the",
-      "authors": [
-        "Jiayi Guo",
-        "Linqing Wang",
-        "Jiangshan Wang",
-        "Yang Yue",
-        "Zeyu Liu"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.25164",
-      "title": "IAM: Identity-Aware Human Motion and Shape Joint Generation",
-      "url": "https://huggingface.co/papers/2604.25164",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-27T20:00:00.000Z",
-      "abstract": "Recent advances in text-driven human motion generation enable models to synthesize realistic motion sequences from natural language descriptions. However, most existing approaches assume identity-neut",
-      "authors": [
-        "Wenqi Jia",
-        "Zekun Li",
-        "Abhay Mittal",
-        "Chengcheng Tang",
-        "Chuan Guo"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.25427",
-      "title": "A Systematic Post-Train Framework for Video Generation",
-      "url": "https://huggingface.co/papers/2604.25427",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-27T20:00:00.000Z",
-      "abstract": "While large-scale video diffusion models have demonstrated impressive capabilities in generating high-resolution and semantically rich content, a significant gap remains between their pretraining perf",
-      "authors": [
-        "Zeyue Xue",
-        "Siming Fu",
-        "Jie Huang",
-        "Shuai Lu",
-        "Haoran Li"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.25727",
-      "title": "Toward Scalable Terminal Task Synthesis via Skill Graphs",
-      "url": "https://huggingface.co/papers/2604.25727",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-27T20:00:00.000Z",
-      "abstract": "Terminal agents have demonstrated strong potential for autonomous command-line execution, yet their training remains constrained by the scarcity of high-quality and diverse execution trajectories. Exi",
-      "authors": [
-        "Zhiyuan Fan",
-        "Tinghao Yu",
-        "Yuanjun Cai",
-        "Jiangtao Guan",
-        "Yun Yang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.25914",
-      "title": "DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios",
-      "url": "https://huggingface.co/papers/2604.25914",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-27T20:00:00.000Z",
-      "abstract": "Real-world data visualization (DV) requires native environmental grounding, cross-platform evolution, and proactive intent alignment. Yet, existing benchmarks often suffer from code-sandbox confinemen",
-      "authors": [
-        "Jinxiang Meng",
-        "Shaoping Huang",
-        "Fangyu Lei",
-        "Jingyu Guo",
-        "Haoxiang Liu"
-      ],
-      "tags": [
-        "agent",
-        "benchmark"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -597,7 +436,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 108062,
+      "stars": 108102,
       "votes": 0,
       "points": 0
     },

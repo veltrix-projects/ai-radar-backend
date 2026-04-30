@@ -1,9 +1,63 @@
 {
-  "generatedAt": "2026-04-30T02:04:22.005Z",
+  "generatedAt": "2026-04-30T05:41:54.598Z",
   "date": "26-04-2026",
-  "count": 8,
+  "count": 7,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.24977",
+      "title": "A Survey on LLM-based Conversational User Simulation",
+      "url": "https://huggingface.co/papers/2604.24977",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-26T20:00:00.000Z",
+      "abstract": "User simulation has long played a vital role in computer science due to its potential to support a wide range of applications. Language, as the primary medium of human communication, forms the foundat",
+      "authors": [
+        "Bo Ni",
+        "Leyao Wang",
+        "Yu Wang",
+        "Branislav Kveton",
+        "Franck Dernoncourt"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.24351",
+      "title": "Diffusion Templates: A Unified Plugin Framework for Controllable Diffusion",
+      "url": "https://huggingface.co/papers/2604.24351",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-26T20:00:00.000Z",
+      "abstract": "Controllable diffusion methods have substantially expanded the practical utility of diffusion models, but they are typically developed as isolated, backbone-specific systems with incompatible training",
+      "authors": [
+        "Zhongjie Duan",
+        "Hong Zhang",
+        "Yingda Chen"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2604.25032",
       "title": "Offline Evaluation Measures of Fairness in Recommender Systems",
@@ -106,93 +160,6 @@
       "downloads": 0,
       "likes": 0,
       "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.24842",
-      "title": "Co-Director: Agentic Generative Video Storytelling",
-      "url": "https://huggingface.co/papers/2604.24842",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-26T20:00:00.000Z",
-      "abstract": "While diffusion models generate high-fidelity video clips, transforming them into coherent storytelling engines remains challenging. Current agentic pipelines automate this via chained modules but suf",
-      "authors": [
-        "Yale Song",
-        "Yiwen Song",
-        "Nick Losier",
-        "Nathan Hodson",
-        "Ye Jin"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.24819",
-      "title": "Programming with Data: Test-Driven Data Engineering for Self-Improving LLMs from Raw Corpora",
-      "url": "https://huggingface.co/papers/2604.24819",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-26T20:00:00.000Z",
-      "abstract": "Reliably transferring specialized human knowledge from text into large language models remains a fundamental challenge in artificial intelligence. Fine-tuning on domain corpora has enabled substantial",
-      "authors": [
-        "Chenkai Pan",
-        "Xinglong Xu",
-        "Yuhang Xu",
-        "Yujun Wu",
-        "Siyuan Li"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "gh_655806940",
-      "title": "microsoft/generative-ai-for-beginners — 21 Lessons, Get Started Building with Generative AI",
-      "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-04-26T18:42:41Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "ai",
-        "azure",
-        "chatgpt",
-        "dall-e",
-        "generative-ai",
-        "generativeai",
-        "gpt",
-        "language-model",
-        "llms",
-        "microsoft-for-beginners"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 110014,
       "votes": 0,
       "points": 0
     },
