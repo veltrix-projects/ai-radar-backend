@@ -1,102 +1,28 @@
 {
-  "generatedAt": "2026-05-01T02:07:32.282Z",
+  "generatedAt": "2026-05-01T14:15:45.985Z",
   "date": "26-04-2026",
-  "count": 4,
+  "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2604.24927",
-      "title": "Large Language Models Explore by Latent Distilling",
-      "url": "https://huggingface.co/papers/2604.24927",
+      "id": "hf_paper_2604.24902",
+      "title": "Safety Drift After Fine-Tuning: Evidence from High-Stakes Domains",
+      "url": "https://huggingface.co/papers/2604.24902",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-26T20:00:00.000Z",
-      "abstract": "Generating diverse responses is crucial for test-time scaling of large language models (LLMs), yet standard stochastic sampling mostly yields surface-level lexical variation, limiting semantic explora",
+      "abstract": "Foundation models are routinely fine-tuned for use in particular domains, yet safety assessments are typically conducted only on base models, implicitly assuming that safety properties persist through",
       "authors": [
-        "Yuanhao Zeng",
-        "Ao Lu",
-        "Lufei Li",
-        "Zheng Zhang",
-        "Yexin Li"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.24977",
-      "title": "A Survey on LLM-based Conversational User Simulation",
-      "url": "https://huggingface.co/papers/2604.24977",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-26T20:00:00.000Z",
-      "abstract": "User simulation has long played a vital role in computer science due to its potential to support a wide range of applications. Language, as the primary medium of human communication, forms the foundat",
-      "authors": [
-        "Bo Ni",
-        "Leyao Wang",
-        "Yu Wang",
-        "Branislav Kveton",
-        "Franck Dernoncourt"
+        "Emaan Bilal Khan",
+        "Amy Winecoff",
+        "Miranda Bogen",
+        "Dylan Hadfield-Menell"
       ],
       "tags": [
-        "llm"
+        "fine-tuning",
+        "safety"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.24351",
-      "title": "Diffusion Templates: A Unified Plugin Framework for Controllable Diffusion",
-      "url": "https://huggingface.co/papers/2604.24351",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-26T20:00:00.000Z",
-      "abstract": "Controllable diffusion methods have substantially expanded the practical utility of diffusion models, but they are typically developed as isolated, backbone-specific systems with incompatible training",
-      "authors": [
-        "Zhongjie Duan",
-        "Hong Zhang",
-        "Yingda Chen"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.25032",
-      "title": "Offline Evaluation Measures of Fairness in Recommender Systems",
-      "url": "https://huggingface.co/papers/2604.25032",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-26T20:00:00.000Z",
-      "abstract": "The evaluation of recommender system fairness has become increasingly important, especially with recent legislation that emphasises the development of fair and responsible artificial intelligence. Thi",
-      "authors": [
-        "Theresia Veronika Rampisela"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
