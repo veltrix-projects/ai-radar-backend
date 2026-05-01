@@ -1,9 +1,65 @@
 {
-  "generatedAt": "2026-05-01T05:51:33.725Z",
+  "generatedAt": "2026-05-01T08:02:02.657Z",
   "date": "28-04-2026",
-  "count": 15,
+  "count": 17,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.27085",
+      "title": "Efficient Training on Multiple Consumer GPUs with RoundPipe",
+      "url": "https://huggingface.co/papers/2604.27085",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-28T20:00:00.000Z",
+      "abstract": "Fine-tuning Large Language Models (LLMs) on consumer-grade GPUs is highly cost-effective, yet constrained by limited GPU memory and slow PCIe interconnects. Pipeline parallelism combined with CPU offl",
+      "authors": [
+        "Yibin Luo",
+        "Shiwei Gao",
+        "Huichuan Zheng",
+        "Youyou Lu",
+        "Jiwu Shu"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.27039",
+      "title": "Length Value Model: Scalable Value Pretraining for Token-Level Length Modeling",
+      "url": "https://huggingface.co/papers/2604.27039",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-28T20:00:00.000Z",
+      "abstract": "Token serves as the fundamental unit of computation in modern autoregressive models, and generation length directly influences both inference cost and reasoning performance. Despite its importance, ex",
+      "authors": [
+        "Zhen Zhang",
+        "Changyi Yang",
+        "Zijie Xia",
+        "Zhen Yang",
+        "Chengzhi Liu"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2604.27083",
       "title": "Co-Evolving Policy Distillation",
@@ -298,28 +354,6 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fopena",
-      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-      "url": "https://openai.com/index/openai-on-aws",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-04-28T00:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Four-c",
       "title": "Our commitment to community safety",
       "url": "https://openai.com/index/our-commitment-to-community-safety",
@@ -331,6 +365,28 @@
       "authors": [],
       "tags": [
         "safety"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fopena",
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "url": "https://openai.com/index/openai-on-aws",
+      "source": "OpenAI Blog",
+      "sourceIcon": "🟢",
+      "type": "news",
+      "timestamp": "2026-04-28T00:00:00.000Z",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "agent"
       ],
       "score": 8,
       "priority": "HIGH",
