@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-03T20:33:23.731Z",
+  "generatedAt": "2026-05-03T21:33:19.707Z",
   "date": "02-05-2026",
-  "count": 12,
+  "count": 15,
   "summary": null,
   "items": [
     {
@@ -53,7 +53,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 183959,
+      "stars": 183961,
       "votes": 0,
       "points": 0
     },
@@ -138,6 +138,28 @@
       "points": 0
     },
     {
+      "id": "reddit_LocalLLaMA_t3_1t22s9l",
+      "title": "Qwen/SAE-Res-Qwen3.5-27B-W80K-L0_100 · Hugging Face",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t22s9l/qwensaeresqwen3527bw80kl0_100_hugging_face/",
+      "source": "Reddit r/LocalLLaMA",
+      "sourceIcon": "🔴",
+      "type": "news",
+      "timestamp": "2026-05-02T21:45:51+00:00",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "qwen"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "reddit_LocalLLaMA_t3_1t227hk",
       "title": "Ban phrases on llama.cpp with this script.",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t227hk/ban_phrases_on_llamacpp_with_this_script/",
@@ -160,18 +182,20 @@
       "points": 0
     },
     {
-      "id": "reddit_LocalLLaMA_t3_1t208qv",
-      "title": "Implemented TurboQuant and results don’t fully match paper",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t208qv/implemented_turboquant_and_results_dont_fully/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Build a Multi-Agent AI Workflow for Biological Network Modeling, Protein Interactions, Metabolism, and Cell Signaling Simulation",
+      "url": "https://www.marktechpost.com/2026/05/02/build-a-multi-agent-ai-workflow-for-biological-network-modeling-protein-interactions-metabolism-and-cell-signaling-simulation/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
       "type": "research",
-      "timestamp": "2026-05-02T20:05:02+00:00",
-      "abstract": "",
+      "timestamp": "2026-05-02T20:31:07.000Z",
+      "abstract": "Build a Multi-Agent AI Workflow for Biological Network Modeling, Protein Interactions, Metabolism, and Cell Signaling Simulation\nThe post Build a Multi-Agent AI Workflow for Biological Network Modelin",
       "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -253,6 +277,49 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "A Coding Implementation to Parsing, Analyzing, Visualizing, and Fine-Tuning Agent Reasoning Traces Using the lambda/hermes-agent-reasoning-traces Dataset",
+      "url": "https://www.marktechpost.com/2026/05/02/a-coding-implementation-to-parsing-analyzing-visualizing-and-fine-tuning-agent-reasoning-traces-using-the-lambda-hermes-agent-reasoning-traces-dataset/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-05-02T07:47:46.000Z",
+      "abstract": "In this tutorial, we explore the lambda/hermes-agent-reasoning-traces dataset to understand how agent-based models think, use tools, and generate responses across multi-turn conversations. We start by",
+      "authors": [],
+      "tags": [
+        "agent",
+        "fine-tuning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "A New NVIDIA Research Shows Speculative Decoding in NeMo RL Achieves 1.8× Rollout Generation Speedup at 8B and Projects 2.5× End-to-End Speedup at 235B",
+      "url": "https://www.marktechpost.com/2026/05/01/a-new-nvidia-research-shows-speculative-decoding-in-nemo-rl-achieves-1-8x-rollout-generation-speedup-at-8b-and-projects-2-5x-end-to-end-speedup-at-235b/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-05-02T03:47:47.000Z",
+      "abstract": "A new paper from NVIDIA Research integrates speculative decoding directly into NeMo RL with a vLLM backend, delivering lossless rollout acceleration at both 8B and projected 235B model scales.\nThe pos",
+      "authors": [],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
