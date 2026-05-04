@@ -1,9 +1,38 @@
 {
-  "generatedAt": "2026-05-04T08:18:11.161Z",
+  "generatedAt": "2026-05-04T10:29:32.610Z",
   "date": "28-04-2026",
-  "count": 10,
+  "count": 9,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.27221",
+      "title": "Web2BigTable: A Bi-Level Multi-Agent LLM System for Internet-Scale Information Search and Extraction",
+      "url": "https://huggingface.co/papers/2604.27221",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-28T20:00:00.000Z",
+      "abstract": "Agentic web search increasingly faces two distinct demands: deep reasoning over a single target, and structured aggregation across many entities and heterogeneous sources. Current systems struggle on",
+      "authors": [
+        "Yuxuan Huang",
+        "Yihang Chen",
+        "Zhiyuan He",
+        "Yuxiang Chen",
+        "Ka Yiu Lee"
+      ],
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2604.27151",
       "title": "Step-level Optimization for Efficient Computer-use Agents",
@@ -47,32 +76,6 @@
         "Justin Cui",
         "Xiaojie Li",
         "Rui Wang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.27251",
-      "title": "Compliance versus Sensibility: On the Reasoning Controllability in Large Language Models",
-      "url": "https://huggingface.co/papers/2604.27251",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-28T20:00:00.000Z",
-      "abstract": "Large Language Models (LLMs) are known to acquire reasoning capabilities through shared inference patterns in pre-training data, which are further elicited via Chain-of-Thought (CoT) practices. Howeve",
-      "authors": [
-        "Xingwei Tan",
-        "Marco Valentino",
-        "Mahmud Elahi Akhter",
-        "Yuxiang Zhou",
-        "Maria Liakata"
       ],
       "tags": [],
       "score": 6,
@@ -159,28 +162,6 @@
       "authors": [],
       "tags": [
         "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "The evolution of encoders: From simple models to multimodal AI",
-      "url": "https://www.artificialintelligence-news.com/news/the-evolution-of-encoders-from-simple-models-to-multimodal-ai/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-04-28T13:01:51.000Z",
-      "abstract": "When people talk about artificial intelligence, they usually focus on what it produces: Human-like text, stunning images, or eerily accurate recommendations. What rarely gets attention is how AI under",
-      "authors": [],
-      "tags": [
-        "multimodal"
       ],
       "score": 8,
       "priority": "HIGH",
