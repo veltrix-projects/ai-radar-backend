@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-04T01:59:15.532Z",
+  "generatedAt": "2026-05-04T05:36:16.166Z",
   "date": "30-04-2026",
-  "count": 23,
+  "count": 29,
   "summary": null,
   "items": [
     {
@@ -41,6 +41,169 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.00416",
+      "title": "Learning while Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies",
+      "url": "https://huggingface.co/papers/2605.00416",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-30T20:00:00.000Z",
+      "abstract": "Generalist robot policies increasingly benefit from large-scale pretraining, but offline data alone is insufficient for robust real-world deployment. Deployed robots encounter distribution shifts, lon",
+      "authors": [
+        "Yi Wang",
+        "Xinchen Li",
+        "Pengwei Xie",
+        "Pu Yang",
+        "Buqing Nie"
+      ],
+      "tags": [
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.00754",
+      "title": "Themis: Training Robust Multilingual Code Reward Models for Flexible Multi-Criteria Scoring",
+      "url": "https://huggingface.co/papers/2605.00754",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-30T20:00:00.000Z",
+      "abstract": "Reward models (RMs) have become an indispensable fixture of the language model (LM) post-training playbook, enabling policy alignment and test-time scaling. Research on the application of RMs in code",
+      "authors": [
+        "Indraneil Paul",
+        "Glavaš Glavas",
+        "Iryna Gurevych"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.00658",
+      "title": "UniVidX: A Unified Multimodal Framework for Versatile Video Generation via Diffusion Priors",
+      "url": "https://huggingface.co/papers/2605.00658",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-30T20:00:00.000Z",
+      "abstract": "Recent progress has shown that video diffusion models (VDMs) can be repurposed for diverse multimodal graphics tasks. However, existing methods often train separate models for each problem setting, wh",
+      "authors": [
+        "Houyuan Chen",
+        "Hong Li",
+        "Xianghao Kong",
+        "Tianrui Zhu",
+        "Shaocong Xu"
+      ],
+      "tags": [
+        "diffusion",
+        "multimodal"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.00781",
+      "title": "Map2World: Segment Map Conditioned Text to 3D World Generation",
+      "url": "https://huggingface.co/papers/2605.00781",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-30T20:00:00.000Z",
+      "abstract": "3D world generation is essential for applications such as immersive content creation or autonomous driving simulation. Recent advances in 3D world generation have shown promising results; however, the",
+      "authors": [
+        "Jaeyoung Chung",
+        "Suyoung Lee",
+        "Jianfeng Xiang",
+        "Jiaolong Yang",
+        "Kyoung Mu Lee"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.00503",
+      "title": "End-to-End Autoregressive Image Generation with 1D Semantic Tokenizer",
+      "url": "https://huggingface.co/papers/2605.00503",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-30T20:00:00.000Z",
+      "abstract": "Autoregressive image modeling relies on visual tokenizers to compress images into compact latent representations. We design an end-to-end training pipeline that jointly optimizes reconstruction and ge",
+      "authors": [
+        "Wenda Chu",
+        "Bingliang Zhang",
+        "Jiaqi Han",
+        "Yizhuo Li",
+        "Linjie Yang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.00809",
+      "title": "Let ViT Speak: Generative Language-Image Pre-training",
+      "url": "https://huggingface.co/papers/2605.00809",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-30T20:00:00.000Z",
+      "abstract": "In this paper, we present Generative Language-Image Pre-training (GenLIP), a minimalist generative pretraining framework for Vision Transformers (ViTs) designed for multimodal large language models (M",
+      "authors": [
+        "Yan Fang",
+        "Mengcheng Lan",
+        "Zilong Huang",
+        "Weixian Lei",
+        "Yunqing Zhao"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -468,7 +631,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 110159,
+      "stars": 110162,
       "votes": 0,
       "points": 0
     },
