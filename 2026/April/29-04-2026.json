@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-04T12:10:04.934Z",
+  "generatedAt": "2026-05-04T14:35:55.139Z",
   "date": "29-04-2026",
-  "count": 16,
+  "count": 15,
   "summary": null,
   "items": [
     {
@@ -45,24 +45,27 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.28157",
-      "title": "FlashRT: Towards Computationally and Memory Efficient Red-Teaming for Prompt Injection and Knowledge Corruption",
-      "url": "https://huggingface.co/papers/2604.28157",
+      "id": "hf_paper_2605.00273",
+      "title": "When Do Diffusion Models learn to Generate Multiple Objects?",
+      "url": "https://huggingface.co/papers/2605.00273",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-29T20:00:00.000Z",
-      "abstract": "Long-context large language models (LLMs)-for example, Gemini-3.1-Pro and Qwen-3.5-are widely used to empower many real-world applications, such as retrieval-augmented generation, autonomous agents, a",
+      "abstract": "Text-to-image diffusion models achieve impressive visual fidelity, yet they remain unreliable in multi-object generation. Despite extensive empirical evidence of these failures, the underlying causes",
       "authors": [
-        "Yanting Wang",
-        "Chenlong Yin",
-        "Ying Chen",
-        "Jinyuan Jia"
+        "Yujin Jeong",
+        "Arnas Uselis",
+        "Iro Laina",
+        "Seong Joon Oh",
+        "Anna Rohrbach"
       ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "tags": [
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -178,7 +181,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 136659,
+      "stars": 136663,
       "votes": 0,
       "points": 0
     },
@@ -237,26 +240,6 @@
       ],
       "score": 6,
       "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fpodcast-",
-      "title": "Podcast: How This Trippy Image Started A Massive Conspiracy Theory",
-      "url": "https://www.404media.co/podcast-how-this-trippy-image-started-a-massive-conspiracy-theory/",
-      "source": "404 Media",
-      "sourceIcon": "📡",
-      "type": "news",
-      "timestamp": "2026-04-29T12:56:30.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
