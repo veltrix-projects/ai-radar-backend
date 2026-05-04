@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-05-04T14:35:55.139Z",
+  "generatedAt": "2026-05-04T16:25:59.382Z",
   "date": "28-04-2026",
   "count": 9,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.27124",
+      "title": "Better Models, Faster Training: Sigmoid Attention for single-cell Foundation Models",
+      "url": "https://huggingface.co/papers/2604.27124",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-28T20:00:00.000Z",
+      "abstract": "Training stable biological foundation models requires rethinking attention mechanisms: we find that using sigmoid attention as a drop in replacement for softmax attention a) produces better learned re",
+      "authors": [
+        "Vijay Sadashivaiah",
+        "Georgios Dasoulas",
+        "Judith Mueller",
+        "Soumya Ghosh"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2604.23774",
       "title": "Prox-E: Fine-Grained 3D Shape Editing via Primitive-Based Abstractions",
@@ -78,32 +105,6 @@
       "tags": [
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.24953",
-      "title": "ViPO: Visual Preference Optimization at Scale",
-      "url": "https://huggingface.co/papers/2604.24953",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-28T20:00:00.000Z",
-      "abstract": "While preference optimization is crucial for improving visual generative models, how to effectively scale this paradigm remains largely unexplored. Current open-source preference datasets contain conf",
-      "authors": [
-        "Ming Li",
-        "Jie Wu",
-        "Justin Cui",
-        "Xiaojie Li",
-        "Rui Wang"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
