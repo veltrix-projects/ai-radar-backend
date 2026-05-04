@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-04T19:25:35.220Z",
+  "generatedAt": "2026-05-04T20:44:49.348Z",
   "date": "28-04-2026",
-  "count": 9,
+  "count": 8,
   "summary": null,
   "items": [
     {
@@ -87,34 +87,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.27151",
-      "title": "Step-level Optimization for Efficient Computer-use Agents",
-      "url": "https://huggingface.co/papers/2604.27151",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-28T20:00:00.000Z",
-      "abstract": "Computer-use agents provide a promising path toward general software automation because they can interact directly with arbitrary graphical user interfaces instead of relying on brittle, application-s",
-      "authors": [
-        "Jinbiao Wei",
-        "Kangqi Ni",
-        "Yilun Zhao",
-        "Guo Gan",
-        "Arman Cohan"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "Scaling Biomolecular Modeling Using Context Parallelism in NVIDIA BioNeMo",
       "url": "https://developer.nvidia.com/blog/scaling-biomolecular-modeling-using-context-parallelism-in-nvidia-bionemo/",
@@ -180,28 +152,6 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Four-c",
-      "title": "Our commitment to community safety",
-      "url": "https://openai.com/index/our-commitment-to-community-safety",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-04-28T00:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "safety"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fopena",
       "title": "OpenAI models, Codex, and Managed Agents come to AWS",
       "url": "https://openai.com/index/openai-on-aws",
@@ -213,6 +163,28 @@
       "authors": [],
       "tags": [
         "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Four-c",
+      "title": "Our commitment to community safety",
+      "url": "https://openai.com/index/our-commitment-to-community-safety",
+      "source": "OpenAI Blog",
+      "sourceIcon": "🟢",
+      "type": "news",
+      "timestamp": "2026-04-28T00:00:00.000Z",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "safety"
       ],
       "score": 8,
       "priority": "HIGH",
