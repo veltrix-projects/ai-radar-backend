@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T05:16:39.328Z",
+  "generatedAt": "2026-05-05T07:28:40.959Z",
   "date": "30-04-2026",
   "count": 21,
   "summary": null,
@@ -20,6 +20,32 @@
       ],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.00932",
+      "title": "Code World Model Preparedness Report",
+      "url": "https://huggingface.co/papers/2605.00932",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-30T20:00:00.000Z",
+      "abstract": "This report documents the preparedness assessment of Code World Model (CWM), a model for code generation and reasoning about code from Meta. We conducted pre-release testing across domains identified",
+      "authors": [
+        "Daniel Song",
+        "Peter Ney",
+        "Cristina Menghini",
+        "Faizan Ahmad",
+        "Aidan Boyd"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -99,32 +125,6 @@
       "tags": [
         "diffusion"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.00323",
-      "title": "Online Self-Calibration Against Hallucination in Vision-Language Models",
-      "url": "https://huggingface.co/papers/2605.00323",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-30T20:00:00.000Z",
-      "abstract": "Large Vision-Language Models (LVLMs) often suffer from hallucinations, generating descriptions that include visual details absent from the input image. Recent preference alignment methods typically re",
-      "authors": [
-        "Minghui Chen",
-        "Chenxu Yang",
-        "Hengjie Zhu",
-        "Dayan Wu",
-        "Zheng Lin"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -451,7 +451,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 110213,
+      "stars": 110217,
       "votes": 0,
       "points": 0
     },
