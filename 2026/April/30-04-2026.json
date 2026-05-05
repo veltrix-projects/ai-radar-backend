@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T07:28:40.959Z",
+  "generatedAt": "2026-05-05T09:27:17.952Z",
   "date": "30-04-2026",
   "count": 21,
   "summary": null,
@@ -20,6 +20,29 @@
       ],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.00529",
+      "title": "Hierarchical Abstract Tree for Cross-Document Retrieval-Augmented Generation",
+      "url": "https://huggingface.co/papers/2605.00529",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-30T20:00:00.000Z",
+      "abstract": "Retrieval-augmented generation (RAG) enhances large language models with external knowledge, and tree-based RAG organizes documents into hierarchical indexes to support queries at multiple granulariti",
+      "authors": [
+        "Ziwen Zhao",
+        "Menglin Yang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -99,31 +122,6 @@
       ],
       "tags": [
         "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.00414",
-      "title": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
-      "url": "https://huggingface.co/papers/2605.00414",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-30T20:00:00.000Z",
-      "abstract": "Decision trees and diffusion models are ostensibly disparate model classes, one discrete and hierarchical, the other continuous and dynamic. This work unifies the two by establishing a crisp mathemati",
-      "authors": [
-        "Sai Niranjan Ramachandran",
-        "Suvrit Sra"
-      ],
-      "tags": [
-        "diffusion"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -451,7 +449,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 110217,
+      "stars": 110221,
       "votes": 0,
       "points": 0
     },
