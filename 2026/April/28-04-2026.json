@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-05T17:57:22.066Z",
+  "generatedAt": "2026-05-05T19:14:24.394Z",
   "date": "28-04-2026",
-  "count": 6,
+  "count": 4,
   "summary": null,
   "items": [
     {
@@ -22,33 +22,6 @@
       ],
       "tags": [
         "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.27124",
-      "title": "Better Models, Faster Training: Sigmoid Attention for single-cell Foundation Models",
-      "url": "https://huggingface.co/papers/2604.27124",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-28T20:00:00.000Z",
-      "abstract": "Training stable biological foundation models requires rethinking attention mechanisms: we find that using sigmoid attention as a drop in replacement for softmax attention a) produces better learned re",
-      "authors": [
-        "Vijay Sadashivaiah",
-        "Georgios Dasoulas",
-        "Judith Mueller",
-        "Soumya Ghosh"
-      ],
-      "tags": [
-        "training"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -114,28 +87,6 @@
       "authors": [],
       "tags": [
         "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Four-c",
-      "title": "Our commitment to community safety",
-      "url": "https://openai.com/index/our-commitment-to-community-safety",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-04-28T00:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "safety"
       ],
       "score": 8,
       "priority": "HIGH",
