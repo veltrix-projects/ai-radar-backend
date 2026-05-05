@@ -1,9 +1,56 @@
 {
-  "generatedAt": "2026-05-05T19:14:24.391Z",
+  "generatedAt": "2026-05-05T20:36:59.357Z",
   "date": "02-05-2026",
-  "count": 3,
+  "count": 5,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.01711",
+      "title": "Linear-Time Global Visual Modeling without Explicit Attention",
+      "url": "https://huggingface.co/papers/2605.01711",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-02T20:00:00.000Z",
+      "abstract": "Existing research largely attributes the global sequence modeling capability of Transformers to the explicit computation of attention weights, a process that inherently incurs quadratic computational",
+      "authors": [
+        "Ruize He",
+        "Dongchen Han",
+        "Gao Huang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.02028",
+      "title": "Counting as a minimal probe of language model reliability",
+      "url": "https://huggingface.co/papers/2605.02028",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-02T20:00:00.000Z",
+      "abstract": "Large language models perform strongly on benchmarks in mathematical reasoning, coding and document analysis, suggesting a broad ability to follow instructions. However, it remains unclear whether suc",
+      "authors": [
+        "Tianxiang Dai",
+        "Jonathan Fan"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.01725",
       "title": "Motion-Aware Caching for Efficient Autoregressive Video Generation",
