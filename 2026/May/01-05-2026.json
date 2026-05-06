@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-06T05:28:22.313Z",
+  "generatedAt": "2026-05-06T07:54:00.238Z",
   "date": "01-05-2026",
-  "count": 12,
+  "count": 13,
   "summary": null,
   "items": [
     {
@@ -15,6 +15,34 @@
       "abstract": "",
       "authors": [],
       "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.01371",
+      "title": "ESARBench: A Benchmark for Agentic UAV Embodied Search and Rescue",
+      "url": "https://huggingface.co/papers/2605.01371",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-01T20:00:00.000Z",
+      "abstract": "The rapid advancement of Multimodal Large Language Models (MLLMs) has empowered Unmanned Aerial Vehicle (UAV) with exceptional capabilities in spatial reasoning, semantic understanding, and complex de",
+      "authors": [
+        "Daoxuan Zhang",
+        "Ping Chen",
+        "Jianyi Zhou",
+        "Shuo Yang"
+      ],
+      "tags": [
+        "agent",
+        "benchmark"
+      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
