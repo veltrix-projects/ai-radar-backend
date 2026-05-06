@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-06T07:54:00.235Z",
+  "generatedAt": "2026-05-06T10:09:01.456Z",
   "date": "05-05-2026",
-  "count": 80,
+  "count": 82,
   "summary": null,
   "items": [
     {
@@ -149,6 +149,28 @@
       "points": 0
     },
     {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Closing the &#8216;Expressivity Gap&#8217;: How Mistral&#8217;s Voxtral TTS is Redefining Multilingual Voice Cloning with a Hybrid Autoregressive and Flow-Matching Architecture",
+      "url": "https://www.marktechpost.com/2026/05/05/closing-the-expressivity-gap-how-mistrals-voxtral-tts-is-redefining-multilingual-voice-cloning-with-a-hybrid-autoregressive-and-flow-matching-architecture/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-05-05T21:11:42.000Z",
+      "abstract": "Voice AI has a dirty secret. Most text-to-speech systems sound fine — until they don&#8217;t. They can read a sentence. What they cannot do is mean it. The rhythm is off. The emotion is flat. The spea",
+      "authors": [],
+      "tags": [
+        "mistral"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "reddit_MachineLearning_t3_1t4sjr7",
       "title": "Competition - League of Robot Runners 2026: Multi-robot coordination under uncertainty [N]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1t4sjr7/competition_league_of_robot_runners_2026/",
@@ -195,7 +217,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 135890,
+      "stars": 135898,
       "votes": 0,
       "points": 0
     },
@@ -255,6 +277,29 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Build a Modular Skill-Based Agent System for LLMs with Dynamic Tool Routing in Python",
+      "url": "https://www.marktechpost.com/2026/05/05/build-a-modular-skill-based-agent-system-for-llms-with-dynamic-tool-routing-in-python/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-05-05T20:47:25.000Z",
+      "abstract": "In this tutorial, we build a complete skill-based agent system for large language models and explore how modular capabilities can be structured like an operating system for AI agents. We define reusab",
+      "authors": [],
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -1394,28 +1439,6 @@
       "points": 0
     },
     {
-      "id": "techcrunch_ai_https%3A%2F%2Ftechcrunch.com%2F2026%2F05",
-      "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
-      "url": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/",
-      "source": "TechCrunch AI",
-      "sourceIcon": "💚",
-      "type": "news",
-      "timestamp": "2026-05-05T14:27:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "rag"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fai-arti",
       "title": "Google, Microsoft, and xAI will allow the US government to review their new AI models",
       "url": "https://www.theverge.com/ai-artificial-intelligence/924017/google-microsoft-xai-government-review",
@@ -1604,8 +1627,8 @@
     },
     {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fgpt-5",
-      "title": "GPT-5.5 Instant System Card",
-      "url": "https://openai.com/index/gpt-5-5-instant-system-card",
+      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+      "url": "https://openai.com/index/gpt-5-5-instant",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
@@ -1626,8 +1649,8 @@
     },
     {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fgpt-5",
-      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-      "url": "https://openai.com/index/gpt-5-5-instant",
+      "title": "GPT-5.5 Instant System Card",
+      "url": "https://openai.com/index/gpt-5-5-instant-system-card",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
@@ -1667,18 +1690,16 @@
       "points": 0
     },
     {
-      "id": "reddit_LocalLLaMA_t3_1t48fkt",
-      "title": "vibevoice.cpp: Microsoft VibeVoice (TTS + long-form ASR with diarization) ported to ggml/C++, runs on CPU/CUDA/Metal/Vulkan, no Python at inference",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t48fkt/vibevoicecpp_microsoft_vibevoice_tts_longform_asr/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-05-05T07:33:15+00:00",
-      "abstract": "",
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Why Gradient Descent Zigzags and How Momentum Fixes It",
+      "url": "https://www.marktechpost.com/2026/05/05/why-gradient-descent-zigzags-and-how-momentum-fixes-it/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-05-05T07:26:29.000Z",
+      "abstract": "How momentum optimizes gradient descent by dampening oscillations and accelerating convergence on complex\nThe post Why Gradient Descent Zigzags and How Momentum Fixes It appeared first on MarkTechPost",
       "authors": [],
-      "tags": [
-        "inference"
-      ],
+      "tags": [],
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
@@ -1689,24 +1710,41 @@
       "points": 0
     },
     {
-      "id": "reddit_LocalLLaMA_t3_1t47qbw",
-      "title": "DeepSeek V4 Pro matches GPT-5.2 on FoodTruck Bench, our agentic benchmark — 10 weeks later, ~17× cheaper",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t47qbw/deepseek_v4_pro_matches_gpt52_on_foodtruck_bench/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "model",
-      "timestamp": "2026-05-05T06:51:49+00:00",
-      "abstract": "",
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Google Adds Event-Driven Webhooks to the Gemini API, Eliminating the Need for Polling in Long-Running AI Jobs",
+      "url": "https://www.marktechpost.com/2026/05/05/google-adds-event-driven-webhooks-to-the-gemini-api-eliminating-the-need-for-polling-in-long-running-ai-jobs/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-05-05T07:01:53.000Z",
+      "abstract": "A push-based notification system for Batch API, Deep Research, and video generation tasks arrives with built-in security, retry guarantees, and two configuration modes.\nThe post Google Adds Event-Driv",
       "authors": [],
       "tags": [
-        "gpt",
-        "deepseek",
-        "agent",
-        "benchmark"
+        "gemini"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "A Coding Guide to Survey Bias Correction Using Facebook Research Balance with IPW CBPS Ranking and Post Stratification Methods",
+      "url": "https://www.marktechpost.com/2026/05/04/a-coding-guide-to-survey-bias-correction-using-facebook-research-balance-with-ipw-cbps-ranking-and-post-stratification-methods/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-05-05T04:46:45.000Z",
+      "abstract": "In this tutorial, we walk through a complete, end-to-end workflow for correcting bias in survey data using the balance library. We simulate a realistic population, deliberately introduce sampling bias",
+      "authors": [],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -1740,7 +1778,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 155422,
+      "stars": 155431,
       "votes": 0,
       "points": 0
     },
