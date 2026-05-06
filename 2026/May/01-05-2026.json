@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-06T01:58:04.553Z",
+  "generatedAt": "2026-05-06T05:28:22.313Z",
   "date": "01-05-2026",
-  "count": 11,
+  "count": 12,
   "summary": null,
   "items": [
     {
@@ -25,6 +25,56 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2605.01284",
+      "title": "Chain of Evidence: Pixel-Level Visual Attribution for Iterative Retrieval-Augmented Generation",
+      "url": "https://huggingface.co/papers/2605.01284",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-01T20:00:00.000Z",
+      "abstract": "Iterative Retrieval-Augmented Generation (iRAG) has emerged as a powerful paradigm for answering complex multi-hop questions by progressively retrieving and reasoning over external documents. However,",
+      "authors": [
+        "Peiyang Liu",
+        "Ziqiang Cui",
+        "Xi Wang",
+        "Di Liang",
+        "Wei Ye"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.01466",
+      "title": "SplAttN: Bridging 2D and 3D with Gaussian Soft Splatting and Attention for Point Cloud Completion",
+      "url": "https://huggingface.co/papers/2605.01466",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-01T20:00:00.000Z",
+      "abstract": "Although multi-modal learning has advanced point cloud completion, the theoretical mechanisms remain unclear. Recent works attribute success to the connection between modalities, yet we identify that",
+      "authors": [
+        "Zhaoyang Li",
+        "Zhichao You",
+        "Tianrui Li"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2605.01214",
       "title": "Agentic AI Systems Should Be Designed as Marginal Token Allocators",
       "url": "https://huggingface.co/papers/2605.01214",
@@ -39,30 +89,6 @@
       "tags": [
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.01428",
-      "title": "Hallucinations Undermine Trust; Metacognition is a Way Forward",
-      "url": "https://huggingface.co/papers/2605.01428",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-01T20:00:00.000Z",
-      "abstract": "Despite significant strides in factual reliability, errors -- often termed hallucinations -- remain a major concern for generative AI, especially as LLMs are increasingly expected to be helpful in mor",
-      "authors": [
-        "Gal Yona",
-        "Mor Geva",
-        "Yossi Matias"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

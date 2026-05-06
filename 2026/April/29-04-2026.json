@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T01:58:04.554Z",
+  "generatedAt": "2026-05-06T05:28:22.314Z",
   "date": "29-04-2026",
   "count": 11,
   "summary": null,
@@ -17,6 +17,36 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.27776",
+      "title": "WindowsWorld: A Process-Centric Benchmark of Autonomous GUI Agents in Professional Cross-Application Environments",
+      "url": "https://huggingface.co/papers/2604.27776",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-29T20:00:00.000Z",
+      "abstract": "While GUI agents have shown impressive capabilities in common computer-use tasks such as OSWorld, current benchmarks mainly focus on isolated and single-application tasks. This overlooks a critical re",
+      "authors": [
+        "Jinchao Li",
+        "Yunxin Li",
+        "Chenrui Zhao",
+        "Zhenran Xu",
+        "Baotian Hu"
+      ],
+      "tags": [
+        "agent",
+        "benchmark",
+        "autonomous"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -69,30 +99,6 @@
       "tags": [
         "benchmark"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.28075",
-      "title": "Repetition over Diversity: High-Signal Data Filtering for Sample-Efficient German Language Modeling",
-      "url": "https://huggingface.co/papers/2604.28075",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-29T20:00:00.000Z",
-      "abstract": "Recent research has shown that filtering massive English web corpora into high-quality subsets significantly improves training efficiency. However, for high-resource non-English languages like German,",
-      "authors": [
-        "Ansar Aynetdinov",
-        "Patrick Haller",
-        "Alan Akbik"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -189,7 +195,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 136748,
+      "stars": 136768,
       "votes": 0,
       "points": 0
     },

@@ -1,25 +1,28 @@
 {
-  "generatedAt": "2026-05-06T01:58:04.554Z",
+  "generatedAt": "2026-05-06T05:28:22.314Z",
   "date": "30-04-2026",
-  "count": 18,
+  "count": 16,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2605.00632",
-      "title": "BlenderRAG: High-Fidelity 3D Object Generation via Retrieval-Augmented Code Synthesis",
-      "url": "https://huggingface.co/papers/2605.00632",
+      "id": "hf_paper_2604.28123",
+      "title": "Beyond SFT-to-RL: Pre-alignment via Black-Box On-Policy Distillation for Multimodal RL",
+      "url": "https://huggingface.co/papers/2604.28123",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-30T20:00:00.000Z",
-      "abstract": "Automatic generation of executable Blender code from natural language remains challenging, with state-of-the-art LLMs producing frequent syntactic errors and geometrically inconsistent objects. We pre",
+      "abstract": "The standard post-training recipe for large multimodal models (LMMs) applies supervised fine-tuning (SFT) on curated demonstrations followed by reinforcement learning with verifiable rewards (RLVR). H",
       "authors": [
-        "Massimo Rondelli",
-        "Francesco Pivi",
-        "Maurizio Gabbrielli"
+        "Sudong Wang",
+        "Weiquan Huang",
+        "Xiaomin Yu",
+        "Zuhao Yang",
+        "Hehai Lin"
       ],
       "tags": [
-        "rag"
+        "multimodal",
+        "alignment"
       ],
       "score": 8,
       "priority": "HIGH",
@@ -31,71 +34,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.00814",
-      "title": "Persistent Visual Memory: Sustaining Perception for Deep Generation in LVLMs",
-      "url": "https://huggingface.co/papers/2605.00814",
+      "id": "hf_paper_2605.02943",
+      "title": "Healthcare AI GYM for Medical Agents",
+      "url": "https://huggingface.co/papers/2605.02943",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-30T20:00:00.000Z",
-      "abstract": "While autoregressive Large Vision-Language Models (LVLMs) demonstrate remarkable proficiency in multimodal tasks, they face a \"Visual Signal Dilution\" phenomenon, where the accumulation of textual his",
+      "abstract": "Clinical reasoning demands multi-step interactions -- gathering patient history, ordering tests, interpreting results, and making safe treatment decisions -- yet a unified training environment provide",
       "authors": [
-        "Siyuan Huang",
-        "Xiaoye Qu",
-        "Yafu Li",
-        "Tong Zhu",
-        "Zefeng He"
+        "Minbyul Jeong"
       ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.00529",
-      "title": "Hierarchical Abstract Tree for Cross-Document Retrieval-Augmented Generation",
-      "url": "https://huggingface.co/papers/2605.00529",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-30T20:00:00.000Z",
-      "abstract": "Retrieval-augmented generation (RAG) enhances large language models with external knowledge, and tree-based RAG organizes documents into hierarchical indexes to support queries at multiple granulariti",
-      "authors": [
-        "Ziwen Zhao",
-        "Menglin Yang"
+      "tags": [
+        "agent"
       ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.00932",
-      "title": "Code World Model Preparedness Report",
-      "url": "https://huggingface.co/papers/2605.00932",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-30T20:00:00.000Z",
-      "abstract": "This report documents the preparedness assessment of Code World Model (CWM), a model for code generation and reasoning about code from Meta. We conducted pre-release testing across domains identified",
-      "authors": [
-        "Daniel Song",
-        "Peter Ney",
-        "Cristina Menghini",
-        "Faizan Ahmad",
-        "Aidan Boyd"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -380,7 +332,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 110232,
+      "stars": 110240,
       "votes": 0,
       "points": 0
     },
