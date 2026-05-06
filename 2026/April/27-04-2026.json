@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-06T21:36:45.015Z",
+  "generatedAt": "2026-05-06T22:40:28.227Z",
   "date": "27-04-2026",
-  "count": 4,
+  "count": 5,
   "summary": null,
   "items": [
     {
@@ -15,6 +15,31 @@
       "abstract": "",
       "authors": [],
       "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.25907",
+      "title": "How Fast Should a Model Commit to Supervision? Training Reasoning Models on the Tsallis Loss Continuum",
+      "url": "https://huggingface.co/papers/2604.25907",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-27T20:00:00.000Z",
+      "abstract": "Adapting reasoning models to new tasks during post-training with only output-level supervision stalls under reinforcement learning from verifiable rewards (RLVR) when the initial success probability p",
+      "authors": [
+        "Chu-Cheng Lin",
+        "Eugene Ie"
+      ],
+      "tags": [
+        "training"
+      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
