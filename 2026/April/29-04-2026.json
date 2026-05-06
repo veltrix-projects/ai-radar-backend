@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-06T10:09:01.460Z",
+  "generatedAt": "2026-05-06T12:14:14.699Z",
   "date": "29-04-2026",
-  "count": 10,
+  "count": 9,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,34 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.27488",
+      "title": "Skills-Coach: A Self-Evolving Skill Optimizer via Training-Free GRPO",
+      "url": "https://huggingface.co/papers/2604.27488",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-29T20:00:00.000Z",
+      "abstract": "We introduce Skills-Coach, a novel automated framework designed to significantly enhance the self-evolution of skills within Large Language Model (LLM)-based agents. Addressing the current fragmentati",
+      "authors": [
+        "Yu Tian",
+        "Jiawei Chen",
+        "Lifan Zheng",
+        "Mingxiang Tao",
+        "Xinyi Zeng"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -45,32 +73,6 @@
         "benchmark",
         "autonomous"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.00925",
-      "title": "Linking spatial biology and clinical histology via Haiku",
-      "url": "https://huggingface.co/papers/2605.00925",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-04-29T20:00:00.000Z",
-      "abstract": "Integrating molecular, morphological, and clinical data is essential for basic and translational biomedical research, yet systematic frameworks for jointly modeling these modalities remain limited. He",
-      "authors": [
-        "Yan Cui",
-        "Jacob S. Leiby",
-        "Wenhui Lei",
-        "Dokyoon Kim",
-        "Yanxiang Deng"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -167,7 +169,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 136779,
+      "stars": 136790,
       "votes": 0,
       "points": 0
     },
@@ -185,29 +187,6 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "GPT-5.5 is OpenAI&#8217;s most capable agentic AI model yet",
-      "url": "https://www.artificialintelligence-news.com/news/gpt-5-5-is-openais-most-capable-agentic-ai-model-yet-at-twice-the-api-price/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-04-29T09:08:13.000Z",
-      "abstract": "OpenAI launched GPT-5.5 on April 23 as what it calls &#8220;a new class of intelligence for real work and powering agents,&#8221; and the framing is deliberate. OpenAI says it&#8217;s the most capable",
-      "authors": [],
-      "tags": [
-        "gpt",
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
