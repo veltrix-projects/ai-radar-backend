@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-07T02:01:35.155Z",
+  "generatedAt": "2026-05-07T05:43:56.770Z",
   "date": "05-05-2026",
-  "count": 36,
+  "count": 26,
   "summary": null,
   "items": [
     {
@@ -92,101 +92,22 @@
       "points": 0
     },
     {
-      "id": "arxiv_2507.13305v2",
-      "title": "Boosting Team Modeling through Tempo-Relational Representation Learning",
-      "url": "https://arxiv.org/abs/2507.13305v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
+      "id": "hf_paper_2605.04461",
+      "title": "Stream-T1: Test-Time Scaling for Streaming Video Generation",
+      "url": "https://huggingface.co/papers/2605.04461",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-05-05T17:59:26Z",
-      "abstract": "Team modeling remains a fundamental challenge at the intersection of Artificial Intelligence and Social Sciences. Although a variety of computational models have been proposed in the last two decades,",
+      "timestamp": "2026-05-05T20:00:00.000Z",
+      "abstract": "While Test-Time Scaling (TTS) offers a promising direction to enhance video generation without the surging costs of training, current test-time video generation methods based on diffusion models suffe",
       "authors": [
-        "Vincenzo Marco De Luca",
-        "Giovanna Varni",
-        "Andrea Passerini"
+        "Yijing Tu",
+        "Shaojin Wu",
+        "Mengqi Huang",
+        "Wenchuan Wang",
+        "Yuxin Wang"
       ],
       "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2605.04046v1",
-      "title": "A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification",
-      "url": "https://arxiv.org/abs/2605.04046v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-05-05T17:59:18Z",
-      "abstract": "We introduce PALACE (Persistence Adaptive-Landmark Analytic Classification Engine), the data-adaptive companion to PLACE, paying a small cross-validation tier on three knobs (budget, radii, bandwidth;",
-      "authors": [
-        "Sushovan Majhi",
-        "Atish Mitra",
-        "Žiga Virk",
-        "Pramita Bagchi"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2605.04039v1",
-      "title": "Safety and accuracy follow different scaling laws in clinical large language models",
-      "url": "https://arxiv.org/abs/2605.04039v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-05-05T17:57:19Z",
-      "abstract": "Clinical LLMs are often scaled by increasing model size, context length, retrieval complexity, or inference-time compute, with the implicit expectation that higher accuracy implies safer behavior. Thi",
-      "authors": [
-        "Sebastian Wind",
-        "Tri-Thien Nguyen",
-        "Jeta Sopa",
-        "Mahshad Lotfinia",
-        "Sebastian Bickelhaup"
-      ],
-      "tags": [
-        "safety"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2605.04036v1",
-      "title": "OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories",
-      "url": "https://arxiv.org/abs/2605.04036v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-05-05T17:55:25Z",
-      "abstract": "Deep search capabilities have become an indispensable competency for frontier Large Language Model (LLM) agents, yet their development remains dominated by industrial giants. The typical industry reci",
-      "authors": [
-        "Yuwen Du",
-        "Rui Ye",
-        "Shuo Tang",
-        "Keduan Huang",
-        "Xinyu Zhu"
-      ],
-      "tags": [
-        "agent"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -197,71 +118,22 @@
       "points": 0
     },
     {
-      "id": "arxiv_2605.04035v1",
-      "title": "Large-Scale High-Quality 3D Gaussian Head Reconstruction from Multi-View Captures",
-      "url": "https://arxiv.org/abs/2605.04035v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
+      "id": "hf_paper_2605.04569",
+      "title": "Lightning Unified Video Editing via In-Context Sparse Attention",
+      "url": "https://huggingface.co/papers/2605.04569",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-05-05T17:55:01Z",
-      "abstract": "We propose HeadsUp, a scalable feed-forward method for reconstructing high-quality 3D Gaussian heads from large-scale multi-camera setups. Our method employs an efficient encoder-decoder architecture",
+      "timestamp": "2026-05-05T20:00:00.000Z",
+      "abstract": "Video editing has evolved toward In-Context Learning (ICL) paradigms, yet the resulting quadratic attention costs create a critical computational bottleneck. In this work, we propose In-context Sparse",
       "authors": [
-        "Evangelos Ntavelis",
-        "Sean Wu",
-        "Mohamad Shahbazi",
-        "Fabio Maninchedda",
-        "Dmitry Kostiaev"
+        "Shitong Shao",
+        "Zikai Zhou",
+        "Haopeng Li",
+        "Yingwei Song",
+        "Wenliang Zhong"
       ],
       "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2601.08116v3",
-      "title": "Learning a Stochastic Differential Equation Model of Tropical Cyclone Intensification from Reanalysis and Observational Data",
-      "url": "https://arxiv.org/abs/2601.08116v3",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-05-05T17:48:08Z",
-      "abstract": "Tropical cyclones are among the most consequential weather hazards, yet estimates of their risk are limited by the relatively short historical record. To extend these records, researchers often genera",
-      "authors": [
-        "Kenneth Gee",
-        "Sai Ravela"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2605.04019v1",
-      "title": "Redefining AI Red Teaming in the Agentic Era: From Weeks to Hours",
-      "url": "https://arxiv.org/abs/2605.04019v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-05-05T17:43:52Z",
-      "abstract": "AI systems are entering critical domains like healthcare, finance, and defense, yet remain vulnerable to adversarial attacks. While AI red teaming is a primary defense, current approaches force operat",
-      "authors": [
-        "Raja Sekhar Rao Dheekonda",
-        "Will Pearce",
-        "Nick Landers"
-      ],
-      "tags": [
-        "agent"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -272,50 +144,22 @@
       "points": 0
     },
     {
-      "id": "arxiv_2603.06542v2",
-      "title": "RAMoEA-QA: Hierarchical Specialization for Robust Respiratory Audio Question Answering",
-      "url": "https://arxiv.org/abs/2603.06542v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
+      "id": "hf_paper_2605.05163",
+      "title": "PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World",
+      "url": "https://huggingface.co/papers/2605.05163",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-05-05T17:43:33Z",
-      "abstract": "Conversational generative AI is increasingly explored in healthcare, where models must integrate heterogeneous patient signals and support diverse interaction styles while producing clinically meaning",
+      "timestamp": "2026-05-05T20:00:00.000Z",
+      "abstract": "Synthesizing physics-grounded 3D assets is a critical bottleneck for interactive virtual worlds and embodied AI. Existing methods predominantly focus on static geometry, overlooking the functional pro",
       "authors": [
-        "Gaia A. Bertolino",
-        "Yuwei Zhang",
-        "Tong Xia",
-        "Domenico Talia",
-        "Cecilia Mascolo"
+        "Yunhan Yang",
+        "Chunshi Wang",
+        "Junliang Ye",
+        "Yang Li",
+        "Zanxin Chen"
       ],
       "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2605.04018v1",
-      "title": "Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems",
-      "url": "https://arxiv.org/abs/2605.04018v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-05-05T17:42:50Z",
-      "abstract": "Reasoning-intensive retrieval aims to surface evidence that supports downstream reasoning rather than merely matching topical similarity. This capability is increasingly important for agentic search s",
-      "authors": [
-        "Yilun Zhao",
-        "Jinbiao Wei",
-        "Tingyu Song",
-        "Siyue Zhang",
-        "Chen Zhao"
-      ],
-      "tags": [
-        "agent"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -326,52 +170,24 @@
       "points": 0
     },
     {
-      "id": "arxiv_2605.04013v1",
-      "title": "Conditional Diffusion Sampling",
-      "url": "https://arxiv.org/abs/2605.04013v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
+      "id": "hf_paper_2605.05204",
+      "title": "D-OPSD: On-Policy Self-Distillation for Continuously Tuning Step-Distilled Diffusion Models",
+      "url": "https://huggingface.co/papers/2605.05204",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-05-05T17:36:29Z",
-      "abstract": "Sampling from unnormalized multimodal distributions with limited density evaluations remains a fundamental challenge in machine learning and natural sciences. Successful approaches construct a bridge",
+      "timestamp": "2026-05-05T20:00:00.000Z",
+      "abstract": "The landscape of high-performance image generation models is currently shifting from the inefficient multi-step ones to the efficient few-step counterparts (e.g, Z-Image-Turbo and FLUX.2-klein). Howev",
       "authors": [
-        "Francisco M. Castro-Macías",
-        "Pablo Morales-Álvarez",
-        "Saifuddin Syed",
-        "Daniel Hernández-Lobato",
-        "Rafael Molina"
+        "Dengyang Jiang",
+        "Xin Jin",
+        "Dongyang Liu",
+        "Zanyi Wang",
+        "Mingzhe Zheng"
       ],
       "tags": [
         "diffusion"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2605.04012v1",
-      "title": "SymptomAI: Towards a Conversational AI Agent for Everyday Symptom Assessment",
-      "url": "https://arxiv.org/abs/2605.04012v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-05-05T17:36:12Z",
-      "abstract": "Language models excel at diagnostic assessments on currated medical case-studies and vignettes, performing on par with, or better than, clinical professionals. However, existing studies focus on compl",
-      "authors": [
-        "Joseph Breda",
-        "Fadi Yousif",
-        "Beszel Hawkins",
-        "Marinela Cotoi",
-        "Miao Liu"
-      ],
-      "tags": [
-        "agent"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -382,105 +198,24 @@
       "points": 0
     },
     {
-      "id": "arxiv_2605.04008v1",
-      "title": "Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training",
-      "url": "https://arxiv.org/abs/2605.04008v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
+      "id": "hf_paper_2605.04453",
+      "title": "StableI2I: Spotting Unintended Changes in Image-to-Image Transition",
+      "url": "https://huggingface.co/papers/2605.04453",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-05-05T17:30:17Z",
-      "abstract": "A brain tumor is a medical disorder faced by individuals of all demographics. Medically, it is described as the spread of non-essential cells close to or throughout the brain. Symptoms of this ailment",
+      "timestamp": "2026-05-05T20:00:00.000Z",
+      "abstract": "In most real-world image-to-image (I2I) scenarios, existing evaluations primarily focus on instruction following and the perceptual quality or aesthetics of the generated images. However, they largely",
       "authors": [
-        "Adwaitt Pandya",
-        "Ozioma C. Oguine",
-        "Harita Bhargava",
-        "Shrikant Zade"
+        "Jiayang Li",
+        "Shuo Cao",
+        "Xiaohui Li",
+        "Zhizhen Zhang",
+        "Kaiwen Zhu"
       ],
-      "tags": [
-        "training"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2605.04003v1",
-      "title": "Physics-Grounded Multi-Agent Architecture for Traceable, Risk-Aware Human-AI Decision Support in Manufacturing",
-      "url": "https://arxiv.org/abs/2605.04003v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-05-05T17:24:53Z",
-      "abstract": "High-precision CNC machining of free-form aerospace components requires bounded compensations informed by inspection, simulation, and process knowledge. Off-the-shelf large language model (LLM) assist",
-      "authors": [
-        "Danny Hoang",
-        "Ryan Matthiessen",
-        "Christopher Miller",
-        "Nasir Mannan",
-        "Ruby ElKharboutly"
-      ],
-      "tags": [
-        "agent"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2605.00868v2",
-      "title": "Autonomous Reliability Qualification of Ga$_2$O$_3$-based Hydrogen and Temperature Sensors via Safe Active Learning",
-      "url": "https://arxiv.org/abs/2605.00868v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-05-05T17:23:12Z",
-      "abstract": "We present a Safe Active Learning (SAL) framework for autonomous reliability characterization of rectifying Ga$_2$O$_3$-based devices under coupled thermal and hydrogen stress. SAL treats rectificatio",
-      "authors": [
-        "Davi Febba",
-        "William A. Callahan",
-        "Anna Sacchi",
-        "Andriy Zakutayev"
-      ],
-      "tags": [
-        "autonomous"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2605.03998v1",
-      "title": "EQUITRIAGE: A Fairness Audit of Gender Bias in LLM-Based Emergency Department Triage",
-      "url": "https://arxiv.org/abs/2605.03998v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-05-05T17:20:55Z",
-      "abstract": "Emergency department triage assigns patients an acuity score that determines treatment priority, and clinical evidence documents persistent gender disparities in human acuity assessment. As hospitals",
-      "authors": [
-        "Richard J. Young",
-        "Alice M. Matthews"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 4,
-      "priority": "LOW",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -831,7 +566,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 155441,
+      "stars": 155447,
       "votes": 0,
       "points": 0
     },

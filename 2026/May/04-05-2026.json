@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-07T02:01:35.156Z",
+  "generatedAt": "2026-05-07T05:43:56.771Z",
   "date": "04-05-2026",
-  "count": 16,
+  "count": 17,
   "summary": null,
   "items": [
     {
@@ -47,51 +47,23 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.03571",
-      "title": "PatRe: A Full-Stage Office Action and Rebuttal Generation Benchmark for Patent Examination",
-      "url": "https://huggingface.co/papers/2605.03571",
+      "id": "hf_paper_2605.04128",
+      "title": "Awaking Spatial Intelligence in Unified Multimodal Understanding and Generation",
+      "url": "https://huggingface.co/papers/2605.04128",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-04T20:00:00.000Z",
-      "abstract": "Patent examination is a complex, multi-stage process requiring both technical expertise and legal reasoning, increasingly challenged by rising application volumes. Prior benchmarks predominantly view",
+      "abstract": "We present JoyAI-Image, a unified multimodal foundation model for visual understanding, text-to-image generation, and instruction-guided image editing. JoyAI-Image couples a spatially enhanced Multimo",
       "authors": [
-        "Qiyao Wang",
-        "Xinyi Chen",
-        "Longze Chen",
-        "Hongbo Wang",
-        "Hamid Alinejad-Rokny"
+        "Lin Song",
+        "Wenbo Li",
+        "Guoqing Ma",
+        "Wei Tang",
+        "Bo Wang"
       ],
       "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.03941",
-      "title": "A Benchmark for Interactive World Models with a Unified Action Generation Framework",
-      "url": "https://huggingface.co/papers/2605.03941",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-04T20:00:00.000Z",
-      "abstract": "Achieving Artificial General Intelligence (AGI) requires agents that learn and interact adaptively, with interactive world models providing scalable environments for perception, reasoning, and action.",
-      "authors": [
-        "Jianjie Fang",
-        "Yingshan Lei",
-        "Qin Wan",
-        "Ziyou Wang",
-        "Yuchao Huang"
-      ],
-      "tags": [
-        "benchmark"
+        "multimodal"
       ],
       "score": 8,
       "priority": "HIGH",
@@ -103,24 +75,75 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.03596",
-      "title": "Workspace-Bench 1.0: Benchmarking AI Agents on Workspace Tasks with Large-Scale File Dependencies",
-      "url": "https://huggingface.co/papers/2605.03596",
+      "id": "hf_paper_2605.03849",
+      "title": "Stream-R1: Reliability-Perplexity Aware Reward Distillation for Streaming Video Generation",
+      "url": "https://huggingface.co/papers/2605.03849",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-04T20:00:00.000Z",
-      "abstract": "Workspace learning requires AI agents to identify, reason over, exploit, and update explicit and implicit dependencies among heterogeneous files in a worker's workspace, enabling them to complete both",
+      "abstract": "Distillation-based acceleration has become foundational for making autoregressive streaming video diffusion models practical, with distribution matching distillation (DMD) as the de facto choice. Exis",
       "authors": [
-        "Zirui Tang",
-        "Xuanhe Zhou",
-        "Yumou Liu",
-        "Linchun Li",
-        "Weizheng Wang"
+        "Bin Wu",
+        "Mengqi Huang",
+        "Shaojin Wu",
+        "Weinan Jia",
+        "Yuxin Wang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.03269",
+      "title": "RLDX-1 Technical Report",
+      "url": "https://huggingface.co/papers/2605.03269",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-04T20:00:00.000Z",
+      "abstract": "While Vision-Language-Action models (VLAs) have shown remarkable progress toward human-like generalist robotic policies through the versatile intelligence (i.e. broad scene understanding and language-",
+      "authors": [
+        "Dongyoung Kim",
+        "Huiwon Jang",
+        "Myungkyu Koo",
+        "Suhyeok Jang",
+        "Taeyoung Kim"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.04018",
+      "title": "Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems",
+      "url": "https://huggingface.co/papers/2605.04018",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-04T20:00:00.000Z",
+      "abstract": "Reasoning-intensive retrieval aims to surface evidence that supports downstream reasoning rather than merely matching topical similarity. This capability is increasingly important for agentic search s",
+      "authors": [
+        "Yilun Zhao",
+        "Jinbiao Wei",
+        "Tingyu Song",
+        "Siyue Zhang",
+        "Chen Zhao"
       ],
       "tags": [
-        "agent",
-        "benchmark"
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
