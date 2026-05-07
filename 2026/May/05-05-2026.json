@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-07T08:16:17.077Z",
+  "generatedAt": "2026-05-07T10:38:08.949Z",
   "date": "05-05-2026",
-  "count": 26,
+  "count": 25,
   "summary": null,
   "items": [
     {
@@ -69,18 +69,23 @@
       "points": 0
     },
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Build a Modular Skill-Based Agent System for LLMs with Dynamic Tool Routing in Python",
-      "url": "https://www.marktechpost.com/2026/05/05/build-a-modular-skill-based-agent-system-for-llms-with-dynamic-tool-routing-in-python/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
+      "id": "hf_paper_2605.03314",
+      "title": "When to Think, When to Speak: Learning Disclosure Policies for LLM Reasoning",
+      "url": "https://huggingface.co/papers/2605.03314",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-05-05T20:47:25.000Z",
-      "abstract": "In this tutorial, we build a complete skill-based agent system for large language models and explore how modular capabilities can be structured like an operating system for AI agents. We define reusab",
-      "authors": [],
+      "timestamp": "2026-05-05T20:00:00.000Z",
+      "abstract": "In single-stream autoregressive interfaces, the same tokens both update the model state and constitute an irreversible public commitment. This coupling creates a silence tax: additional deliberation p",
+      "authors": [
+        "Jiaqi Wei",
+        "Xuehang Guo",
+        "Pengfei Yu",
+        "Xiang Zhang",
+        "Wanli Ouyang"
+      ],
       "tags": [
-        "llm",
-        "agent"
+        "llm"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -527,26 +532,6 @@
       "points": 0
     },
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Why Gradient Descent Zigzags and How Momentum Fixes It",
-      "url": "https://www.marktechpost.com/2026/05/05/why-gradient-descent-zigzags-and-how-momentum-fixes-it/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-05-05T07:26:29.000Z",
-      "abstract": "How momentum optimizes gradient descent by dampening oscillations and accelerating convergence on complex\nThe post Why Gradient Descent Zigzags and How Momentum Fixes It appeared first on MarkTechPost",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "gh_132464395",
       "title": "Snailclimb/JavaGuide — Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
       "url": "https://github.com/Snailclimb/JavaGuide",
@@ -573,7 +558,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 155451,
+      "stars": 155449,
       "votes": 0,
       "points": 0
     },
