@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T05:43:56.770Z",
+  "generatedAt": "2026-05-07T08:16:17.077Z",
   "date": "05-05-2026",
   "count": 26,
   "summary": null,
@@ -85,6 +85,35 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.05185",
+      "title": "OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents",
+      "url": "https://huggingface.co/papers/2605.05185",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-05T20:00:00.000Z",
+      "abstract": "Deep search has become a crucial capability for frontier multimodal agents, enabling models to solve complex questions through active search, evidence verification, and multi-step reasoning. Despite r",
+      "authors": [
+        "Shuang Chen",
+        "Kaituo Feng",
+        "Hangting Chen",
+        "Wenxuan Huang",
+        "Dasen Dai"
+      ],
+      "tags": [
+        "multimodal",
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -412,28 +441,6 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fgpt-5",
-      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-      "url": "https://openai.com/index/gpt-5-5-instant",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-05-05T10:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "gpt"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fmrc-s",
       "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
       "url": "https://openai.com/index/mrc-supercomputer-networking",
@@ -445,6 +452,28 @@
       "authors": [],
       "tags": [
         "training"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fgpt-5",
+      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+      "url": "https://openai.com/index/gpt-5-5-instant",
+      "source": "OpenAI Blog",
+      "sourceIcon": "🟢",
+      "type": "news",
+      "timestamp": "2026-05-05T10:00:00.000Z",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "gpt"
       ],
       "score": 8,
       "priority": "HIGH",
@@ -518,28 +547,6 @@
       "points": 0
     },
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Google Adds Event-Driven Webhooks to the Gemini API, Eliminating the Need for Polling in Long-Running AI Jobs",
-      "url": "https://www.marktechpost.com/2026/05/05/google-adds-event-driven-webhooks-to-the-gemini-api-eliminating-the-need-for-polling-in-long-running-ai-jobs/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-05-05T07:01:53.000Z",
-      "abstract": "A push-based notification system for Batch API, Deep Research, and video generation tasks arrives with built-in security, retry guarantees, and two configuration modes.\nThe post Google Adds Event-Driv",
-      "authors": [],
-      "tags": [
-        "gemini"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "gh_132464395",
       "title": "Snailclimb/JavaGuide — Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
       "url": "https://github.com/Snailclimb/JavaGuide",
@@ -566,7 +573,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 155447,
+      "stars": 155451,
       "votes": 0,
       "points": 0
     },
