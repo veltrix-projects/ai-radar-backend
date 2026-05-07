@@ -1,9 +1,57 @@
 {
-  "generatedAt": "2026-05-07T15:09:22.961Z",
+  "generatedAt": "2026-05-07T17:13:23.711Z",
   "date": "05-05-2026",
-  "count": 22,
+  "count": 23,
   "summary": null,
   "items": [
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Closing the &#8216;Expressivity Gap&#8217;: How Mistral&#8217;s Voxtral TTS is Redefining Multilingual Voice Cloning with a Hybrid Autoregressive and Flow-Matching Architecture",
+      "url": "https://www.marktechpost.com/2026/05/05/closing-the-expressivity-gap-how-mistrals-voxtral-tts-is-redefining-multilingual-voice-cloning-with-a-hybrid-autoregressive-and-flow-matching-architecture/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-05-05T21:11:42.000Z",
+      "abstract": "Voice AI has a dirty secret. Most text-to-speech systems sound fine — until they don&#8217;t. They can read a sentence. What they cannot do is mean it. The rhythm is off. The emotion is flat. The spea",
+      "authors": [],
+      "tags": [
+        "mistral"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.04637",
+      "title": "SWE-WebDevBench: Evaluating Coding Agent Application Platforms as Virtual Software Agencies",
+      "url": "https://huggingface.co/papers/2605.04637",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-05T20:00:00.000Z",
+      "abstract": "The emergence of \"vibe coding\" platforms, where users describe applications in natural language and AI agents autonomously generate full-stack software, has created a need for rigorous evaluation beyo",
+      "authors": [
+        "Siddhant Saxena",
+        "Nilesh Trivedi",
+        "Vinayaka Jyothi"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.05166",
       "title": "The First Token Knows: Single-Decode Confidence for Hallucination Detection",
@@ -180,32 +228,6 @@
       "tags": [
         "diffusion"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.04453",
-      "title": "StableI2I: Spotting Unintended Changes in Image-to-Image Transition",
-      "url": "https://huggingface.co/papers/2605.04453",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-05T20:00:00.000Z",
-      "abstract": "In most real-world image-to-image (I2I) scenarios, existing evaluations primarily focus on instruction following and the perceptual quality or aesthetics of the generated images. However, they largely",
-      "authors": [
-        "Jiayang Li",
-        "Shuo Cao",
-        "Xiaohui Li",
-        "Zhizhen Zhang",
-        "Kaiwen Zhu"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
