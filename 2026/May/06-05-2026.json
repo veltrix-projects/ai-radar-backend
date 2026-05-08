@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-08T05:14:52.441Z",
+  "generatedAt": "2026-05-08T07:02:19.560Z",
   "date": "06-05-2026",
-  "count": 34,
+  "count": 31,
   "summary": null,
   "items": [
     {
@@ -113,7 +113,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 136010,
+      "stars": 136025,
       "votes": 0,
       "points": 0
     },
@@ -501,91 +501,6 @@
       ],
       "tags": [
         "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.06638",
-      "title": "Can RL Teach Long-Horizon Reasoning to LLMs? Expressiveness Is Key",
-      "url": "https://huggingface.co/papers/2605.06638",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-06T20:00:00.000Z",
-      "abstract": "Reinforcement learning (RL) has been applied to improve large language model (LLM) reasoning, yet the systematic study of how training scales with task difficulty has been hampered by the lack of cont",
-      "authors": [
-        "Tianle Wang",
-        "Zhaoyang Wang",
-        "Guangchen Lan",
-        "Xinpeng Wei",
-        "Sipeng Zhang"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.06507",
-      "title": "MARBLE: Multi-Aspect Reward Balance for Diffusion RL",
-      "url": "https://huggingface.co/papers/2605.06507",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-06T20:00:00.000Z",
-      "abstract": "Reinforcement learning fine-tuning has become the dominant approach for aligning diffusion models with human preferences. However, assessing images is intrinsically a multi-dimensional task, and multi",
-      "authors": [
-        "Canyu Zhao",
-        "Hao Chen",
-        "Yunze Tong",
-        "Yu Qiao",
-        "Jiacheng Li"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.05724",
-      "title": "Auto Research with Specialist Agents Develops Effective and Non-Trivial Training Recipes",
-      "url": "https://huggingface.co/papers/2605.05724",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-06T20:00:00.000Z",
-      "abstract": "We study auto research as a closed empirical loop driven by external measurement. Each submitted trial carries a hypothesis, an executable code edit, an evaluator-owned outcome, and feedback that shap",
-      "authors": [
-        "Jingjie Ning",
-        "Xiaochuan Li",
-        "Ji Zeng",
-        "Hao Kang",
-        "Chenyan Xiong"
-      ],
-      "tags": [
-        "agent",
-        "training"
       ],
       "score": 6,
       "priority": "MEDIUM",

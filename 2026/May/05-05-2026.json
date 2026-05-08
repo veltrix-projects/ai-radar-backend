@@ -1,9 +1,64 @@
 {
-  "generatedAt": "2026-05-08T05:14:52.441Z",
+  "generatedAt": "2026-05-08T07:02:19.561Z",
   "date": "05-05-2026",
-  "count": 12,
+  "count": 14,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.04523",
+      "title": "RaguTeam at SemEval-2026 Task 8: Meno and Friends in a Judge-Orchestrated LLM Ensemble for Faithful Multi-Turn Response Generation",
+      "url": "https://huggingface.co/papers/2605.04523",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-05T20:00:00.000Z",
+      "abstract": "We present our winning system for Task~B (generation with reference passages) in SemEval-2026 Task~8: MTRAGEval. Our method is a heterogeneous ensemble of seven LLMs with two prompting variants, where",
+      "authors": [
+        "Ivan Bondarenko",
+        "Roman Derunets",
+        "Oleg Sedukhin",
+        "Mikhail Komarov",
+        "Ivan Chernov"
+      ],
+      "tags": [
+        "llm",
+        "rag"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.04451",
+      "title": "RemoteZero: Geospatial Reasoning with Zero Human Annotations",
+      "url": "https://huggingface.co/papers/2605.04451",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-05T20:00:00.000Z",
+      "abstract": "Geospatial reasoning requires models to resolve complex spatial semantics and user intent into precise target locations for Earth observation. Recent progress has liberated the reasoning path from man",
+      "authors": [
+        "Liang Yao",
+        "Fan Liu",
+        "Shengxiang Xu",
+        "Chuanyi Zhang",
+        "Rui Min"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.04962",
       "title": "TabEmbed: Benchmarking and Learning Generalist Embeddings for Tabular Understanding",
