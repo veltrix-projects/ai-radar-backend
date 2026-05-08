@@ -1,28 +1,27 @@
 {
-  "generatedAt": "2026-05-08T02:07:48.606Z",
+  "generatedAt": "2026-05-08T05:14:52.443Z",
   "date": "30-04-2026",
   "count": 9,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2605.00380",
-      "title": "ResRL: Boosting LLM Reasoning via Negative Sample Projection Residual Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2605.00380",
+      "id": "hf_paper_2605.00623",
+      "title": "Recovering Hidden Reward in Diffusion-Based Policies",
+      "url": "https://huggingface.co/papers/2605.00623",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-30T20:00:00.000Z",
-      "abstract": "Reinforcement Learning with Verifiable Rewards (RLVR) enhances reasoning of Large Language Models (LLMs) but usually exhibits limited generation diversity due to the over-incentivization of positive r",
+      "abstract": "This paper introduces EnergyFlow, a framework that unifies generative action modeling with inverse reinforcement learning by parameterizing a scalar energy function whose gradient is the denoising fie",
       "authors": [
-        "Zihan Lin",
-        "Xiaohan Wang",
-        "Jie Cao",
-        "Jiajun Chai",
-        "Li Wang"
+        "Yanbiao Ji",
+        "Qiuchang Li",
+        "Yuting Hu",
+        "Shaokai Wu",
+        "Wenyuan Xie"
       ],
       "tags": [
-        "llm",
-        "reinforcement learning"
+        "diffusion"
       ],
       "score": 6,
       "priority": "MEDIUM",
