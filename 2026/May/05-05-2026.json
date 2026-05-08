@@ -1,9 +1,38 @@
 {
-  "generatedAt": "2026-05-08T08:52:42.255Z",
+  "generatedAt": "2026-05-08T11:49:32.417Z",
   "date": "05-05-2026",
-  "count": 14,
+  "count": 15,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.04956",
+      "title": "KernelBench-X: A Comprehensive Benchmark for Evaluating LLM-Generated GPU Kernels",
+      "url": "https://huggingface.co/papers/2605.04956",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-05T20:00:00.000Z",
+      "abstract": "LLM-based Triton kernel generation has attracted significant interest, yet a fundamental empirical question remains unanswered: where does this capability break down, and why? We present KernelBench-X",
+      "authors": [
+        "Han Wang",
+        "Jintao Zhang",
+        "Kai Jiang",
+        "Haoxu Wang",
+        "Jianfei Chen"
+      ],
+      "tags": [
+        "llm",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.04523",
       "title": "RaguTeam at SemEval-2026 Task 8: Meno and Friends in a Judge-Orchestrated LLM Ensemble for Faithful Multi-Turn Response Generation",

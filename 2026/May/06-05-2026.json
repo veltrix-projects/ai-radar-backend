@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-08T08:52:42.250Z",
+  "generatedAt": "2026-05-08T11:49:32.417Z",
   "date": "06-05-2026",
-  "count": 31,
+  "count": 30,
   "summary": null,
   "items": [
     {
@@ -113,7 +113,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 136037,
+      "stars": 136060,
       "votes": 0,
       "points": 0
     },
@@ -150,6 +150,57 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.06535",
+      "title": "Sparkle: Realizing Lively Instruction-Guided Video Background Replacement via Decoupled Guidance",
+      "url": "https://huggingface.co/papers/2605.06535",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-06T20:00:00.000Z",
+      "abstract": "In recent years, open-source efforts like Senorita-2M have propelled video editing toward natural language instruction. However, current publicly available datasets predominantly focus on local editin",
+      "authors": [
+        "Ziyun Zeng",
+        "Yiqi Lin",
+        "Guoqiang Liang",
+        "Mike Zheng Shou"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.06216",
+      "title": "TIDE: Every Layer Knows the Token Beneath the Context",
+      "url": "https://huggingface.co/papers/2605.06216",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-06T20:00:00.000Z",
+      "abstract": "We revisit a universally accepted but under-examined design choice in every modern LLM: a token index is looked up once at the input embedding layer and then permanently discarded. This single-injecti",
+      "authors": [
+        "Ajay Jaiswal",
+        "Lauren Hannah",
+        "Han-Byul Kim",
+        "Duc Hoang",
+        "Mehrdad Farajtabar"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -419,91 +470,6 @@
         "Guoxuan Chen"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.06548",
-      "title": "Continuous Latent Diffusion Language Model",
-      "url": "https://huggingface.co/papers/2605.06548",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-06T20:00:00.000Z",
-      "abstract": "Large language models have achieved remarkable success under the autoregressive paradigm, yet high-quality text generation need not be tied to a fixed left-to-right order. Existing alternatives still",
-      "authors": [
-        "Hongcan Guo",
-        "Qinyu Zhao",
-        "Yian Zhao",
-        "Shen Nie",
-        "Rui Zhu"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.06614",
-      "title": "SkillOS: Learning Skill Curation for Self-Evolving Agents",
-      "url": "https://huggingface.co/papers/2605.06614",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-06T20:00:00.000Z",
-      "abstract": "LLM-based agents are increasingly deployed to handle streaming tasks, yet they often remain one-off problem solvers that fail to learn from past interactions. Reusable skills distilled from experience",
-      "authors": [
-        "Siru Ouyang",
-        "Jun Yan",
-        "Yanfei Chen",
-        "Rujun Han",
-        "Zifeng Wang"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.06130",
-      "title": "Skill1: Unified Evolution of Skill-Augmented Agents via Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2605.06130",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-06T20:00:00.000Z",
-      "abstract": "A persistent skill library allows language model agents to reuse successful strategies across tasks. Maintaining such a library requires three coupled capabilities. The agent selects a relevant skill,",
-      "authors": [
-        "Yaorui Shi",
-        "Yuxin Chen",
-        "Zhengxi Lu",
-        "Yuchun Miao",
-        "Shugui Liu"
-      ],
-      "tags": [
-        "agent",
-        "reinforcement learning"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
