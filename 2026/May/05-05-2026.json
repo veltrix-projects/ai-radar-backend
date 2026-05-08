@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-05-08T13:09:49.255Z",
+  "generatedAt": "2026-05-08T16:47:52.932Z",
   "date": "05-05-2026",
   "count": 14,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.04604",
+      "title": "Generative Quantum-inspired Kolmogorov-Arnold Eigensolver",
+      "url": "https://huggingface.co/papers/2605.04604",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-05T20:00:00.000Z",
+      "abstract": "High-performance computing (HPC) is increasingly important for scalable quantum chemistry workflows that couple classical generative models, quantum circuit simulation, and selected configuration inte",
+      "authors": [
+        "Yu-Cheng Lin",
+        "Yu-Chao Hsu",
+        "I-Shan Tsai",
+        "Chun-Hua Lin",
+        "Kuo-Chung Peng"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.04956",
       "title": "KernelBench-X: A Comprehensive Benchmark for Evaluating LLM-Generated GPU Kernels",
@@ -79,35 +105,6 @@
         "Rui Min"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.04962",
-      "title": "TabEmbed: Benchmarking and Learning Generalist Embeddings for Tabular Understanding",
-      "url": "https://huggingface.co/papers/2605.04962",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-05T20:00:00.000Z",
-      "abstract": "Foundation models have established unified representations for natural language processing, yet this paradigm remains largely unexplored for tabular data. Existing methods face fundamental limitations",
-      "authors": [
-        "Minjie Qiang",
-        "Mingming Zhang",
-        "Xiaoyi Bao",
-        "Xing Fu",
-        "Yu Cheng"
-      ],
-      "tags": [
-        "benchmark",
-        "embeddings"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
