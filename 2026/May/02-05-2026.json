@@ -1,22 +1,30 @@
 {
-  "generatedAt": "2026-05-07T21:46:21.669Z",
+  "generatedAt": "2026-05-08T13:09:49.256Z",
   "date": "02-05-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fthis-per",
-      "title": "This Personality Trait Makes Dreams More Bizarre, Scientists Discover",
-      "url": "https://www.404media.co/this-personality-trait-makes-dreams-more-bizarre-scientists-discover/",
-      "source": "404 Media",
-      "sourceIcon": "📡",
-      "type": "news",
-      "timestamp": "2026-05-02T13:00:40.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
+      "id": "hf_paper_2605.05242",
+      "title": "Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction",
+      "url": "https://huggingface.co/papers/2605.05242",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-02T20:00:00.000Z",
+      "abstract": "Modern retrieval systems, whether lexical or semantic, expose a corpus through a fixed similarity interface that compresses access into a single top-k retrieval step before reasoning. This abstraction",
+      "authors": [
+        "Zhuofeng Li",
+        "Haoxiang Zhang",
+        "Cong Wei",
+        "Pan Lu",
+        "Ping Nie"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

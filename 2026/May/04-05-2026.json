@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-08T11:49:32.418Z",
+  "generatedAt": "2026-05-08T13:09:49.255Z",
   "date": "04-05-2026",
-  "count": 8,
+  "count": 10,
   "summary": null,
   "items": [
     {
@@ -20,6 +20,57 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.04045",
+      "title": "Audio-Visual Intelligence in Large Foundation Models",
+      "url": "https://huggingface.co/papers/2605.04045",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-04T20:00:00.000Z",
+      "abstract": "Audio-Visual Intelligence (AVI) has emerged as a central frontier in artificial intelligence, bridging auditory and visual modalities to enable machines that can perceive, generate, and interact in th",
+      "authors": [
+        "You Qin",
+        "Kai Liu",
+        "Shengqiong Wu",
+        "Kai Wang",
+        "Shijian Deng"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.04330",
+      "title": "The Scaling Properties of Implicit Deductive Reasoning in Transformers",
+      "url": "https://huggingface.co/papers/2605.04330",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-04T20:00:00.000Z",
+      "abstract": "We investigate the scaling properties of implicit deductive reasoning over Horn clauses in depth-bounded Transformers. By systematically decorrelating provability from spurious features and enforcing",
+      "authors": [
+        "Enrico Vompa",
+        "Tanel Tammet"
+      ],
+      "tags": [
+        "transformer"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

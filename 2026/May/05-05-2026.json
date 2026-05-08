@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-08T11:49:32.417Z",
+  "generatedAt": "2026-05-08T13:09:49.255Z",
   "date": "05-05-2026",
-  "count": 15,
+  "count": 14,
   "summary": null,
   "items": [
     {
@@ -107,34 +107,6 @@
       "tags": [
         "benchmark",
         "embeddings"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.04647",
-      "title": "ReflectDrive-2: Reinforcement-Learning-Aligned Self-Editing for Discrete Diffusion Driving",
-      "url": "https://huggingface.co/papers/2605.04647",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-05T20:00:00.000Z",
-      "abstract": "We introduce ReflectDrive-2, a masked discrete diffusion planner with separate action expert for autonomous driving that represents plans as discrete trajectory tokens and generates them through paral",
-      "authors": [
-        "Huimin Wang",
-        "Yue Wang",
-        "Bihao Cui",
-        "Pengxiang Li",
-        "Ben Lu"
-      ],
-      "tags": [
-        "diffusion"
       ],
       "score": 6,
       "priority": "MEDIUM",
