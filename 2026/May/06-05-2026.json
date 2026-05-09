@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-05-08T23:46:26.434Z",
+  "generatedAt": "2026-05-09T02:01:30.462Z",
   "date": "06-05-2026",
   "count": 20,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.06663",
+      "title": "EMO: Pretraining Mixture of Experts for Emergent Modularity",
+      "url": "https://huggingface.co/papers/2605.06663",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-06T20:00:00.000Z",
+      "abstract": "Large language models are typically deployed as monolithic systems, requiring the full model even when applications need only a narrow subset of capabilities, e.g., code, math, or domain-specific know",
+      "authors": [
+        "Ryan Wang",
+        "Akshita Bhagia",
+        "Sewon Min"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.06627",
       "title": "PianoCoRe: Combined and Refined Piano MIDI Dataset",
@@ -234,34 +260,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.06376",
-      "title": "Continuous-Time Distribution Matching for Few-Step Diffusion Distillation",
-      "url": "https://huggingface.co/papers/2605.06376",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-06T20:00:00.000Z",
-      "abstract": "Step distillation has become a leading technique for accelerating diffusion models, among which Distribution Matching Distillation (DMD) and Consistency Distillation are two representative paradigms.",
-      "authors": [
-        "Tao Liu",
-        "Hao Yan",
-        "Mengting Chen",
-        "Taihang Hu",
-        "Zhengrong Yue"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
