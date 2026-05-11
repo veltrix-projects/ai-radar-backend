@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-11T21:46:52.669Z",
+  "generatedAt": "2026-05-11T23:48:18.773Z",
   "date": "06-05-2026",
-  "count": 12,
+  "count": 11,
   "summary": null,
   "items": [
     {
@@ -138,47 +138,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.06105",
-      "title": "Shallow Prefill, Deep Decoding: Efficient Long-Context Inference via Layer-Asymmetric KV Visibility",
-      "url": "https://huggingface.co/papers/2605.06105",
+      "id": "hf_paper_2605.07039",
+      "title": "PACEvolve++: Improving Test-time Learning for Evolutionary Search Agents",
+      "url": "https://huggingface.co/papers/2605.07039",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-06T20:00:00.000Z",
-      "abstract": "Long-context inference in decoder-only language models is costly because long prompts are processed during Prefill, cached at every layer, and repeatedly attended to during autoregressive Decode. We i",
+      "abstract": "Large language models have become drivers of evolutionary search, but most systems rely on a fixed, prompt-elicited policy to sample next candidates. This limits adaptation in practical engineering an",
       "authors": [
-        "Jungsuk Oh",
-        "Hyeseo Jeon",
-        "Hyunjune Ji",
-        "Kyongmin Kong",
-        "Jay-Yoon Lee"
+        "Minghao Yan",
+        "Bo Peng",
+        "Benjamin Coleman",
+        "Ziqi Chen",
+        "Zhouhang Xie"
       ],
       "tags": [
-        "inference"
+        "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.06380",
-      "title": "Empirical Evidence for Simply Connected Decision Regions in Image Classifiers",
-      "url": "https://huggingface.co/papers/2605.06380",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-06T20:00:00.000Z",
-      "abstract": "Understanding the topology of decision regions is central to explaining the inner workings of deep neural networks. Prior empirical work has provided evidence that these regions are path connected. We",
-      "authors": [
-        "Arjhun Swaminathan",
-        "Mete Akgün"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
