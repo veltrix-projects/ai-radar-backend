@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-11T20:12:03.811Z",
+  "generatedAt": "2026-05-11T21:46:52.667Z",
   "date": "07-05-2026",
-  "count": 25,
+  "count": 26,
   "summary": null,
   "items": [
     {
@@ -240,6 +240,32 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.07075",
+      "title": "ModelLens: Finding the Best for Your Task from Myriads of Models",
+      "url": "https://huggingface.co/papers/2605.07075",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-07T20:00:00.000Z",
+      "abstract": "The open-source model ecosystem now contains hundreds of thousands of pretrained models, yet picking the best model for a new dataset is increasingly infeasible: new models and unbenchmarked datasets",
+      "authors": [
+        "Rui Cai",
+        "Weijie Jacky Mo",
+        "Xiaofei Wen",
+        "Qiyao Ma",
+        "Wenhui Zhu"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
