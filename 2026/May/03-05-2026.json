@@ -1,36 +1,35 @@
 {
-  "generatedAt": "2026-05-09T02:01:30.464Z",
+  "generatedAt": "2026-05-11T20:12:03.814Z",
   "date": "03-05-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "gh_1136590548",
-      "title": "affaan-m/everything-claude-code — The agent harness performance optimization system. Skills, instincts, memory, security, and research",
-      "url": "https://github.com/affaan-m/everything-claude-code",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-05-03T04:53:48Z",
-      "abstract": "",
-      "authors": [],
+      "id": "hf_paper_2511.07328",
+      "title": "Q-RAG: Long Context Multi-step Retrieval via Value-based Embedder Training",
+      "url": "https://huggingface.co/papers/2511.07328",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-03T20:00:00.000Z",
+      "abstract": "Retrieval-Augmented Generation (RAG) methods enhance LLM performance by efficiently filtering relevant context for LLMs, reducing hallucinations and inference cost. However, most existing RAG methods",
+      "authors": [
+        "Artyom Sorokin",
+        "Nazar Buzun",
+        "Alexander Anokhin",
+        "Oleg Inozemcev",
+        "Egor Vedernikov"
+      ],
       "tags": [
-        "ai-agents",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "developer-tools",
-        "llm",
-        "mcp",
-        "productivity",
-        "JavaScript"
+        "rag",
+        "training"
       ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 175911,
+      "stars": 0,
       "votes": 0,
       "points": 0
     }
