@@ -1,29 +1,54 @@
 {
-  "generatedAt": "2026-05-11T02:11:02.884Z",
+  "generatedAt": "2026-05-11T06:11:24.279Z",
   "date": "06-05-2026",
-  "count": 20,
+  "count": 18,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2605.06663",
-      "title": "EMO: Pretraining Mixture of Experts for Emergent Modularity",
-      "url": "https://huggingface.co/papers/2605.06663",
+      "id": "hf_paper_2605.05136",
+      "title": "CPCANet: Deep Unfolding Common Principal Component Analysis for Domain Generalization",
+      "url": "https://huggingface.co/papers/2605.05136",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-06T20:00:00.000Z",
-      "abstract": "Large language models are typically deployed as monolithic systems, requiring the full model even when applications need only a narrow subset of capabilities, e.g., code, math, or domain-specific know",
+      "abstract": "Domain Generalization (DG) aims to learn representations that remain robust under out-of-distribution (OOD) shifts and generalize effectively to unseen target domains. While recent invariant learning",
       "authors": [
-        "Ryan Wang",
-        "Akshita Bhagia",
-        "Sewon Min"
+        "Yu-Hsi Chen",
+        "Abd-Krim Seghouane"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.05781",
+      "title": "Steering Visual Generation in Unified Multimodal Models with Understanding Supervision",
+      "url": "https://huggingface.co/papers/2605.05781",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-06T20:00:00.000Z",
+      "abstract": "Unified multimodal models are envisioned to bridge the gap between understanding and generation. Yet, to achieve competitive performance, state-of-the-art models adopt largely decoupled understanding",
+      "authors": [
+        "Zeyu Liu",
+        "Zanlin Ni",
+        "Yang Yue",
+        "Cheng Da",
+        "Huan Yang"
       ],
       "tags": [
-        "training"
+        "multimodal"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -31,16 +56,17 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.06627",
-      "title": "PianoCoRe: Combined and Refined Piano MIDI Dataset",
-      "url": "https://huggingface.co/papers/2605.06627",
+      "id": "hf_paper_2605.06628",
+      "title": "LiVeAction: a Lightweight, Versatile, and Asymmetric Neural Codec Design for Real-time Operation",
+      "url": "https://huggingface.co/papers/2605.06628",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-06T20:00:00.000Z",
-      "abstract": "Symbolic music datasets with matched scores and performances are essential for many music information retrieval (MIR) tasks. Yet, existing resources often cover a narrow range of composers, lack perfo",
+      "abstract": "Modern sensors generate rich, high-fidelity data, yet applications operating on wearable or remote sensing devices remain constrained by bandwidth and power budgets. Standardized codecs such as JPEG a",
       "authors": [
-        "Ilya Borovik"
+        "Dan Jacobellis",
+        "Neeraja J. Yadwadkar"
       ],
       "tags": [],
       "score": 6,
@@ -53,46 +79,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.06642",
-      "title": "StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction",
-      "url": "https://huggingface.co/papers/2605.06642",
+      "id": "hf_paper_2605.06597",
+      "title": "UniSD: Towards a Unified Self-Distillation Framework for Large Language Models",
+      "url": "https://huggingface.co/papers/2605.06597",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-06T20:00:00.000Z",
-      "abstract": "Large language models (LLMs) are increasingly used as interactive agents, but optimizing them for long-horizon decision making remains difficult because current methods are largely purely reactive, wh",
+      "abstract": "Self-distillation (SD) offers a promising path for adapting large language models (LLMs) without relying on stronger external teachers. However, SD in autoregressive LLMs remains challenging because s",
       "authors": [
-        "Xiangyuan Xue",
-        "Yifan Zhou",
-        "Zidong Wang",
-        "Shengji Tang",
-        "Philip Torr"
-      ],
-      "tags": [
-        "agent",
-        "reinforcement learning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.06477",
-      "title": "GeoStack: A Framework for Quasi-Abelian Knowledge Composition in VLMs",
-      "url": "https://huggingface.co/papers/2605.06477",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-06T20:00:00.000Z",
-      "abstract": "We address the challenge of knowledge composition in Vision-Language Models (VLMs), where accumulating expertise across multiple domains or tasks typically leads to catastrophic forgetting. We introdu",
-      "authors": [
-        "Pranav Mantini",
-        "Shishir K. Shah"
+        "Yiqiao Jin",
+        "Yiyang Wang",
+        "Lucheng Fu",
+        "Yijia Xiao",
+        "Yinyi Luo"
       ],
       "tags": [],
       "score": 6,
@@ -105,20 +105,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.05758",
-      "title": "BioTool: A Comprehensive Tool-Calling Dataset for Enhancing Biomedical Capabilities of Large Language Models",
-      "url": "https://huggingface.co/papers/2605.05758",
+      "id": "hf_paper_2605.05838",
+      "title": "MDN: Parallelizing Stepwise Momentum for Delta Linear Attention",
+      "url": "https://huggingface.co/papers/2605.05838",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-06T20:00:00.000Z",
-      "abstract": "Despite the success of large language models (LLMs) on general-purpose tasks, their performance in highly specialized domains such as biomedicine remains unsatisfactory. A key limitation is the inabil",
+      "abstract": "Linear Attention (LA) offers a promising paradigm for scaling large language models (LLMs) to long sequences by avoiding the quadratic complexity of self-attention. Recent LA models such as Mamba2 and",
       "authors": [
-        "Xin Gao",
-        "Ruiyi Zhang",
-        "Meixi Du",
-        "Peijia Qin",
-        "Pengtao Xie"
+        "Yulong Huang",
+        "Xiang Liu",
+        "Hongxiang Huang",
+        "Xiaopeng Lin",
+        "Zunchang Liu"
       ],
       "tags": [],
       "score": 6,
@@ -131,19 +131,17 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.06535",
-      "title": "Sparkle: Realizing Lively Instruction-Guided Video Background Replacement via Decoupled Guidance",
-      "url": "https://huggingface.co/papers/2605.06535",
+      "id": "hf_paper_2605.06747",
+      "title": "HumanNet: Scaling Human-centric Video Learning to One Million Hours",
+      "url": "https://huggingface.co/papers/2605.06747",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-06T20:00:00.000Z",
-      "abstract": "In recent years, open-source efforts like Senorita-2M have propelled video editing toward natural language instruction. However, current publicly available datasets predominantly focus on local editin",
+      "abstract": "Progress in embodied intelligence increasingly depends on scalable data infrastructure. While vision and language have scaled with internet corpora, learning physical interaction remains constrained b",
       "authors": [
-        "Ziyun Zeng",
-        "Yiqi Lin",
-        "Guoqiang Liang",
-        "Mike Zheng Shou"
+        "Yufan Deng",
+        "Daquan Zhou"
       ],
       "tags": [],
       "score": 6,
@@ -156,20 +154,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.06216",
-      "title": "TIDE: Every Layer Knows the Token Beneath the Context",
-      "url": "https://huggingface.co/papers/2605.06216",
+      "id": "hf_paper_2605.06221",
+      "title": "UniPrefill: Universal Long-Context Prefill Acceleration via Block-wise Dynamic Sparsification",
+      "url": "https://huggingface.co/papers/2605.06221",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-06T20:00:00.000Z",
-      "abstract": "We revisit a universally accepted but under-examined design choice in every modern LLM: a token index is looked up once at the input embedding layer and then permanently discarded. This single-injecti",
+      "abstract": "As large language models (LLMs) continue to advance rapidly, they are becoming increasingly capable while simultaneously demanding ever-longer context lengths. To improve the inference efficiency of l",
       "authors": [
-        "Ajay Jaiswal",
-        "Lauren Hannah",
-        "Han-Byul Kim",
-        "Duc Hoang",
-        "Mehrdad Farajtabar"
+        "Qihang Fan",
+        "Huaibo Huang",
+        "Zhiying Wu",
+        "Bingning Wang",
+        "Ran He"
       ],
       "tags": [],
       "score": 6,
@@ -182,84 +180,29 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.06652",
-      "title": "When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels",
-      "url": "https://huggingface.co/papers/2605.06652",
+      "id": "hf_paper_2605.06716",
+      "title": "From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms",
+      "url": "https://huggingface.co/papers/2605.06716",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-06T20:00:00.000Z",
-      "abstract": "Many deployments must compare candidate language models for safety before a labeled benchmark exists for the relevant language, sector, or regulatory regime. We formalize this setting as benchmarkless",
+      "abstract": "Large Language Model (LLM)-based agents have fundamentally reshaped artificial intelligence by integrating external tools and planning capabilities. While memory mechanisms have emerged as the archite",
       "authors": [
-        "Sushant Gautam",
-        "Finn Schwall",
-        "Annika Willoch Olstad",
-        "Fernando Vallecillos Ruiz",
-        "Birk Torpmann-Hagen"
+        "Jinghao Luo",
+        "Yuchen Tian",
+        "Chuxue Cao",
+        "Ziyang Luo",
+        "Hongzhan Lin"
       ],
       "tags": [
         "llm",
-        "benchmark",
-        "safety"
+        "rag",
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.06222",
-      "title": "When to Trust Imagination: Adaptive Action Execution for World Action Models",
-      "url": "https://huggingface.co/papers/2605.06222",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-06T20:00:00.000Z",
-      "abstract": "World Action Models (WAMs) have recently emerged as a promising paradigm for robotic manipulation by jointly predicting future visual observations and future actions. However, current WAMs typically e",
-      "authors": [
-        "Rui Wang",
-        "Yue Zhang",
-        "Jiehong Lin",
-        "Kuncheng Luo",
-        "Jianan Wang"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.06643",
-      "title": "Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study",
-      "url": "https://huggingface.co/papers/2605.06643",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-06T20:00:00.000Z",
-      "abstract": "Despite the growing popularity of Multimodal Domain Generalization (MMDG) for enhancing model robustness, it remains unclear whether reported performance gains reflect genuine algorithmic progress or",
-      "authors": [
-        "Hao Dong",
-        "Hongzhao Li",
-        "Shupan Li",
-        "Muhammad Haris Khan",
-        "Eleni Chatzi"
-      ],
-      "tags": [
-        "multimodal",
-        "benchmark"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
