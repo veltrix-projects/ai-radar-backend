@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-11T10:04:16.258Z",
+  "generatedAt": "2026-05-11T13:21:35.717Z",
   "date": "27-04-2026",
-  "count": 3,
+  "count": 4,
   "summary": null,
   "items": [
     {
@@ -18,6 +18,32 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.25325",
+      "title": "R^3-SQL: Ranking Reward and Resampling for Text-to-SQL",
+      "url": "https://huggingface.co/papers/2604.25325",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-27T20:00:00.000Z",
+      "abstract": "Modern Text-to-SQL systems generate multiple candidate SQL queries and rank them to judge a final prediction. However, existing methods face two limitations. First, they often score functionally equiv",
+      "authors": [
+        "Hojae Han",
+        "Yeonseok Jeong",
+        "Seung-won Hwang",
+        "Zhewei Yao",
+        "Yuxiong He"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
