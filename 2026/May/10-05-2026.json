@@ -1,9 +1,61 @@
 {
-  "generatedAt": "2026-05-12T21:02:22.433Z",
+  "generatedAt": "2026-05-12T22:38:27.209Z",
   "date": "10-05-2026",
-  "count": 11,
+  "count": 10,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.10889",
+      "title": "Unmasking On-Policy Distillation: Where It Helps, Where It Hurts, and Why",
+      "url": "https://huggingface.co/papers/2605.10889",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-10T20:00:00.000Z",
+      "abstract": "On-policy distillation offers dense, per-token supervision for training reasoning models; however, it remains unclear under which conditions this signal is beneficial and under which it is detrimental",
+      "authors": [
+        "Mohammadreza Armandpour",
+        "Fatih Ilhan",
+        "David Harrison",
+        "Ajay Jaiswal",
+        "Duc N. M Hoang"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.10762",
+      "title": "GridProbe: Posterior-Probing for Adaptive Test-Time Compute in Long-Video VLMs",
+      "url": "https://huggingface.co/papers/2605.10762",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-10T20:00:00.000Z",
+      "abstract": "Long-video understanding in VLMs is bottlenecked by a single monolithic forward pass over thousands of frames at quadratic attention cost. A common mitigation is to first select a small subset of info",
+      "authors": [
+        "Mohamed Eltahir",
+        "Lama Ayash",
+        "Ali Habibullah",
+        "Tanveer Hussain",
+        "Naeemullah Khan"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.10032",
       "title": "PlantMarkerBench: A Multi-Species Benchmark for Evidence-Grounded Plant Marker Reasoning",
@@ -185,85 +237,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.10344",
-      "title": "TMAS: Scaling Test-Time Compute via Multi-Agent Synergy",
-      "url": "https://huggingface.co/papers/2605.10344",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-10T20:00:00.000Z",
-      "abstract": "Test-time scaling has become an effective paradigm for improving the reasoning ability of large language models by allocating additional computation during inference. Recent structured approaches have",
-      "authors": [
-        "George Wu",
-        "Nan Jing",
-        "Qing Yi",
-        "Chuan Hao",
-        "Ming Yang"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.10453",
-      "title": "SlimSpec: Low-Rank Draft LM-Head for Accelerated Speculative Decoding",
-      "url": "https://huggingface.co/papers/2605.10453",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-10T20:00:00.000Z",
-      "abstract": "Speculative decoding speeds up autoregressive generation in Large Language Models (LLMs) through a two-step procedure, where a lightweight draft model proposes tokens which the target model then verif",
-      "authors": [
-        "Anton Plaksin",
-        "Sergei Krutikov",
-        "Sergei Skvortsov",
-        "Alexander Samarin"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.10903",
-      "title": "CapVector: Learning Transferable Capability Vectors in Parametric Space for Vision-Language-Action Models",
-      "url": "https://huggingface.co/papers/2605.10903",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-10T20:00:00.000Z",
-      "abstract": "This paper proposes a novel approach to address the challenge that pretrained VLA models often fail to effectively improve performance and reduce adaptation costs during standard supervised finetuning",
-      "authors": [
-        "Wenxuan Song",
-        "Han Zhao",
-        "Fuhao Li",
-        "Ziyang Zhou",
-        "Xi Wang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "gh_943398999",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools — FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, L",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
@@ -290,7 +263,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 137245,
+      "stars": 137247,
       "votes": 0,
       "points": 0
     }

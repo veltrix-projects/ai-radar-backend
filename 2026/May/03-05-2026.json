@@ -1,29 +1,26 @@
 {
-  "generatedAt": "2026-05-12T02:06:38.099Z",
+  "generatedAt": "2026-05-12T22:38:27.212Z",
   "date": "03-05-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2511.07328",
-      "title": "Q-RAG: Long Context Multi-step Retrieval via Value-based Embedder Training",
-      "url": "https://huggingface.co/papers/2511.07328",
+      "id": "hf_paper_2605.02364",
+      "title": "InfoLaw: Information Scaling Laws for Large Language Models with Quality-Weighted Mixture Data and Repetition",
+      "url": "https://huggingface.co/papers/2605.02364",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-03T20:00:00.000Z",
-      "abstract": "Retrieval-Augmented Generation (RAG) methods enhance LLM performance by efficiently filtering relevant context for LLMs, reducing hallucinations and inference cost. However, most existing RAG methods",
+      "abstract": "Upweighting high-quality data in LLM pretraining often improves performance, but in datalimited regimes, especially under overtraining, stronger upweighting increases repetition and can degrade perfor",
       "authors": [
-        "Artyom Sorokin",
-        "Nazar Buzun",
-        "Alexander Anokhin",
-        "Oleg Inozemcev",
-        "Egor Vedernikov"
+        "Fengze Liu",
+        "Weidong Zhou",
+        "Binbin Liu",
+        "Ping Guo",
+        "Zijun Wang"
       ],
-      "tags": [
-        "rag",
-        "training"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
