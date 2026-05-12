@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-05-12T15:56:45.957Z",
+  "generatedAt": "2026-05-12T17:55:48.018Z",
   "date": "06-05-2026",
   "count": 7,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.06788",
+      "title": "Conformal Agent Error Attribution",
+      "url": "https://huggingface.co/papers/2605.06788",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-06T20:00:00.000Z",
+      "abstract": "When multi-agent systems (MAS) fail, identifying where the decisive error occurred is the first step for automated recovery to an earlier state. Error attribution remains a fundamental challenge due t",
+      "authors": [
+        "Naihe Feng",
+        "Yi Sui",
+        "Shiyi Hou",
+        "Ga Wu",
+        "Jesse C. Cresswell"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.06741",
       "title": "A Closed-Form Upper Bound for Admissible Learning-Rate Steps in Belief-Space Dynamics",
@@ -43,26 +71,6 @@
       "tags": [
         "training"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Cost effective deployment of vision-language models for pet behavior detection on AWS Inferentia2",
-      "url": "https://aws.amazon.com/blogs/machine-learning/cost-effective-deployment-of-vision-language-models-for-pet-behavior-detection-on-aws-inferentia2/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-05-06T15:37:08.000Z",
-      "abstract": "Tomofun, the Taiwan-headquartered pet-tech startup behind the Furbo Pet Camera, is redefining how pet owners interact with their pets remotely. To reduce costs and maintain accuracy, Tomofun turned to",
-      "authors": [],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
