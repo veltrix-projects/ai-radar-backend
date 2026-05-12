@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-05-11T23:48:18.773Z",
+  "generatedAt": "2026-05-12T02:06:38.096Z",
   "date": "06-05-2026",
-  "count": 11,
+  "count": 8,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.07039",
+      "title": "PACEvolve++: Improving Test-time Learning for Evolutionary Search Agents",
+      "url": "https://huggingface.co/papers/2605.07039",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-06T20:00:00.000Z",
+      "abstract": "Large language models have become drivers of evolutionary search, but most systems rely on a fixed, prompt-elicited policy to sample next candidates. This limits adaptation in practical engineering an",
+      "authors": [
+        "Minghao Yan",
+        "Bo Peng",
+        "Benjamin Coleman",
+        "Ziqi Chen",
+        "Zhouhang Xie"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.06241",
       "title": "Rethinking RL for LLM Reasoning: It's Sparse Policy Selection, Not Capability Learning",
@@ -49,111 +77,6 @@
       ],
       "tags": [
         "llm",
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.06169",
-      "title": "Mean Mode Screaming: Mean--Variance Split Residuals for 1000-Layer Diffusion Transformers",
-      "url": "https://huggingface.co/papers/2605.06169",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-06T20:00:00.000Z",
-      "abstract": "Scaling Diffusion Transformers (DiTs) to hundreds of layers introduces a structural vulnerability: networks can enter a silent, mean-dominated collapse state that homogenizes token representations and",
-      "authors": [
-        "Pengqi Lu"
-      ],
-      "tags": [
-        "transformer",
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2512.18181",
-      "title": "MACE-Dance: Motion-Appearance Cascaded Experts for Music-Driven Dance Video Generation",
-      "url": "https://huggingface.co/papers/2512.18181",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-06T20:00:00.000Z",
-      "abstract": "With the rise of online dance-video platforms and rapid advances in AI-generated content (AIGC), music-driven dance generation has emerged as a compelling research direction. Despite substantial progr",
-      "authors": [
-        "Kaixing Yang",
-        "Jiashu Zhu",
-        "Xulong Tang",
-        "Ziqiao Peng",
-        "Xiangyue Zhang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.06734",
-      "title": "Gated QKAN-FWP: Scalable Quantum-inspired Sequence Learning",
-      "url": "https://huggingface.co/papers/2605.06734",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-06T20:00:00.000Z",
-      "abstract": "Fast Weight Programmers (FWPs) encode temporal dependencies through dynamically updated parameters rather than recurrent hidden states. Quantum FWPs (QFWPs) extend this idea with variational quantum c",
-      "authors": [
-        "Kuo-Chung Peng",
-        "Samuel Yen-Chi Chen",
-        "Jiun-Cheng Jiang",
-        "Chen-Yu Liu",
-        "En-Jui Kuo"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.07039",
-      "title": "PACEvolve++: Improving Test-time Learning for Evolutionary Search Agents",
-      "url": "https://huggingface.co/papers/2605.07039",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-06T20:00:00.000Z",
-      "abstract": "Large language models have become drivers of evolutionary search, but most systems rely on a fixed, prompt-elicited policy to sample next candidates. This limits adaptation in practical engineering an",
-      "authors": [
-        "Minghao Yan",
-        "Bo Peng",
-        "Benjamin Coleman",
-        "Ziqi Chen",
-        "Zhouhang Xie"
-      ],
-      "tags": [
         "agent"
       ],
       "score": 6,
