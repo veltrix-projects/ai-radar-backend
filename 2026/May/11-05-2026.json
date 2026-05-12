@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-12T22:38:27.208Z",
+  "generatedAt": "2026-05-12T23:51:20.773Z",
   "date": "11-05-2026",
-  "count": 30,
+  "count": 41,
   "summary": null,
   "items": [
     {
@@ -47,46 +47,6 @@
       "points": 0
     },
     {
-      "id": "ars_technica_https%3A%2F%2Farstechnica.com%2Fsecurity",
-      "title": "Linux bitten by second severe vulnerability in as many weeks",
-      "url": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
-      "source": "Ars Technica",
-      "sourceIcon": "🔶",
-      "type": "news",
-      "timestamp": "2026-05-11T22:28:19.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1taihoo",
-      "title": "B9109: preemptive fix for mtp & mmproj fix soon? It appears so",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1taihoo/b9109_preemptive_fix_for_mtp_mmproj_fix_soon_it/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-05-11T22:20:53+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fai-arti",
       "title": "Here&#8217;s what Mira Murati&#8217;s AI company is up to",
       "url": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
@@ -94,26 +54,6 @@
       "sourceIcon": "🔺",
       "type": "news",
       "timestamp": "2026-05-11T22:19:15.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ars_technica_https%3A%2F%2Farstechnica.com%2Fcars%2F2",
-      "title": "Audi has a new Q9 flagship coming soon: Here's its interior",
-      "url": "https://arstechnica.com/cars/2026/05/take-a-look-inside-audis-new-big-three-row-q9-suv/",
-      "source": "Ars Technica",
-      "sourceIcon": "🔶",
-      "type": "news",
-      "timestamp": "2026-05-11T22:01:57.000Z",
       "abstract": "",
       "authors": [],
       "tags": [],
@@ -264,6 +204,165 @@
       "points": 0
     },
     {
+      "id": "arxiv_2509.20786v3",
+      "title": "LiLAW: Lightweight Learnable Adaptive Weighting to Learn Sample Difficulty &amp; Improve Noisy Training",
+      "url": "https://arxiv.org/abs/2509.20786v3",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-05-11T17:58:54Z",
+      "abstract": "Training deep neural networks with noise and data heterogeneity is a major challenge. We introduce Lightweight Learnable Adaptive Weighting (LiLAW), a method that dynamically adjusts the loss weight o",
+      "authors": [
+        "Abhishek Moturu",
+        "Muhammad Muzammil",
+        "Anna Goldenberg",
+        "Babak Taati"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2605.10934v1",
+      "title": "Variational Inference for Lévy Process-Driven SDEs via Neural Tilting",
+      "url": "https://arxiv.org/abs/2605.10934v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-05-11T17:58:45Z",
+      "abstract": "Modelling extreme events and heavy-tailed phenomena is central to building reliable predictive systems in domains such as finance, climate science, and safety-critical AI. While Lévy processes provide",
+      "authors": [
+        "Yaman Kindap",
+        "Manfred Opper",
+        "Benjamin Dupuis",
+        "Umut Simsekli",
+        "Tolga Birdal"
+      ],
+      "tags": [
+        "inference"
+      ],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2605.10933v1",
+      "title": "DECO: Sparse Mixture-of-Experts with Dense-Comparable Performance on End-Side Devices",
+      "url": "https://arxiv.org/abs/2605.10933v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-05-11T17:58:28Z",
+      "abstract": "While Mixture-of-Experts (MoE) scales model capacity without proportionally increasing computation, its massive total parameter footprint creates significant storage and memory-access bottlenecks, whi",
+      "authors": [
+        "Chenyang Song",
+        "Weilin Zhao",
+        "Xu Han",
+        "Chaojun Xiao",
+        "Yingfa Chen"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2605.10931v1",
+      "title": "Quantifying Concentration Phenomena of Mean-Field Transformers in the Low-Temperature Regime",
+      "url": "https://arxiv.org/abs/2605.10931v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-05-11T17:58:14Z",
+      "abstract": "Transformers with self-attention modules as their core components have become an integral architecture in modern large language and foundation models. In this paper, we study the evolution of tokens i",
+      "authors": [
+        "Albert Alcalde",
+        "Leon Bungert",
+        "Konstantin Riedl",
+        "Tim Roith"
+      ],
+      "tags": [
+        "transformer"
+      ],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2605.10923v1",
+      "title": "Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2605.10923v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-05-11T17:55:13Z",
+      "abstract": "Large language model agents increasingly rely on external skills to solve complex tasks, where skills act as modular units that extend their capabilities beyond what parametric memory alone supports.",
+      "authors": [
+        "Junhao Shen",
+        "Teng Zhang",
+        "Xiaoyan Zhao",
+        "Hong Cheng"
+      ],
+      "tags": [
+        "agent",
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2605.10917v1",
+      "title": "Optimal and Scalable MAPF via Multi-Marginal Optimal Transport and Schrödinger Bridges",
+      "url": "https://arxiv.org/abs/2605.10917v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-05-11T17:52:15Z",
+      "abstract": "We consider anonymous multi-agent path finding (MAPF) where a set of robots is tasked to travel to a set of targets on a finite, connected graph. We show that MAPF can be cast as a special class of mu",
+      "authors": [
+        "Usman A. Khan",
+        "Joseph W. Durham"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
       "title": "Meta and Stanford Researchers Propose Fast Byte Latent Transformer That Reduces Inference Memory Bandwidth by Over 50% Without Tokenization",
       "url": "https://www.marktechpost.com/2026/05/11/meta-and-stanford-researchers-propose-fast-byte-latent-transformer-that-reduces-inference-memory-bandwidth-by-over-50-without-tokenization/",
@@ -279,6 +378,221 @@
       ],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2605.10916v1",
+      "title": "Confidence-Guided Diffusion Augmentation for Enhanced Bangla Compound Character Recognition",
+      "url": "https://arxiv.org/abs/2605.10916v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-05-11T17:51:46Z",
+      "abstract": "Recognition of handwritten Bangla compound characters remains a challenging problem due to complex character structures, large intra-class variation, and limited availability of high-quality annotated",
+      "authors": [
+        "Md. Sultan Al Rayhan",
+        "Maheen Islam"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2605.10913v1",
+      "title": "Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized Execution Trace",
+      "url": "https://arxiv.org/abs/2605.10913v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-05-11T17:50:51Z",
+      "abstract": "We introduce Shepherd, a functional programming model that formalizes meta-agent operations on target agents as functions, with core operations mechanized in Lean. Shepherd records every agent-environ",
+      "authors": [
+        "Simon Yu",
+        "Derek Chong",
+        "Ananjan Nandi",
+        "Dilara Soylu",
+        "Jiuding Sun"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2605.10912v1",
+      "title": "WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation",
+      "url": "https://arxiv.org/abs/2605.10912v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-05-11T17:49:43Z",
+      "abstract": "Large language and vision-language models increasingly power agents that act on a user's behalf through command-line interface (CLI) harnesses. However, most agent benchmarks still rely on synthetic s",
+      "authors": [
+        "Shuangrui Ding",
+        "Xuanlang Dai",
+        "Long Xing",
+        "Shengyuan Ding",
+        "Ziyu Liu"
+      ],
+      "tags": [
+        "agent",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2605.10910v1",
+      "title": "Equivariant Reinforcement Learning for Clifford Quantum Circuit Synthesis",
+      "url": "https://arxiv.org/abs/2605.10910v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-05-11T17:49:28Z",
+      "abstract": "We consider the problem of synthesizing Clifford quantum circuits for devices with all-to-all qubit connectivity. We approach this task as a reinforcement learning problem in which an agent learns to",
+      "authors": [
+        "Richie Yeung",
+        "Aleks Kissinger",
+        "Rob Cornish"
+      ],
+      "tags": [
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2605.10909v1",
+      "title": "Revisiting Policy Gradients for Restricted Policy Classes: Escaping Myopic Local Optima with $k$-step Policy Gradients",
+      "url": "https://arxiv.org/abs/2605.10909v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-05-11T17:49:09Z",
+      "abstract": "This work revisits standard policy gradient methods used on restricted policy classes, which are known to get stuck in suboptimal critical points. We identify an important cause for this phenomenon to",
+      "authors": [
+        "Alex DeWeese",
+        "Guannan Qu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2605.02125v2",
+      "title": "FedQueue: Queue-Aware Federated Learning for Cross-Facility HPC Training",
+      "url": "https://arxiv.org/abs/2605.02125v2",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-05-11T17:48:35Z",
+      "abstract": "Federated learning (FL) across multiple HPC facilities faces stochastic admission delays from batch schedulers that dominate wall-clock time. Synchronous FL suffers from severe stragglers, while async",
+      "authors": [
+        "Yijiang Li",
+        "Emon Dey",
+        "Zilinghan Li",
+        "Krishnan Raghavan",
+        "Ravi Madduri"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2605.10907v1",
+      "title": "Engineering Robustness into Personal Agents with the AI Workflow Store",
+      "url": "https://arxiv.org/abs/2605.10907v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-05-11T17:46:33Z",
+      "abstract": "The dominant paradigm for AI agents is an \"on-the-fly\" loop in which agents synthesize plans and execute actions within seconds or minutes in response to user prompts. We argue that this paradigm shor",
+      "authors": [
+        "Roxana Geambasu",
+        "Mariana Raykova",
+        "Pierre Tholoniat",
+        "Trishita Tiwari",
+        "Lillian Tsai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2605.10906v1",
+      "title": "DataMaster: Towards Autonomous Data Engineering for Machine Learning",
+      "url": "https://arxiv.org/abs/2605.10906v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-05-11T17:46:24Z",
+      "abstract": "As model families, training recipes, and compute budgets become increasingly standardized, further gains in machine learning systems depend increasingly on data. Yet data engineering remains largely m",
+      "authors": [
+        "Yaxin Du",
+        "Xiyuan Yang",
+        "Zhifan Zhou",
+        "Wanxu Liu",
+        "Zixing Lei"
+      ],
+      "tags": [
+        "autonomous"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
