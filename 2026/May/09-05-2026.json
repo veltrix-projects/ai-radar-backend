@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-12T05:49:48.495Z",
+  "generatedAt": "2026-05-12T08:26:35.679Z",
   "date": "09-05-2026",
-  "count": 5,
+  "count": 7,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,85 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.09271",
+      "title": "Shaping Schema via Language Representation as the Next Frontier for LLM Intelligence Expanding",
+      "url": "https://huggingface.co/papers/2605.09271",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-09T20:00:00.000Z",
+      "abstract": "Although natural language is the default medium for Large Language Models (LLMs), its limited expressive capacity creates a profound bottleneck for complex problem-solving. While recent advancements i",
+      "authors": [
+        "Zhiqin Yang",
+        "Yuhan Liu",
+        "Jingwen Fu",
+        "Pei Fu anf Bo Han",
+        "Masashi Sugiyama"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.09708",
+      "title": "Metal-Sci: A Scientific Compute Benchmark for Evolutionary LLM Kernel Search on Apple Silicon",
+      "url": "https://huggingface.co/papers/2605.09708",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-09T20:00:00.000Z",
+      "abstract": "We present Metal-Sci, a 10-task benchmark of scientific Apple Silicon Metal compute kernels spanning six optimization regimes (stencils, all-pairs in n-body problems, multi-field Boltzmann, neighbor-l",
+      "authors": [
+        "Víctor Gallego"
+      ],
+      "tags": [
+        "llm",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.09630",
+      "title": "Scratchpad Patching: Decoupling Compute from Patch Size in Byte-Level Language Models",
+      "url": "https://huggingface.co/papers/2605.09630",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-09T20:00:00.000Z",
+      "abstract": "Tokenizer-free language models eliminate the tokenizer step of the language modeling pipeline by operating directly on bytes; patch-based variants further aggregate contiguous byte spans into patches",
+      "authors": [
+        "Lin Zheng",
+        "Vasilisa Bashlovkina",
+        "Timothy Dozat",
+        "Dan Garrette",
+        "Laura Rimell"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -71,32 +150,6 @@
       "tags": [
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.09241",
-      "title": "Sub-JEPA: Subspace Gaussian Regularization for Stable End-to-End World Models",
-      "url": "https://huggingface.co/papers/2605.09241",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-09T20:00:00.000Z",
-      "abstract": "Joint-Embedding Predictive Architectures (JEPAs) provide a simpleframework for learning world models by predicting future latent representations.However, JEPA training is subject to a bias-variance tr",
-      "authors": [
-        "Kai Zhao",
-        "Dongliang Nie",
-        "Yuchen Lin",
-        "Zhehan Luo",
-        "Yixiao Gu"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
