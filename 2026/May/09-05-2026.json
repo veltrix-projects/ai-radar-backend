@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-12T13:02:06.172Z",
+  "generatedAt": "2026-05-12T15:56:45.953Z",
   "date": "09-05-2026",
-  "count": 5,
+  "count": 3,
   "summary": null,
   "items": [
     {
@@ -48,57 +48,6 @@
       "tags": [
         "llm"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.09708",
-      "title": "Metal-Sci: A Scientific Compute Benchmark for Evolutionary LLM Kernel Search on Apple Silicon",
-      "url": "https://huggingface.co/papers/2605.09708",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-09T20:00:00.000Z",
-      "abstract": "We present Metal-Sci, a 10-task benchmark of scientific Apple Silicon Metal compute kernels spanning six optimization regimes (stencils, all-pairs in n-body problems, multi-field Boltzmann, neighbor-l",
-      "authors": [
-        "Víctor Gallego"
-      ],
-      "tags": [
-        "llm",
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.09630",
-      "title": "Scratchpad Patching: Decoupling Compute from Patch Size in Byte-Level Language Models",
-      "url": "https://huggingface.co/papers/2605.09630",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-09T20:00:00.000Z",
-      "abstract": "Tokenizer-free language models eliminate the tokenizer step of the language modeling pipeline by operating directly on bytes; patch-based variants further aggregate contiguous byte spans into patches",
-      "authors": [
-        "Lin Zheng",
-        "Vasilisa Bashlovkina",
-        "Timothy Dozat",
-        "Dan Garrette",
-        "Laura Rimell"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
