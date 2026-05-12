@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-12T10:56:35.017Z",
+  "generatedAt": "2026-05-12T13:02:06.173Z",
   "date": "07-05-2026",
-  "count": 17,
+  "count": 19,
   "summary": null,
   "items": [
     {
@@ -59,6 +59,60 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.07630",
+      "title": "Safe, or Simply Incapable? Rethinking Safety Evaluation for Phone-Use Agents",
+      "url": "https://huggingface.co/papers/2605.07630",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-07T20:00:00.000Z",
+      "abstract": "When a phone-use agent avoids harm, does that show safety, or simply inability to act? Existing evaluations often cannot tell. A harmful outcome may be avoided because the agent recognized the risk an",
+      "authors": [
+        "Zhengyang Tang",
+        "Yi Zhang",
+        "Chenxin Li",
+        "Xin Lai",
+        "Pengyuan Lyu"
+      ],
+      "tags": [
+        "agent",
+        "safety"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.08423",
+      "title": "Queryable LoRA: Instruction-Regularized Routing Over Shared Low-Rank Update Atoms",
+      "url": "https://huggingface.co/papers/2605.08423",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-07T20:00:00.000Z",
+      "abstract": "We present a data-adaptive method for parameter-efficient fine-tuning of large neural networks. Standard low-rank adaptation methods improve efficiency by restricting each layer update to a fixed low-",
+      "authors": [
+        "Omatharv Bharat Vaidya",
+        "Connor T. Jerzak",
+        "Nhat Ho",
+        "Chandrajit Bajaj"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
