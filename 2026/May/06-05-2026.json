@@ -1,87 +1,32 @@
 {
-  "generatedAt": "2026-05-12T02:06:38.096Z",
+  "generatedAt": "2026-05-12T05:49:48.497Z",
   "date": "06-05-2026",
-  "count": 8,
+  "count": 6,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2605.07039",
-      "title": "PACEvolve++: Improving Test-time Learning for Evolutionary Search Agents",
-      "url": "https://huggingface.co/papers/2605.07039",
+      "id": "hf_paper_2605.05765",
+      "title": "X-OmniClaw Technical Report: A Unified Mobile Agent for Multimodal Understanding and Interaction",
+      "url": "https://huggingface.co/papers/2605.05765",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-06T20:00:00.000Z",
-      "abstract": "Large language models have become drivers of evolutionary search, but most systems rely on a fixed, prompt-elicited policy to sample next candidates. This limits adaptation in practical engineering an",
+      "abstract": "Inspired by the development of OpenClaw, there is a growing demand for mobile-based personal agents capable of handling complex and intuitive interactions. In this technical report, we introduce X-Omn",
       "authors": [
-        "Minghao Yan",
-        "Bo Peng",
-        "Benjamin Coleman",
-        "Ziqi Chen",
-        "Zhouhang Xie"
+        "Xiaoming Ren",
+        "Ru Zhen",
+        "Chao Li",
+        "Yang Song",
+        "Qiuxia Hou"
       ],
       "tags": [
+        "multimodal",
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.06241",
-      "title": "Rethinking RL for LLM Reasoning: It's Sparse Policy Selection, Not Capability Learning",
-      "url": "https://huggingface.co/papers/2605.06241",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-06T20:00:00.000Z",
-      "abstract": "Reinforcement learning has become the standard for improving reasoning in large language models, yet evidence increasingly suggests that RL does not teach new strategies; it redistributes probability",
-      "authors": [
-        "Ömer Faruk Akgül",
-        "Rajgopal Kannan",
-        "Willie Neiswanger",
-        "Viktor Prasanna"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.06455",
-      "title": "PrefixGuard: From LLM-Agent Traces to Online Failure-Warning Monitors",
-      "url": "https://huggingface.co/papers/2605.06455",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-06T20:00:00.000Z",
-      "abstract": "Large language model (LLM) agents now execute long, tool-using tasks where final outcome checks can arrive too late for intervention. Online warning requires lightweight prefix monitors over heterogen",
-      "authors": [
-        "Xinmiao Huang",
-        "Jinwei Hu",
-        "Rajarshi Roy",
-        "Changshun Wu",
-        "Yi Dong"
-      ],
-      "tags": [
-        "llm",
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-12T02:06:38.094Z",
+  "generatedAt": "2026-05-12T05:49:48.495Z",
   "date": "09-05-2026",
-  "count": 3,
+  "count": 5,
   "summary": null,
   "items": [
     {
@@ -25,19 +25,81 @@
       "points": 0
     },
     {
-      "id": "techcrunch_ai_https%3A%2F%2Ftechcrunch.com%2F2026%2F05",
-      "title": "Nvidia has already committed $40B to equity AI deals this year",
-      "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
-      "source": "TechCrunch AI",
-      "sourceIcon": "💚",
-      "type": "news",
-      "timestamp": "2026-05-09T14:43:30.000Z",
-      "abstract": "",
-      "authors": [],
+      "id": "hf_paper_2605.09820",
+      "title": "Dystruct: Dynamically Structured Diffusion Language Model Decoding via Bayesian Inference",
+      "url": "https://huggingface.co/papers/2605.09820",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-09T20:00:00.000Z",
+      "abstract": "Diffusion language models (DLMs) have recently emerged as a promising alternative to autoregressive models, primarily due to their ability to enable parallel decoding. Despite this advantage, most exi",
+      "authors": [
+        "Bian Sun",
+        "Kevin Zhai",
+        "Mubarak Shah",
+        "Zhenyi Wang"
+      ],
+      "tags": [
+        "diffusion",
+        "inference"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.09423",
+      "title": "SimWorld Studio: Automatic Environment Generation with Evolving Coding Agent for Embodied Agent Learning",
+      "url": "https://huggingface.co/papers/2605.09423",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-09T20:00:00.000Z",
+      "abstract": "LLM/VLM-based digital agents have advanced rapidly thanks to scalable sandboxes for coding, web navigation, and computer use, which provide rich interactive training grounds. In contrast, embodied age",
+      "authors": [
+        "Haoqiang Kang",
+        "Xiaokang Ye",
+        "Yuhan Liu",
+        "Siddhant Hitesh Mantri",
+        "Lingjun Mao"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.09241",
+      "title": "Sub-JEPA: Subspace Gaussian Regularization for Stable End-to-End World Models",
+      "url": "https://huggingface.co/papers/2605.09241",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-09T20:00:00.000Z",
+      "abstract": "Joint-Embedding Predictive Architectures (JEPAs) provide a simpleframework for learning world models by predicting future latent representations.However, JEPA training is subject to a bias-variance tr",
+      "authors": [
+        "Kai Zhao",
+        "Dongliang Nie",
+        "Yuchen Lin",
+        "Zhehan Luo",
+        "Yixiao Gu"
+      ],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
