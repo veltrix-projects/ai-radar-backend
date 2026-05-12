@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-05-12T19:29:32.603Z",
+  "generatedAt": "2026-05-12T21:02:22.433Z",
   "date": "09-05-2026",
-  "count": 2,
+  "count": 3,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.26326",
+      "title": "Addressing Performance Saturation for LLM RL via Precise Entropy Curve Control",
+      "url": "https://huggingface.co/papers/2604.26326",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-09T20:00:00.000Z",
+      "abstract": "Reinforcement learning (RL) has enabled complex reasoning abilities in large language models (LLMs). However, most RL algorithms suffer from performance saturation, preventing continued gains as RL tr",
+      "authors": [
+        "Bolian Li",
+        "Yifan Wang",
+        "Yi Ding",
+        "Anamika Lochab",
+        "Ananth Grama"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.09548",
       "title": "Crosslingual On-Policy Self-Distillation for Multilingual Reasoning",
