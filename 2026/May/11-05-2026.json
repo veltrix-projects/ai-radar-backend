@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-12T08:26:35.677Z",
+  "generatedAt": "2026-05-12T10:56:35.014Z",
   "date": "11-05-2026",
-  "count": 79,
+  "count": 75,
   "summary": null,
   "items": [
     {
@@ -51,7 +51,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 136700,
+      "stars": 136724,
       "votes": 0,
       "points": 0
     },
@@ -105,6 +105,26 @@
       "sourceIcon": "🔶",
       "type": "news",
       "timestamp": "2026-05-11T22:28:19.000Z",
+      "abstract": "",
+      "authors": [],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "reddit_LocalLLaMA_t3_1taihoo",
+      "title": "B9109: preemptive fix for mtp & mmproj fix soon? It appears so",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1taihoo/b9109_preemptive_fix_for_mtp_mmproj_fix_soon_it/",
+      "source": "Reddit r/LocalLLaMA",
+      "sourceIcon": "🔴",
+      "type": "news",
+      "timestamp": "2026-05-11T22:20:53+00:00",
       "abstract": "",
       "authors": [],
       "tags": [],
@@ -206,7 +226,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 136496,
+      "stars": 136515,
       "votes": 0,
       "points": 0
     },
@@ -357,49 +377,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 155591,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Understanding LLM Distillation Techniques",
-      "url": "https://www.marktechpost.com/2026/05/11/understanding-llm-distillation-techniques/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-05-11T20:20:16.000Z",
-      "abstract": "Modern large language models are no longer trained only on raw internet text. Increasingly, companies are using powerful “teacher” models to help train smaller or more efficient “student” models. This",
-      "authors": [],
-      "tags": [
-        "llm"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "How to Build Technical Analysis and Backtesting Workflow with pandas-ta-classic, Strategy Signals, and Performance Metrics",
-      "url": "https://www.marktechpost.com/2026/05/11/how-to-build-technical-analysis-and-backtesting-workflow-with-pandas-ta-classic-strategy-signals-and-performance-metrics/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-05-11T20:05:23.000Z",
-      "abstract": "In this tutorial, we implement how to use pandas-ta-classic to build a complete technical analysis and trading strategy workflow. We start by installing the required libraries, downloading historical",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
+      "stars": 155596,
       "votes": 0,
       "points": 0
     },
@@ -634,6 +612,34 @@
       "points": 0
     },
     {
+      "id": "arxiv_2605.10923v1",
+      "title": "Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2605.10923v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-05-11T17:55:13Z",
+      "abstract": "Large language model agents increasingly rely on external skills to solve complex tasks, where skills act as modular units that extend their capabilities beyond what parametric memory alone supports.",
+      "authors": [
+        "Junhao Shen",
+        "Teng Zhang",
+        "Xiaoyan Zhao",
+        "Hong Cheng"
+      ],
+      "tags": [
+        "agent",
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "arxiv_2605.10917v1",
       "title": "Optimal and Scalable MAPF via Multi-Marginal Optimal Transport and Schrödinger Bridges",
       "url": "https://arxiv.org/abs/2605.10917v1",
@@ -649,29 +655,6 @@
       "tags": [],
       "score": 6,
       "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Meta and Stanford Researchers Propose Fast Byte Latent Transformer That Reduces Inference Memory Bandwidth by Over 50% Without Tokenization",
-      "url": "https://www.marktechpost.com/2026/05/11/meta-and-stanford-researchers-propose-fast-byte-latent-transformer-that-reduces-inference-memory-bandwidth-by-over-50-without-tokenization/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-05-11T17:52:15.000Z",
-      "abstract": "Researchers from Meta FAIR and Stanford propose three inference methods for the Byte Latent Transformer that reduce memory-bandwidth cost by over 50% without subword tokenization.\nThe post Meta and St",
-      "authors": [],
-      "tags": [
-        "transformer",
-        "inference"
-      ],
-      "score": 4,
-      "priority": "LOW",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -1591,9 +1574,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Fbusiness%2Fgu",
-      "title": "How enterprises are scaling AI",
-      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fopena",
+      "title": "OpenAI Campus Network: Student club interest form",
+      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
@@ -1611,9 +1594,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fopena",
-      "title": "OpenAI Campus Network: Student club interest form",
-      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Fbusiness%2Fgu",
+      "title": "How enterprises are scaling AI",
+      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
@@ -1641,75 +1624,6 @@
       "abstract": "Bain &#38; Company has estimated a US$100 billion market in the US for SaaS companies using agentic AI. The firm said the market is tied to automating coordination work in enterprise systems. The esti",
       "authors": [],
       "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1t9xzdv",
-      "title": "Any news (or hope) of Qwen-3.6 14B and 9B distills for local coding ?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9xzdv/any_news_or_hope_of_qwen36_14b_and_9b_distills/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-05-11T09:18:50+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "qwen"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Sakana AI and NVIDIA Introduce TwELL with CUDA Kernels for 20.5% Inference and 21.9% Training Speedup in LLMs",
-      "url": "https://www.marktechpost.com/2026/05/11/sakana-ai-and-nvidia-introduce-twell-with-cuda-kernels-for-20-5-inference-and-21-9-training-speedup-in-llms/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-05-11T08:36:00.000Z",
-      "abstract": "Sakana AI and NVIDIA Researchers demonstrate that simple L1 regularization can induce over 99% sparsity in feedforward layers with negligible downstream performance impact, and translate that sparsity",
-      "authors": [],
-      "tags": [
-        "llm",
-        "inference",
-        "training"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "A Coding Implementation to Build Agent-Native Memory Infrastructure with Memori for Persistent Multi-User and Multi-Session LLM Applications",
-      "url": "https://www.marktechpost.com/2026/05/11/a-coding-implementation-to-build-agent-native-memory-infrastructure-with-memori-for-persistent-multi-user-and-multi-session-llm-applications/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-05-11T07:34:38.000Z",
-      "abstract": "In this tutorial, we implement how Memori serves as an agent-native memory infrastructure layer for building more persistent, context-aware LLM applications. We start by setting up Memori in a Google",
-      "authors": [],
-      "tags": [
-        "llm",
         "agent"
       ],
       "score": 6,

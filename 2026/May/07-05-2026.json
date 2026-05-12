@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T08:26:35.680Z",
+  "generatedAt": "2026-05-12T10:56:35.017Z",
   "date": "07-05-2026",
   "count": 17,
   "summary": null,
@@ -67,24 +67,21 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.08520",
-      "title": "FlashEvolve: Accelerating Agent Self-Evolution with Asynchronous Stage Orchestration",
-      "url": "https://huggingface.co/papers/2605.08520",
+      "id": "hf_paper_2605.07287",
+      "title": "SplatWeaver: Learning to Allocate Gaussian Primitives for Generalizable Novel View Synthesis",
+      "url": "https://huggingface.co/papers/2605.07287",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-07T20:00:00.000Z",
-      "abstract": "LLM-based evolution has emerged as a promising way to improve agents by refining non-parametric artifacts, but its wall-clock cost remains a major bottleneck. We identify that this cost comes from syn",
+      "abstract": "Generalizable novel view synthesis aims to render unseen views from uncalibrated input images without requiring per-scene optimization. Recent feed-forward approaches based on 3D Gaussian Splatting ha",
       "authors": [
-        "Zhengding Hu",
-        "Mingge Lu",
-        "Zhen Wang",
-        "Jixuan Ruan",
-        "Chang Chen"
+        "Yecong Wan",
+        "Fan Li",
+        "Mingwen Shao",
+        "Wangmeng Zuo"
       ],
-      "tags": [
-        "agent"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -95,23 +92,23 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.07465",
-      "title": "SEIF: Self-Evolving Reinforcement Learning for Instruction Following",
-      "url": "https://huggingface.co/papers/2605.07465",
+      "id": "hf_paper_2605.07721",
+      "title": "Memory-Efficient Looped Transformer: Decoupling Compute from Memory in Looped Language Models",
+      "url": "https://huggingface.co/papers/2605.07721",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-07T20:00:00.000Z",
-      "abstract": "Instruction following is a fundamental capability of large language models (LLMs), yet continuously improving this capability remains challenging. Existing methods typically rely either on costly exte",
+      "abstract": "Recurrent LLM architectures have emerged as a promising approach for improving reasoning, as they enable multi-step computation in the embedding space without generating intermediate tokens. Models su",
       "authors": [
-        "Qingyu Ren",
-        "Qianyu He",
-        "Jiajie Zhu",
-        "Xingzhou Chen",
-        "Jingwen Chang"
+        "Victor Conchello Vendrell",
+        "Arnau Padres Masdemont",
+        "Niccolò Grillo",
+        "Jordi Ros-Giralt",
+        "Arash Behboodi"
       ],
       "tags": [
-        "reinforcement learning"
+        "transformer"
       ],
       "score": 6,
       "priority": "MEDIUM",
