@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T16:36:51.704Z",
+  "generatedAt": "2026-05-13T18:52:05.258Z",
   "date": "11-05-2026",
   "count": 31,
   "summary": null,
@@ -53,7 +53,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 155632,
+      "stars": 155635,
       "votes": 0,
       "points": 0
     },
@@ -92,6 +92,62 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.12484",
+      "title": "Learning, Fast and Slow: Towards LLMs That Adapt Continually",
+      "url": "https://huggingface.co/papers/2605.12484",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-11T20:00:00.000Z",
+      "abstract": "Large language models (LLMs) are trained for downstream tasks by updating their parameters (e.g., via RL). However, updating parameters forces them to absorb task-specific information, which can resul",
+      "authors": [
+        "Rishabh Tiwari",
+        "Kusha Sareen",
+        "Lakshya A Agrawal",
+        "Joseph E. Gonzalez",
+        "Matei Zaharia"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.11436",
+      "title": "Agent-BRACE: Decoupling Beliefs from Actions in Long-Horizon Tasks via Verbalized State Uncertainty",
+      "url": "https://huggingface.co/papers/2605.11436",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-11T20:00:00.000Z",
+      "abstract": "Large language models (LLMs) are increasingly deployed on long-horizon tasks in partially observable environments, where they must act while inferring and tracking a complex environment state over man",
+      "authors": [
+        "Joykirat Singh",
+        "Zaid Khan",
+        "Archiki Prasad",
+        "Justin Chih-Yao Chen",
+        "Akshay Nambi"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -274,60 +330,6 @@
       ],
       "tags": [
         "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.05630",
-      "title": "One Turn Too Late: Response-Aware Defense Against Hidden Malicious Intent in Multi-Turn Dialogue",
-      "url": "https://huggingface.co/papers/2605.05630",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-11T20:00:00.000Z",
-      "abstract": "Hidden malicious intent in multi-turn dialogue poses a growing threat to deployed large language models (LLMs). Rather than exposing a harmful objective in a single prompt, increasingly capable attack",
-      "authors": [
-        "Xinjie Shen",
-        "Rongzhe Wei",
-        "Peizhi Niu",
-        "Haoyu Wang",
-        "Ruihan Wu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.12070",
-      "title": "Missing Old Logits in Asynchronous Agentic RL: Semantic Mismatch and Repair Methods for Off-Policy Correction",
-      "url": "https://huggingface.co/papers/2605.12070",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-11T20:00:00.000Z",
-      "abstract": "Asynchronous reinforcement learning improves rollout throughput for large language model agents by decoupling sample generation from policy optimization, but it also introduces a critical failure mode",
-      "authors": [
-        "Zhong Guan",
-        "Yongjian Guo",
-        "Haoran Sun",
-        "Wen Huang",
-        "Shuai Di"
-      ],
-      "tags": [
-        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
