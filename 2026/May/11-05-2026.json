@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-13T20:26:44.303Z",
+  "generatedAt": "2026-05-13T21:50:35.441Z",
   "date": "11-05-2026",
-  "count": 28,
+  "count": 27,
   "summary": null,
   "items": [
     {
@@ -53,7 +53,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 155636,
+      "stars": 155635,
       "votes": 0,
       "points": 0
     },
@@ -92,6 +92,32 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.12498",
+      "title": "EgoForce: Forearm-Guided Camera-Space 3D Hand Pose from a Monocular Egocentric Camera",
+      "url": "https://huggingface.co/papers/2605.12498",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-11T20:00:00.000Z",
+      "abstract": "Reconstructing the absolute 3D pose and shape of the hands from the user's viewpoint using a single head-mounted camera is crucial for practical egocentric interaction in AR/VR, telepresence, and hand",
+      "authors": [
+        "Christen Millerdurai",
+        "Shaoxiang Wang",
+        "Yaxu Xie",
+        "Vladislav Golyanik",
+        "Didier Stricker"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -286,32 +312,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.11711",
-      "title": "Debiased Model-based Representations for Sample-efficient Continuous Control",
-      "url": "https://huggingface.co/papers/2605.11711",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-11T20:00:00.000Z",
-      "abstract": "Model-based representations recently stand out as a promising framework that embeds latent dynamics information into the representations for downstream off-policy actor-critic learning. It implicitly",
-      "authors": [
-        "Jiafei Lyu",
-        "Zichuan Lin",
-        "Scott Fujimoto",
-        "Kai Yang",
-        "Yangkun Chen"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "Introducing NVIDIA Fleet Intelligence for Real-Time GPU Fleet Visibility and Optimization",
       "url": "https://developer.nvidia.com/blog/introducing-nvidia-fleet-intelligence-for-real-time-gpu-fleet-visibility-and-optimization/",
@@ -347,29 +347,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Meta and Stanford Researchers Propose Fast Byte Latent Transformer That Reduces Inference Memory Bandwidth by Over 50% Without Tokenization",
-      "url": "https://www.marktechpost.com/2026/05/11/meta-and-stanford-researchers-propose-fast-byte-latent-transformer-that-reduces-inference-memory-bandwidth-by-over-50-without-tokenization/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-05-11T17:52:15.000Z",
-      "abstract": "Researchers from Meta FAIR and Stanford propose three inference methods for the Byte Latent Transformer that reduce memory-bandwidth cost by over 50% without subword tokenization.\nThe post Meta and St",
-      "authors": [],
-      "tags": [
-        "transformer",
-        "inference"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -562,9 +539,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Fbusiness%2Fgu",
-      "title": "How enterprises are scaling AI",
-      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fopena",
+      "title": "OpenAI Campus Network: Student club interest form",
+      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
@@ -582,9 +559,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fopena",
-      "title": "OpenAI Campus Network: Student club interest form",
-      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Fbusiness%2Fgu",
+      "title": "How enterprises are scaling AI",
+      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
