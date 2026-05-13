@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-13T18:52:05.258Z",
+  "generatedAt": "2026-05-13T20:26:44.303Z",
   "date": "11-05-2026",
-  "count": 31,
+  "count": 28,
   "summary": null,
   "items": [
     {
@@ -53,7 +53,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 155635,
+      "stars": 155636,
       "votes": 0,
       "points": 0
     },
@@ -92,6 +92,29 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.12466",
+      "title": "Solve the Loop: Attractor Models for Language and Reasoning",
+      "url": "https://huggingface.co/papers/2605.12466",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-11T20:00:00.000Z",
+      "abstract": "Looped Transformers offer a promising alternative to purely feed-forward computation by iteratively refining latent representations, improving language modeling and reasoning. Yet recurrent architectu",
+      "authors": [
+        "Jacob Fein-Ashley",
+        "Paria Rashidinejad"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -289,58 +312,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.11696",
-      "title": "WildRelight: A Real-World Benchmark and Physics-Guided Adaptation for Single-Image Relighting",
-      "url": "https://huggingface.co/papers/2605.11696",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-11T20:00:00.000Z",
-      "abstract": "Recent single-image relighting methods, powered by advanced generative models, have achieved impressive photorealism on synthetic benchmarks. However, their effectiveness in the complex visual landsca",
-      "authors": [
-        "Lezhong Wang",
-        "Mehmet Onurcan Kaya",
-        "Siavash Bigdeli",
-        "Jeppe Revall Frisvad"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.12438",
-      "title": "A Causal Language Modeling Detour Improves Encoder Continued Pretraining",
-      "url": "https://huggingface.co/papers/2605.12438",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-11T20:00:00.000Z",
-      "abstract": "When adapting an encoder to a new domain, the standard approach is to continue training with Masked Language Modeling (MLM). We show that temporarily switching to Causal Language Modeling (CLM) follow",
-      "authors": [
-        "Rian Touchent",
-        "Eric de la Clergerie"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "Introducing NVIDIA Fleet Intelligence for Real-Time GPU Fleet Visibility and Optimization",
       "url": "https://developer.nvidia.com/blog/introducing-nvidia-fleet-intelligence-for-real-time-gpu-fleet-visibility-and-optimization/",
@@ -442,46 +413,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "How Miro uses Amazon Bedrock to boost software bug routing accuracy and improve time-to-resolution from days to hours",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-miro-uses-amazon-bedrock-to-boost-software-bug-routing-accuracy-and-improve-time-to-resolution-from-days-to-hours/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-05-11T17:03:00.000Z",
-      "abstract": "In this post, we dive deep into the architecture and techniques we used to improve Miro’s bug routing, achieving six times fewer team reassignments and five times shorter time-to-resolution powered by",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Amazon Quick: Accelerating the path from enterprise data to AI-powered decisions",
-      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-accelerating-the-path-from-enterprise-data-to-ai-powered-decisions/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-05-11T15:56:33.000Z",
-      "abstract": "Amazon Quick helps turn your large enterprise data into fast and accurate AI-powered decisions. In this post, you will learn about five new capabilities of Amazon Quick that accelerate how data profes",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
