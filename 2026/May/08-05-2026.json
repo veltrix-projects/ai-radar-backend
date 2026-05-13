@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-13T06:00:18.939Z",
+  "generatedAt": "2026-05-13T09:22:03.363Z",
   "date": "08-05-2026",
-  "count": 12,
+  "count": 13,
   "summary": null,
   "items": [
     {
@@ -18,6 +18,31 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.10977",
+      "title": "PASA: A Principled Embedding-Space Watermarking Approach for LLM-Generated Text under Semantic-Invariant Attacks",
+      "url": "https://huggingface.co/papers/2605.10977",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-08T20:00:00.000Z",
+      "abstract": "Watermarking for large language models (LLMs) is a promising approach for detecting LLM-generated text and enabling responsible deployment. However, existing watermarking methods are often vulnerable",
+      "authors": [
+        "Zhenxin Ai",
+        "Haiyun He"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -264,7 +289,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 110730,
+      "stars": 110740,
       "votes": 0,
       "points": 0
     }

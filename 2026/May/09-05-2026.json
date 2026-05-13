@@ -1,31 +1,32 @@
 {
-  "generatedAt": "2026-05-13T06:00:18.938Z",
+  "generatedAt": "2026-05-13T09:22:03.362Z",
   "date": "09-05-2026",
   "count": 2,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2605.09530",
-      "title": "MemPrivacy: Privacy-Preserving Personalized Memory Management for Edge-Cloud Agents",
-      "url": "https://huggingface.co/papers/2605.09530",
+      "id": "hf_paper_2605.09266",
+      "title": "SeePhys Pro: Diagnosing Modality Transfer and Blind-Training Effects in Multimodal RLVR for Physics Reasoning",
+      "url": "https://huggingface.co/papers/2605.09266",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-09T20:00:00.000Z",
-      "abstract": "As LLM-powered agents are increasingly deployed in edge-cloud environments, personalized memory has become a key enabler of long-term adaptation and user-centric interaction. However, cloud-assisted m",
+      "abstract": "We introduce SeePhys Pro, a fine-grained modality transfer benchmark that studies whether models preserve the same reasoning capability when critical information is progressively transferred from text",
       "authors": [
-        "Yining Chen",
-        "Jihao Zhao",
-        "Bo Tang",
-        "Haofen Wang",
-        "Feiyu Xiong"
+        "Kun Xiang",
+        "Terry Jingchen Zhang",
+        "Zirong Liu",
+        "Bokai Zhou",
+        "Yueling Tang"
       ],
       "tags": [
-        "agent"
+        "multimodal",
+        "training"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

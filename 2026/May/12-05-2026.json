@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-13T06:00:18.936Z",
+  "generatedAt": "2026-05-13T09:22:03.360Z",
   "date": "12-05-2026",
-  "count": 82,
+  "count": 79,
   "summary": null,
   "items": [
     {
@@ -67,37 +67,6 @@
       "points": 0
     },
     {
-      "id": "gh_552661142",
-      "title": "langchain-ai/langchain — The agent engineering platform.",
-      "url": "https://github.com/langchain-ai/langchain",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-05-12T23:07:28Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "agents",
-        "ai",
-        "ai-agents",
-        "anthropic",
-        "chatgpt",
-        "deepagents",
-        "enterprise",
-        "framework",
-        "gemini",
-        "generative-ai"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 136577,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "reddit_LocalLLaMA_t3_1tbht4h",
       "title": "My First Official AI Research Paper Accepted on SSRN",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tbht4h/my_first_official_ai_research_paper_accepted_on/",
@@ -114,37 +83,6 @@
       "downloads": 0,
       "likes": 0,
       "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "gh_787076358",
-      "title": "firecrawl/firecrawl — 🔥 The API to search, scrape, and interact with the web for AI",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-05-12T22:10:26Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "ai",
-        "ai-agents",
-        "ai-crawler",
-        "ai-scraping",
-        "ai-search",
-        "crawler",
-        "data-extraction",
-        "html-to-markdown",
-        "llm",
-        "markdown"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 119022,
       "votes": 0,
       "points": 0
     },
@@ -254,37 +192,6 @@
       "points": 0
     },
     {
-      "id": "gh_574523116",
-      "title": "f/prompts.chat — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and op",
-      "url": "https://github.com/f/prompts.chat",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-05-12T21:16:39Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "ai",
-        "artificial-intelligence",
-        "awesome-list",
-        "chatgpt",
-        "chatgpt-prompts",
-        "claude",
-        "gemini",
-        "gpt",
-        "gpt-4",
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 162138,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "reddit_LocalLLaMA_t3_1tbemwa",
       "title": "Dad why is my sisters name Lora?",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tbemwa/dad_why_is_my_sisters_name_lora/",
@@ -367,29 +274,6 @@
       "points": 0
     },
     {
-      "id": "reddit_LocalLLaMA_t3_1tb9pwn",
-      "title": "Luce DFlash + PFlash on AMD Strix Halo: Qwen3.6-27B at 2.23x decode and 3.05x prefill vs llama.cpp HIP",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tb9pwn/luce_dflash_pflash_on_amd_strix_halo_qwen3627b_at/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "model",
-      "timestamp": "2026-05-12T18:09:59+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "llama",
-        "qwen"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "techcrunch_ai_https%3A%2F%2Ftechcrunch.com%2F2026%2F05",
       "title": "Musk mulled handing OpenAI to his children, Altman testifies",
       "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
@@ -423,6 +307,34 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2605.12493v1",
+      "title": "LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues",
+      "url": "https://arxiv.org/abs/2605.12493v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-05-12T17:59:34Z",
+      "abstract": "Long-term memory is crucial for agents in specialized web environments, where success depends on recalling interface affordances, state dynamics, workflows, and recurring failure modes. However, exist",
+      "authors": [
+        "Di Wu",
+        "Zixiang Ji",
+        "Asmi Kawatkar",
+        "Bryan Kwan",
+        "Jia-Chen Gu"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -540,26 +452,26 @@
       "points": 0
     },
     {
-      "id": "arxiv_2605.12481v1",
-      "title": "ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents",
-      "url": "https://arxiv.org/abs/2605.12481v1",
+      "id": "arxiv_2605.12483v1",
+      "title": "Beyond GRPO and On-Policy Distillation: An Empirical Sparse-to-Dense Reward Principle for Language-Model Post-Training",
+      "url": "https://arxiv.org/abs/2605.12483v1",
       "source": "ArXiv",
       "sourceIcon": "📄",
       "type": "research",
-      "timestamp": "2026-05-12T17:57:04Z",
-      "abstract": "Computer Use Agents (CUAs) can act through both atomic GUI actions, such as click and type, and high-level tool calls, such as API-based file operations, but this hybrid action space often leaves them",
+      "timestamp": "2026-05-12T17:57:48Z",
+      "abstract": "In settings where labeled verifiable training data is the binding constraint, each checked example should be allocated carefully. The standard practice is to use this data directly on the model that w",
       "authors": [
-        "Xuhao Hu",
-        "Xi Zhang",
-        "Haiyang Xu",
-        "Kyle Qiao",
-        "Jingyi Yang"
+        "Yuanda Xu",
+        "Hejian Sang",
+        "Zhengze Zhou",
+        "Ran He",
+        "Zhipeng Wang"
       ],
       "tags": [
-        "agent"
+        "training"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
+      "score": 4,
+      "priority": "LOW",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -642,32 +554,6 @@
       "points": 0
     },
     {
-      "id": "arxiv_2605.12477v1",
-      "title": "MEME: Multi-entity &amp; Evolving Memory Evaluation",
-      "url": "https://arxiv.org/abs/2605.12477v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-05-12T17:55:10Z",
-      "abstract": "LLM-based agents increasingly operate in persistent environments where they must store, update, and reason over information across many sessions. While prior benchmarks evaluate only single-entity upd",
-      "authors": [
-        "Seokwon Jung",
-        "Alexander Rubinstein",
-        "Arnas Uselis",
-        "Sangdoo Yun",
-        "Seong Joon Oh"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "arxiv_2605.12476v1",
       "title": "Routers Learn the Geometry of Their Experts: Geometric Coupling in Sparse Mixture-of-Experts",
       "url": "https://arxiv.org/abs/2605.12476v1",
@@ -682,6 +568,34 @@
         "Mor Geva"
       ],
       "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2605.12474v1",
+      "title": "Reward Hacking in Rubric-Based Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2605.12474v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-05-12T17:54:25Z",
+      "abstract": "Reinforcement learning with verifiable rewards has enabled strong post-training gains in domains such as math and coding, though many open-ended settings rely on rubric-based rewards. We study reward",
+      "authors": [
+        "Anas Mahmoud",
+        "MohammadHossein Rezaei",
+        "Zihao Wang",
+        "Anisha Gunjal",
+        "Bing Liu"
+      ],
+      "tags": [
+        "reinforcement learning"
+      ],
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",

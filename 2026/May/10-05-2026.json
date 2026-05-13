@@ -1,9 +1,91 @@
 {
-  "generatedAt": "2026-05-13T06:00:18.938Z",
+  "generatedAt": "2026-05-13T09:22:03.362Z",
   "date": "10-05-2026",
-  "count": 4,
+  "count": 6,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.10108",
+      "title": "GLiNER-Relex: A Unified Framework for Joint Named Entity Recognition and Relation Extraction",
+      "url": "https://huggingface.co/papers/2605.10108",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-10T20:00:00.000Z",
+      "abstract": "Joint named entity recognition (NER) and relation extraction (RE) is a fundamental task in natural language processing for constructing knowledge graphs from unstructured text. While recent approaches",
+      "authors": [
+        "Ihor Stepanov",
+        "Oleksandr Lukashov",
+        "Mykhailo Shtopko",
+        "Vivek Kalyanarangan"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.10832",
+      "title": "Towards On-Policy Data Evolution for Visual-Native Multimodal Deep Search Agents",
+      "url": "https://huggingface.co/papers/2605.10832",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-10T20:00:00.000Z",
+      "abstract": "Multimodal deep search requires an agent to solve open-world problems by chaining search, tool use, and visual reasoning over evolving textual and visual context. Two bottlenecks limit current systems",
+      "authors": [
+        "Shijue Huang",
+        "Hangyu Guo",
+        "Chenxin Li",
+        "Junting Lu",
+        "Xinyu Geng"
+      ],
+      "tags": [
+        "multimodal",
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.09932",
+      "title": "FocuSFT: Bilevel Optimization for Dilution-Aware Long-Context Fine-Tuning",
+      "url": "https://huggingface.co/papers/2605.09932",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-10T20:00:00.000Z",
+      "abstract": "Large language models can now process increasingly long inputs, yet their ability to effectively use information spread across long contexts remains limited. We trace this gap to how attention budget",
+      "authors": [
+        "Zehua Pei",
+        "Hui-Ling Zhen",
+        "Xianzhi Yu",
+        "Sinno Jialin Pan",
+        "Mingxuan Yuan"
+      ],
+      "tags": [
+        "fine-tuning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.09998",
       "title": "Continual Harness: Online Adaptation for Self-Improving Foundation Agents",
@@ -62,32 +144,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.11182",
-      "title": "The Many Faces of On-Policy Distillation: Pitfalls, Mechanisms, and Fixes",
-      "url": "https://huggingface.co/papers/2605.11182",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-10T20:00:00.000Z",
-      "abstract": "On-policy distillation (OPD) and on-policy self-distillation (OPSD) have emerged as promising post-training methods for large language models, offering dense token-level supervision on trajectories sa",
-      "authors": [
-        "Siqi Zhu",
-        "Xuyan Ye",
-        "Hongyu Lu",
-        "Weiye Shi",
-        "Ge Liu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "gh_943398999",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools — FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, L",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
@@ -114,7 +170,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 137264,
+      "stars": 137272,
       "votes": 0,
       "points": 0
     }
