@@ -1,31 +1,9 @@
 {
-  "generatedAt": "2026-05-13T09:22:03.361Z",
+  "generatedAt": "2026-05-13T11:38:06.450Z",
   "date": "11-05-2026",
-  "count": 35,
+  "count": 32,
   "summary": null,
   "items": [
-    {
-      "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fai-arti",
-      "title": "OpenAI just released its answer to Claude Mythos",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
-      "source": "The Verge AI",
-      "sourceIcon": "🔺",
-      "type": "news",
-      "timestamp": "2026-05-11T23:05:01.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "claude"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
       "title": "Building web search-enabled agents with Strands and Exa",
@@ -75,7 +53,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 155611,
+      "stars": 155621,
       "votes": 0,
       "points": 0
     },
@@ -114,6 +92,137 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.12460",
+      "title": "Multi-Stream LLMs: Unblocking Language Models with Parallel Streams of Thoughts, Inputs and Outputs",
+      "url": "https://huggingface.co/papers/2605.12460",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-11T20:00:00.000Z",
+      "abstract": "The continued improvements in language model capability have unlocked their widespread use as drivers of autonomous agents, for example in coding or computer use applications. However, the core of the",
+      "authors": [
+        "Guinan Su",
+        "Yanwu Yang",
+        "Xueyan Li",
+        "Jonas Geiping"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.12492",
+      "title": "Pion: A Spectrum-Preserving Optimizer via Orthogonal Equivalence Transformation",
+      "url": "https://huggingface.co/papers/2605.12492",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-11T20:00:00.000Z",
+      "abstract": "We introduce Pion, a spectrum-preserving optimizer for large language model (LLM) training based on orthogonal equivalence transformation. Unlike additive optimizers such as Adam and Muon, Pion update",
+      "authors": [
+        "Kexuan Shi",
+        "Hanxuan Li",
+        "Zeju Qiu",
+        "Yandong Wen",
+        "Simon Buchholz"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.11711",
+      "title": "Debiased Model-based Representations for Sample-efficient Continuous Control",
+      "url": "https://huggingface.co/papers/2605.11711",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-11T20:00:00.000Z",
+      "abstract": "Model-based representations recently stand out as a promising framework that embeds latent dynamics information into the representations for downstream off-policy actor-critic learning. It implicitly",
+      "authors": [
+        "Jiafei Lyu",
+        "Zichuan Lin",
+        "Scott Fujimoto",
+        "Kai Yang",
+        "Yangkun Chen"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.11696",
+      "title": "WildRelight: A Real-World Benchmark and Physics-Guided Adaptation for Single-Image Relighting",
+      "url": "https://huggingface.co/papers/2605.11696",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-11T20:00:00.000Z",
+      "abstract": "Recent single-image relighting methods, powered by advanced generative models, have achieved impressive photorealism on synthetic benchmarks. However, their effectiveness in the complex visual landsca",
+      "authors": [
+        "Lezhong Wang",
+        "Mehmet Onurcan Kaya",
+        "Siavash Bigdeli",
+        "Jeppe Revall Frisvad"
+      ],
+      "tags": [
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.12438",
+      "title": "A Causal Language Modeling Detour Improves Encoder Continued Pretraining",
+      "url": "https://huggingface.co/papers/2605.12438",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-11T20:00:00.000Z",
+      "abstract": "When adapting an encoder to a new domain, the standard approach is to continue training with Masked Language Modeling (MLM). We show that temporarily switching to Causal Language Modeling (CLM) follow",
+      "authors": [
+        "Rian Touchent",
+        "Eric de la Clergerie"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -246,141 +355,6 @@
         "Jiawei Chen"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.12477",
-      "title": "MEME: Multi-entity & Evolving Memory Evaluation",
-      "url": "https://huggingface.co/papers/2605.12477",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-11T20:00:00.000Z",
-      "abstract": "LLM-based agents increasingly operate in persistent environments where they must store, update, and reason over information across many sessions. While prior benchmarks evaluate only single-entity upd",
-      "authors": [
-        "Seokwon Jung",
-        "Alexander Rubinstein",
-        "Arnas Uselis",
-        "Sangdoo Yun",
-        "Seong Joon Oh"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.11354",
-      "title": "Lite3R: A Model-Agnostic Framework for Efficient Feed-Forward 3D Reconstruction",
-      "url": "https://huggingface.co/papers/2605.11354",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-11T20:00:00.000Z",
-      "abstract": "Transformer-based 3D reconstruction has emerged as a powerful paradigm for recovering geometry and appearance from multi-view observations, offering strong performance across challenging visual condit",
-      "authors": [
-        "Haoyu Zhang",
-        "Zeyu Zhang",
-        "Zedong Zhou",
-        "Yang Zhao",
-        "Hao Tang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.12481",
-      "title": "ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents",
-      "url": "https://huggingface.co/papers/2605.12481",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-11T20:00:00.000Z",
-      "abstract": "Computer Use Agents (CUAs) can act through both atomic GUI actions, such as click and type, and high-level tool calls, such as API-based file operations, but this hybrid action space often leaves them",
-      "authors": [
-        "Xuhao Hu",
-        "Xi Zhang",
-        "Haiyang Xu",
-        "Kyle Qiao",
-        "Jingyi Yang"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.12495",
-      "title": "AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward",
-      "url": "https://huggingface.co/papers/2605.12495",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-11T20:00:00.000Z",
-      "abstract": "In this paper, we propose AlphaGRPO, a novel framework that applies Group Relative Policy Optimization (GRPO) to AR-Diffusion Unified Multimodal Models (UMMs) to enhance multimodal generation capabili",
-      "authors": [
-        "Runhui Huang",
-        "Jie Wu",
-        "Rui Yang",
-        "Zhe Liu",
-        "Hengshuang Zhao"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.12426",
-      "title": "Geometric Factual Recall in Transformers",
-      "url": "https://huggingface.co/papers/2605.12426",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-11T20:00:00.000Z",
-      "abstract": "How do transformer language models memorize factual associations? A common view casts internal weight matrices as associative memories over pairs of embeddings, requiring parameter counts that scale l",
-      "authors": [
-        "Shauli Ravfogel",
-        "Gilad Yehudai",
-        "Joan Bruna",
-        "Alberto Bietti"
-      ],
-      "tags": [
-        "transformer"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -731,53 +705,6 @@
       "abstract": "Bain &#38; Company has estimated a US$100 billion market in the US for SaaS companies using agentic AI. The firm said the market is tied to automating coordination work in enterprise systems. The esti",
       "authors": [],
       "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Sakana AI and NVIDIA Introduce TwELL with CUDA Kernels for 20.5% Inference and 21.9% Training Speedup in LLMs",
-      "url": "https://www.marktechpost.com/2026/05/11/sakana-ai-and-nvidia-introduce-twell-with-cuda-kernels-for-20-5-inference-and-21-9-training-speedup-in-llms/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-05-11T08:36:00.000Z",
-      "abstract": "Sakana AI and NVIDIA Researchers demonstrate that simple L1 regularization can induce over 99% sparsity in feedforward layers with negligible downstream performance impact, and translate that sparsity",
-      "authors": [],
-      "tags": [
-        "llm",
-        "inference",
-        "training"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "A Coding Implementation to Build Agent-Native Memory Infrastructure with Memori for Persistent Multi-User and Multi-Session LLM Applications",
-      "url": "https://www.marktechpost.com/2026/05/11/a-coding-implementation-to-build-agent-native-memory-infrastructure-with-memori-for-persistent-multi-user-and-multi-session-llm-applications/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-05-11T07:34:38.000Z",
-      "abstract": "In this tutorial, we implement how Memori serves as an agent-native memory infrastructure layer for building more persistent, context-aware LLM applications. We start by setting up Memori in a Google",
-      "authors": [],
-      "tags": [
-        "llm",
         "agent"
       ],
       "score": 6,

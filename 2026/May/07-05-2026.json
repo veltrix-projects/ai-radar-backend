@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-13T09:22:03.363Z",
+  "generatedAt": "2026-05-13T11:38:06.453Z",
   "date": "07-05-2026",
-  "count": 8,
+  "count": 10,
   "summary": null,
   "items": [
     {
@@ -59,6 +59,58 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.08299",
+      "title": "Do not copy and paste! Rewriting strategies for code retrieval",
+      "url": "https://huggingface.co/papers/2605.08299",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-07T20:00:00.000Z",
+      "abstract": "Embedding-based code retrieval often suffers when encoders overfit to surface syntax. Prior work mitigates this by using LLMs to rephrase queries and corpora into a normalized style, but leaves two qu",
+      "authors": [
+        "Andrea Gurioli",
+        "Federico Pennino",
+        "Maurizio Gabbrielli"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.07545",
+      "title": "Implicit Preference Alignment for Human Image Animation",
+      "url": "https://huggingface.co/papers/2605.07545",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-07T20:00:00.000Z",
+      "abstract": "Human image animation has witnessed significant advancements, yet generating high-fidelity hand motions remains a persistent challenge due to their high degrees of freedom and motion complexity. While",
+      "authors": [
+        "Yuanzhi Wang",
+        "Xuhua Ren",
+        "Jiaxiang Cheng",
+        "Bing Ma",
+        "Kai Yu"
+      ],
+      "tags": [
+        "alignment"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

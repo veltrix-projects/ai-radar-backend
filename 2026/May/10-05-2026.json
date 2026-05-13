@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-05-13T09:22:03.362Z",
+  "generatedAt": "2026-05-13T11:38:06.451Z",
   "date": "10-05-2026",
-  "count": 6,
+  "count": 4,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.10267",
+      "title": "IndustryBench: Probing the Industrial Knowledge Boundaries of LLMs",
+      "url": "https://huggingface.co/papers/2605.10267",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-10T20:00:00.000Z",
+      "abstract": "In industrial procurement, an LLM answer is useful only if it survives a standards check: recommended material must match operating condition, every parameter must respect a regulated threshold, and n",
+      "authors": [
+        "Songlin Bai",
+        "Xintong Wang",
+        "Linlin Yu",
+        "Bin Chen",
+        "Zhiang Xu"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.10108",
       "title": "GLiNER-Relex: A Unified Framework for Joint Named Entity Recognition and Relation Extraction",
@@ -59,91 +87,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.09932",
-      "title": "FocuSFT: Bilevel Optimization for Dilution-Aware Long-Context Fine-Tuning",
-      "url": "https://huggingface.co/papers/2605.09932",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-10T20:00:00.000Z",
-      "abstract": "Large language models can now process increasingly long inputs, yet their ability to effectively use information spread across long contexts remains limited. We trace this gap to how attention budget",
-      "authors": [
-        "Zehua Pei",
-        "Hui-Ling Zhen",
-        "Xianzhi Yu",
-        "Sinno Jialin Pan",
-        "Mingxuan Yuan"
-      ],
-      "tags": [
-        "fine-tuning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.09998",
-      "title": "Continual Harness: Online Adaptation for Self-Improving Foundation Agents",
-      "url": "https://huggingface.co/papers/2605.09998",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-10T20:00:00.000Z",
-      "abstract": "Coding harnesses such as Claude Code and OpenHands wrap foundation models with tools, memory, and planning, but no equivalent exists for embodied agents' long-horizon partial-observability decision-ma",
-      "authors": [
-        "Seth Karten",
-        "Joel Zhang",
-        "Tersoo Upaa Jr",
-        "Ruirong Feng",
-        "Wenzhe Li"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.10365",
-      "title": "Agent-ValueBench: A Comprehensive Benchmark for Evaluating Agent Values",
-      "url": "https://huggingface.co/papers/2605.10365",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-10T20:00:00.000Z",
-      "abstract": "Autonomous agents have rapidly matured as task executors and seen widespread deployment via harnesses such as OpenClaw. Safety concerns have rightly drawn growing research attention, and beneath them",
-      "authors": [
-        "Haonan Dong",
-        "Qiguan Feng",
-        "Kehan Jiang",
-        "Haoran Ye",
-        "Xin Zhang"
-      ],
-      "tags": [
-        "agent",
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "gh_943398999",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools — FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, L",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
@@ -170,7 +113,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 137272,
+      "stars": 137288,
       "votes": 0,
       "points": 0
     }

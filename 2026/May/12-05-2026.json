@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T09:22:03.360Z",
+  "generatedAt": "2026-05-13T11:38:06.449Z",
   "date": "12-05-2026",
   "count": 79,
   "summary": null,
@@ -314,6 +314,34 @@
       "points": 0
     },
     {
+      "id": "arxiv_2605.12495v1",
+      "title": "AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward",
+      "url": "https://arxiv.org/abs/2605.12495v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-05-12T17:59:47Z",
+      "abstract": "In this paper, we propose AlphaGRPO, a novel framework that applies Group Relative Policy Optimization (GRPO) to AR-Diffusion Unified Multimodal Models (UMMs) to enhance multimodal generation capabili",
+      "authors": [
+        "Runhui Huang",
+        "Jie Wu",
+        "Rui Yang",
+        "Zhe Liu",
+        "Hengshuang Zhao"
+      ],
+      "tags": [
+        "multimodal"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "arxiv_2605.12493v1",
       "title": "LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues",
       "url": "https://arxiv.org/abs/2605.12493v1",
@@ -334,32 +362,6 @@
       ],
       "score": 6,
       "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2605.12492v1",
-      "title": "Pion: A Spectrum-Preserving Optimizer via Orthogonal Equivalence Transformation",
-      "url": "https://arxiv.org/abs/2605.12492v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-05-12T17:59:34Z",
-      "abstract": "We introduce Pion, a spectrum-preserving optimizer for large language model (LLM) training based on orthogonal equivalence transformation. Unlike additive optimizers such as Adam and Muon, Pion update",
-      "authors": [
-        "Kexuan Shi",
-        "Hanxuan Li",
-        "Zeju Qiu",
-        "Yandong Wen",
-        "Simon Buchholz"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -504,6 +506,34 @@
       "points": 0
     },
     {
+      "id": "arxiv_2605.12481v1",
+      "title": "ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents",
+      "url": "https://arxiv.org/abs/2605.12481v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-05-12T17:57:04Z",
+      "abstract": "Computer Use Agents (CUAs) can act through both atomic GUI actions, such as click and type, and high-level tool calls, such as API-based file operations, but this hybrid action space often leaves them",
+      "authors": [
+        "Xuhao Hu",
+        "Xi Zhang",
+        "Haiyang Xu",
+        "Kyle Qiao",
+        "Jingyi Yang"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "arxiv_2605.12480v1",
       "title": "OmniNFT: Modality-wise Omni Diffusion Reinforcement for Joint Audio-Video Generation",
       "url": "https://arxiv.org/abs/2605.12480v1",
@@ -544,6 +574,32 @@
       "tags": [
         "gemini"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2605.12477v1",
+      "title": "MEME: Multi-entity &amp; Evolving Memory Evaluation",
+      "url": "https://arxiv.org/abs/2605.12477v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-05-12T17:55:10Z",
+      "abstract": "LLM-based agents increasingly operate in persistent environments where they must store, update, and reason over information across many sessions. While prior benchmarks evaluate only single-entity upd",
+      "authors": [
+        "Seokwon Jung",
+        "Alexander Rubinstein",
+        "Arnas Uselis",
+        "Sangdoo Yun",
+        "Seong Joon Oh"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -1540,48 +1596,6 @@
       "authors": [],
       "tags": [
         "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_MachineLearning_t3_1tavn2e",
-      "title": "Interaction Models from Thinking Machines Lab [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1tavn2e/interaction_models_from_thinking_machines_lab_p/",
-      "source": "Reddit r/MachineLearning",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-05-12T08:45:59+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_MachineLearning_t3_1tavi6x",
-      "title": "Follow-up on the TranslateGemma subtitle benchmark: human review of segments rated &quot;clean&quot; by MetricX-24 and COMETKiwi [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1tavi6x/followup_on_the_translategemma_subtitle_benchmark/",
-      "source": "Reddit r/MachineLearning",
-      "sourceIcon": "🔴",
-      "type": "research",
-      "timestamp": "2026-05-12T08:38:11+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "benchmark"
       ],
       "score": 6,
       "priority": "MEDIUM",
