@@ -1,53 +1,28 @@
 {
-  "generatedAt": "2026-05-13T02:12:14.615Z",
+  "generatedAt": "2026-05-13T06:00:18.938Z",
   "date": "09-05-2026",
-  "count": 3,
+  "count": 2,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2604.26326",
-      "title": "Addressing Performance Saturation for LLM RL via Precise Entropy Curve Control",
-      "url": "https://huggingface.co/papers/2604.26326",
+      "id": "hf_paper_2605.09530",
+      "title": "MemPrivacy: Privacy-Preserving Personalized Memory Management for Edge-Cloud Agents",
+      "url": "https://huggingface.co/papers/2605.09530",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-09T20:00:00.000Z",
-      "abstract": "Reinforcement learning (RL) has enabled complex reasoning abilities in large language models (LLMs). However, most RL algorithms suffer from performance saturation, preventing continued gains as RL tr",
+      "abstract": "As LLM-powered agents are increasingly deployed in edge-cloud environments, personalized memory has become a key enabler of long-term adaptation and user-centric interaction. However, cloud-assisted m",
       "authors": [
-        "Bolian Li",
-        "Yifan Wang",
-        "Yi Ding",
-        "Anamika Lochab",
-        "Ananth Grama"
+        "Yining Chen",
+        "Jihao Zhao",
+        "Bo Tang",
+        "Haofen Wang",
+        "Feiyu Xiong"
       ],
       "tags": [
-        "llm"
+        "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.09548",
-      "title": "Crosslingual On-Policy Self-Distillation for Multilingual Reasoning",
-      "url": "https://huggingface.co/papers/2605.09548",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-09T20:00:00.000Z",
-      "abstract": "Large language models (LLMs) have achieved remarkable progress in mathematical reasoning, but this ability is not equally accessible across languages. Especially low-resource languages exhibit much lo",
-      "authors": [
-        "Yihong Liu",
-        "Raoyuan Zhao",
-        "Michael A. Hedderich",
-        "Hinrich Schütze"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

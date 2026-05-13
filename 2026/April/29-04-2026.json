@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-13T02:12:14.621Z",
+  "generatedAt": "2026-05-13T06:00:18.945Z",
   "date": "29-04-2026",
-  "count": 1,
+  "count": 2,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,32 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.00080",
+      "title": "World Model for Robot Learning: A Comprehensive Survey",
+      "url": "https://huggingface.co/papers/2605.00080",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-29T20:00:00.000Z",
+      "abstract": "World models, which are predictive representations of how environments evolve under actions, have become a central component of robot learning. They support policy learning, planning, simulation, eval",
+      "authors": [
+        "Bohan Hou",
+        "Gen Li",
+        "Jindou Jia",
+        "Tuo An",
+        "Xinying Guo"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

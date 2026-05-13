@@ -1,129 +1,24 @@
 {
-  "generatedAt": "2026-05-13T02:12:14.614Z",
+  "generatedAt": "2026-05-13T06:00:18.938Z",
   "date": "10-05-2026",
-  "count": 10,
+  "count": 4,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2605.10889",
-      "title": "Unmasking On-Policy Distillation: Where It Helps, Where It Hurts, and Why",
-      "url": "https://huggingface.co/papers/2605.10889",
+      "id": "hf_paper_2605.09998",
+      "title": "Continual Harness: Online Adaptation for Self-Improving Foundation Agents",
+      "url": "https://huggingface.co/papers/2605.09998",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-10T20:00:00.000Z",
-      "abstract": "On-policy distillation offers dense, per-token supervision for training reasoning models; however, it remains unclear under which conditions this signal is beneficial and under which it is detrimental",
+      "abstract": "Coding harnesses such as Claude Code and OpenHands wrap foundation models with tools, memory, and planning, but no equivalent exists for embodied agents' long-horizon partial-observability decision-ma",
       "authors": [
-        "Mohammadreza Armandpour",
-        "Fatih Ilhan",
-        "David Harrison",
-        "Ajay Jaiswal",
-        "Duc N. M Hoang"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.10762",
-      "title": "GridProbe: Posterior-Probing for Adaptive Test-Time Compute in Long-Video VLMs",
-      "url": "https://huggingface.co/papers/2605.10762",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-10T20:00:00.000Z",
-      "abstract": "Long-video understanding in VLMs is bottlenecked by a single monolithic forward pass over thousands of frames at quadratic attention cost. A common mitigation is to first select a small subset of info",
-      "authors": [
-        "Mohamed Eltahir",
-        "Lama Ayash",
-        "Ali Habibullah",
-        "Tanveer Hussain",
-        "Naeemullah Khan"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.10032",
-      "title": "PlantMarkerBench: A Multi-Species Benchmark for Evidence-Grounded Plant Marker Reasoning",
-      "url": "https://huggingface.co/papers/2605.10032",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-10T20:00:00.000Z",
-      "abstract": "Cell-type-specific marker genes are fundamental to plant biology, yet existing resources primarily rely on curated databases or high-throughput studies without explicitly modeling the supporting evide",
-      "authors": [
-        "Sajib Acharjee Dip",
-        "Song Li",
-        "Liqing Zhang"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.10488",
-      "title": "DeepRefine: Agent-Compiled Knowledge Refinement via Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2605.10488",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-10T20:00:00.000Z",
-      "abstract": "Agent-compiled knowledge bases provide persistent external knowledge for large language model (LLM) agents in open-ended, knowledge-intensive downstream tasks. Yet their quality is systematically limi",
-      "authors": [
-        "Haoyu Huang",
-        "Jiaxin Bai",
-        "Shujie Liu",
-        "Yang Wei",
-        "Hong Ting Tsang"
-      ],
-      "tags": [
-        "agent",
-        "reinforcement learning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.10848",
-      "title": "Rethinking Agentic Search with Pi-Serini: Is Lexical Retrieval Sufficient?",
-      "url": "https://huggingface.co/papers/2605.10848",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-10T20:00:00.000Z",
-      "abstract": "Does a lexical retriever suffice as large language models (LLMs) become more capable in an agentic loop? This question naturally arises when building deep research systems. We revisit it by pairing BM",
-      "authors": [
-        "Tz-Huan Hsu",
-        "Jheng-Hong Yang",
-        "Jimmy Lin"
+        "Seth Karten",
+        "Joel Zhang",
+        "Tersoo Upaa Jr",
+        "Ruirong Feng",
+        "Wenzhe Li"
       ],
       "tags": [
         "agent"
@@ -138,22 +33,25 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.10664",
-      "title": "Prompt-Activation Duality: Improving Activation Steering via Attention-Level Interventions",
-      "url": "https://huggingface.co/papers/2605.10664",
+      "id": "hf_paper_2605.10365",
+      "title": "Agent-ValueBench: A Comprehensive Benchmark for Evaluating Agent Values",
+      "url": "https://huggingface.co/papers/2605.10365",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-10T20:00:00.000Z",
-      "abstract": "Activation steering controls language model behavior by adding directions to internal representations at inference time, but standard residual-stream steering can fail in stateful dialogue. We identif",
+      "abstract": "Autonomous agents have rapidly matured as task executors and seen widespread deployment via harnesses such as OpenClaw. Safety concerns have rightly drawn growing research attention, and beneath them",
       "authors": [
-        "Diancheng Kang",
-        "Zheyuan Liu",
-        "Ningshan Ma",
-        "Yue Huang",
-        "Zhaoxuan Tan"
+        "Haonan Dong",
+        "Qiguan Feng",
+        "Kehan Jiang",
+        "Haoran Ye",
+        "Xin Zhang"
       ],
-      "tags": [],
+      "tags": [
+        "agent",
+        "benchmark"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -164,67 +62,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.09877",
-      "title": "Key-Value Means",
-      "url": "https://huggingface.co/papers/2605.09877",
+      "id": "hf_paper_2605.11182",
+      "title": "The Many Faces of On-Policy Distillation: Pitfalls, Mechanisms, and Fixes",
+      "url": "https://huggingface.co/papers/2605.11182",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-10T20:00:00.000Z",
-      "abstract": "We present Key-Value Means (\"KVM\"), a novel block-recurrence for attention that can accommodate either fixed-size or growing state. Equipping a strong transformer baseline with fixed-size KVM attentio",
+      "abstract": "On-policy distillation (OPD) and on-policy self-distillation (OPSD) have emerged as promising post-training methods for large language models, offering dense token-level supervision on trajectories sa",
       "authors": [
-        "Daniel Goldstein",
-        "Eugene Cheah"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.10938",
-      "title": "ELF: Embedded Language Flows",
-      "url": "https://huggingface.co/papers/2605.10938",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-10T20:00:00.000Z",
-      "abstract": "Diffusion and flow-based models have become the de facto approaches for generating continuous data, e.g., in domains such as images and videos. Their success has attracted growing interest in applying",
-      "authors": [
-        "Keya Hu",
-        "Linlu Qiu",
-        "Yiyang Lu",
-        "Hanhong Zhao",
-        "Tianhong Li"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.10468",
-      "title": "Can Muon Fine-tune Adam-Pretrained Models?",
-      "url": "https://huggingface.co/papers/2605.10468",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-10T20:00:00.000Z",
-      "abstract": "Muon has emerged as an efficient alternative to Adam for pretraining, yet remains underused for fine-tuning. A key obstacle is that most open models are pretrained with Adam, and naively switching to",
-      "authors": [
-        "Xingyu Qu",
-        "Peigeng Huang",
-        "Samuel Horvath"
+        "Siqi Zhu",
+        "Xuyan Ye",
+        "Hongyu Lu",
+        "Weiye Shi",
+        "Ge Liu"
       ],
       "tags": [],
       "score": 6,
@@ -263,7 +114,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 137247,
+      "stars": 137264,
       "votes": 0,
       "points": 0
     }
