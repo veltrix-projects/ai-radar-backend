@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-14T02:14:40.357Z",
+  "generatedAt": "2026-05-14T06:00:21.449Z",
   "date": "07-05-2026",
-  "count": 8,
+  "count": 4,
   "summary": null,
   "items": [
     {
@@ -36,114 +36,6 @@
       "authors": [],
       "tags": [
         "training"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.08504",
-      "title": "A Single Layer to Explain Them All:Understanding Massive Activations in Large Language Models",
-      "url": "https://huggingface.co/papers/2605.08504",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-07T20:00:00.000Z",
-      "abstract": "We investigate the origins of massive activations in large language models (LLMs) and identify a specific layer named the Massive Emergence Layer (ME Layer), that is consistently observed across model",
-      "authors": [
-        "Zeru Shi",
-        "Zhenting Wang",
-        "Fan Yang",
-        "Qifan Wang",
-        "Ruixiang Tang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.07153",
-      "title": "Beyond Reasoning: Reinforcement Learning Unlocks Parametric Knowledge in LLMs",
-      "url": "https://huggingface.co/papers/2605.07153",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-07T20:00:00.000Z",
-      "abstract": "Reinforcement learning (RL) has achieved remarkable success in LLM reasoning, but whether it can also improve direct recall of parametric knowledge remains an open question. We study this question in",
-      "authors": [
-        "Wanli Yang",
-        "Hongyu Zang",
-        "Junwei Zhang",
-        "Wenjie Shi",
-        "Du Su"
-      ],
-      "tags": [
-        "llm",
-        "reinforcement learning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.07654",
-      "title": "Reliable Chain-of-Thought via Prefix Consistency",
-      "url": "https://huggingface.co/papers/2605.07654",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-07T20:00:00.000Z",
-      "abstract": "Large Language Models often improve accuracy on reasoning tasks by sampling multiple Chain-of-Thought (CoT) traces and aggregating them with majority voting (MV), a test-time technique called self-con",
-      "authors": [
-        "Naoto Iwase",
-        "Yuki Ichihara",
-        "Mohammad Atif Quamar",
-        "Junpei Komiyama"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.07579",
-      "title": "Your Language Model is Its Own Critic: Reinforcement Learning with Value Estimation from Actor's Internal States",
-      "url": "https://huggingface.co/papers/2605.07579",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-07T20:00:00.000Z",
-      "abstract": "Reinforcement learning with verifiable rewards (RLVR) for Large Reasoning Models hinges on baseline estimation for variance reduction, but existing approaches pay a heavy price: PPO requires a policy-",
-      "authors": [
-        "Yunho Choi",
-        "Jongwon Lim",
-        "Woojin Ahn",
-        "Minjae Oh",
-        "Jeonghoon Shim"
-      ],
-      "tags": [
-        "reinforcement learning"
       ],
       "score": 8,
       "priority": "HIGH",

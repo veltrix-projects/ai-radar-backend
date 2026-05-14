@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-05-14T02:14:40.355Z",
+  "generatedAt": "2026-05-14T06:00:21.447Z",
   "date": "10-05-2026",
-  "count": 4,
+  "count": 3,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2605.11136",
-      "title": "EVOCHAMBER: Test-Time Co-evolution of Multi-Agent System at Individual, Team, and Population Scales",
-      "url": "https://huggingface.co/papers/2605.11136",
+      "id": "hf_paper_2605.10268",
+      "title": "MemReread: Enhancing Agentic Long-Context Reasoning via Memory-Guided Rereading",
+      "url": "https://huggingface.co/papers/2605.10268",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-10T20:00:00.000Z",
-      "abstract": "We argue that multi-agent test-time evolution is not single-agent evolution replicated N times. A single-agent learner can only evolve its own context and memory. A multi-agent system additionally evo",
+      "abstract": "To tackle long-context reasoning tasks without the quadratic complexity of standard attention mechanisms, approaches based on agent memory have emerged, which typically maintain a dynamically updated",
       "authors": [
-        "Yaolun Zhang",
-        "Tianyi Xu",
-        "Shengyu Dai",
-        "Zhenwen Shao",
-        "Qingyun Wu"
+        "Baibei Ji",
+        "Xiaoyang Weng",
+        "Juntao Li",
+        "Zecheng Tang",
+        "Yihang Lou"
       ],
       "tags": [
         "agent"
@@ -33,50 +33,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.10376",
-      "title": "SleepWalk: A Three-Tier Benchmark for Stress-Testing Instruction-Guided Vision-Language Navigation",
-      "url": "https://huggingface.co/papers/2605.10376",
+      "id": "hf_paper_2605.09942",
+      "title": "HAGE: Harnessing Agentic Memory via RL-Driven Weighted Graph Evolution",
+      "url": "https://huggingface.co/papers/2605.09942",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-10T20:00:00.000Z",
-      "abstract": "Vision-Language Models (VLMs) have advanced rapidly in multimodal perception and language understanding, yet it remains unclear whether they can reliably ground language into spatially coherent, plaus",
+      "abstract": "Memory retrieval in agentic large language model (LLM) systems is often treated as a static lookup problem, relying on flat vector search or fixed binary relational graphs. However, fixed graph struct",
       "authors": [
-        "Niyati Rawal",
-        "Sushant Ravva",
-        "Shah Alam Abir",
-        "Saksham Jain",
-        "Aman Chadha"
+        "Dongming Jiang",
+        "Yi Li",
+        "Guanpeng Li",
+        "Qiannan Li",
+        "Bingzhe Li"
       ],
       "tags": [
-        "benchmark"
+        "agent"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.09936",
-      "title": "Urban-ImageNet: A Large-Scale Multi-Modal Dataset and Evaluation Framework for Urban Space Perception",
-      "url": "https://huggingface.co/papers/2605.09936",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-10T20:00:00.000Z",
-      "abstract": "We present Urban-ImageNet, a large-scale multi-modal dataset and evaluation benchmark for urban space perception from user-generated social media imagery. The corpus contains over 2 Million public soc",
-      "authors": [
-        "Yiwei Ou",
-        "Chung Ching Cheung",
-        "Jun Yang Ang",
-        "Xiaobin Ren",
-        "Ronggui Sun"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -113,7 +87,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 137326,
+      "stars": 137337,
       "votes": 0,
       "points": 0
     }

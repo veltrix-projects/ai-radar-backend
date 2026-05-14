@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-14T02:14:40.354Z",
+  "generatedAt": "2026-05-14T06:00:21.447Z",
   "date": "11-05-2026",
-  "count": 25,
+  "count": 22,
   "summary": null,
   "items": [
     {
@@ -53,25 +53,32 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 155634,
+      "stars": 155649,
       "votes": 0,
       "points": 0
     },
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Understanding LLM Distillation Techniques",
-      "url": "https://www.marktechpost.com/2026/05/11/understanding-llm-distillation-techniques/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
+      "id": "hf_paper_2605.12587",
+      "title": "TrackCraft3R: Repurposing Video Diffusion Transformers for Dense 3D Tracking",
+      "url": "https://huggingface.co/papers/2605.12587",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-05-11T20:20:16.000Z",
-      "abstract": "Modern large language models are no longer trained only on raw internet text. Increasingly, companies are using powerful “teacher” models to help train smaller or more efficient “student” models. This",
-      "authors": [],
-      "tags": [
-        "llm"
+      "timestamp": "2026-05-11T20:00:00.000Z",
+      "abstract": "Dense 3D tracking from monocular video is fundamental to dynamic scene understanding. While recent 3D foundation models provide reliable per-frame geometry, recovering object motion in this geometry r",
+      "authors": [
+        "Jisu Nam",
+        "Jahyeok Koo",
+        "Soowon Son",
+        "Jaewoo Jung",
+        "Honggyu An"
       ],
-      "score": 4,
-      "priority": "LOW",
+      "tags": [
+        "transformer",
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -80,20 +87,72 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.12501",
-      "title": "Covering Human Action Space for Computer Use: Data Synthesis and Benchmark",
-      "url": "https://huggingface.co/papers/2605.12501",
+      "id": "hf_paper_2605.12825",
+      "title": "Orthrus: Memory-Efficient Parallel Token Generation via Dual-View Diffusion",
+      "url": "https://huggingface.co/papers/2605.12825",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-11T20:00:00.000Z",
-      "abstract": "Computer-use agents (CUAs) automate on-screen work, as illustrated by GPT-5.4 and Claude. Yet their reliability on complex, low-frequency interactions is still poor, limiting user trust. Our analysis",
+      "abstract": "We introduce Orthrus, a simple and efficient dual-architecture framework that unifies the exact generation fidelity of autoregressive Large Language Models (LLMs) with the high-speed parallel token ge",
       "authors": [
-        "Miaosen Zhang",
-        "Xiaohan Zhao",
-        "Zhihong Tan",
-        "Zhou Huoshen",
-        "Yijia Fan"
+        "Chien Van Nguyen",
+        "Chaitra Hegde",
+        "Van Cuong Pham",
+        "Ryan A. Rossi",
+        "Franck Dernoncourt"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.11680",
+      "title": "ShapeCodeBench: A Renewable Benchmark for Perception-to-Program Reconstruction of Synthetic Shape Scenes",
+      "url": "https://huggingface.co/papers/2605.11680",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-11T20:00:00.000Z",
+      "abstract": "We introduce ShapeCodeBench, a synthetic benchmark for perception-to-program reconstruction: given a rendered raster image, a model must emit an executable drawing program that a deterministic evaluat",
+      "authors": [
+        "Shivam Kumar"
+      ],
+      "tags": [
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.12684",
+      "title": "Visual Aesthetic Benchmark: Can Frontier Models Judge Beauty?",
+      "url": "https://huggingface.co/papers/2605.12684",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-11T20:00:00.000Z",
+      "abstract": "Multimodal large language models (MLLMs) are now routinely deployed for visual understanding, generation, and curation. A substantial fraction of these applications require an explicit aesthetic judgm",
+      "authors": [
+        "Yichen Feng",
+        "Yuetai Li",
+        "Chunjiang Liu",
+        "Yuanyuan Chen",
+        "Fengqing Jiang"
       ],
       "tags": [
         "benchmark"
@@ -108,158 +167,21 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.12498",
-      "title": "EgoForce: Forearm-Guided Camera-Space 3D Hand Pose from a Monocular Egocentric Camera",
-      "url": "https://huggingface.co/papers/2605.12498",
+      "id": "hf_paper_2605.12770",
+      "title": "WriteSAE: Sparse Autoencoders for Recurrent State",
+      "url": "https://huggingface.co/papers/2605.12770",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-11T20:00:00.000Z",
-      "abstract": "Reconstructing the absolute 3D pose and shape of the hands from the user's viewpoint using a single head-mounted camera is crucial for practical egocentric interaction in AR/VR, telepresence, and hand",
+      "abstract": "We introduce WriteSAE, the first sparse autoencoder that decomposes and edits the matrix cache write of state-space and hybrid recurrent language models, where residual SAEs cannot reach. Existing SAE",
       "authors": [
-        "Christen Millerdurai",
-        "Shaoxiang Wang",
-        "Yaxu Xie",
-        "Vladislav Golyanik",
-        "Didier Stricker"
+        "Jack Young"
       ],
       "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.12466",
-      "title": "Solve the Loop: Attractor Models for Language and Reasoning",
-      "url": "https://huggingface.co/papers/2605.12466",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-11T20:00:00.000Z",
-      "abstract": "Looped Transformers offer a promising alternative to purely feed-forward computation by iteratively refining latent representations, improving language modeling and reasoning. Yet recurrent architectu",
-      "authors": [
-        "Jacob Fein-Ashley",
-        "Paria Rashidinejad"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.12484",
-      "title": "Learning, Fast and Slow: Towards LLMs That Adapt Continually",
-      "url": "https://huggingface.co/papers/2605.12484",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-11T20:00:00.000Z",
-      "abstract": "Large language models (LLMs) are trained for downstream tasks by updating their parameters (e.g., via RL). However, updating parameters forces them to absorb task-specific information, which can resul",
-      "authors": [
-        "Rishabh Tiwari",
-        "Kusha Sareen",
-        "Lakshya A Agrawal",
-        "Joseph E. Gonzalez",
-        "Matei Zaharia"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.11436",
-      "title": "Agent-BRACE: Decoupling Beliefs from Actions in Long-Horizon Tasks via Verbalized State Uncertainty",
-      "url": "https://huggingface.co/papers/2605.11436",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-11T20:00:00.000Z",
-      "abstract": "Large language models (LLMs) are increasingly deployed on long-horizon tasks in partially observable environments, where they must act while inferring and tracking a complex environment state over man",
-      "authors": [
-        "Joykirat Singh",
-        "Zaid Khan",
-        "Archiki Prasad",
-        "Justin Chih-Yao Chen",
-        "Akshay Nambi"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.12419",
-      "title": "ORBIT: Preserving Foundational Language Capabilities in GenRetrieval via Origin-Regulated Merging",
-      "url": "https://huggingface.co/papers/2605.12419",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-11T20:00:00.000Z",
-      "abstract": "Despite the rapid advancements in large language model (LLM) development, fine-tuning them for specific tasks often results in the catastrophic forgetting of their general, language-based reasoning ab",
-      "authors": [
-        "Neha Verma",
-        "Nikhil Mehta",
-        "Shao-Chuan Wang",
-        "Naijing Zhang",
-        "Alicia Tsai"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.11400",
-      "title": "UniPath: Adaptive Coordination of Understanding and Generation for Unified Multimodal Reasoning",
-      "url": "https://huggingface.co/papers/2605.11400",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-11T20:00:00.000Z",
-      "abstract": "Unified multimodal models (UMMs) aim to integrate understanding and generation within a single architecture. However, it remains underexplored how to effectively coordinate these two capabilities for",
-      "authors": [
-        "Hayes Bai",
-        "Yinyi Luo",
-        "Wenwen Wang",
-        "Qingsong Wen",
-        "Jindong Wang"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -494,9 +416,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fopena",
-      "title": "OpenAI Campus Network: Student club interest form",
-      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Fbusiness%2Fgu",
+      "title": "How enterprises are scaling AI",
+      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
@@ -514,9 +436,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Fbusiness%2Fgu",
-      "title": "How enterprises are scaling AI",
-      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fopena",
+      "title": "OpenAI Campus Network: Student club interest form",
+      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",

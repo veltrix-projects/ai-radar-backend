@@ -1,52 +1,30 @@
 {
-  "generatedAt": "2026-05-14T02:14:40.358Z",
+  "generatedAt": "2026-05-14T06:00:21.449Z",
   "date": "06-05-2026",
-  "count": 5,
+  "count": 4,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2605.06546",
-      "title": "Efficient Pre-Training with Token Superposition",
-      "url": "https://huggingface.co/papers/2605.06546",
+      "id": "hf_paper_2605.05704",
+      "title": "SafeHarbor: Hierarchical Memory-Augmented Guardrail for LLM Agent Safety",
+      "url": "https://huggingface.co/papers/2605.05704",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-06T20:00:00.000Z",
-      "abstract": "Pre-training of Large Language Models is often prohibitively expensive and inefficient at scale, requiring complex and invasive modifications in order to achieve high data throughput. In this work, we",
+      "abstract": "With the rapid evolution of foundation models, Large Language Model (LLM) agents have demonstrated increasingly powerful tool-use capabilities. However, this proficiency introduces significant securit",
       "authors": [
-        "Bowen Peng",
-        "Théo Gigant",
-        "Jeffrey Quesnelle"
+        "Zhe Liu",
+        "Zonghao Ying",
+        "Wenxin Zhang",
+        "Quanchen Zou",
+        "Deyue Zhang"
       ],
       "tags": [
-        "training"
+        "llm",
+        "agent",
+        "safety"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.06658",
-      "title": "Relit-LiVE: Relight Video by Jointly Learning Environment Video",
-      "url": "https://huggingface.co/papers/2605.06658",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-06T20:00:00.000Z",
-      "abstract": "Recent advances have shown that large-scale video diffusion models can be repurposed as neural renderers by first decomposing videos into intrinsic scene representations and then performing forward re",
-      "authors": [
-        "Weiqing Xiao",
-        "Hong Li",
-        "Xiuyu Yang",
-        "Houyuan Chen",
-        "Wenyi Li"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
