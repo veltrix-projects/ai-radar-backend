@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T20:52:10.932Z",
+  "generatedAt": "2026-05-14T22:01:43.346Z",
   "date": "11-05-2026",
   "count": 15,
   "summary": null,
@@ -32,6 +32,34 @@
       "downloads": 0,
       "likes": 0,
       "stars": 155677,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.11378",
+      "title": "An Empirical Study of Automating Agent Evaluation",
+      "url": "https://huggingface.co/papers/2605.11378",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-11T20:00:00.000Z",
+      "abstract": "Agent evaluation requires assessing complex multi-step behaviors involving tool use and intermediate reasoning, making it costly and expertise-intensive. A natural question arises: can frontier coding",
+      "authors": [
+        "Kang Zhou",
+        "Sangmin Woo",
+        "Haibo Ding",
+        "Kiran Ramnath",
+        "Subramanian Chidambaram"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
       "votes": 0,
       "points": 0
     },
@@ -74,34 +102,6 @@
         "Xingyuan Hua",
         "Sheng Yue",
         "Ju Ren"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.12004",
-      "title": "Learning Agentic Policy from Action Guidance",
-      "url": "https://huggingface.co/papers/2605.12004",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-11T20:00:00.000Z",
-      "abstract": "Agentic reinforcement learning (RL) for Large Language Models (LLMs) critically depends on the exploration capability of the base policy, as training signals emerge only within its in-capability regio",
-      "authors": [
-        "Yuxiang Ji",
-        "Zengbin Wang",
-        "Yong Wang",
-        "Shidong Yang",
-        "Ziyu Ma"
       ],
       "tags": [
         "agent"
@@ -298,9 +298,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fopena",
-      "title": "OpenAI Campus Network: Student club interest form",
-      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Fbusiness%2Fgu",
+      "title": "How enterprises are scaling AI",
+      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",

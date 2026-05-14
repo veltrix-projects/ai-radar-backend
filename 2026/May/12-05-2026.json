@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-14T20:52:10.931Z",
+  "generatedAt": "2026-05-14T22:01:43.344Z",
   "date": "12-05-2026",
-  "count": 24,
+  "count": 22,
   "summary": null,
   "items": [
     {
@@ -235,61 +235,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.13087",
-      "title": "Vividh-ASR: A Complexity-Tiered Benchmark and Optimization Dynamics for Robust Indic Speech Recognition",
-      "url": "https://huggingface.co/papers/2605.13087",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-12T20:00:00.000Z",
-      "abstract": "Fine-tuning multilingual ASR models like Whisper for low-resource languages often improves read speech but degrades spontaneous audio performance, a phenomenon we term studio-bias. To diagnose this mi",
-      "authors": [
-        "Kush Juvekar",
-        "Kavya Manohar",
-        "Aditya Srinivas Menon",
-        "Arghya Bhattacharya",
-        "Kumarmanas Nethil"
-      ],
-      "tags": [
-        "benchmark",
-        "speech"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.12995",
-      "title": "F-GRPO: Factorized Group-Relative Policy Optimization for Unified Candidate Generation and Ranking",
-      "url": "https://huggingface.co/papers/2605.12995",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-12T20:00:00.000Z",
-      "abstract": "Traditional retrieval pipelines optimize utility through stages of candidate retrieval and reranking, where ranking operates over a predefined candidate set. Large Language Models (LLMs) broaden this",
-      "authors": [
-        "Rohan Surana",
-        "Gagan Mundada",
-        "Junda Wu",
-        "Xintong Li",
-        "Yizhu Jiao"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "How to Eliminate Pipeline Friction in AI Model Serving",
       "url": "https://developer.nvidia.com/blog/how-to-eliminate-pipeline-friction-in-ai-model-serving/",
@@ -496,26 +441,6 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fwhat-",
-      "title": "What Parameter Golf taught us about AI-assisted research",
-      "url": "https://openai.com/index/what-parameter-golf-taught-us",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-05-12T00:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fautos",
       "title": "AutoScout24 scales engineering with AI-powered workflows",
       "url": "https://openai.com/index/autoscout24",
@@ -539,6 +464,26 @@
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fnvidi",
       "title": "How NVIDIA engineers and researchers build with Codex",
       "url": "https://openai.com/index/nvidia",
+      "source": "OpenAI Blog",
+      "sourceIcon": "🟢",
+      "type": "news",
+      "timestamp": "2026-05-12T00:00:00.000Z",
+      "abstract": "",
+      "authors": [],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fwhat-",
+      "title": "What Parameter Golf taught us about AI-assisted research",
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
