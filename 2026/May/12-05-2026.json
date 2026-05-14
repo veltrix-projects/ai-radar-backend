@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-14T06:00:21.446Z",
+  "generatedAt": "2026-05-14T09:12:20.144Z",
   "date": "12-05-2026",
-  "count": 33,
+  "count": 30,
   "summary": null,
   "items": [
     {
@@ -102,6 +102,89 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.13757",
+      "title": "FrameSkip: Learning from Fewer but More Informative Frames in VLA Training",
+      "url": "https://huggingface.co/papers/2605.13757",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-12T20:00:00.000Z",
+      "abstract": "Vision-Language-Action (VLA) policies are commonly trained from dense robot demonstration trajectories, often collected through teleoperation, by sampling every recorded frame as if it provided equall",
+      "authors": [
+        "Bin Yu",
+        "Shijie Lian",
+        "Xiaopeng Lin",
+        "Zhaolong Shen",
+        "Yuliang Wei"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.13087",
+      "title": "Vividh-ASR: A Complexity-Tiered Benchmark and Optimization Dynamics for Robust Indic Speech Recognition",
+      "url": "https://huggingface.co/papers/2605.13087",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-12T20:00:00.000Z",
+      "abstract": "Fine-tuning multilingual ASR models like Whisper for low-resource languages often improves read speech but degrades spontaneous audio performance, a phenomenon we term studio-bias. To diagnose this mi",
+      "authors": [
+        "Kush Juvekar",
+        "Kavya Manohar",
+        "Aditya Srinivas Menon",
+        "Arghya Bhattacharya",
+        "Kumarmanas Nethil"
+      ],
+      "tags": [
+        "benchmark",
+        "speech"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.12995",
+      "title": "F-GRPO: Factorized Group-Relative Policy Optimization for Unified Candidate Generation and Ranking",
+      "url": "https://huggingface.co/papers/2605.12995",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-12T20:00:00.000Z",
+      "abstract": "Traditional retrieval pipelines optimize utility through stages of candidate retrieval and reranking, where ranking operates over a predefined candidate set. Large Language Models (LLMs) broaden this",
+      "authors": [
+        "Rohan Surana",
+        "Gagan Mundada",
+        "Junda Wu",
+        "Xintong Li",
+        "Yizhu Jiao"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -261,144 +344,6 @@
       ],
       "tags": [
         "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.12925",
-      "title": "AgentLens: Revealing The Lucky Pass Problem in SWE-Agent Evaluation",
-      "url": "https://huggingface.co/papers/2605.12925",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-12T20:00:00.000Z",
-      "abstract": "Evaluation of software engineering (SWE) agents is dominated by a binary signal: whether the final patch passes the tests. This outcome-only view treats a principled solution and a chaotic trial-and-e",
-      "authors": [
-        "Priyam Sahoo",
-        "Gaurav Mittal",
-        "Xiaomin Li",
-        "Shengjie Ma",
-        "Benjamin Steenhoek"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.13037",
-      "title": "MAP: A Map-then-Act Paradigm for Long-Horizon Interactive Agent Reasoning",
-      "url": "https://huggingface.co/papers/2605.13037",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-12T20:00:00.000Z",
-      "abstract": "Current interactive LLM agents rely on goal-conditioned stepwise planning, where environmental understanding is acquired reactively during execution rather than established beforehand. This temporal i",
-      "authors": [
-        "Yuxin Liu",
-        "Ziang Ye",
-        "Yueqing Sun",
-        "Mingye Zhu",
-        "Jinwei Xiao"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.13050",
-      "title": "Context Training with Active Information Seeking",
-      "url": "https://huggingface.co/papers/2605.13050",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-12T20:00:00.000Z",
-      "abstract": "Most existing large language models (LLMs) are expensive to adapt after deployment, especially when a task requires newly produced information or niche domain knowledge. Recent work has shown that, by",
-      "authors": [
-        "Zeyu Huang",
-        "Adhiguna Kuncoro",
-        "Qixuan Feng",
-        "Jiajun Shen",
-        "Lucio Dery"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.12964",
-      "title": "Asymmetric Flow Models",
-      "url": "https://huggingface.co/papers/2605.12964",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-12T20:00:00.000Z",
-      "abstract": "Flow-based generation in high-dimensional spaces is difficult because velocity prediction requires modeling high-dimensional noise, even when data has strong low-rank structure. We present Asymmetric",
-      "authors": [
-        "Hansheng Chen",
-        "Jan Ackermann",
-        "Minseo Kim",
-        "Gordon Wetzstein",
-        "Leonidas Guibas"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.13724",
-      "title": "AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation",
-      "url": "https://huggingface.co/papers/2605.13724",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-12T20:00:00.000Z",
-      "abstract": "Few-step video generation has been significantly advanced by consistency distillation. However, the performance of consistency-distilled models often degrades as more sampling steps are allocated at t",
-      "authors": [
-        "Yuchao Gu",
-        "Guian Fang",
-        "Yuxin Jiang",
-        "Weijia Mao",
-        "Song Han"
-      ],
-      "tags": [
-        "diffusion"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -679,29 +624,9 @@
       "points": 0
     },
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "OpenAI Introduces Daybreak: A Cybersecurity Initiative That Puts Codex Security at the Center of Vulnerability Detection and Patch Validation",
-      "url": "https://www.marktechpost.com/2026/05/11/openai-introduces-daybreak-a-cybersecurity-initiative-that-puts-codex-security-at-the-center-of-vulnerability-detection-and-patch-validation/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-05-12T05:47:54.000Z",
-      "abstract": "OpenAI on just launched Daybreak, a cybersecurity initiative that combines the company&#8217;s frontier AI models with Codex Security, its coding-focused agentic system, and a broad network of securit",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fwhat-",
-      "title": "What Parameter Golf taught us about AI-assisted research",
-      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fautos",
+      "title": "AutoScout24 scales engineering with AI-powered workflows",
+      "url": "https://openai.com/index/autoscout24",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
@@ -719,9 +644,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fautos",
-      "title": "AutoScout24 scales engineering with AI-powered workflows",
-      "url": "https://openai.com/index/autoscout24",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fwhat-",
+      "title": "What Parameter Golf taught us about AI-assisted research",
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",

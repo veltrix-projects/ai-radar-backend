@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-14T06:00:21.447Z",
+  "generatedAt": "2026-05-14T09:12:20.145Z",
   "date": "11-05-2026",
-  "count": 22,
+  "count": 23,
   "summary": null,
   "items": [
     {
@@ -53,7 +53,61 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 155649,
+      "stars": 155659,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.12004",
+      "title": "Learning Agentic Policy from Action Guidance",
+      "url": "https://huggingface.co/papers/2605.12004",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-11T20:00:00.000Z",
+      "abstract": "Agentic reinforcement learning (RL) for Large Language Models (LLMs) critically depends on the exploration capability of the base policy, as training signals emerge only within its in-capability regio",
+      "authors": [
+        "Yuxiang Ji",
+        "Zengbin Wang",
+        "Yong Wang",
+        "Shidong Yang",
+        "Ziyu Ma"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.12411",
+      "title": "Predicting Decisions of AI Agents from Limited Interaction through Text-Tabular Modeling",
+      "url": "https://huggingface.co/papers/2605.12411",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-11T20:00:00.000Z",
+      "abstract": "AI agents negotiate and transact in natural language with unfamiliar counterparts: a buyer bot facing an unknown seller, or a procurement assistant negotiating with a supplier. In such interactions, t",
+      "authors": [
+        "Eilam Shapira",
+        "Moshe Tennenholtz",
+        "Roi Reichart"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
       "votes": 0,
       "points": 0
     },
@@ -160,28 +214,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.12770",
-      "title": "WriteSAE: Sparse Autoencoders for Recurrent State",
-      "url": "https://huggingface.co/papers/2605.12770",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-11T20:00:00.000Z",
-      "abstract": "We introduce WriteSAE, the first sparse autoencoder that decomposes and edits the matrix cache write of state-space and hybrid recurrent language models, where residual SAEs cannot reach. Existing SAE",
-      "authors": [
-        "Jack Young"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
