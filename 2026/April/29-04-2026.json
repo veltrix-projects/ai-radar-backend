@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-13T23:55:14.847Z",
+  "generatedAt": "2026-05-14T02:14:40.361Z",
   "date": "29-04-2026",
-  "count": 1,
+  "count": 2,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,31 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.27695",
+      "title": "EviMem: Evidence-Gap-Driven Iterative Retrieval for Long-Term Conversational Memory",
+      "url": "https://huggingface.co/papers/2604.27695",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-29T20:00:00.000Z",
+      "abstract": "Long-term conversational memory requires retrieving evidence scattered across multiple sessions, yet single-pass retrieval fails on temporal and multi-hop questions. Existing iterative methods refine",
+      "authors": [
+        "Yuyang Li",
+        "Yime He",
+        "Zeyu Zhang",
+        "Dong Gong"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

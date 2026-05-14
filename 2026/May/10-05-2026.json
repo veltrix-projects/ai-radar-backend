@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-05-13T23:55:14.841Z",
+  "generatedAt": "2026-05-14T02:14:40.355Z",
   "date": "10-05-2026",
   "count": 4,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.11136",
+      "title": "EVOCHAMBER: Test-Time Co-evolution of Multi-Agent System at Individual, Team, and Population Scales",
+      "url": "https://huggingface.co/papers/2605.11136",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-10T20:00:00.000Z",
+      "abstract": "We argue that multi-agent test-time evolution is not single-agent evolution replicated N times. A single-agent learner can only evolve its own context and memory. A multi-agent system additionally evo",
+      "authors": [
+        "Yaolun Zhang",
+        "Tianyi Xu",
+        "Shengyu Dai",
+        "Zhenwen Shao",
+        "Qingyun Wu"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.10376",
       "title": "SleepWalk: A Three-Tier Benchmark for Stress-Testing Instruction-Guided Vision-Language Navigation",
@@ -59,34 +87,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.10267",
-      "title": "IndustryBench: Probing the Industrial Knowledge Boundaries of LLMs",
-      "url": "https://huggingface.co/papers/2605.10267",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-10T20:00:00.000Z",
-      "abstract": "In industrial procurement, an LLM answer is useful only if it survives a standards check: recommended material must match operating condition, every parameter must respect a regulated threshold, and n",
-      "authors": [
-        "Songlin Bai",
-        "Xintong Wang",
-        "Linlin Yu",
-        "Bin Chen",
-        "Zhiang Xu"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "gh_943398999",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools — FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, L",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
@@ -113,7 +113,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 137328,
+      "stars": 137326,
       "votes": 0,
       "points": 0
     }

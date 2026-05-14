@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-13T23:55:14.841Z",
+  "generatedAt": "2026-05-14T02:14:40.354Z",
   "date": "11-05-2026",
-  "count": 26,
+  "count": 25,
   "summary": null,
   "items": [
     {
@@ -53,7 +53,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 155635,
+      "stars": 155634,
       "votes": 0,
       "points": 0
     },
@@ -73,6 +73,34 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.12501",
+      "title": "Covering Human Action Space for Computer Use: Data Synthesis and Benchmark",
+      "url": "https://huggingface.co/papers/2605.12501",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-11T20:00:00.000Z",
+      "abstract": "Computer-use agents (CUAs) automate on-screen work, as illustrated by GPT-5.4 and Claude. Yet their reliability on complex, low-frequency interactions is still poor, limiting user trust. Our analysis",
+      "authors": [
+        "Miaosen Zhang",
+        "Xiaohan Zhao",
+        "Zhihong Tan",
+        "Zhou Huoshen",
+        "Yijia Fan"
+      ],
+      "tags": [
+        "benchmark"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -232,59 +260,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.12460",
-      "title": "Multi-Stream LLMs: Unblocking Language Models with Parallel Streams of Thoughts, Inputs and Outputs",
-      "url": "https://huggingface.co/papers/2605.12460",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-11T20:00:00.000Z",
-      "abstract": "The continued improvements in language model capability have unlocked their widespread use as drivers of autonomous agents, for example in coding or computer use applications. However, the core of the",
-      "authors": [
-        "Guinan Su",
-        "Yanwu Yang",
-        "Xueyan Li",
-        "Jonas Geiping"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.12492",
-      "title": "Pion: A Spectrum-Preserving Optimizer via Orthogonal Equivalence Transformation",
-      "url": "https://huggingface.co/papers/2605.12492",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-11T20:00:00.000Z",
-      "abstract": "We introduce Pion, a spectrum-preserving optimizer for large language model (LLM) training based on orthogonal equivalence transformation. Unlike additive optimizers such as Adam and Muon, Pion update",
-      "authors": [
-        "Kexuan Shi",
-        "Hanxuan Li",
-        "Zeju Qiu",
-        "Yandong Wen",
-        "Simon Buchholz"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -519,9 +494,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Fbusiness%2Fgu",
-      "title": "How enterprises are scaling AI",
-      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fopena",
+      "title": "OpenAI Campus Network: Student club interest form",
+      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
@@ -539,9 +514,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fopena",
-      "title": "OpenAI Campus Network: Student club interest form",
-      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Fbusiness%2Fgu",
+      "title": "How enterprises are scaling AI",
+      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",

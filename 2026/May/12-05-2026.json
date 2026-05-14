@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-13T23:55:14.840Z",
+  "generatedAt": "2026-05-14T02:14:40.353Z",
   "date": "12-05-2026",
-  "count": 36,
+  "count": 37,
   "summary": null,
   "items": [
     {
@@ -110,6 +110,34 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2605.12978",
+      "title": "Useful Memories Become Faulty When Continuously Updated by LLMs",
+      "url": "https://huggingface.co/papers/2605.12978",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-12T20:00:00.000Z",
+      "abstract": "Learning from past experience benefits from two complementary forms of memory: episodic traces -- raw trajectories of what happened -- and consolidated abstractions distilled across many episodes into",
+      "authors": [
+        "Dylan Zhang",
+        "Yanshan Lin",
+        "Zhengkun Wu",
+        "Yihang Sun",
+        "Bingxuan Li"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "How to Eliminate Pipeline Friction in AI Model Serving",
       "url": "https://developer.nvidia.com/blog/how-to-eliminate-pipeline-friction-in-ai-model-serving/",
@@ -178,6 +206,32 @@
       ],
       "score": 6,
       "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2605.12492v1",
+      "title": "Pion: A Spectrum-Preserving Optimizer via Orthogonal Equivalence Transformation",
+      "url": "https://arxiv.org/abs/2605.12492v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-05-12T17:59:34Z",
+      "abstract": "We introduce Pion, a spectrum-preserving optimizer for large language model (LLM) training based on orthogonal equivalence transformation. Unlike additive optimizers such as Adam and Muon, Pion update",
+      "authors": [
+        "Kexuan Shi",
+        "Hanxuan Li",
+        "Zeju Qiu",
+        "Yandong Wen",
+        "Simon Buchholz"
+      ],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -523,28 +577,6 @@
       "points": 0
     },
     {
-      "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Ftech%2F",
-      "title": "Gemini&#8217;s latest updates are all about controlling your phone",
-      "url": "https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill",
-      "source": "The Verge AI",
-      "sourceIcon": "🔺",
-      "type": "news",
-      "timestamp": "2026-05-12T17:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "gemini"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
       "title": "How Amazon Finance streamlines regulatory inquiries by using generative AI on AWS",
       "url": "https://aws.amazon.com/blogs/machine-learning/how-amazon-finance-streamlines-regulatory-inquiries-by-using-generative-ai-on-aws/",
@@ -794,9 +826,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fnvidi",
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "url": "https://openai.com/index/nvidia",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fautos",
+      "title": "AutoScout24 scales engineering with AI-powered workflows",
+      "url": "https://openai.com/index/autoscout24",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
@@ -814,9 +846,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fautos",
-      "title": "AutoScout24 scales engineering with AI-powered workflows",
-      "url": "https://openai.com/index/autoscout24",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fnvidi",
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "url": "https://openai.com/index/nvidia",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
