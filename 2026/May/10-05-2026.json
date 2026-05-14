@@ -1,9 +1,64 @@
 {
-  "generatedAt": "2026-05-14T19:27:53.051Z",
+  "generatedAt": "2026-05-14T20:52:10.933Z",
   "date": "10-05-2026",
-  "count": 3,
+  "count": 5,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.10867",
+      "title": "BEACON: A Multimodal Dataset for Learning Behavioral Fingerprints from Gameplay Data",
+      "url": "https://huggingface.co/papers/2605.10867",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-10T20:00:00.000Z",
+      "abstract": "Continuous authentication in high-stakes digital environments requires datasets with fine-grained behavioral signals under realistic cognitive and motor demands. But current benchmarks are often limit",
+      "authors": [
+        "Ishpuneet Singh",
+        "Gursmeep Kaur",
+        "Uday Pratap Singh Atwal",
+        "Guramrit Singh",
+        "Gurjot Singh"
+      ],
+      "tags": [
+        "multimodal"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.10315",
+      "title": "Active Tabular Augmentation via Policy-Guided Diffusion Inpainting",
+      "url": "https://huggingface.co/papers/2605.10315",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-10T20:00:00.000Z",
+      "abstract": "Generative tabular augmentation is appealing in data-scarce domains, yet the prevailing focus on distributional fidelity does not reliably translate into better downstream models. We formalize a fidel",
+      "authors": [
+        "Zheyu Zhang",
+        "Shuo Yang",
+        "Bardh Prenkaj",
+        "Gjergji Kasneci"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.12556",
       "title": "M2Retinexformer: Multi-Modal Retinexformer for Low-Light Image Enhancement",
@@ -84,7 +139,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 137382,
+      "stars": 137385,
       "votes": 0,
       "points": 0
     }
