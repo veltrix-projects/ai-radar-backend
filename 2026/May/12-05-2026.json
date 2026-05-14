@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T09:12:20.144Z",
+  "generatedAt": "2026-05-14T11:24:25.263Z",
   "date": "12-05-2026",
   "count": 30,
   "summary": null,
@@ -102,6 +102,65 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.13542",
+      "title": "RealICU: Do LLM Agents Understand Long-Context ICU Data? A Benchmark Beyond Behavior Imitation",
+      "url": "https://huggingface.co/papers/2605.13542",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-12T20:00:00.000Z",
+      "abstract": "Intensive care units (ICU) generate long, dense and evolving streams of clinical information, where physicians must repeatedly reassess patient states under time pressure, underscoring a clear need fo",
+      "authors": [
+        "Chengzhi Shen",
+        "Weixiang Shen",
+        "Tobias Susetzky",
+        "Chen",
+        "Chen"
+      ],
+      "tags": [
+        "llm",
+        "agent",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.13481",
+      "title": "PersonalAI 2.0: Enhancing knowledge graph traversal/retrieval with planning mechanism for Personalized LLM Agents",
+      "url": "https://huggingface.co/papers/2605.13481",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-12T20:00:00.000Z",
+      "abstract": "We introduce PersonalAI 2.0 (PAI-2), a novel framework, designed to enhance large language model (LLM) based systems through integration of external knowledge graphs (KG). The proposed approach addres",
+      "authors": [
+        "Mikhail Menschikov",
+        "Matvey Iskornev",
+        "Alexander Kharitonov",
+        "Alina Bogdanova",
+        "Mikhail Belkin"
+      ],
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -294,60 +353,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.13775",
-      "title": "RoboEvolve: Co-Evolving Planner-Simulator for Robotic Manipulation with Limited Data",
-      "url": "https://huggingface.co/papers/2605.13775",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-12T20:00:00.000Z",
-      "abstract": "The scalability of robotic manipulation is fundamentally bottlenecked by the scarcity of task-aligned physical interaction data. While vision-language models (VLMs) and video generation models (VGMs)",
-      "authors": [
-        "Harold Haodong Chen",
-        "Sirui Chen",
-        "Yingjie Xu",
-        "Wenhang Ge",
-        "Ying-Cong Chen"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.13831",
-      "title": "Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context",
-      "url": "https://huggingface.co/papers/2605.13831",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-12T20:00:00.000Z",
-      "abstract": "Long-context modeling is becoming a core capability of modern large vision-language models (LVLMs), enabling sustained context management across long-document understanding, video analysis, and multi-",
-      "authors": [
-        "Zhaowei Wang",
-        "Lishu Luo",
-        "Haodong Duan",
-        "Weiwei Liu",
-        "Sijin Wu"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -624,9 +629,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fautos",
-      "title": "AutoScout24 scales engineering with AI-powered workflows",
-      "url": "https://openai.com/index/autoscout24",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fwhat-",
+      "title": "What Parameter Golf taught us about AI-assisted research",
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
@@ -644,9 +649,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fwhat-",
-      "title": "What Parameter Golf taught us about AI-assisted research",
-      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fautos",
+      "title": "AutoScout24 scales engineering with AI-powered workflows",
+      "url": "https://openai.com/index/autoscout24",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
