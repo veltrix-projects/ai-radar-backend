@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-14T15:39:06.826Z",
+  "generatedAt": "2026-05-14T17:41:55.197Z",
   "date": "11-05-2026",
-  "count": 21,
+  "count": 19,
   "summary": null,
   "items": [
     {
@@ -53,7 +53,33 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 155668,
+      "stars": 155673,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.08978",
+      "title": "Learning to Explore: Scaling Agentic Reasoning via Exploration-Aware Policy Optimization",
+      "url": "https://huggingface.co/papers/2605.08978",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-11T20:00:00.000Z",
+      "abstract": "Recent advancements in agentic test-time scaling allow models to gather environmental feedback before committing to final actions. A key limitation of existing methods is that they typically employ un",
+      "authors": [
+        "Xingyuan Hua",
+        "Sheng Yue",
+        "Ju Ren"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
       "votes": 0,
       "points": 0
     },
@@ -129,34 +155,6 @@
       ],
       "tags": [
         "transformer",
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.12825",
-      "title": "Orthrus: Memory-Efficient Parallel Token Generation via Dual-View Diffusion",
-      "url": "https://huggingface.co/papers/2605.12825",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-11T20:00:00.000Z",
-      "abstract": "We introduce Orthrus, a simple and efficient dual-architecture framework that unifies the exact generation fidelity of autoregressive Large Language Models (LLMs) with the high-speed parallel token ge",
-      "authors": [
-        "Chien Van Nguyen",
-        "Chaitra Hegde",
-        "Van Cuong Pham",
-        "Ryan A. Rossi",
-        "Franck Dernoncourt"
-      ],
-      "tags": [
         "diffusion"
       ],
       "score": 6,
@@ -296,26 +294,6 @@
       "points": 0
     },
     {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "AI automates HR compliance, except for the area tech companies need",
-      "url": "https://www.artificialintelligence-news.com/news/ai-automates-hr-compliance-except-for-the-area-tech-companies-need/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-05-11T14:34:05.000Z",
-      "abstract": "Artificial intelligence is transforming how companies handle compliance. Background checks run in real-time. Payroll monitoring flags discrepancies automatically. Predictive analytics anticipate emplo",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fyour-ai-",
       "title": "Your AI Use Is Breaking My Brain",
       "url": "https://www.404media.co/your-ai-use-is-breaking-my-brain/",
@@ -429,28 +407,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "Bain sees US$100 billion SaaS market in agentic AI automation",
-      "url": "https://www.artificialintelligence-news.com/news/bain-agentic-ai-saas-market/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-05-11T10:00:00.000Z",
-      "abstract": "Bain &#38; Company has estimated a US$100 billion market in the US for SaaS companies using agentic AI. The firm said the market is tied to automating coordination work in enterprise systems. The esti",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
