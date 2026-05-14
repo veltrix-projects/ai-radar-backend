@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-14T13:11:24.016Z",
+  "generatedAt": "2026-05-14T15:39:06.825Z",
   "date": "12-05-2026",
-  "count": 29,
+  "count": 27,
   "summary": null,
   "items": [
     {
@@ -304,60 +304,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.13779",
-      "title": "MinT: Managed Infrastructure for Training and Serving Millions of LLMs",
-      "url": "https://huggingface.co/papers/2605.13779",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-12T20:00:00.000Z",
-      "abstract": "We present MindLab Toolkit (MinT), a managed infrastructure system for Low-Rank Adaptation (LoRA) post-training and online serving. MinT targets a setting where many trained policies are produced over",
-      "authors": [
-        "Mind Lab",
-        "Song Cao",
-        "Vic Cao",
-        "Andrew Chen",
-        "Kaijie Chen"
-      ],
-      "tags": [
-        "llm",
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.13511",
-      "title": "Many-Shot CoT-ICL: Making In-Context Learning Truly Learn",
-      "url": "https://huggingface.co/papers/2605.13511",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-12T20:00:00.000Z",
-      "abstract": "In-context learning (ICL) adapts large language models (LLMs) to new tasks by conditioning on demonstrations in the prompt without parameter updates. With long-context models, many-shot ICL can use do",
-      "authors": [
-        "Tsz Ting Chung",
-        "Lemao Liu",
-        "Mo Yu",
-        "Dit-Yan Yeung"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "How to Eliminate Pipeline Friction in AI Model Serving",
       "url": "https://developer.nvidia.com/blog/how-to-eliminate-pipeline-friction-in-ai-model-serving/",
@@ -627,9 +573,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fwhat-",
-      "title": "What Parameter Golf taught us about AI-assisted research",
-      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fautos",
+      "title": "AutoScout24 scales engineering with AI-powered workflows",
+      "url": "https://openai.com/index/autoscout24",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
@@ -647,9 +593,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fautos",
-      "title": "AutoScout24 scales engineering with AI-powered workflows",
-      "url": "https://openai.com/index/autoscout24",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fwhat-",
+      "title": "What Parameter Golf taught us about AI-assisted research",
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",

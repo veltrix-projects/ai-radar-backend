@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-14T13:11:24.020Z",
+  "generatedAt": "2026-05-14T15:39:06.828Z",
   "date": "07-05-2026",
-  "count": 4,
+  "count": 6,
   "summary": null,
   "items": [
     {
@@ -40,6 +40,58 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.05806",
+      "title": "Retrieval from Within: An Intrinsic Capability of Attention-Based Models",
+      "url": "https://huggingface.co/papers/2605.05806",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-07T20:00:00.000Z",
+      "abstract": "Retrieval-augmented generation (RAG) typically treats retrieval and generation as separate systems. We ask whether an attention-based encoder-decoder can instead retrieve directly from its own interna",
+      "authors": [
+        "Elad Hoffer",
+        "Yochai Blau",
+        "Edan Kinderman",
+        "Ron Banner",
+        "Daniel Soudry"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.04651",
+      "title": "FAAST: Forward-Only Associative Learning via Closed-Form Fast Weights for Test-Time Supervised Adaptation",
+      "url": "https://huggingface.co/papers/2605.04651",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-07T20:00:00.000Z",
+      "abstract": "Adapting pretrained models typically involves a trade-off between the high training costs of backpropagation and the heavy inference overhead of memory-based or in-context learning. We propose FAAST,",
+      "authors": [
+        "Guangsheng Bao",
+        "Hongbo Zhang",
+        "Han Cui",
+        "Ke Sun",
+        "Yanbin Zhao"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
