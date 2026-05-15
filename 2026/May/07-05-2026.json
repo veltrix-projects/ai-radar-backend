@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-14T23:15:18.835Z",
+  "generatedAt": "2026-05-15T01:19:15.653Z",
   "date": "07-05-2026",
-  "count": 5,
+  "count": 6,
   "summary": null,
   "items": [
     {
@@ -40,6 +40,30 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.08557",
+      "title": "MC-RFM: Geometry-Aware Few-Shot Adaptation via Mixed-Curvature Riemannian Flow Matching",
+      "url": "https://huggingface.co/papers/2605.08557",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-07T20:00:00.000Z",
+      "abstract": "Parameter-efficient adaptation of pretrained vision models is commonly performed through linear probes, prompts, low-rank updates, or lightweight residual modules. While effective, these methods usual",
+      "authors": [
+        "Salim Khazem",
+        "Ibrahim Mohamed Serouis",
+        "Zakaria Ezzahed"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
