@@ -1,54 +1,28 @@
 {
-  "generatedAt": "2026-05-15T05:05:34.476Z",
+  "generatedAt": "2026-05-15T08:19:16.065Z",
   "date": "10-05-2026",
-  "count": 4,
+  "count": 3,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2605.10867",
-      "title": "BEACON: A Multimodal Dataset for Learning Behavioral Fingerprints from Gameplay Data",
-      "url": "https://huggingface.co/papers/2605.10867",
+      "id": "hf_paper_2605.10912",
+      "title": "WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation",
+      "url": "https://huggingface.co/papers/2605.10912",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-10T20:00:00.000Z",
-      "abstract": "Continuous authentication in high-stakes digital environments requires datasets with fine-grained behavioral signals under realistic cognitive and motor demands. But current benchmarks are often limit",
+      "abstract": "Large language and vision-language models increasingly power agents that act on a user's behalf through command-line interface (CLI) harnesses. However, most agent benchmarks still rely on synthetic s",
       "authors": [
-        "Ishpuneet Singh",
-        "Gursmeep Kaur",
-        "Uday Pratap Singh Atwal",
-        "Guramrit Singh",
-        "Gurjot Singh"
+        "Shuangrui Ding",
+        "Xuanlang Dai",
+        "Long Xing",
+        "Shengyuan Ding",
+        "Ziyu Liu"
       ],
       "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.10315",
-      "title": "Active Tabular Augmentation via Policy-Guided Diffusion Inpainting",
-      "url": "https://huggingface.co/papers/2605.10315",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-10T20:00:00.000Z",
-      "abstract": "Generative tabular augmentation is appealing in data-scarce domains, yet the prevailing focus on distributional fidelity does not reliably translate into better downstream models. We formalize a fidel",
-      "authors": [
-        "Zheyu Zhang",
-        "Shuo Yang",
-        "Bardh Prenkaj",
-        "Gjergji Kasneci"
-      ],
-      "tags": [
-        "diffusion"
+        "agent",
+        "benchmark"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -60,20 +34,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.12556",
-      "title": "M2Retinexformer: Multi-Modal Retinexformer for Low-Light Image Enhancement",
-      "url": "https://huggingface.co/papers/2605.12556",
+      "id": "hf_paper_2605.13880",
+      "title": "PREPING: Building Agent Memory without Tasks",
+      "url": "https://huggingface.co/papers/2605.13880",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-10T20:00:00.000Z",
-      "abstract": "Low-light image enhancement is challenging due to complex degradations, including amplified noise, artifacts, and color distortion. While Retinex-based deep learning methods have achieved promising re",
+      "abstract": "Agent memory is typically constructed either offline from curated demonstrations or online from post-deployment interactions. However, regardless of how it is built, an agent faces a cold-start gap wh",
       "authors": [
-        "Youssef Aboelwafa",
-        "Hicham G. Elmongui",
-        "Marwan Torki"
+        "Yumin Choi",
+        "Sangwoo Park",
+        "Minki Kang",
+        "Jinheon Baek",
+        "Sung Ju Hwang"
       ],
-      "tags": [],
+      "tags": [
+        "agent"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -110,7 +88,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 137395,
+      "stars": 137401,
       "votes": 0,
       "points": 0
     }

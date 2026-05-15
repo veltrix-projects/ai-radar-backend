@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-15T05:05:34.480Z",
+  "generatedAt": "2026-05-15T08:19:16.070Z",
   "date": "29-04-2026",
-  "count": 1,
+  "count": 2,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,34 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.00180",
+      "title": "RouteProfile: Elucidating the Design Space of LLM Profiles for Routing",
+      "url": "https://huggingface.co/papers/2605.00180",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-04-29T20:00:00.000Z",
+      "abstract": "As the large language model (LLM) ecosystem expands, individual models exhibit varying capabilities across queries, benchmarks, and domains, motivating the development of LLM routing. While prior work",
+      "authors": [
+        "Jingjun Xu",
+        "Hongji Pu",
+        "Tao Feng",
+        "Haozhen Zhang",
+        "Jiaxuan You"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

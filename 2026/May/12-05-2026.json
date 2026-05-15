@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-15T05:05:34.475Z",
+  "generatedAt": "2026-05-15T08:19:16.064Z",
   "date": "12-05-2026",
-  "count": 19,
+  "count": 16,
   "summary": null,
   "items": [
     {
@@ -50,15 +50,21 @@
       "points": 0
     },
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Meet AntAngelMed: A 103B-Parameter Open-Source Medical Language Model Built on a 1/32 Activation-Ratio MoE Architecture",
-      "url": "https://www.marktechpost.com/2026/05/12/meet-antangelmed-a-103b-parameter-open-source-medical-language-model-built-on-a-1-32-activation-ratio-moe-architecture/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
+      "id": "hf_paper_2605.13169",
+      "title": "PanoWorld: Towards Spatial Supersensing in 360^circ Panorama World",
+      "url": "https://huggingface.co/papers/2605.13169",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-05-12T21:21:47.000Z",
-      "abstract": "MedAIBase has released AntAngelMed, a 103B-parameter open-source medical language model that uses a 1/32 activation-ratio Mixture-of-Experts (MoE) architecture to activate only 6.1B parameters at infe",
-      "authors": [],
+      "timestamp": "2026-05-12T20:00:00.000Z",
+      "abstract": "Multimodal large laboratory models (MLLMs) still struggle with spatial understanding under the dominant perspective-image paradigm, which inherits the narrow field of view of human-like perception. Fo",
+      "authors": [
+        "Changpeng Wang",
+        "Xin Lin",
+        "Junhan Liu",
+        "Yuheng Liu",
+        "Zhen Wang"
+      ],
       "tags": [],
       "score": 8,
       "priority": "HIGH",
@@ -70,23 +76,23 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.13647",
-      "title": "FlowCompile: An Optimizing Compiler for Structured LLM Workflows",
-      "url": "https://huggingface.co/papers/2605.13647",
+      "id": "hf_paper_2605.13027",
+      "title": "PRISM: Prior Rectification and Uncertainty-Aware Structure Modeling for Diffusion-Based Text Image Super-Resolution",
+      "url": "https://huggingface.co/papers/2605.13027",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-12T20:00:00.000Z",
-      "abstract": "Structured LLM workflows, where specialized LLM sub-agents execute according to a predefined graph, have become a powerful abstraction for solving complex tasks. Optimizing such workflows, i.e., selec",
+      "abstract": "Text image super-resolution (Text-SR) requires more than visually plausible detail synthesis: slight errors in stroke topology may alter character identity and break readability. Existing methods impr",
       "authors": [
-        "Junyan Li",
-        "Zhang-Wei Hong",
-        "Maohao Shen",
-        "Yang Zhang",
-        "Chuang Gan"
+        "Zihang Xu",
+        "Xiaoyang Liu",
+        "Zheng Chen",
+        "Yulun Zhang",
+        "Xiaokang Yang"
       ],
       "tags": [
-        "llm"
+        "diffusion"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -98,103 +104,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.13841",
-      "title": "EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents",
-      "url": "https://huggingface.co/papers/2605.13841",
+      "id": "hf_paper_2605.13941",
+      "title": "EvolveMem:Self-Evolving Memory Architecture via AutoResearch for LLM Agents",
+      "url": "https://huggingface.co/papers/2605.13941",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-12T20:00:00.000Z",
-      "abstract": "Voice agents, artificial intelligence systems that conduct spoken conversations to complete tasks, are increasingly deployed across enterprise applications. However, no existing benchmark jointly addr",
+      "abstract": "Long-term memory is essential for LLM agents that operate across multiple sessions, yet existing memory systems treat retrieval infrastructure as fixed: stored content evolves while scoring functions,",
       "authors": [
-        "Tara Bogavelli",
-        "Gabrielle Gauthier Melançon",
-        "Katrina Stankiewicz",
-        "Oluwanifemi Bamgbose",
-        "Fanny Riols"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.13292",
-      "title": "IndicMedDialog: A Parallel Multi-Turn Medical Dialogue Dataset for Accessible Healthcare in Indic Languages",
-      "url": "https://huggingface.co/papers/2605.13292",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-12T20:00:00.000Z",
-      "abstract": "Most existing medical dialogue systems operate in a single-turn question--answering paradigm or rely on template-based datasets, limiting conversational realism and multilingual applicability. We intr",
-      "authors": [
-        "Shubham Kumar Nigam",
-        "Suparnojit Sarkar",
-        "Piyush Patel"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.13030",
-      "title": "FeatCal: Feature Calibration for Post-Merging Models",
-      "url": "https://huggingface.co/papers/2605.13030",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-12T20:00:00.000Z",
-      "abstract": "Model merging combines task experts into one model and avoids joint training, retraining, or deploying many expert models, but the merged model often still underperforms task experts. We study this pe",
-      "authors": [
-        "Yanggan Gu",
-        "Shuo Cai",
-        "Zihao Wang",
-        "Wenjun Wang",
-        "Yuanyi Wang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.13542",
-      "title": "RealICU: Do LLM Agents Understand Long-Context ICU Data? A Benchmark Beyond Behavior Imitation",
-      "url": "https://huggingface.co/papers/2605.13542",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-12T20:00:00.000Z",
-      "abstract": "Intensive care units (ICU) generate long, dense and evolving streams of clinical information, where physicians must repeatedly reassess patient states under time pressure, underscoring a clear need fo",
-      "authors": [
-        "Chengzhi Shen",
-        "Weixiang Shen",
-        "Tobias Susetzky",
-        "Chen",
-        "Chen"
+        "Jiaqi Liu",
+        "Xinyu Ye",
+        "Peng Xia",
+        "Zeyu Zheng",
+        "Cihang Xie"
       ],
       "tags": [
         "llm",
-        "agent",
-        "benchmark"
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -370,9 +297,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fnvidi",
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "url": "https://openai.com/index/nvidia",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fwhat-",
+      "title": "What Parameter Golf taught us about AI-assisted research",
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
@@ -390,9 +317,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fwhat-",
-      "title": "What Parameter Golf taught us about AI-assisted research",
-      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fnvidi",
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "url": "https://openai.com/index/nvidia",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",

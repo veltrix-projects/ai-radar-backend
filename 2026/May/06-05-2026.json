@@ -1,26 +1,28 @@
 {
-  "generatedAt": "2026-05-15T05:05:34.478Z",
+  "generatedAt": "2026-05-15T08:19:16.067Z",
   "date": "06-05-2026",
   "count": 2,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2605.06206",
-      "title": "Federation of Experts: Communication Efficient Distributed Inference for Large Language Models",
-      "url": "https://huggingface.co/papers/2605.06206",
+      "id": "hf_paper_2605.06527",
+      "title": "STALE: Can LLM Agents Know When Their Memories Are No Longer Valid?",
+      "url": "https://huggingface.co/papers/2605.06527",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-06T20:00:00.000Z",
-      "abstract": "Mixture of experts has emerged as the primary mechanism for making Large Language Models (LLMs) computationally efficient. However, in distributed settings, communicating token embeddings between expe",
+      "abstract": "Large Language Model (LLM) agents are increasingly expected to maintain coherent, long-term personalized memory, yet current benchmarks primarily measure static fact retrieval, overlooking the ability",
       "authors": [
-        "Muhammad Shahir Abdurrahman",
-        "Chun Deng",
-        "Azalia Mirhoseini",
-        "Philip Levis"
+        "Hanxiang Chao",
+        "Yihan Bai",
+        "Rui Sheng",
+        "Tianle Li",
+        "Yushi Sun"
       ],
       "tags": [
-        "inference"
+        "llm",
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",

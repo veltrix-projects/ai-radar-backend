@@ -1,29 +1,31 @@
 {
-  "generatedAt": "2026-05-15T05:05:34.476Z",
+  "generatedAt": "2026-05-15T08:19:16.066Z",
   "date": "09-05-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2605.09806",
-      "title": "LEAD: Length-Efficient Adaptive and Dynamic Reasoning for Large Language Models",
-      "url": "https://huggingface.co/papers/2605.09806",
+      "id": "hf_paper_2605.09681",
+      "title": "Forcing-KV: Hybrid KV Cache Compression for Efficient Autoregressive Video Diffusion Models",
+      "url": "https://huggingface.co/papers/2605.09681",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-09T20:00:00.000Z",
-      "abstract": "Large reasoning models, such as OpenAI o1 and DeepSeek-R1, tend to become increasingly verbose as their reasoning capabilities improve. These inflated Chain-of-Thought (CoT) trajectories often exceed",
+      "abstract": "Autoregressive (AR) video diffusion models adopt a streaming generation framework, enabling long-horizon video generation with real-time responsiveness, as exemplified by the Self Forcing training par",
       "authors": [
-        "Songtao Wei",
-        "Yi Li",
-        "Zhikai Li",
-        "Xu Hu",
-        "Yuede Ji"
+        "Yicheng Ji",
+        "Zhizhou Zhong",
+        "Jun Zhang",
+        "Qin Yang",
+        "XiTai Jin"
       ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "tags": [
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
