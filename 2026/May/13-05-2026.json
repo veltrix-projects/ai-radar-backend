@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-15T08:19:16.063Z",
+  "generatedAt": "2026-05-15T10:42:16.819Z",
   "date": "13-05-2026",
-  "count": 42,
+  "count": 35,
   "summary": null,
   "items": [
     {
@@ -25,15 +25,21 @@
       "points": 0
     },
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Enterprise AI Governance in 2026: Why the Tools Employees Use Are Ahead of the Policies That Cover Them",
-      "url": "https://www.marktechpost.com/2026/05/13/enterprise-ai-governance-in-2026-why-the-tools-employees-use-are-ahead-of-the-policies-that-cover-them/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
+      "id": "hf_paper_2605.14445",
+      "title": "FrontierSmith: Synthesizing Open-Ended Coding Problems at Scale",
+      "url": "https://huggingface.co/papers/2605.14445",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-05-13T21:44:37.000Z",
-      "abstract": "63% of organizations have no AI governance policy. Shadow AI is already running inside your stack — here is the data.\nThe post Enterprise AI Governance in 2026: Why the Tools Employees Use Are Ahead o",
-      "authors": [],
+      "timestamp": "2026-05-13T20:00:00.000Z",
+      "abstract": "Many real-world coding challenges are open-ended and admit no known optimal solution. Yet, recent progress in LLM coding has focused on well-defined tasks such as feature implementation, bug fixing, a",
+      "authors": [
+        "Runyuan He",
+        "Qiuyang Mang",
+        "Shang Zhou",
+        "Kaiyuan Liu",
+        "Hanchen Li"
+      ],
       "tags": [],
       "score": 6,
       "priority": "MEDIUM",
@@ -45,21 +51,27 @@
       "points": 0
     },
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Fastino Labs Open-Sources GLiGuard: A 300M Parameter Safety Moderation Model That Matches or Exceeds Accuracy of Models 23–90x Its Size",
-      "url": "https://www.marktechpost.com/2026/05/13/fastino-labs-open-sources-gliguard-a-300m-parameter-safety-moderation-model-that-matches-or-exceeds-accuracy-of-models-23-90x-its-size/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
+      "id": "hf_paper_2605.11459",
+      "title": "Overcoming Dynamics-Blindness: Training-Free Pace-and-Path Correction for VLA Models",
+      "url": "https://huggingface.co/papers/2605.11459",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-05-13T20:41:13.000Z",
-      "abstract": "Fastino Labs has released GLiGuard, a 300M parameter open-source safety moderation model that evaluates four safety tasks — prompt safety, jailbreak strategy detection, harm category classification, a",
-      "authors": [],
-      "tags": [
-        "safety"
+      "timestamp": "2026-05-13T20:00:00.000Z",
+      "abstract": "Vision-Language-Action (VLA) models achieve remarkable flexibility and generalization beyond classical control paradigms. However, most prevailing VLAs are trained under a single-frame observation par",
+      "authors": [
+        "Yanyan Zhang",
+        "Chaoda Song",
+        "Vikash Singh",
+        "Xinpeng Li",
+        "Kai Ye"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -272,117 +284,6 @@
       "tags": [
         "transformer",
         "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.15186",
-      "title": "VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction",
-      "url": "https://huggingface.co/papers/2605.15186",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-13T20:00:00.000Z",
-      "abstract": "High-quality 3D scene reconstruction has recently advanced toward generalizable feed-forward architectures, enabling the generation of complex environments in a single forward pass. However, despite t",
-      "authors": [
-        "Kaixin Zhu",
-        "Yiwen Tang",
-        "Yifan Yang",
-        "Renrui Zhang",
-        "Bohan Zeng"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.14386",
-      "title": "Darwin Family: MRI-Trust-Weighted Evolutionary Merging for Training-Free Scaling of Language-Model Reasoning",
-      "url": "https://huggingface.co/papers/2605.14386",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-13T20:00:00.000Z",
-      "abstract": "We present Darwin Family, a framework for training-free evolutionary merging of large language models via gradient-free weight-space recombination. We ask whether frontier-level reasoning performance",
-      "authors": [
-        "Taebong Kim",
-        "Youngsik Hong",
-        "Minsik Kim",
-        "Sunyoung Choi",
-        "Jaewon Jang"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.15128",
-      "title": "MemEye: A Visual-Centric Evaluation Framework for Multimodal Agent Memory",
-      "url": "https://huggingface.co/papers/2605.15128",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-13T20:00:00.000Z",
-      "abstract": "Long-term agent memory is increasingly multimodal, yet existing evaluations rarely test whether agents preserve the visual evidence needed for later reasoning. In prior work, many visually grounded qu",
-      "authors": [
-        "Minghao Guo",
-        "Qingyue Jiao",
-        "Zeru Shi",
-        "Yihao Quan",
-        "Boxuan Zhang"
-      ],
-      "tags": [
-        "multimodal",
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.15040",
-      "title": "Orchard: An Open-Source Agentic Modeling Framework",
-      "url": "https://huggingface.co/papers/2605.15040",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-13T20:00:00.000Z",
-      "abstract": "Agentic modeling aims to transform LLMs into autonomous agents capable of solving complex tasks through planning, reasoning, tool use, and multi-turn interaction with environments. Despite major inves",
-      "authors": [
-        "Baolin Peng",
-        "Wenlin Yao",
-        "Qianhui Wu",
-        "Hao Cheng",
-        "Xiao Yu"
-      ],
-      "tags": [
-        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -702,29 +603,6 @@
       "points": 0
     },
     {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "Physical AI Conference Comes to San Jose as Robotics &#038; Autonomous AI Go Mainstream",
-      "url": "https://www.artificialintelligence-news.com/news/physical-ai-conference-comes-to-san-jose-as-robotics-autonomous-ai-go-mainstream/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-05-13T13:43:38.000Z",
-      "abstract": "The Physical AI Conference shaping the future of robotics, autonomous&#160;systems&#160;and real-world AI deployment lands in Silicon Valley this May, bringing together the engineers, builders and AI",
-      "authors": [],
-      "tags": [
-        "robotics",
-        "autonomous"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fpodcast-",
       "title": "Podcast: The Chinese Deepfake Software Powering Scams",
       "url": "https://www.404media.co/podcast-the-chinese-deepfake-software-powering-scams/",
@@ -798,50 +676,6 @@
       "abstract": "",
       "authors": [],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Mira Murati&#8217;s Thinking Machines Lab Introduces Interaction Models: A Native Multimodal Architecture for Real-Time Human-AI Collaboration",
-      "url": "https://www.marktechpost.com/2026/05/13/mira-muratis-thinking-machines-lab-introduces-interaction-models-a-native-multimodal-architecture-for-real-time-human-ai-collaboration/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-05-13T09:21:33.000Z",
-      "abstract": "Thinking Machines Lab has introduced a research preview of TML-Interaction-Small, a 276B parameter Mixture-of-Experts model with 12B active parameters, built around a multi-stream, time-aligned micro-",
-      "authors": [],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Google DeepMind Introduces an AI-Enabled Mouse Pointer Powered by Gemini That Captures Visual and Semantic Context Around the Cursor",
-      "url": "https://www.marktechpost.com/2026/05/13/google-deepmind-introduces-an-ai-enabled-mouse-pointer-powered-by-gemini-that-captures-visual-and-semantic-context-around-the-cursor/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-05-13T08:16:06.000Z",
-      "abstract": "Google DeepMind researchers have outlined four interaction principles and released experimental demos of an AI-enabled mouse pointer powered by Gemini — one that captures the visual and semantic conte",
-      "authors": [],
-      "tags": [
-        "gemini"
-      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
