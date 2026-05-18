@@ -1,9 +1,61 @@
 {
-  "generatedAt": "2026-05-18T09:41:04.875Z",
+  "generatedAt": "2026-05-18T12:59:49.266Z",
   "date": "06-05-2026",
-  "count": 1,
+  "count": 3,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2604.09839",
+      "title": "Steered LLM Activations are Non-Surjective",
+      "url": "https://huggingface.co/papers/2604.09839",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-06T20:00:00.000Z",
+      "abstract": "Activation steering is a popular white-box control technique that modifies model activations to elicit an abstract change in its behavior. It has also become a standard tool in interpretability (e.g.,",
+      "authors": [
+        "Aayush Mishra",
+        "Daniel Khashabi",
+        "Anqi Liu"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.05945",
+      "title": "MobileEgo Anywhere: Open Infrastructure for long horizon egocentric data on commodity hardware",
+      "url": "https://huggingface.co/papers/2605.05945",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-06T20:00:00.000Z",
+      "abstract": "The recent advancement of Vision Language Action (VLA) models has driven a critical demand for large scale egocentric datasets. However, existing datasets are often limited by short episode durations,",
+      "authors": [
+        "Senthil Palanisamy",
+        "Abhishek Anand",
+        "Satpal Singh Rathor",
+        "Pratyush Patnaik",
+        "Shubhanshu Khatana"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "google_deepmind_https%3A%2F%2Fdeepmind.google%2Fblog%2Fa",
       "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",

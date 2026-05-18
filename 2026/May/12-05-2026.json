@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-18T09:41:04.872Z",
+  "generatedAt": "2026-05-18T12:59:49.264Z",
   "date": "12-05-2026",
-  "count": 7,
+  "count": 9,
   "summary": null,
   "items": [
     {
@@ -27,22 +27,76 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.13997",
-      "title": "HodgeCover: Higher-Order Topological Coverage Drives Compression of Sparse Mixture-of-Experts",
-      "url": "https://huggingface.co/papers/2605.13997",
+      "id": "hf_paper_2605.12882",
+      "title": "CiteVQA: Benchmarking Evidence Attribution for Trustworthy Document Intelligence",
+      "url": "https://huggingface.co/papers/2605.12882",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-12T20:00:00.000Z",
-      "abstract": "Sparse Mixture-of-Experts (MoE) layers route tokens through a handful of experts, and learning-free compression of these layers reduces inference cost without retraining. A subtle obstruction blocks e",
+      "abstract": "Multimodal Large Language Models (MLLMs) have significantly advanced document understanding, yet current Doc-VQA evaluations score only the final answer and leave the supporting evidence unchecked. Th",
       "authors": [
-        "Tao Zhong",
-        "Dongzhe Zheng",
-        "Christine Allen-Blanchette"
+        "Dongsheng Ma",
+        "Jiayu Li",
+        "Zhengren Wang",
+        "Yijie Wang",
+        "Jiahao Kong"
       ],
       "tags": [
-        "rag"
+        "benchmark"
       ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.11739",
+      "title": "Learning to Foresee: Unveiling the Unlocking Efficiency of On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2605.11739",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-12T20:00:00.000Z",
+      "abstract": "On-policy distillation (OPD) has emerged as an efficient post-training paradigm for large language models. However, existing studies largely attribute this advantage to denser and more stable supervis",
+      "authors": [
+        "Yuchen Cai",
+        "Ding Cao",
+        "Liang Lin",
+        "Chunxi Luo",
+        "Xin Xu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.13740",
+      "title": "Learning POMDP World Models from Observations with Language-Model Priors",
+      "url": "https://huggingface.co/papers/2605.13740",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-12T20:00:00.000Z",
+      "abstract": "Whether navigating a building, operating a robot, or playing a game, an agent that acts effectively in an environment must first learn an internal model of how that environment works. Partially-observ",
+      "authors": [
+        "Valentin Six",
+        "Frederik Panse",
+        "Mathis Fajeau",
+        "Lancelot Da Costa",
+        "Mridul Sharma"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

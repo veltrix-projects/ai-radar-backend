@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-05-18T09:41:04.871Z",
+  "generatedAt": "2026-05-18T12:59:49.263Z",
   "date": "13-05-2026",
-  "count": 30,
+  "count": 31,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.15298",
+      "title": "PhysBrain 1.0 Technical Report",
+      "url": "https://huggingface.co/papers/2605.15298",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-13T20:00:00.000Z",
+      "abstract": "Vision-language-action models have advanced rapidly, but robot trajectories alone provide limited coverage for learning broad physical understanding. PhysBrain 1.0 studies a complementary route: conve",
+      "authors": [
+        "Shijie Lian",
+        "Bin Yu",
+        "Xiaopeng Lin",
+        "Changti Wu",
+        "Hang Yuan"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.15181",
       "title": "From Plans to Pixels: Learning to Plan and Orchestrate for Open-Ended Image Editing",
@@ -164,20 +190,19 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.15256",
-      "title": "ReactiveGWM: Steering NPC in Reactive Game World Models",
-      "url": "https://huggingface.co/papers/2605.15256",
+      "id": "hf_paper_2605.15375",
+      "title": "ChangeFlow -- Latent Rectified Flow for Change Detection in Remote Sensing",
+      "url": "https://huggingface.co/papers/2605.15375",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-13T20:00:00.000Z",
-      "abstract": "Current game world models simulate environments from a subjective, player-centric perspective. However, by treating the Non-Player Character (NPC) merely as background pixels, these models cannot capt",
+      "abstract": "Remote sensing change detection (RSCD) aims to localise changes between two images of the same geographic region. In practice, change masks often follow region-level annotation conventions rather than",
       "authors": [
-        "Zeqing Wang",
-        "Danze Chen",
-        "Zhaohu Xing",
-        "Zizhao Tong",
-        "Yinhan Zhang"
+        "Blaž Rolih",
+        "Matic Fučka",
+        "Filip Wolf",
+        "Luka Čehovin Zajc"
       ],
       "tags": [],
       "score": 6,
@@ -190,25 +215,21 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.15193",
-      "title": "Aligning Latent Geometry for Spherical Flow Matching in Image Generation",
-      "url": "https://huggingface.co/papers/2605.15193",
+      "id": "hf_paper_2605.15250",
+      "title": "GQLA: Group-Query Latent Attention for Hardware-Adaptive Large Language Model Decoding",
+      "url": "https://huggingface.co/papers/2605.15250",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-13T20:00:00.000Z",
-      "abstract": "Latent flow matching for image generation usually transports Gaussian noise to variational autoencoder latents along linear paths. Both endpoints, however, concentrate in thin spherical shells, and a",
+      "abstract": "Multi-head Latent Attention (MLA), the attention used in DeepSeek-V2/V3, jointly compresses keys and values into a low-rank latent and matches the H100 roofline almost perfectly. Its trained weights,",
       "authors": [
-        "Tuna Han Salih Meral",
-        "Kaan Oktay",
-        "Hidir Yesiltepe",
-        "Adil Kaan Akan",
-        "Pinar Yanardag"
+        "Fanxu Meng"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
