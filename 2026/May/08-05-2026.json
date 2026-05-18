@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T05:37:56.365Z",
+  "generatedAt": "2026-05-18T09:41:04.874Z",
   "date": "08-05-2026",
   "count": 5,
   "summary": null,
@@ -25,24 +25,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.08703",
-      "title": "RewardHarness: Self-Evolving Agentic Post-Training",
-      "url": "https://huggingface.co/papers/2605.08703",
+      "id": "hf_paper_2605.08614",
+      "title": "DiagnosticIQ: A Benchmark for LLM-Based Industrial Maintenance Action Recommendation from Symbolic Rules",
+      "url": "https://huggingface.co/papers/2605.08614",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-08T20:00:00.000Z",
-      "abstract": "Evaluating instruction-guided image edits requires rewards that reflect subtle human preferences, yet current reward models typically depend on large-scale preference annotation and additional model t",
+      "abstract": "Monitoring complex industrial assets relies on engineer-authored symbolic rules that trigger based on sensor conditions and prompt technicians to perform corrective actions. The bottleneck is not dete",
       "authors": [
-        "Yuxuan Zhang",
-        "Penghui Du",
-        "Bo Li",
-        "Cong Wei",
-        "Junwen Miao"
+        "Devin Yasith De Silva",
+        "Dhaval Patel",
+        "Christodoulos Constantinides",
+        "Shuxin Lin",
+        "Nianjun Zhou"
       ],
       "tags": [
-        "agent",
-        "training"
+        "llm",
+        "benchmark"
       ],
       "score": 6,
       "priority": "MEDIUM",

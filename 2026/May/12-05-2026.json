@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-18T05:37:56.363Z",
+  "generatedAt": "2026-05-18T09:41:04.872Z",
   "date": "12-05-2026",
-  "count": 10,
+  "count": 7,
   "summary": null,
   "items": [
     {
@@ -27,104 +27,21 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.12034",
-      "title": "Boosting Omni-Modal Language Models: Staged Post-Training with Visually Debiased Evaluation",
-      "url": "https://huggingface.co/papers/2605.12034",
+      "id": "hf_paper_2605.13997",
+      "title": "HodgeCover: Higher-Order Topological Coverage Drives Compression of Sparse Mixture-of-Experts",
+      "url": "https://huggingface.co/papers/2605.13997",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-12T20:00:00.000Z",
-      "abstract": "Omni-modal language models are intended to jointly understand audio, visual inputs, and language, but benchmark gains can be inflated when visual evidence alone is enough to answer a query. We study w",
+      "abstract": "Sparse Mixture-of-Experts (MoE) layers route tokens through a handful of experts, and learning-free compression of these layers reduces inference cost without retraining. A subtle obstruction blocks e",
       "authors": [
-        "Che Liu",
-        "Lichao Ma",
-        "Xiangyu Tony Zhang",
-        "Yuxin Zhang",
-        "Haoyang Zhang"
+        "Tao Zhong",
+        "Dongzhe Zheng",
+        "Christine Allen-Blanchette"
       ],
       "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.14068",
-      "title": "CurveBench: A Benchmark for Exact Topological Reasoning over Nested Jordan Curves",
-      "url": "https://huggingface.co/papers/2605.14068",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-12T20:00:00.000Z",
-      "abstract": "We introduce CurveBench, a benchmark for hierarchical topological reasoning from visual input. CurveBench consists of 756 images of pairwise non-intersecting Jordan curves across easy, polygonal, topo",
-      "authors": [
-        "Amirreza Mohseni",
-        "Mona Mohammadi",
-        "Morteza Saghafian",
-        "Naser Talebizadeh Saradari"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.13169",
-      "title": "PanoWorld: Towards Spatial Supersensing in 360^circ Panorama World",
-      "url": "https://huggingface.co/papers/2605.13169",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-12T20:00:00.000Z",
-      "abstract": "Multimodal large laboratory models (MLLMs) still struggle with spatial understanding under the dominant perspective-image paradigm, which inherits the narrow field of view of human-like perception. Fo",
-      "authors": [
-        "Changpeng Wang",
-        "Xin Lin",
-        "Junhan Liu",
-        "Yuheng Liu",
-        "Zhen Wang"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.13027",
-      "title": "PRISM: Prior Rectification and Uncertainty-Aware Structure Modeling for Diffusion-Based Text Image Super-Resolution",
-      "url": "https://huggingface.co/papers/2605.13027",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-12T20:00:00.000Z",
-      "abstract": "Text image super-resolution (Text-SR) requires more than visually plausible detail synthesis: slight errors in stroke topology may alter character identity and break readability. Existing methods impr",
-      "authors": [
-        "Zihang Xu",
-        "Xiaoyang Liu",
-        "Zheng Chen",
-        "Yulun Zhang",
-        "Xiaokang Yang"
-      ],
-      "tags": [
-        "diffusion"
+        "rag"
       ],
       "score": 6,
       "priority": "MEDIUM",
