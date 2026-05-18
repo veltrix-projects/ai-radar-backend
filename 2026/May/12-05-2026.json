@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-18T18:17:26.676Z",
+  "generatedAt": "2026-05-18T20:09:34.112Z",
   "date": "12-05-2026",
-  "count": 8,
+  "count": 9,
   "summary": null,
   "items": [
     {
@@ -20,6 +20,28 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.14040",
+      "title": "Physics-R1: An Audited Olympiad Corpus and Recipe for Visual Physics Reasoning",
+      "url": "https://huggingface.co/papers/2605.14040",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-12T20:00:00.000Z",
+      "abstract": "We audit the multimodal-physics evaluation pipeline end-to-end and document three undetected construction practices that distort how the field measures vision-language reasoning: train-eval contaminat",
+      "authors": [
+        "Shan Yang"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
