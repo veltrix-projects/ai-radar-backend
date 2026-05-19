@@ -1,9 +1,38 @@
 {
-  "generatedAt": "2026-05-18T23:56:31.811Z",
+  "generatedAt": "2026-05-19T02:45:49.052Z",
   "date": "13-05-2026",
-  "count": 20,
+  "count": 22,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.14271",
+      "title": "Auditing Agent Harness Safety",
+      "url": "https://huggingface.co/papers/2605.14271",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-13T20:00:00.000Z",
+      "abstract": "LLM agents increasingly run inside execution harnesses that dispatch tools, allocate resources, and route messages between specialized components. However, a harness can return a correct, benign answe",
+      "authors": [
+        "Chengzhi Liu",
+        "Yichen Guo",
+        "Yepeng Liu",
+        "Yuzhe Yang",
+        "Qianqi Yan"
+      ],
+      "tags": [
+        "agent",
+        "safety"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.14212",
       "title": "MetaAgent-X : Breaking the Ceiling of Automatic Multi-Agent Systems via End-to-End Reinforcement Learning",
@@ -336,6 +365,29 @@
       ],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "Physical AI Conference Comes to San Jose as Robotics &#038; Autonomous AI Go Mainstream",
+      "url": "https://www.artificialintelligence-news.com/news/physical-ai-conference-comes-to-san-jose-as-robotics-autonomous-ai-go-mainstream/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-05-13T13:43:38.000Z",
+      "abstract": "The Physical AI Conference shaping the future of robotics, autonomous&#160;systems&#160;and real-world AI deployment lands in Silicon Valley this May, bringing together the engineers, builders and AI",
+      "authors": [],
+      "tags": [
+        "robotics",
+        "autonomous"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

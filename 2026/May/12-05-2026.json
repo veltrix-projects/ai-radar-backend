@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-18T23:56:31.812Z",
+  "generatedAt": "2026-05-19T02:45:49.053Z",
   "date": "12-05-2026",
-  "count": 5,
+  "count": 7,
   "summary": null,
   "items": [
     {
@@ -75,34 +75,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.12882",
-      "title": "CiteVQA: Benchmarking Evidence Attribution for Trustworthy Document Intelligence",
-      "url": "https://huggingface.co/papers/2605.12882",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-12T20:00:00.000Z",
-      "abstract": "Multimodal Large Language Models (MLLMs) have significantly advanced document understanding, yet current Doc-VQA evaluations score only the final answer and leave the supporting evidence unchecked. Th",
-      "authors": [
-        "Dongsheng Ma",
-        "Jiayu Li",
-        "Zhengren Wang",
-        "Yijie Wang",
-        "Jiahao Kong"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "How to Eliminate Pipeline Friction in AI Model Serving",
       "url": "https://developer.nvidia.com/blog/how-to-eliminate-pipeline-friction-in-ai-model-serving/",
@@ -116,6 +88,68 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "JBS Dev: On imperfect data and the AI last mile – from model capability to cost sustainability",
+      "url": "https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-05-12T15:37:43.000Z",
+      "abstract": "Joe Rose, president at strategic technology provider JBS Dev, wants to cut through one of the myths of working with generative and agentic AI systems. “It’s a common misconception that your data has t",
+      "authors": [],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "Hugging Face hosted malicious software masquerading as OpenAI release",
+      "url": "https://www.artificialintelligence-news.com/news/malware-on-hugging-face-malicious-software-masquerading-as-openai-release/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-05-12T13:52:00.000Z",
+      "abstract": "A malicious Hugging Face repository that posed as an OpenAI release delivered infostealer malware to Windows machines and recorded about 244,000 downloads before removal, according to research from AI",
+      "authors": [],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "Laserfiche unveils AI agents for natural language workflows",
+      "url": "https://www.artificialintelligence-news.com/news/laserfiche-ai-agents-act-autonomously-for-the-platforms-users/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-05-12T08:57:13.000Z",
+      "abstract": "Laserfiche has announced the release of AI agents that can help perform tasks through natural language prompts. Intelligent assistants follow Laserfiche&#8217;s integrated security rules and complianc",
+      "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
