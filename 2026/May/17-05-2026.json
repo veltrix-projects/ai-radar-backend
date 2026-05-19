@@ -1,9 +1,141 @@
 {
-  "generatedAt": "2026-05-19T18:53:55.846Z",
+  "generatedAt": "2026-05-19T20:24:44.625Z",
   "date": "17-05-2026",
-  "count": 14,
+  "count": 16,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.17757",
+      "title": "OSCAR: Offline Spectral Covariance-Aware Rotation for 2-bit KV Cache Quantization",
+      "url": "https://huggingface.co/papers/2605.17757",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-17T20:00:00.000Z",
+      "abstract": "INT2 KV-cache quantization is attractive for long-context LLM serving, but it remains difficult to make both accurate and deployable. Simple rotations such as Hadamard transforms reduce outliers, but",
+      "authors": [
+        "Zhongzhu Zhou",
+        "Donglin Zhuang",
+        "Jisen Li",
+        "Ziyan Chen",
+        "Shuaiwen Leon Song"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.18749",
+      "title": "WavFlow: Audio Generation in Waveform Space",
+      "url": "https://huggingface.co/papers/2605.18749",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-17T20:00:00.000Z",
+      "abstract": "Modern audio generation predominantly relies on latent-space compression, introducing additional complexity and potential information loss. In this work, we challenge this paradigm with WavFlow, a fra",
+      "authors": [
+        "Feiyan Zhou",
+        "Luyuan Wang",
+        "Shoufa Chen",
+        "Zhe Wang",
+        "Zhiheng Liu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.18630",
+      "title": "SCICONVBENCH: Benchmarking LLMs on Multi-Turn Clarification for Task Formulation in Computational Science",
+      "url": "https://huggingface.co/papers/2605.18630",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-17T20:00:00.000Z",
+      "abstract": "Large Language Models (LLMs) are increasingly deployed as scientific AI as- sistants, and a growing body of benchmarks evaluates their capabilities across knowledge retrieval, reasoning, code generati",
+      "authors": [
+        "Nithin Somasekharan",
+        "Youssef Hassan",
+        "Shiyao Lin",
+        "Gihan Panapitiya",
+        "Patrick Emami"
+      ],
+      "tags": [
+        "llm",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.18106",
+      "title": "Symmetry-Compatible Principle for Optimizer Design: Embeddings, LM Heads, SwiGLU MLPs, and MoE Routers",
+      "url": "https://huggingface.co/papers/2605.18106",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-17T20:00:00.000Z",
+      "abstract": "A striking geometric disparity has long persisted in the practice of deep learning. While modern neural network architectures naturally exhibit rich symmetry and equivariance properties, popular optim",
+      "authors": [
+        "Tim Tsz-Kit Lau",
+        "Weijie Su"
+      ],
+      "tags": [
+        "embeddings"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.18727",
+      "title": "DexHoldem: Playing Texas Hold'em with Dexterous Embodied System",
+      "url": "https://huggingface.co/papers/2605.18727",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-17T20:00:00.000Z",
+      "abstract": "Evaluating embodied systems on real dexterous hardware requires more than isolated primitive skills: an agent must perceive a changing tabletop scene, choose a context-appropriate action, execute it w",
+      "authors": [
+        "Feng Chen",
+        "Tianzhe Chu",
+        "Li Sun",
+        "Pei Zhou",
+        "Zhuxiu Xu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.17894",
       "title": "Evaluating Cognitive Age Alignment in Interactive AI Agents",
@@ -81,88 +213,6 @@
       "tags": [
         "diffusion",
         "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.18549",
-      "title": "Monitoring the Internal Monologue: Probe Trajectories Reveal Reasoning Dynamics",
-      "url": "https://huggingface.co/papers/2605.18549",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-17T20:00:00.000Z",
-      "abstract": "Large Reasoning Models (LRMs) introduce new opportunities for safety monitoring through their Chain of Thought (CoT) reasoning. However, CoT is not always faithful to the model's final output, undermi",
-      "authors": [
-        "Maciej Chrabąszcz",
-        "Aleksander Szymczyk",
-        "Marcin Sendera",
-        "Tomasz Trzciński",
-        "Sebastian Cygert"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.18401",
-      "title": "SkillsVote: Lifecycle Governance of Agent Skills from Collection, Recommendation to Evolution",
-      "url": "https://huggingface.co/papers/2605.18401",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-17T20:00:00.000Z",
-      "abstract": "Long-horizon LLM agents leave traces that could become reusable experience, but raw trajectories are noisy and hard to govern. We treat Agent Skills as an experience schema that couples executable scr",
-      "authors": [
-        "Hongyi Liu",
-        "Haoyan Yang",
-        "Tao Jiang",
-        "Bo Tang",
-        "Feiyu Xiong"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.18451",
-      "title": "Code-as-Room: Generating 3D Rooms from Top-Down View Images via Agentic Code Synthesis",
-      "url": "https://huggingface.co/papers/2605.18451",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-17T20:00:00.000Z",
-      "abstract": "Designing realistic and functional 3D indoor rooms is essential for a wide range of applications, including interior design, virtual reality, gaming, and embodied AI. While recent MLLM-based approache",
-      "authors": [
-        "Yixuan Yang",
-        "Zhen Luo",
-        "Wanshui Gan",
-        "Jinkun Hao",
-        "Junru Lu"
-      ],
-      "tags": [
-        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
