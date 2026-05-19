@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-19T02:45:49.051Z",
+  "generatedAt": "2026-05-19T06:40:50.291Z",
   "date": "15-05-2026",
-  "count": 16,
+  "count": 18,
   "summary": null,
   "items": [
     {
@@ -77,6 +77,60 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.16819",
+      "title": "AgentKernelArena: Generalization-Aware Benchmarking of GPU Kernel Optimization Agents",
+      "url": "https://huggingface.co/papers/2605.16819",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-15T20:00:00.000Z",
+      "abstract": "GPU kernel optimization is increasingly critical for efficient deep learning systems, but writing high-performance kernels still requires substantial low-level expertise. Recent AI coding agents can i",
+      "authors": [
+        "Sharareh Younesian",
+        "Wenwen Ouyang",
+        "Sina Rafati",
+        "Mehdi Rezagholizadeh",
+        "Sharon Zhou"
+      ],
+      "tags": [
+        "agent",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.16839",
+      "title": "CompactAttention: Accelerating Chunked Prefill with Block-Union KV Selection",
+      "url": "https://huggingface.co/papers/2605.16839",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-15T20:00:00.000Z",
+      "abstract": "Chunked prefill has become a widely adopted serving strategy for long-context large language models, but efficient attention computation in this regime remains challenging. Existing sparse attention m",
+      "authors": [
+        "Jiwon Song",
+        "Dongwon Jo",
+        "Beomseok Kang",
+        "Jae-Joon Kim"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -233,7 +287,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 137637,
+      "stars": 137671,
       "votes": 0,
       "points": 0
     },

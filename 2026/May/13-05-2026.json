@@ -1,28 +1,27 @@
 {
-  "generatedAt": "2026-05-19T02:45:49.052Z",
+  "generatedAt": "2026-05-19T06:40:50.292Z",
   "date": "13-05-2026",
-  "count": 22,
+  "count": 17,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2605.14271",
-      "title": "Auditing Agent Harness Safety",
-      "url": "https://huggingface.co/papers/2605.14271",
+      "id": "hf_paper_2605.14278",
+      "title": "KVPO: ODE-Native GRPO for Autoregressive Video Alignment via KV Semantic Exploration",
+      "url": "https://huggingface.co/papers/2605.14278",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-13T20:00:00.000Z",
-      "abstract": "LLM agents increasingly run inside execution harnesses that dispatch tools, allocate resources, and route messages between specialized components. However, a harness can return a correct, benign answe",
+      "abstract": "Aligning streaming autoregressive (AR) video generators with human preferences is challenging. Existing reinforcement learning methods predominantly rely on noise-based exploration and SDE-based surro",
       "authors": [
-        "Chengzhi Liu",
-        "Yichen Guo",
-        "Yepeng Liu",
-        "Yuzhe Yang",
-        "Qianqi Yan"
+        "Ruicheng Zhang",
+        "Kaixi Cong",
+        "Jun Zhou",
+        "Zhizhou Zhong",
+        "Zunnan Xu"
       ],
       "tags": [
-        "agent",
-        "safety"
+        "alignment"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -34,154 +33,25 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.14212",
-      "title": "MetaAgent-X : Breaking the Ceiling of Automatic Multi-Agent Systems via End-to-End Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2605.14212",
+      "id": "hf_paper_2605.14368",
+      "title": "Where Should Diffusion Enter a Language Model? Geometry-Guided Hidden-State Replacement",
+      "url": "https://huggingface.co/papers/2605.14368",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-13T20:00:00.000Z",
-      "abstract": "Automatic multi-agent systems aim to instantiate agent workflows without relying on manually designed or fixed orchestration. However, existing automatic MAS approaches remain only partially adaptive:",
+      "abstract": "Continuous diffusion language models lag behind autoregressive transformers, partly because diffusion is applied in spaces poorly suited to language denoising and token recovery. We propose DiHAL, a g",
       "authors": [
-        "Yaolun Zhang",
-        "Yujie Zhao",
-        "Nan Wang",
-        "Yiran Wu",
-        "Jiayu Chang"
+        "Injin Kong",
+        "Hyoungjoon Lee",
+        "Yohan Jo"
       ],
       "tags": [
-        "agent",
-        "reinforcement learning"
+        "diffusion"
       ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2506.01015",
-      "title": "AuralSAM2: Enabling SAM2 Hear Through Pyramid Audio-Visual Feature Prompting",
-      "url": "https://huggingface.co/papers/2506.01015",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-13T20:00:00.000Z",
-      "abstract": "Segment Anything Model 2 (SAM2) exhibits strong generalisation for promptable segmentation in video clips; however, its integration with the audio modality remains underexplored. Existing approaches e",
-      "authors": [
-        "Yuyuan Liu",
-        "Yuanhong Chen",
-        "Chong Wang",
-        "Junlin Han",
-        "Junde Wu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.14786",
-      "title": "Known By Their Actions: Fingerprinting LLM Browser Agents via UI Traces",
-      "url": "https://huggingface.co/papers/2605.14786",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-13T20:00:00.000Z",
-      "abstract": "As LLM-based agents increasingly browse the web on users' behalf, a natural question arises: can websites passively identify which underlying model powers an agent? Doing so would represent a signific",
-      "authors": [
-        "William Lugoloobi",
-        "Samuelle Marro",
-        "Jabez Magomere",
-        "Joss Wright",
-        "Chris Russell"
-      ],
-      "tags": [
-        "llm",
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.15138",
-      "title": "Forgetting That Sticks: Quantization-Permanent Unlearning via Circuit Attribution",
-      "url": "https://huggingface.co/papers/2605.15138",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-13T20:00:00.000Z",
-      "abstract": "Standard unlearning evaluations measure behavioral suppression in full precision, immediately after training, despite every deployed language model being quantized first. Recent work has shown that 4-",
-      "authors": [
-        "Saisab Sadhu",
-        "Pratinav Seth",
-        "Vinay Kumar Sankarapu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.15375",
-      "title": "ChangeFlow -- Latent Rectified Flow for Change Detection in Remote Sensing",
-      "url": "https://huggingface.co/papers/2605.15375",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-13T20:00:00.000Z",
-      "abstract": "Remote sensing change detection (RSCD) aims to localise changes between two images of the same geographic region. In practice, change masks often follow region-level annotation conventions rather than",
-      "authors": [
-        "Blaž Rolih",
-        "Matic Fučka",
-        "Filip Wolf",
-        "Luka Čehovin Zajc"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.15250",
-      "title": "GQLA: Group-Query Latent Attention for Hardware-Adaptive Large Language Model Decoding",
-      "url": "https://huggingface.co/papers/2605.15250",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-13T20:00:00.000Z",
-      "abstract": "Multi-head Latent Attention (MLA), the attention used in DeepSeek-V2/V3, jointly compresses keys and values into a low-rank latent and matches the H100 roofline almost perfectly. Its trained weights,",
-      "authors": [
-        "Fanxu Meng"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

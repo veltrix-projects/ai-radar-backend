@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-19T02:45:49.052Z",
+  "generatedAt": "2026-05-19T06:40:50.291Z",
   "date": "14-05-2026",
-  "count": 18,
+  "count": 16,
   "summary": null,
   "items": [
     {
@@ -27,75 +27,22 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.15592",
-      "title": "Efficient Image Synthesis with Sphere Latent Encoder",
-      "url": "https://huggingface.co/papers/2605.15592",
+      "id": "hf_paper_2605.15572",
+      "title": "Measuring Maximum Activations in Open Large Language Models",
+      "url": "https://huggingface.co/papers/2605.15572",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-14T20:00:00.000Z",
-      "abstract": "Few-step image generation has seen rapid progress, with consistency and meanflow-based methods significantly reducing the number of sampling steps. Despite their low inference cost, these approaches o",
+      "abstract": "The dynamic range of activations is a first-order constraint for low-bit quantization, activation scaling, and stable LLM inference. Prior work characterized outlier features and massive activations o",
       "authors": [
-        "Tung Do",
-        "Thuan Hoang Nguyen",
-        "Hao Li"
+        "Luxuan Chen",
+        "Han Tian",
+        "Xinran Chen",
+        "Rui Kong",
+        "Fang Wang"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.15961",
-      "title": "Sparse Autoencoders enable Robust and Interpretable Fine-tuning of CLIP models",
-      "url": "https://huggingface.co/papers/2605.15961",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-14T20:00:00.000Z",
-      "abstract": "Large-scale pre-trained vision-language models like CLIP demonstrate remarkable zero-shot performance across diverse tasks. However, fine-tuning these models to improve downstream performance often de",
-      "authors": [
-        "Fabian Morelli",
-        "Arnas Uselis",
-        "Ankit Sonthalia",
-        "Seong Joon Oh"
-      ],
-      "tags": [
-        "fine-tuning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.15597",
-      "title": "CM-EVS: Sparse Panoramic RGB-D-Pose Data for Complete Scene Coverage",
-      "url": "https://huggingface.co/papers/2605.15597",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-14T20:00:00.000Z",
-      "abstract": "Modern 3D visual learning relies on observations sampled from metric 3D assets, yet existing scans, meshes, point clouds, simulations, and reconstructions do not directly provide a sparse, comparable,",
-      "authors": [
-        "Jiale Liu",
-        "Jungang Li",
-        "Jieming Yu",
-        "Xinglin Yu",
-        "Zihao Dongfang"
-      ],
-      "tags": [
-        "rag"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
