@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-19T13:49:56.255Z",
+  "generatedAt": "2026-05-19T16:44:54.856Z",
   "date": "17-05-2026",
-  "count": 19,
+  "count": 18,
   "summary": null,
   "items": [
     {
@@ -18,6 +18,35 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.17894",
+      "title": "Evaluating Cognitive Age Alignment in Interactive AI Agents",
+      "url": "https://huggingface.co/papers/2605.17894",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-17T20:00:00.000Z",
+      "abstract": "While agentic AI and its core multimodal large language models (MLLMs) have demonstrated remarkable promise in language and visual reasoning across domains ranging from daily life to advanced scientif",
+      "authors": [
+        "Yifan Shen",
+        "Jiawen Zhang",
+        "Jian Xu",
+        "Junho Kim",
+        "Ismini Lourentzou"
+      ],
+      "tags": [
+        "agent",
+        "alignment"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -205,60 +234,6 @@
         "Zhao Pu",
         "Zhilei Shu",
         "Xiangrui Ke"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.17933",
-      "title": "AtlasVA: Self-Evolving Visual Skill Memory for Teacher-Free VLM Agents",
-      "url": "https://huggingface.co/papers/2605.17933",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-17T20:00:00.000Z",
-      "abstract": "Vision-language model (VLM) agents increasingly rely on memory-augmented reinforcement learning to reuse experience across long-horizon tasks, yet most existing frameworks store memory as text and dep",
-      "authors": [
-        "Pan Wang",
-        "Yihao Hu",
-        "Xiujin Liu",
-        "Jingchu Yang",
-        "Hang Wang"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.18743",
-      "title": "Actionable World Representation",
-      "url": "https://huggingface.co/papers/2605.18743",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-17T20:00:00.000Z",
-      "abstract": "Inspired by the emergent behaviors in large language models that generalized human intelligence, the research community is pursuing similar emergent capabilities within world models, with a emphasis o",
-      "authors": [
-        "Kunqi Xu",
-        "Jitao Li",
-        "Jianglong Ye",
-        "Tianshu Tang",
-        "Isabella Liu"
       ],
       "tags": [],
       "score": 6,
