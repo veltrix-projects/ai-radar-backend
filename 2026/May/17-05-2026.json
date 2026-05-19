@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-19T06:40:50.289Z",
+  "generatedAt": "2026-05-19T10:32:52.084Z",
   "date": "17-05-2026",
-  "count": 21,
+  "count": 19,
   "summary": null,
   "items": [
     {
@@ -25,20 +25,75 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.18396",
-      "title": "NEWTON: Agentic Planning for Physically Grounded Video Generation",
-      "url": "https://huggingface.co/papers/2605.18396",
+      "id": "hf_paper_2605.18719",
+      "title": "SafeDiffusion-R1: Online Reward Steering for Safe Diffusion Post-Training",
+      "url": "https://huggingface.co/papers/2605.18719",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-17T20:00:00.000Z",
-      "abstract": "Video generation models produce visually compelling results but systematically violate physical commonsense -- on VideoPhy-2, the best model achieves only 32.6% joint accuracy. We identify a specifica",
+      "abstract": "Diffusion models have been widely studied for removing unsafe content learned during pre-training. Existing methods require expensive supervised data, either unsafe-text paired with safe-image groundt",
       "authors": [
-        "Yuxiang Feng",
-        "Juncheng Wang",
-        "Chao Xu",
-        "Yijie Qian",
-        "Huihan Wang"
+        "Komal Kumar",
+        "Ankan Deria",
+        "Abhishek Basu",
+        "Fahad Shamshad",
+        "Hisham Cholakkal"
+      ],
+      "tags": [
+        "diffusion",
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.18549",
+      "title": "Monitoring the Internal Monologue: Probe Trajectories Reveal Reasoning Dynamics",
+      "url": "https://huggingface.co/papers/2605.18549",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-17T20:00:00.000Z",
+      "abstract": "Large Reasoning Models (LRMs) introduce new opportunities for safety monitoring through their Chain of Thought (CoT) reasoning. However, CoT is not always faithful to the model's final output, undermi",
+      "authors": [
+        "Maciej Chrabąszcz",
+        "Aleksander Szymczyk",
+        "Marcin Sendera",
+        "Tomasz Trzciński",
+        "Sebastian Cygert"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.18401",
+      "title": "SkillsVote: Lifecycle Governance of Agent Skills from Collection, Recommendation to Evolution",
+      "url": "https://huggingface.co/papers/2605.18401",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-17T20:00:00.000Z",
+      "abstract": "Long-horizon LLM agents leave traces that could become reusable experience, but raw trajectories are noisy and hard to govern. We treat Agent Skills as an experience schema that couples executable scr",
+      "authors": [
+        "Hongyi Liu",
+        "Haoyan Yang",
+        "Tao Jiang",
+        "Bo Tang",
+        "Feiyu Xiong"
       ],
       "tags": [
         "agent"
@@ -205,112 +260,6 @@
       "tags": [
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.18678",
-      "title": "Lance: Unified Multimodal Modeling by Multi-Task Synergy",
-      "url": "https://huggingface.co/papers/2605.18678",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-17T20:00:00.000Z",
-      "abstract": "We present Lance, a lightweight native unified model supporting multimodal understanding, generation, and editing for both images and videos. Rather than relying on model capacity scaling or text-imag",
-      "authors": [
-        "Fengyi Fu",
-        "Mengqi Huang",
-        "Shaojin Wu",
-        "Yunsheng Jiang",
-        "Yufei Huo"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.18643",
-      "title": "Post-Trained MoE Can Skip Half Experts via Self-Distillation",
-      "url": "https://huggingface.co/papers/2605.18643",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-17T20:00:00.000Z",
-      "abstract": "Mixture-of-Experts (MoE) scales language models efficiently through sparse expert activation, and its dynamic variant further reduces computation by adjusting the activated experts in an input-depende",
-      "authors": [
-        "Xingtai Lv",
-        "Li Sheng",
-        "Kaiyan Zhang",
-        "Yichen You",
-        "Siyan Gao"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.18739",
-      "title": "LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation",
-      "url": "https://huggingface.co/papers/2605.18739",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-17T20:00:00.000Z",
-      "abstract": "We present LongLive-2.0, an NVFP4-based parallel infrastructure throughout the full training and inference workflow of long video generation, addressing speed and memory bottlenecks. For training, we",
-      "authors": [
-        "Yukang Chen",
-        "Luozhou Wang",
-        "Wei Huang",
-        "Shuai Yang",
-        "Bohan Zhang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.18661",
-      "title": "AI for Auto-Research: Roadmap & User Guide",
-      "url": "https://huggingface.co/papers/2605.18661",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-17T20:00:00.000Z",
-      "abstract": "AI-assisted research is crossing a threshold: fully automated systems can now generate research papers for as little as $15, while long-horizon agents can execute experiments, draft manuscripts, and s",
-      "authors": [
-        "Lingdong Kong",
-        "Xian Sun",
-        "Wei Chow",
-        "Linfeng Li",
-        "Kevin Qinghong Lin"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-19T06:40:50.291Z",
+  "generatedAt": "2026-05-19T10:32:52.085Z",
   "date": "15-05-2026",
-  "count": 18,
+  "count": 21,
   "summary": null,
   "items": [
     {
@@ -77,6 +77,89 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.16909",
+      "title": "TOBench: A Task-Oriented Omni-Modal Benchmark for Real-World Tool-Using Agents",
+      "url": "https://huggingface.co/papers/2605.16909",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-15T20:00:00.000Z",
+      "abstract": "Tool-using agents are increasingly expected to operate across realistic professional workflows, where they must interpret multimodal inputs, coordinate external tools, inspect intermediate artifacts,",
+      "authors": [
+        "Zhiqiang Liu",
+        "Wenhui Dong",
+        "Yilang Tan",
+        "Yuwen Qu",
+        "Haochen Yin"
+      ],
+      "tags": [
+        "agent",
+        "benchmark"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.16893",
+      "title": "NGM: A Plug-and-Play Training-Free Memory Module for LLMs",
+      "url": "https://huggingface.co/papers/2605.16893",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-15T20:00:00.000Z",
+      "abstract": "Recent studies introduce conditional memory modules that decouple knowledge storage from neural computation, enabling more direct knowledge access. Compared to MoE, which relies on dynamic computation",
+      "authors": [
+        "Yuwen Qu",
+        "Wenhui Dong",
+        "Chenyang Si",
+        "Caifeng Shan"
+      ],
+      "tags": [
+        "llm",
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.16865",
+      "title": "MixSD: Mixed Contextual Self-Distillation for Knowledge Injection",
+      "url": "https://huggingface.co/papers/2605.16865",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-15T20:00:00.000Z",
+      "abstract": "Supervised fine-tuning (SFT) is widely used to inject new knowledge into language models, but it often degrades pretrained capabilities such as reasoning and general-domain performance. We argue this",
+      "authors": [
+        "Jiarui Liu",
+        "Lechen Zhang",
+        "Yongjin Yang",
+        "Yinghui He",
+        "Yingheng Wang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -287,7 +370,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 137671,
+      "stars": 137715,
       "votes": 0,
       "points": 0
     },
