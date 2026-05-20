@@ -1,52 +1,24 @@
 {
-  "generatedAt": "2026-05-20T03:45:53.119Z",
+  "generatedAt": "2026-05-20T07:35:31.070Z",
   "date": "17-05-2026",
-  "count": 17,
+  "count": 12,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2605.18984",
-      "title": "Artifact-Bench: Evaluating MLLMs on Detecting and Assessing the Artifacts of AI-Generated Videos",
-      "url": "https://huggingface.co/papers/2605.18984",
+      "id": "hf_paper_2605.18746",
+      "title": "ESI-Bench: Towards Embodied Spatial Intelligence that Closes the Perception-Action Loop",
+      "url": "https://huggingface.co/papers/2605.18746",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-17T20:00:00.000Z",
-      "abstract": "Recent video generative models have greatly improved the realism of AI-generated videos, yet their outputs still exhibit artifacts such as temporal inconsistencies, structural distortions, and semanti",
+      "abstract": "Spatial intelligence unfolds through a perception-action loop: agents act to acquire observations, and reason about how observations vary as a function of action. Rather than passively processing what",
       "authors": [
-        "Yuqi Tang",
-        "Yang Shi",
-        "Zhuoran Zhang",
-        "Qixun Wang",
-        "Xuehai Bai"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.17757",
-      "title": "OSCAR: Offline Spectral Covariance-Aware Rotation for 2-bit KV Cache Quantization",
-      "url": "https://huggingface.co/papers/2605.17757",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-17T20:00:00.000Z",
-      "abstract": "INT2 KV-cache quantization is attractive for long-context LLM serving, but it remains difficult to make both accurate and deployable. Simple rotations such as Hadamard transforms reduce outliers, but",
-      "authors": [
-        "Zhongzhu Zhou",
-        "Donglin Zhuang",
-        "Jisen Li",
-        "Ziyan Chen",
-        "Shuaiwen Leon Song"
+        "Yining Hong",
+        "Jiageng Liu",
+        "Han Yin",
+        "Manling Li",
+        "Leonidas Guibas"
       ],
       "tags": [],
       "score": 6,
@@ -59,160 +31,51 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.18749",
-      "title": "WavFlow: Audio Generation in Waveform Space",
-      "url": "https://huggingface.co/papers/2605.18749",
+      "id": "hf_paper_2605.18703",
+      "title": "EnvFactory: Scaling Tool-Use Agents via Executable Environments Synthesis and Robust RL",
+      "url": "https://huggingface.co/papers/2605.18703",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-17T20:00:00.000Z",
-      "abstract": "Modern audio generation predominantly relies on latent-space compression, introducing additional complexity and potential information loss. In this work, we challenge this paradigm with WavFlow, a fra",
+      "abstract": "Equipping LLMs with tool-use capabilities via Agentic Reinforcement Learning (Agentic RL) is bottlenecked by two challenges: the lack of scalable, robust execution environments and the scarcity of rea",
       "authors": [
-        "Feiyan Zhou",
-        "Luyuan Wang",
-        "Shoufa Chen",
-        "Zhe Wang",
-        "Zhiheng Liu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.18630",
-      "title": "SCICONVBENCH: Benchmarking LLMs on Multi-Turn Clarification for Task Formulation in Computational Science",
-      "url": "https://huggingface.co/papers/2605.18630",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-17T20:00:00.000Z",
-      "abstract": "Large Language Models (LLMs) are increasingly deployed as scientific AI as- sistants, and a growing body of benchmarks evaluates their capabilities across knowledge retrieval, reasoning, code generati",
-      "authors": [
-        "Nithin Somasekharan",
-        "Youssef Hassan",
-        "Shiyao Lin",
-        "Gihan Panapitiya",
-        "Patrick Emami"
+        "Minrui Xu",
+        "Zilin Wang",
+        "Mengyi DENG",
+        "Zhiwei Li",
+        "Zhicheng Yang"
       ],
       "tags": [
-        "llm",
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.18106",
-      "title": "Symmetry-Compatible Principle for Optimizer Design: Embeddings, LM Heads, SwiGLU MLPs, and MoE Routers",
-      "url": "https://huggingface.co/papers/2605.18106",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-17T20:00:00.000Z",
-      "abstract": "A striking geometric disparity has long persisted in the practice of deep learning. While modern neural network architectures naturally exhibit rich symmetry and equivariance properties, popular optim",
-      "authors": [
-        "Tim Tsz-Kit Lau",
-        "Weijie Su"
-      ],
-      "tags": [
-        "embeddings"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.18727",
-      "title": "DexHoldem: Playing Texas Hold'em with Dexterous Embodied System",
-      "url": "https://huggingface.co/papers/2605.18727",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-17T20:00:00.000Z",
-      "abstract": "Evaluating embodied systems on real dexterous hardware requires more than isolated primitive skills: an agent must perceive a changing tabletop scene, choose a context-appropriate action, execute it w",
-      "authors": [
-        "Feng Chen",
-        "Tianzhe Chu",
-        "Li Sun",
-        "Pei Zhou",
-        "Zhuxiu Xu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.17894",
-      "title": "Evaluating Cognitive Age Alignment in Interactive AI Agents",
-      "url": "https://huggingface.co/papers/2605.17894",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-17T20:00:00.000Z",
-      "abstract": "While agentic AI and its core multimodal large language models (MLLMs) have demonstrated remarkable promise in language and visual reasoning across domains ranging from daily life to advanced scientif",
-      "authors": [
-        "Yifan Shen",
-        "Jiawen Zhang",
-        "Jian Xu",
-        "Junho Kim",
-        "Ismini Lourentzou"
-      ],
-      "tags": [
-        "agent",
-        "alignment"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.18652",
-      "title": "MementoGUI: Learning Agentic Multimodal Memory Control for Long-Horizon GUI Agents",
-      "url": "https://huggingface.co/papers/2605.18652",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-17T20:00:00.000Z",
-      "abstract": "Recent GUI agents have made substantial progress in visual grounding and action prediction, yet they remain brittle in long-horizon tasks that require maintaining task state across many interface tran",
-      "authors": [
-        "Ziyun Zeng",
-        "Hang Hua",
-        "Bocheng Zou",
-        "Mu Cai",
-        "Rogerio Feris"
-      ],
-      "tags": [
-        "multimodal",
         "agent"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.18714",
+      "title": "Semantic Generative Tuning for Unified Multimodal Models",
+      "url": "https://huggingface.co/papers/2605.18714",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-17T20:00:00.000Z",
+      "abstract": "Unified multimodal models (UMMs) strive to consolidate visual understanding and visual generation within a single architecture. However, prevailing training paradigms independently optimize understand",
+      "authors": [
+        "Songsong Yu",
+        "Yuxin Chen",
+        "Ying Shan",
+        "Yanwei Li"
+      ],
+      "tags": [
+        "multimodal"
+      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
@@ -223,24 +86,23 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.18719",
-      "title": "SafeDiffusion-R1: Online Reward Steering for Safe Diffusion Post-Training",
-      "url": "https://huggingface.co/papers/2605.18719",
+      "id": "hf_paper_2605.18748",
+      "title": "Aurora: Unified Video Editing with a Tool-Using Agent",
+      "url": "https://huggingface.co/papers/2605.18748",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-17T20:00:00.000Z",
-      "abstract": "Diffusion models have been widely studied for removing unsafe content learned during pre-training. Existing methods require expensive supervised data, either unsafe-text paired with safe-image groundt",
+      "abstract": "Recent video editing models have converged on a unified conditioning design: a single diffusion transformer jointly consumes text, source video, and reference images, and one set of weights covers rep",
       "authors": [
-        "Komal Kumar",
-        "Ankan Deria",
-        "Abhishek Basu",
-        "Fahad Shamshad",
-        "Hisham Cholakkal"
+        "Yongsheng Yu",
+        "Ziyun Zeng",
+        "Zhiyuan Xiao",
+        "Zhenghong Zhou",
+        "Hang Hua"
       ],
       "tags": [
-        "diffusion",
-        "training"
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",

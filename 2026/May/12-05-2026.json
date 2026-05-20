@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-20T03:45:53.123Z",
+  "generatedAt": "2026-05-20T07:35:31.072Z",
   "date": "12-05-2026",
-  "count": 4,
+  "count": 6,
   "summary": null,
   "items": [
     {
@@ -19,6 +19,56 @@
       ],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.16403",
+      "title": "When Vision Speaks for Sound",
+      "url": "https://huggingface.co/papers/2605.16403",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-12T20:00:00.000Z",
+      "abstract": "Despite rapid progress in video-capable MLLMs, we find that their apparent audio understanding in videos is often vision-driven: models rely on visual cues to infer or hallucinate acoustic information",
+      "authors": [
+        "Xiaofei Wen",
+        "Wenjie Jacky Mo",
+        "Xingyu Fu",
+        "Rui Cai",
+        "Tinghui Zhu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.18855",
+      "title": "Delta Attention Residuals",
+      "url": "https://huggingface.co/papers/2605.18855",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-12T20:00:00.000Z",
+      "abstract": "Attention Residuals replace standard additive residual connections with learned softmax attention over previous layer outputs, enabling selective cross-layer routing. However, standard Attention Resid",
+      "authors": [
+        "Cheng Luo",
+        "Zefan Cai",
+        "Junjie Hu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

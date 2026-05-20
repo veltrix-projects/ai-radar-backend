@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-20T03:45:53.121Z",
+  "generatedAt": "2026-05-20T07:35:31.071Z",
   "date": "14-05-2026",
-  "count": 12,
+  "count": 10,
   "summary": null,
   "items": [
     {
@@ -27,26 +27,22 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.15565",
-      "title": "AstraFlow: Dataflow-Oriented Reinforcement Learning for Agentic LLMs",
-      "url": "https://huggingface.co/papers/2605.15565",
+      "id": "hf_paper_2605.15529",
+      "title": "Process Rewards with Learned Reliability",
+      "url": "https://huggingface.co/papers/2605.15529",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-14T20:00:00.000Z",
-      "abstract": "Reinforcement learning (RL) is increasingly used to improve the reasoning, coding, and tool-use capabilities of large language models, but agentic RL remains prohibitively expensive. Scaling RL to age",
+      "abstract": "Process Reward Models (PRMs) provide step-level feedback for reasoning, but current PRMs usually output only a single reward score for each step. Downstream methods must therefore treat imperfect step",
       "authors": [
-        "Haizhong Zheng",
-        "Yizhuo Di",
-        "Jiahui Wang",
-        "Shuowei Jin",
-        "Xueshen Liu"
+        "Jinyuan Li",
+        "Langlin Huang",
+        "Chengsong Huang",
+        "Shaoyang Xu",
+        "Donghong Cai"
       ],
-      "tags": [
-        "llm",
-        "agent",
-        "reinforcement learning"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -57,52 +53,22 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.16679",
-      "title": "CHI-Bench: Can AI Agents Automate End-to-End, Long-Horizon, Policy-Rich Healthcare Workflows?",
-      "url": "https://huggingface.co/papers/2605.16679",
+      "id": "hf_paper_2605.16003",
+      "title": "Echo-Forcing: A Scene Memory Framework for Interactive Long Video Generation",
+      "url": "https://huggingface.co/papers/2605.16003",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-14T20:00:00.000Z",
-      "abstract": "End-to-end automation of realistic healthcare operations stresses three capabilities underrepresented in current benchmarks: policy density, decisions must be grounded in a large library of medical, i",
+      "abstract": "Autoregressive video diffusion models enable open-ended generation through local attention and KV caching. However, existing training-free long-video optimization methods mainly focus on stable extens",
       "authors": [
-        "Haolin Chen",
-        "Deon Metelski",
-        "Leon Qi",
-        "Tao Xia",
-        "Joonyul Lee"
+        "Mingqiang Wu",
+        "Weilun Feng",
+        "Zhefeng Zhang",
+        "Haotong Qin",
+        "Yuqi Li"
       ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.16079",
-      "title": "VideoSeeker: Incentivizing Instance-level Video Understanding via Native Agentic Tool Invocation",
-      "url": "https://huggingface.co/papers/2605.16079",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-14T20:00:00.000Z",
-      "abstract": "Large Vision-Language Models (LVLMs) have shown significant progress in video understanding, yet they face substantial challenges in tasks requiring precise spatiotemporal localization at the instance",
-      "authors": [
-        "Yiming Zhao",
-        "Yu Zeng",
-        "Wenxuan Huang",
-        "Zhen Fang",
-        "Qing Miao"
-      ],
-      "tags": [
-        "agent"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -148,26 +114,6 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fwork-",
-      "title": "Work with Codex from anywhere",
-      "url": "https://openai.com/index/work-with-codex-from-anywhere",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-05-14T13:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

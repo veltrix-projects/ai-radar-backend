@@ -1,9 +1,61 @@
 {
-  "generatedAt": "2026-05-20T03:45:53.123Z",
+  "generatedAt": "2026-05-20T07:35:31.073Z",
   "date": "11-05-2026",
-  "count": 2,
+  "count": 4,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.18827",
+      "title": "Code-Guided Reasoning for Small Language Models: Evaluating Executable MCQA Scaffolds",
+      "url": "https://huggingface.co/papers/2605.18827",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-11T20:00:00.000Z",
+      "abstract": "Multiple-choice QA benchmarks usually evaluate small language models (SLMs) as direct answerers, but deployed language-model systems increasingly rely on external scaffolds such as tools, code, and re",
+      "authors": [
+        "Prateek Biswas",
+        "Dhaval Patel",
+        "Vedant Khandelwal",
+        "Shuxin Lin",
+        "Amit Sheth"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.11609",
+      "title": "Anti-Self-Distillation for Reasoning RL via Pointwise Mutual Information",
+      "url": "https://huggingface.co/papers/2605.11609",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-11T20:00:00.000Z",
+      "abstract": "On-policy self-distillation, where a student is pulled toward a copy of itself conditioned on privileged context (e.g., a verified solution or feedback), offers a promising direction for advancing rea",
+      "authors": [
+        "Guobin Shen",
+        "Xiang Cheng",
+        "Chenxiao Zhao",
+        "Lei Huang",
+        "Jindong Li"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "Introducing NVIDIA Fleet Intelligence for Real-Time GPU Fleet Visibility and Optimization",
