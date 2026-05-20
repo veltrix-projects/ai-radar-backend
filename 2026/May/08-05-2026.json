@@ -1,9 +1,32 @@
 {
-  "generatedAt": "2026-05-20T19:14:18.696Z",
+  "generatedAt": "2026-05-20T21:16:33.424Z",
   "date": "08-05-2026",
   "count": 2,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.08586",
+      "title": "Computer Science Conferences Should Require Nonrepudiable Experimental Results",
+      "url": "https://huggingface.co/papers/2605.08586",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-08T20:00:00.000Z",
+      "abstract": "This position paper argues that computer science conferences should require tamper-evident, nonrepudiable attestations of experimental results. We name the underlying problem experiment nonrepudiation",
+      "authors": [
+        "Mamadou K. Keita",
+        "Christopher Homan"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "Improving Bash Generation in Small Language Models with Grammar-Constrained Decoding",
@@ -15,28 +38,6 @@
       "abstract": "Bash is one of the most flexible and powerful interfaces exposed to AI agents. In the right system, a model that emits grep, curl, tar, or a shell pipeline is...]]>",
       "authors": [],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
-      "title": "Streaming Tokens and Tools: Multi-Turn Agentic Harness Support in NVIDIA Dynamo",
-      "url": "https://developer.nvidia.com/blog/streaming-tokens-and-tools-multi-turn-agentic-harness-support-in-nvidia-dynamo/",
-      "source": "NVIDIA Blog",
-      "sourceIcon": "🟩",
-      "type": "tool",
-      "timestamp": "2026-05-08T15:59:16.000Z",
-      "abstract": "An agentic exchange must preserve a structured interaction: assistant turns interleave reasoning with one or more tool calls, and subsequent user turns return...]]>",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
