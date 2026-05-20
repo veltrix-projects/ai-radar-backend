@@ -1,9 +1,34 @@
 {
-  "generatedAt": "2026-05-20T21:16:33.417Z",
+  "generatedAt": "2026-05-20T22:49:16.430Z",
   "date": "17-05-2026",
   "count": 9,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.19147",
+      "title": "Be Kind, Rewrite: Benign Projections via Rewriting Defend Against LLM Data Poisoning Attacks",
+      "url": "https://huggingface.co/papers/2605.19147",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-17T20:00:00.000Z",
+      "abstract": "Large language models (LLMs) are highly susceptible to backdoor attacks (BAs), wherein training samples are poisoned using trigger-based harmful content. Furthermore, existing defenses have proven ine",
+      "authors": [
+        "John T. Halloran",
+        "Noopur S. Bhatt"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.18263",
       "title": "RT-Splatting: Joint Reflection-Transmission Modeling with Gaussian Splatting",
@@ -73,32 +98,6 @@
         "Théo Lasnier",
         "Benoît Sagot",
         "Djamé Seddah"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.18226",
-      "title": "Context Memorization for Efficient Long Context Generation",
-      "url": "https://huggingface.co/papers/2605.18226",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-17T20:00:00.000Z",
-      "abstract": "Modern large language model (LLM) applications increasingly rely on long conditioning prefixes to control model behavior at inference time. While prefix-augmented inference is effective, it incurs two",
-      "authors": [
-        "Yasuyuki Okoshi",
-        "Hao Mark Chen",
-        "Guanxi Lu",
-        "Hongxiang Fan",
-        "Masato Motomura"
       ],
       "tags": [],
       "score": 6,
