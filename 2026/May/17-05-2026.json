@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-05-20T13:31:08.477Z",
+  "generatedAt": "2026-05-20T16:45:44.977Z",
   "date": "17-05-2026",
   "count": 11,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.17734",
+      "title": "Harnessing LLM Agents with Skill Programs",
+      "url": "https://huggingface.co/papers/2605.17734",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-17T20:00:00.000Z",
+      "abstract": "Equipping LLM agents with reusable skills derived from past experience has become a popular and successful approach for tackling complex and long-horizon tasks. However, such lessons are often encoded",
+      "authors": [
+        "Hongjun Liu",
+        "Yifei Ming",
+        "Shafiq Joty",
+        "Chen Zhao"
+      ],
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.18646",
       "title": "Language-Switching Triggers Take a Latent Detour Through Language Models",
@@ -127,33 +155,6 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.18714",
-      "title": "Semantic Generative Tuning for Unified Multimodal Models",
-      "url": "https://huggingface.co/papers/2605.18714",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-17T20:00:00.000Z",
-      "abstract": "Unified multimodal models (UMMs) strive to consolidate visual understanding and visual generation within a single architecture. However, prevailing training paradigms independently optimize understand",
-      "authors": [
-        "Songsong Yu",
-        "Yuxin Chen",
-        "Ying Shan",
-        "Yanwei Li"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
