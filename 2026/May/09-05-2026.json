@@ -1,32 +1,34 @@
 {
-  "generatedAt": "2026-05-17T23:26:26.356Z",
+  "generatedAt": "2026-05-20T10:41:55.205Z",
   "date": "09-05-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "gh_793375104",
-      "title": "Shubhamsaboo/awesome-llm-apps — 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-05-09T20:59:06Z",
-      "abstract": "",
-      "authors": [],
+      "id": "hf_paper_2605.09640",
+      "title": "Overcoming Catastrophic Forgetting in Visual Continual Learning with Reinforcement Fine-Tuning",
+      "url": "https://huggingface.co/papers/2605.09640",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-09T20:00:00.000Z",
+      "abstract": "Recent studies suggest that Reinforcement Fine-Tuning (RFT) is inherently more resilient to catastrophic forgetting than Supervised Fine-Tuning (SFT). However, whether RFT (e.g., GRPO) can effectively",
+      "authors": [
+        "Meng Lou",
+        "Hanzhong Guo",
+        "Linwei Chen",
+        "Yizhou Yu"
+      ],
       "tags": [
-        "agents",
-        "llms",
-        "python",
-        "rag",
-        "Python"
+        "phi",
+        "fine-tuning"
       ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 110842,
+      "stars": 0,
       "votes": 0,
       "points": 0
     }
