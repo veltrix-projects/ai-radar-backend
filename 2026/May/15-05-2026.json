@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T16:45:44.979Z",
+  "generatedAt": "2026-05-20T19:14:18.692Z",
   "date": "15-05-2026",
   "count": 10,
   "summary": null,
@@ -45,19 +45,27 @@
       "points": 0
     },
     {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Restrict access to sensitive documents in your Amazon Quick knowledge bases for Amazon S3",
-      "url": "https://aws.amazon.com/blogs/machine-learning/restrict-access-to-sensitive-documents-in-your-amazon-quick-knowledge-bases-for-amazon-s3/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-05-15T15:41:00.000Z",
-      "abstract": "In this post, we walk through how to configure document-level ACLs for your S3 knowledge base in Amazon Quick. You will learn how to set up and verify an ACL configuration that enforces document-level",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
+      "id": "hf_paper_2605.17026",
+      "title": "Why Do Reasoning Models Lose Coverage? The Role of Data and Forks in the Road",
+      "url": "https://huggingface.co/papers/2605.17026",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-15T20:00:00.000Z",
+      "abstract": "Recent progress in large language models has led to the emergence of reasoning models, which have shown strong performance on complex tasks through specialized fine-tuning procedures. While these meth",
+      "authors": [
+        "Ngoc-Hieu Nguyen",
+        "Parshin Shojaee",
+        "Phuc Minh Nguyen",
+        "Nan Zhang",
+        "Chandan K Reddy"
+      ],
+      "tags": [
+        "rag"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

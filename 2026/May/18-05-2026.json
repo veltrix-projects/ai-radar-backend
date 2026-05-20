@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-20T16:45:44.976Z",
+  "generatedAt": "2026-05-20T19:14:18.691Z",
   "date": "18-05-2026",
-  "count": 25,
+  "count": 24,
   "summary": null,
   "items": [
     {
@@ -37,6 +37,31 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.19305",
+      "title": "Matérn Noise for Triangulation-Agnostic Flow Matching on Meshes",
+      "url": "https://huggingface.co/papers/2605.19305",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-18T20:00:00.000Z",
+      "abstract": "This paper tackles the task of learning to generate signals over triangle meshes in a triangulation-agnostic manner, meaning the trained model can be applied to different meshes and triangulations eff",
+      "authors": [
+        "Tianshu Kuai",
+        "Arman Maesumi",
+        "Daniel Ritchie",
+        "Noam Aigerman"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -231,34 +256,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.19932",
-      "title": "PEEK: Context Map as an Orientation Cache for Long-Context LLM Agents",
-      "url": "https://huggingface.co/papers/2605.19932",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-18T20:00:00.000Z",
-      "abstract": "Large language model (LLM) agents increasingly operate over long and recurring external contexts, like document corpora and code repositories. Across invocations, existing approaches preserve either t",
-      "authors": [
-        "Zhuohan Gu",
-        "Qizheng Zhang",
-        "Omar Khattab",
-        "Samuel Madden"
-      ],
-      "tags": [
-        "llm",
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
       "title": "Prompting Amazon Nova 2 for content moderation",
       "url": "https://aws.amazon.com/blogs/machine-learning/prompting-amazon-nova-2-for-content-moderation/",
@@ -385,7 +382,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 137927,
+      "stars": 137933,
       "votes": 0,
       "points": 0
     },
@@ -518,7 +515,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 155787,
+      "stars": 155789,
       "votes": 0,
       "points": 0
     },
@@ -553,29 +550,6 @@
       "abstract": "Amazon has introduced Alexa for Shopping, combining its Rufus shopping chatbot with Alexa+ across its app, website, and Echo Show devices. The assistant can answer product questions, compare items, tr",
       "authors": [],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "NVIDIA Introduces a 4-Bit Pretraining Methodology Using NVFP4, Validated on a 12B Hybrid Mamba-Transformer at 10T Token Horizon",
-      "url": "https://www.marktechpost.com/2026/05/18/nvidia-introduces-a-4-bit-pretraining-methodology-using-nvfp4-validated-on-a-12b-hybrid-mamba-transformer-at-10t-token-horizon/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-05-18T08:42:52.000Z",
-      "abstract": "NVIDIA introduces a 4-bit pretraining methodology built around the NVFP4 microscaling format — combining selective BF16 layers, 16×16 Random Hadamard Transforms on Wgrad inputs, 2D weight scaling, and",
-      "authors": [],
-      "tags": [
-        "transformer",
-        "training"
-      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
