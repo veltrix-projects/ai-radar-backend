@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-21T00:00:48.159Z",
+  "generatedAt": "2026-05-21T04:50:28.046Z",
   "date": "15-05-2026",
-  "count": 8,
+  "count": 9,
   "summary": null,
   "items": [
     {
@@ -37,6 +37,31 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.17076",
+      "title": "S-Bus: Automatic Read-Set Reconstruction for Multi-Agent LLM State Coordination",
+      "url": "https://huggingface.co/papers/2605.17076",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-15T20:00:00.000Z",
+      "abstract": "Concurrent LLM agents sharing mutable natural-language state produce Structural Race Conditions (SRCs): write-write and cross-shard stale-read conflicts that silently corrupt agent output. Existing mu",
+      "authors": [
+        "Sajjad Khan"
+      ],
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-21T00:00:48.157Z",
+  "generatedAt": "2026-05-21T04:50:28.045Z",
   "date": "18-05-2026",
-  "count": 22,
+  "count": 20,
   "summary": null,
   "items": [
     {
@@ -15,6 +15,34 @@
       "abstract": "As LLM-powered agents move from research to production, one design tension is becoming harder to ignore: the more useful cloud-hosted memory becomes, the more private user data it exposes. Researchers",
       "authors": [],
       "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.20087",
+      "title": "ThoughtTrace: Understanding User Thoughts in Real-World LLM Interactions",
+      "url": "https://huggingface.co/papers/2605.20087",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-18T20:00:00.000Z",
+      "abstract": "Conversational AI has now reached billions of users, yet existing datasets capture only what people say, not what they think. We introduce ThoughtTrace, the first large-scale dataset that pairs real-w",
+      "authors": [
+        "Chuanyang Jin",
+        "Binze Li",
+        "Haopeng Xie",
+        "Cathy Mengying Fang",
+        "Tianjian Li"
+      ],
+      "tags": [
+        "llm"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -155,60 +183,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.19633",
-      "title": "optimize_anything: A Universal API for Optimizing any Text Parameter",
-      "url": "https://huggingface.co/papers/2605.19633",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-18T20:00:00.000Z",
-      "abstract": "Can a single LLM-based optimization system match specialized tools across fundamentally different domains? We show that when optimization problems are formulated as improving a text artifact evaluated",
-      "authors": [
-        "Lakshya A Agrawal",
-        "Donghyun Lee",
-        "Shangyin Tan",
-        "Wenjie Ma",
-        "Karim Elmaaroufi"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.20150",
-      "title": "TideGS: Scalable Training of Over One Billion 3D Gaussian Splatting Primitives via Out-of-Core Optimization",
-      "url": "https://huggingface.co/papers/2605.20150",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-18T20:00:00.000Z",
-      "abstract": "Training 3D Gaussian Splatting (3DGS) at billion-primitive scale is fundamentally memory-bound: each Gaussian primitive carries a large attribute vector, and the aggregate parameter table quickly exce",
-      "authors": [
-        "Chonghao Zhong",
-        "Linfeng Shi",
-        "Hua Chen",
-        "Tiecheng Sun",
-        "Hao Zhao"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
       "title": "Prompting Amazon Nova 2 for content moderation",
       "url": "https://aws.amazon.com/blogs/machine-learning/prompting-amazon-nova-2-for-content-moderation/",
@@ -335,7 +309,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 137938,
+      "stars": 137945,
       "votes": 0,
       "points": 0
     },
@@ -372,28 +346,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Build custom code-based evaluators in Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-custom-code-based-evaluators-in-amazon-bedrock-agentcore/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-05-18T15:07:15.000Z",
-      "abstract": "In this post, you will implement four Lambda-based custom code evaluators for a financial market-intelligence agent, register each with AgentCore, and run them in on-demand and online modes. You will",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -468,7 +420,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 155788,
+      "stars": 155789,
       "votes": 0,
       "points": 0
     },
