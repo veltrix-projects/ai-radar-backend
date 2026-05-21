@@ -1,9 +1,61 @@
 {
-  "generatedAt": "2026-05-21T11:43:20.455Z",
+  "generatedAt": "2026-05-21T14:41:37.167Z",
   "date": "17-05-2026",
-  "count": 8,
+  "count": 9,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.18233",
+      "title": "Enhancing Train-Free Infinite-Frame Generation for Consistent Long Videos",
+      "url": "https://huggingface.co/papers/2605.18233",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-17T20:00:00.000Z",
+      "abstract": "Without incurring significant computational overhead, train-free long video generation aims to enable foundation video generation models to produce longer videos. Frame-level autoregressive frameworks",
+      "authors": [
+        "X. Feng",
+        "J. Zhu",
+        "M. Wu",
+        "C. Chen",
+        "F. Mao"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.20266",
+      "title": "A Survey of Large Audio Language Models: Generalization, Trustworthiness, and Outlook",
+      "url": "https://huggingface.co/papers/2605.20266",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-17T20:00:00.000Z",
+      "abstract": "The foundational capabilities established by Large Language Models (LLMs) have paved the way for Multimodal Large Language Models (MLLMs), within which Large Audio Language Models (LALMs) are essentia",
+      "authors": [
+        "Kaiwen Luo",
+        "Zhenhong Zhou",
+        "Leo Wang",
+        "Liang Lin",
+        "Yang Xiao"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.19008",
       "title": "Learn-by-Wire Training Control Governance: Bounded Autonomous Training Under Stress for Stability and Efficiency",
@@ -47,34 +99,6 @@
       ],
       "tags": [
         "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.18565",
-      "title": "LongMINT: Evaluating Memory under Multi-Target Interference in Long-Horizon Agent Systems",
-      "url": "https://huggingface.co/papers/2605.18565",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-17T20:00:00.000Z",
-      "abstract": "Real-world agents operate over long and evolving horizons, where information is repeatedly updated and may interfere across memories, requiring accurate recall and aggregated reasoning over multiple p",
-      "authors": [
-        "Hyunji Lee",
-        "Justin Chih-Yao Chen",
-        "Joykirat Singh",
-        "Zaid Khan",
-        "Elias Stengel-Eskin"
-      ],
-      "tags": [
-        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
