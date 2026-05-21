@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-05-20T22:49:16.430Z",
+  "generatedAt": "2026-05-21T00:00:48.158Z",
   "date": "17-05-2026",
   "count": 9,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.17829",
+      "title": "Interactive Evaluation Requires a Design Science",
+      "url": "https://huggingface.co/papers/2605.17829",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-17T20:00:00.000Z",
+      "abstract": "AI evaluation is undergoing a structural change. Large language models (LLMs) are increasingly deployed as systems that act over time through tools, environments, users, and other agents, while many e",
+      "authors": [
+        "Keyang Xuan",
+        "Peiyang Song",
+        "Pan Lu",
+        "Pengrui Han",
+        "Wenkai Li"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.19147",
       "title": "Be Kind, Rewrite: Benign Projections via Rewriting Defend Against LLM Data Poisoning Attacks",
@@ -74,32 +100,6 @@
         "llm",
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.18646",
-      "title": "Language-Switching Triggers Take a Latent Detour Through Language Models",
-      "url": "https://huggingface.co/papers/2605.18646",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-17T20:00:00.000Z",
-      "abstract": "Backdoor attacks on language models pose a growing security concern, yet the internal mechanisms by which a trigger sequence hijacks model computations remain poorly understood. We identify a circuit",
-      "authors": [
-        "Francis Kulumba",
-        "Wissam Antoun",
-        "Théo Lasnier",
-        "Benoît Sagot",
-        "Djamé Seddah"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
