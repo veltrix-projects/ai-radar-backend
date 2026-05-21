@@ -1,9 +1,94 @@
 {
-  "generatedAt": "2026-05-21T08:26:52.698Z",
+  "generatedAt": "2026-05-21T11:43:20.455Z",
   "date": "18-05-2026",
-  "count": 18,
+  "count": 20,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.19833",
+      "title": "Mega-ASR: Towards In-the-wild^2 Speech Recognition via Scaling up Real-world Acoustic Simulation",
+      "url": "https://huggingface.co/papers/2605.19833",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-18T20:00:00.000Z",
+      "abstract": "Despite rapid advances in automatic speech recognition (ASR) and large audio-language models, robust recognition in real-world environments remains limited by an \"acoustic robustness bottleneck\": mode",
+      "authors": [
+        "Zhifei Xie",
+        "Kaiyu Pang",
+        "Haobin Zhang",
+        "Deheng Ye",
+        "Xiaobin Hu"
+      ],
+      "tags": [
+        "speech"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.19330",
+      "title": "MOCHA: Multi-Objective Chebyshev Annealing for Agent Skill Optimization",
+      "url": "https://huggingface.co/papers/2605.19330",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-18T20:00:00.000Z",
+      "abstract": "LLM agents organize behavior through skills - structured natural-language specifications governing how an agent reasons, retrieves, and responds. Unlike monolithic prompts, skills are multi-field arti",
+      "authors": [
+        "Md Mehrab Tanjim",
+        "Jayakumar Subramanian",
+        "Xiang Chen",
+        "Branislav Kveton",
+        "Subhojyoti Mukherjee"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.19484",
+      "title": "CutVerse: A Compositional GUI Agents Benchmark for Media Post-Production Editing",
+      "url": "https://huggingface.co/papers/2605.19484",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-18T20:00:00.000Z",
+      "abstract": "While GUI agents have made significant progress in web navigation and basic operating system tasks, their capabilities in professional creative workflows remain largely underexplored. To bridge this g",
+      "authors": [
+        "Haobo Hu",
+        "Xiangwu Guo",
+        "Zhiheng Chen",
+        "Difei Gao",
+        "Haotian Liu"
+      ],
+      "tags": [
+        "agent",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.20315",
       "title": "Mix-Quant: Quantized Prefilling, Precise Decoding for Agentic LLMs",
@@ -106,32 +191,6 @@
       "tags": [
         "llm"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.20158",
-      "title": "Rethinking Visual Attribution for Chest X-ray Reasoning in Large Vision Language Models",
-      "url": "https://huggingface.co/papers/2605.20158",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-18T20:00:00.000Z",
-      "abstract": "Large Vision Language Models (LVLMs) show promise in medical applications, but their inability to faithfully ground responses in visual evidence raises serious concerns about clinical trustworthiness.",
-      "authors": [
-        "Guangzhi Xiong",
-        "Qiao Jin",
-        "Sanchit Sinha",
-        "Zhiyong Lu",
-        "Aidong Zhang"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -268,7 +327,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 137961,
+      "stars": 137978,
       "votes": 0,
       "points": 0
     },
@@ -379,7 +438,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 155790,
+      "stars": 155797,
       "votes": 0,
       "points": 0
     },

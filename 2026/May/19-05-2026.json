@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-21T08:26:52.697Z",
+  "generatedAt": "2026-05-21T11:43:20.454Z",
   "date": "19-05-2026",
-  "count": 34,
+  "count": 29,
   "summary": null,
   "items": [
     {
@@ -63,37 +63,6 @@
       "downloads": 0,
       "likes": 0,
       "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "gh_701547123",
-      "title": "open-webui/open-webui — User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "url": "https://github.com/open-webui/open-webui",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-05-19T21:47:01Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "ai",
-        "llm",
-        "llm-ui",
-        "llm-webui",
-        "llms",
-        "mcp",
-        "ollama",
-        "ollama-webui",
-        "open-webui",
-        "openai"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 138013,
       "votes": 0,
       "points": 0
     },
@@ -369,87 +338,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.20955",
-      "title": "DrawMotion: Generating 3D Human Motions by Freehand Drawing",
-      "url": "https://huggingface.co/papers/2605.20955",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-19T20:00:00.000Z",
-      "abstract": "Text-to-motion generation, which translates textual descriptions into human motions, faces the challenge that users often struggle to precisely convey their intended motions through text alone. To add",
-      "authors": [
-        "Tao Wang",
-        "Lei Jin",
-        "Zhihua Wu",
-        "Qiaozhi He",
-        "Jiaming Chu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.20873",
-      "title": "PlanningBench: Generating Scalable and Verifiable Planning Data for Evaluating and Training Large Language Models",
-      "url": "https://huggingface.co/papers/2605.20873",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-19T20:00:00.000Z",
-      "abstract": "Planning is a fundamental capability for large language models (LLMs) because such complex tasks require models to coordinate goals, constraints, resources, and long-term consequences into executable",
-      "authors": [
-        "Ziliang Zhao",
-        "Zenan Xu",
-        "Shuting Wang",
-        "Hongjin Qian",
-        "Yan Lei"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.21384",
-      "title": "SpecBench: Measuring Reward Hacking in Long-Horizon Coding Agents",
-      "url": "https://huggingface.co/papers/2605.21384",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-19T20:00:00.000Z",
-      "abstract": "As long-horizon coding agents produce more code than any developer can review, oversight collapses onto a single surface: the automated test suite. Reward hacking naturally arises in this setup, as th",
-      "authors": [
-        "Bingchen Zhao",
-        "Dhruv Srikanth",
-        "Yuxiang Wu",
-        "Zhengyao Jiang"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "Mastering Agentic Techniques: AI Agent Evaluation",
       "url": "https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-evaluation/",
@@ -711,28 +599,6 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "How to Build an Advanced Agentic AI System with Planning, Tool Calling, Memory, and Self-Critique Using OpenAI API",
-      "url": "https://www.marktechpost.com/2026/05/18/how-to-build-an-advanced-agentic-ai-system-with-planning-tool-calling-memory-and-self-critique-using-openai-api/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-05-19T05:29:40.000Z",
-      "abstract": "In this tutorial, we build an advanced agentic AI system using the OpenAI API and a hidden terminal prompt for the API key. We design the agent as a small pipeline of specialized roles: planner, tool-",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
