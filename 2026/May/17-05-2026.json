@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-05-21T14:41:37.167Z",
+  "generatedAt": "2026-05-21T17:26:38.812Z",
   "date": "17-05-2026",
   "count": 9,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.17991",
+      "title": "Stable Audio 3",
+      "url": "https://huggingface.co/papers/2605.17991",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-17T20:00:00.000Z",
+      "abstract": "Stable Audio 3 is a family of fast latent diffusion models (small, medium, large) for variable-length audio generation and editing. Since our models can generate several minutes of audio, variable-len",
+      "authors": [
+        "Zach Evans",
+        "Julian D. Parker",
+        "Matthew Rice",
+        "CJ Carr",
+        "Zack Zukowski"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.18233",
       "title": "Enhancing Train-Free Infinite-Frame Generation for Consistent Long Videos",
@@ -71,34 +97,6 @@
       "tags": [
         "training",
         "autonomous"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.20258",
-      "title": "It Takes Two: Complementary Self-Distillation for Contextual Integrity in LLMs",
-      "url": "https://huggingface.co/papers/2605.20258",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-17T20:00:00.000Z",
-      "abstract": "Contextual Integrity (CI) defines privacy not merely as keeping information hidden, but as governing information flows according to the norms of a given context. As large language models are increasin",
-      "authors": [
-        "Sangwoo Park",
-        "Woongyeong Yeo",
-        "Seanie Lee",
-        "Yumin Choi",
-        "Hyomin Lee"
-      ],
-      "tags": [
-        "llm"
       ],
       "score": 6,
       "priority": "MEDIUM",
