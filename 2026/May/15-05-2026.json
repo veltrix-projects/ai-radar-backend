@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-21T04:50:28.046Z",
+  "generatedAt": "2026-05-21T08:26:52.699Z",
   "date": "15-05-2026",
-  "count": 9,
+  "count": 8,
   "summary": null,
   "items": [
     {
@@ -45,52 +45,23 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.17076",
-      "title": "S-Bus: Automatic Read-Set Reconstruction for Multi-Agent LLM State Coordination",
-      "url": "https://huggingface.co/papers/2605.17076",
+      "id": "hf_paper_2605.16787",
+      "title": "The Unlearnability Phenomenon in RLVR for Language Models",
+      "url": "https://huggingface.co/papers/2605.16787",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-15T20:00:00.000Z",
-      "abstract": "Concurrent LLM agents sharing mutable natural-language state produce Structural Race Conditions (SRCs): write-write and cross-shard stale-read conflicts that silently corrupt agent output. Existing mu",
+      "abstract": "Reinforcement Learning with Verifiable Reward (RLVR) has proven effective in improving Large Language Model's (LLM) reasoning ability. However, the learning dynamics of RLVR remain underexplored. In t",
       "authors": [
-        "Sajjad Khan"
+        "Yulin Chen",
+        "He He",
+        "Chen Zhao"
       ],
-      "tags": [
-        "llm",
-        "agent"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.17026",
-      "title": "Why Do Reasoning Models Lose Coverage? The Role of Data and Forks in the Road",
-      "url": "https://huggingface.co/papers/2605.17026",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-15T20:00:00.000Z",
-      "abstract": "Recent progress in large language models has led to the emergence of reasoning models, which have shown strong performance on complex tasks through specialized fine-tuning procedures. While these meth",
-      "authors": [
-        "Ngoc-Hieu Nguyen",
-        "Parshin Shojaee",
-        "Phuc Minh Nguyen",
-        "Nan Zhang",
-        "Chandan K Reddy"
-      ],
-      "tags": [
-        "rag"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -140,31 +111,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fperso",
-      "title": "A new personal finance experience in ChatGPT",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-05-15T00:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "gpt"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Facademy%2Fcod",
-      "title": "How business operations teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "title": "How data science teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
@@ -194,6 +143,28 @@
       "tags": [
         "gpt",
         "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fperso",
+      "title": "A new personal finance experience in ChatGPT",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "source": "OpenAI Blog",
+      "sourceIcon": "🟢",
+      "type": "news",
+      "timestamp": "2026-05-15T00:00:00.000Z",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "gpt"
       ],
       "score": 8,
       "priority": "HIGH",

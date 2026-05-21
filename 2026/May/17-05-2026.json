@@ -1,23 +1,24 @@
 {
-  "generatedAt": "2026-05-21T04:50:28.045Z",
+  "generatedAt": "2026-05-21T08:26:52.698Z",
   "date": "17-05-2026",
-  "count": 11,
+  "count": 8,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2605.17909",
-      "title": "Ethical Hyper-Velocity (EHV): A Provably Deterministic Governance-Aware JIT Compiler Architecture for Agentic Systems",
-      "url": "https://huggingface.co/papers/2605.17909",
+      "id": "hf_paper_2605.19008",
+      "title": "Learn-by-Wire Training Control Governance: Bounded Autonomous Training Under Stress for Stability and Efficiency",
+      "url": "https://huggingface.co/papers/2605.19008",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-17T20:00:00.000Z",
-      "abstract": "As autonomous agentic systems scale across regulated critical infrastructures, the lack of mechanistic, hardware-rooted enforcement for high-frequency policy updates presents a fundamental safety gap.",
+      "abstract": "Modern language-model training is increasingly exposed to instability, degraded runs, and wasted compute, especially under aggressive learning-rate, scale, and runtime-stress conditions. This paper in",
       "authors": [
-        "Riddhi Mohan Sharma"
+        "Anis Radianis"
       ],
       "tags": [
-        "agent"
+        "training",
+        "autonomous"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -29,69 +30,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.18101",
-      "title": "SENSE: Satellite-based ENergy Synthesis for Sustainable Environment",
-      "url": "https://huggingface.co/papers/2605.18101",
+      "id": "hf_paper_2605.20258",
+      "title": "It Takes Two: Complementary Self-Distillation for Contextual Integrity in LLMs",
+      "url": "https://huggingface.co/papers/2605.20258",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-17T20:00:00.000Z",
-      "abstract": "Urban Building Energy Modeling plays a critical role in achieving the United Nations' Sustainable Development Goals 7 and 11. Although existing studies based on satellite imagery and deep learning hav",
+      "abstract": "Contextual Integrity (CI) defines privacy not merely as keeping information hidden, but as governing information flows according to the norms of a given context. As large language models are increasin",
       "authors": [
-        "Kailai Sun",
-        "Mingyi He",
-        "Heye Huang",
-        "Can Rong",
-        "Alok Prakash"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.17829",
-      "title": "Interactive Evaluation Requires a Design Science",
-      "url": "https://huggingface.co/papers/2605.17829",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-17T20:00:00.000Z",
-      "abstract": "AI evaluation is undergoing a structural change. Large language models (LLMs) are increasingly deployed as systems that act over time through tools, environments, users, and other agents, while many e",
-      "authors": [
-        "Keyang Xuan",
-        "Peiyang Song",
-        "Pan Lu",
-        "Pengrui Han",
-        "Wenkai Li"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.19147",
-      "title": "Be Kind, Rewrite: Benign Projections via Rewriting Defend Against LLM Data Poisoning Attacks",
-      "url": "https://huggingface.co/papers/2605.19147",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-17T20:00:00.000Z",
-      "abstract": "Large language models (LLMs) are highly susceptible to backdoor attacks (BAs), wherein training samples are poisoned using trigger-based harmful content. Furthermore, existing defenses have proven ine",
-      "authors": [
-        "John T. Halloran",
-        "Noopur S. Bhatt"
+        "Sangwoo Park",
+        "Woongyeong Yeo",
+        "Seanie Lee",
+        "Yumin Choi",
+        "Hyomin Lee"
       ],
       "tags": [
         "llm"
@@ -106,48 +58,22 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.18263",
-      "title": "RT-Splatting: Joint Reflection-Transmission Modeling with Gaussian Splatting",
-      "url": "https://huggingface.co/papers/2605.18263",
+      "id": "hf_paper_2605.18565",
+      "title": "LongMINT: Evaluating Memory under Multi-Target Interference in Long-Horizon Agent Systems",
+      "url": "https://huggingface.co/papers/2605.18565",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-17T20:00:00.000Z",
-      "abstract": "3D Gaussian Splatting (3DGS) enables real-time novel view synthesis with high visual quality. However, existing methods struggle with semi-transparent specular surfaces that exhibit both complex refle",
+      "abstract": "Real-world agents operate over long and evolving horizons, where information is repeatedly updated and may interfere across memories, requiring accurate recall and aggregated reasoning over multiple p",
       "authors": [
-        "Ji Shi",
-        "Xianghua Ying",
-        "Bowei Xing",
-        "Ruohao Guo",
-        "Wenzhen Yue"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.17734",
-      "title": "Harnessing LLM Agents with Skill Programs",
-      "url": "https://huggingface.co/papers/2605.17734",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-17T20:00:00.000Z",
-      "abstract": "Equipping LLM agents with reusable skills derived from past experience has become a popular and successful approach for tackling complex and long-horizon tasks. However, such lessons are often encoded",
-      "authors": [
-        "Hongjun Liu",
-        "Yifei Ming",
-        "Shafiq Joty",
-        "Chen Zhao"
+        "Hyunji Lee",
+        "Justin Chih-Yao Chen",
+        "Joykirat Singh",
+        "Zaid Khan",
+        "Elias Stengel-Eskin"
       ],
       "tags": [
-        "llm",
         "agent"
       ],
       "score": 6,

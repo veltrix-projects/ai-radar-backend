@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-21T04:50:28.044Z",
+  "generatedAt": "2026-05-21T08:26:52.697Z",
   "date": "19-05-2026",
-  "count": 25,
+  "count": 34,
   "summary": null,
   "items": [
     {
@@ -93,7 +93,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 137992,
+      "stars": 138013,
       "votes": 0,
       "points": 0
     },
@@ -105,26 +105,6 @@
       "sourceIcon": "🔺",
       "type": "news",
       "timestamp": "2026-05-19T21:24:14.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Ftech%2F",
-      "title": "Google’s AI future demands trust — and your personal data",
-      "url": "https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data",
-      "source": "The Verge AI",
-      "sourceIcon": "🔺",
-      "type": "news",
-      "timestamp": "2026-05-19T21:00:00.000Z",
       "abstract": "",
       "authors": [],
       "tags": [],
@@ -192,6 +172,276 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.21468",
+      "title": "You Only Need Minimal RLVR Training: Extrapolating LLMs via Rank-1 Trajectories",
+      "url": "https://huggingface.co/papers/2605.21468",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-19T20:00:00.000Z",
+      "abstract": "Reinforcement learning with verifiable rewards (RLVR) has become a dominant paradigm for improving reasoning in large language models (LLMs), yet the underlying geometry of the resulting parameter tra",
+      "authors": [
+        "Zhepei Wei",
+        "Xinyu Zhu",
+        "Wei-Lin Chen",
+        "Chengsong Huang",
+        "Jiaxin Huang"
+      ],
+      "tags": [
+        "llm",
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.21226",
+      "title": "OCTOPUS: Optimized KV Cache for Transformers via Octahedral Parametrization Under optimal Squared error quantization",
+      "url": "https://huggingface.co/papers/2605.21226",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-19T20:00:00.000Z",
+      "abstract": "The key-value (KV) cache dominates memory bandwidth and footprint in long-context autoregressive inference. Recent rotation-preconditioned codecs (TurboQuant, PolarQuant) show that a structured random",
+      "authors": [
+        "Mark Boss",
+        "Vikram Voleti",
+        "Simon Donné",
+        "Shimon Vainer"
+      ],
+      "tags": [
+        "transformer"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.20682",
+      "title": "IndusAgent: Reinforcing Open-Vocabulary Industrial Anomaly Detection with Agentic Tools",
+      "url": "https://huggingface.co/papers/2605.20682",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-19T20:00:00.000Z",
+      "abstract": "Multimodal large language models (MLLMs) have shown remarkable capability in bridging visual perception and textual reasoning, enabling zero-shot understanding across diverse industrial scenarios. How",
+      "authors": [
+        "Rongbin Tan",
+        "Fangfang Lin",
+        "Zhenlong Yuan",
+        "Min Qiu",
+        "Kejin Cui"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.21343",
+      "title": "OcclusionFormer: Arranging Z-Order for Layout-Grounded Image Generation",
+      "url": "https://huggingface.co/papers/2605.21343",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-19T20:00:00.000Z",
+      "abstract": "Recent layout-to-image models have achieved remarkable progress in spatial controllability. However, they still struggle with inter-object occlusion. When bounding boxes overlap, most existing methods",
+      "authors": [
+        "Ziye Li",
+        "Henghui Ding"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.20834",
+      "title": "Conditional Equivalence of DPO and RLHF: Implicit Assumption, Failure Modes, and Provable Alignment",
+      "url": "https://huggingface.co/papers/2605.20834",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-19T20:00:00.000Z",
+      "abstract": "Direct Preference Optimization (DPO) has emerged as a popular alternative to Reinforcement Learning from Human Feedback (RLHF), offering theoretical equivalence with simpler implementation. We prove t",
+      "authors": [
+        "Zhiqin Yang",
+        "Yonggang Zhang",
+        "Wei Xue",
+        "Dong Fang",
+        "Bo Han"
+      ],
+      "tags": [
+        "alignment"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.21431",
+      "title": "iTryOn: Mastering Interactive Video Virtual Try-On with Spatial-Semantic Guidance",
+      "url": "https://huggingface.co/papers/2605.21431",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-19T20:00:00.000Z",
+      "abstract": "Video Virtual Try-On (VVT) aims to seamlessly replace a garment on a person in a video with a new one. While existing methods have made significant strides in maintaining temporal consistency, they ar",
+      "authors": [
+        "Jun Zheng",
+        "Zhengze Xu",
+        "Mengting Chen",
+        "Jing Wang",
+        "Jinsong Lan"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.20613",
+      "title": "HRM-Text: Efficient Pretraining Beyond Scaling",
+      "url": "https://huggingface.co/papers/2605.20613",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-19T20:00:00.000Z",
+      "abstract": "The current pretraining paradigm for large language models relies on massive compute and internet-scale raw text, creating a significant barrier to foundational research. In contrast, biological syste",
+      "authors": [
+        "Guan Wang",
+        "Changling Liu",
+        "Chenyu Wang",
+        "Cai Zhou",
+        "Yuhao Sun"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.20955",
+      "title": "DrawMotion: Generating 3D Human Motions by Freehand Drawing",
+      "url": "https://huggingface.co/papers/2605.20955",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-19T20:00:00.000Z",
+      "abstract": "Text-to-motion generation, which translates textual descriptions into human motions, faces the challenge that users often struggle to precisely convey their intended motions through text alone. To add",
+      "authors": [
+        "Tao Wang",
+        "Lei Jin",
+        "Zhihua Wu",
+        "Qiaozhi He",
+        "Jiaming Chu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.20873",
+      "title": "PlanningBench: Generating Scalable and Verifiable Planning Data for Evaluating and Training Large Language Models",
+      "url": "https://huggingface.co/papers/2605.20873",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-19T20:00:00.000Z",
+      "abstract": "Planning is a fundamental capability for large language models (LLMs) because such complex tasks require models to coordinate goals, constraints, resources, and long-term consequences into executable",
+      "authors": [
+        "Ziliang Zhao",
+        "Zenan Xu",
+        "Shuting Wang",
+        "Hongjin Qian",
+        "Yan Lei"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.21384",
+      "title": "SpecBench: Measuring Reward Hacking in Long-Horizon Coding Agents",
+      "url": "https://huggingface.co/papers/2605.21384",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-19T20:00:00.000Z",
+      "abstract": "As long-horizon coding agents produce more code than any developer can review, oversight collapses onto a single surface: the automated test suite. Reward hacking naturally arises in this setup, as th",
+      "authors": [
+        "Bingchen Zhao",
+        "Dhruv Srikanth",
+        "Yuxiang Wu",
+        "Zhengyao Jiang"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
