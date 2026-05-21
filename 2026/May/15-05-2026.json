@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-21T22:46:44.569Z",
+  "generatedAt": "2026-05-21T23:52:42.156Z",
   "date": "15-05-2026",
-  "count": 5,
+  "count": 6,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,31 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.17109",
+      "title": "DynMuon: A Dynamic Spectral Shaping View of Muon",
+      "url": "https://huggingface.co/papers/2605.17109",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-15T20:00:00.000Z",
+      "abstract": "In recent years, Muon has emerged as the dominant method for training large language models, and transformers more broadly. The essential difference, when compared to standard gradient descent methods",
+      "authors": [
+        "Fangzhou Wu",
+        "Rikhav Shah",
+        "Sandeep Silwal",
+        "Qiuyi Zhang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
