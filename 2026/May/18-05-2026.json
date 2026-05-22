@@ -1,197 +1,26 @@
 {
-  "generatedAt": "2026-05-22T02:30:56.051Z",
+  "generatedAt": "2026-05-22T06:40:30.868Z",
   "date": "18-05-2026",
-  "count": 14,
+  "count": 8,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2605.20179",
-      "title": "TIDE: Efficient and Lossless MoE Diffusion LLM Inference with I/O-aware Expert Offload",
-      "url": "https://huggingface.co/papers/2605.20179",
+      "id": "hf_paper_2605.14678",
+      "title": "π-Bench: Evaluating Proactive Personal Assistant Agents in Long-Horizon Workflows",
+      "url": "https://huggingface.co/papers/2605.14678",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-18T20:00:00.000Z",
-      "abstract": "Diffusion Large Language Models (dLLMs) have emerged as a competitive alternative to autoregressive (AR) models, offering better hardware utilization and bidirectional context through parallel block-l",
+      "abstract": "The rise of personal assistant agents, e.g., OpenClaw, highlights the growing potential of large language models to support users across everyday life and work. A core challenge in these settings is p",
       "authors": [
-        "Zhiben Chen",
-        "Youpeng Zhao",
-        "Yang Sui",
-        "Jun Wang",
-        "Yuzhang Shang"
+        "Haoran Zhang",
+        "Luxin Xu",
+        "Zhilin Wang",
+        "Runquan Gui",
+        "Shunkai Zhang"
       ],
       "tags": [
-        "llm",
-        "diffusion",
-        "inference"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.20119",
-      "title": "Toto 2.0: Time Series Forecasting Enters the Scaling Era",
-      "url": "https://huggingface.co/papers/2605.20119",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-18T20:00:00.000Z",
-      "abstract": "We show that time series foundation models scale: a single training recipe produces reliable forecast-quality improvements from 4M to 2.5B parameters. We release Toto 2.0, a family of five open-weight",
-      "authors": [
-        "Emaad Khwaja",
-        "Chris Lettieri",
-        "Gerald Woo",
-        "Eden Belouadah",
-        "Marc Cenac"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.19597",
-      "title": "LLMEval-Logic: A Solver-Verified Chinese Benchmark for Logical Reasoning of LLMs with Adversarial Hardening",
-      "url": "https://huggingface.co/papers/2605.19597",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-18T20:00:00.000Z",
-      "abstract": "Evaluating large language models (LLMs) on natural-language logical reasoning is essential because rule-governed tasks require conclusions to follow strictly from stated premises. Many existing logica",
-      "authors": [
-        "Ming Zhang",
-        "Qiyuan Peng",
-        "Yinxi Wei",
-        "Yujiong Shen",
-        "Kexin Tan"
-      ],
-      "tags": [
-        "llm",
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.19833",
-      "title": "Mega-ASR: Towards In-the-wild^2 Speech Recognition via Scaling up Real-world Acoustic Simulation",
-      "url": "https://huggingface.co/papers/2605.19833",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-18T20:00:00.000Z",
-      "abstract": "Despite rapid advances in automatic speech recognition (ASR) and large audio-language models, robust recognition in real-world environments remains limited by an \"acoustic robustness bottleneck\": mode",
-      "authors": [
-        "Zhifei Xie",
-        "Kaiyu Pang",
-        "Haobin Zhang",
-        "Deheng Ye",
-        "Xiaobin Hu"
-      ],
-      "tags": [
-        "speech"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.19330",
-      "title": "MOCHA: Multi-Objective Chebyshev Annealing for Agent Skill Optimization",
-      "url": "https://huggingface.co/papers/2605.19330",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-18T20:00:00.000Z",
-      "abstract": "LLM agents organize behavior through skills - structured natural-language specifications governing how an agent reasons, retrieves, and responds. Unlike monolithic prompts, skills are multi-field arti",
-      "authors": [
-        "Md Mehrab Tanjim",
-        "Jayakumar Subramanian",
-        "Xiang Chen",
-        "Branislav Kveton",
-        "Subhojyoti Mukherjee"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.19484",
-      "title": "CutVerse: A Compositional GUI Agents Benchmark for Media Post-Production Editing",
-      "url": "https://huggingface.co/papers/2605.19484",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-18T20:00:00.000Z",
-      "abstract": "While GUI agents have made significant progress in web navigation and basic operating system tasks, their capabilities in professional creative workflows remain largely underexplored. To bridge this g",
-      "authors": [
-        "Haobo Hu",
-        "Xiangwu Guo",
-        "Zhiheng Chen",
-        "Difei Gao",
-        "Haotian Liu"
-      ],
-      "tags": [
-        "agent",
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.20315",
-      "title": "Mix-Quant: Quantized Prefilling, Precise Decoding for Agentic LLMs",
-      "url": "https://huggingface.co/papers/2605.20315",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-18T20:00:00.000Z",
-      "abstract": "LLM agents have recently emerged as a powerful paradigm for solving complex tasks through planning, tool use, memory retrieval, and multi-step interaction. However, these agentic workflows often intro",
-      "authors": [
-        "Haiquan Lu",
-        "Zigeng Chen",
-        "Gongfan Fang",
-        "Xinyin Ma",
-        "Xinchao Wang"
-      ],
-      "tags": [
-        "llm",
         "agent"
       ],
       "score": 6,
@@ -290,7 +119,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 138020,
+      "stars": 138037,
       "votes": 0,
       "points": 0
     },

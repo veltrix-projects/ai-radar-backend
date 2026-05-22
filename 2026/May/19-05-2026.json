@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-22T02:30:56.050Z",
+  "generatedAt": "2026-05-22T06:40:30.867Z",
   "date": "19-05-2026",
-  "count": 12,
+  "count": 14,
   "summary": null,
   "items": [
     {
@@ -67,24 +67,47 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.21468",
-      "title": "You Only Need Minimal RLVR Training: Extrapolating LLMs via Rank-1 Trajectories",
-      "url": "https://huggingface.co/papers/2605.21468",
+      "id": "hf_paper_2605.21572",
+      "title": "PhysX-Omni: Unified Simulation-Ready Physical 3D Generation for Rigid, Deformable, and Articulated Objects",
+      "url": "https://huggingface.co/papers/2605.21572",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-19T20:00:00.000Z",
-      "abstract": "Reinforcement learning with verifiable rewards (RLVR) has become a dominant paradigm for improving reasoning in large language models (LLMs), yet the underlying geometry of the resulting parameter tra",
+      "abstract": "Simulation-ready physical 3D assets have emerged as a promising direction owing to their broad applicability in downstream tasks. However, most existing 3D generation methods either neglect physical p",
       "authors": [
-        "Zhepei Wei",
-        "Xinyu Zhu",
-        "Wei-Lin Chen",
-        "Chengsong Huang",
-        "Jiaxin Huang"
+        "Ziang Cao",
+        "Yinghao Liu",
+        "Haitian Li",
+        "Runmao Yao",
+        "Fangzhou Hong"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.21467",
+      "title": "DelTA: Discriminative Token Credit Assignment for Reinforcement Learning from Verifiable Rewards",
+      "url": "https://huggingface.co/papers/2605.21467",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-19T20:00:00.000Z",
+      "abstract": "Reinforcement learning from verifiable rewards (RLVR) has emerged as a central technique for improving the reasoning capabilities of large language models. Despite its effectiveness, how response-leve",
+      "authors": [
+        "Kaiyi Zhang",
+        "Wei Wu",
+        "Yankai Lin"
       ],
       "tags": [
-        "llm",
-        "training"
+        "reinforcement learning"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -96,23 +119,46 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.21226",
-      "title": "OCTOPUS: Optimized KV Cache for Transformers via Octahedral Parametrization Under optimal Squared error quantization",
-      "url": "https://huggingface.co/papers/2605.21226",
+      "id": "hf_paper_2605.20910",
+      "title": "FlowLong: Inference-time Long Video Generation via Manifold-constrained Tweedie Matching",
+      "url": "https://huggingface.co/papers/2605.20910",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-19T20:00:00.000Z",
-      "abstract": "The key-value (KV) cache dominates memory bandwidth and footprint in long-context autoregressive inference. Recent rotation-preconditioned codecs (TurboQuant, PolarQuant) show that a structured random",
+      "abstract": "Extending the generation horizon of video diffusion models to long sequences remains a long-standing and important challenge. Existing training-free approaches fall into two categories: extensions of",
       "authors": [
-        "Mark Boss",
-        "Vikram Voleti",
-        "Simon Donné",
-        "Shimon Vainer"
+        "Jangho Park",
+        "Geon Yeong Park",
+        "Gihyun Kwon",
+        "Jong Chul Ye"
       ],
       "tags": [
-        "transformer"
+        "inference"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.21803",
+      "title": "Same Architecture, Different Capacity: Optimizer-Induced Spectral Scaling Laws",
+      "url": "https://huggingface.co/papers/2605.21803",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-19T20:00:00.000Z",
+      "abstract": "Scaling laws have made language-model performance predictable from model size, data, and compute, but they typically treat the optimizer as a fixed training detail. We show that this assumption misses",
+      "authors": [
+        "Nandan Kumar Jha",
+        "Brandon Reagen"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

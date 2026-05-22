@@ -1,28 +1,25 @@
 {
-  "generatedAt": "2026-05-21T22:46:44.572Z",
+  "generatedAt": "2026-05-22T06:40:30.871Z",
   "date": "11-05-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2602.07892",
-      "title": "Safety Alignment as Continual Learning: Mitigating the Alignment Tax via Orthogonal Gradient Projection",
-      "url": "https://huggingface.co/papers/2602.07892",
+      "id": "hf_paper_2605.12817",
+      "title": "Training Large Language Models to Predict Clinical Events",
+      "url": "https://huggingface.co/papers/2605.12817",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-11T20:00:00.000Z",
-      "abstract": "Safety post-training can improve the harmfulness and policy compliance of Large Language Models (LLMs), but it may also reduce general utility, a phenomenon often described as the alignment tax. We st",
+      "abstract": "Longitudinal clinical notes contain rich evidence of how patients evolve over time, but converting this signal into training supervision for clinical prediction remains challenging. We extend Foresigh",
       "authors": [
-        "Guanglong Sun",
-        "Siyuan Zhang",
-        "Liyuan Wang",
-        "Jun Zhu",
-        "Hang Su"
+        "Benjamin Turtel",
+        "Paul Wilczewski",
+        "Kris Skotheim"
       ],
       "tags": [
-        "alignment",
-        "safety"
+        "training"
       ],
       "score": 6,
       "priority": "MEDIUM",
