@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T12:36:34.304Z",
+  "generatedAt": "2026-05-22T15:44:28.141Z",
   "date": "19-05-2026",
   "count": 18,
   "summary": null,
@@ -59,6 +59,31 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.21363",
+      "title": "\"I didn't Make the Micro Decisions\": Measuring, Inducing, and Exposing Goal-Level AI Contributions in Collaboration",
+      "url": "https://huggingface.co/papers/2605.21363",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-19T20:00:00.000Z",
+      "abstract": "As large language models (LLMs) increasingly shape how users form, refine, and extend their goals, attributing contributions in human-AI collaboration becomes critical for users calibrating their own",
+      "authors": [
+        "Eunsu Kim",
+        "Jessica R. Mindel",
+        "Kyungjin Kim",
+        "Sherry Tongshuang Wu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -164,33 +189,6 @@
       ],
       "tags": [
         "reinforcement learning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.20910",
-      "title": "FlowLong: Inference-time Long Video Generation via Manifold-constrained Tweedie Matching",
-      "url": "https://huggingface.co/papers/2605.20910",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-19T20:00:00.000Z",
-      "abstract": "Extending the generation horizon of video diffusion models to long sequences remains a long-standing and important challenge. Existing training-free approaches fall into two categories: extensions of",
-      "authors": [
-        "Jangho Park",
-        "Geon Yeong Park",
-        "Gihyun Kwon",
-        "Jong Chul Ye"
-      ],
-      "tags": [
-        "inference"
       ],
       "score": 6,
       "priority": "MEDIUM",
