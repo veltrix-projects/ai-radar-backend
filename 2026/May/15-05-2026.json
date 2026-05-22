@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-22T06:40:30.869Z",
+  "generatedAt": "2026-05-22T10:16:30.698Z",
   "date": "15-05-2026",
-  "count": 4,
+  "count": 6,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,56 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.16928",
+      "title": "Full Attention Strikes Back: Transferring Full Attention into Sparse within Hundred Training Steps",
+      "url": "https://huggingface.co/papers/2605.16928",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-15T20:00:00.000Z",
+      "abstract": "Long-context inference in large language models is bottlenecked by the quadratic cost of full attention. Existing efficient alternatives often rely either on native sparse training or on heuristic tok",
+      "authors": [
+        "Yanke Zhou",
+        "Yiduo Li",
+        "Hanlin Tang",
+        "Maohua Li",
+        "Kan Liu"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "Deloitte: Scale &#8216;autonomous intelligence&#8217; for real growth",
+      "url": "https://www.artificialintelligence-news.com/news/deloitte-scale-autonomous-intelligence-for-real-growth/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-05-15T15:02:00.000Z",
+      "abstract": "Enterprise leaders must progress past generative applications and scale &#8220;autonomous intelligence&#8221; to capture real growth. Generating text or summarising internal communications offers loca",
+      "authors": [],
+      "tags": [
+        "autonomous"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
