@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T19:23:10.649Z",
+  "generatedAt": "2026-05-22T20:52:25.083Z",
   "date": "19-05-2026",
   "count": 15,
   "summary": null,
@@ -67,6 +67,34 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2605.17602",
+      "title": "AutoRubric-T2I: Robust Rule-Based Reward Model for Text-to-Image Alignment",
+      "url": "https://huggingface.co/papers/2605.17602",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-19T20:00:00.000Z",
+      "abstract": "Aligning Text-to-Image (T2I) generation models with human preferences increasingly relies on image reward models that score or rank generated images according to prompt alignment and perceptual qualit",
+      "authors": [
+        "Kuei-Chun Kao",
+        "Daixuan Huo",
+        "Yuanhao Ban",
+        "Cho-Jui Hsieh"
+      ],
+      "tags": [
+        "alignment",
+        "text-to-image"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2605.21363",
       "title": "\"I didn't Make the Micro Decisions\": Measuring, Inducing, and Exposing Goal-Level AI Contributions in Collaboration",
       "url": "https://huggingface.co/papers/2605.21363",
@@ -82,34 +110,6 @@
         "Sherry Tongshuang Wu"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.21605",
-      "title": "GenEvolve: Self-Evolving Image Generation Agents via Tool-Orchestrated Visual Experience Distillation",
-      "url": "https://huggingface.co/papers/2605.21605",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-19T20:00:00.000Z",
-      "abstract": "Open-ended image generation is no longer a simple prompt-to-image problem. High-quality generation often requires an agent to combine a model's internal generative ability with external resources. As",
-      "authors": [
-        "Sixiang Chen",
-        "Zhaohu Xing",
-        "Tian Ye",
-        "Xinyu Geng",
-        "Yunlong Lin"
-      ],
-      "tags": [
-        "agent"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

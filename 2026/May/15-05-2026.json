@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-22T19:23:10.651Z",
+  "generatedAt": "2026-05-22T20:52:25.085Z",
   "date": "15-05-2026",
-  "count": 5,
+  "count": 4,
   "summary": null,
   "items": [
     {
@@ -17,34 +17,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.16928",
-      "title": "Full Attention Strikes Back: Transferring Full Attention into Sparse within Hundred Training Steps",
-      "url": "https://huggingface.co/papers/2605.16928",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-15T20:00:00.000Z",
-      "abstract": "Long-context inference in large language models is bottlenecked by the quadratic cost of full attention. Existing efficient alternatives often rely either on native sparse training or on heuristic tok",
-      "authors": [
-        "Yanke Zhou",
-        "Yiduo Li",
-        "Hanlin Tang",
-        "Maohua Li",
-        "Kan Liu"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -95,16 +67,18 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Facademy%2Fcod",
-      "title": "How sales teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fperso",
+      "title": "A new personal finance experience in ChatGPT",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
       "timestamp": "2026-05-15T00:00:00.000Z",
       "abstract": "",
       "authors": [],
-      "tags": [],
+      "tags": [
+        "gpt"
+      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
