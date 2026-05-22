@@ -1,53 +1,24 @@
 {
-  "generatedAt": "2026-05-20T03:45:53.124Z",
+  "generatedAt": "2026-05-22T12:36:34.308Z",
   "date": "10-05-2026",
-  "count": 2,
+  "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2605.16386",
-      "title": "Auditing Multimodal LLM Raters: Central Tendency Bias in Clinical Ordinal Scoring",
-      "url": "https://huggingface.co/papers/2605.16386",
+      "id": "hf_paper_2605.10158",
+      "title": "Unsupervised Process Reward Models",
+      "url": "https://huggingface.co/papers/2605.10158",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-10T20:00:00.000Z",
-      "abstract": "Multimodal large language models (LLMs) are increasingly explored as automated evaluators in clinical settings, yet their scoring behavior on ordinal clinical scales remains poorly understood. We benc",
+      "abstract": "Process Reward Models (PRMs) are a powerful mechanism for steering large language model reasoning by providing fine-grained, step-level supervision. However, this effectiveness comes at a significant",
       "authors": [
-        "Jiaqing Zhang",
-        "Sandeep Elluri",
-        "Bhanu Cherukuvada",
-        "Yonah Joffe",
-        "Jessica Sena"
-      ],
-      "tags": [
-        "llm",
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.10126",
-      "title": "AR-VLA: True Autoregressive Action Expert for Vision-Language-Action Models",
-      "url": "https://huggingface.co/papers/2603.10126",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-10T20:00:00.000Z",
-      "abstract": "We propose a standalone autoregressive (AR) Action Expert that generates actions as a continuous causal sequence while conditioning on refreshable vision-language prefixes. In contrast to existing Vis",
-      "authors": [
-        "Yutong Hu",
-        "Jan-Nico Zaech",
-        "Nikolay Nikolov",
-        "Yuanqi Yao",
-        "Sombit Dey"
+        "Artyom Gadetsky",
+        "Maxim Kodryan",
+        "Siba Smarak Panigrahi",
+        "Hang Guo",
+        "Maria Brbic"
       ],
       "tags": [],
       "score": 6,

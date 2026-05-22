@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-22T10:16:30.693Z",
+  "generatedAt": "2026-05-22T12:36:34.303Z",
   "date": "20-05-2026",
-  "count": 26,
+  "count": 24,
   "summary": null,
   "items": [
     {
@@ -34,6 +34,32 @@
       "timestamp": "2026-05-20T21:42:31.000Z",
       "abstract": "turbovec brings Google Research's TurboQuant algorithm to vector search, offering 16x compression and zero codebook training for RAG pipelines.\nThe post Meet Turbovec: A Rust Vector Index with Python",
       "authors": [],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.22777",
+      "title": "DecQ: Detail-Condensing Queries for Enhanced Reconstruction and Generation in Representation Autoencoders",
+      "url": "https://huggingface.co/papers/2605.22777",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-20T20:00:00.000Z",
+      "abstract": "Representation Autoencoders (RAEs) leverage frozen vision foundation models (VFMs) as tokenizer encoders, providing robust high-level representations that facilitate fast convergence and high-quality",
+      "authors": [
+        "Tianhang Wang",
+        "Yitong Chen",
+        "Wei Song",
+        "Zuxuan Wu",
+        "Min Li"
+      ],
       "tags": [],
       "score": 6,
       "priority": "MEDIUM",
@@ -256,62 +282,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.22109",
-      "title": "Perception or Prejudice: Can MLLMs Go Beyond First Impressions of Personality?",
-      "url": "https://huggingface.co/papers/2605.22109",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-20T20:00:00.000Z",
-      "abstract": "Multimodal Large Language Models (MLLMs) are increasingly deployed in human-facing roles where personality perception is critical, yet existing benchmarks evaluate this capability solely on numerical",
-      "authors": [
-        "Caixin Kang",
-        "Tianyu Yan",
-        "Sitong Gong",
-        "Mingfang Zhang",
-        "Liangyang Ouyang"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.22809",
-      "title": "Sensor2Sensor: Cross-Embodiment Sensor Conversion for Autonomous Driving",
-      "url": "https://huggingface.co/papers/2605.22809",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-20T20:00:00.000Z",
-      "abstract": "Robust training and validation of Autonomous Driving Systems (ADS) require massive, diverse datasets. Proprietary data collected by Autonomous Vehicle (AV) fleets, while high-fidelity, are limited in",
-      "authors": [
-        "Jiahao Wang",
-        "Bo Sun",
-        "Yijing Bai",
-        "Vincent Casser",
-        "Songyou Peng"
-      ],
-      "tags": [
-        "autonomous"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "Mastering Agentic Techniques: AI Agent Customization",
       "url": "https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-customization/",
@@ -504,29 +474,6 @@
       "points": 0
     },
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Alibaba Qwen Team Introduces Qwen3.5-LiveTranslate-Flash: Real-Time Multimodal Interpretation Across 60 Languages at 2.8-Second Latency",
-      "url": "https://www.marktechpost.com/2026/05/20/alibaba-qwen-team-introduces-qwen3-5-livetranslate-flash-real-time-multimodal-interpretation-across-60-languages-at-2-8-second-latency/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-05-20T08:09:51.000Z",
-      "abstract": "Alibaba's Qwen team has released Qwen3.5-LiveTranslate-Flash, a real-time multimodal translation model that processes audio and video simultaneously. The model covers 60 input languages and produces s",
-      "authors": [],
-      "tags": [
-        "qwen",
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "gh_1136590548",
       "title": "affaan-m/ECC — The agent harness performance optimization system. Skills, instincts, memory, security, and research",
       "url": "https://github.com/affaan-m/ECC",
@@ -552,7 +499,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 188299,
+      "stars": 188373,
       "votes": 0,
       "points": 0
     },
