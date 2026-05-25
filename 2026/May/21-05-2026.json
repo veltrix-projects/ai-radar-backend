@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-25T11:32:49.848Z",
+  "generatedAt": "2026-05-25T14:35:02.569Z",
   "date": "21-05-2026",
-  "count": 35,
+  "count": 33,
   "summary": null,
   "items": [
     {
@@ -318,62 +318,6 @@
       ],
       "tags": [
         "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.23904",
-      "title": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
-      "url": "https://huggingface.co/papers/2605.23904",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-21T20:00:00.000Z",
-      "abstract": "Agent skills today are hand-crafted, generated one-shot, or evolved through loosely controlled self-revision, none of which behaves like a deep-learning optimizer for the skill, and none of which reli",
-      "authors": [
-        "Yifan Yang",
-        "Ziyang Gong",
-        "Weiquan Huang",
-        "Qihao Yang",
-        "Ziwei Zhou"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.23902",
-      "title": "PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion",
-      "url": "https://huggingface.co/papers/2605.23902",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-21T20:00:00.000Z",
-      "abstract": "Most practical high-resolution text-to-image systems, including latent diffusion and autoregressive models, perform generation in a compact latent space, and a decoder maps the generated latents back",
-      "authors": [
-        "Yifan Lu",
-        "Qi Wu",
-        "Jay Zhangjie Wu",
-        "Zian Wang",
-        "Huan Ling"
-      ],
-      "tags": [
-        "diffusion"
       ],
       "score": 6,
       "priority": "MEDIUM",
