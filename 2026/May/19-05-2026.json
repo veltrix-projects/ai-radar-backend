@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-25T02:34:52.347Z",
+  "generatedAt": "2026-05-25T07:03:38.828Z",
   "date": "19-05-2026",
-  "count": 14,
+  "count": 16,
   "summary": null,
   "items": [
     {
@@ -67,6 +67,93 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2605.20708",
+      "title": "Rethinking Cross-Layer Information Routing in Diffusion Transformers",
+      "url": "https://huggingface.co/papers/2605.20708",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-19T20:00:00.000Z",
+      "abstract": "Diffusion Transformers (DiTs) have become a de facto backbone of modern visual generation, and nearly every major axis of their design -- tokenization, attention, conditioning, objectives, and latent",
+      "authors": [
+        "Chao Xu",
+        "Maohua Li",
+        "Qirui Li",
+        "Yixuan Xu",
+        "Yanke Zhou"
+      ],
+      "tags": [
+        "transformer",
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.21195",
+      "title": "RankE: End-to-End Post-Training for Discrete Text-to-Image Generation with Decoder Co-Evolution",
+      "url": "https://huggingface.co/papers/2605.21195",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-19T20:00:00.000Z",
+      "abstract": "Discrete autoregressive (AR) text-to-image (T2I) models pair a VQ tokenizer with an AR policy, and current post-training pipelines optimize only the policy while keeping the VQ decoder frozen. Recent",
+      "authors": [
+        "Siyong Jian",
+        "Siyuan Li",
+        "Luyuan Zhang",
+        "Zedong Wang",
+        "Xin Jin"
+      ],
+      "tags": [
+        "training",
+        "text-to-image"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.21573",
+      "title": "Lens: Rethinking Training Efficiency for Foundational Text-to-Image Models",
+      "url": "https://huggingface.co/papers/2605.21573",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-19T20:00:00.000Z",
+      "abstract": "We introduce Lens, a 3.8B-parameter T2I model that achieves performance competitive with, and in several cases surpassing, state-of-the-art models with more than 6B parameters across various benchmark",
+      "authors": [
+        "Dong Chen",
+        "Fangyun Wei",
+        "Ziyu Wan",
+        "Dongdong Chen",
+        "Jiawei Zhang"
+      ],
+      "tags": [
+        "training",
+        "text-to-image"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2605.17602",
       "title": "AutoRubric-T2I: Robust Rule-Based Reward Model for Text-to-Image Alignment",
       "url": "https://huggingface.co/papers/2605.17602",
@@ -85,31 +172,6 @@
         "alignment",
         "text-to-image"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.21363",
-      "title": "\"I didn't Make the Micro Decisions\": Measuring, Inducing, and Exposing Goal-Level AI Contributions in Collaboration",
-      "url": "https://huggingface.co/papers/2605.21363",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-19T20:00:00.000Z",
-      "abstract": "As large language models (LLMs) increasingly shape how users form, refine, and extend their goals, attributing contributions in human-AI collaboration becomes critical for users calibrating their own",
-      "authors": [
-        "Eunsu Kim",
-        "Jessica R. Mindel",
-        "Kyungjin Kim",
-        "Sherry Tongshuang Wu"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

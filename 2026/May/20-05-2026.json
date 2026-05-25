@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-25T02:34:52.346Z",
+  "generatedAt": "2026-05-25T07:03:38.827Z",
   "date": "20-05-2026",
-  "count": 19,
+  "count": 13,
   "summary": null,
   "items": [
     {
@@ -25,25 +25,19 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.22717",
-      "title": "Live Music Diffusion Models: Efficient Fine-Tuning and Post-Training of Interactive Diffusion Music Generators",
-      "url": "https://huggingface.co/papers/2605.22717",
+      "id": "hf_paper_2604.20665",
+      "title": "The Expense of Seeing: Attaining Trustworthy Multimodal Reasoning Within the Monolithic Paradigm",
+      "url": "https://huggingface.co/papers/2604.20665",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-20T20:00:00.000Z",
-      "abstract": "Interactive streaming music generation promises the use of generative models for live performance and co-creation that is impossible with offline models. However, SOTA models exist in the discrete-AR",
+      "abstract": "The rapid proliferation of Vision-Language Models (VLMs) is often framed as enabling unified multimodal knowledge discovery but rests on an under-examined assumption: that current VLMs faithfully synt",
       "authors": [
-        "Zachary Novack",
-        "Stephen Brade",
-        "Haven Kim",
-        "Hugo Flores García",
-        "Nithya Shikarpur"
+        "Karan Goyal"
       ],
       "tags": [
-        "diffusion",
-        "fine-tuning",
-        "training"
+        "multimodal"
       ],
       "score": 8,
       "priority": "HIGH",
@@ -55,188 +49,26 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.22681",
-      "title": "Forecasting Scientific Progress with Artificial Intelligence",
-      "url": "https://huggingface.co/papers/2605.22681",
+      "id": "hf_paper_2605.22570",
+      "title": "VGenST-Bench: A Benchmark for Spatio-Temporal Reasoning via Active Video Synthesis",
+      "url": "https://huggingface.co/papers/2605.22570",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-20T20:00:00.000Z",
-      "abstract": "Artificial intelligence (AI) is increasingly embedded in scientific discovery, yet whether it can anticipate scientific progress remains unclear. To study this question, we introduce a temporally grou",
+      "abstract": "Spatio-temporal reasoning is a core capability for Multimodal Large Language Models (MLLMs) operating in the real world. As such, evaluating it precisely has become an essential challenge. However, ex",
       "authors": [
-        "Sean Wu",
-        "Pan Lu",
-        "Yupeng Chen",
-        "Jonathan Bragg",
-        "Yutaro Yamada"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.22138",
-      "title": "Efficient Agentic Reasoning Through Self-Regulated Simulative Planning",
-      "url": "https://huggingface.co/papers/2605.22138",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-20T20:00:00.000Z",
-      "abstract": "How should an agent decide when and how to plan? A dominant approach builds agents as reactive policies with adaptive computation (e.g., chain-of-thought), trained end-to-end expecting planning to eme",
-      "authors": [
-        "Mingkai Deng",
-        "Jinyu Hou",
-        "Lara Sá Neves",
-        "Varad Pimpalkhute",
-        "Taylor W. Killian"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.22715",
-      "title": "AnyMo: Geometry-Aware Setup-Agnostic Modeling of Human Motion in the Wild",
-      "url": "https://huggingface.co/papers/2605.22715",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-20T20:00:00.000Z",
-      "abstract": "As wearable and mobile devices become increasingly embedded in daily life, they offer a practical way to continuously sense human motion in the wild. But inertial signals are highly dependent on the s",
-      "authors": [
-        "Baiyu Chen",
-        "Zechen Li",
-        "Wilson Wongso",
-        "Lihuan Li",
-        "Xiachong Lin"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.22552",
-      "title": "FashionLens: Toward Versatile Fashion Image Retrieval via Task-Adaptive Learning",
-      "url": "https://huggingface.co/papers/2605.22552",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-20T20:00:00.000Z",
-      "abstract": "Fashion image retrieval is a cornerstone of modern e-commerce systems. A unified framework that supports diverse query formats and search intentions is highly desired in practice. However, existing ap",
-      "authors": [
-        "Haokun Wen",
-        "Xuemeng Song",
-        "Xinghao Xie",
-        "Xiaolin Chen",
-        "Xiangyu Zhao"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.22668",
-      "title": "SEGA: Spectral-Energy Guided Attention for Resolution Extrapolation in Diffusion Transformers",
-      "url": "https://huggingface.co/papers/2605.22668",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-20T20:00:00.000Z",
-      "abstract": "Diffusion transformers (DiTs) have emerged as a dominant architecture for text-to-image generation, yet their performance drops when generating at resolutions beyond their training range. Existing tra",
-      "authors": [
-        "Javad Rajabi",
-        "Kimia Shaban",
-        "Koorosh Roohi",
-        "David B. Lindell",
-        "Babak Taati"
-      ],
-      "tags": [
-        "transformer",
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.22777",
-      "title": "DecQ: Detail-Condensing Queries for Enhanced Reconstruction and Generation in Representation Autoencoders",
-      "url": "https://huggingface.co/papers/2605.22777",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-20T20:00:00.000Z",
-      "abstract": "Representation Autoencoders (RAEs) leverage frozen vision foundation models (VFMs) as tokenizer encoders, providing robust high-level representations that facilitate fast convergence and high-quality",
-      "authors": [
-        "Tianhang Wang",
-        "Yitong Chen",
-        "Wei Song",
-        "Zuxuan Wu",
-        "Min Li"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.22355",
-      "title": "TransitLM: A Large-Scale Dataset and Benchmark for Map-Free Transit Route Generation",
-      "url": "https://huggingface.co/papers/2605.22355",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-20T20:00:00.000Z",
-      "abstract": "Public transit route planning traditionally depends on structured map infrastructure and complex routing engines, and no existing dataset supports training models to bypass this dependency. We present",
-      "authors": [
-        "Hanyu Guo",
-        "Jiedong Yang",
-        "Chao Chen",
-        "Longfei Xu",
-        "Kaikui Liu"
+        "Jinho Park",
+        "Youbin Kim",
+        "Hogun Park",
+        "Eunbyung Park"
       ],
       "tags": [
         "benchmark"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

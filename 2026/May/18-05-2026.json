@@ -1,75 +1,28 @@
 {
-  "generatedAt": "2026-05-25T02:34:52.348Z",
+  "generatedAt": "2026-05-25T07:03:38.828Z",
   "date": "18-05-2026",
-  "count": 8,
+  "count": 6,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2605.20496",
-      "title": "Platonic Representations in the Human Brain: Unsupervised Recovery of Universal Geometry",
-      "url": "https://huggingface.co/papers/2605.20496",
+      "id": "hf_paper_2605.19282",
+      "title": "Rethinking Muon Beyond Pretraining: Spectral Failures and High-Pass Remedies for VLA and RLVR",
+      "url": "https://huggingface.co/papers/2605.19282",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-18T20:00:00.000Z",
-      "abstract": "The Strong Platonic Representation Hypothesis suggests that representational convergence in artificial neural networks can be harnessed constructively: embeddings can be translated across models throu",
+      "abstract": "Muon is a matrix-aware optimizer that leverages Newton-Schulz (NS) iterations to enforce spectral gradient orthogonalization by driving all singular values of the momentum matrix toward 1. While this",
       "authors": [
-        "Pablo Marcos-Manchón",
-        "Rishi Jha",
-        "Lluís Fuentemilla"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.20405",
-      "title": "Disentangling Sampling from Training Budget in Class-Imbalanced CT Body Composition Segmentation",
-      "url": "https://huggingface.co/papers/2605.20405",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-18T20:00:00.000Z",
-      "abstract": "Class imbalance is a fundamental challenge in medical image segmentation, where frequent classes typically dominate training at the expense of rare classes. Loss-based approaches mitigate imbalance by",
-      "authors": [
-        "Iason Skylitsis",
-        "Dimitrios Karkalousos",
-        "Ivana Išgum"
+        "Chongyu Fan",
+        "Gaowen Liu",
+        "Mingyi Hong",
+        "Ramana Rao Kompella",
+        "Sijia Liu"
       ],
       "tags": [
         "training"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.19990",
-      "title": "Minimalist Visual Inertial Odometry",
-      "url": "https://huggingface.co/papers/2605.19990",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-18T20:00:00.000Z",
-      "abstract": "Visual-Inertial Odometry(VIO), which is critical to mobile robot navigation, uses cameras with a large number of pixels. Capturing and processing camera images requires significant resources. This wor",
-      "authors": [
-        "Francesco Pasti",
-        "Jeremy Klotz",
-        "Nicola Bellotto",
-        "Shree K. Nayar"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

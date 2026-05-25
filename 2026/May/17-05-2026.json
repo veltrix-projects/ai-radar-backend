@@ -1,27 +1,26 @@
 {
-  "generatedAt": "2026-05-25T02:34:52.348Z",
+  "generatedAt": "2026-05-25T07:03:38.829Z",
   "date": "17-05-2026",
-  "count": 8,
+  "count": 7,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2605.18607",
-      "title": "Forecasting Downstream Performance of LLMs With Proxy Metrics",
-      "url": "https://huggingface.co/papers/2605.18607",
+      "id": "hf_paper_2605.18018",
+      "title": "See What I Mean: Aligning Vision and Language Representations for Video Fine-grained Object Understanding",
+      "url": "https://huggingface.co/papers/2605.18018",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-17T20:00:00.000Z",
-      "abstract": "Progress in language model development is often driven by comparative decisions: which architecture to adopt, which pretraining corpus to use, or which training recipe to apply. Making these decisions",
+      "abstract": "We present SWIM (See What I Mean), a novel training strategy that aligns vision and language representations to enable fine-grained object understanding solely from textual prompts. Unlike existing ap",
       "authors": [
-        "Arkil Patel",
-        "Siva Reddy",
-        "Marius Mosbach",
-        "Dzmitry Bahdanau"
+        "Boyuan Sun",
+        "Bowen Yin",
+        "Yuanming Li",
+        "Xihan Wei",
+        "Qibin Hou"
       ],
-      "tags": [
-        "llm"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -32,51 +31,22 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.20244",
-      "title": "Lean Refactor: Multi-Objective Controllable Proof Optimization via Agentic Strategy Search",
-      "url": "https://huggingface.co/papers/2605.20244",
+      "id": "hf_paper_2605.17873",
+      "title": "HINT-SD: Targeted Hindsight Self-Distillation for Long-Horizon Agents",
+      "url": "https://huggingface.co/papers/2605.17873",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-17T20:00:00.000Z",
-      "abstract": "We present Lean Refactor, a plug-and-play retrieval-augmented agentic framework for multi-objective, controllable, and version-robust refactoring of Lean proofs. LLM-generated proofs are notoriously c",
+      "abstract": "Training long-horizon LLM agents with reinforcement learning is challenging because sparse outcome rewards reveal whether a task succeeds, but not which intermediate actions caused the outcome or how",
       "authors": [
-        "Jialin Lu",
-        "Soonho Kong",
-        "Rodrigo Stehling",
-        "Kaiyu Yang",
-        "Zhangyang Wang"
+        "Woongyeng Yeo",
+        "Yumin Choi",
+        "Taekyung Ki",
+        "Sung Ju Hwang"
       ],
       "tags": [
         "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.18577",
-      "title": "OmniPro: A Comprehensive Benchmark for Omni-Proactive Streaming Video Understanding",
-      "url": "https://huggingface.co/papers/2605.18577",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-17T20:00:00.000Z",
-      "abstract": "Omni-proactive streaming video understanding, i.e., autonomously deciding when to speak and what to say from continuous audio-visual streams, is an emerging capability of omni-modal large language mod",
-      "authors": [
-        "Ruixiang Zhao",
-        "Jie Yang",
-        "Zijie Xin",
-        "Tianyi Wang",
-        "Fengyun Rao"
-      ],
-      "tags": [
-        "benchmark"
       ],
       "score": 6,
       "priority": "MEDIUM",
