@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-25T07:03:38.826Z",
+  "generatedAt": "2026-05-25T11:32:49.848Z",
   "date": "21-05-2026",
-  "count": 34,
+  "count": 35,
   "summary": null,
   "items": [
     {
@@ -77,6 +77,34 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.23892",
+      "title": "Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers",
+      "url": "https://huggingface.co/papers/2605.23892",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-21T20:00:00.000Z",
+      "abstract": "Visual geometry transformers have become powerful architectures for multi-view 3D reconstruction, enabling joint prediction of multiple 3D attributes in a feed-forward manner. However, their computati",
+      "authors": [
+        "Shuhong Zheng",
+        "Michael Oechsle",
+        "Erik Sandström",
+        "Marie-Julie Rakotosaona",
+        "Federico Tombari"
+      ],
+      "tags": [
+        "transformer"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
