@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-26T13:48:11.623Z",
+  "generatedAt": "2026-05-26T17:21:18.582Z",
   "date": "21-05-2026",
-  "count": 29,
+  "count": 26,
   "summary": null,
   "items": [
     {
@@ -45,19 +45,25 @@
       "points": 0
     },
     {
-      "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Ftech%2F",
-      "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
-      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "source": "The Verge AI",
-      "sourceIcon": "🔺",
-      "type": "news",
-      "timestamp": "2026-05-21T20:15:18.000Z",
-      "abstract": "",
-      "authors": [],
+      "id": "hf_paper_2605.23491",
+      "title": "CoSPlay: Cooperative Self-Play at Test-Time with Self-Generated Code and Unit Test",
+      "url": "https://huggingface.co/papers/2605.23491",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-21T20:00:00.000Z",
+      "abstract": "Recently, Reinforcement Learning with Verifiable Rewards (RLVR) and Test-Time Scaling (TTS) have advanced LLM code generation through executable verification. Yet Ground-Truth Unit Tests (GT UTs) rema",
+      "authors": [
+        "Zhangyi Hu",
+        "Chenhui Liu",
+        "Tian Huang",
+        "Jindong Li",
+        "Yang Yang"
+      ],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -188,63 +194,6 @@
       ],
       "tags": [
         "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.24218",
-      "title": "QUEST: Training Frontier Deep Research Agents with Fully Synthetic Tasks",
-      "url": "https://huggingface.co/papers/2605.24218",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-21T20:00:00.000Z",
-      "abstract": "Deep research agents extend the role of search engines from retrieving keyword-matched pages to synthesizing knowledge, fundamentally changing how humans interact with information. However, frontier s",
-      "authors": [
-        "Jian Xie",
-        "Tianhe Lin",
-        "Zilu Wang",
-        "Yuting Ning",
-        "Yuekun Yao"
-      ],
-      "tags": [
-        "agent",
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.23218",
-      "title": "Foundation Protocol: A Coordination Layer for Agentic Society",
-      "url": "https://huggingface.co/papers/2605.23218",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-21T20:00:00.000Z",
-      "abstract": "Autonomous agents are moving from tools into a layer of social infrastructure: they browse, purchase, deploy software, manage systems, and increasingly interact with one another. As these systems scal",
-      "authors": [
-        "Bang Liu",
-        "Yongfeng Gu",
-        "Jiayi Zhang",
-        "Zhaoyang Yu",
-        "Sirui Hong"
-      ],
-      "tags": [
-        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -480,29 +429,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Build AI-powered dashboard automation agents with NLP on Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-ai-powered-dashboard-automation-agents-with-nlp-on-amazon-bedrock-agentcore/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-05-21T15:55:29.000Z",
-      "abstract": "This solution combines the power of Amazon Bedrock AgentCore, Strands Agents, and Amazon Quick transforms to deliver a secure, scalable, and intelligent system for building and operating AI agents whi",
-      "authors": [],
-      "tags": [
-        "agent",
-        "nlp"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-26T13:48:11.625Z",
+  "generatedAt": "2026-05-26T17:21:18.583Z",
   "date": "19-05-2026",
-  "count": 13,
+  "count": 14,
   "summary": null,
   "items": [
     {
@@ -67,21 +67,28 @@
       "points": 0
     },
     {
-      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
-      "title": "Mastering Agentic Techniques: AI Agent Evaluation",
-      "url": "https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-evaluation/",
-      "source": "NVIDIA Blog",
-      "sourceIcon": "🟩",
-      "type": "tool",
+      "id": "hf_paper_2605.21748",
+      "title": "RankJudge: A Multi-Turn LLM-as-a-Judge Synthetic Benchmark Generator",
+      "url": "https://huggingface.co/papers/2605.21748",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
       "timestamp": "2026-05-19T20:00:00.000Z",
-      "abstract": "Evaluating an AI model and evaluating an AI agent are related—but they answer fundamentally different questions. A model benchmark tests the capability of a...]]>",
-      "authors": [],
-      "tags": [
-        "agent"
+      "abstract": "As interactive LLM-based applications are created and refined, model developers need to evaluate the quality of generated text along many possible axes. For simpler systems, human evaluation may be pr",
+      "authors": [
+        "Zhenwei Tang",
+        "Zhaoyan Liu",
+        "Rasa Hosseinzadeh",
+        "Tongzi Wu",
+        "Keyvan Golestan"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "tags": [
+        "llm",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -132,6 +139,28 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
+      "title": "Mastering Agentic Techniques: AI Agent Evaluation",
+      "url": "https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-evaluation/",
+      "source": "NVIDIA Blog",
+      "sourceIcon": "🟩",
+      "type": "tool",
+      "timestamp": "2026-05-19T20:00:00.000Z",
+      "abstract": "Evaluating an AI model and evaluating an AI agent are related—but they answer fundamentally different questions. A model benchmark tests the capability of a...]]>",
+      "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
