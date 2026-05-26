@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-26T06:38:37.366Z",
+  "generatedAt": "2026-05-26T13:48:11.620Z",
   "date": "25-05-2026",
-  "count": 57,
+  "count": 55,
   "summary": null,
   "items": [
     {
@@ -174,7 +174,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 192906,
+      "stars": 193285,
       "votes": 0,
       "points": 0
     },
@@ -565,6 +565,32 @@
       "points": 0
     },
     {
+      "id": "arxiv_2605.26089v1",
+      "title": "Channel-wise Vector Quantization",
+      "url": "https://arxiv.org/abs/2605.26089v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-05-25T17:52:08Z",
+      "abstract": "We present Channel-wise Vector Quantization (CVQ), a novel image tokenization paradigm that replaces patch-wise tokens with channel-wise tokens. Unlike conventional vector quantization, which assigns",
+      "authors": [
+        "Wei Song",
+        "Tianhang Wang",
+        "Yitong Chen",
+        "Tong Zhang",
+        "Zuxuan Wu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "arxiv_2407.20595v5",
       "title": "HALvest-Contrastive: Retrieval-Like Authorship Attribution with Patch-Level Late Interaction",
       "url": "https://arxiv.org/abs/2407.20595v5",
@@ -636,6 +662,50 @@
       "points": 0
     },
     {
+      "id": "reddit_LocalLLaMA_t3_1tne40m",
+      "title": "Llama.cpp : Split Mode Tensor Fix Incoming?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tne40m/llamacpp_split_mode_tensor_fix_incoming/",
+      "source": "Reddit r/LocalLLaMA",
+      "sourceIcon": "🔴",
+      "type": "model",
+      "timestamp": "2026-05-25T16:25:03+00:00",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "llama"
+      ],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "reddit_LocalLLaMA_t3_1tndx54",
+      "title": "Whats the best Qwen 27B Q8 quant?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tndx54/whats_the_best_qwen_27b_q8_quant/",
+      "source": "Reddit r/LocalLLaMA",
+      "sourceIcon": "🔴",
+      "type": "news",
+      "timestamp": "2026-05-25T16:18:36+00:00",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "qwen"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "gh_701547123",
       "title": "open-webui/open-webui — User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
       "url": "https://github.com/open-webui/open-webui",
@@ -662,7 +732,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 138662,
+      "stars": 138693,
       "votes": 0,
       "points": 0
     },
@@ -1145,46 +1215,6 @@
       "points": 0
     },
     {
-      "id": "reddit_LocalLLaMA_t3_1tn3455",
-      "title": "MiMo-V2.5-coder",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tn3455/mimov25coder/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-05-25T08:39:35+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1tn31d8",
-      "title": "Next year we're getting 0.5T model from Grok",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tn31d8/next_year_were_getting_05t_model_from_grok/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "model",
-      "timestamp": "2026-05-25T08:35:15+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
       "title": "WorkOS Releases auth.md: An Open Agent Registration Protocol Built on OAuth Standards",
       "url": "https://www.marktechpost.com/2026/05/25/workos-releases-auth-md-an-open-agent-registration-protocol-built-on-oauth-standards/",
@@ -1199,73 +1229,6 @@
       ],
       "score": 6,
       "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_MachineLearning_t3_1tn1rtk",
-      "title": "If you use NVIDIA Isaac Sim for reinforcement learning, do you use Isaac Lab with it? Just want to get a sense of what the status quo is. [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1tn1rtk/if_you_use_nvidia_isaac_sim_for_reinforcement/",
-      "source": "Reddit r/MachineLearning",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-05-25T07:26:30+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "reinforcement learning"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1tn0t7u",
-      "title": "Qwen 3.6 benchmarks on 2x RTX PRO 6000",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tn0t7u/qwen_36_benchmarks_on_2x_rtx_pro_6000/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-05-25T06:35:35+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "qwen",
-        "benchmark"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1tn0jyp",
-      "title": "server: fix checkpoints creation by jacekpoplawski · Pull Request #22929 · ggml-org/llama.cpp",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tn0jyp/server_fix_checkpoints_creation_by_jacekpoplawski/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "model",
-      "timestamp": "2026-05-25T06:22:12+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "llama"
-      ],
-      "score": 4,
-      "priority": "LOW",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

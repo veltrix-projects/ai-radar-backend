@@ -1,9 +1,38 @@
 {
-  "generatedAt": "2026-05-26T06:38:37.368Z",
+  "generatedAt": "2026-05-26T13:48:11.622Z",
   "date": "23-05-2026",
-  "count": 12,
+  "count": 11,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.25160",
+      "title": "SimuWoB: Simulating Real-World Mobile Apps for Fast and Faithful GUI Agent Benchmarking",
+      "url": "https://huggingface.co/papers/2605.25160",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-23T20:00:00.000Z",
+      "abstract": "Mobile GUI agents powered by large language models have progressed rapidly, creating urgent needs for realistic and comprehensive evaluation. Existing benchmarks prioritize reproducibility but are oft",
+      "authors": [
+        "Guohong Liu",
+        "Jialei Ye",
+        "Pengzhi Gao",
+        "Wei Liu",
+        "Jian Luan"
+      ],
+      "tags": [
+        "agent",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.25052",
       "title": "Faithfulness Metrics Don't Measure Faithfulness: A Meta-Evaluation with Ground Truth",
@@ -29,72 +58,28 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.20278",
-      "title": "ClaimDiff-RL: Fine-Grained Caption Reinforcement Learning through Visual Claim Comparison",
-      "url": "https://huggingface.co/papers/2605.20278",
+      "id": "hf_paper_2605.25191",
+      "title": "Injecting Image Guidance into Text-Conditioned Diffusion Models at Inference",
+      "url": "https://huggingface.co/papers/2605.25191",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-23T20:00:00.000Z",
-      "abstract": "Long-form image captioning exposes a reward granularity problem in RL: captions are judged as whole sequences, while the important errors occur at the level of individual visual claims. A good dense c",
+      "abstract": "Text-to-image diffusion models like Stable Diffusion generate high-quality images from text, but lack a way to inject visual guidance (e.g. sketches, styles) at inference without retraining. Existing",
       "authors": [
-        "Tianle Li",
-        "Xuyang Shen",
-        "Yan Ma",
-        "Rongxin Guo",
-        "Shaoxiang Chen"
+        "Agata Żywot",
+        "Iason Skylitsis",
+        "Thijmen Nijdam",
+        "Zoe Tzifa-Kratira",
+        "Derck Prinzhorn"
       ],
       "tags": [
-        "reinforcement learning"
+        "diffusion",
+        "inference"
       ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Tencent Open-Sources TencentDB Agent Memory: A 4-Tier Local Memory Pipeline for AI Agents",
-      "url": "https://www.marktechpost.com/2026/05/23/tencent-open-sources-tencentdb-agent-memory-a-4-tier-local-memory-pipeline-for-ai-agents/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-05-23T19:31:12.000Z",
-      "abstract": "Tencent has open-sourced TencentDB Agent Memory, a fully local memory system for AI agents released under the MIT license. The project pairs symbolic short-term memory, which offloads verbose tool log",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Build a SuperClaude Framework Workflow with Commands, Agents, Modes, and Session Memory",
-      "url": "https://www.marktechpost.com/2026/05/23/build-a-superclaude-framework-workflow-with-commands-agents-modes-and-session-memory/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-05-23T19:05:33.000Z",
-      "abstract": "In this tutorial, we build an advanced workflow using the SuperClaude Framework as a structured layer on top of the Anthropic API.\nThe post Build a SuperClaude Framework Workflow with Commands, Agents",
-      "authors": [],
-      "tags": [
-        "claude",
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -228,7 +213,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 138259,
+      "stars": 138274,
       "votes": 0,
       "points": 0
     },

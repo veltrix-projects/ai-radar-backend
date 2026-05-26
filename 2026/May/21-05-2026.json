@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-26T06:38:37.369Z",
+  "generatedAt": "2026-05-26T13:48:11.623Z",
   "date": "21-05-2026",
-  "count": 25,
+  "count": 29,
   "summary": null,
   "items": [
     {
@@ -65,18 +65,132 @@
       "points": 0
     },
     {
-      "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fai-arti",
-      "title": "In desperate times, graduates find hope in humiliating tech CEOs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos",
-      "source": "The Verge AI",
-      "sourceIcon": "🔺",
-      "type": "news",
-      "timestamp": "2026-05-21T20:00:06.000Z",
-      "abstract": "",
-      "authors": [],
+      "id": "hf_paper_2605.23699",
+      "title": "CRONOS: Benchmarking Counterfactual Physical Consistency in Video Models",
+      "url": "https://huggingface.co/papers/2605.23699",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-21T20:00:00.000Z",
+      "abstract": "Video prediction is increasingly viewed as a path toward generalizable world models, yet it remains unclear whether these systems learn underlying causal structure or merely exploit superficial visual",
+      "authors": [
+        "León Begiristain",
+        "Olaf Dünkel",
+        "Adam Kortylewski"
+      ],
+      "tags": [
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.23889",
+      "title": "HorizonStream: Long-Horizon Attention for Streaming 3D Reconstruction",
+      "url": "https://huggingface.co/papers/2605.23889",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-21T20:00:00.000Z",
+      "abstract": "Online 3D reconstruction requires estimating camera pose and scene geometry under strict causal and bounded-memory constraints. Existing methods often suffer from drift, jitter, or collapse on long se",
+      "authors": [
+        "Chong Cheng",
+        "Peilin Tao",
+        "Nanjie Yao",
+        "Guanzhi Ding",
+        "Xianda Chen"
+      ],
       "tags": [],
-      "score": 4,
-      "priority": "LOW",
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.23264",
+      "title": "Coloring the Noise: Adversarial Sobolev Alignment for Faithful Image Super Resolution",
+      "url": "https://huggingface.co/papers/2605.23264",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-21T20:00:00.000Z",
+      "abstract": "Generative priors in Image Super-Resolution (SR) often compromise faithful restoration, we attribute this limitation to a fundamental spectral misalignment between isotropic objectives and the intrins",
+      "authors": [
+        "Hongbo Wang",
+        "Huaibo Huang",
+        "Pin Wang",
+        "Jinhua Hao",
+        "Chao Zhou"
+      ],
+      "tags": [
+        "alignment"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.16331",
+      "title": "Decoding the Critique Mechanism in Large Reasoning Models",
+      "url": "https://huggingface.co/papers/2603.16331",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-21T20:00:00.000Z",
+      "abstract": "Large Reasoning Models (LRMs) exhibit backtracking and self-verification mechanisms that enable them to revise intermediate steps and reach correct solutions, yielding strong performance on complex lo",
+      "authors": [
+        "Hoang Phan",
+        "Quang H. Nguyen",
+        "Hung T. Q. Le",
+        "Xiusi Chen",
+        "Heng Ji"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.24117",
+      "title": "SkillEvolBench: Benchmarking the Evolution from Episodic Experience to Procedural Skills",
+      "url": "https://huggingface.co/papers/2605.24117",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-21T20:00:00.000Z",
+      "abstract": "Large language model (LLM) agents accumulate rich episodic trajectories while solving real-world tasks, but it remains unclear whether such experience can be distilled into reusable procedural skills.",
+      "authors": [
+        "Yingtie Lei",
+        "Zhongwei Wan",
+        "Jiankun Zhang",
+        "Samiul Alam",
+        "Zixuan Zhong"
+      ],
+      "tags": [
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-26T06:38:37.370Z",
+  "generatedAt": "2026-05-26T13:48:11.624Z",
   "date": "20-05-2026",
-  "count": 11,
+  "count": 14,
   "summary": null,
   "items": [
     {
@@ -25,6 +25,28 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2605.23081",
+      "title": "ThriftAttention: Selective Mixed Precision for Long-Context FP4 Attention",
+      "url": "https://huggingface.co/papers/2605.23081",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-20T20:00:00.000Z",
+      "abstract": "Efficient attention algorithms are critical to mitigate the quadratic cost of attention in long-context workloads. Prior work utilises block-scaled quantisation techniques on Blackwell GPUs to move at",
+      "authors": [
+        "Joe Sharratt"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "Mastering Agentic Techniques: AI Agent Customization",
       "url": "https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-customization/",
@@ -40,6 +62,28 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.13517",
+      "title": "Representation over Routing: Overcoming Surrogate Hacking in Multi-Timescale PPO",
+      "url": "https://huggingface.co/papers/2604.13517",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-20T20:00:00.000Z",
+      "abstract": "Temporal credit assignment in reinforcement learning has long been a central challenge. Inspired by the multi-timescale encoding of the dopamine system in neurobiology, recent research has sought to i",
+      "authors": [
+        "Jing Sun"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -166,6 +210,26 @@
       ],
       "score": 6,
       "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "Proving the case on day two at TechEx North America",
+      "url": "https://www.artificialintelligence-news.com/news/proving-the-case-on-day-two-at-techex-north-america/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-05-20T02:37:00.000Z",
+      "abstract": "The AI and Big Data programme on day two of TechEx North America referred at least once to the &#8220;AI graveyard,&#8221; meaning the large number of pilots that never become durable systems. That ph",
+      "authors": [],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

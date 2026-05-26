@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-26T06:38:37.367Z",
+  "generatedAt": "2026-05-26T13:48:11.621Z",
   "date": "24-05-2026",
-  "count": 20,
+  "count": 15,
   "summary": null,
   "items": [
     {
@@ -57,6 +57,34 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.25971",
+      "title": "Anticipate and Learn: Unleashing Idle-Time Compute in Proactive Agents",
+      "url": "https://huggingface.co/papers/2605.25971",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-24T20:00:00.000Z",
+      "abstract": "While AI agents demonstrate remarkable capabilities in reasoning and tool use, they remain fundamentally reactive: they compute responses only after explicit user prompts. This paradigm ignores a crit",
+      "authors": [
+        "Haoyi Hu",
+        "Qirong Lyu",
+        "Xianghan Kong",
+        "Weiwen Liu",
+        "Jianghao Lin"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -195,183 +223,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.26105",
-      "title": "On-Policy Adversarial Flow Distillation for Autoregressive Video Generation",
-      "url": "https://huggingface.co/papers/2605.26105",
+      "id": "hf_paper_2605.25624",
+      "title": "CUA-Gym: Scaling Verifiable Training Environments and Tasks for Computer-Use Agents",
+      "url": "https://huggingface.co/papers/2605.25624",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-24T20:00:00.000Z",
-      "abstract": "Autoregressive video generators are attractive for streaming, long-horizon, and interactive applications, but distilling strong black-box teachers into causal students remains difficult. The student m",
+      "abstract": "Reinforcement learning with verifiable rewards (RLVR) has driven breakthroughs in domains such as math, tool-use, and software engineering, yet its extension to computer-use agents (CUAs) has been bot",
       "authors": [
-        "Yang Luo",
-        "Shengju Qian",
-        "Xiaohang Tang",
-        "Zirui Zhu",
-        "Yong Liu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.26089",
-      "title": "Channel-wise Vector Quantization",
-      "url": "https://huggingface.co/papers/2605.26089",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-24T20:00:00.000Z",
-      "abstract": "We present Channel-wise Vector Quantization (CVQ), a novel image tokenization paradigm that replaces patch-wise tokens with channel-wise tokens. Unlike conventional vector quantization, which assigns",
-      "authors": [
-        "Wei Song",
-        "Tianhang Wang",
-        "Yitong Chen",
-        "Tong Zhang",
-        "Zuxuan Wu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.26115",
-      "title": "TriSplat: Simulation-Ready Feed-Forward 3D Scene Reconstruction",
-      "url": "https://huggingface.co/papers/2605.26115",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-24T20:00:00.000Z",
-      "abstract": "Sparse-view 3D reconstruction is increasingly addressed with feed-forward splatting networks that predict explicit primitives directly from images. Yet most existing methods remain centered on Gaussia",
-      "authors": [
-        "Weijie Wang",
-        "Zimu Li",
-        "Jinchuan Shi",
-        "Zeyu Zhang",
-        "Botao Ye"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.25874",
-      "title": "WBench: A Comprehensive Multi-turn Benchmark for Interactive Video World Model Evaluation",
-      "url": "https://huggingface.co/papers/2605.25874",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-24T20:00:00.000Z",
-      "abstract": "Interactive world models are advancing rapidly, yet existing benchmarks cover only part of the required competencies, leaving no unified standard for systematic evaluation. To fill this gap, we introd",
-      "authors": [
-        "Kaining Ying",
-        "Hengrui Hu",
-        "Siyu Ren",
-        "Jiamu Li",
-        "Fengjiao Chen"
+        "Bowen Wang",
+        "Dunjie Lu",
+        "Junli Wang",
+        "Tianyi Bai",
+        "Shixuan Liu"
       ],
       "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.26086",
-      "title": "Claw-Anything: Benchmarking Always-On Personal Assistants with Broader Access to User's Digital World",
-      "url": "https://huggingface.co/papers/2605.26086",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-24T20:00:00.000Z",
-      "abstract": "Large language model agents are increasingly envisioned as always-on personal assistants with access to anything relevant in the user's digital world. Yet current systems operate over only narrow slic",
-      "authors": [
-        "Yusong Lin",
-        "Xinyuan Liang",
-        "Haiyang Wang",
-        "Qipeng Gu",
-        "Siqi Cheng"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.26002",
-      "title": "SemBridge: Language Transfer in Sparse Encoders via Multilingual Semantic Bridges",
-      "url": "https://huggingface.co/papers/2605.26002",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-24T20:00:00.000Z",
-      "abstract": "Sparse encoders offer high-precision retrieval by representing term importance within a vocabulary space, yet their English-centric structures pose a critical impediment to language transfer for non-E",
-      "authors": [
-        "Seongtae Hong",
-        "Youngjoon Jang",
-        "Jia-Heui Ju",
-        "Hyeonseok Moon",
-        "Heuiseok Lim"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.25343",
-      "title": "Toward Native Multimodal Modeling: A Roadmap",
-      "url": "https://huggingface.co/papers/2605.25343",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-24T20:00:00.000Z",
-      "abstract": "Multimodal modeling represents a vital step from modality-agnostic reasoning toward world modeling. While early approaches predominantly rely on late-fusion that assembles encoders and frozen language",
-      "authors": [
-        "Siyu An",
-        "Junru Lu",
-        "Junnan Dong",
-        "Qiufeng Wang",
-        "Yinghui Li"
-      ],
-      "tags": [
-        "multimodal"
+        "agent",
+        "training"
       ],
       "score": 8,
       "priority": "HIGH",
