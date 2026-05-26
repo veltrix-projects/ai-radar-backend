@@ -1,91 +1,9 @@
 {
-  "generatedAt": "2026-05-26T02:42:13.886Z",
+  "generatedAt": "2026-05-26T06:38:37.372Z",
   "date": "17-05-2026",
-  "count": 8,
+  "count": 5,
   "summary": null,
   "items": [
-    {
-      "id": "hf_paper_2605.17766",
-      "title": "LatentUMM: Dual Latent Alignment for Unified Multimodal Models",
-      "url": "https://huggingface.co/papers/2605.17766",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-17T20:00:00.000Z",
-      "abstract": "Unified multimodal models (UMMs) achieve strong performance in both understanding and generation by learning a shared latent space, yet they often exhibit functional inconsistency between these two ca",
-      "authors": [
-        "Yinyi Luo",
-        "Wenwen Wang",
-        "Hayes Bai",
-        "Marios Savvides",
-        "Jindong Wang"
-      ],
-      "tags": [
-        "multimodal",
-        "alignment"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.18018",
-      "title": "See What I Mean: Aligning Vision and Language Representations for Video Fine-grained Object Understanding",
-      "url": "https://huggingface.co/papers/2605.18018",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-17T20:00:00.000Z",
-      "abstract": "We present SWIM (See What I Mean), a novel training strategy that aligns vision and language representations to enable fine-grained object understanding solely from textual prompts. Unlike existing ap",
-      "authors": [
-        "Boyuan Sun",
-        "Bowen Yin",
-        "Yuanming Li",
-        "Xihan Wei",
-        "Qibin Hou"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.17873",
-      "title": "HINT-SD: Targeted Hindsight Self-Distillation for Long-Horizon Agents",
-      "url": "https://huggingface.co/papers/2605.17873",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-17T20:00:00.000Z",
-      "abstract": "Training long-horizon LLM agents with reinforcement learning is challenging because sparse outcome rewards reveal whether a task succeeds, but not which intermediate actions caused the outcome or how",
-      "authors": [
-        "Woongyeng Yeo",
-        "Yumin Choi",
-        "Taekyung Ki",
-        "Sung Ju Hwang"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "google_deepmind_https%3A%2F%2Fdeepmind.google%2Fblog%2Fs",
       "title": "Simulate real-world places with Project Genie and Street View",

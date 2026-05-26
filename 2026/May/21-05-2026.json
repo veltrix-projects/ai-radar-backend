@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-26T02:42:13.883Z",
+  "generatedAt": "2026-05-26T06:38:37.369Z",
   "date": "21-05-2026",
-  "count": 30,
+  "count": 25,
   "summary": null,
   "items": [
     {
@@ -85,23 +85,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.23892",
-      "title": "Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers",
-      "url": "https://huggingface.co/papers/2605.23892",
+      "id": "hf_paper_2605.24218",
+      "title": "QUEST: Training Frontier Deep Research Agents with Fully Synthetic Tasks",
+      "url": "https://huggingface.co/papers/2605.24218",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-21T20:00:00.000Z",
-      "abstract": "Visual geometry transformers have become powerful architectures for multi-view 3D reconstruction, enabling joint prediction of multiple 3D attributes in a feed-forward manner. However, their computati",
+      "abstract": "Deep research agents extend the role of search engines from retrieving keyword-matched pages to synthesizing knowledge, fundamentally changing how humans interact with information. However, frontier s",
       "authors": [
-        "Shuhong Zheng",
-        "Michael Oechsle",
-        "Erik Sandström",
-        "Marie-Julie Rakotosaona",
-        "Federico Tombari"
+        "Jian Xie",
+        "Tianhe Lin",
+        "Zilu Wang",
+        "Yuting Ning",
+        "Yuekun Yao"
       ],
       "tags": [
-        "transformer"
+        "agent",
+        "training"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -113,156 +114,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.23771",
-      "title": "PhotoFlow: Agentic 3D Virtual Photography Missions",
-      "url": "https://huggingface.co/papers/2605.23771",
+      "id": "hf_paper_2605.23218",
+      "title": "Foundation Protocol: A Coordination Layer for Agentic Society",
+      "url": "https://huggingface.co/papers/2605.23218",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-21T20:00:00.000Z",
-      "abstract": "Virtual photography asks an agent to enter a prepared 3D scene with no preselected camera pose or reference image, infer a suitable shot from scene information and a language intent, choose executable",
+      "abstract": "Autonomous agents are moving from tools into a layer of social infrastructure: they browse, purchase, deploy software, manage systems, and increasingly interact with one another. As these systems scal",
       "authors": [
-        "Jiarui Guo",
-        "Haojia Wei",
-        "Yiming Zhang",
-        "Yifei Liu",
-        "Yuning Gong"
+        "Bang Liu",
+        "Yongfeng Gu",
+        "Jiayi Zhang",
+        "Zhaoyang Yu",
+        "Sirui Hong"
       ],
       "tags": [
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.23903",
-      "title": "Geo-Align: Video Generation Alignment via Metric Geometry Reward",
-      "url": "https://huggingface.co/papers/2605.23903",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-21T20:00:00.000Z",
-      "abstract": "Camera-controlled video generation has achieved remarkable progress in recent years. However, existing video-to-video re-rendering methods primarily rely on Supervised Fine-Tuning using synthetic data",
-      "authors": [
-        "Zizun Li",
-        "Haoyu Guo",
-        "Runzhe Teng",
-        "Chunhua Shen",
-        "Tong He"
-      ],
-      "tags": [
-        "alignment"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.23345",
-      "title": "SCOPE: Simulating Cross-game Operations in Playable Environments for FPS World Models",
-      "url": "https://huggingface.co/papers/2605.23345",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-21T20:00:00.000Z",
-      "abstract": "Interactive world models for first-person shooter (FPS) games must resolve high-frequency overlapping control signals at every frame without disrupting unaffected regions. Existing methods inject acti",
-      "authors": [
-        "Zizhao Tong",
-        "Hongfeng Lai",
-        "Zeqing Wang",
-        "Zhaohu Xing",
-        "Kexu Cheng"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.23463",
-      "title": "StepAudio 2.5 Technical Report",
-      "url": "https://huggingface.co/papers/2605.23463",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-21T20:00:00.000Z",
-      "abstract": "Unified audio-language modeling has emerged as a prominent trend in modern speech systems, promising to bring the reasoning capabilities of large language models to auditory tasks. However, existing u",
-      "authors": [
-        "Bin Lin",
-        "Bo Zhao",
-        "Boyong Wu",
-        "Chao Yan",
-        "Chen Wu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.23897",
-      "title": "ETCHR: Editing To Clarify and Harness Reasoning",
-      "url": "https://huggingface.co/papers/2605.23897",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-21T20:00:00.000Z",
-      "abstract": "Multimodal Large Language Models have advanced visual reasoning, yet a purely textual chain of thought remains a bottleneck for questions that require fine-grained focus or view transformations. The '",
-      "authors": [
-        "Beichen Zhang",
-        "Yuhong Liu",
-        "Jinsong Li",
-        "Yuhang Zang",
-        "Jiaqi Wang"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.23204",
-      "title": "AutoResearch AI: Towards AI-Powered Research Automation for Scientific Discovery",
-      "url": "https://huggingface.co/papers/2605.23204",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-21T20:00:00.000Z",
-      "abstract": "Scientific research is being reshaped by AI systems that move beyond isolated assistance toward longer-horizon workflows spanning literature grounding, hypothesis generation, experimentation, validati",
-      "authors": [
-        "Guiyao Tie",
-        "Jiawen Shi",
-        "Dingjie Song",
-        "Yixiao Huang",
-        "Ziji Sheng"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

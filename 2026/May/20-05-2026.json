@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-26T02:42:13.884Z",
+  "generatedAt": "2026-05-26T06:38:37.370Z",
   "date": "20-05-2026",
-  "count": 15,
+  "count": 11,
   "summary": null,
   "items": [
     {
@@ -15,108 +15,6 @@
       "abstract": "Today, Amazon SageMaker AI introduces OpenAI-compatible API support for real-time inference endpoints. If you use the OpenAI SDK, LangChain, or Strands Agents, you can now invoke models on SageMaker A",
       "authors": [],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.19354",
-      "title": "Next-Acceleration-Scale Prediction for Autoregressive MRI Reconstruction",
-      "url": "https://huggingface.co/papers/2605.19354",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-20T20:00:00.000Z",
-      "abstract": "MRI reconstruction is an inherently ill-posed inverse problem, since incomplete measurements admit many plausible solutions. This ambiguity becomes more severe under high acceleration, where pixel-dom",
-      "authors": [
-        "Yilmaz Korkmaz",
-        "Vishal M. Patel"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.21856",
-      "title": "The Illusion of Reasoning: Exposing Evasive Data Contamination in LLMs via Zero-CoT Truncation",
-      "url": "https://huggingface.co/papers/2605.21856",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-20T20:00:00.000Z",
-      "abstract": "Large language models (LLMs) have demonstrated impressive reasoning abilities across a wide range of tasks, but data contamination undermines the objective evaluation of these capabilities. This probl",
-      "authors": [
-        "Yifan Lan",
-        "Yuanpu Cao",
-        "Hanyu Wang",
-        "Lu Lin",
-        "Jinghui Chen"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.20665",
-      "title": "The Expense of Seeing: Attaining Trustworthy Multimodal Reasoning Within the Monolithic Paradigm",
-      "url": "https://huggingface.co/papers/2604.20665",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-20T20:00:00.000Z",
-      "abstract": "The rapid proliferation of Vision-Language Models (VLMs) is often framed as enabling unified multimodal knowledge discovery but rests on an under-examined assumption: that current VLMs faithfully synt",
-      "authors": [
-        "Karan Goyal"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.22570",
-      "title": "VGenST-Bench: A Benchmark for Spatio-Temporal Reasoning via Active Video Synthesis",
-      "url": "https://huggingface.co/papers/2605.22570",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-20T20:00:00.000Z",
-      "abstract": "Spatio-temporal reasoning is a core capability for Multimodal Large Language Models (MLLMs) operating in the real world. As such, evaluating it precisely has become an essential challenge. However, ex",
-      "authors": [
-        "Jinho Park",
-        "Youbin Kim",
-        "Hogun Park",
-        "Eunbyung Park"
-      ],
-      "tags": [
-        "benchmark"
-      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",

@@ -1,59 +1,32 @@
 {
-  "generatedAt": "2026-05-26T02:42:13.886Z",
+  "generatedAt": "2026-05-26T06:38:37.371Z",
   "date": "18-05-2026",
-  "count": 7,
+  "count": 6,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2605.20177",
-      "title": "From Seeing to Thinking: Decoupling Perception and Reasoning Improves Post-Training of Vision-Language Models",
-      "url": "https://huggingface.co/papers/2605.20177",
+      "id": "hf_paper_2605.20342",
+      "title": "ParaVT: Taming the Tool Prior Paradox for Parallel Tool Use in Agentic Video Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2605.20342",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-18T20:00:00.000Z",
-      "abstract": "Recent advances in vision-language models (VLMs) emphasize long chain-of-thought reasoning; yet, we find that their performance on visual tasks is primarily limited by a lack of visual perception as o",
+      "abstract": "Training large multimodal models (LMMs) via reinforcement learning (RL) to natively invoke video-processing tools (e.g., cropping) has become a promising route to long-video understanding. However, ex",
       "authors": [
-        "Juncheng Wu",
-        "Hardy Chen",
-        "Haoqin Tu",
-        "Xianfeng Tang",
-        "Freda Shi"
+        "Zuhao Yang",
+        "Kaichen Zhang",
+        "Sudong Wang",
+        "Keming Wu",
+        "Zhongyu Yang"
       ],
       "tags": [
-        "training"
+        "agent",
+        "reinforcement learning"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.19282",
-      "title": "Rethinking Muon Beyond Pretraining: Spectral Failures and High-Pass Remedies for VLA and RLVR",
-      "url": "https://huggingface.co/papers/2605.19282",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-18T20:00:00.000Z",
-      "abstract": "Muon is a matrix-aware optimizer that leverages Newton-Schulz (NS) iterations to enforce spectral gradient orthogonalization by driving all singular values of the momentum matrix toward 1. While this",
-      "authors": [
-        "Chongyu Fan",
-        "Gaowen Liu",
-        "Mingyi Hong",
-        "Ramana Rao Kompella",
-        "Sijia Liu"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

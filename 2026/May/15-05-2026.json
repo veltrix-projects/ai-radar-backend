@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-26T02:42:13.888Z",
+  "generatedAt": "2026-05-26T06:38:37.373Z",
   "date": "15-05-2026",
-  "count": 3,
+  "count": 4,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,34 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.23986",
+      "title": "MemForest: An Efficient Agent Memory System with Hierarchical Temporal Indexing",
+      "url": "https://huggingface.co/papers/2605.23986",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-15T20:00:00.000Z",
+      "abstract": "Memory is a fundamental component for enabling long-context LLM agents, supporting persistent state across interactions through a continuous serve-and-update lifecycle. Despite substantial prior work,",
+      "authors": [
+        "Han Chen",
+        "Zining Zhang",
+        "Wenqi Pei",
+        "Bingsheng He",
+        "Ming Wu"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-26T02:42:13.882Z",
+  "generatedAt": "2026-05-26T06:38:37.369Z",
   "date": "22-05-2026",
-  "count": 22,
+  "count": 21,
   "summary": null,
   "items": [
     {
@@ -145,47 +145,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.24675",
-      "title": "VaaWIT: Visual-Aware Adaptation of Large Language Models for Multilingual Web Image Translation",
-      "url": "https://huggingface.co/papers/2605.24675",
+      "id": "hf_paper_2605.24426",
+      "title": "SEAL: Synergistic Co-Evolution of Agents and Learning Environments",
+      "url": "https://huggingface.co/papers/2605.24426",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-22T20:00:00.000Z",
-      "abstract": "Translating text embedded in Web images is crucial for improving content accessibility and cross-lingual information retrieval, particularly within social media and e-commerce domains. Although Large",
+      "abstract": "Large Language Model (LLM) agents are increasingly improved through interaction, yet most self-evolution methods adapt either the policy or the learning environment in isolation. We identify this stru",
       "authors": [
-        "Bo Li",
-        "Ronghao Chen",
-        "Ningyuan Deng",
-        "Huacan Wang",
-        "Shaolin Zhu"
+        "Yihao Hu",
+        "Zhihao Wen",
+        "Xiujin Liu",
+        "Pan Wang",
+        "Xin Zhang"
       ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.24681",
-      "title": "Mix-MoE: Improving Multilingual Machine Translation of Large Language Models through Mixed MoEs",
-      "url": "https://huggingface.co/papers/2605.24681",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-22T20:00:00.000Z",
-      "abstract": "Large Language Models (LLMs) have shown great promise in multilingual machine translation (MT), even with limited bilingual supervision. However, fine-tuning LLMs with parallel corpora presents major",
-      "authors": [
-        "Bo Li",
-        "Tianyu Dong",
-        "Shaolin Zhu",
-        "Deyi Xiong"
+      "tags": [
+        "agent"
       ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -322,7 +299,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 155871,
+      "stars": 155880,
       "votes": 0,
       "points": 0
     },
