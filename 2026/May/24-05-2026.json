@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-26T23:57:24.995Z",
+  "generatedAt": "2026-05-27T03:31:19.720Z",
   "date": "24-05-2026",
-  "count": 7,
+  "count": 8,
   "summary": null,
   "items": [
     {
@@ -65,6 +65,61 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2605.26230",
+      "title": "Geometry-Aware Representation Denoising for Robust Multi-view 3D Reconstruction",
+      "url": "https://huggingface.co/papers/2605.26230",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-24T20:00:00.000Z",
+      "abstract": "Multi-view 3D reconstruction has achieved remarkable progress with the advent of feed-forward 3D reconstruction models. However, these models are typically trained and evaluated under ideal, degradati",
+      "authors": [
+        "Jin Hyeon Kim",
+        "Jaeeun Lee",
+        "Claire Kim",
+        "Kyoungjin Oh",
+        "Paul Hyunbin Cho"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.25535",
+      "title": "Personalize-then-Store: Benchmarking and Learning Personalized Memory for Long-horizon Agents",
+      "url": "https://huggingface.co/papers/2605.25535",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-24T20:00:00.000Z",
+      "abstract": "Existing large language model (LLM) based memory systems apply universal, static policies that overlook a fundamental reality: the contexts that are worth storing in memory are different across users.",
+      "authors": [
+        "Yeonjun In",
+        "Wonjoong Kim",
+        "Sangwu Park",
+        "Kanghoon Yoon",
+        "Chanyoung Park"
+      ],
+      "tags": [
+        "agent",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2605.25624",
       "title": "CUA-Gym: Scaling Verifiable Training Environments and Tasks for Computer-Use Agents",
       "url": "https://huggingface.co/papers/2605.25624",
@@ -109,34 +164,6 @@
         "Giulia Fanti"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.25971",
-      "title": "Anticipate and Learn: Unleashing Idle-Time Compute in Proactive Agents",
-      "url": "https://huggingface.co/papers/2605.25971",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-24T20:00:00.000Z",
-      "abstract": "While AI agents demonstrate remarkable capabilities in reasoning and tool use, they remain fundamentally reactive: they compute responses only after explicit user prompts. This paradigm ignores a crit",
-      "authors": [
-        "Haoyi Hu",
-        "Qirong Lyu",
-        "Xianghan Kong",
-        "Weiwen Liu",
-        "Jianghao Lin"
-      ],
-      "tags": [
-        "agent"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

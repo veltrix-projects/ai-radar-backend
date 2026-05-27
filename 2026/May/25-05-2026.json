@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-26T23:57:24.994Z",
+  "generatedAt": "2026-05-27T03:31:19.720Z",
   "date": "25-05-2026",
-  "count": 28,
+  "count": 16,
   "summary": null,
   "items": [
     {
@@ -47,6 +47,82 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2605.26535",
+      "title": "Recursive Flow Matching",
+      "url": "https://huggingface.co/papers/2605.26535",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-25T20:00:00.000Z",
+      "abstract": "Generative models have emerged as a powerful paradigm for solving physics systems and modeling complex spatiotemporal dynamics. However, achieving high physical accuracy without incurring high computa",
+      "authors": [
+        "Jiahe Huang",
+        "Sihan Xu",
+        "Sharvaree Vadgama",
+        "Rose Yu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.26502",
+      "title": "PRISM: Position-encoded Regressive Inverse Spectral Model for Multilayer Thin-Film Design",
+      "url": "https://huggingface.co/papers/2605.26502",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-25T20:00:00.000Z",
+      "abstract": "The inverse problem of multilayer thin-film optical coatings design represents a complex combinatorial-continuous optimization challenge. We present PRISM (Position-encoded Regressive Inverse Spectral",
+      "authors": [
+        "Runtian Wang",
+        "Renhao Xue",
+        "Baige Chen",
+        "Hao Wu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.26449",
+      "title": "Cross-scale Aligned Supervision for Training GANs",
+      "url": "https://huggingface.co/papers/2605.26449",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-25T20:00:00.000Z",
+      "abstract": "Modern GANs often introduce adversarial supervision on intermediate generator outputs and interpret the resulting multi-stage synthesis as coarse-to-fine hierarchical generation. In this work, we chal",
+      "authors": [
+        "Sangeek Hyun",
+        "MinKyu Lee",
+        "Jae-Pil Heo"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "gh_1136590548",
       "title": "affaan-m/ECC — The agent harness performance optimization system. Skills, instincts, memory, security, and research",
       "url": "https://github.com/affaan-m/ECC",
@@ -72,376 +148,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 194303,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2605.26114v1",
-      "title": "MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research",
-      "url": "https://arxiv.org/abs/2605.26114v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-05-25T17:59:49Z",
-      "abstract": "We present MobileGym, a browser-hosted, lightweight, fully controllable environment for everyday mobile use, targeting interaction fidelity without replicating proprietary backends. It enables two cap",
-      "authors": [
-        "Dingbang Wu",
-        "Rui Hao",
-        "Haiyang Wang",
-        "Shuzhe Wu",
-        "Han Xiao"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2605.26112v1",
-      "title": "From Model Scaling to System Scaling: Scaling the Harness in Agentic AI",
-      "url": "https://arxiv.org/abs/2605.26112v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-05-25T17:59:36Z",
-      "abstract": "This paper studies the next major bottleneck in agentic AI as system scaling, not only model scaling: the design of auditable, persistent, modular, and verifiable architectures around foundation model",
-      "authors": [
-        "Shangding Gu"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2605.26111v1",
-      "title": "Squeezing Capacity from Multimodal Large Language Models for Subject-driven Generation",
-      "url": "https://arxiv.org/abs/2605.26111v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-05-25T17:59:35Z",
-      "abstract": "Subject-driven image generation aims to synthesize new images that preserve the identity of the given subject while following textual instructions. Existing approaches often encode text and reference",
-      "authors": [
-        "Shuhong Zheng",
-        "Aashish Kumar Misraa",
-        "Yu-Teng Li",
-        "Yu-Jhe Li",
-        "Igor Gilitschenski"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2605.26110v1",
-      "title": "Prism: A Plug-in Reproducible Infrastructure for Scalable Multimodal Continual Instruction Tuning",
-      "url": "https://arxiv.org/abs/2605.26110v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-05-25T17:59:28Z",
-      "abstract": "Multimodal Large Language Models (MLLMs) achieve versatility by reformulating diverse tasks into a unified instruction-following framework via instruction tuning. However, real-world deployment requir",
-      "authors": [
-        "Jun-Tao Tang",
-        "Yu-Cheng Shi",
-        "Zhen-Hao Xie",
-        "Da-Wei Zhou"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2605.26106v1",
-      "title": "Looped Diffusion Language Models",
-      "url": "https://arxiv.org/abs/2605.26106v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-05-25T17:58:24Z",
-      "abstract": "Masked diffusion models (MDMs) have emerged as a promising alternative to autoregressive models for language modeling, yet the effective design of transformer architectures for MDMs remains underexplo",
-      "authors": [
-        "Sanghyun Lee",
-        "Chunsan Hong",
-        "Seungryong Kim",
-        "Jonghyun Lee",
-        "Jongho Park"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2605.23904v2",
-      "title": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
-      "url": "https://arxiv.org/abs/2605.23904v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-05-25T17:58:16Z",
-      "abstract": "Agent skills today are hand-crafted, generated one-shot, or evolved through loosely controlled self-revision, none of which behaves like a deep-learning optimizer for the skill, and none of which reli",
-      "authors": [
-        "Yifan Yang",
-        "Ziyang Gong",
-        "Weiquan Huang",
-        "Qihao Yang",
-        "Ziwei Zhou"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2509.10452v2",
-      "title": "WhisTLE: Deeply Supervised, Text-Only Domain Adaptation for Pretrained Speech Recognition Transformers",
-      "url": "https://arxiv.org/abs/2509.10452v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-05-25T17:57:52Z",
-      "abstract": "Pretrained automatic speech recognition (ASR) models such as Whisper perform well but still need domain adaptation to handle unseen parlance. In many real-world settings, collecting speech data is imp",
-      "authors": [
-        "Akshat Pandey",
-        "Karun Kumar",
-        "Raphael Tang"
-      ],
-      "tags": [
-        "transformer",
-        "speech"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2605.26100v1",
-      "title": "Beyond Summaries: Structure-Aware Labeling of Code Changes with Large Language Models",
-      "url": "https://arxiv.org/abs/2605.26100v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-05-25T17:56:46Z",
-      "abstract": "Code review is a critical practice in software engineering, yet the growing scale and frequency of code patches in modern projects, together with the widespread adoption of AI code assistants, make ma",
-      "authors": [
-        "Bar Weiss",
-        "Antonio Abu-Nassar",
-        "Adi Sosnovich",
-        "Karen Yorav"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2605.18646v2",
-      "title": "Language-Switching Triggers Take a Latent Detour Through Language Models",
-      "url": "https://arxiv.org/abs/2605.18646v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-05-25T17:55:26Z",
-      "abstract": "Backdoor attacks on language models pose a growing security concern, yet the internal mechanisms by which a trigger sequence hijacks model computations remain poorly understood. We identify a circuit",
-      "authors": [
-        "Francis Kulumba",
-        "Wissam Antoun",
-        "Théo Lasnier",
-        "Benoît Sagot",
-        "Djamé Seddah"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2605.26097v1",
-      "title": "Forgetting in Language Models: Capacity, Optimization, and Self-Generated Replay",
-      "url": "https://arxiv.org/abs/2605.26097v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-05-25T17:54:34Z",
-      "abstract": "Models trained on a new task typically degrade on prior tasks, a phenomenon known as forgetting. Traditionally, mitigating forgetting has required replaying stored exemplars from prior tasks, which is",
-      "authors": [
-        "Martin Marek",
-        "Dongkyu Cho",
-        "Shikai Qiu",
-        "Rumi Chunara",
-        "Pavel Izmailov"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2605.26093v1",
-      "title": "Goal-driven Bayesian Optimal Experimental Design for Robust Decision-Making Under Model Uncertainty",
-      "url": "https://arxiv.org/abs/2605.26093v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-05-25T17:53:18Z",
-      "abstract": "Bayesian optimal experimental design (BOED) selects experiments to maximize information gain about model parameters. However, in decision-critical settings, reducing parameter uncertainty does not nec",
-      "authors": [
-        "Jinwoo Go",
-        "Xiaoning Qian",
-        "Byung-Jun Yoon"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2605.26092v1",
-      "title": "OrpQuant: Geometric Orthogonal Residual Projection for Multiplier-Free Power-of-Two Transformer Quantization",
-      "url": "https://arxiv.org/abs/2605.26092v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-05-25T17:52:46Z",
-      "abstract": "The deployment of Large Language Models (LLMs) and Vision Transformers (ViTs) on edge devices is significantly constrained by memory limitations and the critical timing bottlenecks introduced by dense",
-      "authors": [
-        "Maoyang Xiang",
-        "Bo Wang",
-        "Tao Luo"
-      ],
-      "tags": [
-        "transformer"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2605.26089v1",
-      "title": "Channel-wise Vector Quantization",
-      "url": "https://arxiv.org/abs/2605.26089v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-05-25T17:52:08Z",
-      "abstract": "We present Channel-wise Vector Quantization (CVQ), a novel image tokenization paradigm that replaces patch-wise tokens with channel-wise tokens. Unlike conventional vector quantization, which assigns",
-      "authors": [
-        "Wei Song",
-        "Tianhang Wang",
-        "Yitong Chen",
-        "Tong Zhang",
-        "Zuxuan Wu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2407.20595v5",
-      "title": "HALvest-Contrastive: Retrieval-Like Authorship Attribution with Patch-Level Late Interaction",
-      "url": "https://arxiv.org/abs/2407.20595v5",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-05-25T17:50:46Z",
-      "abstract": "Authorship attribution asks whether two pieces of text share a writer, but topical confound makes the task deceptively easy: two authors covering the same topic may look more alike than one author cov",
-      "authors": [
-        "Francis Kulumba",
-        "Wissam Antoun",
-        "Guillaume Vimont",
-        "Laurent Romary",
-        "Florian Cafiero"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
+      "stars": 194469,
       "votes": 0,
       "points": 0
     },
@@ -472,7 +179,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 138765,
+      "stars": 138784,
       "votes": 0,
       "points": 0
     },
@@ -493,37 +200,6 @@
       "downloads": 0,
       "likes": 0,
       "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "gh_658928958",
-      "title": "ollama/ollama — Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "url": "https://github.com/ollama/ollama",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-05-25T15:35:15Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "deepseek",
-        "gemma",
-        "gemma3",
-        "glm",
-        "go",
-        "golang",
-        "gpt-oss",
-        "llama",
-        "llama3",
-        "llm"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 172366,
       "votes": 0,
       "points": 0
     },

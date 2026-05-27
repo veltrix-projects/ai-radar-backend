@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-26T23:57:24.996Z",
+  "generatedAt": "2026-05-27T03:31:19.722Z",
   "date": "21-05-2026",
-  "count": 21,
+  "count": 18,
   "summary": null,
   "items": [
     {
@@ -87,86 +87,6 @@
         "Yang Yang"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.23699",
-      "title": "CRONOS: Benchmarking Counterfactual Physical Consistency in Video Models",
-      "url": "https://huggingface.co/papers/2605.23699",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-21T20:00:00.000Z",
-      "abstract": "Video prediction is increasingly viewed as a path toward generalizable world models, yet it remains unclear whether these systems learn underlying causal structure or merely exploit superficial visual",
-      "authors": [
-        "León Begiristain",
-        "Olaf Dünkel",
-        "Adam Kortylewski"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.23889",
-      "title": "HorizonStream: Long-Horizon Attention for Streaming 3D Reconstruction",
-      "url": "https://huggingface.co/papers/2605.23889",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-21T20:00:00.000Z",
-      "abstract": "Online 3D reconstruction requires estimating camera pose and scene geometry under strict causal and bounded-memory constraints. Existing methods often suffer from drift, jitter, or collapse on long se",
-      "authors": [
-        "Chong Cheng",
-        "Peilin Tao",
-        "Nanjie Yao",
-        "Guanzhi Ding",
-        "Xianda Chen"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.23264",
-      "title": "Coloring the Noise: Adversarial Sobolev Alignment for Faithful Image Super Resolution",
-      "url": "https://huggingface.co/papers/2605.23264",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-21T20:00:00.000Z",
-      "abstract": "Generative priors in Image Super-Resolution (SR) often compromise faithful restoration, we attribute this limitation to a fundamental spectral misalignment between isotropic objectives and the intrins",
-      "authors": [
-        "Hongbo Wang",
-        "Huaibo Huang",
-        "Pin Wang",
-        "Jinhua Hao",
-        "Chao Zhou"
-      ],
-      "tags": [
-        "alignment"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
