@@ -1,9 +1,60 @@
 {
-  "generatedAt": "2026-05-27T14:55:09.473Z",
+  "generatedAt": "2026-05-27T17:51:43.542Z",
   "date": "24-05-2026",
   "count": 6,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.26242",
+      "title": "Can LLMs Introspect? A Reality Check",
+      "url": "https://huggingface.co/papers/2605.26242",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-24T20:00:00.000Z",
+      "abstract": "Can large language models detect and report their own internal states? A number of studies have argued that the answer to this question is yes. We argue, based on lessons from human metacognition rese",
+      "authors": [
+        "Shashwat Singh",
+        "Tal Linzen",
+        "Shauli Ravfogel"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2503.08600",
+      "title": "NSF-SciFy: Mining the NSF Awards Database for Scientific Claims",
+      "url": "https://huggingface.co/papers/2503.08600",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-24T20:00:00.000Z",
+      "abstract": "We introduce NSF-SciFy, a comprehensive dataset of scientific claims and investigation proposals extracted from National Science Foundation award abstracts. While previous scientific claim verificatio",
+      "authors": [
+        "Delip Rao",
+        "Weiqiu You",
+        "Eric Wong",
+        "Chris Callison-Burch"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.26293",
       "title": "CroCo: Cross-Lingual Contrastive Preference Tuning on Self-Generations",
@@ -99,60 +150,6 @@
         "Ruichuan An"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.25979",
-      "title": "LLaVA-OneVision-2: Towards Next-Generation Perceptual Intelligence",
-      "url": "https://huggingface.co/papers/2605.25979",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-24T20:00:00.000Z",
-      "abstract": "We introduce LLaVA-OneVision-2 (LLaVA-OV-2), the most capable vision-language model in the LLaVA-OneVision series to date, achieving superior performance across a broad range of multimodal benchmarks.",
-      "authors": [
-        "Xiang An",
-        "Yin Xie",
-        "Feilong Tang",
-        "Yunyao Yan",
-        "Huajie Tan"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.26114",
-      "title": "MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research",
-      "url": "https://huggingface.co/papers/2605.26114",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-24T20:00:00.000Z",
-      "abstract": "We present MobileGym, a browser-hosted, lightweight, fully controllable environment for everyday mobile use, targeting interaction fidelity without replicating proprietary backends. It enables two cap",
-      "authors": [
-        "Dingbang Wu",
-        "Rui Hao",
-        "Haiyang Wang",
-        "Shuzhe Wu",
-        "Han Xiao"
-      ],
-      "tags": [
-        "agent"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
