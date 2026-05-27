@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-27T07:55:36.559Z",
+  "generatedAt": "2026-05-27T11:31:11.175Z",
   "date": "19-05-2026",
-  "count": 9,
+  "count": 10,
   "summary": null,
   "items": [
     {
@@ -37,6 +37,32 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.18879",
+      "title": "ZeroUnlearn: Few-Shot Knowledge Unlearning in Large Language Models",
+      "url": "https://huggingface.co/papers/2605.18879",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-19T20:00:00.000Z",
+      "abstract": "Large language models inevitably retain sensitive information, defined as inputs that may induce harmful generations, due to training on massive web corpora, raising concerns for privacy and safety. E",
+      "authors": [
+        "Yujie Lin",
+        "Chengyi Yang",
+        "Zhishang Xiang",
+        "Yiping Song",
+        "Jinsong Su"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-27T07:55:36.556Z",
+  "generatedAt": "2026-05-27T11:31:11.171Z",
   "date": "25-05-2026",
-  "count": 23,
+  "count": 20,
   "summary": null,
   "items": [
     {
@@ -40,6 +40,117 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.27295",
+      "title": "Gemini Embedding 2: A Native Multimodal Embedding Model from Gemini",
+      "url": "https://huggingface.co/papers/2605.27295",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-25T20:00:00.000Z",
+      "abstract": "We introduce Gemini Embedding 2, a native multimodal embedding model that allows embedding video, audio, image, and text modalities in a unified representation space. We leverage the multimodal capabi",
+      "authors": [
+        "Madhuri Shanbhogue",
+        "Zhe Li",
+        "Shanfeng Zhang",
+        "Gustavo Hernández Ábrego",
+        "Shih-Cheng Huang"
+      ],
+      "tags": [
+        "gemini",
+        "multimodal"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.27209",
+      "title": "Learning to Act under Noise: Enhancing Agent Robustness via Noisy Environments",
+      "url": "https://huggingface.co/papers/2605.27209",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-25T20:00:00.000Z",
+      "abstract": "Recent advances in large language models (LLMs) have facilitated the widespread deployment of LLMs as interactive agents capable of reasoning, planning, and tool use. Despite strong performance on exi",
+      "authors": [
+        "Yuxin Chen",
+        "Xiaodong Cai",
+        "Junfeng Fang",
+        "Zhuowen Han",
+        "Yu Wang"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.27141",
+      "title": "VitaBench 2.0: Evaluating Personalized and Proactive Agents in Long-Term User Interactions",
+      "url": "https://huggingface.co/papers/2605.27141",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-25T20:00:00.000Z",
+      "abstract": "Large language models (LLMs) have evolved into interactive agents that collaborate with users in real-world tasks. Effective collaboration in such settings increasingly depends on understanding the us",
+      "authors": [
+        "Yuxin Chen",
+        "Yi Zhang",
+        "Zhengzhou Cai",
+        "Yaorui Shi",
+        "Zhiyuan Yao"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.27030",
+      "title": "Share More, Search Less: Collaborative Parallel Thinking for Efficient Test-Time Scaling",
+      "url": "https://huggingface.co/papers/2605.27030",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-25T20:00:00.000Z",
+      "abstract": "Test-Time Scaling (TTS) enhances the reasoning capabilities of large language models by allocating additional inference compute to explore the solution space. However, existing parallel TTS methods ty",
+      "authors": [
+        "Xinglin Wang",
+        "Hao Lin",
+        "Shaoxiong Feng",
+        "Peiwen Yuan",
+        "Yiwei Li"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -129,195 +240,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.26952",
-      "title": "Efficient Agentic Reinforcement Learning with On-Policy Intrinsic Knowledge Boundary Enhancement",
-      "url": "https://huggingface.co/papers/2605.26952",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-25T20:00:00.000Z",
-      "abstract": "Agentic reinforcement learning (RL) has proven effective for training LLM-based agents with external tool-use capabilities. However, we identify that agentic RL training induces increasing redundant t",
-      "authors": [
-        "Dingwei Chen",
-        "Zefang Zong",
-        "Zhipeng Ma",
-        "Leo Luo",
-        "Yang Li"
-      ],
-      "tags": [
-        "agent",
-        "reinforcement learning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.26494",
-      "title": "The MiniMax-M2 Series: Mini Activations Unleashing Max Real-World Intelligence",
-      "url": "https://huggingface.co/papers/2605.26494",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-25T20:00:00.000Z",
-      "abstract": "We introduce the MiniMax-M2 series, a family of Mixture-of-Experts language models built around the principle that mini activations can unleash maximum real-world intelligence. The flagship M2 contain",
-      "authors": [
-        "MiniMax",
-        "Aili Chen",
-        "Aonian Li",
-        "Baichuan Zhou",
-        "Bangwei Gong"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.26895",
-      "title": "Negligible in Size, Significant in Effect: On Scale Vectors in Large Language Models",
-      "url": "https://huggingface.co/papers/2605.26895",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-25T20:00:00.000Z",
-      "abstract": "Normalization layers in modern large language models (LLMs) consist of a deterministic normalization operation and a learnable scale vector. While the normalization operation has been extensively stud",
-      "authors": [
-        "Mingze Wang",
-        "Shuchen Zhu",
-        "Yuxin Fang",
-        "Binghui Li",
-        "Kai Shen"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.27365",
-      "title": "LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding",
-      "url": "https://huggingface.co/papers/2605.27365",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-25T20:00:00.000Z",
-      "abstract": "Vision-language models (VLMs) commonly formulate visual grounding and detection as a coordinate-token generation problem, serializing each 2D box into multiple 1D tokens that are learned and decoded l",
-      "authors": [
-        "Shihao Wang",
-        "Shilong Liu",
-        "Yuanguo Kuang",
-        "Xinyu Wei",
-        "Yangzhou Liu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.27366",
-      "title": "MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation",
-      "url": "https://huggingface.co/papers/2605.27366",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-25T20:00:00.000Z",
-      "abstract": "Large language model (LLM) agents rely on reusable skills to solve complex tasks. However, existing skill creation approaches treat skills as isolated and static artifacts, limiting their reusability,",
-      "authors": [
-        "Huawei Lin",
-        "Peng Li",
-        "Jie Song",
-        "Fuxin Jiang",
-        "Tieying Zhang"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.27367",
-      "title": "SpatialBench: Is Your Spatial Foundation Model an All-Round Player?",
-      "url": "https://huggingface.co/papers/2605.27367",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-25T20:00:00.000Z",
-      "abstract": "While spatial foundation models have demonstrated impressive performance on standard datasets, a critical question remains: are they truly all-round players capable of generalizing robustly across div",
-      "authors": [
-        "Haosong Peng",
-        "Hao Li",
-        "Jiaqi Chen",
-        "Yuhao Pan",
-        "Runmao Yao"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.26632",
-      "title": "RT-Lynx: Putting the GEMM Sparsity In a Right Way for Diffusion Models",
-      "url": "https://huggingface.co/papers/2605.26632",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-25T20:00:00.000Z",
-      "abstract": "Diffusion Transformers (DiT) achieve strong performance in image generation but incur substantial inference costs. While prior work has reduced this cost via quantization and distillation, semi-struct",
-      "authors": [
-        "Xing Cong",
-        "Hanlin Tang",
-        "Kan Liu",
-        "Lan Tao",
-        "Lin Qu"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "gh_1136590548",
       "title": "affaan-m/ECC — The agent harness performance optimization system. Skills, instincts, memory, security, and research",
       "url": "https://github.com/affaan-m/ECC",
@@ -343,7 +265,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 194875,
+      "stars": 195337,
       "votes": 0,
       "points": 0
     },
@@ -374,7 +296,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 138813,
+      "stars": 138845,
       "votes": 0,
       "points": 0
     },

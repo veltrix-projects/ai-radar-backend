@@ -1,9 +1,90 @@
 {
-  "generatedAt": "2026-05-27T07:55:36.557Z",
+  "generatedAt": "2026-05-27T11:31:11.173Z",
   "date": "23-05-2026",
-  "count": 3,
+  "count": 6,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.25162",
+      "title": "STREAM: A Data-Centric Framework for Mining High-Value Task-Oriented Dialogues from Streaming Media",
+      "url": "https://huggingface.co/papers/2605.25162",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-23T20:00:00.000Z",
+      "abstract": "Large language models for vertical domains are bottlenecked by the scarcity of complex, domain-specific task-oriented dialogues. Existing data acquisition pipelines face a persistent trilemma: expert",
+      "authors": [
+        "Liang Xue",
+        "Haoyu Liu",
+        "Cheng Wang",
+        "Pengyu Chen",
+        "Haozhuo Zheng"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.24931",
+      "title": "Learning High-Frequency Continuous Action Chunks in Latent Space",
+      "url": "https://huggingface.co/papers/2605.24931",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-23T20:00:00.000Z",
+      "abstract": "Modern robotic policies increasingly rely on action chunking to execute complex tasks in the physical world. While action chunking improves temporal consistency at moderate action frequencies, it beco",
+      "authors": [
+        "Kunyun Wang",
+        "Yuhang Zheng",
+        "Yupeng Zheng",
+        "Jieru Zhao",
+        "Wenchao Ding"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.25188",
+      "title": "DarkForest: Less Talk, Higher Accuracy for Multi-Agent LLMs",
+      "url": "https://huggingface.co/papers/2605.25188",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-23T20:00:00.000Z",
+      "abstract": "Multi-agent LLM systems improve reasoning by combining outputs from multiple agents, but interaction-heavy methods can introduce error propagation and high communication overhead. When agents exchange",
+      "authors": [
+        "Yi Li",
+        "Songtao Wei",
+        "Dongming Jiang",
+        "Zhichun Guo",
+        "Qiannan Li"
+      ],
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fcorpse-p",
       "title": "‘Corpse Point’ In the Arctic Is Melting, Disturbing Centuries-Old Bodies",
@@ -51,7 +132,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 138329,
+      "stars": 138345,
       "votes": 0,
       "points": 0
     },
