@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-27T03:31:19.722Z",
+  "generatedAt": "2026-05-27T07:55:36.558Z",
   "date": "21-05-2026",
-  "count": 18,
+  "count": 17,
   "summary": null,
   "items": [
     {
@@ -45,48 +45,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.24213",
-      "title": "Towards Evaluation Engineering: An Empirical Study of ML Evaluation Harnesses in the Wild",
-      "url": "https://huggingface.co/papers/2605.24213",
+      "id": "hf_paper_2605.23271",
+      "title": "EvalVerse: Pipeline-Aware and Expert-Calibrated Benchmarking for Professional Cinematic Video Generation",
+      "url": "https://huggingface.co/papers/2605.23271",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-21T20:00:00.000Z",
-      "abstract": "Evaluation harnesses are software systems that orchestrate model evaluation by managing model invocation, data loading, metric computation, and result reporting. Despite their critical role in machine",
+      "abstract": "The rapid evolution of generative video foundation models has propelled the field toward professional-grade cinematic synthesis. To achieve such demanding quality, the community transitions towards Re",
       "authors": [
-        "Zhimin Zhao",
-        "Zehao Wang",
-        "Abdul Ali Bangash",
-        "Bram Adams",
-        "Ahmed E. Hassan"
+        "Songlin Yang",
+        "Haobin Zhong",
+        "Ruilin Zhang",
+        "Xiaotong Zhao",
+        "Shuai Li"
       ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.23491",
-      "title": "CoSPlay: Cooperative Self-Play at Test-Time with Self-Generated Code and Unit Test",
-      "url": "https://huggingface.co/papers/2605.23491",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-21T20:00:00.000Z",
-      "abstract": "Recently, Reinforcement Learning with Verifiable Rewards (RLVR) and Test-Time Scaling (TTS) have advanced LLM code generation through executable verification. Yet Ground-Truth Unit Tests (GT UTs) rema",
-      "authors": [
-        "Zhangyi Hu",
-        "Chenhui Liu",
-        "Tian Huang",
-        "Jindong Li",
-        "Yang Yang"
+      "tags": [
+        "benchmark"
       ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

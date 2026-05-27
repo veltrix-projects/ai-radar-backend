@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-27T03:31:19.720Z",
+  "generatedAt": "2026-05-27T07:55:36.556Z",
   "date": "25-05-2026",
-  "count": 16,
+  "count": 23,
   "summary": null,
   "items": [
     {
@@ -47,19 +47,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.26535",
-      "title": "Recursive Flow Matching",
-      "url": "https://huggingface.co/papers/2605.26535",
+      "id": "hf_paper_2605.27358",
+      "title": "MobileMoE: Scaling On-Device Mixture of Experts",
+      "url": "https://huggingface.co/papers/2605.27358",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-25T20:00:00.000Z",
-      "abstract": "Generative models have emerged as a powerful paradigm for solving physics systems and modeling complex spatiotemporal dynamics. However, achieving high physical accuracy without incurring high computa",
+      "abstract": "Mixture-of-Experts (MoE) has become the de facto architecture for hundred-billion-parameter language models, yet its advantages at sub-billion scales for on-device deployment remain largely unexplored",
       "authors": [
-        "Jiahe Huang",
-        "Sihan Xu",
-        "Sharvaree Vadgama",
-        "Rose Yu"
+        "Yanbei Chen",
+        "Hanxian Huang",
+        "Ernie Chang",
+        "Jacob Szwejbka",
+        "Digant Desai"
       ],
       "tags": [],
       "score": 6,
@@ -72,46 +73,240 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.26502",
-      "title": "PRISM: Position-encoded Regressive Inverse Spectral Model for Multilayer Thin-Film Design",
-      "url": "https://huggingface.co/papers/2605.26502",
+      "id": "hf_paper_2605.24219",
+      "title": "Beyond Final Answers: Auditing Trajectory-Level Hallucinations in Multi-Agent Industrial Workflows",
+      "url": "https://huggingface.co/papers/2605.24219",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-25T20:00:00.000Z",
-      "abstract": "The inverse problem of multilayer thin-film optical coatings design represents a complex combinatorial-continuous optimization challenge. We present PRISM (Position-encoded Regressive Inverse Spectral",
+      "abstract": "Large Language Models (LLMs) are increasingly deployed as autonomous agents that reason, use tools, and act over multiple steps. Yet most hallucination benchmarks still evaluate only the final output,",
       "authors": [
-        "Runtian Wang",
-        "Renhao Xue",
-        "Baige Chen",
-        "Hao Wu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.26449",
-      "title": "Cross-scale Aligned Supervision for Training GANs",
-      "url": "https://huggingface.co/papers/2605.26449",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-25T20:00:00.000Z",
-      "abstract": "Modern GANs often introduce adversarial supervision on intermediate generator outputs and interpret the resulting multi-stage synthesis as coarse-to-fine hierarchical generation. In this work, we chal",
-      "authors": [
-        "Sangeek Hyun",
-        "MinKyu Lee",
-        "Jae-Pil Heo"
+        "Harshada Badave",
+        "Santosh Borse",
+        "Andrea Gomez",
+        "Harshitha Narahari",
+        "Sara Carter"
       ],
       "tags": [
-        "training"
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.27235",
+      "title": "MRT: Masked Region Transformer for Layered Image Generation and Editing at Scale",
+      "url": "https://huggingface.co/papers/2605.27235",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-25T20:00:00.000Z",
+      "abstract": "Layered image generation and editing is a fundamental capability that enables layer-wise reuse, editing, and composition of generated visual content, analogous to word-level editing in natural languag",
+      "authors": [
+        "Zhicong Tang",
+        "Zhao Zhang",
+        "Jingye Chen",
+        "Mohan Zhou",
+        "Yifan Pu"
+      ],
+      "tags": [
+        "transformer"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.26952",
+      "title": "Efficient Agentic Reinforcement Learning with On-Policy Intrinsic Knowledge Boundary Enhancement",
+      "url": "https://huggingface.co/papers/2605.26952",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-25T20:00:00.000Z",
+      "abstract": "Agentic reinforcement learning (RL) has proven effective for training LLM-based agents with external tool-use capabilities. However, we identify that agentic RL training induces increasing redundant t",
+      "authors": [
+        "Dingwei Chen",
+        "Zefang Zong",
+        "Zhipeng Ma",
+        "Leo Luo",
+        "Yang Li"
+      ],
+      "tags": [
+        "agent",
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.26494",
+      "title": "The MiniMax-M2 Series: Mini Activations Unleashing Max Real-World Intelligence",
+      "url": "https://huggingface.co/papers/2605.26494",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-25T20:00:00.000Z",
+      "abstract": "We introduce the MiniMax-M2 series, a family of Mixture-of-Experts language models built around the principle that mini activations can unleash maximum real-world intelligence. The flagship M2 contain",
+      "authors": [
+        "MiniMax",
+        "Aili Chen",
+        "Aonian Li",
+        "Baichuan Zhou",
+        "Bangwei Gong"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.26895",
+      "title": "Negligible in Size, Significant in Effect: On Scale Vectors in Large Language Models",
+      "url": "https://huggingface.co/papers/2605.26895",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-25T20:00:00.000Z",
+      "abstract": "Normalization layers in modern large language models (LLMs) consist of a deterministic normalization operation and a learnable scale vector. While the normalization operation has been extensively stud",
+      "authors": [
+        "Mingze Wang",
+        "Shuchen Zhu",
+        "Yuxin Fang",
+        "Binghui Li",
+        "Kai Shen"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.27365",
+      "title": "LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding",
+      "url": "https://huggingface.co/papers/2605.27365",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-25T20:00:00.000Z",
+      "abstract": "Vision-language models (VLMs) commonly formulate visual grounding and detection as a coordinate-token generation problem, serializing each 2D box into multiple 1D tokens that are learned and decoded l",
+      "authors": [
+        "Shihao Wang",
+        "Shilong Liu",
+        "Yuanguo Kuang",
+        "Xinyu Wei",
+        "Yangzhou Liu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.27366",
+      "title": "MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation",
+      "url": "https://huggingface.co/papers/2605.27366",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-25T20:00:00.000Z",
+      "abstract": "Large language model (LLM) agents rely on reusable skills to solve complex tasks. However, existing skill creation approaches treat skills as isolated and static artifacts, limiting their reusability,",
+      "authors": [
+        "Huawei Lin",
+        "Peng Li",
+        "Jie Song",
+        "Fuxin Jiang",
+        "Tieying Zhang"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.27367",
+      "title": "SpatialBench: Is Your Spatial Foundation Model an All-Round Player?",
+      "url": "https://huggingface.co/papers/2605.27367",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-25T20:00:00.000Z",
+      "abstract": "While spatial foundation models have demonstrated impressive performance on standard datasets, a critical question remains: are they truly all-round players capable of generalizing robustly across div",
+      "authors": [
+        "Haosong Peng",
+        "Hao Li",
+        "Jiaqi Chen",
+        "Yuhao Pan",
+        "Runmao Yao"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.26632",
+      "title": "RT-Lynx: Putting the GEMM Sparsity In a Right Way for Diffusion Models",
+      "url": "https://huggingface.co/papers/2605.26632",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-25T20:00:00.000Z",
+      "abstract": "Diffusion Transformers (DiT) achieve strong performance in image generation but incur substantial inference costs. While prior work has reduced this cost via quantization and distillation, semi-struct",
+      "authors": [
+        "Xing Cong",
+        "Hanlin Tang",
+        "Kan Liu",
+        "Lan Tao",
+        "Lin Qu"
+      ],
+      "tags": [
+        "diffusion"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -148,7 +343,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 194469,
+      "stars": 194875,
       "votes": 0,
       "points": 0
     },
@@ -179,7 +374,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 138784,
+      "stars": 138813,
       "votes": 0,
       "points": 0
     },

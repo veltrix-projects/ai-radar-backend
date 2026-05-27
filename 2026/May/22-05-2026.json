@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T03:31:19.721Z",
+  "generatedAt": "2026-05-27T07:55:36.557Z",
   "date": "22-05-2026",
   "count": 13,
   "summary": null,
@@ -45,19 +45,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.24517",
-      "title": "ECHO: Terminal Agents Learn World Models for Free",
-      "url": "https://huggingface.co/papers/2605.24517",
+      "id": "hf_paper_2605.24468",
+      "title": "SAM: State-Adaptive Memory for Long-Horizon Reasoning Agent",
+      "url": "https://huggingface.co/papers/2605.24468",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-22T20:00:00.000Z",
-      "abstract": "CLI agents are the closest thing language models have to an embodied setting: the model emits commands, the terminal executes them, and the returned stream -- stdout, errors, files, logs, and traces -",
+      "abstract": "Long-horizon agentic reasoning requires large language models to act over long interaction histories containing thoughts, tool calls, observations, and partial conclusions. The challenge is not merely",
       "authors": [
-        "Vaishnavi Shrivastava",
-        "Piero Kauffmann",
-        "Ahmed Awadallah",
-        "Dimitris Papailiopoulos"
+        "Yuyang Hu",
+        "Hongjin Qian",
+        "Shuting Wang",
+        "Jiongnan Liu",
+        "Ziliang Zhao"
       ],
       "tags": [
         "agent"
@@ -158,7 +159,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 155893,
+      "stars": 155900,
       "votes": 0,
       "points": 0
     },
