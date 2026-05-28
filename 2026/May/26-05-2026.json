@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-28T20:06:08.231Z",
+  "generatedAt": "2026-05-28T22:14:33.353Z",
   "date": "26-05-2026",
-  "count": 23,
+  "count": 20,
   "summary": null,
   "items": [
     {
@@ -100,6 +100,34 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.28617",
+      "title": "LACUNA: Safe Agents as Recursive Program Holes",
+      "url": "https://huggingface.co/papers/2605.28617",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-26T20:00:00.000Z",
+      "abstract": "LLM agents increasingly act by writing code, yet a split persists between the runtime that drives the agent and the code the model writes. The runtime owns the loop, context, and control flow, and the",
+      "authors": [
+        "Yaoyu Zhao",
+        "Yichen Xu",
+        "Oliver Bračevac",
+        "Cao Nguyen Pham",
+        "Frank Zhengqing Wu"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -231,99 +259,6 @@
       ],
       "tags": [
         "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.27824",
-      "title": "Revealing Algorithmic Deductive Circuits for Logical Reasoning",
-      "url": "https://huggingface.co/papers/2605.27824",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-26T20:00:00.000Z",
-      "abstract": "Recent studies have shown that Large Language Models (LLMs) can achieve strong reasoning performance by incorporating functional symbolic representations that abstractly describe graph traversal algor",
-      "authors": [
-        "Phuong Minh Nguyen",
-        "Tien Huu Dang",
-        "Naoya Inoue"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.28034",
-      "title": "Clark Hash: Stateless Sparse Johnson-Lindenstrauss Quantization for Neural Embeddings",
-      "url": "https://huggingface.co/papers/2605.28034",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-26T20:00:00.000Z",
-      "abstract": "Clark Hash is a small method for storing neural embeddings in less space. It normalizes each database vector, applies a deterministic sparse signed Johnson-Lindenstrauss projection, clips the result,",
-      "authors": [
-        "Stanislav Kirdey",
-        "Clark Labs Inc"
-      ],
-      "tags": [
-        "embeddings"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Technical deep dive: AgentCore payments and innovation in agentic commerce",
-      "url": "https://aws.amazon.com/blogs/machine-learning/technical-deep-dive-agentcore-payments-and-innovation-in-agentic-commerce/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-05-26T17:57:18.000Z",
-      "abstract": "Amazon Bedrock AgentCore payments is now available in preview, it provides instant payments to paid external services with no manual billing setup per provider, stablecoin support for cost-effective m",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Build highly scalable serverless LangGraph multi-agent systems in AWS with Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-highly-scalable-serverless-langgraph-multi-agent-systems-in-aws-with-amazon-bedrock-agentcore/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-05-26T17:41:26.000Z",
-      "abstract": "In this post, we provide a solution to build highly scalable, serverless multi-agent generative AI systems on AWS using LangGraph Agents as orchestrators integrated with Amazon Bedrock AgentCore Memor",
-      "authors": [],
-      "tags": [
-        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
