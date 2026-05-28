@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-05-28T14:28:58.377Z",
+  "generatedAt": "2026-05-28T17:48:36.792Z",
   "date": "25-05-2026",
   "count": 8,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.27044",
+      "title": "BatteryMFormer: Multi-level Learning for Battery Degradation Trajectory Forecasting",
+      "url": "https://huggingface.co/papers/2605.27044",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-25T20:00:00.000Z",
+      "abstract": "Early battery degradation trajectory forecasting (BDTF), which predicts the full-life state-of-health trajectory from early operational data, is critical for battery optimization, manufacturing, and d",
+      "authors": [
+        "Ruifeng Tan",
+        "Jintao Dong",
+        "Weixiang Hong",
+        "Jia Li",
+        "Jiaqiang Huang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.26574",
       "title": "GradSentry: Gradient Spectral Entropy for Backdoor Sample Filtering in Large Language Model Fine-Tuning",
@@ -134,30 +160,6 @@
       "tags": [
         "llm",
         "rag"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.27466",
-      "title": "AgensFlow: A Coordination-Policy Substrate for Multi-Agent Systems",
-      "url": "https://huggingface.co/papers/2605.27466",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-25T20:00:00.000Z",
-      "abstract": "Multi-agent systems built on large language models (LLMs) require many coordination choices that are difficult to fix a priori: which skill protocol to invoke, which agent role should perform a subtas",
-      "authors": [
-        "Nicole Koenigstein"
-      ],
-      "tags": [
-        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",

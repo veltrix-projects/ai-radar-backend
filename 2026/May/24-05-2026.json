@@ -1,9 +1,38 @@
 {
-  "generatedAt": "2026-05-28T14:28:58.377Z",
+  "generatedAt": "2026-05-28T17:48:36.792Z",
   "date": "24-05-2026",
-  "count": 4,
+  "count": 2,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.25707",
+      "title": "AgentHijack: Benchmarking Computer Use Agent Robustness to Common Environment Corruptions",
+      "url": "https://huggingface.co/papers/2605.25707",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-24T20:00:00.000Z",
+      "abstract": "Autonomous computer use agents that powered by multimodal large language models (MLLMs) are emerging as capable assistants for completing complex digital workflows. However, real-world execution envir",
+      "authors": [
+        "Jingwei Sun",
+        "Jianing Zhu",
+        "Yuanyi Li",
+        "Tongliang Liu",
+        "Xia HU"
+      ],
+      "tags": [
+        "agent",
+        "benchmark"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.26032",
       "title": "Everything at Every Scale: Scale-Invariant Diffusion with Continuous Super-Resolution",
@@ -26,91 +55,6 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.25969",
-      "title": "Triplet-Block Diffusion RWKV",
-      "url": "https://huggingface.co/papers/2605.25969",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-24T20:00:00.000Z",
-      "abstract": "Causal Transformer language models suffer from strictly sequential decoding and a quadratic per-step attention cost. While linear-time causal models and discrete diffusion models each address these we",
-      "authors": [
-        "Ke Lin",
-        "Yiyang Luo",
-        "Zhaolong Su",
-        "Yunya Song",
-        "Anyi Rao"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.23163",
-      "title": "Fast-dDrive: Efficient Block-Diffusion VLM for Autonomous Driving",
-      "url": "https://huggingface.co/papers/2605.23163",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-24T20:00:00.000Z",
-      "abstract": "End-to-end autonomous driving via Vision-Language-Action (VLA) models demands a precarious balance between high-fidelity trajectory planning and efficient inference. Existing paradigms typically fall",
-      "authors": [
-        "Kewei Zhang",
-        "Jin Wang",
-        "Sensen Gao",
-        "Chengyue Wu",
-        "Yulong Cao"
-      ],
-      "tags": [
-        "diffusion",
-        "autonomous"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.26396",
-      "title": "Advancing Creative Physical Intelligence in Large Multimodal Models",
-      "url": "https://huggingface.co/papers/2605.26396",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-24T20:00:00.000Z",
-      "abstract": "Large multimodal models (LMMs) have rapidly advanced in perception and reasoning; however, it remains unclear whether these capabilities generalize to discovering visually grounded solutions in open-e",
-      "authors": [
-        "Cheng Qian",
-        "Hyeonjeong Ha",
-        "Jiayu Liu",
-        "Jeonghwan Kim",
-        "Emre Can Acikgoz"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

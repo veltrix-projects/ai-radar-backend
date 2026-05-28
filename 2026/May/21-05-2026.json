@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-28T14:28:58.379Z",
+  "generatedAt": "2026-05-28T17:48:36.794Z",
   "date": "21-05-2026",
-  "count": 10,
+  "count": 9,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,34 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.23346",
+      "title": "Contrastive Distribution Matching for Amortized Sequential Monte Carlo in Discrete Diffusion",
+      "url": "https://huggingface.co/papers/2605.23346",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-21T20:00:00.000Z",
+      "abstract": "Discrete diffusion models have emerged as powerful frameworks for generating structured categorical data. However, efficiently sampling from reward-tilted distributions remains a fundamental challenge",
+      "authors": [
+        "Jaihoon Kim",
+        "Taehoon Yoon",
+        "Prin Phunyaphibarn",
+        "Seungjun Kim",
+        "Morteza Mardani"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -107,26 +135,6 @@
       "points": 0
     },
     {
-      "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fradnor-h",
-      "title": "How Deepfakes Tore a High School Apart",
-      "url": "https://www.404media.co/radnor-high-school-pennsylvania-ai-deepfakes-child-sexual-abuse-material/",
-      "source": "404 Media",
-      "sourceIcon": "📡",
-      "type": "news",
-      "timestamp": "2026-05-21T14:41:16.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
       "title": "Anthropic’s Code with Claude showed off coding&#8217;s future—whether you like it or not",
       "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
@@ -139,26 +147,6 @@
       "tags": [
         "claude"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fthis-arc",
-      "title": "This Archivist Has Saved 175,000 Articles from 30 Years of Writing about Magic: The Gathering",
-      "url": "https://www.404media.co/this-archivist-has-saved-175-000-articles-from-30-years-of-writing-about-magic-the-gathering/",
-      "source": "404 Media",
-      "sourceIcon": "📡",
-      "type": "news",
-      "timestamp": "2026-05-21T13:08:47.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
