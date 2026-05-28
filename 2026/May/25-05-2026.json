@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-05-28T17:48:36.792Z",
+  "generatedAt": "2026-05-28T20:06:08.232Z",
   "date": "25-05-2026",
-  "count": 8,
+  "count": 6,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.27310",
+      "title": "How and What to Imagine? Visual Thinking in Unified Multimodal Models for Cross-View Spatial Reasoning",
+      "url": "https://huggingface.co/papers/2605.27310",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-25T20:00:00.000Z",
+      "abstract": "Cross-view spatial reasoning remains a weak spot for vision-language models (VLMs): they often reason in language and lose the fine-grained geometry needed for the task. Thinking with images aims to a",
+      "authors": [
+        "Qian Yang",
+        "Ankur Sikarwar",
+        "Huy Le",
+        "Le Zhang",
+        "Zhuan Shi"
+      ],
+      "tags": [
+        "multimodal"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.27044",
       "title": "BatteryMFormer: Multi-level Learning for Battery Degradation Trajectory Forecasting",
@@ -75,92 +103,6 @@
         "Lintao Wang"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.27760",
-      "title": "SkillGrad: Optimizing Agent Skills Like Gradient Descent",
-      "url": "https://huggingface.co/papers/2605.27760",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-25T20:00:00.000Z",
-      "abstract": "Agent skills provide a lightweight way to adapt LLM agents to specialized domains by storing reusable procedural knowledge in structured files. However, whether downloaded from third parties or self-g",
-      "authors": [
-        "Hanyu Wang",
-        "Yifan Lan",
-        "Bochuan Cao",
-        "Lu Lin",
-        "Jinghui Chen"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.27354",
-      "title": "Guiding LLM Post-training Data Engineering with Model Internals from Sparse Autoencoders",
-      "url": "https://huggingface.co/papers/2605.27354",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-25T20:00:00.000Z",
-      "abstract": "Model internals encode rich information about how a large language model (LLM) processes its training data; however, post-training data engineering largely relies on external signals and ignores rich",
-      "authors": [
-        "Yi Jing",
-        "Zao Dai",
-        "Jinwu Hu",
-        "Zijun Yao",
-        "Lei Hou"
-      ],
-      "tags": [
-        "llm",
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.27268",
-      "title": "Lost in Sampling: Assessing Lexical Reachability in LLMs via the Word Coverage Score (WCS)",
-      "url": "https://huggingface.co/papers/2605.27268",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-25T20:00:00.000Z",
-      "abstract": "Modern Large Language Models (LLMs) are often criticized for producing repetitive and homogeneous text, despite possessing vast latent vocabularies. While previous research has focused on model knowle",
-      "authors": [
-        "Samer Awad",
-        "Javier Conde",
-        "Carlos Arriaga",
-        "Tairan Fu",
-        "Javier Coronado-Blázquez"
-      ],
-      "tags": [
-        "llm",
-        "rag"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-28T17:48:36.794Z",
+  "generatedAt": "2026-05-28T20:06:08.235Z",
   "date": "21-05-2026",
-  "count": 9,
+  "count": 10,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,31 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.24053",
+      "title": "Breaking the Chains of Probability: Neutrosophic Logic as a New Framework for Epistemic Uncertainty in Large Language Models",
+      "url": "https://huggingface.co/papers/2605.24053",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-21T20:00:00.000Z",
+      "abstract": "Large Language Models (LLMs) are predominantly governed by probabilistic frameworks in which the sum of outcome probabilities is constrained to unity. This architectural limitation, often imposed by S",
+      "authors": [
+        "Maikel Yelandi Leyva-Vázquez",
+        "Florentin Smarandache"
+      ],
+      "tags": [
+        "phi"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

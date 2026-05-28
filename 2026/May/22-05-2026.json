@@ -1,37 +1,9 @@
 {
-  "generatedAt": "2026-05-28T17:48:36.793Z",
+  "generatedAt": "2026-05-28T20:06:08.235Z",
   "date": "22-05-2026",
-  "count": 8,
+  "count": 7,
   "summary": null,
   "items": [
-    {
-      "id": "hf_paper_2605.24486",
-      "title": "AgentFugue: Agent Scaling for Long-Horizon Tasks through Collective Reasoning",
-      "url": "https://huggingface.co/papers/2605.24486",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-22T20:00:00.000Z",
-      "abstract": "Recent progress on long-horizon agentic tasks has been driven largely by scaling up individual agents through stronger models, better tools, and more effective scaffolding. In contrast, much less is u",
-      "authors": [
-        "Yuyang Hu",
-        "Hongjin Qian",
-        "Shuting Wang",
-        "Jiongnan Liu",
-        "Tong Zhao"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "Synthesize Realistic 3D Medical Images at Scale to Ship Pre‑Trained Models",
@@ -133,26 +105,6 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fvirgi",
-      "title": "How Virgin Atlantic ships faster with Codex",
-      "url": "https://openai.com/index/virgin-atlantic",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-05-22T00:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fgartn",
       "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
       "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
@@ -165,6 +117,26 @@
       "tags": [
         "agent"
       ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fvirgi",
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "source": "OpenAI Blog",
+      "sourceIcon": "🟢",
+      "type": "news",
+      "timestamp": "2026-05-22T00:00:00.000Z",
+      "abstract": "",
+      "authors": [],
+      "tags": [],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
