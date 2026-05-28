@@ -1,9 +1,63 @@
 {
-  "generatedAt": "2026-05-28T10:45:03.546Z",
+  "generatedAt": "2026-05-28T14:28:58.377Z",
   "date": "25-05-2026",
-  "count": 7,
+  "count": 8,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.26574",
+      "title": "GradSentry: Gradient Spectral Entropy for Backdoor Sample Filtering in Large Language Model Fine-Tuning",
+      "url": "https://huggingface.co/papers/2605.26574",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-25T20:00:00.000Z",
+      "abstract": "Fine-tuning Large Language Models with untrusted data exposes models to backdoor attacks, where poisoned samples cause targeted misbehavior. Existing sample-filtering defenses rely on clustering, whic",
+      "authors": [
+        "Haodong Zhao",
+        "Tianyi Xu",
+        "Tianhang Zhao",
+        "Zhuosheng Zhang",
+        "Gongshen Liu"
+      ],
+      "tags": [
+        "fine-tuning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.27491",
+      "title": "GE-Sim 2.0: A Roadmap Towards Comprehensive Closed-loop Video World Simulators for Robotic Manipulation",
+      "url": "https://huggingface.co/papers/2605.27491",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-25T20:00:00.000Z",
+      "abstract": "We introduce GE-Sim 2.0 (Genie Envisioner World Simulator 2.0), a closed-loop video world simulator for robotic manipulation. Building on the action-conditioned video generation framework of Genie Env",
+      "authors": [
+        "Boxiang Qiu",
+        "Liliang Chen",
+        "Yue Liao",
+        "Nan Wang",
+        "Lintao Wang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.27760",
       "title": "SkillGrad: Optimizing Agent Skills Like Gradient Descent",
@@ -111,36 +165,6 @@
       "downloads": 0,
       "likes": 0,
       "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "gh_1136590548",
-      "title": "affaan-m/ECC — The agent harness performance optimization system. Skills, instincts, memory, security, and research",
-      "url": "https://github.com/affaan-m/ECC",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-05-25T18:28:39Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "ai-agents",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "developer-tools",
-        "llm",
-        "mcp",
-        "productivity",
-        "JavaScript"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 196485,
       "votes": 0,
       "points": 0
     },

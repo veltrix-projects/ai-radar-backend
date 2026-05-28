@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-05-28T10:45:03.546Z",
+  "generatedAt": "2026-05-28T14:28:58.377Z",
   "date": "24-05-2026",
   "count": 4,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.26032",
+      "title": "Everything at Every Scale: Scale-Invariant Diffusion with Continuous Super-Resolution",
+      "url": "https://huggingface.co/papers/2605.26032",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-24T20:00:00.000Z",
+      "abstract": "Creating images from noise is image generation; reconstructing fine details from coarse inputs is super-resolution. Despite their practical differences, both can be understood as reversing information",
+      "authors": [
+        "Zixin Jessie Chen",
+        "Zhuo Chen",
+        "Archer Wang",
+        "Jeff Gore",
+        "William T. Freeman"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.25969",
       "title": "Triplet-Block Diffusion RWKV",
@@ -83,34 +111,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.26340",
-      "title": "ScientistOne: Towards Human-Level Autonomous Research via Chain-of-Evidence",
-      "url": "https://huggingface.co/papers/2605.26340",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-24T20:00:00.000Z",
-      "abstract": "Autonomous research agents produce competitive solutions and professional-looking manuscripts, yet their outputs contain verifiability failures undetectable by surface-level evaluation: fabricated cit",
-      "authors": [
-        "Rui Meng",
-        "Bhavana Dalvi Mishra",
-        "Jiefeng Chen",
-        "Chun-Liang Li",
-        "Palash Goyal"
-      ],
-      "tags": [
-        "autonomous"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
