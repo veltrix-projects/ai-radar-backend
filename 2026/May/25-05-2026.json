@@ -1,66 +1,24 @@
 {
-  "generatedAt": "2026-05-28T06:34:44.607Z",
+  "generatedAt": "2026-05-28T10:45:03.546Z",
   "date": "25-05-2026",
   "count": 7,
   "summary": null,
   "items": [
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Together AI Open-Sources OSCAR: An Attention-Aware 2-Bit KV Cache Quantization System for Long-Context LLM Serving",
-      "url": "https://www.marktechpost.com/2026/05/25/together-ai-open-sources-oscar-an-attention-aware-2-bit-kv-cache-quantization-system-for-long-context-llm-serving/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-05-25T21:24:31.000Z",
-      "abstract": "Together AI has released OSCAR (Offline Spectral Covariance-Aware Rotation), an INT2 KV cache quantization method for long-context LLM serving. Unlike prior rotation-based approaches that apply data-o",
-      "authors": [],
-      "tags": [
-        "llm"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Step by Step Guide to Build and Compare FedAvg and FedProx Federated Learning on Non-IID CIFAR-10 with NVIDIA FLARE",
-      "url": "https://www.marktechpost.com/2026/05/25/step-by-step-guide-to-build-and-compare-fedavg-and-fedprox-federated-learning-on-non-iid-cifar-10-with-nvidia-flare/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-05-25T20:26:40.000Z",
-      "abstract": "In this tutorial, we build an advanced federated learning experiment with NVIDIA FLARE. We compare FedAvg and FedProx on a non-IID CIFAR-10 setup, where client data is split using a Dirichlet distribu",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.27762",
-      "title": "PEAM: Parametric Embodied Agent Memory through Contrastive Internalization of Experience in Minecraft",
-      "url": "https://huggingface.co/papers/2605.27762",
+      "id": "hf_paper_2605.27760",
+      "title": "SkillGrad: Optimizing Agent Skills Like Gradient Descent",
+      "url": "https://huggingface.co/papers/2605.27760",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-25T20:00:00.000Z",
-      "abstract": "We present PEAM, a Parametric Embodied Agent Memory framework in Minecraft that transforms agent memory from inference-time retrieval into parameter-resident skills internalized through experience. PE",
+      "abstract": "Agent skills provide a lightweight way to adapt LLM agents to specialized domains by storing reusable procedural knowledge in structured files. However, whether downloaded from third parties or self-g",
       "authors": [
-        "Yuchen Guo",
-        "Junli Gong",
-        "Hongmin Cai",
-        "Yiu-ming Cheung",
-        "Weifeng Su"
+        "Hanyu Wang",
+        "Yifan Lan",
+        "Bochuan Cao",
+        "Lu Lin",
+        "Jinghui Chen"
       ],
       "tags": [
         "agent"
@@ -75,20 +33,74 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.26457",
-      "title": "Verus-SpecGym: An Agentic Environment for Evaluating Specification Autoformalization",
-      "url": "https://huggingface.co/papers/2605.26457",
+      "id": "hf_paper_2605.27354",
+      "title": "Guiding LLM Post-training Data Engineering with Model Internals from Sparse Autoencoders",
+      "url": "https://huggingface.co/papers/2605.27354",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-25T20:00:00.000Z",
-      "abstract": "AI coding agents are increasingly used to write real-world software, but ensuring that their outputs are correct remains a fundamental challenge. Formal verification offers a promising path: an agent",
+      "abstract": "Model internals encode rich information about how a large language model (LLM) processes its training data; however, post-training data engineering largely relies on external signals and ignores rich",
       "authors": [
-        "Anmol Agarwal",
-        "Natalie Neamtu",
-        "Pranjal Aggarwal",
-        "Seungone Kim",
-        "Jannis Limperg"
+        "Yi Jing",
+        "Zao Dai",
+        "Jinwu Hu",
+        "Zijun Yao",
+        "Lei Hou"
+      ],
+      "tags": [
+        "llm",
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.27268",
+      "title": "Lost in Sampling: Assessing Lexical Reachability in LLMs via the Word Coverage Score (WCS)",
+      "url": "https://huggingface.co/papers/2605.27268",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-25T20:00:00.000Z",
+      "abstract": "Modern Large Language Models (LLMs) are often criticized for producing repetitive and homogeneous text, despite possessing vast latent vocabularies. While previous research has focused on model knowle",
+      "authors": [
+        "Samer Awad",
+        "Javier Conde",
+        "Carlos Arriaga",
+        "Tairan Fu",
+        "Javier Coronado-Blázquez"
+      ],
+      "tags": [
+        "llm",
+        "rag"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.27466",
+      "title": "AgensFlow: A Coordination-Policy Substrate for Multi-Agent Systems",
+      "url": "https://huggingface.co/papers/2605.27466",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-25T20:00:00.000Z",
+      "abstract": "Multi-agent systems built on large language models (LLMs) require many coordination choices that are difficult to fix a priori: which skill protocol to invoke, which agent role should perform a subtas",
+      "authors": [
+        "Nicole Koenigstein"
       ],
       "tags": [
         "agent"
@@ -128,7 +140,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 196255,
+      "stars": 196485,
       "votes": 0,
       "points": 0
     },

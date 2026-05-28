@@ -1,9 +1,66 @@
 {
-  "generatedAt": "2026-05-28T06:34:44.608Z",
+  "generatedAt": "2026-05-28T10:45:03.546Z",
   "date": "24-05-2026",
-  "count": 2,
+  "count": 4,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.25969",
+      "title": "Triplet-Block Diffusion RWKV",
+      "url": "https://huggingface.co/papers/2605.25969",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-24T20:00:00.000Z",
+      "abstract": "Causal Transformer language models suffer from strictly sequential decoding and a quadratic per-step attention cost. While linear-time causal models and discrete diffusion models each address these we",
+      "authors": [
+        "Ke Lin",
+        "Yiyang Luo",
+        "Zhaolong Su",
+        "Yunya Song",
+        "Anyi Rao"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.23163",
+      "title": "Fast-dDrive: Efficient Block-Diffusion VLM for Autonomous Driving",
+      "url": "https://huggingface.co/papers/2605.23163",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-24T20:00:00.000Z",
+      "abstract": "End-to-end autonomous driving via Vision-Language-Action (VLA) models demands a precarious balance between high-fidelity trajectory planning and efficient inference. Existing paradigms typically fall",
+      "authors": [
+        "Kewei Zhang",
+        "Jin Wang",
+        "Sensen Gao",
+        "Chengyue Wu",
+        "Yulong Cao"
+      ],
+      "tags": [
+        "diffusion",
+        "autonomous"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.26396",
       "title": "Advancing Creative Physical Intelligence in Large Multimodal Models",
