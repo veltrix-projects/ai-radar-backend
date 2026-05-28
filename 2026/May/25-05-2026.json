@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-28T02:10:19.660Z",
+  "generatedAt": "2026-05-28T06:34:44.607Z",
   "date": "25-05-2026",
-  "count": 13,
+  "count": 7,
   "summary": null,
   "items": [
     {
@@ -47,107 +47,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.27068",
-      "title": "QUACK: Questioning, Understanding, and Auditing Communicated Knowledge in Multimodal Social Deduction Agents",
-      "url": "https://huggingface.co/papers/2605.27068",
+      "id": "hf_paper_2605.27762",
+      "title": "PEAM: Parametric Embodied Agent Memory through Contrastive Internalization of Experience in Minecraft",
+      "url": "https://huggingface.co/papers/2605.27762",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-25T20:00:00.000Z",
-      "abstract": "Social deduction games have become a popular testbed for probing reasoning, deception, coordination, and belief modeling in Large Language Model (LLM) agents. However, most environments are scored onl",
+      "abstract": "We present PEAM, a Parametric Embodied Agent Memory framework in Minecraft that transforms agent memory from inference-time retrieval into parameter-resident skills internalized through experience. PE",
       "authors": [
-        "Ye Yuan",
-        "Rui Song",
-        "Weien Li",
-        "Zeyu Li",
-        "Haochen Liu"
-      ],
-      "tags": [
-        "multimodal",
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.27102",
-      "title": "JLT: Clean-Latent Prediction in Latent Diffusion Transformers",
-      "url": "https://huggingface.co/papers/2605.27102",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-25T20:00:00.000Z",
-      "abstract": "Flow matching with clean-data prediction has shown that regressing the clean point can exploit low-dimensional structure more effectively than predicting an ambient noised quantity. We ask whether thi",
-      "authors": [
-        "Funing Fu",
-        "Tenghui Wang",
-        "Junyong Cen",
-        "Qichao Zhu",
-        "Guanyu Zhou"
-      ],
-      "tags": [
-        "transformer",
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.27295",
-      "title": "Gemini Embedding 2: A Native Multimodal Embedding Model from Gemini",
-      "url": "https://huggingface.co/papers/2605.27295",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-25T20:00:00.000Z",
-      "abstract": "We introduce Gemini Embedding 2, a native multimodal embedding model that allows embedding video, audio, image, and text modalities in a unified representation space. We leverage the multimodal capabi",
-      "authors": [
-        "Madhuri Shanbhogue",
-        "Zhe Li",
-        "Shanfeng Zhang",
-        "Gustavo Hernández Ábrego",
-        "Shih-Cheng Huang"
-      ],
-      "tags": [
-        "gemini",
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.27209",
-      "title": "Learning to Act under Noise: Enhancing Agent Robustness via Noisy Environments",
-      "url": "https://huggingface.co/papers/2605.27209",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-25T20:00:00.000Z",
-      "abstract": "Recent advances in large language models (LLMs) have facilitated the widespread deployment of LLMs as interactive agents capable of reasoning, planning, and tool use. Despite strong performance on exi",
-      "authors": [
-        "Yuxin Chen",
-        "Xiaodong Cai",
-        "Junfeng Fang",
-        "Zhuowen Han",
-        "Yu Wang"
+        "Yuchen Guo",
+        "Junli Gong",
+        "Hongmin Cai",
+        "Yiu-ming Cheung",
+        "Weifeng Su"
       ],
       "tags": [
         "agent"
@@ -162,50 +75,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.27141",
-      "title": "VitaBench 2.0: Evaluating Personalized and Proactive Agents in Long-Term User Interactions",
-      "url": "https://huggingface.co/papers/2605.27141",
+      "id": "hf_paper_2605.26457",
+      "title": "Verus-SpecGym: An Agentic Environment for Evaluating Specification Autoformalization",
+      "url": "https://huggingface.co/papers/2605.26457",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-25T20:00:00.000Z",
-      "abstract": "Large language models (LLMs) have evolved into interactive agents that collaborate with users in real-world tasks. Effective collaboration in such settings increasingly depends on understanding the us",
+      "abstract": "AI coding agents are increasingly used to write real-world software, but ensuring that their outputs are correct remains a fundamental challenge. Formal verification offers a promising path: an agent",
       "authors": [
-        "Yuxin Chen",
-        "Yi Zhang",
-        "Zhengzhou Cai",
-        "Yaorui Shi",
-        "Zhiyuan Yao"
+        "Anmol Agarwal",
+        "Natalie Neamtu",
+        "Pranjal Aggarwal",
+        "Seungone Kim",
+        "Jannis Limperg"
       ],
       "tags": [
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.27030",
-      "title": "Share More, Search Less: Collaborative Parallel Thinking for Efficient Test-Time Scaling",
-      "url": "https://huggingface.co/papers/2605.27030",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-25T20:00:00.000Z",
-      "abstract": "Test-Time Scaling (TTS) enhances the reasoning capabilities of large language models by allocating additional inference compute to explore the solution space. However, existing parallel TTS methods ty",
-      "authors": [
-        "Xinglin Wang",
-        "Hao Lin",
-        "Shaoxiong Feng",
-        "Peiwen Yuan",
-        "Yiwei Li"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -241,38 +128,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 195990,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "gh_701547123",
-      "title": "open-webui/open-webui — User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "url": "https://github.com/open-webui/open-webui",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-05-25T16:15:05Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "ai",
-        "llm",
-        "llm-ui",
-        "llm-webui",
-        "llms",
-        "mcp",
-        "ollama",
-        "ollama-webui",
-        "open-webui",
-        "openai"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 138915,
+      "stars": 196255,
       "votes": 0,
       "points": 0
     },
@@ -289,28 +145,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Best Authentication Platforms for AI Agents and MCP Servers in 2026",
-      "url": "https://www.marktechpost.com/2026/05/25/best-authentication-platforms-for-ai-agents-and-mcp-servers-in-2026/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-05-25T10:34:02.000Z",
-      "abstract": "As MCP crosses 97 million monthly SDK downloads and AI agents move into production workflows, authentication has become the most critical infrastructure decision teams face. This guide ranks the eight",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
