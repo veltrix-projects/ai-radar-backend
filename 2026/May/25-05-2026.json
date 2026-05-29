@@ -1,28 +1,24 @@
 {
-  "generatedAt": "2026-05-29T06:35:51.576Z",
+  "generatedAt": "2026-05-29T10:38:26.445Z",
   "date": "25-05-2026",
   "count": 3,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2605.26485",
-      "title": "OmniInteract: Benchmarking Real-World Streaming Interaction for Real-Time Omnimodal Assistants",
-      "url": "https://huggingface.co/papers/2605.26485",
+      "id": "hf_paper_2605.26578",
+      "title": "Is Position Bias in Dense Retrievers Built In-or Learned from Data?",
+      "url": "https://huggingface.co/papers/2605.26578",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-25T20:00:00.000Z",
-      "abstract": "We introduce OmniInteract, a streaming benchmark for real-time omnimodal large language models evaluated through native online inference over audio-visual streams. Unlike offline video understanding o",
+      "abstract": "Dense retrievers exhibit positional bias, favoring documents whose query-relevant information appears near the beginning and degrading retrieval performance when the information appears later. While p",
       "authors": [
-        "Xudong Lu",
-        "Xueying Li",
-        "Annan Wang",
-        "Yang Bo",
-        "Jinpeng Chen"
+        "Daegon Yu",
+        "SeungYoon Han",
+        "Woomyoung Park"
       ],
-      "tags": [
-        "benchmark"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
