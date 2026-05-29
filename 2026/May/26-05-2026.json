@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-29T02:13:56.157Z",
+  "generatedAt": "2026-05-29T06:35:51.576Z",
   "date": "26-05-2026",
-  "count": 18,
+  "count": 12,
   "summary": null,
   "items": [
     {
@@ -15,28 +15,6 @@
       "abstract": "In this tutorial, we use zeroentropy/zerank-2-reranker, a 4B Qwen3-based cross-encoder reranker, to improve retrieval quality. We start by setting up the runtime, loading the reranker, and understandi",
       "authors": [],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Stability AI Releases Stable Audio 3: A Family of Fast Latent Diffusion Models for Audio Generation and Editing",
-      "url": "https://www.marktechpost.com/2026/05/26/stability-ai-releases-stable-audio-3-a-family-of-fast-latent-diffusion-models-for-audio-generation-and-editing/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-05-26T22:31:02.000Z",
-      "abstract": "Stability AI has released Stable Audio 3, a family of latent diffusion models for instrumental music and sound effects generation. The release includes open weights for the small and medium variants.",
-      "authors": [],
-      "tags": [
-        "diffusion"
-      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
@@ -107,159 +85,22 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.28617",
-      "title": "LACUNA: Safe Agents as Recursive Program Holes",
-      "url": "https://huggingface.co/papers/2605.28617",
+      "id": "hf_paper_2605.29157",
+      "title": "Parallax: Parameterized Local Linear Attention for Language Modeling",
+      "url": "https://huggingface.co/papers/2605.29157",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-26T20:00:00.000Z",
-      "abstract": "LLM agents increasingly act by writing code, yet a split persists between the runtime that drives the agent and the code the model writes. The runtime owns the loop, context, and control flow, and the",
+      "abstract": "Large Language Models (LLMs) have become the central paradigm in artificial intelligence, yet the core computational primitive of attention has remained structurally unchanged. Local Linear Attention",
       "authors": [
-        "Yaoyu Zhao",
-        "Yichen Xu",
-        "Oliver Bračevac",
-        "Cao Nguyen Pham",
-        "Frank Zhengqing Wu"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.28534",
-      "title": "GUI-CIDER: Mid-training GUI Agents via Causal Internalization and Density-aware Exemplar Reselection",
-      "url": "https://huggingface.co/papers/2605.28534",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-26T20:00:00.000Z",
-      "abstract": "Despite the rapid progress of multimodal large language models in building Graphical User Interface (GUI) agents, their real-world task completion is fundamentally bottlenecked by a lack of world know",
-      "authors": [
-        "Zheng Wu",
-        "Chengcheng Han",
-        "Zhengxi Lu",
-        "Tianjie Ju",
-        "Yanyu Chen"
-      ],
-      "tags": [
-        "agent",
-        "training"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.28257",
-      "title": "Category-Level 3D Correspondence in Camera Space via Morphable Object Priors",
-      "url": "https://huggingface.co/papers/2605.28257",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-26T20:00:00.000Z",
-      "abstract": "Understanding 3D objects from images is fundamental to robotics and AR/VR applications. While recent work has made progress in category-level pose estimation, current representations fail to capture t",
-      "authors": [
-        "Leonhard Sommer",
-        "Artur Jesslen",
-        "Basavaraj Sunagad",
-        "Adam Kortylewski"
+        "Yifei Zuo",
+        "Dhruv Pai",
+        "Zhichen Zeng",
+        "Alec Dewulf",
+        "Shuming Hu"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.27901",
-      "title": "The Fragility of Chain-of-Thought Monitoring Across Typologically Diverse Languages",
-      "url": "https://huggingface.co/papers/2605.27901",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-26T20:00:00.000Z",
-      "abstract": "Chain-of-thought (CoT) monitoring has been proposed as a promising safety mechanism for detecting misaligned behavior in large language models. However, its reliability remains largely unexplored beyo",
-      "authors": [
-        "Eric Onyame",
-        "Runtao Zhou",
-        "Kowshik Thopalli",
-        "Bhavya Kailkhura",
-        "Chirag Agarwal"
-      ],
-      "tags": [
-        "rag"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.28591",
-      "title": "Models That Know How Evaluations Are Designed Score Safer",
-      "url": "https://huggingface.co/papers/2605.28591",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-26T20:00:00.000Z",
-      "abstract": "The validity of AI safety evaluations depends on models behaving consistently across controlled and deployment settings. Prior work has identified test-time contextual cues, such as hypothetical scena",
-      "authors": [
-        "Katharina Deckenbach",
-        "Haritz Puerto",
-        "Jonas Geiping",
-        "Sahar Abdelnabi"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.28510",
-      "title": "Efficient and Scalable Provenance Tracking for LLM-Generated Code Snippets",
-      "url": "https://huggingface.co/papers/2605.28510",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-26T20:00:00.000Z",
-      "abstract": "Large language models (LLMs) for code completion and generation are increasingly used in software development, yet they may reproduce training examples verbatim and without authorship attribution, rai",
-      "authors": [
-        "Andrea Gurioli",
-        "Davide D'Ascenzo",
-        "Federico Pennino",
-        "Maurizio Gabbrielli",
-        "Stefano Zacchiroli"
-      ],
-      "tags": [
-        "llm"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

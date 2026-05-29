@@ -1,112 +1,26 @@
 {
-  "generatedAt": "2026-05-29T02:13:56.159Z",
+  "generatedAt": "2026-05-29T06:35:51.576Z",
   "date": "24-05-2026",
-  "count": 4,
+  "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2605.25940",
-      "title": "How Accurate are Video Quality Models for Diffusion-Based Video Super-Resolution?",
-      "url": "https://huggingface.co/papers/2605.25940",
+      "id": "hf_paper_2605.25378",
+      "title": "CollectionLoRA: Collecting 50 Effects in 1 LoRA via Multi-Teacher On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2605.25378",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-24T20:00:00.000Z",
-      "abstract": "Recent video super-resolution (VSR) approaches use deep neural networks to enhance low-quality input videos and recover visual detail, with diffusion-based methods in particular showing promising resu",
+      "abstract": "Customized image editing aims to equip pre-trained diffusion models with specific visual effects using limited paired data, typically via Low-Rank Adaptation (LoRA). As the number of desired effects g",
       "authors": [
-        "Benjamin Herb",
-        "Steve Göring",
-        "Alexander Raake",
-        "Rakesh Rao Ramachandra Rao"
+        "Fangtai Wu",
+        "Hailong Guo",
+        "Shijie Huang",
+        "Jiayi Song",
+        "Yubo Huang"
       ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.26302",
-      "title": "Your Agents Are Aging Too: Agent Lifespan Engineering for Deployed Systems",
-      "url": "https://huggingface.co/papers/2605.26302",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-24T20:00:00.000Z",
-      "abstract": "Long-lived AI agents are increasingly deployed as persistent operational systems, yet they are still evaluated like freshly initialized models. Day-one benchmarks miss a basic systems question: how lo",
-      "authors": [
-        "Jianing Zhu",
-        "Yeonju Ro",
-        "John Robertson",
-        "Kevin Wang",
-        "Junbo Li"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.25707",
-      "title": "AgentHijack: Benchmarking Computer Use Agent Robustness to Common Environment Corruptions",
-      "url": "https://huggingface.co/papers/2605.25707",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-24T20:00:00.000Z",
-      "abstract": "Autonomous computer use agents that powered by multimodal large language models (MLLMs) are emerging as capable assistants for completing complex digital workflows. However, real-world execution envir",
-      "authors": [
-        "Jingwei Sun",
-        "Jianing Zhu",
-        "Yuanyi Li",
-        "Tongliang Liu",
-        "Xia HU"
-      ],
-      "tags": [
-        "agent",
-        "benchmark"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.26032",
-      "title": "Everything at Every Scale: Scale-Invariant Diffusion with Continuous Super-Resolution",
-      "url": "https://huggingface.co/papers/2605.26032",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-24T20:00:00.000Z",
-      "abstract": "Creating images from noise is image generation; reconstructing fine details from coarse inputs is super-resolution. Despite their practical differences, both can be understood as reversing information",
-      "authors": [
-        "Zixin Jessie Chen",
-        "Zhuo Chen",
-        "Archer Wang",
-        "Jeff Gore",
-        "William T. Freeman"
-      ],
-      "tags": [
-        "diffusion"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

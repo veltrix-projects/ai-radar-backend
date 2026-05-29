@@ -1,135 +1,28 @@
 {
-  "generatedAt": "2026-05-29T02:13:56.158Z",
+  "generatedAt": "2026-05-29T06:35:51.576Z",
   "date": "25-05-2026",
-  "count": 7,
+  "count": 3,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2605.27766",
-      "title": "Got a Secret? LLM Agents Can't Keep It: Evaluating Privacy in Multi-Agent Systems",
-      "url": "https://huggingface.co/papers/2605.27766",
+      "id": "hf_paper_2605.26485",
+      "title": "OmniInteract: Benchmarking Real-World Streaming Interaction for Real-Time Omnimodal Assistants",
+      "url": "https://huggingface.co/papers/2605.26485",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-25T20:00:00.000Z",
-      "abstract": "LLM safety evaluations predominantly test models in isolation, yet deployed AI agents increasingly operate within persistent social environments alongside other agents. We introduce a Moltbook-style s",
+      "abstract": "We introduce OmniInteract, a streaming benchmark for real-time omnimodal large language models evaluated through native online inference over audio-visual streams. Unlike offline video understanding o",
       "authors": [
-        "Aman Priyanshu",
-        "Supriti Vijay",
-        "Esha Pahwa"
+        "Xudong Lu",
+        "Xueying Li",
+        "Annan Wang",
+        "Yang Bo",
+        "Jinpeng Chen"
       ],
       "tags": [
-        "llm",
-        "agent"
+        "benchmark"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.27310",
-      "title": "How and What to Imagine? Visual Thinking in Unified Multimodal Models for Cross-View Spatial Reasoning",
-      "url": "https://huggingface.co/papers/2605.27310",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-25T20:00:00.000Z",
-      "abstract": "Cross-view spatial reasoning remains a weak spot for vision-language models (VLMs): they often reason in language and lose the fine-grained geometry needed for the task. Thinking with images aims to a",
-      "authors": [
-        "Qian Yang",
-        "Ankur Sikarwar",
-        "Huy Le",
-        "Le Zhang",
-        "Zhuan Shi"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.27044",
-      "title": "BatteryMFormer: Multi-level Learning for Battery Degradation Trajectory Forecasting",
-      "url": "https://huggingface.co/papers/2605.27044",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-25T20:00:00.000Z",
-      "abstract": "Early battery degradation trajectory forecasting (BDTF), which predicts the full-life state-of-health trajectory from early operational data, is critical for battery optimization, manufacturing, and d",
-      "authors": [
-        "Ruifeng Tan",
-        "Jintao Dong",
-        "Weixiang Hong",
-        "Jia Li",
-        "Jiaqiang Huang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.26574",
-      "title": "GradSentry: Gradient Spectral Entropy for Backdoor Sample Filtering in Large Language Model Fine-Tuning",
-      "url": "https://huggingface.co/papers/2605.26574",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-25T20:00:00.000Z",
-      "abstract": "Fine-tuning Large Language Models with untrusted data exposes models to backdoor attacks, where poisoned samples cause targeted misbehavior. Existing sample-filtering defenses rely on clustering, whic",
-      "authors": [
-        "Haodong Zhao",
-        "Tianyi Xu",
-        "Tianhang Zhao",
-        "Zhuosheng Zhang",
-        "Gongshen Liu"
-      ],
-      "tags": [
-        "fine-tuning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.27491",
-      "title": "GE-Sim 2.0: A Roadmap Towards Comprehensive Closed-loop Video World Simulators for Robotic Manipulation",
-      "url": "https://huggingface.co/papers/2605.27491",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-25T20:00:00.000Z",
-      "abstract": "We introduce GE-Sim 2.0 (Genie Envisioner World Simulator 2.0), a closed-loop video world simulator for robotic manipulation. Building on the action-conditioned video generation framework of Genie Env",
-      "authors": [
-        "Boxiang Qiu",
-        "Liliang Chen",
-        "Yue Liao",
-        "Nan Wang",
-        "Lintao Wang"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
