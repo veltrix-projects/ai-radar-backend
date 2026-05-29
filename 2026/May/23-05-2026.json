@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-05-29T21:45:11.224Z",
+  "generatedAt": "2026-05-29T23:04:03.718Z",
   "date": "23-05-2026",
-  "count": 2,
+  "count": 3,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.24786",
+      "title": "CONF-KV: Confidence-Aware KV Cache Eviction with Mixed-Precision Storage for Long-Horizon LLM",
+      "url": "https://huggingface.co/papers/2605.24786",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-23T20:00:00.000Z",
+      "abstract": "Long-horizon LLM inference turns the key--value (KV) cache into the dominant GPU memory consumer and makes per-token attention increasingly expensive. Many common eviction policies use static recency",
+      "authors": [
+        "Yubo Li",
+        "Yidi Miao"
+      ],
+      "tags": [
+        "llm",
+        "rag"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.25220",
       "title": "Multi-view Consistent 3D Gaussian Head Avatars 'without' Multi-view Generation",
@@ -54,7 +80,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 138537,
+      "stars": 138545,
       "votes": 0,
       "points": 0
     }

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-29T21:45:11.222Z",
+  "generatedAt": "2026-05-29T23:04:03.716Z",
   "date": "27-05-2026",
-  "count": 26,
+  "count": 28,
   "summary": null,
   "items": [
     {
@@ -431,28 +431,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.30003",
-      "title": "Discovering Cooperative Pipelines: Autoresearch for Sequential Social Dilemmas",
-      "url": "https://huggingface.co/papers/2605.30003",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-27T20:00:00.000Z",
-      "abstract": "We study two-level autoresearch for cooperation: an outer-loop AI agent autonomously redesigns the inner-loop pipeline of an LLM policy-synthesis system for multi-agent Sequential Social Dilemmas (SSD",
-      "authors": [
-        "Víctor Gallego"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "NVIDIA Blackwell Sets STAC-AI Record for LLM Inference in Finance",
       "url": "https://developer.nvidia.com/blog/nvidia-blackwell-sets-stac-ai-record-for-llm-inference-in-finance/",
@@ -465,6 +443,30 @@
       "tags": [
         "llm",
         "inference"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "NVIDIA Releases Polar, a Token-Faithful Rollout Framework for GRPO Training Across Codex, Claude Code, and Qwen Code",
+      "url": "https://www.marktechpost.com/2026/05/27/nvidia-releases-polar-a-token-faithful-rollout-framework-for-grpo-training-across-codex-claude-code-and-qwen-code/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-05-27T17:09:38.000Z",
+      "abstract": "NVIDIA researchers have introduced Polar, a rollout framework that trains language agents using reinforcement learning without modifying their agent harnesses. Polar places a model API proxy between t",
+      "authors": [],
+      "tags": [
+        "claude",
+        "qwen",
+        "training"
       ],
       "score": 8,
       "priority": "HIGH",
@@ -536,6 +538,26 @@
       "points": 0
     },
     {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "Google folds Display Ads into AI-first Demand Gen platform",
+      "url": "https://www.artificialintelligence-news.com/news/google-folds-display-ads-ai-first-demand-gen-platform/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-05-27T13:12:06.000Z",
+      "abstract": "Google is folding Display Ads into its AI-powered Demand Gen platform, marking the end of a long-standing digital advertising model. The Google Display Network (GDN) has been a staple of the open inte",
+      "authors": [],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fpodcast-",
       "title": "Podcast: How Deepfakes Destroyed a High School",
       "url": "https://www.404media.co/podcast-how-deepfakes-destroyed-a-high-school/",
@@ -544,6 +566,26 @@
       "type": "news",
       "timestamp": "2026-05-27T13:02:37.000Z",
       "abstract": "",
+      "authors": [],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "Exploring the Benefits of AI Bots for Forex Trading in Forex Markets",
+      "url": "https://www.artificialintelligence-news.com/news/exploring-the-benefits-of-ai-bots-for-forex-trading-in-forex-markets/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-05-27T12:38:44.000Z",
+      "abstract": "The foreign exchange market is really moving away from pure intuition and toward a space shaped by speed, data and precision. By using automated systems in your routine, you can approach volatility wi",
       "authors": [],
       "tags": [],
       "score": 4,
@@ -598,16 +640,19 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Felect",
-      "title": "Election information and safeguards in 2026",
-      "url": "https://openai.com/index/election-safeguards-2026",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fwarp",
+      "title": "Warp’s big bet on building open source with GPT-5.5",
+      "url": "https://openai.com/index/warp",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
       "timestamp": "2026-05-27T00:00:00.000Z",
       "abstract": "",
       "authors": [],
-      "tags": [],
+      "tags": [
+        "gpt",
+        "open source"
+      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",

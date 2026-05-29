@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-05-29T21:45:11.223Z",
+  "generatedAt": "2026-05-29T23:04:03.718Z",
   "date": "25-05-2026",
-  "count": 1,
+  "count": 2,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.24785",
+      "title": "PANDO: Efficient Multimodal AI Agents via Online Skill Distillation",
+      "url": "https://huggingface.co/papers/2605.24785",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-25T20:00:00.000Z",
+      "abstract": "Recent advances in multimodal web agents often rely on increased inference-time computation, including rollout search, verifier passes, offline skill discovery, and specialist model stacks. This raise",
+      "authors": [
+        "Yubo Li",
+        "Yidi Miao",
+        "Yuntian Shen",
+        "Yuxin Liu"
+      ],
+      "tags": [
+        "multimodal",
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.27355",
       "title": "Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases",
