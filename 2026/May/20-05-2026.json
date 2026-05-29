@@ -1,49 +1,27 @@
 {
-  "generatedAt": "2026-05-29T06:35:51.578Z",
+  "generatedAt": "2026-05-29T17:27:26.236Z",
   "date": "20-05-2026",
-  "count": 2,
+  "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2605.22189",
-      "title": "Learning A Unified Risk Map for Autonomous Driving in Partially Observable Environments",
-      "url": "https://huggingface.co/papers/2605.22189",
+      "id": "hf_paper_2605.22765",
+      "title": "Uniform Diffusion Models Revisited: Leave-One-Out Denoiser and Absorbing State Reformulation",
+      "url": "https://huggingface.co/papers/2605.22765",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-20T20:00:00.000Z",
-      "abstract": "Occlusion-aware prediction remains a critical challenge in autonomous driving due to the inherent uncertainty of unobserved regions. Existing approaches either overestimate risk based on reachable sta",
+      "abstract": "Discrete diffusion models are often trained through clean-data prediction, but the prediction can be used in different ways to define the reverse dynamics. In Masked Diffusion Models (MDM) these choic",
       "authors": [
-        "Jie Jia",
-        "Yaofeng Su",
-        "Zeyu Bao",
-        "Yun Hong",
-        "Bingzhao Gao"
+        "Samson Gourevitch",
+        "Yazid Janati",
+        "Dario Shariatian",
+        "Umut Simsekli",
+        "Eric Moulines"
       ],
       "tags": [
-        "autonomous"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "Alibaba is designing AI chips around agents, and that changes what the race is actually about",
-      "url": "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-05-20T10:00:00.000Z",
-      "abstract": "Alibaba has unveiled a new AI processor built specifically for AI agents, pairing the chip announcement with a multi-year silicon roadmap and a new large language model, signalling that the company is",
-      "authors": [],
-      "tags": [
-        "agent"
+        "diffusion"
       ],
       "score": 6,
       "priority": "MEDIUM",
