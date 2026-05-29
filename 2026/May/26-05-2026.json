@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-29T10:38:26.445Z",
+  "generatedAt": "2026-05-29T13:52:46.815Z",
   "date": "26-05-2026",
-  "count": 11,
+  "count": 13,
   "summary": null,
   "items": [
     {
@@ -58,6 +58,35 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.26730",
+      "title": "PRISM: A Multi-Dimensional Benchmark for Evaluating LLM Peer Reviewers",
+      "url": "https://huggingface.co/papers/2605.26730",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-26T20:00:00.000Z",
+      "abstract": "The rapid growth in submissions to machine learning venues has strained the scientific peer-review system and intensified interest in LLM-based automated peer reviewers. However, how good these system",
+      "authors": [
+        "Ngoc Phan Phuoc Loc",
+        "Toan Huynh La Viet",
+        "Thanh Tran Khanh",
+        "Duy A Nguyen",
+        "Tuan Anh Nguyen Pham"
+      ],
+      "tags": [
+        "llm",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -197,6 +226,28 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "Autonomous AI systems test governance in physical environments",
+      "url": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-governance-physical-environments/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-05-26T10:00:00.000Z",
+      "abstract": "Autonomous AI systems are beginning to move beyond software environments and into warehouses, delivery networks, and public spaces. The development is drawing attention to whether current AI rules cov",
+      "authors": [],
+      "tags": [
+        "autonomous"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

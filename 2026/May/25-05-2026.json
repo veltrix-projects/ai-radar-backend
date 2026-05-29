@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-05-29T10:38:26.445Z",
+  "generatedAt": "2026-05-29T13:52:46.816Z",
   "date": "25-05-2026",
-  "count": 3,
+  "count": 4,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.27355",
+      "title": "Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases",
+      "url": "https://huggingface.co/papers/2605.27355",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-25T20:00:00.000Z",
+      "abstract": "Reinforcement Learning from Human Feedback (RLHF) is the standard method to align Large Language Models (LLMs) with human preferences. In this work, we introduce alignment tampering, a potential vulne",
+      "authors": [
+        "Dongyoon Hahm",
+        "Dylan Hadfield-Menell",
+        "Kimin Lee"
+      ],
+      "tags": [
+        "alignment",
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.26578",
       "title": "Is Position Bias in Dense Retrievers Built In-or Learned from Data?",

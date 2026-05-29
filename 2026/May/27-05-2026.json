@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-29T10:38:26.443Z",
+  "generatedAt": "2026-05-29T13:52:46.815Z",
   "date": "27-05-2026",
-  "count": 30,
+  "count": 31,
   "summary": null,
   "items": [
     {
@@ -78,6 +78,59 @@
       "timestamp": "2026-05-27T20:01:06.000Z",
       "abstract": "In this post, we show you how Verizon Connect built and scaled an agentic AI solution to transform overwhelming fleet data into clear, actionable insights for 100,000 users daily. We walk you through",
       "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.30060",
+      "title": "Towards Consistent Video Geometry Estimation",
+      "url": "https://huggingface.co/papers/2605.30060",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-27T20:00:00.000Z",
+      "abstract": "This work presents ViGeo, a feed-forward foundation model for recovering spatially dense and temporally consistent geometry from video sequences. Built upon a plain transformer architecture without ta",
+      "authors": [
+        "Zhu Yu",
+        "Jingnan Gao",
+        "Runmin Zhang",
+        "Lingteng Qiu",
+        "Zhengyi Zhao"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.30102",
+      "title": "When Cloud Agents Meet Device Agents: Lessons from Hybrid Multi-Agent Systems",
+      "url": "https://huggingface.co/papers/2605.30102",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-27T20:00:00.000Z",
+      "abstract": "The design space of agentic AI inference spans two extremes: frontier large language models (LLMs), typically hosted in the cloud and offering strong performance across a wide range of tasks at substa",
+      "authors": [
+        "Corrado Rainone",
+        "Davide Belli",
+        "Bence Major",
+        "Arash Behboodi"
+      ],
       "tags": [
         "agent"
       ],
@@ -375,115 +428,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.30346",
-      "title": "YoCausal: How Far is Video Generation from World Model? A Causality Perspective",
-      "url": "https://huggingface.co/papers/2605.30346",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-27T20:00:00.000Z",
-      "abstract": "As video diffusion models (VDMs) advance toward world models, a key question arises: do they truly understand causality, or merely overfit to statistical temporal patterns? Existing benchmarks mostly",
-      "authors": [
-        "You-Zhe Xie",
-        "Yu-Hsuan Li",
-        "Jie-Ying Lee",
-        "Kaipeng Zhang",
-        "Yu-Lun Liu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.29486",
-      "title": "PhoneWorld: Scaling Phone-Use Agent Environments",
-      "url": "https://huggingface.co/papers/2605.29486",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-27T20:00:00.000Z",
-      "abstract": "A central bottleneck for phone-use agents is that controllable, reproducible environments covering real mobile behavior are hard to build at scale. Existing mobile-agent benchmarks have made important",
-      "authors": [
-        "Zhengyang Tang",
-        "Yuxuan Liu",
-        "Xin Lai",
-        "Junyi Li",
-        "Pengyuan Lyu"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.29548",
-      "title": "Why Larger Models Learn More: Effects of Capacity, Interference, and Rare-Task Retention",
-      "url": "https://huggingface.co/papers/2605.29548",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-27T20:00:00.000Z",
-      "abstract": "Larger models learn tasks smaller models do not. What drives this phenomenon? We develop a simple phenomenological argument that power-law scaling already suggests that a larger model will be able to",
-      "authors": [
-        "Jing Huang",
-        "Daniel Wurgaft",
-        "Rachit Bansal",
-        "Laura Ruis",
-        "Naomi Saphra"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.29341",
-      "title": "WorldMemArena: Evaluating Multimodal Agent Memory Through Action-World Interaction",
-      "url": "https://huggingface.co/papers/2605.29341",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-27T20:00:00.000Z",
-      "abstract": "Multimodal large language models are increasingly deployed as long-horizon agents, where memory must do more than recall: it must track an evolving world, revise what has gone stale, and surface the r",
-      "authors": [
-        "Chengzhi Liu",
-        "Yuzhe Yang",
-        "Sophia Xiao Pu",
-        "Yepeng Liu",
-        "Lin Long"
-      ],
-      "tags": [
-        "multimodal",
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "NVIDIA Blackwell Sets STAC-AI Record for LLM Inference in Finance",
       "url": "https://developer.nvidia.com/blog/nvidia-blackwell-sets-stac-ai-record-for-llm-inference-in-finance/",
@@ -496,6 +440,30 @@
       "tags": [
         "llm",
         "inference"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "NVIDIA Releases Polar, a Token-Faithful Rollout Framework for GRPO Training Across Codex, Claude Code, and Qwen Code",
+      "url": "https://www.marktechpost.com/2026/05/27/nvidia-releases-polar-a-token-faithful-rollout-framework-for-grpo-training-across-codex-claude-code-and-qwen-code/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-05-27T17:09:38.000Z",
+      "abstract": "NVIDIA researchers have introduced Polar, a rollout framework that trains language agents using reinforcement learning without modifying their agent harnesses. Polar places a model API proxy between t",
+      "authors": [],
+      "tags": [
+        "claude",
+        "qwen",
+        "training"
       ],
       "score": 8,
       "priority": "HIGH",
@@ -567,28 +535,6 @@
       "points": 0
     },
     {
-      "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fai-arti",
-      "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
-      "source": "The Verge AI",
-      "sourceIcon": "🔺",
-      "type": "news",
-      "timestamp": "2026-05-27T14:36:10.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Flobotomi",
       "title": "‘Lobotomized’: Character.AI Is Showing What AI Enshittification Looks Like",
       "url": "https://www.404media.co/lobotomized-character-ai-is-showing-what-ai-enshittification-looks-like/",
@@ -597,6 +543,26 @@
       "type": "news",
       "timestamp": "2026-05-27T14:20:52.000Z",
       "abstract": "",
+      "authors": [],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "Google folds Display Ads into AI-first Demand Gen platform",
+      "url": "https://www.artificialintelligence-news.com/news/google-folds-display-ads-ai-first-demand-gen-platform/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-05-27T13:12:06.000Z",
+      "abstract": "Google is folding Display Ads into its AI-powered Demand Gen platform, marking the end of a long-standing digital advertising model. The Google Display Network (GDN) has been a staple of the open inte",
       "authors": [],
       "tags": [],
       "score": 4,
@@ -629,6 +595,26 @@
       "points": 0
     },
     {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "Exploring the Benefits of AI Bots for Forex Trading in Forex Markets",
+      "url": "https://www.artificialintelligence-news.com/news/exploring-the-benefits-of-ai-bots-for-forex-trading-in-forex-markets/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-05-27T12:38:44.000Z",
+      "abstract": "The foreign exchange market is really moving away from pure intuition and toward a space shaped by speed, data and precision. By using automated systems in your routine, you can approach volatility wi",
+      "authors": [],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fcisco",
       "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
       "url": "https://openai.com/index/cisco",
@@ -642,6 +628,29 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Meet EAGLE 3.1: The Speculative Decoding Algorithm That Fixes Attention Drift in LLM Inference",
+      "url": "https://www.marktechpost.com/2026/05/27/meet-eagle-3-1-the-speculative-decoding-algorithm-that-fixes-attention-drift-in-llm-inference/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-05-27T07:23:10.000Z",
+      "abstract": "The EAGLE team, vLLM, and TorchSpec jointly release EAGLE 3.1 to fix speculative decoding instability in production.\nThe post Meet EAGLE 3.1: The Speculative Decoding Algorithm That Fixes Attention Dr",
+      "authors": [],
+      "tags": [
+        "llm",
+        "inference"
+      ],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
