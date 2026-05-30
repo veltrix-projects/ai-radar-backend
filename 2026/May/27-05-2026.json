@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-29T23:04:03.716Z",
+  "generatedAt": "2026-05-30T01:25:15.592Z",
   "date": "27-05-2026",
-  "count": 28,
+  "count": 25,
   "summary": null,
   "items": [
     {
@@ -69,18 +69,22 @@
       "points": 0
     },
     {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "From data overload to actionable insights: How Verizon Connect scaled agentic AI to 100,000 users",
-      "url": "https://aws.amazon.com/blogs/machine-learning/from-data-overload-to-actionable-insights-how-verizon-connect-scaled-agentic-ai-to-100000-users/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-05-27T20:01:06.000Z",
-      "abstract": "In this post, we show you how Verizon Connect built and scaled an agentic AI solution to transform overwhelming fleet data into clear, actionable insights for 100,000 users daily. We walk you through",
-      "authors": [],
-      "tags": [
-        "agent"
+      "id": "hf_paper_2605.30161",
+      "title": "Why Far Looks Up: Probing Spatial Representation in Vision-Language Models",
+      "url": "https://huggingface.co/papers/2605.30161",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-27T20:00:00.000Z",
+      "abstract": "Vision-language models (VLMs) achieve strong performance on spatial reasoning benchmarks, yet it remains unclear whether this reflects structured 3D understanding or reliance on statistical shortcuts",
+      "authors": [
+        "Cheolhong Min",
+        "Jaeyun Jung",
+        "Daeun Lee",
+        "Hyeonseong Jeon",
+        "Yu Su"
       ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -379,58 +383,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.30268",
-      "title": "PhyGenHOI: Physically-Aware 4D Generation of Dynamic Human-Object Interactions",
-      "url": "https://huggingface.co/papers/2605.30268",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-27T20:00:00.000Z",
-      "abstract": "We address the task of generating physically accurate and visually faithful 4D Human-Object Interaction (HOI). Given a static 3D human and target object represented as 3D Gaussian Splats (3DGS), our g",
-      "authors": [
-        "Omer Benishu",
-        "Gal Fiebelman",
-        "Sagie Benaim"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.30076",
-      "title": "UniSteer: Text-Guided Flow Matching in Activation Space for Versatile LLM Steering",
-      "url": "https://huggingface.co/papers/2605.30076",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-27T20:00:00.000Z",
-      "abstract": "Activation-based control steers large language models (LLMs) by intervening on their internal representations during inference, and has emerged as an effective paradigm for controlling behaviors such",
-      "authors": [
-        "Yingdong Shi",
-        "Ruiming Zhang",
-        "Changming Li",
-        "Zhiyu Yang",
-        "Kaixing Zhang"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "NVIDIA Blackwell Sets STAC-AI Record for LLM Inference in Finance",
       "url": "https://developer.nvidia.com/blog/nvidia-blackwell-sets-stac-ai-record-for-llm-inference-in-finance/",
@@ -443,30 +395,6 @@
       "tags": [
         "llm",
         "inference"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "NVIDIA Releases Polar, a Token-Faithful Rollout Framework for GRPO Training Across Codex, Claude Code, and Qwen Code",
-      "url": "https://www.marktechpost.com/2026/05/27/nvidia-releases-polar-a-token-faithful-rollout-framework-for-grpo-training-across-codex-claude-code-and-qwen-code/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-05-27T17:09:38.000Z",
-      "abstract": "NVIDIA researchers have introduced Polar, a rollout framework that trains language agents using reinforcement learning without modifying their agent harnesses. Polar places a model API proxy between t",
-      "authors": [],
-      "tags": [
-        "claude",
-        "qwen",
-        "training"
       ],
       "score": 8,
       "priority": "HIGH",

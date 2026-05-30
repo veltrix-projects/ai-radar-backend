@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-29T23:04:03.715Z",
+  "generatedAt": "2026-05-30T01:25:15.591Z",
   "date": "28-05-2026",
-  "count": 32,
+  "count": 45,
   "summary": null,
   "items": [
     {
@@ -51,7 +51,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 139187,
+      "stars": 139195,
       "votes": 0,
       "points": 0
     },
@@ -215,6 +215,333 @@
       "tags": [
         "agent"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2605.30353v1",
+      "title": "Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software",
+      "url": "https://arxiv.org/abs/2605.30353v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-05-28T17:59:59Z",
+      "abstract": "Are AI agents tools, co-authors, or researchers? We present a quantified case study ($N=1$): a physicist supervising an AI coding agent (Claude Code, Sonnet and Opus models) over 12 work days and 57 s",
+      "authors": [
+        "Nhat-Minh Nguyen"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2605.30351v1",
+      "title": "VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion",
+      "url": "https://arxiv.org/abs/2605.30351v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-05-28T17:59:57Z",
+      "abstract": "Long-rollout causal video diffusion has converged on a fixed-size sliding-window KV cache, with recent progress innovating within this layout by changing which tokens occupy the window or how their po",
+      "authors": [
+        "Hidir Yesiltepe",
+        "Jiazhen Hu",
+        "Tuna Han Salih Meral",
+        "Adil Kaan Akan",
+        "Kaan Oktay"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2605.30348v1",
+      "title": "LLMSurgeon: Diagnosing Data Mixture of Large Language Models",
+      "url": "https://arxiv.org/abs/2605.30348v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-05-28T17:59:53Z",
+      "abstract": "The pretraining data mixture of Large Language Models (LLMs) constitutes their \"digital DNA\", shaping model behaviors, capabilities, and failure modes. Yet this composition is rarely disclosed, making",
+      "authors": [
+        "Yaxin Luo",
+        "Jiacheng Cui",
+        "Xiaohan Zhao",
+        "Xinyi Shang",
+        "Jiacheng Liu"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2605.30345v1",
+      "title": "SchGen: PCB Schematic Generation with Semantic-Grounded Code Representations",
+      "url": "https://arxiv.org/abs/2605.30345v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-05-28T17:59:50Z",
+      "abstract": "Printed circuit board (PCB) schematic design defines nearly all electronic hardware, but it remains manual and expertise-intensive. While generative AI has advanced digital and analog IC design, PCB s",
+      "authors": [
+        "Qinpei Luo",
+        "Ruichun Ma",
+        "Xinyu Zhang",
+        "Lili Qiu"
+      ],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2605.30343v1",
+      "title": "Unlocking the Working Memory of Large Language Models for Latent Reasoning",
+      "url": "https://arxiv.org/abs/2605.30343v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-05-28T17:59:49Z",
+      "abstract": "To improve the reasoning capabilities of large language models, test-time compute is typically scaled by generating intermediate tokens before the final answer. However, this couples reasoning to auto",
+      "authors": [
+        "Lukas Aichberger",
+        "Sepp Hochreiter"
+      ],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2605.30341v1",
+      "title": "GPIC: A Giant Permissive Image Corpus for Visual Generation",
+      "url": "https://arxiv.org/abs/2605.30341v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-05-28T17:59:26Z",
+      "abstract": "Studying scalable methods for visual generative modeling requires large, accessible, and stable datasets. We introduce GPIC, a Giant Permissive Image Corpus of approximately 28 trillion pixels. GPIC c",
+      "authors": [
+        "Keshigeyan Chandrasegaran",
+        "Kyle Sargent",
+        "Suchir Agarwal",
+        "Michael Jang",
+        "Michael Poli"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2605.30337v1",
+      "title": "Efficient Test-Time Finetuning of LLMs via Convex Reconstruction and Gradient Caching",
+      "url": "https://arxiv.org/abs/2605.30337v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-05-28T17:59:01Z",
+      "abstract": "Test-time finetuning (TTFT) is a rapidly evolving paradigm that adapts a language model to each prompt by retrieving related sequences, updating the model on them, and then evaluating the prompt. Howe",
+      "authors": [
+        "Alaa Khamis",
+        "Alaa Maalouf"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2605.30336v1",
+      "title": "Fairness-Aware Federated Learning with Trajectory Shapley Value",
+      "url": "https://arxiv.org/abs/2605.30336v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-05-28T17:58:57Z",
+      "abstract": "Federated learning is an emerging distributed paradigm that addresses the challenges posed by heterogeneous, privacy-sensitive data. It enables multiple clients to train a model collaboratively by agg",
+      "authors": [
+        "Daniel Kuznetsov",
+        "Ziqi Wang"
+      ],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2605.30335v1",
+      "title": "Locally Coherent, Globally Incoherent: Bounding Compositional Incoherence in Multi-Component LLM Agents",
+      "url": "https://arxiv.org/abs/2605.30335v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-05-28T17:58:55Z",
+      "abstract": "Multi-component LLM agents assemble probabilistic claims from components that each see only part of a joint problem; the composition can violate basic probability axioms even when every component is l",
+      "authors": [
+        "Anany Kotawala"
+      ],
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2605.30334v1",
+      "title": "Demystifying Data Organization for Enhanced LLM Training",
+      "url": "https://arxiv.org/abs/2605.30334v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-05-28T17:58:53Z",
+      "abstract": "Large Language Models (LLMs) have revolutionized various fields, yet their training efficiency is heavily reliant on effective data curation. While data selection has been widely studied, the strategi",
+      "authors": [
+        "Yalun Dai",
+        "Yangyu Huang",
+        "Tongshen Yang",
+        "Yonghan Wang",
+        "Xin Zhang"
+      ],
+      "tags": [
+        "llm",
+        "training"
+      ],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2605.30333v1",
+      "title": "COMPOSE: Composing Future Theorems from Citations and Formal Structure",
+      "url": "https://arxiv.org/abs/2605.30333v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-05-28T17:58:42Z",
+      "abstract": "A plausible future mathematical claim must satisfy two constraints: it should follow the direction of prior work and respect the formal dependencies that constrain what can validly follow. Existing ap",
+      "authors": [
+        "David Busbib",
+        "Michael Werman"
+      ],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2605.30330v1",
+      "title": "When, why, and how do diffusion posterior samplers fail? A finite-sample lens",
+      "url": "https://arxiv.org/abs/2605.30330v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-05-28T17:57:46Z",
+      "abstract": "Diffusion models have excellent capacity to model complex distributions of natural data, which has made them a popular and effective choice for posterior sampling in imaging inverse problems. Existing",
+      "authors": [
+        "Benjamin A. Burns",
+        "Sara Fridovich-Keil"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2605.30329v1",
+      "title": "SoundnessBench: Can Your AI Scientist Really Tell Good Research Ideas from Bad Ones?",
+      "url": "https://arxiv.org/abs/2605.30329v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-05-28T17:57:37Z",
+      "abstract": "Autonomous AI research agents aim to accelerate scientific discovery by automating the research pipeline, from hypothesis generation to peer review. However, existing benchmarks rarely test a fundamen",
+      "authors": [
+        "Sy-Tuyen Ho",
+        "Minghui Liu",
+        "Huy Nghiem",
+        "Furong Huang"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -549,7 +876,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 198519,
+      "stars": 198554,
       "votes": 0,
       "points": 0
     },
