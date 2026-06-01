@@ -1,26 +1,24 @@
 {
-  "generatedAt": "2026-05-29T13:52:46.816Z",
+  "generatedAt": "2026-06-01T20:10:49.773Z",
   "date": "24-05-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2605.25378",
-      "title": "CollectionLoRA: Collecting 50 Effects in 1 LoRA via Multi-Teacher On-Policy Distillation",
-      "url": "https://huggingface.co/papers/2605.25378",
+      "id": "hf_paper_2605.26112",
+      "title": "From Model Scaling to System Scaling: Scaling the Harness in Agentic AI",
+      "url": "https://huggingface.co/papers/2605.26112",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-24T20:00:00.000Z",
-      "abstract": "Customized image editing aims to equip pre-trained diffusion models with specific visual effects using limited paired data, typically via Low-Rank Adaptation (LoRA). As the number of desired effects g",
+      "abstract": "This paper studies the next major bottleneck in agentic AI as system scaling, not only model scaling: the design of auditable, persistent, modular, and verifiable architectures around foundation model",
       "authors": [
-        "Fangtai Wu",
-        "Hailong Guo",
-        "Shijie Huang",
-        "Jiayi Song",
-        "Yubo Huang"
+        "Shangding Gu"
       ],
-      "tags": [],
+      "tags": [
+        "agent"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
