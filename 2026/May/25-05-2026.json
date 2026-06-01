@@ -1,55 +1,26 @@
 {
-  "generatedAt": "2026-06-01T04:00:33.476Z",
+  "generatedAt": "2026-06-01T09:39:03.818Z",
   "date": "25-05-2026",
-  "count": 2,
+  "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2605.24785",
-      "title": "PANDO: Efficient Multimodal AI Agents via Online Skill Distillation",
-      "url": "https://huggingface.co/papers/2605.24785",
+      "id": "hf_paper_2605.26844",
+      "title": "Not All Disagreement Is Learnable: Token Teachability in On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2605.26844",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-25T20:00:00.000Z",
-      "abstract": "Recent advances in multimodal web agents often rely on increased inference-time computation, including rollout search, verifier passes, offline skill discovery, and specialist model stacks. This raise",
+      "abstract": "On-policy distillation (OPD) trains a student on its own rollouts with token-level teacher supervision. Recent selective OPD methods exploit the non-uniformity of OPD signals by prioritizing high-entr",
       "authors": [
-        "Yubo Li",
-        "Yidi Miao",
-        "Yuntian Shen",
-        "Yuxin Liu"
+        "Yuanyi Wang",
+        "Su Lu",
+        "Yanggan Gu",
+        "Pengkai Wang",
+        "Yifan Yang"
       ],
-      "tags": [
-        "multimodal",
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.27355",
-      "title": "Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases",
-      "url": "https://huggingface.co/papers/2605.27355",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-25T20:00:00.000Z",
-      "abstract": "Reinforcement Learning from Human Feedback (RLHF) is the standard method to align Large Language Models (LLMs) with human preferences. In this work, we introduce alignment tampering, a potential vulne",
-      "authors": [
-        "Dongyoon Hahm",
-        "Dylan Hadfield-Menell",
-        "Kimin Lee"
-      ],
-      "tags": [
-        "alignment",
-        "reinforcement learning"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

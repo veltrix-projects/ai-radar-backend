@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-01T04:00:33.473Z",
+  "generatedAt": "2026-06-01T09:39:03.816Z",
   "date": "28-05-2026",
-  "count": 21,
+  "count": 28,
   "summary": null,
   "items": [
     {
@@ -129,20 +129,47 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.30819",
-      "title": "Function2Scene: 3D Indoor Scene Layout from Functional Specifications",
-      "url": "https://huggingface.co/papers/2605.30819",
+      "id": "hf_paper_2605.31455",
+      "title": "DRIFT: Decoupled Rollouts and Importance-Weighted Fine-Tuning for Efficient Multi-Turn Optimization",
+      "url": "https://huggingface.co/papers/2605.31455",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-28T20:00:00.000Z",
-      "abstract": "Most text-driven 3D indoor scene synthesis methods generate rooms from object-centric prompts, asking what furniture should be placed rather than how the space is used. Yet in real interior design, a",
+      "abstract": "Large language models are increasingly deployed in multi-turn interactive settings where users or environments can iteratively provide lightweight feedback. Unfortunately, optimizing such behavior pre",
       "authors": [
-        "Ruiqi Wang",
-        "Qimin Chen",
-        "Daniel Ritchie",
-        "Angel X. Chang",
-        "Manolis Savva"
+        "Jian Mu",
+        "Tianyi Lin",
+        "Chengwei Qin",
+        "Zhongxiang Dai",
+        "Yao Shu"
+      ],
+      "tags": [
+        "fine-tuning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.31433",
+      "title": "SCOPE: Self-Play via Co-Evolving Policies for Open-Ended Tasks",
+      "url": "https://huggingface.co/papers/2605.31433",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-28T20:00:00.000Z",
+      "abstract": "Self-play can train language models without external supervision. However, existing methods require rule-checkable answers, leaving open-ended tasks dependent on curated prompts or frontier-model judg",
+      "authors": [
+        "Wai-Chung Kwan",
+        "Aryo Pradipta Gema",
+        "Joshua Ong Jun Leang",
+        "Pasquale Minervini"
       ],
       "tags": [],
       "score": 6,
@@ -155,22 +182,188 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.30834",
-      "title": "Hide-and-Seek in Trajectories: Discovering Failure Signals for VLA Runtime Monitoring",
-      "url": "https://huggingface.co/papers/2605.30834",
+      "id": "hf_paper_2605.30888",
+      "title": "The Flip Side of RLHF: On-Policy Feedback for Reward Model Self-Supervised Improvement",
+      "url": "https://huggingface.co/papers/2605.30888",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-28T20:00:00.000Z",
-      "abstract": "Vision-Language-Action (VLA) models enable robots to follow natural language instructions and generalize across diverse tasks, but they remain vulnerable to execution failures that compromise reliabil",
+      "abstract": "Building strong reward models (RMs) for language model alignment is bottlenecked by the cost and difficulty of acquiring diverse and reliable preference data from human annotation or judge models. It",
       "authors": [
-        "Seongheon Park",
-        "Wendi Li",
-        "Changdae Oh",
-        "Samuel Yeh",
-        "Zsolt Kira"
+        "Xiaobo Wang",
+        "Tong Wu",
+        "Min Tang",
+        "Jiaqi Li",
+        "Qi Liu"
       ],
       "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.30846",
+      "title": "Count Anything",
+      "url": "https://huggingface.co/papers/2605.30846",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-28T20:00:00.000Z",
+      "abstract": "Object counting remains fragmented across domain-specific datasets and task formulations, despite rapid progress in generalist vision models. Existing counting models are often tailored to scenarios s",
+      "authors": [
+        "Mengqi Lei",
+        "Shuokun Cheng",
+        "Wei Bao",
+        "Shaoyi Du",
+        "Jun-Hai Yong"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.30940",
+      "title": "Towards Streaming Synchronized Spatial Audio Generation via Autoregressive Diffusion Transformer",
+      "url": "https://huggingface.co/papers/2605.30940",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-28T20:00:00.000Z",
+      "abstract": "Real-time and accurate spatial audio generation is pivotal for delivering an immersive experience. However, existing spatial audio synthesis technologies are often encumbered by a tradeoff between gen",
+      "authors": [
+        "Ke Lei",
+        "Yu Zhang",
+        "Changhao Pan",
+        "Xueyi Pu",
+        "Wenxiang Guo"
+      ],
+      "tags": [
+        "transformer",
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.30993",
+      "title": "SwanVoice: Expressive Long-Form Zero-Shot Speech Synthesis for Both Monologue and Dialogue",
+      "url": "https://huggingface.co/papers/2605.30993",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-28T20:00:00.000Z",
+      "abstract": "Zero-shot text-to-speech (TTS) has improved substantially for single-speaker synthesis, yet expressive long-form multi-speaker dialogue remains difficult. A common workaround is to synthesize each tur",
+      "authors": [
+        "Ruiqi Li",
+        "Yu Zhang",
+        "Changhao Pan",
+        "Ke Lei",
+        "Xiang Yin"
+      ],
+      "tags": [
+        "speech"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.31264",
+      "title": "COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation",
+      "url": "https://huggingface.co/papers/2605.31264",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-28T20:00:00.000Z",
+      "abstract": "LLM agents are increasingly expected not only to complete isolated tasks, but also to carry bounded representations of human expertise, judgment, and interaction style. Building such person-grounded a",
+      "authors": [
+        "Tianyi Zhou",
+        "Dongrui Liu",
+        "Leitao Yuan",
+        "Jing Shao",
+        "Xia Hu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.31075",
+      "title": "Task-Focused Memorization for Multimodal Agents",
+      "url": "https://huggingface.co/papers/2605.31075",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-28T20:00:00.000Z",
+      "abstract": "Long-term memory is essential for multimodal agents to build coherent experience, accumulate world knowledge, and achieve continual learning. However, constructing effective memory goes beyond memory",
+      "authors": [
+        "Tao Zou",
+        "Yichen He",
+        "Tian Qiu",
+        "Yuan Lin",
+        "Hang Li"
+      ],
+      "tags": [
+        "multimodal",
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.30876",
+      "title": "dMoE: dLLMs with Learnable Block Experts",
+      "url": "https://huggingface.co/papers/2605.30876",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-28T20:00:00.000Z",
+      "abstract": "Diffusion Large Language Models (dLLMs) have recently emerged as a promising alternative to autoregressive models, offering competitive performance while naturally supporting parallel decoding. Howeve",
+      "authors": [
+        "Sicheng Feng",
+        "Zigeng Chen",
+        "Gongfan Fang",
+        "Xinyin Ma",
+        "Xinchao Wang"
+      ],
+      "tags": [
+        "llm"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -373,7 +566,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 156000,
+      "stars": 156009,
       "votes": 0,
       "points": 0
     },
