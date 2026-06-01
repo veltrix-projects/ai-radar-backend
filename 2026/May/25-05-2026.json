@@ -1,26 +1,28 @@
 {
-  "generatedAt": "2026-06-01T09:39:03.818Z",
+  "generatedAt": "2026-06-01T15:48:36.310Z",
   "date": "25-05-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2605.26844",
-      "title": "Not All Disagreement Is Learnable: Token Teachability in On-Policy Distillation",
-      "url": "https://huggingface.co/papers/2605.26844",
+      "id": "hf_paper_2605.26562",
+      "title": "Beyond Holistic Models: Systematic Component-level Benchmarking of Deep Multivariate Time-Series Forecasting",
+      "url": "https://huggingface.co/papers/2605.26562",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-25T20:00:00.000Z",
-      "abstract": "On-policy distillation (OPD) trains a student on its own rollouts with token-level teacher supervision. Recent selective OPD methods exploit the non-uniformity of OPD signals by prioritizing high-entr",
+      "abstract": "While previous research in multivariate time series forecasting has focused on developing complex holistic models, this work advocates for a shift toward a granular, component-level understanding of t",
       "authors": [
-        "Yuanyi Wang",
-        "Su Lu",
-        "Yanggan Gu",
-        "Pengkai Wang",
-        "Yifan Yang"
+        "Shuang Liang",
+        "Chaochuan Hou",
+        "Xu Yao",
+        "Shiping Wang",
+        "Hailiang Huang"
       ],
-      "tags": [],
+      "tags": [
+        "benchmark"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
