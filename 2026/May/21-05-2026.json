@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-01T20:10:49.775Z",
+  "generatedAt": "2026-06-01T22:39:24.425Z",
   "date": "21-05-2026",
-  "count": 4,
+  "count": 5,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,31 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.23458",
+      "title": "One-Forcing: Towards Stable One-Step Autoregressive Video Generation",
+      "url": "https://huggingface.co/papers/2605.23458",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-21T20:00:00.000Z",
+      "abstract": "Recent advances have substantially improved real-time interactive video generation in the autoregressive regime. However, most existing few-step autoregressive video generation methods, often distille",
+      "authors": [
+        "Jiaqi Feng",
+        "Justin Cui",
+        "Yuanhao Ban",
+        "Cho-Jui Hsieh"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
