@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-31T23:58:14.648Z",
+  "generatedAt": "2026-06-01T04:00:33.475Z",
   "date": "27-05-2026",
-  "count": 25,
+  "count": 21,
   "summary": null,
   "items": [
     {
@@ -56,6 +56,34 @@
       "timestamp": "2026-05-27T20:06:34.000Z",
       "abstract": "In this post, we share how the AWS Generative AI Innovation Center (GenAIIC) collaborated with Works Human Intelligence (WHI) to build two AI agents using Amazon Bedrock AgentCore. We discuss the chal",
       "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.30434",
+      "title": "LongDS-Bench: On the Failure of Long-Horizon Agentic Data Analysis",
+      "url": "https://huggingface.co/papers/2605.30434",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-27T20:00:00.000Z",
+      "abstract": "Real-world data analysis is inherently iterative, yet existing benchmarks mostly evaluate isolated or short interactive tasks, leaving agents' ability to track evolving analytical context over long ho",
+      "authors": [
+        "Kewei Xu",
+        "Xiaoben Lu",
+        "Shuofei Qiao",
+        "Zihan Ding",
+        "Haoming Xu"
+      ],
       "tags": [
         "agent"
       ],
@@ -304,85 +332,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.30102",
-      "title": "When Cloud Agents Meet Device Agents: Lessons from Hybrid Multi-Agent Systems",
-      "url": "https://huggingface.co/papers/2605.30102",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-27T20:00:00.000Z",
-      "abstract": "The design space of agentic AI inference spans two extremes: frontier large language models (LLMs), typically hosted in the cloud and offering strong performance across a wide range of tasks at substa",
-      "authors": [
-        "Corrado Rainone",
-        "Davide Belli",
-        "Bence Major",
-        "Arash Behboodi"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.30093",
-      "title": "Geometry Matters: 3D Foundation Priors for Learning Semantic Correspondence",
-      "url": "https://huggingface.co/papers/2605.30093",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-27T20:00:00.000Z",
-      "abstract": "Foundation features from self-supervised vision models and text-to-image diffusion models have proven effective for semantic correspondence estimation. However, because these features are learned prim",
-      "authors": [
-        "Artur Jesslen",
-        "Olaf Dünkel",
-        "Adam Kortylewski"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2601.07525",
-      "title": "Thinking Before Constraining: A Unified Decoding Framework for Large Language Models",
-      "url": "https://huggingface.co/papers/2601.07525",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-27T20:00:00.000Z",
-      "abstract": "Natural generation allows Large Language Models (LLMs) to produce free-form responses with rich reasoning, yet the lack of structure makes outputs difficult to verify. Conversely, constrained decoding",
-      "authors": [
-        "Ngoc Trinh Hung Nguyen",
-        "Alonso Silva",
-        "Laith Zumot",
-        "Liubov Tupikina",
-        "Armen Aghasaryan"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "NVIDIA Blackwell Sets STAC-AI Record for LLM Inference in Finance",
       "url": "https://developer.nvidia.com/blog/nvidia-blackwell-sets-stac-ai-record-for-llm-inference-in-finance/",
@@ -466,26 +415,6 @@
       "points": 0
     },
     {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "Google folds Display Ads into AI-first Demand Gen platform",
-      "url": "https://www.artificialintelligence-news.com/news/google-folds-display-ads-ai-first-demand-gen-platform/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-05-27T13:12:06.000Z",
-      "abstract": "Google is folding Display Ads into its AI-powered Demand Gen platform, marking the end of a long-standing digital advertising model. The Google Display Network (GDN) has been a staple of the open inte",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fpodcast-",
       "title": "Podcast: How Deepfakes Destroyed a High School",
       "url": "https://www.404media.co/podcast-how-deepfakes-destroyed-a-high-school/",
@@ -494,26 +423,6 @@
       "type": "news",
       "timestamp": "2026-05-27T13:02:37.000Z",
       "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "Exploring the Benefits of AI Bots for Forex Trading in Forex Markets",
-      "url": "https://www.artificialintelligence-news.com/news/exploring-the-benefits-of-ai-bots-for-forex-trading-in-forex-markets/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-05-27T12:38:44.000Z",
-      "abstract": "The foreign exchange market is really moving away from pure intuition and toward a space shaped by speed, data and precision. By using automated systems in your routine, you can approach volatility wi",
       "authors": [],
       "tags": [],
       "score": 4,
