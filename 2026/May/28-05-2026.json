@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-02T00:06:45.296Z",
+  "generatedAt": "2026-06-02T05:07:26.272Z",
   "date": "28-05-2026",
-  "count": 16,
+  "count": 14,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,32 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.30852",
+      "title": "Speculative Pipeline Decoding: Higher-Accruacy and Zero-Bubble Speculation via Pipeline Parallelism",
+      "url": "https://huggingface.co/papers/2605.30852",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-28T20:00:00.000Z",
+      "abstract": "Speculative Decoding (SD) accelerates low-concurrency LLM inference by employing a draft-then-verify paradigm. However, mainstream methods typically rely on multi-token prediction, which introduces es",
+      "authors": [
+        "Yijiong Yu",
+        "Huazheng Wang",
+        "Shuai Yuan",
+        "Ruilong Ren",
+        "Ji Pei"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -152,32 +178,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.31159",
-      "title": "Trust-Region Behavior Blending for On-Policy Distillation",
-      "url": "https://huggingface.co/papers/2605.31159",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-28T20:00:00.000Z",
-      "abstract": "On-policy distillation (OPD) trains a student on prefixes sampled from its own policy while matching a stronger teacher. This addresses the prefix mismatch of offline distillation, but early student r",
-      "authors": [
-        "Daniil Plyusov",
-        "Alexey Gorbatovski",
-        "Alexey Malakhov",
-        "Nikita Balagansky",
-        "Boris Shaposhnikov"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fcities-a",
       "title": "Cities Are Covering Flock Cameras With Trash Bags",
       "url": "https://www.404media.co/cities-are-covering-flock-cameras-with-trash-bags/",
@@ -210,28 +210,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "Google Pay preps for AI agents with Universal Commerce Protocol",
-      "url": "https://www.artificialintelligence-news.com/news/google-pay-ai-agents-universal-commerce-protocol/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-05-28T14:55:43.000Z",
-      "abstract": "Google Pay is overhauling its payment infrastructure for an impending wave of transactions from AI agents. The latest updates introduce the Universal Commerce Protocol and a new server architecture, p",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -282,26 +260,6 @@
       "points": 0
     },
     {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "NBA plans AI system for automatic out-of-bounds calls",
-      "url": "https://www.artificialintelligence-news.com/news/nba-ai-out-of-bounds-calls/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-05-28T10:00:00.000Z",
-      "abstract": "NBA Commissioner Adam Silver said the league plans to introduce an automated system for certain officiating decisions, including out-of-bounds calls. The system would use AI and cameras placed around",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
       "title": "The AI Hype Index: AI gets booed in graduation season",
       "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
@@ -322,9 +280,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fopena",
-      "title": "OpenAI’s Frontier Governance Framework",
-      "url": "https://openai.com/index/openai-frontier-governance-framework",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fmufg",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "url": "https://openai.com/index/mufg",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
@@ -342,9 +300,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fmufg",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "url": "https://openai.com/index/mufg",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fopena",
+      "title": "OpenAI’s Frontier Governance Framework",
+      "url": "https://openai.com/index/openai-frontier-governance-framework",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
