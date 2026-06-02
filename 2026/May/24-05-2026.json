@@ -1,24 +1,25 @@
 {
-  "generatedAt": "2026-06-02T05:07:26.274Z",
+  "generatedAt": "2026-06-02T09:45:02.861Z",
   "date": "24-05-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2605.26112",
-      "title": "From Model Scaling to System Scaling: Scaling the Harness in Agentic AI",
-      "url": "https://huggingface.co/papers/2605.26112",
+      "id": "hf_paper_2605.25381",
+      "title": "Not only where, But when: Temporal Scheduling for RLVR",
+      "url": "https://huggingface.co/papers/2605.25381",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-24T20:00:00.000Z",
-      "abstract": "This paper studies the next major bottleneck in agentic AI as system scaling, not only model scaling: the design of auditable, persistent, modular, and verifiable architectures around foundation model",
+      "abstract": "Reinforcement learning with verifiable rewards (RLVR) has become a core technique for post-training of Large Language Models (LLMs). While policy optimization is driven by all sampled tokens under a g",
       "authors": [
-        "Shangding Gu"
+        "Jinghao Zhang",
+        "Ruilin Li",
+        "Feng Zhao",
+        "Jiaqi Wang"
       ],
-      "tags": [
-        "agent"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
