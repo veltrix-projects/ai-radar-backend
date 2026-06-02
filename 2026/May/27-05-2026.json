@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-06-02T17:59:17.816Z",
+  "generatedAt": "2026-06-02T20:51:26.526Z",
   "date": "27-05-2026",
   "count": 6,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.29318",
+      "title": "FreeForm: Reduced-Order Deformable Simulation from Particle-Based Skinning Eigenmodes",
+      "url": "https://huggingface.co/papers/2605.29318",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-27T20:00:00.000Z",
+      "abstract": "We present a novel formulation for mesh-free, reduced-order simulation of deformable hyperelastic objects. Existing work in reduced-order elastodynamic simulation represents the input geometry by eith",
+      "authors": [
+        "Donglai Xiang",
+        "Vismay Modi",
+        "Rishit Dagli",
+        "Ty Trusty",
+        "Gilles Daviet"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.30501",
       "title": "Linear Ensembles Wash Away Watermarks: On the Fragility of Distributional Perturbations in LLMs",
@@ -48,32 +74,6 @@
         "Qituan Zhang",
         "Hao Lin",
         "Hanlin Xu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.30126",
-      "title": "PARCEL: Pool-Anchored Resampling with Conditioned Elastic Queries for Efficient Vision-Language Understanding",
-      "url": "https://huggingface.co/papers/2605.30126",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-27T20:00:00.000Z",
-      "abstract": "Large Vision-Language Models (LVLMs) map visual inputs into dense token sequences, imposing a quadratic computational bottleneck for inference. Elastic visual-token compression addresses this by train",
-      "authors": [
-        "Selim Kuzucu",
-        "Alessio Tonioni",
-        "Vasile Lup",
-        "Bernt Schiele",
-        "Federico Tombari"
       ],
       "tags": [],
       "score": 6,

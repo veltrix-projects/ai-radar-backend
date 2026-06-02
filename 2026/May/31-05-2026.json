@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-02T17:59:17.814Z",
+  "generatedAt": "2026-06-02T20:51:26.524Z",
   "date": "31-05-2026",
-  "count": 7,
+  "count": 8,
   "summary": null,
   "items": [
     {
@@ -27,23 +27,23 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.02255",
-      "title": "Who Annotates in NLP? A Large-scale Assessment of Human Annotation Reporting between 2018 and 2025",
-      "url": "https://huggingface.co/papers/2606.02255",
+      "id": "hf_paper_2605.30608",
+      "title": "Semantic Motion Anchors: Bridging Motion and Meaning in Co-Speech Gestures",
+      "url": "https://huggingface.co/papers/2605.30608",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-31T20:00:00.000Z",
-      "abstract": "Human annotation is the empirical foundation of much NLP research, from dataset construction to model evaluation, but papers often leave unclear who produced the annotations and how the annotation pro",
+      "abstract": "Learning a shared representation between spoken text and gesture is central to co-speech gesture retrieval, synthesis, and understanding, but remains challenging for semantically meaningful gestures w",
       "authors": [
-        "Maria Kunilovskaya",
-        "Gagan Bhatia",
-        "Lisa Sophie Albertelli",
-        "Yanran Chen",
-        "Christian Greisinger"
+        "Varsha Suresh",
+        "Mohammad Mahdi Abootorabi",
+        "Mohamed Salman",
+        "M. Hamza Mughal",
+        "Christian Theobalt"
       ],
       "tags": [
-        "nlp"
+        "speech"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -55,46 +55,110 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.02248",
-      "title": "Geometric Latent Reasoning Induces Shorter Generations in LLMs",
-      "url": "https://huggingface.co/papers/2606.02248",
+      "id": "hf_paper_2606.02551",
+      "title": "AFUN: Towards an Affordance Foundation Model for Functionality Understanding",
+      "url": "https://huggingface.co/papers/2606.02551",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-31T20:00:00.000Z",
-      "abstract": "Large language models solve complex problems by generating lengthy chains of explicit reasoning tokens. While effective, this makes reasoning expensive, length-sensitive, and constrained to (discrete)",
+      "abstract": "Affordance understanding bridges visual perception and physical action, serving as an explainable interface for robot manipulation in open and unstructured real-world environments. Yet, building an af",
       "authors": [
-        "Shashi Kumar",
-        "Yacouba Kaloga",
-        "Petr Motlicek",
-        "Ina Kodrasi",
-        "Andrea Cavallaro"
+        "Zhaoning Wang",
+        "Yi Zhong",
+        "Jiawei Fu",
+        "Henrik I. Christensen",
+        "Jun Gao"
       ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fai-arti",
-      "title": "I went looking for the AI weed vape that gives you Bitcoin for smoking",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
-      "source": "The Verge AI",
-      "sourceIcon": "🔺",
-      "type": "news",
-      "timestamp": "2026-05-31T13:00:00.000Z",
-      "abstract": "",
-      "authors": [],
       "tags": [],
-      "score": 4,
-      "priority": "LOW",
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.02320",
+      "title": "TVIR: Building Deep Research Agents Towards Text--Visual Interleaved Report Generation",
+      "url": "https://huggingface.co/papers/2606.02320",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-31T20:00:00.000Z",
+      "abstract": "Deep Research Agents have shown strong capability in multi-step information retrieval, reasoning, and long-form report generation, but existing benchmarks and systems remain predominantly text-centric",
+      "authors": [
+        "Xinkai Ma",
+        "Zhiqi Bai",
+        "Dingling Zhang",
+        "Pei Liu",
+        "Yishuo Yuan"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.02373",
+      "title": "Harness-1: Reinforcement Learning for Search Agents with State-Externalizing Harnesses",
+      "url": "https://huggingface.co/papers/2606.02373",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-31T20:00:00.000Z",
+      "abstract": "Search agents are often trained as policies over growing transcripts: the model must decide how to search while also remembering what it has seen, which evidence is useful, which constraints remain op",
+      "authors": [
+        "Pengcheng Jiang",
+        "Zhiyi Shi",
+        "Kelly Hong",
+        "Xueqiang Xu",
+        "Jiashuo Sun"
+      ],
+      "tags": [
+        "agent",
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.02388",
+      "title": "Policy and World Modeling Co-Training for Language Agents",
+      "url": "https://huggingface.co/papers/2606.02388",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-31T20:00:00.000Z",
+      "abstract": "Reinforcement learning (RL) improves large language model (LLM) agents by teaching them which actions lead to high rewards, but provides little supervision on what those actions do to the environment.",
+      "authors": [
+        "Ning Lu",
+        "Baijiong Lin",
+        "Shengcai Liu",
+        "Jiahao Wu",
+        "Haoze Lv"
+      ],
+      "tags": [
+        "agent",
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -134,28 +198,6 @@
       "authors": [],
       "tags": [
         "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Build Skill-Augmented AI Agents with SkillNet for Search, Evaluation, Graph Analysis, and Task Planning",
-      "url": "https://www.marktechpost.com/2026/05/30/build-skill-augmented-ai-agents-with-skillnet-for-search-evaluation-graph-analysis-and-task-planning/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-05-31T01:28:04.000Z",
-      "abstract": "In this tutorial, we implement a SkillNet use case as a practical framework for discovering, installing, inspecting, evaluating, and organizing reusable AI skills.\nThe post Build Skill-Augmented AI Ag",
-      "authors": [],
-      "tags": [
-        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
