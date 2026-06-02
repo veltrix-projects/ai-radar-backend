@@ -1,9 +1,112 @@
 {
-  "generatedAt": "2026-06-02T13:51:54.741Z",
+  "generatedAt": "2026-06-02T17:59:17.818Z",
   "date": "26-05-2026",
-  "count": 6,
+  "count": 9,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.29084",
+      "title": "Same Question, Different Source, Different Answer: Auditing Source-Dependence in Medical Multi-Source RAG",
+      "url": "https://huggingface.co/papers/2605.29084",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-26T20:00:00.000Z",
+      "abstract": "A retrieval-augmented generation (RAG) system deployed over a multi-author institutional corpus can give a different answer to the same question depending on which source it retrieves -- a failure mod",
+      "authors": [
+        "Yubo Li",
+        "Rema Padman",
+        "Ramayya Krishnan"
+      ],
+      "tags": [
+        "rag"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.29087",
+      "title": "The Chain Holds, the Answer Folds: Trace-Answer Dissociation in Reasoning Models Under Adversarial Pressure",
+      "url": "https://huggingface.co/papers/2605.29087",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-26T20:00:00.000Z",
+      "abstract": "Reasoning models are evaluated on single-turn benchmarks but deployed in multi-turn dialogue, where users push back on correct answers. Under sustained adversarial pressure we find a previously undocu",
+      "authors": [
+        "Yubo Li",
+        "Ramayya Krishnan",
+        "Rema Padman"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.28897",
+      "title": "Review Arcade: On the Human Alignment and Gameability of LLM Reviews",
+      "url": "https://huggingface.co/papers/2605.28897",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-26T20:00:00.000Z",
+      "abstract": "LLM-generated reviews for scientific papers are gaining considerable traction and are even being officially piloted by major conferences. We have to assume that not only reviewers are using LLM-assist",
+      "authors": [
+        "Hans Ole Hatzel",
+        "Sebastian Steindl",
+        "Jan Strich"
+      ],
+      "tags": [
+        "llm",
+        "alignment"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.28255",
+      "title": "AI, Take the Wheel: What Drives Delegation and Trust in Human-Computer Cooperative Question Answering?",
+      "url": "https://huggingface.co/papers/2605.28255",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-26T20:00:00.000Z",
+      "abstract": "AI systems are fallible, and humans can make mistakes in deciding whether to trust AI over their own judgment. Thus, improving human-AI collaboration requires understanding when, why, and how humans d",
+      "authors": [
+        "Maharshi Gor",
+        "Yoo Yeon Sung",
+        "Yu Hou",
+        "Eve Fleisig",
+        "Irene Ying"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.28983",
       "title": "The Hamilton-Jacobi Theory of Deep Learning",
@@ -19,36 +122,6 @@
         "Christopher P. Monterola"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.28556",
-      "title": "A Matter of TASTE: Improving Coverage and Difficulty of Agent Benchmarks",
-      "url": "https://huggingface.co/papers/2605.28556",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-26T20:00:00.000Z",
-      "abstract": "As agent capabilities advance, existing benchmarks, such as τ^2-Bench, are becoming increasingly saturated. Yet constructing new benchmark tasks remains complex, costly, and labor-intensive. Moreover,",
-      "authors": [
-        "Tomer Keren",
-        "Nitay Calderon",
-        "Asaf Yehudai",
-        "Yotam Perlitz",
-        "Michal Shmueli-Scheuer"
-      ],
-      "tags": [
-        "rag",
-        "agent",
-        "benchmark"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
