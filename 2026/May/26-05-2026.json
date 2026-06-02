@@ -1,9 +1,63 @@
 {
-  "generatedAt": "2026-06-02T09:45:02.861Z",
+  "generatedAt": "2026-06-02T13:51:54.741Z",
   "date": "26-05-2026",
-  "count": 4,
+  "count": 6,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.28983",
+      "title": "The Hamilton-Jacobi Theory of Deep Learning",
+      "url": "https://huggingface.co/papers/2605.28983",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-26T20:00:00.000Z",
+      "abstract": "In this paper, training a neural network is identified, exactly, as a search through Hamilton--Jacobi initial-value problems: each gradient step selects the initial data of a viscous Hamilton--Jacobi",
+      "authors": [
+        "Jose Marie Antonio Miñoza",
+        "Erika Fille T. Legara",
+        "Christopher P. Monterola"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.28556",
+      "title": "A Matter of TASTE: Improving Coverage and Difficulty of Agent Benchmarks",
+      "url": "https://huggingface.co/papers/2605.28556",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-26T20:00:00.000Z",
+      "abstract": "As agent capabilities advance, existing benchmarks, such as τ^2-Bench, are becoming increasingly saturated. Yet constructing new benchmark tasks remains complex, costly, and labor-intensive. Moreover,",
+      "authors": [
+        "Tomer Keren",
+        "Nitay Calderon",
+        "Asaf Yehudai",
+        "Yotam Perlitz",
+        "Michal Shmueli-Scheuer"
+      ],
+      "tags": [
+        "rag",
+        "agent",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
       "title": "Rethinking organizational design in the age of agentic AI",

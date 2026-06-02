@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-02T09:45:02.859Z",
+  "generatedAt": "2026-06-02T13:51:54.740Z",
   "date": "31-05-2026",
-  "count": 19,
+  "count": 14,
   "summary": null,
   "items": [
     {
@@ -36,6 +36,34 @@
       "authors": [],
       "tags": [
         "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.02248",
+      "title": "Geometric Latent Reasoning Induces Shorter Generations in LLMs",
+      "url": "https://huggingface.co/papers/2606.02248",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-31T20:00:00.000Z",
+      "abstract": "Large language models solve complex problems by generating lengthy chains of explicit reasoning tokens. While effective, this makes reasoning expensive, length-sensitive, and constrained to (discrete)",
+      "authors": [
+        "Shashi Kumar",
+        "Yacouba Kaloga",
+        "Petr Motlicek",
+        "Ina Kodrasi",
+        "Andrea Cavallaro"
+      ],
+      "tags": [
+        "llm"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -214,140 +242,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.02580",
-      "title": "Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models",
-      "url": "https://huggingface.co/papers/2606.02580",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-31T20:00:00.000Z",
-      "abstract": "Inverse graphics is a longstanding and highly underconstrained problem that seeks to reconstruct images as editable 3D scenes which can be rendered, relit, and manipulated. In this work, we investigat",
-      "authors": [
-        "Guangzhao He",
-        "Rundong Luo",
-        "Wei-Chiu Ma",
-        "Hadar Averbuch-Elor"
-      ],
-      "tags": [
-        "phi"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.02564",
-      "title": "VLMs are Good Teachers for Video Reasoning via Adaptive Test-Time Optimization",
-      "url": "https://huggingface.co/papers/2606.02564",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-31T20:00:00.000Z",
-      "abstract": "The recent \"Reasoning with Video\" paradigm utilizes Video Generation Models (VGMs) to generate temporally coherent visual trajectories to complete reasoning tasks. Although state-of-the-art VGMs excel",
-      "authors": [
-        "Junhao Cheng",
-        "Liang Hou",
-        "Tianxiong Zhong",
-        "Xin Tao",
-        "Pengfei Wan"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.02404",
-      "title": "K-BrowseComp: A Web Browsing Agent Benchmark Grounded in Korean Contexts",
-      "url": "https://huggingface.co/papers/2606.02404",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-31T20:00:00.000Z",
-      "abstract": "Frontier model evaluations are shifting from foundational capabilities (e.g., instruction following and reasoning) toward compositional, agentic ones, but Korean agentic benchmarks remain scarce. We i",
-      "authors": [
-        "Nahyun Lee",
-        "Dongkeun Yoon",
-        "Guijin Son",
-        "Geewook Kim",
-        "Dayoon Ko"
-      ],
-      "tags": [
-        "agent",
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.02437",
-      "title": "On the Scaling of PEFT: Towards Million Personal Models of Trillion Parameters",
-      "url": "https://huggingface.co/papers/2606.02437",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-31T20:00:00.000Z",
-      "abstract": "Parameter-efficient fine-tuning (PEFT) is usually treated as a cheaper alternative to full fine-tuning. We study a broader role: small trainable adapters as persistent local state on top of strong sha",
-      "authors": [
-        "Mind Lab",
-        "Song Cao",
-        "Vic Cao",
-        "Kaijie Chen",
-        "Bunny Fan"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.02277",
-      "title": "RoboSemanticBench: Diagnosing Semantic Grounding in Action Prediction for VLA Models",
-      "url": "https://huggingface.co/papers/2606.02277",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-31T20:00:00.000Z",
-      "abstract": "Vision-language-action (VLA) models are built on the premise that semantic understanding from pretrained language or vision-language backbones should guide robot action prediction. Yet robot fine-tuni",
-      "authors": [
-        "Bin Yu",
-        "Yao Zhang",
-        "Haishan Liu",
-        "Shijie Lian",
-        "Yuliang Wei"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "techcrunch_ai_https%3A%2F%2Ftechcrunch.com%2F2026%2F05",
       "title": "Making sense of the debate over AI psychosis",
       "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
@@ -404,36 +298,6 @@
       "downloads": 0,
       "likes": 0,
       "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "gh_1136590548",
-      "title": "affaan-m/ECC — The agent harness performance optimization system. Skills, instincts, memory, security, and research",
-      "url": "https://github.com/affaan-m/ECC",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-05-31T06:45:42Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "ai-agents",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "developer-tools",
-        "llm",
-        "mcp",
-        "productivity",
-        "JavaScript"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 202565,
       "votes": 0,
       "points": 0
     },

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-02T09:45:02.859Z",
+  "generatedAt": "2026-06-02T13:51:54.740Z",
   "date": "30-05-2026",
-  "count": 11,
+  "count": 7,
   "summary": null,
   "items": [
     {
@@ -25,18 +25,45 @@
       "points": 0
     },
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Best Text-to-Speech TTS Models in 2026: A Benchmark-Based Comparison",
-      "url": "https://www.marktechpost.com/2026/05/30/best-text-to-speech-tts-models-in-2026-a-benchmark-based-comparison/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
+      "id": "hf_paper_2606.01356",
+      "title": "A Formally Verified Library of Mathematical Finance in Lean 4",
+      "url": "https://huggingface.co/papers/2606.01356",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-05-30T21:26:24.000Z",
-      "abstract": "Text-to-speech changed fast in 2026. This guide ranks the leading commercial and open-weight TTS models, comparing quality, latency, cost, language coverage, and licensing so engineers can match a mod",
-      "authors": [],
+      "timestamp": "2026-05-30T20:00:00.000Z",
+      "abstract": "We describe a library of mathematical finance built in the Lean 4 proof assistant, on top of Mathlib and the BrownianMotion package. It is broad: more than two hundred sorry-free theorems across eleve",
+      "authors": [
+        "Raphael Coelho"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.01348",
+      "title": "ChartArena: Benchmarking Chart Parsing across Languages, Scenarios, and Formats",
+      "url": "https://huggingface.co/papers/2606.01348",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-30T20:00:00.000Z",
+      "abstract": "Charts are a primary medium for conveying quantitative and relational information, yet systematically evaluating chart parsing models remains difficult. Existing benchmarks focus on narrow chart types",
+      "authors": [
+        "Shangpin Peng",
+        "Gengluo Li",
+        "Xingyu Wan",
+        "Chengquan Zhang",
+        "Hao Feng"
+      ],
       "tags": [
-        "benchmark",
-        "speech"
+        "benchmark"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -65,113 +92,6 @@
       ],
       "tags": [
         "agent",
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.01336",
-      "title": "LongAttnComp: Cross-Family Context Compression for Long-Context Reasoning",
-      "url": "https://huggingface.co/papers/2606.01336",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-30T20:00:00.000Z",
-      "abstract": "As real-world applications increasingly require processing inputs of 100k+ tokens, the gap between context length and inference efficiency has become a critical bottleneck. Context compression offers",
-      "authors": [
-        "Mengmeng Ji",
-        "Ravi Shanker Raju",
-        "Jonathan Lingjie Li",
-        "Chen Wu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.01247",
-      "title": "Where to Look: Can Foundation Models Reach a Target Viewpoint Through Active Exploration?",
-      "url": "https://huggingface.co/papers/2606.01247",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-30T20:00:00.000Z",
-      "abstract": "Humans can reproduce the viewpoint specified by a target image through active head and body motion, yet spatial intelligence in foundation models has largely been studied as passive understanding of p",
-      "authors": [
-        "Liyang Li",
-        "Muzhi Zhu",
-        "Zhiyue Zhao",
-        "Hengyu Zhao",
-        "Ke Liu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.01311",
-      "title": "SkillAdaptor: Self-Adapting Skills for LLM Agents from Trajectories",
-      "url": "https://huggingface.co/papers/2606.01311",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-30T20:00:00.000Z",
-      "abstract": "Large language model (LLM) agents increasingly rely on reusable external skills to solve long-horizon interactive tasks. Existing training-free skill adaptation pipelines usually update skills from fu",
-      "authors": [
-        "Zhuoyun Yu",
-        "Xin Xie",
-        "Wuguannan Yao",
-        "Chenxi Wang",
-        "Lei Liang"
-      ],
-      "tags": [
-        "llm",
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.01132",
-      "title": "HakushoBench: A Japanese Chart and Table VQA Benchmark from Governmental White Papers",
-      "url": "https://huggingface.co/papers/2606.01132",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-30T20:00:00.000Z",
-      "abstract": "Understanding chart and table images is essential for applying vision-language models (VLMs) to real-world document understanding. While English benchmarks have advanced rapidly, non-English counterpa",
-      "authors": [
-        "Issa Sugiura",
-        "Shuhei Kurita",
-        "Yusuke Oda",
-        "Naoaki Okazaki"
-      ],
-      "tags": [
         "benchmark"
       ],
       "score": 6,
@@ -237,28 +157,6 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Genesis AI Releases Nyx, Quadrants, and Genesis World 1.0 Physics Platform for Scalable Robotics Foundation Model Evaluation",
-      "url": "https://www.marktechpost.com/2026/05/30/genesis-ai-releases-nyx-quadrants-and-genesis-world-1-0-physics-platform-for-scalable-robotics-foundation-model-evaluation/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-05-30T09:25:14.000Z",
-      "abstract": "Genesis AI released Genesis World 1.0 on May 27, 2026 — a four-component simulation platform covering physics, rendering, compilation, and tooling. The system achieves a Pearson correlation of 0.8996",
-      "authors": [],
-      "tags": [
-        "robotics"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

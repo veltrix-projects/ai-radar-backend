@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-02T09:45:02.860Z",
+  "generatedAt": "2026-06-02T13:51:54.741Z",
   "date": "28-05-2026",
-  "count": 12,
+  "count": 10,
   "summary": null,
   "items": [
     {
@@ -25,49 +25,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.00267",
-      "title": "StressDream: Steering Video World Models for Robust Policy Evaluation and Improvement",
-      "url": "https://huggingface.co/papers/2606.00267",
+      "id": "hf_paper_2605.31057",
+      "title": "LVSA: Training-Free Sparse Attention for Long Video Diffusion",
+      "url": "https://huggingface.co/papers/2605.31057",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-28T20:00:00.000Z",
-      "abstract": "Video world models (WMs) have shown promise for policy evaluation and improvement by imagining realistic future observations conditioned on ego-robot actions. While WMs can model distributions over fu",
+      "abstract": "Dense self-attention is the compute and quality bottleneck of long-video diffusion inference: cost grows quadratically with the sequence length, and beyond the training horizon the model converges to",
       "authors": [
-        "Junwon Seo",
-        "Sushant Veer",
-        "Ran Tian",
-        "Wenhao Ding",
-        "Apoorva Sharma"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.00408",
-      "title": "Masking Stale Observations Helps Search Agents -- Until It Doesn't: A Regime Map and Its Mechanism",
-      "url": "https://huggingface.co/papers/2606.00408",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-28T20:00:00.000Z",
-      "abstract": "Long-horizon search agents accumulate large amounts of retrieved content across many tool calls, making context-budget efficiency increasingly important. A minimal intervention is to mask stale observ",
-      "authors": [
-        "Haoxiang Zhang",
-        "Qixin Xu",
-        "Zhuofeng Li",
-        "Lei Zhang",
-        "Pengcheng Jiang"
+        "Gael Glorian",
+        "Ioannis Lamprou",
+        "Zhen Zhang",
+        "Yujie Yuan",
+        "Hongsheng Liu"
       ],
       "tags": [
-        "agent"
+        "diffusion",
+        "training"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -226,26 +201,6 @@
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fopena",
       "title": "OpenAI’s Frontier Governance Framework",
       "url": "https://openai.com/index/openai-frontier-governance-framework",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-05-28T00:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fmufg",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "url": "https://openai.com/index/mufg",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
