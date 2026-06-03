@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-03T15:11:03.799Z",
+  "generatedAt": "2026-06-03T19:03:56.321Z",
   "date": "31-05-2026",
-  "count": 7,
+  "count": 5,
   "summary": null,
   "items": [
     {
@@ -31,6 +31,35 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2606.02578",
+      "title": "Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling",
+      "url": "https://huggingface.co/papers/2606.02578",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-31T20:00:00.000Z",
+      "abstract": "Recent multimodal large language models have demonstrated strong reasoning ability, yet their reliability as automated evaluators remains limited by a critical weakness: when visual evidence conflicts",
+      "authors": [
+        "Seojeong Park",
+        "Jiho Choi",
+        "Junyong Kang",
+        "Seonho Lee",
+        "Jaeyo Shin"
+      ],
+      "tags": [
+        "llm",
+        "multimodal"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2606.01961",
       "title": "AutoMedBench: Towards Medical AutoResearch with Agentic AI Models",
       "url": "https://huggingface.co/papers/2606.01961",
@@ -49,79 +78,6 @@
       "tags": [
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.02398",
-      "title": "A Local Perturbation Theory for Cross-Domain Interference and Recovery in Multi-Domain RL",
-      "url": "https://huggingface.co/papers/2606.02398",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-31T20:00:00.000Z",
-      "abstract": "Reinforcement learning (RL) post-training improves large language models (LLMs) on individual domains such as mathematical reasoning, code generation, question answering, and creative writing (CW), bu",
-      "authors": [
-        "Lei Yang",
-        "Siyu Ding",
-        "Deyi Xiong"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.01717",
-      "title": "Decentralized Instruction Tuning: Conflict-Aware Splitting and Weight Merging",
-      "url": "https://huggingface.co/papers/2606.01717",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-31T20:00:00.000Z",
-      "abstract": "Instruction tuning aligns large language models, including multimodal ones, with diverse user intents, but scaling to heterogeneous mixtures is hindered by gradient interference and bandwidth-heavy sy",
-      "authors": [
-        "Minsik Choi",
-        "Geewook Kim"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.01788",
-      "title": "PlatonicNav: Unveiling Semantic Correspondence in Navigation with Platonic Topological Maps",
-      "url": "https://huggingface.co/papers/2606.01788",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-31T20:00:00.000Z",
-      "abstract": "Embodied visual navigation, where an agent perceives a complex environment and acts to reach a goal from raw sensory input, underpins a wide range of applications such as household service robotics, a",
-      "authors": [
-        "Junlin Long",
-        "Zeyu Zhang",
-        "Xu Deng",
-        "Yiran Wang",
-        "Yue Yang"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

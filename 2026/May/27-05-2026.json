@@ -1,27 +1,50 @@
 {
-  "generatedAt": "2026-06-03T15:11:03.802Z",
+  "generatedAt": "2026-06-03T19:03:56.322Z",
   "date": "27-05-2026",
   "count": 3,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2605.29288",
-      "title": "Diagnosing Harmful Continuation in Answer-Correct Long-CoT Training Traces",
-      "url": "https://huggingface.co/papers/2605.29288",
+      "id": "hf_paper_2605.30581",
+      "title": "Prior Availability in Industrial Visual Sim-to-Real: A Review of CAD-Guided and CAD-Unavailable Regimes",
+      "url": "https://huggingface.co/papers/2605.30581",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-27T20:00:00.000Z",
-      "abstract": "Long chain-of-thought (CoT) traces are widely used as supervision for reasoning-oriented LLM SFT, yet answer-correct traces can still lead to markedly different fine-tuning outcomes. We study post-con",
+      "abstract": "Industrial visual sim-to-real is often described as transferring from synthetic images to real images, but industrial deployment usually involves a broader mismatch between available evidence and requ",
       "authors": [
-        "Chen He",
-        "Yuhao Wu",
-        "Lei Wang",
-        "Wenxuan Zhang",
-        "Fumin Shen"
+        "Chenxi Tao",
+        "Seung-Kyum Choi"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.00138",
+      "title": "A Multi-AI-agent Framework Enabling End-to-end Finite Element Analysis for Solid Mechanics Problems",
+      "url": "https://huggingface.co/papers/2606.00138",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-27T20:00:00.000Z",
+      "abstract": "Finite element analysis (FEA) is the most important numerical approach for solid mechanics. Challenges of FEA include a steep learning curve for entry-level users and potential false simulations due t",
+      "authors": [
+        "Titu Ranjan Sarker",
+        "Muhammed Jawaad Zulqernine",
+        "Ling Yue",
+        "Shaowu Pan",
+        "Chenxi Wang"
       ],
       "tags": [
-        "training"
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -45,30 +68,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.27958",
-      "title": "Pressure-Testing Deception Probes in LLMs: Scaling, Robustness, and the Geometry of Deceptive Representations",
-      "url": "https://huggingface.co/papers/2605.27958",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-27T00:51:55.000Z",
-      "abstract": "Linear probes trained on LLM activations are increasingly proposed as deception-detection metrics, yet report AUROC exceeding 0.96 on clean benchmarks while collapsing under distributional shift. This",
-      "authors": [
-        "Sachin Kumar"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

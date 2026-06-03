@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-03T15:11:03.801Z",
+  "generatedAt": "2026-06-03T19:03:56.322Z",
   "date": "28-05-2026",
-  "count": 5,
+  "count": 6,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,62 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.30039",
+      "title": "Domain-Specific Data Synthesis for LLMs via Minimal Sufficient Representation Learning",
+      "url": "https://huggingface.co/papers/2605.30039",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-28T20:00:00.000Z",
+      "abstract": "Large Language Models have demonstrated remarkable progress in general-purpose capabilities and can achieve strong performance in specific domains through fine-tuning on domain-specific data. However,",
+      "authors": [
+        "Tong Ye",
+        "Hang Yu",
+        "Tengfei Ma",
+        "Xuhong Zhang",
+        "Jianguo Li"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.30288",
+      "title": "MIRA: Mid-training Rubric Anchoring for Source-Aware Data Selection",
+      "url": "https://huggingface.co/papers/2605.30288",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-28T20:00:00.000Z",
+      "abstract": "Mid-training has become an important stage in modern LLM development, using large-scale curated mixtures to strengthen capabilities before final post-training. Its data selection problem is distinct:",
+      "authors": [
+        "Haowen Wang",
+        "Yaxin Du",
+        "Jian Yang",
+        "Jiajun Wu",
+        "Shukai Liu"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -65,26 +121,6 @@
       ],
       "score": 6,
       "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "NBA plans AI system for automatic out-of-bounds calls",
-      "url": "https://www.artificialintelligence-news.com/news/nba-ai-out-of-bounds-calls/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-05-28T10:00:00.000Z",
-      "abstract": "NBA Commissioner Adam Silver said the league plans to introduce an automated system for certain officiating decisions, including out-of-bounds calls. The system would use AI and cameras placed around",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
