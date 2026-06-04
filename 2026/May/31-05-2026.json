@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-06-04T15:54:02.583Z",
+  "generatedAt": "2026-06-04T20:29:29.450Z",
   "date": "31-05-2026",
   "count": 2,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.31498",
+      "title": "Scalable Inference-Time Annealing with Surrogate Likelihood Estimators",
+      "url": "https://huggingface.co/papers/2605.31498",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-31T20:00:00.000Z",
+      "abstract": "A long standing challenge in computational chemistry and biophysics is efficiently sampling the Boltzmann distribution of molecules. Advances in generative modeling have been proposed to address the l",
+      "authors": [
+        "Daniel Peñaherrera",
+        "Rishal Aggarwal",
+        "David Ryan Koes"
+      ],
+      "tags": [
+        "inference"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2606.02859",
       "title": "Economy of Minds: Emerging Multi-Agent Intelligence with Economic Interactions",
@@ -23,32 +49,6 @@
       "tags": [
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.02684",
-      "title": "Filter, Then Reweight: Rethinking Optimization Granularity in On-Policy Distillation",
-      "url": "https://huggingface.co/papers/2606.02684",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-31T20:00:00.000Z",
-      "abstract": "On-Policy distillation (OPD) in large language models is shifting from full-trace KL supervision toward more selective training paradigms. Recent OPD methods increasingly focus on selecting which traj",
-      "authors": [
-        "Yuying Li",
-        "Leqi Zheng",
-        "Yongzi Yu",
-        "Wenrui Zhou",
-        "Xuchang Zhong"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
