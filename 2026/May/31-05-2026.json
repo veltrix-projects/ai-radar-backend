@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-04T05:17:53.549Z",
+  "generatedAt": "2026-06-04T09:07:37.530Z",
   "date": "31-05-2026",
-  "count": 3,
+  "count": 5,
   "summary": null,
   "items": [
     {
@@ -53,6 +53,60 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.02684",
+      "title": "Filter, Then Reweight: Rethinking Optimization Granularity in On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2606.02684",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-31T20:00:00.000Z",
+      "abstract": "On-Policy distillation (OPD) in large language models is shifting from full-trace KL supervision toward more selective training paradigms. Recent OPD methods increasingly focus on selecting which traj",
+      "authors": [
+        "Yuying Li",
+        "Leqi Zheng",
+        "Yongzi Yu",
+        "Wenrui Zhou",
+        "Xuchang Zhong"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.02060",
+      "title": "Where Do Deep-Research Agents Go Wrong? Span-Level Error Localization in Agent Trajectories",
+      "url": "https://huggingface.co/papers/2606.02060",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-31T20:00:00.000Z",
+      "abstract": "Deep-research agents solve tasks through long trajectories of search, tool use, evidence inspection, and answer synthesis. Evaluation based on final answers shows whether an agent succeeds, but not wh",
+      "authors": [
+        "Jiaming Wang",
+        "Ziteng Feng",
+        "Jiangtao Wu",
+        "Ruihao Li",
+        "Qianqian Xie"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

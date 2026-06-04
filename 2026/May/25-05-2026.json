@@ -1,24 +1,29 @@
 {
-  "generatedAt": "2026-06-03T15:11:03.803Z",
+  "generatedAt": "2026-06-04T09:07:37.534Z",
   "date": "25-05-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2605.27346",
-      "title": "MERIT: Learning Disentangled Music Representations for Audio Similarity",
-      "url": "https://huggingface.co/papers/2605.27346",
+      "id": "hf_paper_2605.27492",
+      "title": "Benchmarks are Not Enough: RAMP for Runtime Assessing of Agentic Models in Production Systems",
+      "url": "https://huggingface.co/papers/2605.27492",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-25T20:00:00.000Z",
-      "abstract": "Current music similarity models typically compute a single, monolithic score, entangling distinct musical dimensions like melody, rhythm, and timbre. This limits user control and interpretability, mak",
+      "abstract": "LLM agents are rapidly evolving from coding assistants into autonomous software engineering systems. However, existing evaluation methodologies remain largely centered on static, isolated, and short-h",
       "authors": [
-        "Abhinaba Roy",
-        "Junyi Liang",
-        "Dorien Herremans"
+        "Yipeng Ouyang",
+        "Xin Huang",
+        "Bingjie Liu",
+        "Zhongchun Zheng",
+        "Yuhao Gu"
       ],
-      "tags": [],
+      "tags": [
+        "agent",
+        "benchmark"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

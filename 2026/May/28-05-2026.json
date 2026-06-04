@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-04T05:17:53.550Z",
+  "generatedAt": "2026-06-04T09:07:37.532Z",
   "date": "28-05-2026",
-  "count": 5,
+  "count": 8,
   "summary": null,
   "items": [
     {
@@ -97,6 +97,84 @@
         "Markus Gross"
       ],
       "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.30792",
+      "title": "OpenSTBench: Beyond Semantic Evaluation for Speech Translation",
+      "url": "https://huggingface.co/papers/2605.30792",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-28T20:00:00.000Z",
+      "abstract": "Speech translation systems increasingly span speech-to-text translation (S2TT), speech-to-speech translation (S2ST), offline translation, and streaming generation, producing outputs that differ in mod",
+      "authors": [
+        "Yanjie An",
+        "Yuxiang Zhao",
+        "Yichi Zhang",
+        "Qixi Zheng",
+        "Yujie Tu"
+      ],
+      "tags": [
+        "speech"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.00377",
+      "title": "Score-Control for Hallucination Reduction in Diffusion Models",
+      "url": "https://huggingface.co/papers/2606.00377",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-28T20:00:00.000Z",
+      "abstract": "Diffusion models have emerged as the backbone of modern generative AI, powering advances in vision, language, audio and other modalities. Despite their success, they suffer from hallucinations, implau",
+      "authors": [
+        "Mahesh Bhosale",
+        "Naresh Kumar Devulapally",
+        "Abdul Wasi",
+        "Chau Pham",
+        "Vishnu Suresh Lokhande"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "Google Pay preps for AI agents with Universal Commerce Protocol",
+      "url": "https://www.artificialintelligence-news.com/news/google-pay-ai-agents-universal-commerce-protocol/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-05-28T14:55:43.000Z",
+      "abstract": "Google Pay is overhauling its payment infrastructure for an impending wave of transactions from AI agents. The latest updates introduce the Universal Commerce Protocol and a new server architecture, p",
+      "authors": [],
+      "tags": [
+        "agent"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
