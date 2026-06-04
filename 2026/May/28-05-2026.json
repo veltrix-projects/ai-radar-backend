@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-04T09:07:37.532Z",
+  "generatedAt": "2026-06-04T12:24:55.034Z",
   "date": "28-05-2026",
-  "count": 8,
+  "count": 4,
   "summary": null,
   "items": [
     {
@@ -25,78 +25,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.30039",
-      "title": "Domain-Specific Data Synthesis for LLMs via Minimal Sufficient Representation Learning",
-      "url": "https://huggingface.co/papers/2605.30039",
+      "id": "hf_paper_2605.31148",
+      "title": "SpatialAct: Probing Spatial Reasoning-to-Action Capabilities of VLM Agents in 3D Scenes",
+      "url": "https://huggingface.co/papers/2605.31148",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-28T20:00:00.000Z",
-      "abstract": "Large Language Models have demonstrated remarkable progress in general-purpose capabilities and can achieve strong performance in specific domains through fine-tuning on domain-specific data. However,",
+      "abstract": "Humans can effortlessly perceive spatial layouts, form cognitive representations, reason about spatial relations, and translate such reasoning into actions in everyday 3D environments. Although recent",
       "authors": [
-        "Tong Ye",
-        "Hang Yu",
-        "Tengfei Ma",
-        "Xuhong Zhang",
-        "Jianguo Li"
+        "Tianhui Liu",
+        "Jie Feng",
+        "Zhiheng Zheng",
+        "Shengyuan Wang",
+        "Yiming Guo"
       ],
       "tags": [
-        "llm"
+        "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.30288",
-      "title": "MIRA: Mid-training Rubric Anchoring for Source-Aware Data Selection",
-      "url": "https://huggingface.co/papers/2605.30288",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-28T20:00:00.000Z",
-      "abstract": "Mid-training has become an important stage in modern LLM development, using large-scale curated mixtures to strengthen capabilities before final post-training. Its data selection problem is distinct:",
-      "authors": [
-        "Haowen Wang",
-        "Yaxin Du",
-        "Jian Yang",
-        "Jiajun Wu",
-        "Shukai Liu"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.00386",
-      "title": "αDepth: Learning Single-Pass Soft Boundary Decomposition for Stereo Conversion",
-      "url": "https://huggingface.co/papers/2606.00386",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-28T20:00:00.000Z",
-      "abstract": "Accurately modeling soft boundaries, e.g., hair and defocus blur, is a fundamental challenge in stereo conversion due to the ambiguous blending of foreground and background. Existing depth models prim",
-      "authors": [
-        "Xiang Zhang",
-        "Yang Zhang",
-        "Lukas Mehl",
-        "Karlis Martins Briedis",
-        "Markus Gross"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -124,56 +70,6 @@
       ],
       "tags": [
         "speech"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.00377",
-      "title": "Score-Control for Hallucination Reduction in Diffusion Models",
-      "url": "https://huggingface.co/papers/2606.00377",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-28T20:00:00.000Z",
-      "abstract": "Diffusion models have emerged as the backbone of modern generative AI, powering advances in vision, language, audio and other modalities. Despite their success, they suffer from hallucinations, implau",
-      "authors": [
-        "Mahesh Bhosale",
-        "Naresh Kumar Devulapally",
-        "Abdul Wasi",
-        "Chau Pham",
-        "Vishnu Suresh Lokhande"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "Google Pay preps for AI agents with Universal Commerce Protocol",
-      "url": "https://www.artificialintelligence-news.com/news/google-pay-ai-agents-universal-commerce-protocol/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-05-28T14:55:43.000Z",
-      "abstract": "Google Pay is overhauling its payment infrastructure for an impending wave of transactions from AI agents. The latest updates introduce the Universal Commerce Protocol and a new server architecture, p",
-      "authors": [],
-      "tags": [
-        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",

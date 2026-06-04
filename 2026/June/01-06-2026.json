@@ -1,35 +1,9 @@
 {
-  "generatedAt": "2026-06-04T09:07:37.529Z",
+  "generatedAt": "2026-06-04T12:24:55.033Z",
   "date": "01-06-2026",
-  "count": 32,
+  "count": 19,
   "summary": null,
   "items": [
-    {
-      "id": "hf_paper_2606.03102",
-      "title": "Small RL Controller, Large Language Model: RL-Guided Adaptive Sampling for Test-Time Scaling",
-      "url": "https://huggingface.co/papers/2606.03102",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-01T23:42:04.000Z",
-      "abstract": "Test-time scaling improves the reasoning performance of large language models but incurs substantial cost in both total computation and latency. Existing adaptive sampling methods partially mitigate t",
-      "authors": [
-        "Runpeng Dai",
-        "Tong Zheng",
-        "Rui Liu",
-        "Chengsong Huang",
-        "Hongtu Zhu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
       "title": "Reference your own AWS Secrets Manager secrets in Amazon Bedrock AgentCore Identity",
@@ -42,32 +16,6 @@
       "authors": [],
       "tags": [
         "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.03029",
-      "title": "Conditional Hypothesis Generation for LLM-Based Text Analysis with Researcher-Specified Covariates",
-      "url": "https://huggingface.co/papers/2606.03029",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-01T22:07:46.000Z",
-      "abstract": "A core goal of computational social science is to discover interpretable differences in how language varies across outcomes of interest, such as political affiliation or instructional quality. Recent",
-      "authors": [
-        "Paiheng Xu",
-        "Jing Liu",
-        "Wei Ai"
-      ],
-      "tags": [
-        "llm"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -121,154 +69,29 @@
       "points": 0
     },
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "MiniMax Releases MiniMax M3 with MSA Architecture Supporting 1M-Token Context, Native Multimodality, and Agentic Coding",
-      "url": "https://www.marktechpost.com/2026/06/01/minimax-releases-minimax-m3-with-msa-architecture-supporting-1m-token-context-native-multimodality-and-agentic-coding/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
+      "id": "hf_paper_2606.03890",
+      "title": "OVO-S-Bench: A Hierarchical Benchmark for Streaming Spatial Intelligence in Multimodal LLMs",
+      "url": "https://huggingface.co/papers/2606.03890",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-06-01T20:40:05.000Z",
-      "abstract": "MiniMax M3 introduces MiniMax Sparse Attention, a 1M-token context window, and native image, video, and computer use support.\nThe post MiniMax Releases MiniMax M3 with MSA Architecture Supporting 1M-T",
-      "authors": [],
+      "timestamp": "2026-06-01T20:00:00.000Z",
+      "abstract": "Multimodal agents in robotics, AR, and autonomous driving must reason about places and layouts from continuous egocentric streams, often using evidence outside the current view. Existing benchmarks ei",
+      "authors": [
+        "Yifei Li",
+        "Pengyiang Liu",
+        "Yuhang Zang",
+        "Zhongyue Shi",
+        "Qi Fu"
+      ],
       "tags": [
+        "llm",
         "multimodal",
-        "agent"
+        "benchmark"
       ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.03748",
-      "title": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
-      "url": "https://huggingface.co/papers/2606.03748",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-01T20:00:00.000Z",
-      "abstract": "Real-time vision demands models that are accurate, efficient, and simple to deploy across diverse hardware. The YOLO family has become widely deployed for this reason, yet most YOLO detectors still re",
-      "authors": [
-        "Glenn Jocher",
-        "Jing Qiu",
-        "Mengyu Liu",
-        "Shuai Lyu",
-        "Fatih Cagatay Akyon"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.03458",
-      "title": "KVarN: Variance-Normalized KV-Cache Quantization Mitigates Error Accumulation in Reasoning Tasks",
-      "url": "https://huggingface.co/papers/2606.03458",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-01T20:00:00.000Z",
-      "abstract": "Test-time scaling is a powerful approach to obtain better reasoning in large language models, but it becomes memory-bottlenecked during long-horizon decoding, as the KV-cache grows. KV-cache quantizat",
-      "authors": [
-        "Lorenz K. Muller",
-        "Philippe Bich",
-        "Chiara Boretti",
-        "Hyun-Min Chang",
-        "Jiawei Zhuang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.03911",
-      "title": "Bootstrap Your Generator: Unpaired Visual Editing with Flow Matching",
-      "url": "https://huggingface.co/papers/2606.03911",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-01T20:00:00.000Z",
-      "abstract": "Modern generative models possess a deep understanding of visual content, yet training them for image editing typically requires massive datasets of paired examples. This limits scalability, especially",
-      "authors": [
-        "Yoad Tewel",
-        "Yuval Atzmon",
-        "Gal Chechik",
-        "Lior Wolf"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.03287",
-      "title": "BA-T: An Iterative Transformer for Two-View Bundle Adjustment",
-      "url": "https://huggingface.co/papers/2606.03287",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-01T20:00:00.000Z",
-      "abstract": "Feed-forward models for 3D reconstruction have achieved strong performance using deep cross-view attention to exchange information across images. However, these approaches often depend on heavy decode",
-      "authors": [
-        "Ganlin Zhang",
-        "Weirong Chen",
-        "Daniel Cremers",
-        "Xi Wang"
-      ],
-      "tags": [
-        "transformer"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.03264",
-      "title": "PaddleOCR-VL-1.6: Expanding the Frontier of Document Parsing with Under-Optimized Region Refinement and Progressive Post-Training",
-      "url": "https://huggingface.co/papers/2606.03264",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-01T20:00:00.000Z",
-      "abstract": "We introduce PaddleOCR-VL-1.6, an upgraded compact document parsing model built upon PaddleOCR-VL-1.5. Although PaddleOCR-VL-1.5 establishes a strong 0.9B baseline, its remaining errors concentrate in",
-      "authors": [
-        "Zelun Zhang",
-        "Hongen Liu",
-        "Suyin Liang",
-        "Yubo Zhang",
-        "Yiqing Xiang"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -351,64 +174,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.01166",
-      "title": "BraveGuard: From Open-World Threats to Safer Computer-Use Agents",
-      "url": "https://huggingface.co/papers/2606.01166",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-01T20:00:00.000Z",
-      "abstract": "Computer-use agents extend language models from text generation to sustained interaction with files, terminals, browsers, and external tools. This shift creates safety risks that are difficult to dete",
-      "authors": [
-        "Yunhao Feng",
-        "Xiaohu Du",
-        "Xinhao Deng",
-        "Yifan Ding",
-        "Ming Wen"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.03890",
-      "title": "OVO-S-Bench: A Hierarchical Benchmark for Streaming Spatial Intelligence in Multimodal LLMs",
-      "url": "https://huggingface.co/papers/2606.03890",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-01T20:00:00.000Z",
-      "abstract": "Multimodal agents in robotics, AR, and autonomous driving must reason about places and layouts from continuous egocentric streams, often using evidence outside the current view. Existing benchmarks ei",
-      "authors": [
-        "Yifei Li",
-        "Pengyiang Liu",
-        "Yuhang Zang",
-        "Zhongyue Shi",
-        "Qi Fu"
-      ],
-      "tags": [
-        "llm",
-        "multimodal",
-        "benchmark"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Famazon-s",
       "title": "Amazon Shuts Down Internal AI Leaderboard After Employees Cheated",
       "url": "https://www.404media.co/amazon-shuts-down-internal-ai-leaderboard-after-employees-cheated/",
@@ -469,28 +234,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.02775",
-      "title": "AURA: Action-Gated Memory for Robot Policies at Constant VRAM",
-      "url": "https://huggingface.co/papers/2606.02775",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-01T14:38:21.000Z",
-      "abstract": "The KV-cache is the right memory for datacenters but the wrong memory for robots. Datacenter inference batches many short requests and resets them, amortizing an attention cache across a crowd. Embodi",
-      "authors": [
-        "Josef Chen"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fwe-sued-",
       "title": "We Sued ICE to Get Its Spyware Contract. The Agency Is Redacting Essentially Everything",
       "url": "https://www.404media.co/we-sued-ice-to-get-its-spyware-contract-the-agency-is-redacting-essentially-everything/",
@@ -537,27 +280,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 156094,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fstarg",
-      "title": "Building the infrastructure for the Intelligence Age in Michigan",
-      "url": "https://openai.com/index/stargate-michigan-data-center",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-06-01T12:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
+      "stars": 156120,
       "votes": 0,
       "points": 0
     },
@@ -595,34 +318,6 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.01993",
-      "title": "MMG2Skill: Can Agents Distill In-the-Wild Guides into Self-Evolving Skills?",
-      "url": "https://huggingface.co/papers/2606.01993",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-01T05:50:40.000Z",
-      "abstract": "Abundant procedural knowledge on the Web holds great potential for helping agents solve long-horizon tasks. However, such knowledge is often multimodal, heterogeneous, noisy, and implicitly assumes hu",
-      "authors": [
-        "Xinyu Che",
-        "Junqi Xiong",
-        "Yunfei Ge",
-        "Xinping Lei",
-        "Shihao Li"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -729,34 +424,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.01770",
-      "title": "Adaptive Auto-Harness: Sustained Self-Improvement for Agentic System Deployment on Open-Ended Task Streams",
-      "url": "https://huggingface.co/papers/2606.01770",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-01T02:51:14.000Z",
-      "abstract": "Auto-harness systems such as A-Evolve, GEPA, and Meta-Harness improve LLM agents by optimizing prompts, skills, tools, memories, and supporting infrastructure from execution feedback, but they are typ",
-      "authors": [
-        "Zewen Liu",
-        "Zhan Shi",
-        "Yisi Sang",
-        "Bing He",
-        "Minhua Lin"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

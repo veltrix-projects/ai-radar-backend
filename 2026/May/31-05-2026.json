@@ -1,58 +1,31 @@
 {
-  "generatedAt": "2026-06-04T09:07:37.530Z",
+  "generatedAt": "2026-06-04T12:24:55.033Z",
   "date": "31-05-2026",
-  "count": 5,
+  "count": 2,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2606.01955",
-      "title": "WALL-WM: Carving World Action Modeling at the Event Joints",
-      "url": "https://huggingface.co/papers/2606.01955",
+      "id": "hf_paper_2606.02859",
+      "title": "Economy of Minds: Emerging Multi-Agent Intelligence with Economic Interactions",
+      "url": "https://huggingface.co/papers/2606.02859",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-31T20:00:00.000Z",
-      "abstract": "WALL-WM is a World Action Model that shifts video-action learning from chunk-centric optimization to event-grounded Vision-Language-Action pretraining, using semantically coherent action events as the",
+      "abstract": "How can a population of agents self-orchestrate and self-adapt into stronger collective intelligence without centralized control? Inspired by Friedrich Hayek's economic theory of decentralized coordin",
       "authors": [
-        "Shalfun Li",
-        "Victor Yao",
-        "Charles Yang",
-        "Truth Qu",
-        "Regis Cheng"
+        "Zhenting Qi",
+        "Huangyuan Su",
+        "Ao Qu",
+        "Chenyu Wang",
+        "Yu Yao"
       ],
-      "tags": [],
+      "tags": [
+        "agent"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.02578",
-      "title": "Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling",
-      "url": "https://huggingface.co/papers/2606.02578",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-31T20:00:00.000Z",
-      "abstract": "Recent multimodal large language models have demonstrated strong reasoning ability, yet their reliability as automated evaluators remains limited by a critical weakness: when visual evidence conflicts",
-      "authors": [
-        "Seojeong Park",
-        "Jiho Choi",
-        "Junyong Kang",
-        "Seonho Lee",
-        "Jaeyo Shin"
-      ],
-      "tags": [
-        "llm",
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -76,62 +49,6 @@
         "Xuchang Zhong"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.02060",
-      "title": "Where Do Deep-Research Agents Go Wrong? Span-Level Error Localization in Agent Trajectories",
-      "url": "https://huggingface.co/papers/2606.02060",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-31T20:00:00.000Z",
-      "abstract": "Deep-research agents solve tasks through long trajectories of search, tool use, evidence inspection, and answer synthesis. Evaluation based on final answers shows whether an agent succeeds, but not wh",
-      "authors": [
-        "Jiaming Wang",
-        "Ziteng Feng",
-        "Jiangtao Wu",
-        "Ruihao Li",
-        "Qianqian Xie"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.01048",
-      "title": "Decoupled Residual Denoising Diffusion Models for Unified and Data Efficient Image-to-Image Translation",
-      "url": "https://huggingface.co/papers/2606.01048",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-31T02:38:18.000Z",
-      "abstract": "We propose Decoupled Residual Denoising Diffusion models (DRDD) for unified and data-efficient image-to-image (I2I) translation. While diffusion models have advanced I2I translation in terms of qualit",
-      "authors": [
-        "Ziyue Lin",
-        "Jiahe Hou",
-        "Hongyu Xia",
-        "Xinrui Xie",
-        "Feifei Wang"
-      ],
-      "tags": [
-        "diffusion"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

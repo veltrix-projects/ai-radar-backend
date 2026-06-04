@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T09:07:37.531Z",
+  "generatedAt": "2026-06-04T12:24:55.034Z",
   "date": "29-05-2026",
   "count": 5,
   "summary": null,
@@ -25,27 +25,52 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.00683",
-      "title": "OCC-RAG: Optimal Cognitive Core for Faithful Question Answering",
-      "url": "https://huggingface.co/papers/2606.00683",
+      "id": "hf_paper_2606.00558",
+      "title": "Semi-Supervised Noise Adaptation: Transferring Knowledge from Noise Domain",
+      "url": "https://huggingface.co/papers/2606.00558",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-29T20:00:00.000Z",
-      "abstract": "Recent progress in the development of language models has been defined by scale, with each generation absorbing more of the world's knowledge into its weights. However, many practical applications ben",
+      "abstract": "Transfer learning aims to facilitate the learning of a target domain by transferring knowledge from a source domain. The source domain typically contains semantically meaningful samples (*e.g.*, image",
       "authors": [
-        "Maksim Savkin",
-        "Mikhail Goncharov",
-        "Alexander Gambashidze",
-        "Alla Chepurova",
-        "Dmitrii Tarasov"
+        "Yuan Yao",
+        "Jin Song",
+        "Huixia Li",
+        "Tongtong Yuan",
+        "Jiaqi Wu"
       ],
-      "tags": [
-        "rag"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.00477",
+      "title": "Do Text Edits Generalize to Visual Generation? Benchmarking Cross-Modal Knowledge Editing in UMMs",
+      "url": "https://huggingface.co/papers/2606.00477",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-29T20:00:00.000Z",
+      "abstract": "Unified multimodal models (UMMs) have emerged as a promising paradigm for general-purpose multimodal intelligence. As they are deployed in real-world applications, effectively updating internal knowle",
+      "authors": [
+        "Xin Gao",
+        "Cheng Yang",
+        "Chufan Shi",
+        "Taylor Berg-Kirkpatrick"
+      ],
+      "tags": [
+        "benchmark"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -63,28 +88,6 @@
       "abstract": "OpenAI’s latest governance frameworks offer enterprise leaders a structured blueprint for scaling safe and compliant AI deployments globally. The adoption of large language models has steadily progres",
       "authors": [],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "Anthropic releases Claude Opus 4.8",
-      "url": "https://www.artificialintelligence-news.com/news/anthropic-releases-claude-opus-4-8-news/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-05-29T10:44:00.000Z",
-      "abstract": "Anthropic has released Claude Opus 4.8, an upgrade to Claude Opus 4.7 that the company says brings improved results for coding, agent work, reasoning, and knowledge work. The platform can be used thro",
-      "authors": [],
-      "tags": [
-        "claude"
-      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
