@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-04T12:24:55.034Z",
+  "generatedAt": "2026-06-04T15:54:02.584Z",
   "date": "28-05-2026",
-  "count": 4,
+  "count": 6,
   "summary": null,
   "items": [
     {
@@ -18,6 +18,58 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.31559",
+      "title": "Functional Attention: From Pairwise Affinities to Functional Correspondences",
+      "url": "https://huggingface.co/papers/2605.31559",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-28T20:00:00.000Z",
+      "abstract": "Learning mappings between infinite-dimensional function spaces, or operator learning, is essential for many machine learning applications. Although transformer-based operators are popular, they often",
+      "authors": [
+        "Jiefang Xiao",
+        "Maolin Gao",
+        "Simon Weber",
+        "Guandao Yang",
+        "Daniel Cremers"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.00188",
+      "title": "PaintBench: Deterministic Evaluation of Precise Visual Editing",
+      "url": "https://huggingface.co/papers/2606.00188",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-28T20:00:00.000Z",
+      "abstract": "While current multimodal models are proficient at open-ended visual editing, executing precise single-answer edits remains an important obstacle. To probe this challenge, we introduce PaintBench, a dy",
+      "authors": [
+        "Kai Xu",
+        "Ellis Brown",
+        "Shrikar Madhu",
+        "Rob Fergus",
+        "He He"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

@@ -1,26 +1,29 @@
 {
-  "generatedAt": "2026-06-04T12:24:55.035Z",
+  "generatedAt": "2026-06-04T15:54:02.585Z",
   "date": "27-05-2026",
   "count": 2,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2605.29489",
-      "title": "Access Sets Matter: Budgeting Expert Reads for Scalable Weight-Space Model Merging",
-      "url": "https://huggingface.co/papers/2605.29489",
+      "id": "hf_paper_2605.30257",
+      "title": "Stable-Layers: Fine-Tuning Image Layer Decomposition Models with VLM-Scored Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2605.30257",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-27T20:00:00.000Z",
-      "abstract": "Weight-space model merging is usually formulated as an algebraic operation on checkpoints, yet at LLM scale the limiting resource is often the set of expert weights that must be read. We introduce Mer",
+      "abstract": "We present Stable-Layers, a reinforcement learning framework that eliminates the need for paired supervision by fine-tuning a pretrained layer decomposition model using only feedback from a vision-lan",
       "authors": [
-        "Yuanyi Wang",
-        "Yanggan Gu",
-        "Su Lu",
-        "Yifan Yang",
-        "Zhaoyi Yan"
+        "Ciara Rowles",
+        "Reshinth Adithyan",
+        "Nikhil Pinnaparaju",
+        "Vikram Voleti",
+        "Mark Boss"
       ],
-      "tags": [],
+      "tags": [
+        "fine-tuning",
+        "reinforcement learning"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
