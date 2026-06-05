@@ -1,22 +1,31 @@
 {
-  "generatedAt": "2026-06-05T02:33:05.684Z",
+  "generatedAt": "2026-06-05T20:21:12.382Z",
   "date": "30-05-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2606.01090",
-      "title": "Measuring the Symmetry--Data Exchange Rate",
-      "url": "https://huggingface.co/papers/2606.01090",
+      "id": "hf_paper_2606.01317",
+      "title": "SABER: Benchmarking Operational Safety of LLM Coding Agents in Stateful Project Workspaces",
+      "url": "https://huggingface.co/papers/2606.01317",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-30T20:00:00.000Z",
-      "abstract": "Equivariance theory predicts that an architectural symmetry prior reduces sample complexity by a factor of |G|; this is widely cited but rarely measured as a scaling law with controls that separate th",
+      "abstract": "Large language models are increasingly deployed as coding agents, shifting safety from individual responses to action sequences. Existing benchmarks, however, primarily assess whether models refuse un",
       "authors": [
-        "Ahmed M. Adly"
+        "Qi Hu",
+        "Yifeng Tang",
+        "Qinghua Wang",
+        "Lanyang Zhao",
+        "Pengji Zhang"
       ],
-      "tags": [],
+      "tags": [
+        "llm",
+        "agent",
+        "benchmark",
+        "safety"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

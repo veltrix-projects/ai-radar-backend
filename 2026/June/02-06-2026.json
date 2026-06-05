@@ -1,28 +1,31 @@
 {
-  "generatedAt": "2026-06-05T16:25:42.365Z",
+  "generatedAt": "2026-06-05T20:21:12.379Z",
   "date": "02-06-2026",
   "count": 15,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2606.04743",
-      "title": "TIDE: Proactive Multi-Problem Discovery via Template-Guided Iteration",
-      "url": "https://huggingface.co/papers/2606.04743",
+      "id": "hf_paper_2606.05515",
+      "title": "BRepCLIP: Contrastive Multimodal Pretraining on BRep Primitives for CAD Understanding",
+      "url": "https://huggingface.co/papers/2606.05515",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-02T20:00:00.000Z",
-      "abstract": "Agents are widely deployed as assistants over documents, tools, and code. However, they typically act only on explicit user requests, which surface only the problems the user has noticed, while many o",
+      "abstract": "Learning representations of CAD models is a largely open problem. While 3D representation learning has flourished around point clouds and meshes, the native format of CAD - boundary representations BR",
       "authors": [
-        "Soyeong Jeong",
-        "Jinheon Baek",
-        "Minki Kang",
-        "Sung Ju Hwang"
+        "Muhammad Usama",
+        "Didier Stricker",
+        "Mohammad Sadil Khan",
+        "Muhammad Zeshan Afzal"
       ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "tags": [
+        "multimodal",
+        "training"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
