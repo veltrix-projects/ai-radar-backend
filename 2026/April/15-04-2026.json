@@ -1,26 +1,31 @@
 {
-  "generatedAt": "2026-05-19T16:44:54.867Z",
+  "generatedAt": "2026-06-05T06:58:46.161Z",
   "date": "15-04-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "google_deepmind_https%3A%2F%2Fdeepmind.google%2Fblog%2Fg",
-      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
-      "url": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
-      "source": "Google DeepMind",
-      "sourceIcon": "🔵",
+      "id": "hf_paper_2606.05172",
+      "title": "Is This Edit Correct? A Multi-Dimensional Benchmark for Reasoning-Aware Image Editing",
+      "url": "https://huggingface.co/papers/2606.05172",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-04-15T16:03:19.000Z",
-      "abstract": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation.",
-      "authors": [],
-      "tags": [
-        "gemini",
-        "speech"
+      "timestamp": "2026-04-15T20:00:00.000Z",
+      "abstract": "Diffusion-based image editing has achieved strong visual fidelity under natural language instructions, yet most existing systems still operate at the level of surface instruction following, without re",
+      "authors": [
+        "Yixuan Ding",
+        "Wei Huang",
+        "Ruijie Quan",
+        "Xiaojuan Qi",
+        "Yi Yang"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "tags": [
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

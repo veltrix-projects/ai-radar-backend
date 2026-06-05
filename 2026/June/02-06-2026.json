@@ -1,81 +1,23 @@
 {
-  "generatedAt": "2026-06-05T02:33:05.683Z",
+  "generatedAt": "2026-06-05T06:58:46.148Z",
   "date": "02-06-2026",
-  "count": 22,
+  "count": 17,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2606.01804",
-      "title": "SpeechEditBench: A Bilingual Multi-Attribute Benchmark for Instruction-Guided Speech Editing",
-      "url": "https://huggingface.co/papers/2606.01804",
+      "id": "hf_paper_2606.04743",
+      "title": "TIDE: Proactive Multi-Problem Discovery via Template-Guided Iteration",
+      "url": "https://huggingface.co/papers/2606.04743",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-02T20:00:00.000Z",
-      "abstract": "Instruction-guided speech editing requires a model to modify specified speech attributes while preserving unrelated characteristics. Despite rapid progress in Speech Large Language Models (Speech LLMs",
+      "abstract": "Agents are widely deployed as assistants over documents, tools, and code. However, they typically act only on explicit user requests, which surface only the problems the user has noticed, while many o",
       "authors": [
-        "Hanlin Zhang",
-        "Daxin Tan",
-        "Dehua Tao",
-        "Xiao Chen",
-        "Haochen Tan"
-      ],
-      "tags": [
-        "benchmark",
-        "speech"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.04978",
-      "title": "Probing Outcome-Level Resemblance and Mechanism-Level Alignment in LLM Risk Decisions: Evidence from the St. Petersburg Game",
-      "url": "https://huggingface.co/papers/2606.04978",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-02T20:00:00.000Z",
-      "abstract": "LLMs can appear cautious in risk decision-making tasks, yet cautious-looking outputs do not necessarily indicate alignment with human decision-making mechanisms. We investigate this distinction using",
-      "authors": [
-        "Chensong Huang",
-        "Changyu Chen",
-        "Chenwei Lin",
-        "Hanjia Lyu",
-        "Xian Xu"
-      ],
-      "tags": [
-        "llm",
-        "alignment"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.05102",
-      "title": "ZipSplat: Fewer Gaussians, Better Splats",
-      "url": "https://huggingface.co/papers/2606.05102",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-02T20:00:00.000Z",
-      "abstract": "Feed-forward 3D Gaussian Splatting methods reconstruct a scene from posed or pose-free images in a single forward pass, yet current approaches predict one Gaussian per input pixel, tying the represent",
-      "authors": [
-        "Alexander Veicht",
-        "Sunghwan Hong",
-        "Dániel Baráth",
-        "Marc Pollefeys"
+        "Soyeong Jeong",
+        "Jinheon Baek",
+        "Minki Kang",
+        "Sung Ju Hwang"
       ],
       "tags": [],
       "score": 6,
@@ -88,19 +30,18 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.05009",
-      "title": "DAR: Deontic Reasoning with Agentic Harnesses",
-      "url": "https://huggingface.co/papers/2606.05009",
+      "id": "hf_paper_2606.04465",
+      "title": "SePO: Self-Evolving Prompt Agent for System Prompt Optimization",
+      "url": "https://huggingface.co/papers/2606.04465",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-02T20:00:00.000Z",
-      "abstract": "Deontic reasoning is the task of answering questions by applying explicit rules and policies to case-specific facts, for example computing tax liability under a statute or determining the outcome of a",
+      "abstract": "System prompt optimization improves agent behavior without modifying the underlying model, yielding human-readable, model-agnostic instructions. Existing methods build a prompt agent that refines task",
       "authors": [
-        "Guangyao Dou",
-        "William Jurayj",
-        "Nils Holzenberger",
-        "Benjamin Van Durme"
+        "Wangcheng Tao",
+        "Han Wu",
+        "Weng-Fai Wong"
       ],
       "tags": [
         "agent"
@@ -115,20 +56,49 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.05112",
-      "title": "Evaluating Large Language Models in Dynamic Clinical Decision-Making with Standardized Patient Cases",
-      "url": "https://huggingface.co/papers/2606.05112",
+      "id": "hf_paper_2606.04703",
+      "title": "Rethinking Continual Experience Internalization for Self-Evolving LLM Agents",
+      "url": "https://huggingface.co/papers/2606.04703",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-02T20:00:00.000Z",
-      "abstract": "Large language models (LLMs) are increasingly proposed as clinical agents, yet static, single-turn benchmarks cannot capture how a model dynamically delivers care across an encounter: gathering inform",
+      "abstract": "Experience internalization converts contextual experience from past interactions into reusable parametric capability, offering a promising path toward continual learning in large language models (LLMs",
       "authors": [
-        "Cheng Liang",
-        "Pengcheng Qiu",
-        "Ya Zhang",
-        "Yanfeng Wang",
-        "Chaoyi Wu"
+        "Jingwen Chen",
+        "Wenkai Yang",
+        "Shengda Fan",
+        "Wenbo Nie",
+        "Chenxing Sun"
+      ],
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.05254",
+      "title": "Flash-WAM: Modality-Aware Distillation for World Action Models",
+      "url": "https://huggingface.co/papers/2606.05254",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-02T20:00:00.000Z",
+      "abstract": "World-action models (WAMs) jointly generate future video and robot actions through iterative diffusion, achieving strong performance on manipulation benchmarks but requiring tens of denoising steps, a",
+      "authors": [
+        "Arman Akbari",
+        "Ci Zhang",
+        "Arash Akbari",
+        "Lin Zhao",
+        "Yixiao Chen"
       ],
       "tags": [],
       "score": 6,
@@ -176,48 +146,6 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "Anthropic IPO filing marks AI maturing into enterprise utility",
-      "url": "https://www.artificialintelligence-news.com/news/anthropic-ipo-filing-marks-ai-maturing-enterprise-utility/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-06-02T18:04:03.000Z",
-      "abstract": "Anthropic&#8217;s IPO filing marks the maturation of generative AI from a research-heavy venture phase into a stabilised enterprise utility. Model developers operating in private markets have prioriti",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "TinyFish Launches BigSet: An Open-Source Multi-Agent System That Builds Structured Live Datasets from Plain-English Descriptions",
-      "url": "https://www.marktechpost.com/2026/06/02/tinyfish-launches-bigset-an-open-source-multi-agent-system-that-builds-structured-live-datasets-from-plain-english-descriptions/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-06-02T17:57:41.000Z",
-      "abstract": "Describe a dataset in one sentence; Bigset's orchestrator and parallel sub-agents research the live web and return structured tables.\nThe post TinyFish Launches BigSet: An Open-Source Multi-Agent Syst",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -329,34 +257,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.03773",
-      "title": "KletterMix: Climbing Toward High-Quality German Pretraining Data",
-      "url": "https://huggingface.co/papers/2606.03773",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-02T11:28:15.000Z",
-      "abstract": "High-quality pretraining data is a central ingredient in modern language models, but German-language resources remain far less developed than their English counterparts: they are often smaller, less c",
-      "authors": [
-        "Maurice Kraus",
-        "Ruben Härle",
-        "Sebastian Sztwiertnia",
-        "Abbas Goher Khan",
-        "Mehdi Ali"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
       "title": "Rehumanizing global health care with agentic AI",
       "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
@@ -369,26 +269,6 @@
       "tags": [
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "GitHub Copilot users see token-based price hikes",
-      "url": "https://www.artificialintelligence-news.com/news/github-copilots-billing-changes-users-see-use-based-price-hikes/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-06-02T11:09:00.000Z",
-      "abstract": "Since its announcement in April this year, the proposed changes to billing methods on GitHub Copilot were a source of much speculation: how much more or less would a pay-a-you-use AI cost an organisat",
-      "authors": [],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

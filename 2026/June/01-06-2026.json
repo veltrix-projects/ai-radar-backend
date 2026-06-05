@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-05T02:33:05.683Z",
+  "generatedAt": "2026-06-05T06:58:46.149Z",
   "date": "01-06-2026",
-  "count": 17,
+  "count": 11,
   "summary": null,
   "items": [
     {
@@ -49,49 +49,18 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.03965",
-      "title": "Agentic Chain-of-Thought Steering for Efficient and Controllable LLM Reasoning",
-      "url": "https://huggingface.co/papers/2606.03965",
+      "id": "hf_paper_2606.03312",
+      "title": "RobotValues: Evaluating Household Robots When Human Values Conflict",
+      "url": "https://huggingface.co/papers/2606.03312",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-01T20:00:00.000Z",
-      "abstract": "Large language models improve final-answer accuracy through extended chain-of-thought reasoning, but often spend tokens inefficiently and offer little inference-time control. Existing efficient reason",
+      "abstract": "While household robots are often evaluated based on task completion, everyday domestic environments involve value-conflicting situations in which robots are expected to choose actions that prioritize",
       "authors": [
-        "Yu Xia",
-        "Zhouhang Xie",
-        "Xin Xu",
-        "Byungkyu Kang",
-        "Prarit Lamba"
-      ],
-      "tags": [
-        "llm",
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.04075",
-      "title": "Large Language Models Hack Rewards, and Society",
-      "url": "https://huggingface.co/papers/2606.04075",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-01T20:00:00.000Z",
-      "abstract": "Reinforcement learning (RL) has become a dominant post-training paradigm, enabling large language models (LLMs) to learn from rewards. We observe that societal regulations are structurally similar to",
-      "authors": [
-        "Wei Liu",
-        "Xinyi Mou",
-        "Hanqi Yan",
-        "Zhongyu Wei",
-        "Yulan He"
+        "Jongwook Han",
+        "Hyeongjin Kim",
+        "Yohan Jo"
       ],
       "tags": [],
       "score": 6,
@@ -104,46 +73,23 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.02993",
-      "title": "Neural Networks Provably Learn Spectral Representations for Group Composition",
-      "url": "https://huggingface.co/papers/2606.02993",
+      "id": "hf_paper_2606.03841",
+      "title": "EvoDS: Self-Evolving Autonomous Data Science Agent with Skill Learning and Context Management",
+      "url": "https://huggingface.co/papers/2606.03841",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-01T20:00:00.000Z",
-      "abstract": "Understanding how structured internal structure emerges during neural network training is central to the study of deep learning. We investigate this phenomenon through the group composition task, wher",
+      "abstract": "Recent progress in Large Language Model (LLM) agents has enabled promising advances in automated data science. However, existing approaches remain fundamentally limited by their static action sets and",
       "authors": [
-        "Jianliang He",
-        "Leda Wang",
-        "Fengzhuo Zhang",
-        "Siyu Chen",
-        "Zhuoran Yang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.04056",
-      "title": "Token Budgets: An Empirical Catalog of 63 LLM-Agent Budget-Overrun Incidents, with an Affine-Typed Rust Mitigation as a Case Study",
-      "url": "https://huggingface.co/papers/2606.04056",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-01T20:00:00.000Z",
-      "abstract": "LLM-agent budget overruns are a documented production failure class: a single retry loop can spend thousands of dollars before an operator notices, and the in-process integrity properties that would p",
-      "authors": [
-        "Sajjad Khan"
+        "Zherui Yang",
+        "Fan Liu",
+        "Yansong Ning",
+        "Hao Liu"
       ],
       "tags": [
-        "llm",
-        "agent"
+        "agent",
+        "autonomous"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -155,72 +101,23 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.03712",
-      "title": "When Graph Tokens Sink: A Mechanistic Analysis of Graph Language Models",
-      "url": "https://huggingface.co/papers/2606.03712",
+      "id": "hf_paper_2606.03092",
+      "title": "The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation for LLMs",
+      "url": "https://huggingface.co/papers/2606.03092",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-01T20:00:00.000Z",
-      "abstract": "Graph Language Models (GLMs) have become a promising direction for adapting Large Language Models (LLMs) to graph learning tasks. By transforming graph topology and node information into graph tokens,",
+      "abstract": "Inference-time scaling has emerged as a critical avenue for enhancing Large Language Models' performance, yet real-world deployment is constrained by strict computational budgets. In this work, we for",
       "authors": [
-        "Ding Zhang",
-        "Runtao Zhou",
-        "Wenqing Zheng",
-        "Rizal Fathony",
-        "Bayan Bruss"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.03895",
-      "title": "Agent libOS: A Library-OS-Inspired Runtime for Long-Running, Capability-Controlled LLM Agents",
-      "url": "https://huggingface.co/papers/2606.03895",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-01T20:00:00.000Z",
-      "abstract": "Large language model (LLM) agents are evolving from request-response assistants into long-running software actors: they maintain state across model calls, fork subtasks, wait for external events, requ",
-      "authors": [
-        "Yingqi Zhang"
+        "Xu Wan",
+        "Speed Zhu",
+        "Jianwei Cai",
+        "Guang Chen",
+        "XiMing Huang"
       ],
       "tags": [
-        "llm",
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.03792",
-      "title": "Training-Free Multi-Concept LoRA Composition with Prompt-Aware Weighting",
-      "url": "https://huggingface.co/papers/2606.03792",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-01T20:00:00.000Z",
-      "abstract": "Low-Rank Adaptation (LoRA) successfully enables personalization in text-to-image generation by adapting pre-trained diffusion models to specific visual concepts and styles. However, extending such mod",
-      "authors": [
-        "Georgios Tsoumplekas",
-        "Stella Bounareli",
-        "Vasileios Argyriou"
-      ],
-      "tags": [
-        "training"
+        "llm"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -258,47 +155,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 156129,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "The future of automated trading with the best forex robot reviews",
-      "url": "https://www.artificialintelligence-news.com/news/the-future-of-automated-trading-with-the-best-forex-robot-reviews/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-06-01T08:51:42.000Z",
-      "abstract": "Automation is becoming a bigger part of how financial markets are approached, and forex trading is one area where this is becoming easier to notice. As the tech world improves, more traders are lookin",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "AI in video game development: How artificial intelligence is reshaping the industry",
-      "url": "https://www.artificialintelligence-news.com/news/ai-in-video-game-development/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-06-01T08:46:19.000Z",
-      "abstract": "A Google Cloud survey found that 90% of developers are already integrating AI into their daily work, and on Steam, 7,818 titles disclosed AI use in 2025 alone, a 681% increase over the previous year.",
-      "authors": [],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
+      "stars": 156142,
       "votes": 0,
       "points": 0
     },
