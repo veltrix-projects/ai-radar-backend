@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-05T13:48:16.777Z",
+  "generatedAt": "2026-06-05T16:25:42.478Z",
   "date": "28-05-2026",
-  "count": 3,
+  "count": 4,
   "summary": null,
   "items": [
     {
@@ -18,6 +18,32 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.03645",
+      "title": "The Shape of Addition: Geometric Structures of Arithmetic in Large Language Models",
+      "url": "https://huggingface.co/papers/2606.03645",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-28T20:00:00.000Z",
+      "abstract": "Large Language Models exhibit paradoxical fragility in fundamental arithmetic, implying a disconnect between internal computation and discrete output. By analyzing the residual stream geometry during",
+      "authors": [
+        "Liuyuan Wen",
+        "Xun Zhu",
+        "Lihao Huang",
+        "Wenbin Li",
+        "Yang Gao"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
