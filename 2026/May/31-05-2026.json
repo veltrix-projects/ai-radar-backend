@@ -1,9 +1,38 @@
 {
-  "generatedAt": "2026-06-05T20:21:12.381Z",
+  "generatedAt": "2026-06-05T22:58:32.561Z",
   "date": "31-05-2026",
-  "count": 4,
+  "count": 3,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2606.02956",
+      "title": "The Road Ahead in Autonomous Driving: The KITScenes Multimodal Dataset",
+      "url": "https://huggingface.co/papers/2606.02956",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-31T20:00:00.000Z",
+      "abstract": "Existing autonomous driving datasets have enabled major progress, but fall short in sensor fidelity, map completeness, or geographic diversity. We present KITScenes Multimodal, a European dataset buil",
+      "authors": [
+        "Richard Schwarzkopf",
+        "Fabian Immel",
+        "Alexander Blumberg",
+        "Jonas Merkert",
+        "Nils Rack"
+      ],
+      "tags": [
+        "multimodal",
+        "autonomous"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.30848",
       "title": "LLM Anonymization Against Agentic Re-Identification",
@@ -54,63 +83,6 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.02569",
-      "title": "AdaCodec: A Predictive Visual Code for Video MLLMs",
-      "url": "https://huggingface.co/papers/2606.02569",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-31T20:00:00.000Z",
-      "abstract": "Video is temporally redundant: adjacent frames usually share most objects, background, and layout. Yet existing video multimodal large language models (video MLLMs) usually encode each sampled frame a",
-      "authors": [
-        "Haowen Hou",
-        "Zhen Huang",
-        "Zheming Liang",
-        "Qingyi Si",
-        "Chenglin Li"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.02956",
-      "title": "The Road Ahead in Autonomous Driving: The KITScenes Multimodal Dataset",
-      "url": "https://huggingface.co/papers/2606.02956",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-05-31T20:00:00.000Z",
-      "abstract": "Existing autonomous driving datasets have enabled major progress, but fall short in sensor fidelity, map completeness, or geographic diversity. We present KITScenes Multimodal, a European dataset buil",
-      "authors": [
-        "Richard Schwarzkopf",
-        "Fabian Immel",
-        "Alexander Blumberg",
-        "Jonas Merkert",
-        "Nils Rack"
-      ],
-      "tags": [
-        "multimodal",
-        "autonomous"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
