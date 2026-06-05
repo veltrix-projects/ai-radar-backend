@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-05T06:58:46.147Z",
+  "generatedAt": "2026-06-05T10:46:38.825Z",
   "date": "03-06-2026",
-  "count": 26,
+  "count": 24,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,59 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.06294",
+      "title": "Towards One-to-Many Temporal Grounding",
+      "url": "https://huggingface.co/papers/2606.06294",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-03T20:00:00.000Z",
+      "abstract": "Temporal Grounding (TG) aims to localize video segments corresponding to a textual query. Prior research predominantly focuses on single-segment retrieval. Real-world scenarios, however, often require",
+      "authors": [
+        "Qi Xu",
+        "Yue Tan",
+        "Shihao Chen",
+        "Jiahao Meng",
+        "Anna Wang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.06286",
+      "title": "LLMs Can Leak Training Data But Do They Want To? A Propensity-Aware Evaluation of Memorization in LLMs",
+      "url": "https://huggingface.co/papers/2606.06286",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-03T20:00:00.000Z",
+      "abstract": "Large language models can reproduce training data, but existing memorization evaluations mostly measure whether models can be forced to do so, rather than whether they do so under ordinary use. We int",
+      "authors": [
+        "Gianluca Barmina",
+        "Peter Schneider-Kamp",
+        "Lukas Galke Poech"
+      ],
+      "tags": [
+        "llm",
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -149,112 +202,6 @@
       "tags": [
         "reinforcement learning"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.06042",
-      "title": "LoomVideo: Unifying Multimodal Inputs into Video Generation and Editing",
-      "url": "https://huggingface.co/papers/2606.06042",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-03T20:00:00.000Z",
-      "abstract": "Developing unified video generation and editing models capable of interpreting interleaved multimodal inputs is a promising yet challenging frontier field. Existing unified frameworks predominantly re",
-      "authors": [
-        "Jianzong Wu",
-        "Hao Lian",
-        "Jiongfan Yang",
-        "Dachao Hao",
-        "Ye Tian"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.05979",
-      "title": "World-Language-Action Model for Unified World Modeling, Language Reasoning, and Action Synthesis",
-      "url": "https://huggingface.co/papers/2606.05979",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-03T20:00:00.000Z",
-      "abstract": "We propose world-language-action (WLA) models as a new class of embodied foundation models. WLA takes textual instructions, images, and robot states as inputs to jointly predict textual subtasks, subg",
-      "authors": [
-        "Yi Yang",
-        "Zhihong Liu",
-        "Siqi Kou",
-        "Yiyang Chen",
-        "Yanzhe Hu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.05645",
-      "title": "Discrete-WAM: Unified Discrete Vision-Action Token Editing for World-Policy Learning",
-      "url": "https://huggingface.co/papers/2606.05645",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-03T20:00:00.000Z",
-      "abstract": "Autonomous driving requires reasoning about how ego actions shape the evolution of the surrounding world. However, most end-to-end methods rely on direct state-to-action mappings, capturing correlatio",
-      "authors": [
-        "Ziyang Yao",
-        "Haochen Liu",
-        "Yuncheng Jiang",
-        "Zeyu Zhu",
-        "Zibin Guo"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.06447",
-      "title": "Latent Reasoning with Normalizing Flows",
-      "url": "https://huggingface.co/papers/2606.06447",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-03T20:00:00.000Z",
-      "abstract": "Large language models often improve reasoning by generating explicit chain-of-thought (CoT), demonstrating the importance of intermediate computation. However, textual CoT forces this computation thro",
-      "authors": [
-        "Guancheng Tu",
-        "Xiangjun Fu",
-        "Suhao Yu",
-        "Yao Tang",
-        "Haoqiang Kang"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -511,9 +458,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fpubli",
-      "title": "OpenAI public policy agenda",
-      "url": "https://openai.com/index/public-policy-agenda",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Ffront",
+      "title": "A blueprint for democratic governance of frontier AI",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
@@ -531,9 +478,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Ffront",
-      "title": "A blueprint for democratic governance of frontier AI",
-      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fpubli",
+      "title": "OpenAI public policy agenda",
+      "url": "https://openai.com/index/public-policy-agenda",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",

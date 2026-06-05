@@ -1,9 +1,38 @@
 {
-  "generatedAt": "2026-06-05T06:58:46.151Z",
+  "generatedAt": "2026-06-05T10:46:38.829Z",
   "date": "27-05-2026",
-  "count": 2,
+  "count": 3,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2606.00125",
+      "title": "Multimodal Music Recommendation System using LLMs",
+      "url": "https://huggingface.co/papers/2606.00125",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-27T20:00:00.000Z",
+      "abstract": "Music recommendation systems typically treat songs as opaque tokens, relying on collaborative interaction histories which overlooks semantic or acoustic content. Prior work has explored LLM-augmented,",
+      "authors": [
+        "Srikar Prabhas Kandagatla",
+        "Sreehitha R. Narayana",
+        "Chandana Magapu",
+        "Swetha Mohan",
+        "Shamanth Kuthpadi"
+      ],
+      "tags": [
+        "llm",
+        "multimodal"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.30159",
       "title": "Meta-Cognitive Memory Policy Optimization for Long-Horizon LLM Agents",
