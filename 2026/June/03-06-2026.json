@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-05T10:46:38.825Z",
+  "generatedAt": "2026-06-05T13:48:16.773Z",
   "date": "03-06-2026",
-  "count": 24,
+  "count": 27,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,89 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.06443",
+      "title": "Revising Context, Shifting Simulated Stance: Auditing LLM-Based Stance Simulation in Online Discussions",
+      "url": "https://huggingface.co/papers/2606.06443",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-03T20:00:00.000Z",
+      "abstract": "Large language models are increasingly used to simulate social media users and infer how individuals may respond to online discussions. However, it remains unclear whether these simulations reflect pr",
+      "authors": [
+        "Xinnong Zhang",
+        "Wanting Shan",
+        "Hanjia Lyu",
+        "Zhongyu Wei",
+        "Jiebo Luo"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.00644",
+      "title": "ForeSci: Evaluating LLM Agents for Forward-Looking AI Research Judgment",
+      "url": "https://huggingface.co/papers/2606.00644",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-03T20:00:00.000Z",
+      "abstract": "AI research often requires decisions before future evidence exists: which bottleneck to attack, which direction to pursue, or where a project should be positioned. We introduce ForeSci, a temporally c",
+      "authors": [
+        "Qiuyu Tian",
+        "Haojie Yin",
+        "Yingce Xia",
+        "Youyong Kong",
+        "Zequn Liu"
+      ],
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.04811",
+      "title": "Dream.exe: Can Video Generation Models Dream Executable Robot Manipulation?",
+      "url": "https://huggingface.co/papers/2606.04811",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-03T20:00:00.000Z",
+      "abstract": "Video generation models have made impressive strides in synthesizing visually compelling content, yet their outputs remain confined to the virtual domain. A natural question follows: how well do these",
+      "authors": [
+        "Rui Zhao",
+        "Kaiming Yang",
+        "Jifeng Zhu",
+        "Siyang Chen",
+        "Ziqi Wang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
