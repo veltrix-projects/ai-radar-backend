@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T07:40:50.396Z",
+  "generatedAt": "2026-06-06T09:54:23.080Z",
   "date": "04-06-2026",
   "count": 41,
   "summary": null,
@@ -290,6 +290,31 @@
       "points": 0
     },
     {
+      "id": "arxiv_2606.06492v1",
+      "title": "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution",
+      "url": "https://arxiv.org/abs/2606.06492v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-06-04T17:59:46Z",
+      "abstract": "Code language models need repository-level context to resolve imports, APIs, and project conventions. Existing methods inject this knowledge as long inputs (retrieved through RAG or dependency analysi",
+      "authors": [
+        "Liliana Hotsko",
+        "Yinxi Li",
+        "Yuntian Deng",
+        "Pengyu Nie"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "arxiv_2606.06491v1",
       "title": "TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies",
       "url": "https://arxiv.org/abs/2606.06491v1",
@@ -304,6 +329,31 @@
         "Tianqi Zhang",
         "Jiaqi Liu",
         "Huaxiu Yao"
+      ],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2606.06486v1",
+      "title": "Regret Minimization with Adaptive Opponents in Repeated Games",
+      "url": "https://arxiv.org/abs/2606.06486v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-06-04T17:59:08Z",
+      "abstract": "In this paper, we study regret minimization in repeated games with \\emph{adaptive} opponents who can respond based on histories of play. The standard metric of \\emph{external regret} in online learnin",
+      "authors": [
+        "Mingyang Liu",
+        "Asuman Ozdaglar",
+        "Tiancheng Yu",
+        "Kaiqing Zhang"
       ],
       "tags": [],
       "score": 4,
@@ -852,50 +902,6 @@
       "authors": [],
       "tags": [
         "gpt"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Miso Labs Releases MisoTTS: An 8B Emotive Text-to-Speech Model with Open Weights",
-      "url": "https://www.marktechpost.com/2026/06/04/miso-labs-releases-misotts-an-8b-emotive-text-to-speech-model-with-open-weights/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-06-04T08:11:05.000Z",
-      "abstract": "Miso Labs has released MisoTTS, an open-weights 8B text-to-speech model. It uses residual vector quantization (RVQ) to scale its sonic range without scaling parameters, and conditions on both text and",
-      "authors": [],
-      "tags": [
-        "speech"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Meet OpenJarvis: A Local-First Framework for On-Device Personal AI Agents with Tools, Memory, and Learning",
-      "url": "https://www.marktechpost.com/2026/06/03/meet-openjarvis-a-local-first-framework-for-on-device-personal-ai-agents-with-tools-memory-and-learning/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-06-04T06:23:10.000Z",
-      "abstract": "Stanford researchers released OpenJarvis, an open-source framework that runs inference, agents, memory, and learning entirely on-device. It decomposes a personal AI system into five composable primiti",
-      "authors": [],
-      "tags": [
-        "agent"
       ],
       "score": 8,
       "priority": "HIGH",
