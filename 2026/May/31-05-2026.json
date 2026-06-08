@@ -1,26 +1,25 @@
 {
-  "generatedAt": "2026-06-08T09:10:17.689Z",
+  "generatedAt": "2026-06-08T13:48:00.186Z",
   "date": "31-05-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2603.16142",
-      "title": "Parametric Social Identity Injection and Diversification in Public Opinion Simulation",
-      "url": "https://huggingface.co/papers/2603.16142",
+      "id": "hf_paper_2606.01838",
+      "title": "LayerRoute: Input-Conditioned Adaptive Layer Skipping via LoRA Fine-Tuning for Agentic Language Models",
+      "url": "https://huggingface.co/papers/2606.01838",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-31T20:00:00.000Z",
-      "abstract": "Large language models (LLMs) have recently been adopted as synthetic agents for public opinion simulation, offering a promising alternative to costly and slow human surveys. Despite their scalability,",
+      "abstract": "Agentic language model systems alternate between two structurally distinct step types: structured tool calls (short, deterministic, low perplexity) and open-ended planning/reasoning steps (long, compl",
       "authors": [
-        "Hexi Wang",
-        "Yujia Zhou",
-        "Bangde Du",
-        "Qingyao Ai",
-        "Yiqun Liu"
+        "Prateek Kumar Sikdar"
       ],
-      "tags": [],
+      "tags": [
+        "agent",
+        "fine-tuning"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
