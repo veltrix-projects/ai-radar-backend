@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T21:44:24.835Z",
+  "generatedAt": "2026-06-08T23:07:37.382Z",
   "date": "04-06-2026",
   "count": 15,
   "summary": null,
@@ -17,6 +17,30 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.06843",
+      "title": "Empirical Study on the Characteristics and Evolution of AI-usage in GitHub Repositories: Evidence from Code Comments",
+      "url": "https://huggingface.co/papers/2606.06843",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-04T20:00:00.000Z",
+      "abstract": "Developers increasingly use AI tools such as ChatGPT, Copilot, and Claude in everyday software workflows, but prior studies often evaluate LLM outputs in isolation rather than examining how developers",
+      "authors": [
+        "Abdullah Al Mujahid",
+        "Preetha Chatterjee",
+        "Mia Mohammad Imran"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -87,29 +111,6 @@
       "abstract": "Harmony is a compact symbolic layer where mathematical pitch relations, acoustic consonance, and musical convention meet. This report treats chord-symbol sequences not as a complete representation of",
       "authors": [
         "Jinju Lee"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.07207",
-      "title": "Entropy as a Structural Prior: How a Log-Barrier on DiT Belief Space Drives Musical Diversity and Development",
-      "url": "https://huggingface.co/papers/2606.07207",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-04T20:00:00.000Z",
-      "abstract": "Confidence-based loss weighting is usually avoided in generative models because it accelerates errors when the model is confidently wrong, but this intuition breaks down in supervised diffusion traini",
-      "authors": [
-        "Zixi Li",
-        "Youzhen Li"
       ],
       "tags": [],
       "score": 6,
