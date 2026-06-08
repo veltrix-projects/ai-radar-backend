@@ -1,9 +1,32 @@
 {
-  "generatedAt": "2026-06-08T13:48:00.188Z",
+  "generatedAt": "2026-06-08T17:17:22.838Z",
   "date": "26-05-2026",
-  "count": 3,
+  "count": 4,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.28640",
+      "title": "Augmenting Attention with Exponentially Decaying Memory Improves Query-Aware KV Sparsity",
+      "url": "https://huggingface.co/papers/2605.28640",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-26T20:00:00.000Z",
+      "abstract": "Efficient inference is critical for long-context language models, where attention computation and KV-cache access dominate the cost. Recent work RAT+, introduces a recurrence-augmented attention backb",
+      "authors": [
+        "Xiuying Wei",
+        "Caglar Gulcehre"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
       "title": "Rethinking organizational design in the age of agentic AI",
