@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-06-08T17:17:22.838Z",
+  "generatedAt": "2026-06-08T19:37:48.277Z",
   "date": "26-05-2026",
-  "count": 4,
+  "count": 5,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.28742",
+      "title": "CORE: Contrastive Reflection Enables Rapid Improvements in Reasoning",
+      "url": "https://huggingface.co/papers/2605.28742",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-26T20:00:00.000Z",
+      "abstract": "Language models can use verifiable rewards to improve at a wide variety of reasoning tasks. However, both parametric (e.g. RLVR) and non-parametric (e.g. prompt optimization) approaches to doing so ty",
+      "authors": [
+        "Linas Nasvytis",
+        "Simon Jerome Han",
+        "Ben Prystawski",
+        "Satchel Grant",
+        "Noah D. Goodman"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2605.28640",
       "title": "Augmenting Attention with Exponentially Decaying Memory Improves Query-Aware KV Sparsity",
