@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-06-03T05:23:00.772Z",
+  "generatedAt": "2026-06-08T04:13:06.532Z",
   "date": "24-05-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2605.26248",
-      "title": "Unified Neural Scaling Laws",
-      "url": "https://huggingface.co/papers/2605.26248",
+      "id": "hf_paper_2605.26046",
+      "title": "When Gradients Collide: Failure Modes of Multi-Objective Prompt Optimization for LLM Judges",
+      "url": "https://huggingface.co/papers/2605.26046",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-24T20:00:00.000Z",
-      "abstract": "We present a functional form (that we refer to as a Unified Neural Scaling Law (UNSL)) that accurately models and extrapolates the scaling behaviors of deep neural networks as multiple dimensions all",
+      "abstract": "Customizing an LLM judge to a specific task or domain often involves optimizing its prompt across multiple evaluation criteria simultaneously. Textual gradient methods automate this for a single judge",
       "authors": [
-        "Ethan Caballero",
-        "Priyank Jaini",
-        "David Krueger",
-        "Irina Rish"
+        "Parth Darshan",
+        "Abhishek Divekar"
       ],
-      "tags": [],
+      "tags": [
+        "llm"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

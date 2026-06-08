@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-07T22:54:28.839Z",
+  "generatedAt": "2026-06-08T04:13:06.521Z",
   "date": "03-06-2026",
-  "count": 19,
+  "count": 27,
   "summary": null,
   "items": [
     {
@@ -291,6 +291,151 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2606.06476",
+      "title": "Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators",
+      "url": "https://huggingface.co/papers/2606.06476",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-03T20:00:00.000Z",
+      "abstract": "While Vision-Language Models (VLMs) have shown strong visual reasoning capabilities, their spatial reasoning abilities remain largely constrained to the observed images and text-oriented chain-of-thou",
+      "authors": [
+        "Chenming Zhu",
+        "Jingli Lin",
+        "Yilin Long",
+        "Peizhou Cao",
+        "Tai Wang"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.05761",
+      "title": "SubtleMemory: A Benchmark for Fine-Grained Relational Memory Discrimination in Long-Horizon AI Agents",
+      "url": "https://huggingface.co/papers/2606.05761",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-03T20:00:00.000Z",
+      "abstract": "Persistent AI assistants, such as OpenClaw, accumulate large collections of related memories over long-term interactions. As these memories grow, they may reinforce one another, diverge across context",
+      "authors": [
+        "Wenxuan Wang",
+        "Haoyu Sun",
+        "Fukuan Hou",
+        "Mingyang Song",
+        "Weinan Zhang"
+      ],
+      "tags": [
+        "agent",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.05806",
+      "title": "When Tools Fail: Benchmarking Dynamic Replanning and Anomaly Recovery in LLM Agents",
+      "url": "https://huggingface.co/papers/2606.05806",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-03T20:00:00.000Z",
+      "abstract": "Existing benchmarks evaluate Tool-Integrated Reasoning (TIR) in LLMs on idealized ''happy paths'', largely overlooking real-world tool failures. We introduce ToolMaze, a benchmark for dynamic path dis",
+      "authors": [
+        "Dongsheng Zhu",
+        "Xuchen Ma",
+        "Yucheng Shen",
+        "Xiang Li",
+        "Yukun Zhao"
+      ],
+      "tags": [
+        "llm",
+        "agent",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.06538",
+      "title": "WorldBench: A Challenging and Visually Diverse Multimodal Reasoning Benchmark",
+      "url": "https://huggingface.co/papers/2606.06538",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-03T20:00:00.000Z",
+      "abstract": "In real-world applications, models are expected to perform reliably across diverse settings. Yet, many existing multimodal benchmarks expand task types without capturing the visual diversity needed to",
+      "authors": [
+        "Yida Yin",
+        "Harish Krishnakumar",
+        "Chung Peng Lee",
+        "Boya Zeng",
+        "Wenhao Chai"
+      ],
+      "tags": [
+        "multimodal",
+        "benchmark"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.06741",
+      "title": "OpenSkill: Open-World Self-Evolution for LLM Agents",
+      "url": "https://huggingface.co/papers/2606.06741",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-03T20:00:00.000Z",
+      "abstract": "Self-evolving agents requires adaptation after deployment, but existing approaches assume a usable learning loop, such as curated skills, successful trajectories, or verifier signals. Real open-world",
+      "authors": [
+        "Zhiling Yan",
+        "Dingjie Song",
+        "Hanrong Zhang",
+        "Wei Liang",
+        "Yuxuan Zhang"
+      ],
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Ft",
       "title": "The next chapter in flood resilience: Open sourcing Google’s hydrology framework",
       "url": "https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/",
@@ -395,6 +540,26 @@
       "points": 0
     },
     {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "How E.ON uses SAP S/4HANA to modernise the grid with AI",
+      "url": "https://www.artificialintelligence-news.com/news/how-e-on-uses-sap-s-4hana-to-modernise-the-grid-with-ai/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-06-03T12:29:42.000Z",
+      "abstract": "Standardising grid data through SAP S/4HANA allows E.ON to modernise infrastructure and execute AI deployments. The utility giant manages infrastructure across three distinct domains: energy grids, cu",
+      "authors": [],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fwasme",
       "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
       "url": "https://openai.com/index/wasmer",
@@ -448,6 +613,48 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "Walmart&#8217;s AI workflows meet the realities of the balance sheet",
+      "url": "https://www.artificialintelligence-news.com/news/walmart-limits-ai-use-as-workflows-meet-the-realities-of-the-balance-sheet/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-06-03T09:33:00.000Z",
+      "abstract": "Walmart has reportedly begun limiting employees&#8217; use of an internal AI assistant called Code Puppy after demands placed on the LLM backing the tool were higher than expected. Employees of Walmar",
+      "authors": [],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "Microsoft&#8217;s Majorana 2 quantum chip is also a case study for agentic AI in R&#038;D",
+      "url": "https://www.artificialintelligence-news.com/news/microsoft-discovery-agentic-ai-majorana-2/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-06-03T09:00:00.000Z",
+      "abstract": "Microsoft&#8217;s Majorana 2 quantum chiparrived this week, with numbers that are genuinely difficult to contextualise: qubits 1,000 times more reliable than those of the first generation models, a me",
+      "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
