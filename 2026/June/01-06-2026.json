@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-09T15:33:49.788Z",
+  "generatedAt": "2026-06-09T17:53:05.949Z",
   "date": "01-06-2026",
-  "count": 7,
+  "count": 4,
   "summary": null,
   "items": [
     {
@@ -53,33 +53,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.03715",
-      "title": "Text-to-Image Models Need Less from Text Encoders Than You Think",
-      "url": "https://huggingface.co/papers/2606.03715",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-01T20:00:00.000Z",
-      "abstract": "Text-to-image models rely on text prompts as their primary interface to human intent. Prompts are encoded by a text encoder into embeddings that condition the image generation process. Beyond individu",
-      "authors": [
-        "Nurit Spingarn",
-        "Noa Cohen",
-        "Tamar Rott Shaham",
-        "Tomer Michaeli"
-      ],
-      "tags": [
-        "text-to-image"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "How to Post-Train Autonomous Vehicle Models in Closed-Loop with NVIDIA Alpamayo",
       "url": "https://developer.nvidia.com/blog/how-to-post-train-autonomous-vehicle-models-in-closed-loop-with-nvidia-alpamayo/",
@@ -112,50 +85,6 @@
       "abstract": "Physical AI systems must understand the real world before they can act within it. Robots, autonomous vehicles, and smart spaces need to understand what's...]]>",
       "authors": [],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
-      "title": "Advancing AI Infrastructure for Agentic AI with NVIDIA DOCA In-Silicon Security",
-      "url": "https://developer.nvidia.com/blog/advancing-ai-infrastructure-for-agentic-ai-with-nvidia-doca-in-silicon-security/",
-      "source": "NVIDIA Blog",
-      "sourceIcon": "🟩",
-      "type": "tool",
-      "timestamp": "2026-06-01T04:21:42.000Z",
-      "abstract": "The AI era is driving a new class of infrastructure: AI factories that transform data into intelligence for autonomous AI agents operating at unprecedented...]]>",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
-      "title": "NVIDIA Vera CPU Sets a New Standard for Agentic Workloads in AI Factories",
-      "url": "https://developer.nvidia.com/blog/nvidia-vera-cpu-sets-a-new-standard-for-agentic-workloads-in-ai-factories/",
-      "source": "NVIDIA Blog",
-      "sourceIcon": "🟩",
-      "type": "tool",
-      "timestamp": "2026-06-01T03:59:15.000Z",
-      "abstract": "Each wave of AI has created a new scaling law. Pretraining scaled intelligence through larger datasets, more parameters, and massively parallel GPU systems....]]>",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",

@@ -1,37 +1,9 @@
 {
-  "generatedAt": "2026-06-09T15:33:49.787Z",
+  "generatedAt": "2026-06-09T17:53:05.947Z",
   "date": "03-06-2026",
-  "count": 13,
+  "count": 11,
   "summary": null,
   "items": [
-    {
-      "id": "hf_paper_2606.05633",
-      "title": "Answer Presence Drives RAG Rewriting Gains",
-      "url": "https://huggingface.co/papers/2606.05633",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-03T23:00:42.000Z",
-      "abstract": "Retrieval-augmented QA pipelines often route retrieved passages through an LLM rewriter before a smaller reader, lifting F1 by tens of points on multi-hop benchmarks; this gain is typically credited t",
-      "authors": [
-        "Yuejie Li",
-        "Yueying Hua",
-        "Ke Yang",
-        "Li Zhang",
-        "Yueping He"
-      ],
-      "tags": [
-        "rag"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
       "title": "How to build self-driving AI operations on Amazon Bedrock at scale",
@@ -133,26 +105,6 @@
       "type": "tool",
       "timestamp": "2026-06-03T17:55:37.000Z",
       "abstract": "In this post, we show you how to get started with NEXUS on Amazon SageMaker JumpStart, walk through the deployment process, and demonstrate how to run predictions against your enterprise datasets.",
-      "authors": [],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Reducing container cold start times using SOCI index on DLAMI and DLC",
-      "url": "https://aws.amazon.com/blogs/machine-learning/reducing-container-cold-start-times-using-soci-index-on-dlami-and-dlc/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-06-03T16:26:35.000Z",
-      "abstract": "In this post, we look at how to use SOCI on publicly available Deep Learning AMIs and Containers, when to use the various SOCI modes provided by the tool, and how to quickly and efficiently use this t",
       "authors": [],
       "tags": [],
       "score": 6,

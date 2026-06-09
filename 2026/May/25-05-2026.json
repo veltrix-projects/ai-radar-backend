@@ -1,26 +1,25 @@
 {
-  "generatedAt": "2026-06-08T17:17:22.839Z",
+  "generatedAt": "2026-06-09T17:53:05.952Z",
   "date": "25-05-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2605.27276",
-      "title": "SIA: Self Improving AI with Harness & Weight Updates",
-      "url": "https://huggingface.co/papers/2605.27276",
+      "id": "hf_paper_2605.27130",
+      "title": "DEI: Diversity in Evolutionary Inference for Quality-Diversity Search",
+      "url": "https://huggingface.co/papers/2605.27130",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-25T20:00:00.000Z",
-      "abstract": "Humans are the bottleneck in building and improving AI. Both the models and the agents that wrap them are written, tuned, and corrected by people. The long-horizon goal of an AI that can figure out ho",
+      "abstract": "We present DEI: Diversity in Evolutionary Inference, a distributed Quality-Diversity (QD) search framework that assigns heterogeneous large language models (LLMs) as mutation operators across peer nod",
       "authors": [
-        "Prannay Hebbar",
-        "Yogendra Manawat",
-        "Samuel Verboomen",
-        "Alesia Ivanova",
-        "Selvam Palanimalai"
+        "John Donaghy",
+        "Shikhar Rastogi"
       ],
-      "tags": [],
+      "tags": [
+        "inference"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
