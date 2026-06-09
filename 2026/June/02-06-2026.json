@@ -1,9 +1,62 @@
 {
-  "generatedAt": "2026-06-09T05:38:38.236Z",
+  "generatedAt": "2026-06-09T09:23:48.022Z",
   "date": "02-06-2026",
-  "count": 6,
+  "count": 7,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2606.05122",
+      "title": "Self-Evaluation Is Already There: Eliciting Latent Judge Calibration in Base LLMs with Minimal Data",
+      "url": "https://huggingface.co/papers/2606.05122",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-02T20:00:00.000Z",
+      "abstract": "Large language models are increasingly evaluated by other models, raising a natural question: can a model predict how a judge will score its own output? We find that the ability is largely present bef",
+      "authors": [
+        "XiuYu Zhang",
+        "Yi Shan",
+        "Junfeng Fang",
+        "Zhenkai Liang"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.04662",
+      "title": "Why Muon Outperforms Adam: A Curvature Perspective",
+      "url": "https://huggingface.co/papers/2606.04662",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-02T20:00:00.000Z",
+      "abstract": "Muon improves training efficiency over Adam in large language-model training by about two times, but the local geometric source of this advantage remains unclear. Our work takes a first step toward de",
+      "authors": [
+        "Shuche Wang",
+        "Fengzhuo Zhang",
+        "Jiaxiang Li",
+        "Dirk Bergemann",
+        "Zhuoran Yang"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "Build Personal AI Agents on Windows PCs with New Tools from Microsoft and NVIDIA",
@@ -17,26 +70,6 @@
       "tags": [
         "agent"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "Anthropic IPO filing marks AI maturing into enterprise utility",
-      "url": "https://www.artificialintelligence-news.com/news/anthropic-ipo-filing-marks-ai-maturing-enterprise-utility/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-06-02T18:04:03.000Z",
-      "abstract": "Anthropic&#8217;s IPO filing marks the maturation of generative AI from a research-heavy venture phase into a stabilised enterprise utility. Model developers operating in private markets have prioriti",
-      "authors": [],
-      "tags": [],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",

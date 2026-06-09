@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-09T05:38:38.237Z",
+  "generatedAt": "2026-06-09T09:23:48.022Z",
   "date": "01-06-2026",
-  "count": 5,
+  "count": 8,
   "summary": null,
   "items": [
     {
@@ -20,6 +20,89 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.03715",
+      "title": "Text-to-Image Models Need Less from Text Encoders Than You Think",
+      "url": "https://huggingface.co/papers/2606.03715",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-01T20:00:00.000Z",
+      "abstract": "Text-to-image models rely on text prompts as their primary interface to human intent. Prompts are encoded by a text encoder into embeddings that condition the image generation process. Beyond individu",
+      "authors": [
+        "Nurit Spingarn",
+        "Noa Cohen",
+        "Tamar Rott Shaham",
+        "Tomer Michaeli"
+      ],
+      "tags": [
+        "text-to-image"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.03980",
+      "title": "Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill",
+      "url": "https://huggingface.co/papers/2606.03980",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-01T20:00:00.000Z",
+      "abstract": "Reward models (RMs) provide critical feedback signals for LLM post-training, notably in reinforced fine-tuning (RFT) and reinforcement learning (RL) pipelines. However, current reward evaluation relie",
+      "authors": [
+        "Tao Chen",
+        "Gangwei Jiang",
+        "Pengyu Cheng",
+        "Siyuan Huang",
+        "Yihao Liu"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.06523",
+      "title": "Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory",
+      "url": "https://huggingface.co/papers/2606.06523",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-01T20:00:00.000Z",
+      "abstract": "Equipping Large Language Models (LLMs) to execute reliable multi-step workflows has become a central challenge in artificial intelligence. Despite recent advances in LLMs' agentic capabilities, most a",
+      "authors": [
+        "Ruida Wang",
+        "Jerry Huang",
+        "Pengcheng Wang",
+        "Xuanqing Liu",
+        "Luyang Kong"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

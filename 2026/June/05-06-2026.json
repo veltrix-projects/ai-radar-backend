@@ -1,59 +1,25 @@
 {
-  "generatedAt": "2026-06-09T05:38:38.234Z",
+  "generatedAt": "2026-06-09T09:23:48.020Z",
   "date": "05-06-2026",
-  "count": 9,
+  "count": 7,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2606.08348",
-      "title": "Bayesian-Agent: Posterior-Guided Skill Evolution for LLM Agent Harnesses",
-      "url": "https://huggingface.co/papers/2606.08348",
+      "id": "hf_paper_2606.08327",
+      "title": "Chiaroscuro Attention: Spending Compute in the Dark",
+      "url": "https://huggingface.co/papers/2606.08327",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-05T20:00:00.000Z",
-      "abstract": "LLM agents increasingly rely on external inference conditions: prompts, tools, memory, SOPs, skills, and harness feedback. These assets can improve task execution without changing model weights, but t",
+      "abstract": "Standard transformers apply self-attention uniformly at every layer and token, regardless of whether the input requires dynamic cross-token interaction. We propose CHIAR-Former (Chiaroscuro Attention)",
       "authors": [
-        "Xiaojun Wu",
-        "Cehao Yang",
-        "Honghao Liu",
-        "Xueyuan Lin",
-        "Wenjie Zhang"
+        "Prateek Kumar Sikdar"
       ],
-      "tags": [
-        "llm",
-        "agent"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.08324",
-      "title": "Set-Based Transformer for Atmospheric Compensation in Standoff LWIR Hyperspectral Imaging",
-      "url": "https://huggingface.co/papers/2606.08324",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-05T20:00:00.000Z",
-      "abstract": "Passive long-wave infrared (LWIR) hyperspectral imaging under a standoff geometry depends on atmospheric absorption and emission, as well as reflected radiance, thus making atmospheric compensation es",
-      "authors": [
-        "Fabian Perez",
-        "Nicolas Quintero",
-        "Jeferson Acevedo",
-        "Hoover Rueda-Chacon"
-      ],
-      "tags": [
-        "transformer"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -133,28 +99,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "How C3 AI agents will automate predictive maintenance for Shell",
-      "url": "https://www.artificialintelligence-news.com/news/how-c3-ai-agents-will-automate-predictive-maintenance-for-shell/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-06-05T11:34:09.000Z",
-      "abstract": "Shell will use agents from C3 AI to shift from basic anomaly detection towards fully-automated predictive maintenance. The global energy giant is building on their current use of the C3 AI Reliability",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

@@ -1,30 +1,25 @@
 {
-  "generatedAt": "2026-06-08T04:13:06.525Z",
+  "generatedAt": "2026-06-09T09:23:48.023Z",
   "date": "30-05-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2606.01317",
-      "title": "SABER: Benchmarking Operational Safety of LLM Coding Agents in Stateful Project Workspaces",
-      "url": "https://huggingface.co/papers/2606.01317",
+      "id": "hf_paper_2605.29463",
+      "title": "Honest Lying: Understanding Memory Confabulation in Reflexive Agents",
+      "url": "https://huggingface.co/papers/2605.29463",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-30T20:00:00.000Z",
-      "abstract": "Large language models are increasingly deployed as coding agents, shifting safety from individual responses to action sequences. Existing benchmarks, however, primarily assess whether models refuse un",
+      "abstract": "Reflexion-style agents rely on self-generated reflections as memory, implicitly assuming that agents can accurately diagnose their own failures. We show that this assumption can fail systematically: a",
       "authors": [
-        "Qi Hu",
-        "Yifeng Tang",
-        "Qinghua Wang",
-        "Lanyang Zhao",
-        "Pengji Zhang"
+        "Prakhar Dixit",
+        "Sadia Kamal",
+        "Tim Oates"
       ],
       "tags": [
-        "llm",
-        "agent",
-        "benchmark",
-        "safety"
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",

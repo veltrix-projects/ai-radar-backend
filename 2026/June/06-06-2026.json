@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-09T05:38:38.234Z",
+  "generatedAt": "2026-06-09T09:23:48.019Z",
   "date": "06-06-2026",
-  "count": 8,
+  "count": 5,
   "summary": null,
   "items": [
     {
@@ -27,73 +27,21 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.08432",
-      "title": "Trajectory-Refined Distillation",
-      "url": "https://huggingface.co/papers/2606.08432",
+      "id": "hf_paper_2606.08481",
+      "title": "PIPE-Cypher: Automatic Enterprise Benchmark Generation for Text-to-Cypher Systems",
+      "url": "https://huggingface.co/papers/2606.08481",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-06T20:00:00.000Z",
-      "abstract": "On-policy distillation (OPD) has become a central post-training tool for large language models (LLMs), providing dense per-token teacher supervision along the student's own rollouts. In this work, we",
+      "abstract": "Enterprise property graphs vary widely in schema structure, internal terminology, domain assumptions, governance constraints, and user interaction patterns. A deployment-relevant Text2Cypher benchmark",
       "authors": [
-        "Li Jiang",
-        "Haoran Xu",
-        "Yichuan Ding",
-        "Amy Zhang"
+        "Suraj Ranganath",
+        "Anish Raghavendra"
       ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.08548",
-      "title": "OASIS: From Simulation Data Collection to Real-World Humanoid Loco-Manipulation",
-      "url": "https://huggingface.co/papers/2606.08548",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-06T20:00:00.000Z",
-      "abstract": "Recent progress in robot manipulation has been largely driven by learning from large-scale demonstrations. For humanoid robot loco-manipulation tasks, however, existing data sources force an unsatisfy",
-      "authors": [
-        "Zehao Yu",
-        "Jiakun Zheng",
-        "Weiji Xie",
-        "Jiyuan Shi",
-        "Chenyun Zhang"
+      "tags": [
+        "benchmark"
       ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.08415",
-      "title": "CoVEBench: Can Video Editing Models Handle Complex Instructions?",
-      "url": "https://huggingface.co/papers/2606.08415",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-06T20:00:00.000Z",
-      "abstract": "While recent text-guided video editing models excel at elementary tasks (e.g., style transfer, object insertion), real-world user requests are highly compositional. A single prompt often demands multi",
-      "authors": [
-        "Jiangtao Wu",
-        "Jiaming Wang",
-        "Yiwen He",
-        "Yuanxing Zhang",
-        "Shihao Li"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -156,28 +104,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Moonshot AI Releases Kimi Code CLI: A Terminal AI Coding Agent Built in TypeScript for Next-Gen Agents",
-      "url": "https://www.marktechpost.com/2026/06/06/moonshot-ai-releases-kimi-code-cli-a-terminal-ai-coding-agent-built-in-typescript-for-next-gen-agents/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-06-06T09:11:08.000Z",
-      "abstract": "Kimi Code CLI is Moonshot AI's open-source terminal coding agent, written in TypeScript with subagents and MCP configuration.\nThe post Moonshot AI Releases Kimi Code CLI: A Terminal AI Coding Agent Bu",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

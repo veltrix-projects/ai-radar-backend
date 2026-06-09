@@ -1,31 +1,29 @@
 {
-  "generatedAt": "2026-06-01T04:00:33.479Z",
+  "generatedAt": "2026-06-09T09:23:48.027Z",
   "date": "20-05-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2605.22765",
-      "title": "Uniform Diffusion Models Revisited: Leave-One-Out Denoiser and Absorbing State Reformulation",
-      "url": "https://huggingface.co/papers/2605.22765",
+      "id": "hf_paper_2605.24047",
+      "title": "EMMA: Extracting Multiple physical parameters from Multimodal Data",
+      "url": "https://huggingface.co/papers/2605.24047",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-20T20:00:00.000Z",
-      "abstract": "Discrete diffusion models are often trained through clean-data prediction, but the prediction can be used in different ways to define the reverse dynamics. In Masked Diffusion Models (MDM) these choic",
+      "abstract": "We introduce EMMA, a physics-informed multimodal framework that recovers all identifiable dynamical parameters of a system directly from raw video, audio, and image-based time-series observations. Unl",
       "authors": [
-        "Samson Gourevitch",
-        "Yazid Janati",
-        "Dario Shariatian",
-        "Umut Simsekli",
-        "Eric Moulines"
+        "Farhat Shaikh",
+        "Ayan Banerjee",
+        "Sandeep Gupta"
       ],
       "tags": [
-        "diffusion"
+        "multimodal"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
