@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-06-09T12:19:21.711Z",
+  "generatedAt": "2026-06-09T15:33:49.790Z",
   "date": "26-05-2026",
-  "count": 2,
+  "count": 3,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2605.28207",
+      "title": "Pruning and Distilling Mixture-of-Experts into Dense Language Models",
+      "url": "https://huggingface.co/papers/2605.28207",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-26T20:00:00.000Z",
+      "abstract": "Mixture-of-Experts (MoE) is now the dominant architecture for frontier language models, yet it requires all expert parameters to be loaded in memory, making it less preferable for memory-constrained d",
+      "authors": [
+        "Junhyuck Kim",
+        "Jihun Yun",
+        "Haechan Kim",
+        "Gyeongman Kim",
+        "Joonghyun Bae"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
       "title": "Rethinking organizational design in the age of agentic AI",

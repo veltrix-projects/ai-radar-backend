@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-06-09T12:19:21.707Z",
+  "generatedAt": "2026-06-09T15:33:49.786Z",
   "date": "05-06-2026",
-  "count": 7,
+  "count": 12,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2606.08362",
+      "title": "EmpiriGraph-Psy: A Dataset and LLM Pipeline for Extracting Empirical Relation Graphs from Psychology Abstracts",
+      "url": "https://huggingface.co/papers/2606.08362",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-05T20:00:00.000Z",
+      "abstract": "Existing scientific relation extraction benchmarks mainly target domains such as computer science, where entities are tasks, methods, datasets, materials, or metrics. This leaves a gap in variable-ori",
+      "authors": [
+        "Danqin Zhao",
+        "Yicun Liu",
+        "Xingwei Tan",
+        "Thomas T. Hills"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2606.08327",
       "title": "Chiaroscuro Attention: Spending Compute in the Dark",
@@ -107,6 +134,56 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2606.07436",
+      "title": "Skill-3D: Evolving Scene-Aware Skills for Agentic 3D Spatial Reasoning",
+      "url": "https://huggingface.co/papers/2606.07436",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-05T12:33:44.000Z",
+      "abstract": "This paper explores agentic 3D spatial understanding, i.e., MLLM agents performing 3D reasoning through tool use. Existing methods often misuse tools and exhibit biased tool preferences under 3D scena",
+      "authors": [
+        "Haoyuan Li",
+        "Zhengdong Hu",
+        "Jun Wang",
+        "Hehe Fan",
+        "Yi Yang"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "How C3 AI agents will automate predictive maintenance for Shell",
+      "url": "https://www.artificialintelligence-news.com/news/how-c3-ai-agents-will-automate-predictive-maintenance-for-shell/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-06-05T11:34:09.000Z",
+      "abstract": "Shell will use agents from C3 AI to shift from basic anomaly detection towards fully-automated predictive maintenance. The global energy giant is building on their current use of the C3 AI Reliability",
+      "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Fu",
       "title": "Unlocking dependable responses with Gemini Enterprise Agent Platform’s Agentic RAG",
       "url": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/",
@@ -131,6 +208,30 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2606.07271",
+      "title": "Where Rectified Flows Leak: Characterising Membership Signals Along the Interpolation Path",
+      "url": "https://huggingface.co/papers/2606.07271",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-05T09:46:37.000Z",
+      "abstract": "Understanding what generative models retain from training data remains challenging, with implications for copyright and privacy. Beyond verbatim reproduction, models can encode subtler traces of their",
+      "authors": [
+        "Thomas Sesmat",
+        "Gabriel Meseguer-Brocal",
+        "Geoffroy Peeters"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
       "title": "The Meta hack shows there’s more to AI security than Mythos",
       "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
@@ -143,6 +244,34 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.07098",
+      "title": "SigmaScale: LLM Compression with SVD-based Low-Rank Decomposition and Learned Scaling Matrices",
+      "url": "https://huggingface.co/papers/2606.07098",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-05T05:48:58.000Z",
+      "abstract": "We present SigmaScale, a method for learning auxiliary scaling matrices S to aid truncated Singular Value Decomposition (SVD) based Large Language Model (LLM) compression. Instead of deriving scaling",
+      "authors": [
+        "Ernests Lavrinovics",
+        "Marco Letizia",
+        "Roy Janco",
+        "Shai Segal",
+        "Johannes Bjerva"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

@@ -1,29 +1,32 @@
 {
-  "generatedAt": "2026-05-18T20:09:34.115Z",
+  "generatedAt": "2026-06-09T15:33:49.795Z",
   "date": "03-05-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2605.02290",
-      "title": "Distilling Long-CoT Reasoning through Collaborative Step-wise Multi-Teacher Decoding",
-      "url": "https://huggingface.co/papers/2605.02290",
+      "id": "hf_paper_2606.07547",
+      "title": "Liberating LLM Capabilities in Full-Duplex Speech Models",
+      "url": "https://huggingface.co/papers/2606.07547",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-03T20:00:00.000Z",
-      "abstract": "Distilling large reasoning models is essential for making Long-CoT reasoning practical, as full-scale inference remains computationally prohibitive. Existing curation-based approaches select complete",
+      "abstract": "Speech-based large language models are typically constrained to spoken replies, which limits their user-facing outputs to what can be verbalized and suppresses text-native capabilities such as code ge",
       "authors": [
-        "Taewon Yun",
-        "Jisu Shin",
-        "Jeonghwan Choi",
-        "Seunghwan Bang",
-        "Hwanjun Song"
+        "Luoyuan Zhang",
+        "Bokai Xu",
+        "Junbo Cui",
+        "Weiyue Sun",
+        "Yingjing Xu"
       ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "tags": [
+        "llm",
+        "speech"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

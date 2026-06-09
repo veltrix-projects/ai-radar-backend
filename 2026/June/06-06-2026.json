@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T12:19:21.707Z",
+  "generatedAt": "2026-06-09T15:33:49.785Z",
   "date": "06-06-2026",
   "count": 3,
   "summary": null,
@@ -33,13 +33,13 @@
       "points": 0
     },
     {
-      "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fai-arti",
-      "title": "The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center",
-      "source": "The Verge AI",
-      "sourceIcon": "🔺",
+      "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fscientis",
+      "title": "Scientists Discover Hidden Symmetry on Earth That Nobody Can Explain",
+      "url": "https://www.404media.co/scientists-discover-hidden-symmetry-on-earth-that-nobody-can-explain/",
+      "source": "404 Media",
+      "sourceIcon": "📡",
       "type": "news",
-      "timestamp": "2026-06-06T15:05:00.000Z",
+      "timestamp": "2026-06-06T13:36:56.000Z",
       "abstract": "",
       "authors": [],
       "tags": [],
@@ -53,18 +53,22 @@
       "points": 0
     },
     {
-      "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fscientis",
-      "title": "Scientists Discover Hidden Symmetry on Earth That Nobody Can Explain",
-      "url": "https://www.404media.co/scientists-discover-hidden-symmetry-on-earth-that-nobody-can-explain/",
-      "source": "404 Media",
-      "sourceIcon": "📡",
-      "type": "news",
-      "timestamp": "2026-06-06T13:36:56.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
+      "id": "hf_paper_2606.08132",
+      "title": "Phase Marginalization for Patch-Grid Instability in Vision Transformers",
+      "url": "https://huggingface.co/papers/2606.08132",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-06T08:15:56.000Z",
+      "abstract": "Vision Transformers operate on fixed patch grids, which can introduce phase-dependent instability for dense prediction: changing the patch partition can change the token evidence available to a pixel,",
+      "authors": [
+        "Oğuzhan Ercan"
+      ],
+      "tags": [
+        "transformer"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
