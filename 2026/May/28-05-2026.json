@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-09T01:25:56.302Z",
+  "generatedAt": "2026-06-09T05:38:38.238Z",
   "date": "28-05-2026",
-  "count": 3,
+  "count": 4,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,34 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2509.10078",
+      "title": "Human Psychometric Questionnaires Mischaracterize LLM Behavior",
+      "url": "https://huggingface.co/papers/2509.10078",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-28T20:00:00.000Z",
+      "abstract": "We examine whether human psychometric questionnaires can serve as reliable tools for characterizing and predicting LLM behavior in everyday user interactions. We analyze eight open-source LLMs by comp",
+      "authors": [
+        "Woojung Song",
+        "Dongmin Choi",
+        "Yoonah Park",
+        "Jongwook Han",
+        "Eun-Ju Lee"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

@@ -1,113 +1,9 @@
 {
-  "generatedAt": "2026-06-09T01:25:56.300Z",
+  "generatedAt": "2026-06-09T05:38:38.236Z",
   "date": "02-06-2026",
-  "count": 9,
+  "count": 6,
   "summary": null,
   "items": [
-    {
-      "id": "hf_paper_2606.03988",
-      "title": "Imaginative Perception Tokens Enhance Spatial Reasoning in Multimodal Language Models",
-      "url": "https://huggingface.co/papers/2606.03988",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-02T20:00:00.000Z",
-      "abstract": "Vision language models (VLMs) excel at many tasks but still struggle with spatial reasoning when critical information is not directly observable. Many such problems require imaginative perception: inf",
-      "authors": [
-        "Mahtab Bigverdi",
-        "Linjie Li",
-        "Weikai Huang",
-        "Yiming Liu",
-        "Jaemin Cho"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.04767",
-      "title": "Measuring Model Robustness via Fisher Information: Spectral Bounds, Theoretical Guarantees, and Practical Algorithms",
-      "url": "https://huggingface.co/papers/2606.04767",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-02T20:00:00.000Z",
-      "abstract": "The robustness of deep neural networks is crucial for safety-critical deployments, yet existing evaluation methods are often attack-dependent and lack interpretability. We propose a principled, attack",
-      "authors": [
-        "Chong Zhang",
-        "Xiang Li",
-        "Jia Wang",
-        "Qiufeng Wang",
-        "Xiaobo Jin"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.05152",
-      "title": "Reinforcement Learning from Rich Feedback with Distributional DAgger",
-      "url": "https://huggingface.co/papers/2606.05152",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-02T20:00:00.000Z",
-      "abstract": "Reasoning models have advanced rapidly, but the dominant reinforcement learning from verifiable rewards (RLVR) recipe remains surprisingly narrow: sample many responses and reward each with a single b",
-      "authors": [
-        "Rishabh Agrawal",
-        "Jacob Fein-Ashley",
-        "Paria Rashidinejad"
-      ],
-      "tags": [
-        "reinforcement learning"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.04525",
-      "title": "GENEB: Why Genomic Models Are Hard to Compare",
-      "url": "https://huggingface.co/papers/2606.04525",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-02T20:00:00.000Z",
-      "abstract": "Progress in genomic foundation models is difficult to assess due to fragmented benchmarks, incompatible evaluation protocols, and task-specific reporting. As a result, claims of superiority or general",
-      "authors": [
-        "Daria Ledneva",
-        "Mikhail Nuridinov",
-        "Denis Kuznetsov"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "Build Personal AI Agents on Windows PCs with New Tools from Microsoft and NVIDIA",
@@ -121,6 +17,26 @@
       "tags": [
         "agent"
       ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "Anthropic IPO filing marks AI maturing into enterprise utility",
+      "url": "https://www.artificialintelligence-news.com/news/anthropic-ipo-filing-marks-ai-maturing-enterprise-utility/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-06-02T18:04:03.000Z",
+      "abstract": "Anthropic&#8217;s IPO filing marks the maturation of generative AI from a research-heavy venture phase into a stabilised enterprise utility. Model developers operating in private markets have prioriti",
+      "authors": [],
+      "tags": [],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
