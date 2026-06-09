@@ -1,38 +1,9 @@
 {
-  "generatedAt": "2026-06-09T17:53:05.945Z",
+  "generatedAt": "2026-06-09T19:56:17.323Z",
   "date": "07-06-2026",
-  "count": 6,
+  "count": 4,
   "summary": null,
   "items": [
-    {
-      "id": "hf_paper_2606.08960",
-      "title": "Hardening Agent Benchmarks with Adversarial Hacker-Fixer Loops",
-      "url": "https://huggingface.co/papers/2606.08960",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-07T23:00:56.000Z",
-      "abstract": "Agent benchmarks score submissions with outcome verifiers that are typically hand-written and brittle, leaving them open to reward hacking. We audit 1,968 tasks across five terminal-agent benchmarks a",
-      "authors": [
-        "Ziqian Zhong",
-        "Ivgeni Segal",
-        "Ivan Bercovich",
-        "Shashwat Saxena",
-        "Kexun Zhang"
-      ],
-      "tags": [
-        "agent",
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
       "title": "Building Reflective Prompt Optimization with GEPA: Multi-Component Prompts, Structured Feedback, and Held-Out Validation",
@@ -122,28 +93,6 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "NVIDIA garak Tutorial: Build a Complete Defensive LLM Red-Teaming Workflow with Custom Probes and Detectors",
-      "url": "https://www.marktechpost.com/2026/06/06/nvidia-garak-tutorial-build-a-complete-defensive-llm-red-teaming-workflow-with-custom-probes-and-detectors/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-06-07T05:11:09.000Z",
-      "abstract": "This tutorial walks through NVIDIA garak as an end-to-end framework for defensive LLM red-teaming. It covers setup, plugin discovery, dry runs, real-model scans on a Hugging Face generator, and multi-",
-      "authors": [],
-      "tags": [
-        "llm"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

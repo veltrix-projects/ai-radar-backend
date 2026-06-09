@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-09T17:53:05.947Z",
+  "generatedAt": "2026-06-09T19:56:17.325Z",
   "date": "03-06-2026",
-  "count": 11,
+  "count": 10,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,34 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.05597",
+      "title": "AsyncWebRL: Efficient Multi-Step RL for Visual Web Agents",
+      "url": "https://huggingface.co/papers/2606.05597",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-03T20:00:00.000Z",
+      "abstract": "Training vision-language web agents with multi-step RL is compute-intensive, with two dominant forms of inefficiency: idle GPUs in synchronous RL, and trajectories that use more steps and tokens than",
+      "authors": [
+        "Hao Bai",
+        "Rui Yang",
+        "Chenlu Ye",
+        "Spencer Whitehead",
+        "Aviral Kumar"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -48,35 +76,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.06087",
-      "title": "LatentSkill: From In-Context Textual Skills to In-Weight Latent Skills for LLM Agents",
-      "url": "https://huggingface.co/papers/2606.06087",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-03T20:00:00.000Z",
-      "abstract": "Agent systems increasingly use textual skills to encode reusable task procedures, but injecting these skills into the prompt at every step incurs substantial context overhead and exposes skill content",
-      "authors": [
-        "Aofan Yu",
-        "Chenyu Zhou",
-        "Tianyi Xu",
-        "Zihan Guo",
-        "Rong Shan"
-      ],
-      "tags": [
-        "llm",
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Ft",
       "title": "The next chapter in flood resilience: Open sourcing Google’s hydrology framework",
       "url": "https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/",
@@ -85,26 +84,6 @@
       "type": "research",
       "timestamp": "2026-06-03T18:37:00.000Z",
       "abstract": "Climate &amp; Sustainability",
-      "authors": [],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Fundamental’s Large Tabular Model NEXUS is now available on Amazon SageMaker JumpStart",
-      "url": "https://aws.amazon.com/blogs/machine-learning/fundamentals-large-tabular-model-nexus-is-now-available-on-amazon-sagemaker-jumpstart/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-06-03T17:55:37.000Z",
-      "abstract": "In this post, we show you how to get started with NEXUS on Amazon SageMaker JumpStart, walk through the deployment process, and demonstrate how to run predictions against your enterprise datasets.",
       "authors": [],
       "tags": [],
       "score": 6,

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-09T17:53:05.946Z",
+  "generatedAt": "2026-06-09T19:56:17.324Z",
   "date": "05-06-2026",
-  "count": 11,
+  "count": 10,
   "summary": null,
   "items": [
     {
@@ -48,28 +48,6 @@
       "tags": [
         "llm"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.08327",
-      "title": "Chiaroscuro Attention: Spending Compute in the Dark",
-      "url": "https://huggingface.co/papers/2606.08327",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-05T20:00:00.000Z",
-      "abstract": "Standard transformers apply self-attention uniformly at every layer and token, regardless of whether the input requires dynamic cross-token interaction. We propose CHIAR-Former (Chiaroscuro Attention)",
-      "authors": [
-        "Prateek Kumar Sikdar"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
