@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-09T09:23:48.020Z",
+  "generatedAt": "2026-06-09T12:19:21.708Z",
   "date": "04-06-2026",
-  "count": 9,
+  "count": 11,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,60 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.07473",
+      "title": "Whisper Hallucination Detection and Mitigation via Hidden Representation Steering and Sparse AutoEncoders",
+      "url": "https://huggingface.co/papers/2606.07473",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-04T20:00:00.000Z",
+      "abstract": "Whisper, a widely adopted ASR model, is known to suffer from hallucinations - coherent transcriptions generated for non-speech audio entirely disconnected from the input. We investigate whether halluc",
+      "authors": [
+        "Georgii Aparin",
+        "Vadim Popov",
+        "Tasnima Sadekova",
+        "Assel Yermekova"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.07074",
+      "title": "SlimSearcher: Training Efficiency-Aware Web Agents via Adaptive Reward Gating",
+      "url": "https://huggingface.co/papers/2606.07074",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-04T20:00:00.000Z",
+      "abstract": "Deep research agents have demonstrated remarkable capabilities in complex information-seeking tasks, yet this power comes at a steep computational cost. Driven by accuracy-focused training paradigms,",
+      "authors": [
+        "Zequn Xie",
+        "Junjie Wang",
+        "Dan Yang",
+        "Jie Feng",
+        "Yue Shen"
+      ],
+      "tags": [
+        "agent",
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

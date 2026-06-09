@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-09T09:23:48.021Z",
+  "generatedAt": "2026-06-09T12:19:21.708Z",
   "date": "03-06-2026",
-  "count": 11,
+  "count": 12,
   "summary": null,
   "items": [
     {
@@ -45,6 +45,29 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.06735",
+      "title": "A Geometric Account of Activation Steering through Angle-Norm Decomposition",
+      "url": "https://huggingface.co/papers/2606.06735",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-03T20:00:00.000Z",
+      "abstract": "Linear activation steering has gained popularity as a simple and empirically effective way to control language model behavior. More recently, spherical steering paradigms have been proposed to address",
+      "authors": [
+        "Georgii Aparin",
+        "Tatiana Gaintseva"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
