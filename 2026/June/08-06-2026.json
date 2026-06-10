@@ -1,9 +1,89 @@
 {
-  "generatedAt": "2026-06-10T10:37:36.918Z",
+  "generatedAt": "2026-06-10T14:17:43.881Z",
   "date": "08-06-2026",
-  "count": 29,
+  "count": 33,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2606.10651",
+      "title": "Kwai Keye-VL-2.0 Technical Report",
+      "url": "https://huggingface.co/papers/2606.10651",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-08T20:00:00.000Z",
+      "abstract": "We introduce Kwai Keye-VL-2.0-30B-A3B, an open-source Mixture-of-Experts (MoE) multimodal foundation model designed to advance long-video understanding and agentic intelligence. To address the challen",
+      "authors": [
+        "Kwai Keye Team",
+        "Bin Wen",
+        "Changyi Liu",
+        "Chengru Song",
+        "Chongling Rao"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.11131",
+      "title": "UniPET: a universal network for high-quality PET image denoising across varied dose reduction factors",
+      "url": "https://huggingface.co/papers/2606.11131",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-08T20:00:00.000Z",
+      "abstract": "Most existing deep learning-based PET image denoising methods assume a fixed and known dose reduction factor (DRF) for low-dose PET images. However, these methods encounter significant performance deg",
+      "authors": [
+        "Zhiwen Yang",
+        "Yang Zhou",
+        "Haowei Chen",
+        "Hui Zhang",
+        "Dan Zhao"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.11032",
+      "title": "U-TTT: Towards Generalizable PET Image Denoising via Test-Time Training",
+      "url": "https://huggingface.co/papers/2606.11032",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-08T20:00:00.000Z",
+      "abstract": "Existing deep learning models for Positron Emission Tomography (PET) image denoising often suffer from severe performance degradation under distribution shifts, fundamentally restricting their robust",
+      "authors": [
+        "Zhiwen Yang",
+        "Jiayin Li",
+        "Hao Lu",
+        "Hui Zhang",
+        "Zihua Wang"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2606.11025",
       "title": "Flow-DPPO: Divergence Proximal Policy Optimization for Flow Matching Models",
@@ -115,48 +195,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.11188",
-      "title": "ARM: An AutoRegressive Large Multimodal Model with Unified Discrete Representations",
-      "url": "https://huggingface.co/papers/2606.11188",
+      "id": "hf_paper_2606.11187",
+      "title": "Next Forcing: Causal World Modeling with Multi-Chunk Prediction",
+      "url": "https://huggingface.co/papers/2606.11187",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-08T20:00:00.000Z",
-      "abstract": "This paper introduces ARM, a discrete representation-based AutoRegressive Model that unifies image understanding, generation, and editing within a next-token prediction framework. ARM is built on thre",
+      "abstract": "Autoregressive video generation has emerged as a powerful paradigm for World Action Models (WAMs). However, existing approaches suffer from slow training convergence and limited converged accuracy, pa",
       "authors": [
-        "Junke Wang",
-        "Xiao Wang",
-        "Jiacheng Pan",
-        "Xuefeng Hu",
-        "Feng Li"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.10650",
-      "title": "Dynamic Linear Attention",
-      "url": "https://huggingface.co/papers/2606.10650",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-08T20:00:00.000Z",
-      "abstract": "The scalability of Large Language Models (LLMs) to long contexts is fundamentally constrained by the quadratic complexity of standard attention, motivating the adoption of linear attention mechanisms",
-      "authors": [
-        "Xin Wang",
-        "Hui Shen",
-        "Boyuan Zheng",
-        "Xueshen Liu",
-        "Minkyoung Cho"
+        "Gangwei Xu",
+        "Qihang Zhang",
+        "Jiaming Zhou",
+        "Xing Zhu",
+        "Yujun Shen"
       ],
       "tags": [],
       "score": 6,
@@ -169,48 +221,23 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.10804",
-      "title": "SCAIL-2: Unifying Controlled Character Animation with End-to-end In-Context Conditioning",
-      "url": "https://huggingface.co/papers/2606.10804",
+      "id": "hf_paper_2606.10671",
+      "title": "FadeMem: Distance-Aware Memory Consolidation for Autoregressive Video Diffusion",
+      "url": "https://huggingface.co/papers/2606.10671",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-08T20:00:00.000Z",
-      "abstract": "Controlled character animation requires transferring motion from a driving sequence to a reference character. Prior works heavily rely on intermediate representations, including pose skeletons to repr",
+      "abstract": "Autoregressive video generators synthesize long videos by generating successive temporal segments, but their historical KV cache grows with video length. Existing bounded-cache methods reduce this cos",
       "authors": [
-        "Wenhao Yan",
-        "Fengjia Guo",
-        "Zhuoyi Yang",
-        "Jie Tang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.11042",
-      "title": "Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields",
-      "url": "https://huggingface.co/papers/2606.11042",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-08T20:00:00.000Z",
-      "abstract": "Recent years have witnessed the rapid evolution of AI agents toward handling increasingly complex, real-world tasks. However, existing benchmarks rarely evaluate whether agents can operate graphical u",
-      "authors": [
-        "Liya Zhu",
-        "Jingzhe Ding",
-        "Jian Zhang",
-        "Jianbo Xue",
-        "Shihao Liang"
+        "Yu Lu",
+        "Junjie Yang",
+        "Piotr Koniusz",
+        "YuXin Song",
+        "Yi Yang"
       ],
       "tags": [
-        "agent"
+        "diffusion"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -473,6 +500,33 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2606.10029",
+      "title": "Interpreting and Steering a Text-to-Speech Language Model with Sparse Autoencoders",
+      "url": "https://huggingface.co/papers/2606.10029",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-08T14:09:37.000Z",
+      "abstract": "Language models increasingly serve as the backbone of text-to-speech (TTS) systems, yet we understand little about the representations they build when text and generated speech tokens share a single r",
+      "authors": [
+        "Nikita Koriagin",
+        "Georgii Aparin",
+        "Nikita Balagansky",
+        "Daniil Gavrilov"
+      ],
+      "tags": [
+        "speech"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fopena",
       "title": "Confidential submission of draft S-1 to the SEC",
       "url": "https://openai.com/index/openai-submits-confidential-s-1",
@@ -533,6 +587,32 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2606.09707",
+      "title": "BrainSurgery: Reproducible and Reliable Declarative Weight Manipulations for Model Editing and Upcycling",
+      "url": "https://huggingface.co/papers/2606.09707",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-08T12:26:09.000Z",
+      "abstract": "As deep learning models scale, managing, inspecting, and modifying large checkpoints has become increasingly challenging. Researchers often need to alter model weights for layer restructuring, precisi",
+      "authors": [
+        "Gianluca Barmina",
+        "Annemette Broch Pirchert",
+        "Andrea Blasi Núñez",
+        "Lukas Galke Poech",
+        "Peter Schneider-Kamp"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
       "title": "Aviva deploys AI to stop £230M in sophisticated insurance fraud",
       "url": "https://www.artificialintelligence-news.com/news/aviva-deploys-ai-stop-230m-sophisticated-insurance-fraud/",
@@ -545,6 +625,32 @@
       "tags": [
         "phi"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.09697",
+      "title": "PsychoSafe: Eliciting Psychologically-Informed Refusals in Large Language Models",
+      "url": "https://huggingface.co/papers/2606.09697",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-08T12:19:18.000Z",
+      "abstract": "Large language models (LLMs) routinely face requests that should be refused, creating a trade-off between helpfulness and harm prevention. However, refusals themselves can be helpful. In high-risk int",
+      "authors": [
+        "Gianluca Barmina",
+        "Federico Torrielli",
+        "Sven Harms",
+        "Jacob Nielsen",
+        "Felix Mächtle"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
