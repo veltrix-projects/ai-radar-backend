@@ -1,28 +1,83 @@
 {
-  "generatedAt": "2026-06-10T06:14:32.248Z",
+  "generatedAt": "2026-06-10T10:37:36.919Z",
   "date": "07-06-2026",
-  "count": 6,
+  "count": 7,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2606.10061",
-      "title": "BenSyc: Benchmarking Conversational Sycophancy and Human Alignment in LLMs for Bengali Contexts",
-      "url": "https://huggingface.co/papers/2606.10061",
+      "id": "hf_paper_2606.09821",
+      "title": "Rethinking the Divergence Regularization in LLM RL",
+      "url": "https://huggingface.co/papers/2606.09821",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-07T20:00:00.000Z",
-      "abstract": "Large language models (LLMs) increasingly participate in emotionally sensitive social conversations, where responses may shift from balanced support toward excessive validation or escalatory alignment",
+      "abstract": "Reinforcement learning (RL) has become a key component of post-training large language models (LLMs). In practice, LLM RL is often off-policy because of training-inference mismatch and policy stalenes",
       "authors": [
-        "Kazi Noshin",
-        "Sajib Acharjee Dip",
-        "Ranat Das Prangon",
-        "Fardin Hassan Tamim",
-        "Syed Ishtiaque Ahmed"
+        "Jiarui Yao",
+        "Xiangxin Zhou",
+        "Penghui Qi",
+        "Wee Sun Lee",
+        "Liefeng Bo"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.09730",
+      "title": "SearchSwarm: Towards Delegation Intelligence in Agentic LLMs for Long-Horizon Deep Research",
+      "url": "https://huggingface.co/papers/2606.09730",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-07T20:00:00.000Z",
+      "abstract": "Large language models are increasingly expected to handle complex, long-horizon real-world tasks whose context demands can grow without bound, yet model context windows remain inherently finite. Recen",
+      "authors": [
+        "Pu Ning",
+        "Quan Chen",
+        "Kun Tao",
+        "Xinyu Tang",
+        "Tianshu Wang"
       ],
       "tags": [
         "llm",
-        "benchmark",
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.09068",
+      "title": "Emergent Misalignment Can Be Induced by Sycophancy and Reversed via Alignment Gating",
+      "url": "https://huggingface.co/papers/2606.09068",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-07T20:00:00.000Z",
+      "abstract": "Prior work has shown that fine-tuning large language models on malicious or incorrect outputs in narrow domains can induce broad misalignment and harmful behavior, a phenomenon known as emergent misal",
+      "authors": [
+        "Sicheng Wang",
+        "Xiangyang Zhu",
+        "Han Wang",
+        "Zongrui Wang",
+        "Yuan Tian"
+      ],
+      "tags": [
         "alignment"
       ],
       "score": 6,
@@ -35,19 +90,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.09376",
-      "title": "Precision Is Not Faithfulness: Coverage-Aware Evaluation of Grounded Generation with a Complete Oracle",
-      "url": "https://huggingface.co/papers/2606.09376",
+      "id": "hf_paper_2606.09032",
+      "title": "Bridging the Agent-World Gap: Text World Models for LLM-based Agents",
+      "url": "https://huggingface.co/papers/2606.09032",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-07T20:00:00.000Z",
-      "abstract": "Reference-free faithfulness metrics verify each atomic claim a model makes against ground truth, and are increasingly used to evaluate grounded generation. We show they share a blind spot: they measur",
+      "abstract": "Large language model (LLM)-based agents are increasingly used in interactive textual environments, from web navigation and code editing to tool use and long-horizon dialogue. Yet many remain largely r",
       "authors": [
-        "Juan S. Santillana"
+        "Yixia Li",
+        "Hongru Wang",
+        "Peng Lai",
+        "Zhiwen Ruan",
+        "He Zhu"
       ],
       "tags": [
-        "rag"
+        "llm",
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -105,7 +165,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 156255,
+      "stars": 156263,
       "votes": 0,
       "points": 0
     },
@@ -120,30 +180,6 @@
       "abstract": "Low-code and no-code AI platforms now turn a prompt into a working app, agent, or model. This guide compares 21 tools across app builders, automation, AI agents, and machine learning platforms, each l",
       "authors": [],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Meet Harness-1: A 20B Retrieval Subagent Trained With Reinforcement Learning Inside a Stateful Search Harness on gpt-oss-20b",
-      "url": "https://www.marktechpost.com/2026/06/06/meet-harness-1-a-20b-retrieval-subagent-trained-with-reinforcement-learning-inside-a-stateful-search-harness-on-gpt-oss-20b/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-06-07T06:25:18.000Z",
-      "abstract": "UIUC and Chroma's Harness-1 is a 20B retrieval subagent trained with reinforcement learning inside a stateful search harness. The harness maintains the bookkeeping — candidate pool, importance-tagged",
-      "authors": [],
-      "tags": [
-        "gpt",
-        "agent",
-        "reinforcement learning"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

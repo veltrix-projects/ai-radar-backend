@@ -1,26 +1,28 @@
 {
-  "generatedAt": "2026-06-10T06:14:32.249Z",
+  "generatedAt": "2026-06-10T10:37:36.920Z",
   "date": "04-06-2026",
-  "count": 12,
+  "count": 13,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2606.07723",
-      "title": "VoLo: A Physical Orchestrator for Open-Vocabulary Long-Horizon Manipulation",
-      "url": "https://huggingface.co/papers/2606.07723",
+      "id": "hf_paper_2606.07512",
+      "title": "MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism",
+      "url": "https://huggingface.co/papers/2606.07512",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-04T20:00:00.000Z",
-      "abstract": "Open-vocabulary long-horizon manipulation requires robots to reason over flexible instructions and complex multi-object scenes while adaptively planning, executing, monitoring, and recovering from fai",
+      "abstract": "Current Vision-Language Models struggle with hours-long videos because processing full-length visual sequences induces prohibitive token explosion and attention dilution. To overcome this, we introduc",
       "authors": [
-        "Siyi Chen",
-        "Hugo Hadfield",
-        "Alex Zook",
-        "Mikaela Angelina Uy",
-        "Chan Hee Song"
+        "Cong Chen",
+        "Guo Gan",
+        "Kaixiang Ji",
+        "ChaoYang Zhang",
+        "Zhen Yang"
       ],
-      "tags": [],
+      "tags": [
+        "agent"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -31,25 +33,28 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.07217",
-      "title": "Robotic Policy Adaptation via Weight-Space Meta-Learning",
-      "url": "https://huggingface.co/papers/2606.07217",
+      "id": "hf_paper_2606.07689",
+      "title": "Struct-Searcher: Agentic Structural Thinking Advances Multimodal Deep Information Seeking",
+      "url": "https://huggingface.co/papers/2606.07689",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-04T20:00:00.000Z",
-      "abstract": "Vision-Language-Action (VLA) models are emerging as a promising paradigm for robotic manipulation, enabling general-purpose policies trained from large corpora of demonstrations and action labels. How",
+      "abstract": "Deep research agents have attracted increasing attention for their ability to collect large-scale online information to acquire target knowledge, with recent efforts shifting from purely text-based in",
       "authors": [
-        "Christian Bianchi",
-        "Siamak Yousefi",
-        "Alessio Sampieri",
-        "Andrea Roberti",
-        "Luca Rigazio"
+        "Fan Zhang",
+        "Vireo Zhang",
+        "Shengju Qian",
+        "Haoxuan Li",
+        "Zheng Lian"
       ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "tags": [
+        "multimodal",
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -240,6 +245,35 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.05922",
+      "title": "Retrospective Harness Optimization: Improving LLM Agents via Self-Preference over Trajectory Rollouts",
+      "url": "https://huggingface.co/papers/2606.05922",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-04T05:26:00.000Z",
+      "abstract": "AI agents rely on a harness of skills, tools, and workflows to solve complex problems. Continually improving this harness is essential for adapting to new tasks. However, existing optimization methods",
+      "authors": [
+        "Wenbo Pan",
+        "Shujie Liu",
+        "Chin-Yew Lin",
+        "Jingying Zeng",
+        "Xianfeng Tang"
+      ],
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
