@@ -1,21 +1,26 @@
 {
-  "generatedAt": "2026-06-10T17:40:39.363Z",
+  "generatedAt": "2026-06-10T20:12:22.558Z",
   "date": "05-06-2026",
   "count": 3,
   "summary": null,
   "items": [
     {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "How C3 AI agents will automate predictive maintenance for Shell",
-      "url": "https://www.artificialintelligence-news.com/news/how-c3-ai-agents-will-automate-predictive-maintenance-for-shell/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-06-05T11:34:09.000Z",
-      "abstract": "Shell will use agents from C3 AI to shift from basic anomaly detection towards fully-automated predictive maintenance. The global energy giant is building on their current use of the C3 AI Reliability",
-      "authors": [],
+      "id": "hf_paper_2606.08044",
+      "title": "When Behavioral Safety Evaluation Fails: A Representation-Level Perspective",
+      "url": "https://huggingface.co/papers/2606.08044",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-05T20:00:00.000Z",
+      "abstract": "Large Language Model (LLM) safety has often been evaluated at the behavior level, which provides limited evidence of internal robustness, as these evaluations target outputs rather than representation",
+      "authors": [
+        "Enyi Jiang",
+        "Anders Gjølbye",
+        "Yibo Jacky Zhang",
+        "Sanmi Koyejo"
+      ],
       "tags": [
-        "agent"
+        "safety"
       ],
       "score": 6,
       "priority": "MEDIUM",
