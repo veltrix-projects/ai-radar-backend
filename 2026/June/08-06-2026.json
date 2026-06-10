@@ -1,9 +1,113 @@
 {
-  "generatedAt": "2026-06-10T14:17:43.881Z",
+  "generatedAt": "2026-06-10T17:40:39.362Z",
   "date": "08-06-2026",
-  "count": 33,
+  "count": 31,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2606.10662",
+      "title": "Decentralized Multi-Agent Systems with Shared Context",
+      "url": "https://huggingface.co/papers/2606.10662",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-08T20:00:00.000Z",
+      "abstract": "Multi-agent systems (MAS) can scale large language model reasoning at test time by decomposing complex problems into parallel subtasks. However, most existing MAS rely on centralized orchestration, wh",
+      "authors": [
+        "Yuzhen Mao",
+        "Azalia Mirhoseini"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.11173",
+      "title": "The Role of Feedback Alignment in Self-Distillation",
+      "url": "https://huggingface.co/papers/2606.11173",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-08T20:00:00.000Z",
+      "abstract": "Conditioning a language model on additional context, such as feedback on a previous attempt, typically improves its response. Self-distillation trains the model to retain this improvement when the con",
+      "authors": [
+        "Semih Kara",
+        "Oğuzhan Ersoy"
+      ],
+      "tags": [
+        "alignment"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.11187",
+      "title": "Next Forcing: Causal World Modeling with Multi-Chunk Prediction",
+      "url": "https://huggingface.co/papers/2606.11187",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-08T20:00:00.000Z",
+      "abstract": "Autoregressive video generation has emerged as a powerful paradigm for World Action Models (WAMs). However, existing approaches suffer from slow training convergence and limited converged accuracy, pa",
+      "authors": [
+        "Gangwei Xu",
+        "Qihang Zhang",
+        "Jiaming Zhou",
+        "Xing Zhu",
+        "Yujun Shen"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.10671",
+      "title": "FadeMem: Distance-Aware Memory Consolidation for Autoregressive Video Diffusion",
+      "url": "https://huggingface.co/papers/2606.10671",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-08T20:00:00.000Z",
+      "abstract": "Autoregressive video generators synthesize long videos by generating successive temporal segments, but their historical KV cache grows with video length. Existing bounded-cache methods reduce this cos",
+      "authors": [
+        "Yu Lu",
+        "Junjie Yang",
+        "Piotr Koniusz",
+        "YuXin Song",
+        "Yi Yang"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2606.10651",
       "title": "Kwai Keye-VL-2.0 Technical Report",
@@ -101,144 +205,6 @@
         "Liefeng Bo"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.11176",
-      "title": "Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories",
-      "url": "https://huggingface.co/papers/2606.11176",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-08T20:00:00.000Z",
-      "abstract": "Data tells stories that shape society; the data journalist's job is to turn raw information into stories non-experts can trust. A high-quality news feature takes a newsroom team weeks: hunting for con",
-      "authors": [
-        "Kevin Qinghong Lin",
-        "Batu EI",
-        "Yuhong Shi",
-        "Pan Lu",
-        "Philip Torr"
-      ],
-      "tags": [
-        "multimodal",
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.11129",
-      "title": "WorldOlympiad: Can Your World Model Survive a Triathlon?",
-      "url": "https://huggingface.co/papers/2606.11129",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-08T20:00:00.000Z",
-      "abstract": "We introduce WorldOlympiad, a benchmark for diagnosing video-based world models across physical faithfulness, geometric consistency, and interaction fidelity. While existing benchmarks often focus on",
-      "authors": [
-        "Yuke Zhao",
-        "Wangbo Zhao",
-        "Weijie Wang",
-        "Zeyu Zhang",
-        "Dakai An"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.11052",
-      "title": "Attention Amnesia in Hybrid LLMs: When CoT Fine-Tuning Breaks Long-Range Recall, and How to Fix It",
-      "url": "https://huggingface.co/papers/2606.11052",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-08T20:00:00.000Z",
-      "abstract": "Chain-of-thought (CoT) supervised fine-tuning (SFT) is widely adopted to improve reasoning ability, yet we find that it systematically degrades long-context recall in hybrid linear-attention models. A",
-      "authors": [
-        "Xinyu Zhou",
-        "Boyu Zhu",
-        "Yi Xu",
-        "Zhiwei Li",
-        "Yingfa Chen"
-      ],
-      "tags": [
-        "llm",
-        "fine-tuning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.11187",
-      "title": "Next Forcing: Causal World Modeling with Multi-Chunk Prediction",
-      "url": "https://huggingface.co/papers/2606.11187",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-08T20:00:00.000Z",
-      "abstract": "Autoregressive video generation has emerged as a powerful paradigm for World Action Models (WAMs). However, existing approaches suffer from slow training convergence and limited converged accuracy, pa",
-      "authors": [
-        "Gangwei Xu",
-        "Qihang Zhang",
-        "Jiaming Zhou",
-        "Xing Zhu",
-        "Yujun Shen"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.10671",
-      "title": "FadeMem: Distance-Aware Memory Consolidation for Autoregressive Video Diffusion",
-      "url": "https://huggingface.co/papers/2606.10671",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-08T20:00:00.000Z",
-      "abstract": "Autoregressive video generators synthesize long videos by generating successive temporal segments, but their historical KV cache grows with video length. Existing bounded-cache methods reduce this cos",
-      "authors": [
-        "Yu Lu",
-        "Junjie Yang",
-        "Piotr Koniusz",
-        "YuXin Song",
-        "Yi Yang"
-      ],
-      "tags": [
-        "diffusion"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -427,28 +393,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Evaluate your Amazon Nova Sonic voice agent at scale, no microphone required",
-      "url": "https://aws.amazon.com/blogs/machine-learning/evaluate-your-amazon-nova-sonic-voice-agent-at-scale-no-microphone-required/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-06-08T15:57:45.000Z",
-      "abstract": "In this post, we walk you through the Nova Sonic Test Harness, an open source framework that we built to solve both problems. It serves as a rapid iteration tool for tuning system prompts and tool con",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

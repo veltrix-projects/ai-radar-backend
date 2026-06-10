@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-06-10T14:17:43.884Z",
+  "generatedAt": "2026-06-10T17:40:39.364Z",
   "date": "04-06-2026",
-  "count": 13,
+  "count": 14,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2606.07379",
+      "title": "Do Coding Agents Deceive Us? Detecting and Preventing Cheating via Capped Evaluation with Randomized Tests",
+      "url": "https://huggingface.co/papers/2606.07379",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-04T20:00:00.000Z",
+      "abstract": "A growing failure mode in agent evaluation and training is that models can achieve high evaluation scores by exploiting shortcuts instead of solving the intended task, producing deceptive performance.",
+      "authors": [
+        "Thanawat Lodkaew",
+        "Johannes Ackermann",
+        "Soichiro Nishimori",
+        "Nontawat Charoenphakdee",
+        "Masashi Sugiyama"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2606.07512",
       "title": "MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism",
@@ -75,19 +103,25 @@
       "points": 0
     },
     {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "NVIDIA Nemotron 3 Ultra now available on Amazon SageMaker JumpStart",
-      "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-ultra-now-available-on-amazon-sagemaker-jumpstart/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-06-04T16:59:08.000Z",
-      "abstract": "Deploy NVIDIA Nemotron 3 Ultra on Amazon SageMaker JumpStart. Get 5x faster inference and 30% lower cost for agentic AI workloads with this frontier reasoning model.",
-      "authors": [],
+      "id": "hf_paper_2606.06458",
+      "title": "In-Context Multiple Instance Learning",
+      "url": "https://huggingface.co/papers/2606.06458",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-04T13:50:32.000Z",
+      "abstract": "Multiple Instance Learning (MIL) addresses problems where supervision is available at the level of bags of instances and has been successfully applied in fields ranging from computational pathology to",
+      "authors": [
+        "Alexander Möllers",
+        "Marvin Sextro",
+        "Julius Hense",
+        "Gabriel Dernbach",
+        "Klaus-Robert Müller"
+      ],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
