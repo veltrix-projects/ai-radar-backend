@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-06-11T11:52:35.055Z",
+  "generatedAt": "2026-06-11T15:35:53.056Z",
   "date": "07-06-2026",
   "count": 3,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2606.10156",
+      "title": "τ-Rec: A Verifiable Benchmark for Agentic Recommender Systems",
+      "url": "https://huggingface.co/papers/2606.10156",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-07T20:00:00.000Z",
+      "abstract": "As recommender systems transition toward agentic, multi-turn conversational interfaces, evaluation paradigms have struggled to keep pace. Current benchmarks often rely on \"LLM-as-a-judge\" evaluations,",
+      "authors": [
+        "Bharath Sivaram Narasimhan",
+        "Karthik R Narasimhan"
+      ],
+      "tags": [
+        "agent",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2601.05212",
       "title": "FlowLet: Conditional 3D Brain MRI Synthesis using Wavelet Flow Matching",
@@ -45,32 +71,6 @@
         "Hehan Li",
         "Zhixuan Yu",
         "Alex Xue"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.09076",
-      "title": "Beyond Scalar Rewards by Internalizing Reasoning into Score Distributions",
-      "url": "https://huggingface.co/papers/2606.09076",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-07T20:00:00.000Z",
-      "abstract": "Reward models are central to text-to-image post-training, but visual preference is subjective and better represented as a distribution over rubric scores than as a deterministic scalar. Existing scala",
-      "authors": [
-        "Xin Jin",
-        "Huanqia Cai",
-        "Zhen Li",
-        "Zechao Zhan",
-        "Dengyang Jiang"
       ],
       "tags": [],
       "score": 6,
