@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-10T23:53:28.955Z",
+  "generatedAt": "2026-06-11T02:43:16.422Z",
   "date": "04-06-2026",
-  "count": 11,
+  "count": 9,
   "summary": null,
   "items": [
     {
@@ -19,34 +19,6 @@
         "Soichiro Nishimori",
         "Nontawat Charoenphakdee",
         "Masashi Sugiyama"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.07512",
-      "title": "MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism",
-      "url": "https://huggingface.co/papers/2606.07512",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-04T20:00:00.000Z",
-      "abstract": "Current Vision-Language Models struggle with hours-long videos because processing full-length visual sequences induces prohibitive token explosion and attention dilution. To overcome this, we introduc",
-      "authors": [
-        "Cong Chen",
-        "Guo Gan",
-        "Kaixiang Ji",
-        "ChaoYang Zhang",
-        "Zhen Yang"
       ],
       "tags": [
         "agent"
@@ -226,35 +198,6 @@
         "Oğuzhan Ersoy"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.05922",
-      "title": "Retrospective Harness Optimization: Improving LLM Agents via Self-Preference over Trajectory Rollouts",
-      "url": "https://huggingface.co/papers/2606.05922",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-04T05:26:00.000Z",
-      "abstract": "AI agents rely on a harness of skills, tools, and workflows to solve complex problems. Continually improving this harness is essential for adapting to new tasks. However, existing optimization methods",
-      "authors": [
-        "Wenbo Pan",
-        "Shujie Liu",
-        "Chin-Yew Lin",
-        "Jingying Zeng",
-        "Xianfeng Tang"
-      ],
-      "tags": [
-        "llm",
-        "agent"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

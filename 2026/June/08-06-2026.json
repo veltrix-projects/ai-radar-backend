@@ -1,9 +1,38 @@
 {
-  "generatedAt": "2026-06-10T23:53:28.952Z",
+  "generatedAt": "2026-06-11T02:43:16.420Z",
   "date": "08-06-2026",
-  "count": 29,
+  "count": 28,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2606.10968",
+      "title": "Beyond Uniform Token-Level Trust Region in LLM Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2606.10968",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-08T20:00:00.000Z",
+      "abstract": "Reinforcement learning with verifiable rewards (RLVR) has become standard for improving LLM reasoning. However, existing PPO-style trust-region mechanisms remain position-agnostic by enforcing uniform",
+      "authors": [
+        "Renjie Mao",
+        "Xiangxin Zhou",
+        "Lvfang Tao",
+        "Yixin Ding",
+        "Yu Shi"
+      ],
+      "tags": [
+        "llm",
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2606.10662",
       "title": "Decentralized Multi-Agent Systems with Shared Context",
@@ -355,26 +384,6 @@
       "points": 0
     },
     {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Amazon Quick ARNs: Cross-account migration and namespace permissions",
-      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-arns-cross-account-migration-and-namespace-permissions/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-06-08T16:07:29.000Z",
-      "abstract": "In this post, we cover the structure of Amazon Quick ARNs and provide a practical mental model for working with them. By the end, you can look at an ARN and immediately understand what it means for yo",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fmicrosof",
       "title": "Microsoft Hacked to Deliver Malware to Claude and Gemini Users",
       "url": "https://www.404media.co/microsoft-hacked-to-deliver-malware-to-claude-and-gemini-users/",
@@ -394,37 +403,6 @@
       "downloads": 0,
       "likes": 0,
       "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "gh_655806940",
-      "title": "microsoft/generative-ai-for-beginners — 21 Lessons, Get Started Building with Generative AI",
-      "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-06-08T14:17:33Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "ai",
-        "azure",
-        "chatgpt",
-        "dall-e",
-        "generative-ai",
-        "generativeai",
-        "gpt",
-        "language-model",
-        "llms",
-        "microsoft-for-beginners"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 111838,
       "votes": 0,
       "points": 0
     },
