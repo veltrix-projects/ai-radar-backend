@@ -1,25 +1,35 @@
 {
-  "generatedAt": "2026-06-10T14:17:43.888Z",
+  "generatedAt": "2026-06-11T07:22:20.471Z",
   "date": "01-06-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
-      "title": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
-      "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
-      "source": "NVIDIA Blog",
-      "sourceIcon": "🟩",
-      "type": "tool",
-      "timestamp": "2026-06-01T22:00:00.000Z",
-      "abstract": "The rise of autonomous, long-running AI agents has introduced a new class of compute demand, namely tasks that maintain large context windows, spawn concurrent...]]>",
-      "authors": [],
-      "tags": [
-        "agent"
+      "id": "hf_paper_2606.03108",
+      "title": "EvoTrainer: Co-Evolving LLM Policies and Training Harnesses for Autonomous Agentic Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2606.03108",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-01T20:00:00.000Z",
+      "abstract": "Autonomous LLM training is often framed as recipe search, which leaves the training harness largely static. This limitation sharpens in agentic RL, where shifting bottlenecks and scalar rewards mask d",
+      "authors": [
+        "Guhong Chen",
+        "Yingcheng Shi",
+        "Yongbin Li",
+        "Binhua Li",
+        "Xander Xu"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "tags": [
+        "llm",
+        "agent",
+        "training",
+        "reinforcement learning",
+        "autonomous"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

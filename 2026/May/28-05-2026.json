@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-11T02:43:16.424Z",
+  "generatedAt": "2026-06-11T07:22:20.472Z",
   "date": "28-05-2026",
-  "count": 2,
+  "count": 3,
   "summary": null,
   "items": [
     {
@@ -18,6 +18,34 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.30861",
+      "title": "Distilling LLM Feedback for Lean Theorem Proving",
+      "url": "https://huggingface.co/papers/2605.30861",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-28T20:00:00.000Z",
+      "abstract": "Post-training for reasoning models typically combines supervised fine-tuning with reinforcement learning from verifiable rewards, most commonly with GRPO. However, this algorithm suffers from sparse r",
+      "authors": [
+        "Gaetan Narozniak",
+        "Gérard Biau",
+        "Rémi Munos",
+        "Ahmad Rammal",
+        "Pierre Marion"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

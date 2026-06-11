@@ -1,28 +1,55 @@
 {
-  "generatedAt": "2026-06-10T23:53:28.953Z",
+  "generatedAt": "2026-06-11T07:22:20.470Z",
   "date": "07-06-2026",
-  "count": 1,
+  "count": 2,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2606.09131",
-      "title": "Late-Layer Fusion is Enough: Dual-Path Vision Token Routing for Multimodal Large Language Models under Visual Saturation",
-      "url": "https://huggingface.co/papers/2606.09131",
+      "id": "hf_paper_2606.09323",
+      "title": "TRL-Bench: Standardizing Cross-Paradigm Representation-Level Evaluation of Tabular Encoders",
+      "url": "https://huggingface.co/papers/2606.09323",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-07T20:00:00.000Z",
-      "abstract": "Multimodal large language models (MLLMs) commonly inherit the deep, symmetric Transformer backbone designed for unimodal text modeling, and apply the same computation uniformly to image and language t",
+      "abstract": "Tabular encoders are usually evaluated inside task-specific end-to-end pipelines, so models from different training paradigms are difficult to compare directly even when they operate on similar tabula",
       "authors": [
-        "Siyuan Liu",
-        "Jinyang Wu"
+        "Wei Pang",
+        "Xiangru Jian",
+        "Hehan Li",
+        "Zhixuan Yu",
+        "Alex Xue"
       ],
-      "tags": [
-        "multimodal"
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.09076",
+      "title": "Beyond Scalar Rewards by Internalizing Reasoning into Score Distributions",
+      "url": "https://huggingface.co/papers/2606.09076",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-07T20:00:00.000Z",
+      "abstract": "Reward models are central to text-to-image post-training, but visual preference is subjective and better represented as a distribution over rubric scores than as a deterministic scalar. Existing scala",
+      "authors": [
+        "Xin Jin",
+        "Huanqia Cai",
+        "Zhen Li",
+        "Zechao Zhan",
+        "Dengyang Jiang"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
