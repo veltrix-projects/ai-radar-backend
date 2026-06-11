@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-11T18:40:28.222Z",
+  "generatedAt": "2026-06-11T21:12:34.129Z",
   "date": "09-06-2026",
-  "count": 34,
+  "count": 35,
   "summary": null,
   "items": [
     {
@@ -49,6 +49,26 @@
       "points": 0
     },
     {
+      "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Ftranspo",
+      "title": "GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech",
+      "url": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
+      "source": "The Verge AI",
+      "sourceIcon": "🔺",
+      "type": "news",
+      "timestamp": "2026-06-09T21:00:00.000Z",
+      "abstract": "",
+      "authors": [],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
       "title": "Scale Robot Reinforcement Learning with NVIDIA Isaac Lab on Amazon SageMaker AI",
       "url": "https://aws.amazon.com/blogs/machine-learning/scale-robot-reinforcement-learning-with-nvidia-isaac-lab-on-amazon-sagemaker-ai/",
@@ -64,6 +84,32 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.12385",
+      "title": "Which Models Are Our Models Built On? Auditing Invisible Dependencies in Modern LLMs",
+      "url": "https://huggingface.co/papers/2606.12385",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-09T20:00:00.000Z",
+      "abstract": "Modern LLM training pipelines increasingly rely on other models to generate data, filter corpora, judge outputs, and guide development decisions. These dependencies are recursive: a model may depend o",
+      "authors": [
+        "Sanjay Adhikesaven",
+        "Haoxiang Sun",
+        "Sewon Min"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -174,57 +220,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.11683",
-      "title": "Reason, Then Re-reason: Cross-view Revisiting Improves Spatial Reasoning",
-      "url": "https://huggingface.co/papers/2606.11683",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-09T20:00:00.000Z",
-      "abstract": "Spatial reasoning from egocentric videos is inherently challenging because the observable evidence is constrained by the camera trajectory. Existing methods rely on single-turn inference, forcing mode",
-      "authors": [
-        "Chaofan Ma",
-        "Zhenjie Mao",
-        "Yuhuan Yang",
-        "Fanqin Zeng",
-        "Yue Shi"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.12397",
-      "title": "Redesign Mixture-of-Experts Routers with Manifold Power Iteration",
-      "url": "https://huggingface.co/papers/2606.12397",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-09T20:00:00.000Z",
-      "abstract": "Router is the cornerstone component to the Mixture-of-Experts models. Serving as expert proxies, the rows of the router matrix compute their similarity to the MoE inputs to determine which subset of e",
-      "authors": [
-        "Songhao Wu",
-        "Ang Lv",
-        "Ruobing Xie",
-        "Yankai Lin"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "Delivering Lifecycle Control for AI Infrastructure at Scale with NVIDIA DGX Spark Enterprise Manageability",
       "url": "https://developer.nvidia.com/blog/delivering-lifecycle-control-for-ai-infrastructure-at-scale-with-nvidia-dgx-spark-enterprise-manageability/",
@@ -257,6 +252,31 @@
       "tags": [
         "inference"
       ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.11482",
+      "title": "Building Social World Models with Large Language Models",
+      "url": "https://huggingface.co/papers/2606.11482",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-09T18:15:51.000Z",
+      "abstract": "Understanding and predicting how social beliefs evolve in response to events -- from policy changes to scientific breakthroughs -- remains a fundamental challenge in social science. Given LLMs' common",
+      "authors": [
+        "Haofei Yu",
+        "Yining Zhao",
+        "Guanyu Lin",
+        "Jiaxuan You"
+      ],
+      "tags": [],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
@@ -620,7 +640,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 139816,
+      "stars": 139834,
       "votes": 0,
       "points": 0
     },
