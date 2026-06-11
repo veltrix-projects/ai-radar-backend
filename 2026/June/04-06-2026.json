@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-06-11T07:22:20.470Z",
+  "generatedAt": "2026-06-11T11:52:35.056Z",
   "date": "04-06-2026",
-  "count": 6,
+  "count": 5,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2606.07881",
+      "title": "Breaking the Bubble: Asynchronous Pipeline Parallel Training with Bounded Weight Inconsistency",
+      "url": "https://huggingface.co/papers/2606.07881",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-04T20:00:00.000Z",
+      "abstract": "Pipeline parallelism is essential for training large neural networks, but existing schedules trade off throughput, memory, and optimization consistency. Synchronous pipelines preserve forward/backward",
+      "authors": [
+        "Itay Elam",
+        "Eliron Rahimi",
+        "Avi Mendelson",
+        "Chaim Baskin"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Ft",
       "title": "Towards passive heart health monitoring via smartphone camera",
@@ -69,28 +96,6 @@
       "points": 0
     },
     {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "Scout from M&#8217;Soft is the agentic Autopilot that works across M365",
-      "url": "https://www.artificialintelligence-news.com/news/microsofts-autopilot-scout-is-the-agentic-autopilot-that-works-across-m365/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-06-04T11:41:00.000Z",
-      "abstract": "Microsoft has announced the wider testing of its new Autopilot feature at the Microsoft Build event this week, backed by a post on the company&#8217;s&#8217; website. Autopilots are described as a new",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
       "title": "How courts are coping with a flood of AI-generated lawsuits",
       "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
@@ -103,26 +108,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "Amazon brings AI shopping assistant to retailers with Kate Spade",
-      "url": "https://www.artificialintelligence-news.com/news/amazon-ai-shopping-assistant-kate-spade-retailers/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-06-04T10:00:00.000Z",
-      "abstract": "Amazon is offering its AI shopping technology to other retailers through a new Agentic Shopping Assistant built on AWS, with Kate Spade among the first brands to use it. The service allows retailers t",
-      "authors": [],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

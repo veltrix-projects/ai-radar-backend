@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-11T07:22:20.468Z",
+  "generatedAt": "2026-06-11T11:52:35.053Z",
   "date": "09-06-2026",
-  "count": 40,
+  "count": 35,
   "summary": null,
   "items": [
     {
@@ -45,28 +45,6 @@
       "points": 0
     },
     {
-      "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Ftech%2F",
-      "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
-      "url": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
-      "source": "The Verge AI",
-      "sourceIcon": "🔺",
-      "type": "news",
-      "timestamp": "2026-06-09T20:24:25.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "claude"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
       "title": "Scale Robot Reinforcement Learning with NVIDIA Isaac Lab on Amazon SageMaker AI",
       "url": "https://aws.amazon.com/blogs/machine-learning/scale-robot-reinforcement-learning-with-nvidia-isaac-lab-on-amazon-sagemaker-ai/",
@@ -82,6 +60,59 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.11817",
+      "title": "Grammar-Constrained Decoding Can Jailbreak LLMs into Generating Malicious Code",
+      "url": "https://huggingface.co/papers/2606.11817",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-09T20:00:00.000Z",
+      "abstract": "Large Language Models (LLMs) are increasingly used for code generation, raising concerns that they may be misused to produce malicious code. Meanwhile, Grammar-Constrained Decoding (GCD) has been wide",
+      "authors": [
+        "Yitong Zhang",
+        "Shiteng Lu",
+        "Jia Li"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.11990",
+      "title": "Time-Series Foundation Model Embeddings for Remaining Useful Life Estimation",
+      "url": "https://huggingface.co/papers/2606.11990",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-09T20:00:00.000Z",
+      "abstract": "Remaining Useful Life (RUL) prediction is essential for industrial predictive maintenance, yet many learning-based approaches rely on extensive feature engineering or large labeled datasets to train t",
+      "authors": [
+        "Amir El-Ghoussani",
+        "Michele De Vita",
+        "Ronald Naumann",
+        "Valiseios Belagiannis"
+      ],
+      "tags": [
+        "embeddings"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -251,165 +282,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.12195",
-      "title": "InternVideo3: Agentify Foundation Models with Multimodal Contextual Reasoning",
-      "url": "https://huggingface.co/papers/2606.12195",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-09T20:00:00.000Z",
-      "abstract": "Recent progress in foundation models has shifted toward agentic behavior involving multi-step reasoning and tool use. However, open-source efforts largely focus on text-dominant settings, leaving long",
-      "authors": [
-        "Ziang Yan",
-        "Sheng Xia",
-        "Jiashuo Yu",
-        "Yue Wu",
-        "Tianxiang Jiang"
-      ],
-      "tags": [
-        "multimodal",
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.12072",
-      "title": "World Model Self-Distillation: Training World Models to Solve General Tasks",
-      "url": "https://huggingface.co/papers/2606.12072",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-09T20:00:00.000Z",
-      "abstract": "Pretrained video generators are promising visual world models that exhibit emergent task-solving abilities; however, their reliance on detailed textual descriptions limits their direct use for plannin",
-      "authors": [
-        "Sebastian Stapf",
-        "Pablo Acuaviva Huertos",
-        "Aram Davtyan",
-        "Paolo Favaro"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.12370",
-      "title": "Breaking Entropy Bounds: Accelerating RL Training via MTP with Rejection Sampling",
-      "url": "https://huggingface.co/papers/2606.12370",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-09T20:00:00.000Z",
-      "abstract": "Reinforcement learning (RL) has become a key component in modern large language models, yet the rollout stage remains the key bottleneck in RL training pipelines. Although Multi-Token Prediction (MTP)",
-      "authors": [
-        "Yucheng Li",
-        "Huiqiang Jiang",
-        "Yang Xu",
-        "Jianxin Yang",
-        "Yi Zhang"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.12403",
-      "title": "World Pilot: Steering Vision-Language-Action Models with World-Action Priors",
-      "url": "https://huggingface.co/papers/2606.12403",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-09T20:00:00.000Z",
-      "abstract": "Vision-Language-Action (VLA) models inherit semantic grounding from large-scale pretraining and perform competently across in-distribution manipulation tasks. This grounding, however, is built on stat",
-      "authors": [
-        "Zefu Lin",
-        "Rongxu Cui",
-        "Junjia Xu",
-        "Xiaojuan Jin",
-        "Wenling Li"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.11786",
-      "title": "Lius: Translation Model Based Instructional Lingustic Using Continual Instruction Tuning In Kupang Malay",
-      "url": "https://huggingface.co/papers/2606.11786",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-09T20:00:00.000Z",
-      "abstract": "Large Language Models (LLMs) offer new potential for translation tasks but often experience performance degradation when handling low-resource languages. To address this limitation, we propose an appr",
-      "authors": [
-        "Joanito Agili Lopo",
-        "Yunita Sari",
-        "Guntur Budi Herwanto"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.11722",
-      "title": "ICA Lens: Interpreting Language Models Without Training Another Dictionary",
-      "url": "https://huggingface.co/papers/2606.11722",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-09T20:00:00.000Z",
-      "abstract": "Finding interpretable directions in language-model representations is critical for understanding and controlling model behavior. Sparse autoencoders (SAEs) have become the standard tool for this purpo",
-      "authors": [
-        "Sida Liu",
-        "Feijiang Han"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "Delivering Lifecycle Control for AI Infrastructure at Scale with NVIDIA DGX Spark Enterprise Manageability",
       "url": "https://developer.nvidia.com/blog/delivering-lifecycle-control-for-ai-infrastructure-at-scale-with-nvidia-dgx-spark-enterprise-manageability/",
@@ -468,28 +340,6 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fnews%2F",
-      "title": "Anthropic releases its first Mythos-class model Claude Fable",
-      "url": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
-      "source": "The Verge AI",
-      "sourceIcon": "🔺",
-      "type": "news",
-      "timestamp": "2026-06-09T17:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "claude"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -712,6 +562,35 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2606.11119",
+      "title": "TRACE: A Unified Rollout Budget Allocation Framework for Efficient Agentic Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2606.11119",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-09T13:16:03.000Z",
+      "abstract": "Reinforcement learning with verifiable rewards (RLVR) is a promising approach for enhancing reasoning and agentic behavior in large language models. However, rollout-intensive policy optimization is o",
+      "authors": [
+        "Heming Zou",
+        "Qi Wang",
+        "Yun Qu",
+        "Yuhang Jiang",
+        "Lizhou Cai"
+      ],
+      "tags": [
+        "agent",
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fnextd",
       "title": "How engineers at Nextdoor use Codex to build without limits",
       "url": "https://openai.com/index/nextdoor",
@@ -798,7 +677,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 139637,
+      "stars": 139724,
       "votes": 0,
       "points": 0
     },
