@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T10:45:55.379Z",
+  "generatedAt": "2026-06-12T13:57:49.183Z",
   "date": "09-06-2026",
   "count": 25,
   "summary": null,
@@ -20,6 +20,31 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.12488",
+      "title": "A Stationary (and Therefore Compatible) Representation is All You Need",
+      "url": "https://huggingface.co/papers/2606.12488",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-09T20:00:00.000Z",
+      "abstract": "Learning compatible representations aims to learn feature representations that can be used interchangeably over time whenever a model undergoes updates. In this paper, we demonstrate that stationary r",
+      "authors": [
+        "Niccolò Biondi",
+        "Federico Pernici",
+        "Simone Ricci",
+        "Alberto Del Bimbo"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -143,35 +168,6 @@
         "Liangchen Li"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.12674",
-      "title": "Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents",
-      "url": "https://huggingface.co/papers/2606.12674",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-09T20:00:00.000Z",
-      "abstract": "Compact language models (LMs) reduce cost, latency, and deployment risk for tool agents. Yet MCP-style tool use requires more than isolated function calling: an agent must discover tools from live cat",
-      "authors": [
-        "Kushal Raj Bhandari",
-        "Ling Yue",
-        "Ching-Yun Ko",
-        "Dhaval Patel",
-        "Shaowu Pan"
-      ],
-      "tags": [
-        "agent",
-        "inference"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
