@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-06-12T13:57:49.186Z",
+  "generatedAt": "2026-06-12T16:42:54.243Z",
   "date": "03-06-2026",
-  "count": 2,
+  "count": 3,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2606.12451",
+      "title": "ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs",
+      "url": "https://huggingface.co/papers/2606.12451",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-03T20:00:00.000Z",
+      "abstract": "Large language models deployed as agents over large tool catalogs face a critical tool-retrieval bottleneck. As embedding-based retrieval approaches rely on compact encoders that may under-capture spe",
+      "authors": [
+        "Ashutosh Hathidara",
+        "Sai Shruthi Sistla",
+        "Sebastian Schreiber",
+        "Sahil Bansal"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2606.06113",
       "title": "Where, What, Why, and Importance: Structured Defect Grounding for Text-to-Image Feedback",
