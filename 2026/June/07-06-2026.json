@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-12T18:58:03.653Z",
+  "generatedAt": "2026-06-12T21:01:34.515Z",
   "date": "07-06-2026",
-  "count": 3,
+  "count": 1,
   "summary": null,
   "items": [
     {
@@ -22,60 +22,6 @@
       "tags": [
         "rag"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.09290",
-      "title": "Visual Para-Thinker++: A Single-Policy Multi-Agent Framework for Visual Reasoning",
-      "url": "https://huggingface.co/papers/2606.09290",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-07T20:00:00.000Z",
-      "abstract": "Visual reasoning requires integrating evidence distributed across regions, attributes, and relations, making single-chain reasoning prone to early perceptual commitment and hallucination. We propose V",
-      "authors": [
-        "Haoran Xu",
-        "Hongyu Wang",
-        "Yifei Gao",
-        "Jiaze Li",
-        "Zizhao Tong"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.09304",
-      "title": "SG-OPD: Sign-Gated On-Policy Distillation via Sign-Consistency Gating and Phased Teacher Sampling",
-      "url": "https://huggingface.co/papers/2606.09304",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-07T20:00:00.000Z",
-      "abstract": "On-policy distillation (OPD) trains a student on its own trajectories with dense per-token supervision from a stronger teacher, and often outperforms off-policy distillation and standard reinforcement",
-      "authors": [
-        "Haoran Xu",
-        "Hongyu Wang",
-        "Yifei Gao",
-        "Jiaze Li",
-        "Xiaofeng Zhang"
-      ],
-      "tags": [],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
