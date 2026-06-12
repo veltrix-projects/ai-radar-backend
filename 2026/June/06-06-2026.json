@@ -1,27 +1,29 @@
 {
-  "generatedAt": "2026-06-11T02:43:16.421Z",
+  "generatedAt": "2026-06-12T06:25:39.153Z",
   "date": "06-06-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2606.08857",
-      "title": "PaperMentor: A Human-Centered Multi-Agent Writing Tutor for AI Research Papers on Overleaf",
-      "url": "https://huggingface.co/papers/2606.08857",
+      "id": "hf_paper_2606.08788",
+      "title": "MaskAlign: Token-Subset Representation Alignment for Efficient Diffusion Training",
+      "url": "https://huggingface.co/papers/2606.08788",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-06T20:00:00.000Z",
-      "abstract": "Expert writing feedback from experienced researchers is critical for early-career scholars to improve their manuscripts, yet high-quality feedback often remains scarce because reviewing research paper",
+      "abstract": "Representation alignment with pretrained vision models has recently shown strong potential for accelerating diffusion transformer training. By aligning intermediate diffusion features with clean-image",
       "authors": [
-        "Jiarui Liu",
-        "Terry Jingchen Zhang",
-        "Ryan Faulkner",
-        "X. Angelo Huang",
-        "Vilém Zouhar"
+        "Lianyu Pang",
+        "Tianlin Pan",
+        "Cheng Da",
+        "Changqian Yu",
+        "Huan Yang"
       ],
       "tags": [
-        "agent"
+        "diffusion",
+        "training",
+        "alignment"
       ],
       "score": 6,
       "priority": "MEDIUM",

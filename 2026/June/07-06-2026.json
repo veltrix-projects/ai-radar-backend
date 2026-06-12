@@ -1,25 +1,27 @@
 {
-  "generatedAt": "2026-06-12T01:42:20.869Z",
+  "generatedAt": "2026-06-12T06:25:39.152Z",
   "date": "07-06-2026",
-  "count": 2,
+  "count": 3,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2606.10156",
-      "title": "τ-Rec: A Verifiable Benchmark for Agentic Recommender Systems",
-      "url": "https://huggingface.co/papers/2606.10156",
+      "id": "hf_paper_2606.09290",
+      "title": "Visual Para-Thinker++: A Single-Policy Multi-Agent Framework for Visual Reasoning",
+      "url": "https://huggingface.co/papers/2606.09290",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-07T20:00:00.000Z",
-      "abstract": "As recommender systems transition toward agentic, multi-turn conversational interfaces, evaluation paradigms have struggled to keep pace. Current benchmarks often rely on \"LLM-as-a-judge\" evaluations,",
+      "abstract": "Visual reasoning requires integrating evidence distributed across regions, attributes, and relations, making single-chain reasoning prone to early perceptual commitment and hallucination. We propose V",
       "authors": [
-        "Bharath Sivaram Narasimhan",
-        "Karthik R Narasimhan"
+        "Haoran Xu",
+        "Hongyu Wang",
+        "Yifei Gao",
+        "Jiaze Li",
+        "Zizhao Tong"
       ],
       "tags": [
-        "agent",
-        "benchmark"
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -31,25 +33,54 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2601.05212",
-      "title": "FlowLet: Conditional 3D Brain MRI Synthesis using Wavelet Flow Matching",
-      "url": "https://huggingface.co/papers/2601.05212",
+      "id": "hf_paper_2606.09304",
+      "title": "SG-OPD: Sign-Gated On-Policy Distillation via Sign-Consistency Gating and Phased Teacher Sampling",
+      "url": "https://huggingface.co/papers/2606.09304",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-07T20:00:00.000Z",
-      "abstract": "Brain Magnetic Resonance Imaging (MRI) plays a central role in studying neurological development, aging, and diseases. One key application is Brain Age Prediction (BAP), which estimates an individual'",
+      "abstract": "On-policy distillation (OPD) trains a student on its own trajectories with dense per-token supervision from a stronger teacher, and often outperforms off-policy distillation and standard reinforcement",
       "authors": [
-        "Danilo Danese",
-        "Angela Lombardi",
-        "Matteo Attimonelli",
-        "Giuseppe Fasano",
-        "Tommaso Di Noia"
+        "Haoran Xu",
+        "Hongyu Wang",
+        "Yifei Gao",
+        "Jiaze Li",
+        "Xiaofeng Zhang"
       ],
       "tags": [],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.09426",
+      "title": "WeaveBench: A Long-Horizon, Real-World Benchmark for Computer-Use Agents with Hybrid Interfaces",
+      "url": "https://huggingface.co/papers/2606.09426",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-07T20:00:00.000Z",
+      "abstract": "Computer-use agents (CUAs) increasingly operate in runtimes that combine visual desktop control, command-line execution, code editing, browsers, and external tools. Existing benchmarks, however, often",
+      "authors": [
+        "Wanli Li",
+        "Bowen Zhou",
+        "Yunyao Yu",
+        "Zhou Xu",
+        "Yifan Yang"
+      ],
+      "tags": [
+        "agent",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

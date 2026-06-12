@@ -1,28 +1,51 @@
 {
-  "generatedAt": "2026-06-12T01:42:20.870Z",
+  "generatedAt": "2026-06-12T06:25:39.153Z",
   "date": "05-06-2026",
-  "count": 4,
+  "count": 5,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2606.07943",
-      "title": "POISE: Position-Aware Undetectable Skill Injection on LLM Agents",
-      "url": "https://huggingface.co/papers/2606.07943",
+      "id": "hf_paper_2606.08063",
+      "title": "Robust-U1: Can MLLMs Self-Recover Corrupted Visual Content for Robust Understanding?",
+      "url": "https://huggingface.co/papers/2606.08063",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-05T20:00:00.000Z",
-      "abstract": "Agent skills provide a lightweight mechanism for extending general-purpose agents, but their open format exposes them to skill-poisoning attacks. A practically dangerous injection must stay invisible:",
+      "abstract": "Multimodal Large Language Models (MLLMs) have demonstrated remarkable success in visual understanding, yet their performance degrades significantly under real-world visual corruptions. While existing",
       "authors": [
-        "Haochang Hao",
-        "Dehai Min",
-        "Zhifang Zhang",
-        "Yunbei Zhang",
-        "Miao Xu"
+        "Jiaqi Tang",
+        "Jianmin Chen",
+        "Youyang Zhai",
+        "Wei Wei",
+        "Runtao Liu"
       ],
       "tags": [
-        "llm",
-        "agent"
+        "llm"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.08039",
+      "title": "MuJoCo-Drones-Gym: A GPU-Accelerated Multi-Drone Simulator for Control and Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2606.08039",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-05T20:00:00.000Z",
+      "abstract": "Robotic simulators are a cornerstone of modern research in aerial robotics, serving both as a vehicle for the development of new control algorithms and as the data source for training reinforcement le",
+      "authors": [
+        "Manan Tayal"
+      ],
+      "tags": [
+        "reinforcement learning"
       ],
       "score": 6,
       "priority": "MEDIUM",

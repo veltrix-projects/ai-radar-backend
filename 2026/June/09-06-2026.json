@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-12T01:42:20.868Z",
+  "generatedAt": "2026-06-12T06:25:38.995Z",
   "date": "09-06-2026",
-  "count": 32,
+  "count": 25,
   "summary": null,
   "items": [
     {
@@ -17,30 +17,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.11553",
-      "title": "APEX: A Network-Native Time-Series Foundation Model for Forecasting and Anomaly Detection for Wireless Edge Operations",
-      "url": "https://huggingface.co/papers/2606.11553",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-09T21:23:24.000Z",
-      "abstract": "Generic time-series foundation models transfer poorly to wireless network telemetry whose signals are bursty, zero-inflated, and coupled across protocol layers. We present APEX, a network-native, deco",
-      "authors": [
-        "Swadhin Pradhan",
-        "Niloo Bahadori",
-        "Peiman Amini"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -71,21 +47,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.12385",
-      "title": "Which Models Are Our Models Built On? Auditing Invisible Dependencies in Modern LLMs",
-      "url": "https://huggingface.co/papers/2606.12385",
+      "id": "hf_paper_2606.12674",
+      "title": "Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents",
+      "url": "https://huggingface.co/papers/2606.12674",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-09T20:00:00.000Z",
-      "abstract": "Modern LLM training pipelines increasingly rely on other models to generate data, filter corpora, judge outputs, and guide development decisions. These dependencies are recursive: a model may depend o",
+      "abstract": "Compact language models (LMs) reduce cost, latency, and deployment risk for tool agents. Yet MCP-style tool use requires more than isolated function calling: an agent must discover tools from live cat",
       "authors": [
-        "Sanjay Adhikesaven",
-        "Haoxiang Sun",
-        "Sewon Min"
+        "Kushal Raj Bhandari",
+        "Ling Yue",
+        "Ching-Yun Ko",
+        "Dhaval Patel",
+        "Shaowu Pan"
       ],
       "tags": [
-        "llm"
+        "agent",
+        "inference"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -97,98 +76,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.12412",
-      "title": "Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models",
-      "url": "https://huggingface.co/papers/2606.12412",
+      "id": "hf_paper_2606.12087",
+      "title": "FORT-Searcher: Synthesizing Shortcut-Resistant Search Tasks for Training Deep Search Agents",
+      "url": "https://huggingface.co/papers/2606.12087",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-09T20:00:00.000Z",
-      "abstract": "Vision-language models (VLMs) project images into hundreds to thousands of visual tokens, making decoder inference expensive in both attention computation and KV-cache memory. Existing visual-token re",
+      "abstract": "Training deep search agents requires verifiable questions whose answers remain unavailable until sufficient evidence has been acquired through search. Existing synthesis methods often increase apparen",
       "authors": [
-        "Cheng-Yu Yang",
-        "Shao-Yuan Lo",
-        "Yu-Lun Liu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.12203",
-      "title": "Adaptive Multi-Resolution Procedural Knowledge Compression for Large Language Models",
-      "url": "https://huggingface.co/papers/2606.12203",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-09T20:00:00.000Z",
-      "abstract": "Large language models (LLMs) are widely used to tackle complex tasks with autonomous workflows. Recently, reusable natural language skills have emerged as a popular paradigm to inject procedural knowl",
-      "authors": [
-        "Changyue Wang",
-        "Weihang Su",
-        "Qingyao Ai",
-        "Yichen Tang",
-        "Runzhong Qiao"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.11817",
-      "title": "Grammar-Constrained Decoding Can Jailbreak LLMs into Generating Malicious Code",
-      "url": "https://huggingface.co/papers/2606.11817",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-09T20:00:00.000Z",
-      "abstract": "Large Language Models (LLMs) are increasingly used for code generation, raising concerns that they may be misused to produce malicious code. Meanwhile, Grammar-Constrained Decoding (GCD) has been wide",
-      "authors": [
-        "Yitong Zhang",
-        "Shiteng Lu",
-        "Jia Li"
+        "Jia Deng",
+        "Yimeng Chen",
+        "Xiaoqing Xiang",
+        "Ziyang Zeng",
+        "Shuo Tang"
       ],
       "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.11990",
-      "title": "Time-Series Foundation Model Embeddings for Remaining Useful Life Estimation",
-      "url": "https://huggingface.co/papers/2606.11990",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-09T20:00:00.000Z",
-      "abstract": "Remaining Useful Life (RUL) prediction is essential for industrial predictive maintenance, yet many learning-based approaches rely on extensive feature engineering or large labeled datasets to train t",
-      "authors": [
-        "Amir El-Ghoussani",
-        "Michele De Vita",
-        "Ronald Naumann",
-        "Valiseios Belagiannis"
-      ],
-      "tags": [
-        "embeddings"
+        "agent",
+        "training"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -232,31 +137,6 @@
       "tags": [
         "inference"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.11482",
-      "title": "Building Social World Models with Large Language Models",
-      "url": "https://huggingface.co/papers/2606.11482",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-09T18:15:51.000Z",
-      "abstract": "Understanding and predicting how social beliefs evolve in response to events -- from policy changes to scientific breakthroughs -- remains a fundamental challenge in social science. Given LLMs' common",
-      "authors": [
-        "Haofei Yu",
-        "Yining Zhao",
-        "Guanyu Lin",
-        "Jiaxuan You"
-      ],
-      "tags": [],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
@@ -505,35 +385,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.11119",
-      "title": "TRACE: A Unified Rollout Budget Allocation Framework for Efficient Agentic Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2606.11119",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-09T13:16:03.000Z",
-      "abstract": "Reinforcement learning with verifiable rewards (RLVR) is a promising approach for enhancing reasoning and agentic behavior in large language models. However, rollout-intensive policy optimization is o",
-      "authors": [
-        "Heming Zou",
-        "Qi Wang",
-        "Yun Qu",
-        "Yuhang Jiang",
-        "Lizhou Cai"
-      ],
-      "tags": [
-        "agent",
-        "reinforcement learning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fnextd",
       "title": "How engineers at Nextdoor use Codex to build without limits",
       "url": "https://openai.com/index/nextdoor",
@@ -620,7 +471,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 139864,
+      "stars": 139946,
       "votes": 0,
       "points": 0
     },
@@ -677,32 +528,6 @@
       "tags": [
         "autonomous"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.10587",
-      "title": "Towards Diverse Scientific Hypothesis Search with Large Language Models",
-      "url": "https://huggingface.co/papers/2606.10587",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-09T04:52:49.000Z",
-      "abstract": "Large language models (LLMs) are on the rise for accelerating scientific discovery, most recently in advanced tasks such as generating valid scientific hypotheses. Yet in many discovery settings, the",
-      "authors": [
-        "Haorui Wang",
-        "Parshin Shojaee",
-        "Kazem Meidani",
-        "Kunyang Sun",
-        "José Miguel Hernández-Lobato"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

@@ -1,38 +1,9 @@
 {
-  "generatedAt": "2026-06-12T01:42:20.871Z",
+  "generatedAt": "2026-06-12T06:25:39.155Z",
   "date": "02-06-2026",
-  "count": 4,
+  "count": 3,
   "summary": null,
   "items": [
-    {
-      "id": "hf_paper_2606.04511",
-      "title": "SparDA: Sparse Decoupled Attention for Efficient Long-Context LLM Inference",
-      "url": "https://huggingface.co/papers/2606.04511",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-02T20:00:00.000Z",
-      "abstract": "Sparse attention reduces compute and memory bandwidth for long-context LLM inference. However, two key challenges remain: (1) KV cache capacity still grows with sequence length, and offloading to CPU",
-      "authors": [
-        "Yaosheng Fu",
-        "Guangxuan Xiao",
-        "Xin Dong",
-        "Song Han",
-        "Oreste Villa"
-      ],
-      "tags": [
-        "llm",
-        "inference"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "Build Personal AI Agents on Windows PCs with New Tools from Microsoft and NVIDIA",
