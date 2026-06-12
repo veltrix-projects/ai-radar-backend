@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-06-12T21:01:34.514Z",
+  "generatedAt": "2026-06-12T22:53:05.976Z",
   "date": "09-06-2026",
   "count": 19,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2606.12730",
+      "title": "Rethinking Psychometric Evaluation of LLMs: When and Why Self-Reports Predict Behavior",
+      "url": "https://huggingface.co/papers/2606.12730",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-09T20:00:00.000Z",
+      "abstract": "Anticipating LLM behavioral tendencies from low-cost psychometric probes is critical for safe deployment, but only if self-reports (SR) reliably predict behavior. Recent work documented substantial SR",
+      "authors": [
+        "Rafal Kocielnik",
+        "Pengrui Han",
+        "Peiyang Song",
+        "Myrl G. Marmarelis",
+        "Ramit Debnath"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2606.12488",
       "title": "A Stationary (and Therefore Compatible) Representation is All You Need",
@@ -118,32 +146,6 @@
       "abstract": "Expressive performance rendering (EPR) aims to generate realistic performances constrained on sequences of notes. However, flow matching audio editing models manipulate only synchronized music samples",
       "authors": [
         "Dmitrii Gavrilev"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.12575",
-      "title": "High-Fidelity Two-Step Image Generation via Teacher-Aligned End-to-End Distillation",
-      "url": "https://huggingface.co/papers/2606.12575",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-09T20:00:00.000Z",
-      "abstract": "Few-step diffusion distillation has become increasingly mature for 4-8-step generation, yet pushing further to 2 steps remains challenging. In this work, we introduce Z-Image Turbo++, a high-quality 2",
-      "authors": [
-        "Dongyang Liu",
-        "Ruoyi Du",
-        "David Liu",
-        "Dengyang Jiang",
-        "Liangchen Li"
       ],
       "tags": [],
       "score": 6,
