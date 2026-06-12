@@ -1,25 +1,54 @@
 {
-  "generatedAt": "2026-06-12T06:25:39.106Z",
+  "generatedAt": "2026-06-12T10:45:55.380Z",
   "date": "08-06-2026",
-  "count": 5,
+  "count": 6,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2606.10768",
-      "title": "N-GRPO: Embedding-Level Neighbor Mixing for Enhanced Policy Optimization",
-      "url": "https://huggingface.co/papers/2606.10768",
+      "id": "hf_paper_2606.10896",
+      "title": "Flash-GMM: A Memory-Efficient Kernel for Scalable Soft Clustering",
+      "url": "https://huggingface.co/papers/2606.10896",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-08T20:00:00.000Z",
-      "abstract": "The success of Large Language Models in mathematical reasoning relies heavily on the generation of diverse and valid solution paths during the rollout phase. However, current rollout techniques face a",
+      "abstract": "We present Flash-GMM, a fused Triton kernel for efficient computation of Gaussian Mixture Models (GMMs) over large-scale data in a single GPU pass. By eliminating the need to materialize the full resp",
       "authors": [
-        "Xukun Zhu",
-        "Hang Yu",
-        "Peng Di",
-        "Linchao Zhu"
+        "Gal Bloch",
+        "Ariel Gera",
+        "Matan Orbach",
+        "Ohad Eytan",
+        "Assaf Toledo"
       ],
       "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.11096",
+      "title": "IDEAL: In-DEpth ALignment Makes A Discrete Representation AutoEncoder",
+      "url": "https://huggingface.co/papers/2606.11096",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-08T20:00:00.000Z",
+      "abstract": "Built on pretrained vision foundation models (VFMs), representation autoencoders (RAEs) have recently emerged as a promising approach for constructing semantically rich latent spaces for image generat",
+      "authors": [
+        "Yitong Chen",
+        "Zijie Diao",
+        "Junke Wang",
+        "Lingyu Kong",
+        "Yixuan Ren"
+      ],
+      "tags": [
+        "alignment"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
