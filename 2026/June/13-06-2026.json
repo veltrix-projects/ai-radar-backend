@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-14T16:52:16.194Z",
+  "generatedAt": "2026-06-14T18:07:38.412Z",
   "date": "13-06-2026",
-  "count": 24,
+  "count": 27,
   "summary": null,
   "items": [
     {
@@ -53,7 +53,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 184939,
+      "stars": 184942,
       "votes": 0,
       "points": 0
     },
@@ -244,21 +244,22 @@
       "points": 0
     },
     {
-      "id": "reddit_LocalLLaMA_t3_1u4wy3p",
-      "title": "This is coming to Chinese open source models pretty soon. - prepare yourself.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u4wy3p/this_is_coming_to_chinese_open_source_models/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-06-13T17:32:55+00:00",
-      "abstract": "",
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "How to Build a QwenPaw Agent Workspace with Custom Skills, Model Providers, Console Access, and Streaming API Testing",
+      "url": "https://www.marktechpost.com/2026/06/13/how-to-build-a-qwenpaw-agent-workspace-with-custom-skills-model-providers-console-access-and-streaming-api-testing/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-06-13T17:27:22.000Z",
+      "abstract": "In this tutorial, we implement a QwenPaw workflow that provides a practical environment for building and testing an agent-powered assistant. We install and initialize QwenPaw, configure its working di",
       "authors": [],
       "tags": [
-        "open source"
+        "qwen",
+        "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -332,7 +333,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 141481,
+      "stars": 141486,
       "votes": 0,
       "points": 0
     },
@@ -437,6 +438,48 @@
       "points": 0
     },
     {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Anthropic Disables Claude Fable 5 and Mythos 5 After US Government Order",
+      "url": "https://www.marktechpost.com/2026/06/13/anthropic-disables-claude-fable-5-and-mythos-5-after-us-government-order/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-06-13T08:15:18.000Z",
+      "abstract": "shutdown followed a US government export control directive citing national security authorities. All other Anthropic models, including Opus 4.8, remain available.\nThe post Anthropic Disables Claude Fa",
+      "authors": [],
+      "tags": [
+        "claude"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Moonshot AI Releases Kimi K2.7-Code: a Coding Model Reporting +21.8% on Kimi Code Bench v2 Over K2.6",
+      "url": "https://www.marktechpost.com/2026/06/12/moonshot-ai-releases-kimi-k2-7-code-a-coding-model-reporting-21-8-on-kimi-code-bench-v2-over-k2-6/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-06-13T04:57:12.000Z",
+      "abstract": "Moonshot AI has open-sourced Kimi K2.7-Code under a Modified MIT license. It is a coding-focused, agentic model built on Kimi K2.6, with a 256K context window and roughly 30% lower reasoning-token usa",
+      "authors": [],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "techcrunch_ai_https%3A%2F%2Ftechcrunch.com%2F2026%2F06",
       "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
       "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
@@ -501,6 +544,28 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "A Coding Implementation on Spatial Graph Neural Networks for Urban Function Inference Using city2graph, OSMnx, and PyTorch Geometric",
+      "url": "https://www.marktechpost.com/2026/06/12/a-coding-implementation-on-spatial-graph-neural-networks-for-urban-function-inference-using-city2graph-osmnx-and-pytorch-geometric/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-06-13T02:47:16.000Z",
+      "abstract": "We build an end-to-end spatial graph learning pipeline using city2graph. We collect urban POI and street network data from OpenStreetMap, with a synthetic fallback for reliability. We engineer spatial",
+      "authors": [],
+      "tags": [
+        "inference"
+      ],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
