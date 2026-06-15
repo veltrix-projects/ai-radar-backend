@@ -1,9 +1,59 @@
 {
-  "generatedAt": "2026-06-15T11:46:20.594Z",
+  "generatedAt": "2026-06-15T16:59:08.240Z",
   "date": "30-05-2026",
-  "count": 1,
+  "count": 3,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2606.01462",
+      "title": "An Enigma of Artificial Reason: Investigating the Production-Evaluation Gap in Large Reasoning Models",
+      "url": "https://huggingface.co/papers/2606.01462",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-30T20:00:00.000Z",
+      "abstract": "Studies of human reasoning have shown that people are typically stronger at evaluating reasoning than producing it from scratch. In contrast, large reasoning models (LRMs) are trained to excel at prod",
+      "authors": [
+        "Mingzhong Sun",
+        "Teresa Yeo",
+        "Armando Solar-Lezama",
+        "Tan Zhi-Xuan"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.01008",
+      "title": "FVSpec: Real-World Property-Based Tests as Lean Challenges",
+      "url": "https://huggingface.co/papers/2606.01008",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-05-30T20:00:00.000Z",
+      "abstract": "We present a benchmark for evaluating AI models and agents on real-world formal software verification tasks. We first scrape 11,039 property-based tests (PBTs) from real-world Python repositories, the",
+      "authors": [
+        "Quinn Dougherty",
+        "Max von Hippel",
+        "Hazel Shackleton",
+        "Mike Dodds"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2606.02641",
       "title": "CARVE: Certified Affordable Repair of Vetoed Maneuvers via Envelopes for Interactive Driving",

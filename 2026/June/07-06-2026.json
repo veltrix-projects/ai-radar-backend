@@ -1,31 +1,57 @@
 {
-  "generatedAt": "2026-06-15T11:46:20.589Z",
+  "generatedAt": "2026-06-15T16:59:08.237Z",
   "date": "07-06-2026",
-  "count": 1,
+  "count": 2,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2606.00793",
-      "title": "MBench: A Comprehensive Benchmark on Memory Capability for Video World Models",
-      "url": "https://huggingface.co/papers/2606.00793",
+      "id": "hf_paper_2606.09813",
+      "title": "iMaC: Translating Actions into Motion and Contact Images for Embodied World Models",
+      "url": "https://huggingface.co/papers/2606.09813",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-07T20:00:00.000Z",
-      "abstract": "Recent advancements in video-based world models have demonstrated an unprecedented ability to synthesize high-fidelity visual sequences. However, a fundamental gap persists between visually plausible",
+      "abstract": "Embodied world models have emerged as a pivotal paradigm for visual robotic decision-making and interactive environment simulation. However, conventional embodied frameworks rely on low-dimensional st",
       "authors": [
-        "Shengjun Zhang",
-        "Zhang Zhang",
-        "Simin Huang",
-        "Zhenyu Tang",
-        "Hanyang Wang"
+        "Zhenyu Wu",
+        "Xiuwei Xu",
+        "Yukun Zhou",
+        "Yifan Li",
+        "Qiuping Deng"
       ],
-      "tags": [
-        "benchmark"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.08952",
+      "title": "AlloSpatial: Agentic Harness Framework for Spatial Reasoning in Foundation Models",
+      "url": "https://huggingface.co/papers/2606.08952",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-07T20:00:00.000Z",
+      "abstract": "Multimodal Foundation Models (MFMs) have made substantial progress, yet remain fragile in spatial reasoning over the physical world. A key bottleneck lies in their inability to transform local egocent",
+      "authors": [
+        "Shouwei Ruan",
+        "Bin Wang",
+        "Zhenyu Wu",
+        "Qihui Zhu",
+        "Yuxiang Zhang"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

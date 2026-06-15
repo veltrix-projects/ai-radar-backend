@@ -1,9 +1,38 @@
 {
-  "generatedAt": "2026-06-15T11:46:20.589Z",
+  "generatedAt": "2026-06-15T16:59:08.237Z",
   "date": "08-06-2026",
   "count": 3,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2606.10747",
+      "title": "The Arbiter Agent: Continually Monitoring Multi-Agent Conversations to Detect Emergent Misalignment",
+      "url": "https://huggingface.co/papers/2606.10747",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-08T20:00:00.000Z",
+      "abstract": "As AI systems built from multiple language-model agents become more common, they are increasingly used to make decisions together: discussing, negotiating, and acting on shared tasks. While individual",
+      "authors": [
+        "Filippo Tonini",
+        "Federico Torrielli",
+        "Anton Danholt Lautrup",
+        "Peter Schneider-Kamp",
+        "Mustafa Mert Çelikok"
+      ],
+      "tags": [
+        "agent",
+        "alignment"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2606.11152",
       "title": "P3D-Bench: Benchmarking MLLMs for Parametric 3D Generation and Structural Reasoning",
@@ -24,26 +53,6 @@
         "llm",
         "benchmark"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
-      "title": "Train Models Faster with JAX and MaxText Using NVFP4 on NVIDIA Blackwell",
-      "url": "https://developer.nvidia.com/blog/train-models-faster-with-jax-and-maxtext-using-nvfp4-on-nvidia-blackwell/",
-      "source": "NVIDIA Blog",
-      "sourceIcon": "🟩",
-      "type": "tool",
-      "timestamp": "2026-06-08T18:18:06.000Z",
-      "abstract": "Pre-training frontier LLMs comes down to throughput. When training spans trillions of tokens across thousands of accelerators, every percentage point of step...]]>",
-      "authors": [],
-      "tags": [],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",

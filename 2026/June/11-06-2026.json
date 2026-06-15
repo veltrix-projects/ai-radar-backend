@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-15T11:46:20.587Z",
+  "generatedAt": "2026-06-15T16:59:08.235Z",
   "date": "11-06-2026",
-  "count": 26,
+  "count": 24,
   "summary": null,
   "items": [
     {
@@ -107,6 +107,57 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2606.14600",
+      "title": "LoSoNA: A Benchmark for Local Social Norm Adaptation in Group Conversations",
+      "url": "https://huggingface.co/papers/2606.14600",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-11T20:00:00.000Z",
+      "abstract": "Online group chats are social spaces with local conversational norms that are rarely stated explicitly. The ability and willingness of LLM-based agents to recognize and adapt to these norms remains mo",
+      "authors": [
+        "Mateusz Winiarek",
+        "Maksymilian Bilski",
+        "Mateusz Jacniacki"
+      ],
+      "tags": [
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.14346",
+      "title": "Squeeze-Release: Iterative Pruning with Exact Structural Minimization",
+      "url": "https://huggingface.co/papers/2606.14346",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-11T20:00:00.000Z",
+      "abstract": "Unstructured pruning produces sparse weight tensors, but the standard implementation keeps tensor shapes unchanged so the deployed model is no smaller than before pruning. We present an exact structur",
+      "authors": [
+        "Roman Denkin",
+        "Ida Akerholm",
+        "Prashant Singh",
+        "Ida-Maria Sintorn"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2606.14694",
       "title": "AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization",
       "url": "https://huggingface.co/papers/2606.14694",
@@ -126,118 +177,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.14700",
-      "title": "RepFusion: Leveraging Multimodal Priors for Denoising in Representation Space",
-      "url": "https://huggingface.co/papers/2606.14700",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-11T20:00:00.000Z",
-      "abstract": "Large language models (LLMs) are widely used in text-to-image (T2I) systems, but they are typically limited to text encoding, while denoising is handled by newly trained generative backbones. The emer",
-      "authors": [
-        "Xichen Pan",
-        "Aashu Singh",
-        "Satya Narayan Shukla",
-        "Xiangjun Fan",
-        "Shlok Kumar Mishra"
-      ],
-      "tags": [
-        "multimodal",
-        "rag"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.14061",
-      "title": "LLM Agents Can See Code Repositories",
-      "url": "https://huggingface.co/papers/2606.14061",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-11T20:00:00.000Z",
-      "abstract": "Coding agents powered by large language models have demonstrated strong performance on software engineering tasks. Yet most agents consume repositories almost entirely as text, which differs from how",
-      "authors": [
-        "Dongjian Ma",
-        "Silin Chen",
-        "Yufei Yang",
-        "Yulin Shi",
-        "Yanfu yan"
-      ],
-      "tags": [
-        "llm",
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.14409",
-      "title": "Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack",
-      "url": "https://huggingface.co/papers/2606.14409",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-11T20:00:00.000Z",
-      "abstract": "In this report, we present Hy-Embodied-0.5-VLA, abbreviated as HyVLA-0.5, an end-to-end system that spans the full robot learning stack: data collection, model design, continued pre-training and super",
-      "authors": [
-        "He Zhang",
-        "Lingzhu Xiang",
-        "Haitao Lin",
-        "Zeyu Huang",
-        "Minghui Wang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.14249",
-      "title": "HarnessX: A Composable, Adaptive, and Evolvable Agent Harness Foundry",
-      "url": "https://huggingface.co/papers/2606.14249",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-11T20:00:00.000Z",
-      "abstract": "AI agent performance depends critically on the runtime harness, comprising the prompts, tools, memory, and control flow that mediate how a model observes, reasons, and acts. Yet today's harnesses rema",
-      "authors": [
-        "Tingyang Chen",
-        "Shuo Lu",
-        "Kang Zhao",
-        "Weicheng Meng",
-        "Hanlin Teng"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -491,9 +430,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fsuppo",
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fbbva",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
@@ -511,9 +450,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fbbva",
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "url": "https://openai.com/index/bbva",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fusing",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
@@ -551,9 +490,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fusing",
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fsuppo",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
