@@ -1,50 +1,24 @@
 {
-  "generatedAt": "2026-06-12T01:42:20.872Z",
+  "generatedAt": "2026-06-15T05:34:12.819Z",
   "date": "01-06-2026",
-  "count": 2,
+  "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2606.04261",
-      "title": "Can Generalist Agents Automate Data Curation?",
-      "url": "https://huggingface.co/papers/2606.04261",
+      "id": "hf_paper_2605.30789",
+      "title": "Smaller Models are Natural Explorers for Policy-Level Diversity in GRPO",
+      "url": "https://huggingface.co/papers/2605.30789",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-01T20:00:00.000Z",
-      "abstract": "Curating training data is among the most consequential yet labor-intensive parts of modern AI development: practitioners iteratively propose, implement, evaluate, and revise data policies against nois",
+      "abstract": "We identify a new dimension for enhancing rollout diversity in Group Relative Policy Optimization (GRPO) for LLMs. While GRPO relies on diverse rollouts, prevailing strategies primarily increase diver",
       "authors": [
-        "Feiyang Kang",
-        "Hanze Li",
-        "Adam Nguyen",
-        "Mahavir Dabas",
-        "Jiaqi W. Ma"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.03437",
-      "title": "Large Language Models Are Overconfident in Their Own Responses",
-      "url": "https://huggingface.co/papers/2606.03437",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-01T20:00:00.000Z",
-      "abstract": "Prior work has shown that instruction-tuned large language models (LLMs) are less well calibrated than their base pre-trained counterparts. However, little is known about the frequently used chat temp",
-      "authors": [
-        "Mario Sanz-Guerrero",
-        "Manuel Mager",
-        "Katharina von der Wense"
+        "Yiming Ren",
+        "Yiran Xu",
+        "Zicheng Lin",
+        "Chufan Shi",
+        "Yukang Chen"
       ],
       "tags": [],
       "score": 6,

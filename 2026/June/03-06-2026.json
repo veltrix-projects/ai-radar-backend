@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-14T22:59:08.521Z",
+  "generatedAt": "2026-06-15T05:34:12.818Z",
   "date": "03-06-2026",
-  "count": 3,
+  "count": 6,
   "summary": null,
   "items": [
     {
@@ -49,6 +49,87 @@
       ],
       "tags": [
         "text-to-image"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.06309",
+      "title": "RhymeFlow: Training-Free Acceleration for Video Generation with Asynchronous Denoising Flow Scheduling",
+      "url": "https://huggingface.co/papers/2606.06309",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-03T20:00:00.000Z",
+      "abstract": "Video generation models based on Diffusion Transformers (DiTs) have achieved remarkable performance in video synthesis, yet they suffer from high inference latency and computational costs due to the q",
+      "authors": [
+        "Chensheng Dai",
+        "Shengjun Zhang",
+        "Yifan Li",
+        "Zhang Zhang",
+        "Zheng Zhu"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.06036",
+      "title": "Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents",
+      "url": "https://huggingface.co/papers/2606.06036",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-03T20:00:00.000Z",
+      "abstract": "Despite recent progress, LLM agents still struggle with reasoning over long interaction histories. While current memory-augmented agents rely on a static retrieve-then-reason paradigm, this rigid pipe",
+      "authors": [
+        "Shuo Ji",
+        "Yibo Li",
+        "Bryan Hooi"
+      ],
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.06574",
+      "title": "Skip a Layer or Loop It? Learning Program-of-Layers in LLMs",
+      "url": "https://huggingface.co/papers/2606.06574",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-03T20:00:00.000Z",
+      "abstract": "Large language models (LLMs) perform inference by following a fixed depth and order, non-recurrent execution of all layers. We reveal the wide existence of training-free, flexible, dynamic program-of-",
+      "authors": [
+        "Ziyue Li",
+        "Yang Li",
+        "Tianyi Zhou"
+      ],
+      "tags": [
+        "llm"
       ],
       "score": 6,
       "priority": "MEDIUM",

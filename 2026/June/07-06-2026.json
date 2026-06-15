@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-14T22:59:08.519Z",
+  "generatedAt": "2026-06-15T05:34:12.816Z",
   "date": "07-06-2026",
-  "count": 1,
+  "count": 2,
   "summary": null,
   "items": [
     {
@@ -25,6 +25,34 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.00793",
+      "title": "MBench: A Comprehensive Benchmark on Memory Capability for Video World Models",
+      "url": "https://huggingface.co/papers/2606.00793",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-07T20:00:00.000Z",
+      "abstract": "Recent advancements in video-based world models have demonstrated an unprecedented ability to synthesize high-fidelity visual sequences. However, a fundamental gap persists between visually plausible",
+      "authors": [
+        "Shengjun Zhang",
+        "Zhang Zhang",
+        "Simin Huang",
+        "Zhenyu Tang",
+        "Hanyang Wang"
+      ],
+      "tags": [
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

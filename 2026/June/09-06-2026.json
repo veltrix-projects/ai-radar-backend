@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-14T22:59:08.519Z",
+  "generatedAt": "2026-06-15T05:34:12.815Z",
   "date": "09-06-2026",
-  "count": 18,
+  "count": 20,
   "summary": null,
   "items": [
     {
@@ -158,6 +158,89 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2606.12736",
+      "title": "Benchmarking AI Agents for Addressing Scientific Challenges Across Scales",
+      "url": "https://huggingface.co/papers/2606.12736",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-09T20:00:00.000Z",
+      "abstract": "AI agents are increasingly being developed to accelerate scientific discovery, yet their practical capabilities in real research settings remain poorly understood. Existing benchmarks for AI agents ra",
+      "authors": [
+        "Tianyu Liu",
+        "Allen Xin Wang",
+        "Antonia Panescu",
+        "Lisa Xinyi Chen",
+        "Wenxin Long"
+      ],
+      "tags": [
+        "agent",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.10813",
+      "title": "RedAct: Redacting Agent Capability Traces for Procedural Skill Protection",
+      "url": "https://huggingface.co/papers/2606.10813",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-09T20:00:00.000Z",
+      "abstract": "Users rely on execution traces to observe agent behavior, diagnose failures, and ensure accountability. These traces contain rich procedural detail, including tool invocations, intermediate decisions,",
+      "authors": [
+        "Shuwen Xu",
+        "Zhitao He",
+        "Yi R. Fung"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.13707",
+      "title": "Orchestra-o1: Omnimodal Agent Orchestration",
+      "url": "https://huggingface.co/papers/2606.13707",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-09T20:00:00.000Z",
+      "abstract": "The recent success of agent swarms has shifted the paradigm of large language model (LLM)-based agents from single-agent workflows to multi-agent systems, highlighting the importance of agent orchestr",
+      "authors": [
+        "Fan Zhang",
+        "Vireo Zhang",
+        "Shengju Qian",
+        "Haoxuan Li",
+        "Hao Wu"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "Delivering Lifecycle Control for AI Infrastructure at Scale with NVIDIA DGX Spark Enterprise Manageability",
       "url": "https://developer.nvidia.com/blog/delivering-lifecycle-control-for-ai-infrastructure-at-scale-with-nvidia-dgx-spark-enterprise-manageability/",
@@ -301,26 +384,6 @@
       "tags": [
         "robotics"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fnextd",
-      "title": "How engineers at Nextdoor use Codex to build without limits",
-      "url": "https://openai.com/index/nextdoor",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-06-09T12:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",

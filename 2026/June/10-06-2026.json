@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-14T22:59:08.518Z",
+  "generatedAt": "2026-06-15T05:34:12.815Z",
   "date": "10-06-2026",
-  "count": 18,
+  "count": 24,
   "summary": null,
   "items": [
     {
@@ -138,6 +138,138 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2606.13141",
+      "title": "Rethinking RAG in Long Videos: What to Retrieve and How to Use It?",
+      "url": "https://huggingface.co/papers/2606.13141",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-10T20:00:00.000Z",
+      "abstract": "Retrieval-augmented generation is moving beyond text into long, egocentric video, where systems must select query-relevant chunks across multiple modalities and temporal granularities. Yet progress in",
+      "authors": [
+        "Yuho Lee",
+        "Jisu Shin",
+        "Nicole Hee-Yeon Kim",
+        "Jihwan Bang",
+        "Juntae Lee"
+      ],
+      "tags": [
+        "rag"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.13432",
+      "title": "OmniDirector: General Multi-Shot Camera Cloning without Cross-Paired Data",
+      "url": "https://huggingface.co/papers/2606.13432",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-10T20:00:00.000Z",
+      "abstract": "Cloning camera motion from reference videos is an important task in video generation, as videos provide intuitive and precise control. Existing methods either directly use parametric representations t",
+      "authors": [
+        "Jiwen Liu",
+        "Shujuan Li",
+        "Zhixue Fang",
+        "Xiaohan Li",
+        "Yan Zhou"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.13872",
+      "title": "Avatar V: Scaling Video-Reference Avatar Video Generation",
+      "url": "https://huggingface.co/papers/2606.13872",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-10T20:00:00.000Z",
+      "abstract": "Generating avatar videos that are not merely visually similar to a target individual but behaviorally recognizable, faithfully reproducing their talking rhythm, gestural tendencies, and expression dyn",
+      "authors": [
+        "Benjamin Liang",
+        "Ce Chen",
+        "Desmond Lin",
+        "Ivan Somov",
+        "Jiajun Zhao"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.13769",
+      "title": "μ_0: A Scalable 3D Interaction-Trace World Model",
+      "url": "https://huggingface.co/papers/2606.13769",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-10T20:00:00.000Z",
+      "abstract": "World models that capture how actions induce physical change enable scalable robot learning without reliance on embodiment-specific action labels. Pixel-space video models provide broad visual priors",
+      "authors": [
+        "Seungjae Lee",
+        "Yoonkyo Jung",
+        "Jusuk Lee",
+        "Jonghun Shin",
+        "Amir Hossein Shahidzadeh"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.12883",
+      "title": "The Hidden Power of Scaling Factor in LoRA Optimization",
+      "url": "https://huggingface.co/papers/2606.12883",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-10T20:00:00.000Z",
+      "abstract": "In Low-Rank Adaptation (LoRA), the scaling factor α is often treated as a mere complement to the learning rate, yet its role in optimization remains poorly understood. In this paper, we reveal that th",
+      "authors": [
+        "Zicheng Zhang",
+        "Haoran Li",
+        "Jiaxing Wang",
+        "Guoqiang Gong",
+        "Anqi Li"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Fn",
       "title": "New framework for auditing machine unlearning",
       "url": "https://research.google/blog/new-framework-for-auditing-machine-unlearning/",
@@ -239,6 +371,34 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.12384",
+      "title": "APPO: Agentic Procedural Policy Optimization",
+      "url": "https://huggingface.co/papers/2606.12384",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-10T13:47:07.000Z",
+      "abstract": "Recent advances in agentic Reinforcement Learning (RL) have substantially improved the multi-turn tool-use capabilities of large language model agents. However, most existing methods assign credit ove",
+      "authors": [
+        "Xucong Wang",
+        "Ziyu Ma",
+        "Yong Wang",
+        "Yuxiang Ji",
+        "Shidong Yang"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
