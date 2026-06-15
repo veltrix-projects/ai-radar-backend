@@ -1,33 +1,29 @@
 {
-  "generatedAt": "2026-06-12T13:57:49.185Z",
+  "generatedAt": "2026-06-15T11:46:20.590Z",
   "date": "06-06-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2606.08788",
-      "title": "MaskAlign: Token-Subset Representation Alignment for Efficient Diffusion Training",
-      "url": "https://huggingface.co/papers/2606.08788",
+      "id": "hf_paper_2606.08670",
+      "title": "WaveDiT: Distribution-Aware Wavelet Flow Matching for Efficient 3D Brain MRI Synthesis",
+      "url": "https://huggingface.co/papers/2606.08670",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-06T20:00:00.000Z",
-      "abstract": "Representation alignment with pretrained vision models has recently shown strong potential for accelerating diffusion transformer training. By aligning intermediate diffusion features with clean-image",
+      "abstract": "Large and demographically balanced datasets are essential for reliable neuroimaging biomarkers. Full-resolution 3D brain MRI synthesis can support data augmentation in this setting, but existing appro",
       "authors": [
-        "Lianyu Pang",
-        "Tianlin Pan",
-        "Cheng Da",
-        "Changqian Yu",
-        "Huan Yang"
+        "Danilo Danese",
+        "Angela Lombardi",
+        "Giuseppe Fasano",
+        "Matteo Attimonelli",
+        "Tommaso Di Noia"
       ],
-      "tags": [
-        "diffusion",
-        "training",
-        "alignment"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
