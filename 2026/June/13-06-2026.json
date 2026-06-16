@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T05:42:09.962Z",
+  "generatedAt": "2026-06-16T10:54:22.385Z",
   "date": "13-06-2026",
   "count": 5,
   "summary": null,
@@ -25,22 +25,23 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.15631",
-      "title": "Retrieve, Don't Retrain: Extending Vision Language Action Models to New Tasks at Test Time",
-      "url": "https://huggingface.co/papers/2606.15631",
+      "id": "hf_paper_2606.16011",
+      "title": "Who Flips? Self- and Cross-Model Counterarguments Reveal Answer Instability in LLMs",
+      "url": "https://huggingface.co/papers/2606.16011",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-13T20:00:00.000Z",
-      "abstract": "Extending a vision-language-action (VLA) policy to a new task typically requires task-specific teleoperated demonstrations and per-task fine-tuning, making adaptation costly in both data collection an",
+      "abstract": "Standard accuracy benchmarks are designed to test how closely large language models (LLMs) approach correct answers, but are not suitable for testing whether LLMs stick with a correct answer when that",
       "authors": [
-        "Jeongeun Park",
-        "Juhan Park",
-        "Taekyung Kim",
-        "Sungjoon Choi",
-        "Dongyoon Han"
+        "Nafiseh Nikeghbal",
+        "Amir Hossein Kargaran",
+        "Shaghayegh Kolli",
+        "Jana Diesner"
       ],
-      "tags": [],
+      "tags": [
+        "llm"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

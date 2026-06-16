@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-16T05:42:09.963Z",
+  "generatedAt": "2026-06-16T10:54:22.386Z",
   "date": "11-06-2026",
-  "count": 20,
+  "count": 22,
   "summary": null,
   "items": [
     {
@@ -96,6 +96,54 @@
       "timestamp": "2026-06-11T20:47:48.000Z",
       "abstract": "Prometheus Inc., an artificial intelligence startup co-led by Amazon.com Inc. founder Jeff Bezos, has raised $12 billion in funding. Axios reported today that the Series B round values the company at",
       "authors": [],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.14667",
+      "title": "Memento: Reconstruct to Remember for Consistent Long Video Generation",
+      "url": "https://huggingface.co/papers/2606.14667",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-11T20:00:00.000Z",
+      "abstract": "Long-form video generation requires recurring subjects to remain consistent across various shots, viewpoints, motions, and scene transitions. Existing temporal decomposition methods improve scalabilit",
+      "authors": [
+        "Xuan Wei",
+        "Longbin Ji",
+        "Guan Wang",
+        "Xiangrui Liu",
+        "Zhenyu Zhang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.14819",
+      "title": "Selective Control under Noisy Perception: Governance Failures Hidden by Aggregate Metrics in Modular Networks",
+      "url": "https://huggingface.co/papers/2606.14819",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-11T20:00:00.000Z",
+      "abstract": "A content-moderation system can score well on every standard accuracy metric and still cause real harm, if its mistakes fall on the few users who connect otherwise separate communities. We show this i",
+      "authors": [
+        "Igor Itkin"
+      ],
       "tags": [],
       "score": 6,
       "priority": "MEDIUM",
@@ -350,9 +398,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fusing",
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fopena",
+      "title": "OpenAI to acquire Ona",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
@@ -390,9 +438,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fopena",
-      "title": "OpenAI to acquire Ona",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fusing",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
