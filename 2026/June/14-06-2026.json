@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-16T15:48:40.715Z",
+  "generatedAt": "2026-06-16T19:27:54.417Z",
   "date": "14-06-2026",
-  "count": 16,
+  "count": 13,
   "summary": null,
   "items": [
     {
@@ -263,58 +263,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.16449",
-      "title": "PermaVid: Consistent Video Generation Across Edits via Disentangled Context Memory",
-      "url": "https://huggingface.co/papers/2606.16449",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-14T20:00:00.000Z",
-      "abstract": "Consistent video generation under editing operations requires persistence: when edits modify scene appearance or layout, subsequent generations should remain coherent across time and viewpoints. Howev",
-      "authors": [
-        "Shuai Yang",
-        "Bingjie Gao",
-        "Ziwei Liu",
-        "Jiaqi Wang",
-        "Dahua Lin"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.17046",
-      "title": "Geometric Action Model for Robot Policy Learning",
-      "url": "https://huggingface.co/papers/2606.17046",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-14T20:00:00.000Z",
-      "abstract": "Generalist robot policies must follow user instructions while reasoning about how objects, cameras, and robot actions interact in the 3D physical world. Recent vision-language-action models (VLAs) and",
-      "authors": [
-        "Jisang Han",
-        "Seonghu Jeon",
-        "Jaewoo Jung",
-        "René Zurbrügg",
-        "Honggyu An"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fai-arti",
       "title": "China may have accessed Mythos",
       "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
@@ -371,29 +319,6 @@
         "Feng Gao"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Databricks Open-Sources Omnigent: A Meta-Harness That Composes, Governs, and Shares AI Agents Across Claude Code, Codex, and Pi",
-      "url": "https://www.marktechpost.com/2026/06/13/databricks-open-sources-omnigent-a-meta-harness-that-composes-governs-and-shares-ai-agents-across-claude-code-codex-and-pi/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-06-14T05:01:39.000Z",
-      "abstract": "Databricks has open-sourced Omnigent, a meta-harness that sits above coding agents like Claude Code, Codex, and Pi. It adds composition, contextual policies, and live session sharing under one interfa",
-      "authors": [],
-      "tags": [
-        "claude",
-        "agent"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
