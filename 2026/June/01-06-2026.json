@@ -1,26 +1,25 @@
 {
-  "generatedAt": "2026-06-15T16:59:08.240Z",
+  "generatedAt": "2026-06-16T15:48:40.721Z",
   "date": "01-06-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2605.30789",
-      "title": "Smaller Models are Natural Explorers for Policy-Level Diversity in GRPO",
-      "url": "https://huggingface.co/papers/2605.30789",
+      "id": "hf_paper_2602.21103",
+      "title": "Prompt-Level Distillation: A Non-Parametric Alternative to Model Fine-Tuning for Efficient Reasoning",
+      "url": "https://huggingface.co/papers/2602.21103",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-01T20:00:00.000Z",
-      "abstract": "We identify a new dimension for enhancing rollout diversity in Group Relative Policy Optimization (GRPO) for LLMs. While GRPO relies on diverse rollouts, prevailing strategies primarily increase diver",
+      "abstract": "Advanced reasoning typically requires Chain-of-Thought prompting, which is accurate but incurs prohibitive latency and substantial test-time inference costs. The standard alternative, fine-tuning smal",
       "authors": [
-        "Yiming Ren",
-        "Yiran Xu",
-        "Zicheng Lin",
-        "Chufan Shi",
-        "Yukang Chen"
+        "Sanket Badhe",
+        "Deep Shah"
       ],
-      "tags": [],
+      "tags": [
+        "fine-tuning"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
