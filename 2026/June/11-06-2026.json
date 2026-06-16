@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-16T00:23:23.709Z",
+  "generatedAt": "2026-06-16T05:42:09.963Z",
   "date": "11-06-2026",
-  "count": 22,
+  "count": 20,
   "summary": null,
   "items": [
     {
@@ -107,46 +107,23 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.14240",
-      "title": "AFFORDANCE20Q: Evaluating Affordance Reasoning from Physical Properties",
-      "url": "https://huggingface.co/papers/2606.14240",
+      "id": "hf_paper_2606.14832",
+      "title": "PhoneHarness: Harnessing Phone-Use Agents through Mixed GUI, CLI, and Tool Actions",
+      "url": "https://huggingface.co/papers/2606.14832",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-11T20:00:00.000Z",
-      "abstract": "Affordance reasoning, the inference of an object's action possibilities from its physical properties (e.g., shape and material), is fundamental to human physical understanding and increasingly critica",
+      "abstract": "Phone agents are increasingly expected to complete real mobile workflows rather than merely predict the next screen action. However, much of the current mobile-agent literature still evaluates agents",
       "authors": [
-        "Yifan Jiang",
-        "Meige Yang",
-        "Zitong Li",
-        "Jay Pujara"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.14600",
-      "title": "LoSoNA: A Benchmark for Local Social Norm Adaptation in Group Conversations",
-      "url": "https://huggingface.co/papers/2606.14600",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-11T20:00:00.000Z",
-      "abstract": "Online group chats are social spaces with local conversational norms that are rarely stated explicitly. The ability and willingness of LLM-based agents to recognize and adapt to these norms remains mo",
-      "authors": [
-        "Mateusz Winiarek",
-        "Maksymilian Bilski",
-        "Mateusz Jacniacki"
+        "Chenxin Li",
+        "Zhengyao Fang",
+        "Zhengyang Tang",
+        "Pengyuan Lyu",
+        "Xingran Zhou"
       ],
       "tags": [
-        "benchmark"
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -158,50 +135,28 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.14346",
-      "title": "Squeeze-Release: Iterative Pruning with Exact Structural Minimization",
-      "url": "https://huggingface.co/papers/2606.14346",
+      "id": "hf_paper_2606.15007",
+      "title": "Nemotron 3 Ultra: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning",
+      "url": "https://huggingface.co/papers/2606.15007",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-11T20:00:00.000Z",
-      "abstract": "Unstructured pruning produces sparse weight tensors, but the standard implementation keeps tensor shapes unchanged so the deployed model is no smaller than before pruning. We present an exact structur",
+      "abstract": "We introduce Nemotron 3 Ultra, a 550 billion total and 55 billion active parameter Mixture-of-Experts Hybrid Mamba-Attention language model. We pre-trained Nemotron 3 Ultra on 20 trillion text tokens,",
       "authors": [
-        "Roman Denkin",
-        "Ida Akerholm",
-        "Prashant Singh",
-        "Ida-Maria Sintorn"
+        "NVIDIA",
+        "Aaron Blakeman",
+        "Aaron Thomas",
+        "Aastha Jhunjhunwala",
+        "Abhibha Gupta"
       ],
-      "tags": [],
+      "tags": [
+        "transformer",
+        "agent"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.14694",
-      "title": "AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization",
-      "url": "https://huggingface.co/papers/2606.14694",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-11T20:00:00.000Z",
-      "abstract": "Large reasoning models typically follow a read-then-think paradigm: they observe the complete input, reason over a static context, and then produce the answer. Yet many real-world scenarios are inhere",
-      "authors": [
-        "Junlong Tong",
-        "Wenqi Xu",
-        "Yingqi Fan",
-        "Anhao Zhao",
-        "Xuan Lu"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -395,9 +350,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fbbva",
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "url": "https://openai.com/index/bbva",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fusing",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
@@ -415,9 +370,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fusing",
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fbbva",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",

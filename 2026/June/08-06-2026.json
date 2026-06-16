@@ -1,57 +1,28 @@
 {
-  "generatedAt": "2026-06-16T00:23:23.711Z",
+  "generatedAt": "2026-06-16T05:42:09.965Z",
   "date": "08-06-2026",
-  "count": 3,
+  "count": 2,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2606.10747",
-      "title": "The Arbiter Agent: Continually Monitoring Multi-Agent Conversations to Detect Emergent Misalignment",
-      "url": "https://huggingface.co/papers/2606.10747",
+      "id": "hf_paper_2606.11176",
+      "title": "Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories",
+      "url": "https://huggingface.co/papers/2606.11176",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-08T20:00:00.000Z",
-      "abstract": "As AI systems built from multiple language-model agents become more common, they are increasingly used to make decisions together: discussing, negotiating, and acting on shared tasks. While individual",
+      "abstract": "Data tells stories that shape society; the data journalist's job is to turn raw information into stories non-experts can trust. A high-quality news feature takes a newsroom team weeks: hunting for con",
       "authors": [
-        "Filippo Tonini",
-        "Federico Torrielli",
-        "Anton Danholt Lautrup",
-        "Peter Schneider-Kamp",
-        "Mustafa Mert Çelikok"
+        "Kevin Qinghong Lin",
+        "Batu EI",
+        "Yuhong Shi",
+        "Pan Lu",
+        "Philip Torr"
       ],
       "tags": [
-        "agent",
-        "alignment"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.11152",
-      "title": "P3D-Bench: Benchmarking MLLMs for Parametric 3D Generation and Structural Reasoning",
-      "url": "https://huggingface.co/papers/2606.11152",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-08T20:00:00.000Z",
-      "abstract": "Multimodal large language models can write code to produce complex programs as well as use programs to do 3D modeling, which opens up a new avenue for 3D generation powered by their priors, world know",
-      "authors": [
-        "Yikang Yang",
-        "Zhanpeng Hu",
-        "Youtian Lin",
-        "Mengqi Zhou",
-        "Jingxi Xu"
-      ],
-      "tags": [
-        "llm",
-        "benchmark"
+        "multimodal",
+        "agent"
       ],
       "score": 8,
       "priority": "HIGH",

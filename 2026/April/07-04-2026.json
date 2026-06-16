@@ -1,28 +1,26 @@
 {
-  "generatedAt": "2026-05-07T12:25:04.541Z",
+  "generatedAt": "2026-06-16T05:42:09.973Z",
   "date": "07-04-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2605.02913",
-      "title": "Generate, Filter, Control, Replay: A Comprehensive Survey of Rollout Strategies for LLM Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2605.02913",
+      "id": "hf_paper_2606.15673",
+      "title": "Where Did It Go Wrong? Process-Level Evaluation of Web Agents with Semantic State Tracking",
+      "url": "https://huggingface.co/papers/2606.15673",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-04-07T20:00:00.000Z",
-      "abstract": "Reinforcement learning (RL) has become a central post-training tool for improving the reasoning abilities of large language models (LLMs). In these systems, the rollout, the trajectory sampled from a",
+      "abstract": "Web agents act through long interaction sequences, yet existing benchmarks evaluate only terminal success, discarding all process information and offering little guidance on improvement. In this work,",
       "authors": [
-        "Rohan Surana",
-        "Gagan Mundada",
-        "Xunyi Jiang",
-        "Chuhan Wang",
-        "Zhenwei Tang"
+        "Jiwan Chung",
+        "JiHyuk Byun",
+        "Vibhav Vineet",
+        "Seon Joo Kim"
       ],
       "tags": [
-        "llm",
-        "reinforcement learning"
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
