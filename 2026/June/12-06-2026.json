@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T18:38:34.732Z",
+  "generatedAt": "2026-06-17T20:59:31.411Z",
   "date": "12-06-2026",
   "count": 15,
   "summary": null,
@@ -39,6 +39,33 @@
       "authors": [],
       "tags": [
         "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.15134",
+      "title": "Beyond Scalar Distances: Semantic Attribute Gradients from Frozen MLLMs for Visual Embeddings",
+      "url": "https://huggingface.co/papers/2606.15134",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-12T20:00:00.000Z",
+      "abstract": "Vision encoders for retrieval are typically trained with class-label supervision: each training pair reduces to a scalar that uniformly pushes the embedding apart or pulls it together, as if every vis",
+      "authors": [
+        "Shubhang Bhatnagar",
+        "Dheeraj Baiju",
+        "Narendra Ahuja"
+      ],
+      "tags": [
+        "llm",
+        "embeddings"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -216,28 +243,6 @@
       "points": 0
     },
     {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "Coinbase for Agents: Automating portfolio trading with AI",
-      "url": "https://www.artificialintelligence-news.com/news/coinbase-for-agents-automating-portfolio-trading-with-ai/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-06-12T15:34:23.000Z",
-      "abstract": "Coinbase for Agents connects AI to financial execution channels to automate trading and payments directly from user portfolios. Large language models process vast quantities of data but lack direct in",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
       "title": "Build a meeting prep and follow-up assistant with Amazon Quick and Cisco Webex MCP servers",
       "url": "https://aws.amazon.com/blogs/machine-learning/build-a-meeting-prep-and-follow-up-assistant-with-amazon-quick-and-cisco-webex-mcp-servers/",
@@ -326,7 +331,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 140784,
+      "stars": 140786,
       "votes": 0,
       "points": 0
     },
