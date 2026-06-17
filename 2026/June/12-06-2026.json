@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-17T07:09:35.786Z",
+  "generatedAt": "2026-06-17T12:01:10.648Z",
   "date": "12-06-2026",
-  "count": 17,
+  "count": 18,
   "summary": null,
   "items": [
     {
@@ -40,6 +40,31 @@
       "tags": [
         "agent"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.15158",
+      "title": "RefGC-SR^2: Reference-guided Generated Content Super-Resolution and Refinement",
+      "url": "https://huggingface.co/papers/2606.15158",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-12T20:00:00.000Z",
+      "abstract": "Reference-guided generation (e.g., object compositing, customization) has progressed rapidly, yet current pipelines share a fundamental limitation: the object-centric high-resolution reference image (",
+      "authors": [
+        "Jeahun Sung",
+        "Dahyeon Kye",
+        "Soo Ye Kim",
+        "Jihyong Oh"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -360,7 +385,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 140734,
+      "stars": 140765,
       "votes": 0,
       "points": 0
     },
