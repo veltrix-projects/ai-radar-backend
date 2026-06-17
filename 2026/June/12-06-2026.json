@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-17T01:58:28.726Z",
+  "generatedAt": "2026-06-17T07:09:35.786Z",
   "date": "12-06-2026",
-  "count": 15,
+  "count": 17,
   "summary": null,
   "items": [
     {
@@ -50,20 +50,72 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.15079",
-      "title": "Ling and Ring 2.6 Technical Report: Efficient and Instant Agentic Intelligence at Trillion-Parameter Scale",
-      "url": "https://huggingface.co/papers/2606.15079",
+      "id": "hf_paper_2606.15378",
+      "title": "Rethinking the Role of Efficient Attention in Hybrid Architectures",
+      "url": "https://huggingface.co/papers/2606.15378",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-12T20:00:00.000Z",
-      "abstract": "Efficient and scalable agentic intelligence requires models that can deliver both low-latency responses and strong reasoning capabilities while remaining practical to train, serve, and deploy. In this",
+      "abstract": "Modern language models increasingly adopt hybrid architectures that combine full attention with efficient attention modules, such as sliding-window attention (SWA) and recurrent sequence mixers. Howev",
       "authors": [
-        "Ang Li",
-        "Ben Liu",
-        "Bin Han",
-        "Bin Hu",
-        "Bin Jing"
+        "Ziqing Qiao",
+        "Yinuo Xu",
+        "Chaojun Xiao",
+        "Zhou Su",
+        "Zihan Zhou"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.15142",
+      "title": "MotionVLA: Vision-Language-Action Model for Humanoid Motion",
+      "url": "https://huggingface.co/papers/2606.15142",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-12T20:00:00.000Z",
+      "abstract": "Generating realistic humanoid motion from scene images and text involves both low-frequency pose semantics and high-frequency physical dynamics. However, many existing methods tokenize motion with a s",
+      "authors": [
+        "Nonghai Zhang",
+        "Siyu Zhai",
+        "Yanjun Li",
+        "Zeyu Zhang",
+        "Zhihan Yin"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.15345",
+      "title": "Beyond Monolingual Deep Research: Evaluating Agents and Retrievers with Cross-Lingual BrowseComp-Plus",
+      "url": "https://huggingface.co/papers/2606.15345",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-12T20:00:00.000Z",
+      "abstract": "Deep research agents are increasingly evaluated on their ability to search for evidence, reason over retrieved sources, and produce grounded answers. Existing browsing benchmarks, however, largely ass",
+      "authors": [
+        "Yuheng Lu",
+        "Qingcheng Zeng",
+        "Heli Qi",
+        "Puxuan Yu",
+        "Fuheng Zhao"
       ],
       "tags": [
         "agent"
@@ -308,7 +360,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 140693,
+      "stars": 140734,
       "votes": 0,
       "points": 0
     },

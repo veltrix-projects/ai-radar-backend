@@ -1,24 +1,28 @@
 {
-  "generatedAt": "2026-06-17T01:58:28.728Z",
+  "generatedAt": "2026-06-17T07:09:35.789Z",
   "date": "07-06-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2505.14608",
-      "title": "Attacks on Machine-Text Detectors Retain Stylistic Fingerprints",
-      "url": "https://huggingface.co/papers/2505.14608",
+      "id": "hf_paper_2606.09030",
+      "title": "TRIAGE: Dialectical Reasoning for Explainable Risk Prediction on Irregularly Sampled Medical Time Series with LLMs",
+      "url": "https://huggingface.co/papers/2606.09030",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-07T20:00:00.000Z",
-      "abstract": "Despite considerable progress in the development of machine-text detectors, the ease with which machine-text can be manipulated to evade detection has led to suggestions that the problem is inherently",
+      "abstract": "Clinical early warning systems built on electronic health records, in which clinical observations are recorded as irregularly sampled medical time series (ISMTS), must deliver both calibrated risk sco",
       "authors": [
-        "Rafael Rivera Soto",
-        "Barry Chen",
-        "Nicholas Andrews"
+        "Hyeongwon Jang",
+        "Gyouk Chu",
+        "Changhun Kim",
+        "Joonhyung Park",
+        "Hangyul Yoon"
       ],
-      "tags": [],
+      "tags": [
+        "llm"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
