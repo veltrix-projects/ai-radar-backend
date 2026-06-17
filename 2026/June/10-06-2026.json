@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-06-17T12:01:10.649Z",
+  "generatedAt": "2026-06-17T16:09:25.644Z",
   "date": "10-06-2026",
-  "count": 5,
+  "count": 6,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2606.17081",
+      "title": "The Price of Anarchy in Disaggregated Inference",
+      "url": "https://huggingface.co/papers/2606.17081",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-10T20:00:00.000Z",
+      "abstract": "Disaggregated inference architectures physically separate prefill and decode phases onto distinct GPU pools, creating competing \"agents\" that share a fixed hardware budget. We provide, to our knowledg",
+      "authors": [
+        "Athos Georgiou"
+      ],
+      "tags": [
+        "inference"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fopena",
       "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
