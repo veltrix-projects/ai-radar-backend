@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-06-17T16:09:25.642Z",
+  "generatedAt": "2026-06-17T18:38:34.731Z",
   "date": "14-06-2026",
   "count": 6,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2606.17182",
+      "title": "Verified Detection and Prevention of Concurrency Anomalies in Multi-Agent Large Language Model Systems",
+      "url": "https://huggingface.co/papers/2606.17182",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-14T20:00:00.000Z",
+      "abstract": "Multi-agent LLM systems share state through memory stores, vector indices, and tool registries. We model such sharing as long-running read-generate-write operations under deterministic-generation sema",
+      "authors": [
+        "Sajjad Khan"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2606.17168",
       "title": "RepSelect: Robust LLM Unlearning via Representation Selectivity",
@@ -98,32 +122,6 @@
         "Brandon Cui",
         "Muhammad Khalifa",
         "Shaokun Zhang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.16154",
-      "title": "A Gradient Perspective on RLVR Stability and Winner Advantage Policy Optimization",
-      "url": "https://huggingface.co/papers/2606.16154",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-14T20:00:00.000Z",
-      "abstract": "Reinforcement learning with verifiable rewards (RLVR) improves language-model reasoning, but GRPO-style optimization remains prone to collapse. We analyse this instability through token-level gradient",
-      "authors": [
-        "Prasanth YSS",
-        "Zhichen Ren",
-        "Rasa Hosseinzadeh",
-        "Ilan Gofman",
-        "Yuqi Chen"
       ],
       "tags": [],
       "score": 6,
