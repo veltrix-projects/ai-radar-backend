@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-18T00:07:37.216Z",
+  "generatedAt": "2026-06-18T05:12:02.893Z",
   "date": "12-06-2026",
-  "count": 13,
+  "count": 8,
   "summary": null,
   "items": [
     {
@@ -21,139 +21,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.15134",
-      "title": "Beyond Scalar Distances: Semantic Attribute Gradients from Frozen MLLMs for Visual Embeddings",
-      "url": "https://huggingface.co/papers/2606.15134",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-12T20:00:00.000Z",
-      "abstract": "Vision encoders for retrieval are typically trained with class-label supervision: each training pair reduces to a scalar that uniformly pushes the embedding apart or pulls it together, as if every vis",
-      "authors": [
-        "Shubhang Bhatnagar",
-        "Dheeraj Baiju",
-        "Narendra Ahuja"
-      ],
-      "tags": [
-        "llm",
-        "embeddings"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.15231",
-      "title": "Visual-Seeker: Towards Visual-Native Multimodal Agentic Search via Active Visual Reasoning",
-      "url": "https://huggingface.co/papers/2606.15231",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-12T20:00:00.000Z",
-      "abstract": "Multimodal large language models (MLLMs) have demonstrated impressive capabilities in many visual tasks, but they often struggle with factual grounding when confronted with complex, open-world scenari",
-      "authors": [
-        "Zhengbo Zhang",
-        "Changtao Miao",
-        "Jinbo Su",
-        "Zhaowen Zhou",
-        "Chunxia Zhang"
-      ],
-      "tags": [
-        "multimodal",
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.15158",
-      "title": "RefGC-SR^2: Reference-guided Generated Content Super-Resolution and Refinement",
-      "url": "https://huggingface.co/papers/2606.15158",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-12T20:00:00.000Z",
-      "abstract": "Reference-guided generation (e.g., object compositing, customization) has progressed rapidly, yet current pipelines share a fundamental limitation: the object-centric high-resolution reference image (",
-      "authors": [
-        "Jeahun Sung",
-        "Dahyeon Kye",
-        "Soo Ye Kim",
-        "Jihyong Oh"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.15378",
-      "title": "Rethinking the Role of Efficient Attention in Hybrid Architectures",
-      "url": "https://huggingface.co/papers/2606.15378",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-12T20:00:00.000Z",
-      "abstract": "Modern language models increasingly adopt hybrid architectures that combine full attention with efficient attention modules, such as sliding-window attention (SWA) and recurrent sequence mixers. Howev",
-      "authors": [
-        "Ziqing Qiao",
-        "Yinuo Xu",
-        "Chaojun Xiao",
-        "Zhou Su",
-        "Zihan Zhou"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.15142",
-      "title": "MotionVLA: Vision-Language-Action Model for Humanoid Motion",
-      "url": "https://huggingface.co/papers/2606.15142",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-12T20:00:00.000Z",
-      "abstract": "Generating realistic humanoid motion from scene images and text involves both low-frequency pose semantics and high-frequency physical dynamics. However, many existing methods tokenize motion with a s",
-      "authors": [
-        "Nonghai Zhang",
-        "Siyu Zhai",
-        "Yanjun Li",
-        "Zeyu Zhang",
-        "Zhihan Yin"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -289,7 +156,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 140794,
+      "stars": 140806,
       "votes": 0,
       "points": 0
     },

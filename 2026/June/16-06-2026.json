@@ -1,29 +1,9 @@
 {
-  "generatedAt": "2026-06-18T00:07:37.213Z",
+  "generatedAt": "2026-06-18T05:12:02.890Z",
   "date": "16-06-2026",
-  "count": 41,
+  "count": 42,
   "summary": null,
   "items": [
-    {
-      "id": "reddit_LocalLLaMA_t3_1u7u3ls",
-      "title": "VibeThinker-3B: what is this witchcraft? Killing it at MathQA like it has ~30B parameters",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u7u3ls/vibethinker3b_what_is_this_witchcraft_killing_it/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-06-16T23:45:05+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "siliconangle_ai_https%3A%2F%2Fsiliconangle.com%2F2026%2F",
       "title": "Databricks&#8217; new agentic coworker Genie One brings AI automation to every part of the business",
@@ -239,6 +219,34 @@
       "points": 0
     },
     {
+      "id": "arxiv_2606.18246v1",
+      "title": "Variable-Width Transformers",
+      "url": "https://arxiv.org/abs/2606.18246v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-06-16T17:59:03Z",
+      "abstract": "Scaling model size, specifically depth and width, has driven significant progress in transformer-based language models. However, most architectures maintain a constant width across all layers, allocat",
+      "authors": [
+        "Zhaofeng Wu",
+        "Oliver Sieberling",
+        "Shawn Tan",
+        "Rameswar Panda",
+        "Yury Polyanskiy"
+      ],
+      "tags": [
+        "transformer"
+      ],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "arxiv_2606.18237v1",
       "title": "ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues",
       "url": "https://arxiv.org/abs/2606.18237v1",
@@ -428,6 +436,32 @@
       "timestamp": "2026-06-16T17:47:09.000Z",
       "abstract": "This post walks you through how to use P-EAGLE directly within Amazon SageMaker AI. It will demonstrate how to select a compatible model from the SageMaker JumpStart catalog, configure the parallel dr",
       "authors": [],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2606.18216v1",
+      "title": "Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients",
+      "url": "https://arxiv.org/abs/2606.18216v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-06-16T17:46:02Z",
+      "abstract": "Knowledge distillation transfers a teacher's competence to a small student but is brittle in the small-student regime: forcing the student to imitate logits from a much larger teacher concentrates it",
+      "authors": [
+        "Byung-Kwan Lee",
+        "Ximing Lu",
+        "Shizhe Diao",
+        "Minki Kang",
+        "Saurav Muralidharan"
+      ],
       "tags": [],
       "score": 4,
       "priority": "LOW",
