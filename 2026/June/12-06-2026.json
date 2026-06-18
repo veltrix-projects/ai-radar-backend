@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-18T18:39:04.623Z",
+  "generatedAt": "2026-06-18T21:16:02.741Z",
   "date": "12-06-2026",
-  "count": 7,
+  "count": 8,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,32 @@
       "tags": [
         "agent",
         "benchmark"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.15514",
+      "title": "Reinforcement Learning-Guided Retrieval with Soft Fusion for Robust Multimodal Imitation Learning under Missing Modalities",
+      "url": "https://huggingface.co/papers/2606.15514",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-12T20:00:00.000Z",
+      "abstract": "Robotic systems perceive the world through multiple input modalities -- including visual camera streams and natural language instructions -- and must select appropriate actions based on these signals.",
+      "authors": [
+        "Hassan Ismkhan",
+        "Hamid Bouchahcia"
+      ],
+      "tags": [
+        "multimodal",
+        "reinforcement learning"
       ],
       "score": 8,
       "priority": "HIGH",
@@ -136,7 +162,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 140845,
+      "stars": 140844,
       "votes": 0,
       "points": 0
     },
