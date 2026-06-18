@@ -1,9 +1,59 @@
 {
-  "generatedAt": "2026-06-18T05:12:02.892Z",
+  "generatedAt": "2026-06-18T09:50:12.355Z",
   "date": "14-06-2026",
-  "count": 1,
+  "count": 4,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2606.16905",
+      "title": "Speaking the Language of Science: Toward a General-Purpose Generative Foundation Model for the Natural Sciences",
+      "url": "https://huggingface.co/papers/2606.16905",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-14T20:00:00.000Z",
+      "abstract": "In this report, we present LOGOS (Language Of Generative Objects in Science), a scientific generative language model that unifies heterogeneous tasks across the natural sciences within a single autore",
+      "authors": [
+        "Mingyang Li",
+        "Yurou Liu",
+        "Jieping Ye",
+        "Bing Su",
+        "Ji-Rong Wen"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.17182",
+      "title": "Verified Detection and Prevention of Concurrency Anomalies in Multi-Agent Large Language Model Systems",
+      "url": "https://huggingface.co/papers/2606.17182",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-14T20:00:00.000Z",
+      "abstract": "Multi-agent LLM systems share state through memory stores, vector indices, and tool registries. We model such sharing as long-running read-generate-write operations under deterministic-generation sema",
+      "authors": [
+        "Sajjad Khan"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fintro",
       "title": "Introducing the OpenAI Partner Network",
@@ -15,6 +65,35 @@
       "abstract": "",
       "authors": [],
       "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.15872",
+      "title": "SciOrch: Learning to Orchestrate Expert LLMs for Solving Frontier Multimodal Scientific Reasoning Tasks",
+      "url": "https://huggingface.co/papers/2606.15872",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-14T11:45:34.000Z",
+      "abstract": "Frontier scientific reasoning remains a major challenge for large language models (LLMs), where even the strongest commercial systems fall short of expert-level performance. A closer look at model beh",
+      "authors": [
+        "Jingru Guo",
+        "Xiangyuan Xue",
+        "Lian Zhang",
+        "Wanghan Xu",
+        "Siki Chen"
+      ],
+      "tags": [
+        "llm",
+        "multimodal"
+      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",

@@ -1,9 +1,59 @@
 {
-  "generatedAt": "2026-06-18T05:12:02.894Z",
+  "generatedAt": "2026-06-18T09:50:12.358Z",
   "date": "10-06-2026",
-  "count": 3,
+  "count": 5,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2606.13929",
+      "title": "Self-Evolving Visual Questioner",
+      "url": "https://huggingface.co/papers/2606.13929",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-10T20:00:00.000Z",
+      "abstract": "Vision-language models (VLMs) are typically trained as passive answerers, while their ability to actively ask diverse, non-trivial, visual-centric and grounded questions remains underexplored. Existin",
+      "authors": [
+        "Yijun Liang",
+        "Hengguang Zhou",
+        "Ming Li",
+        "Lichen Li",
+        "Cho-Jui Hsieh"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.17081",
+      "title": "The Price of Anarchy in Disaggregated Inference",
+      "url": "https://huggingface.co/papers/2606.17081",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-10T20:00:00.000Z",
+      "abstract": "Disaggregated inference architectures physically separate prefill and decode phases onto distinct GPU pools, creating competing \"agents\" that share a fixed hardware budget. We provide, to our knowledg",
+      "authors": [
+        "Athos Georgiou"
+      ],
+      "tags": [
+        "inference"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Fn",
       "title": "New framework for auditing machine unlearning",
