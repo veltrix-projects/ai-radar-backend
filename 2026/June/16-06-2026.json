@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-18T16:21:29.191Z",
+  "generatedAt": "2026-06-18T18:39:04.621Z",
   "date": "16-06-2026",
-  "count": 40,
+  "count": 41,
   "summary": null,
   "items": [
     {
@@ -193,6 +193,59 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2606.19162",
+      "title": "The Reward Was in Your Data All Along: Correcting Flow Matching with Discriminator-Guided RL",
+      "url": "https://huggingface.co/papers/2606.19162",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-16T20:00:00.000Z",
+      "abstract": "Score- and flow-matching models often rely on preference-based reinforcement learning for two purposes: aligning with subjective preferences and, surprisingly, recovering properties such as visual rea",
+      "authors": [
+        "Nicolas Beltran-Velez",
+        "Felix Friedrich",
+        "Zhang Xiaofeng",
+        "Reyhane Askari-Hemmat",
+        "Xiaochuang Han"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.19120",
+      "title": "Seeing Before Reasoning: Decoupling Perception and Reasoning for Shortcut-Resilient Multimodal On-Policy Self-Distillation",
+      "url": "https://huggingface.co/papers/2606.19120",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-16T20:00:00.000Z",
+      "abstract": "On-policy self-distillation (OPSD) trains a model on its own rollouts and uses a frozen copy to provide dense token-level targets conditioned on a reference target. This works well for LLM reasoning,",
+      "authors": [
+        "Sihan Wang",
+        "Xiyao Liu",
+        "Lianqing Liu",
+        "Zhi Han"
+      ],
+      "tags": [
+        "multimodal"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2606.18558",
       "title": "MolmoMotion: Forecasting Point Trajectories in 3D with Language Instruction",
       "url": "https://huggingface.co/papers/2606.18558",
@@ -360,34 +413,6 @@
         "Ziyang Ma"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.19005",
-      "title": "Sumi: Open Uniform Diffusion Language Model from Scratch",
-      "url": "https://huggingface.co/papers/2606.19005",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-16T20:00:00.000Z",
-      "abstract": "Diffusion models have become a promising alternative to autoregressive models. Among these, uniform diffusion language models (UDLMs) permit any token to be updated at any step, in principle enabling",
-      "authors": [
-        "Mengyu Ye",
-        "Keito Kudo",
-        "Wataru Ikeda",
-        "Ryosuke Matsuda",
-        "Keisuke Sakaguchi"
-      ],
-      "tags": [
-        "diffusion"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
