@@ -1,26 +1,28 @@
 {
-  "generatedAt": "2026-06-18T12:45:27.616Z",
+  "generatedAt": "2026-06-18T16:21:29.192Z",
   "date": "14-06-2026",
   "count": 3,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2606.16905",
-      "title": "Speaking the Language of Science: Toward a General-Purpose Generative Foundation Model for the Natural Sciences",
-      "url": "https://huggingface.co/papers/2606.16905",
+      "id": "hf_paper_2606.16748",
+      "title": "MyPCBench: A Benchmark for Personally Intelligent Computer-Use Agents",
+      "url": "https://huggingface.co/papers/2606.16748",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-14T20:00:00.000Z",
-      "abstract": "In this report, we present LOGOS (Language Of Generative Objects in Science), a scientific generative language model that unifies heterogeneous tasks across the natural sciences within a single autore",
+      "abstract": "Current benchmarks for computer-use agents evaluate models in impersonal environments. This leaves a gap between evaluation and deployment where personal assistants are expected to work across a user'",
       "authors": [
-        "Mingyang Li",
-        "Yurou Liu",
-        "Jieping Ye",
-        "Bing Su",
-        "Ji-Rong Wen"
+        "Lawrence Keunho Jang",
+        "Andrew Keunwoo Jang",
+        "Jing Yu Koh",
+        "Ruslan Salakhutdinov"
       ],
-      "tags": [],
+      "tags": [
+        "agent",
+        "benchmark"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

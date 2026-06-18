@@ -1,26 +1,27 @@
 {
-  "generatedAt": "2026-06-18T12:45:27.618Z",
+  "generatedAt": "2026-06-18T16:21:29.193Z",
   "date": "10-06-2026",
   "count": 4,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2606.13929",
-      "title": "Self-Evolving Visual Questioner",
-      "url": "https://huggingface.co/papers/2606.13929",
+      "id": "hf_paper_2606.13802",
+      "title": "A Benchmark and Framework for Evaluating Next Action Predictions in Spreadsheets",
+      "url": "https://huggingface.co/papers/2606.13802",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-10T20:00:00.000Z",
-      "abstract": "Vision-language models (VLMs) are typically trained as passive answerers, while their ability to actively ask diverse, non-trivial, visual-centric and grounded questions remains underexplored. Existin",
+      "abstract": "Predictive code completion greatly accelerates how quickly developers work. In spreadsheets, despite being much more common, such auto-completion features are virtually non-existent. To address this g",
       "authors": [
-        "Yijun Liang",
-        "Hengguang Zhou",
-        "Ming Li",
-        "Lichen Li",
-        "Cho-Jui Hsieh"
+        "Tejas Agrawal",
+        "Vu Le",
+        "Sumit Gulwani",
+        "Gust Verbruggen"
       ],
-      "tags": [],
+      "tags": [
+        "benchmark"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

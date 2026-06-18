@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-18T12:45:27.614Z",
+  "generatedAt": "2026-06-18T16:21:29.191Z",
   "date": "15-06-2026",
-  "count": 21,
+  "count": 18,
   "summary": null,
   "items": [
     {
@@ -18,6 +18,36 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.17682",
+      "title": "From Trainee to Trainer: LLM-Designed Training Environment for RL with Multi-Agent Reasoning",
+      "url": "https://huggingface.co/papers/2606.17682",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-15T20:00:00.000Z",
+      "abstract": "Reinforcement learning pipelines for Large Language Model (LLM) training often rely on manually redesigned environments between stages, requiring practitioners to heuristically infer which configurati",
+      "authors": [
+        "Chao Chen",
+        "Chengzu Li",
+        "Zhiwei Li",
+        "Yinhong Liu",
+        "Zhijiang Guo"
+      ],
+      "tags": [
+        "llm",
+        "agent",
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -89,110 +119,6 @@
         "Yucheng Shi",
         "Tianze Yang",
         "Xiaoming Zhai"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.16533",
-      "title": "Kairos: A Native World Model Stack for Physical AI",
-      "url": "https://huggingface.co/papers/2606.16533",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-15T20:00:00.000Z",
-      "abstract": "World models are transitioning from passive visual generators to foundational, operational infrastructure for Physical AI: they must natively acquire world knowledge from heterogeneous experience, mai",
-      "authors": [
-        "Kairos Team",
-        "Fei Wang",
-        "Shan You",
-        "Qiming Zhang",
-        "Tao Huang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.18375",
-      "title": "PAIWorld: A 3D-Consistent World Foundation Model for Robotic Manipulation",
-      "url": "https://huggingface.co/papers/2606.18375",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-15T20:00:00.000Z",
-      "abstract": "World foundation models (WFMs) are powerful simulators, yet they predominantly operate in a single-view setting and lack the multi-view 3D consistency required for robotic manipulation. While robotic",
-      "authors": [
-        "Yuhang Huang",
-        "Xuan Lv",
-        "Junyan Xu",
-        "Zhiyuan Yu",
-        "Jiazhao Zhang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.18543",
-      "title": "CEO-Bench: Can Agents Play the Long Game?",
-      "url": "https://huggingface.co/papers/2606.18543",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-15T20:00:00.000Z",
-      "abstract": "Language model agents are becoming proficient executors at isolated, short-horizon tasks such as software engineering and customer service. Yet real-world challenges require a combination of sophistic",
-      "authors": [
-        "Haozhe Chen",
-        "Karthik Narasimhan",
-        "Zhuang Liu"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.18363",
-      "title": "Guava: An Effective and Universal Harness for Embodied Manipulation",
-      "url": "https://huggingface.co/papers/2606.18363",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-15T20:00:00.000Z",
-      "abstract": "Language models trained on large-scale vision-language data have demonstrated strong potential for embodied agents. Harnessing models through embodied tools use offers a promising alternative to end-t",
-      "authors": [
-        "Haowen Liu",
-        "Xirui Li",
-        "Shaoxiong Yao",
-        "Peng Shi",
-        "Tianyi Zhou"
       ],
       "tags": [],
       "score": 6,
