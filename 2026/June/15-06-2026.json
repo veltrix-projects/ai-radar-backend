@@ -1,46 +1,25 @@
 {
-  "generatedAt": "2026-06-19T15:19:24.594Z",
+  "generatedAt": "2026-06-19T17:28:46.268Z",
   "date": "15-06-2026",
-  "count": 9,
+  "count": 8,
   "summary": null,
   "items": [
     {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Introducing Gemma 4 models on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-gemma-4-models-on-amazon-bedrock/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-06-15T20:24:15.000Z",
-      "abstract": "Today, we are announcing the availability of the Gemma 4 family on Amazon Bedrock. Built by Google DeepMind and released under the Apache 2.0 license, Gemma 4 is a family of open-weight models designe",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.18231",
-      "title": "Adaptive Volumetric Mechanical Property Fields Invariant to Resolution",
-      "url": "https://huggingface.co/papers/2606.18231",
+      "id": "hf_paper_2606.18021",
+      "title": "LegalHalluLens: Typed Hallucination Auditing and Calibrated Multi-Agent Debate for Trustworthy Legal AI",
+      "url": "https://huggingface.co/papers/2606.18021",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-15T20:00:00.000Z",
-      "abstract": "Accurate mechanical properties (or materials) Young's modulus (E), Poisson's ratio (ν) and density (ρ) are essential for reliable physics simulation of digital worlds, but most 3D assets lack this inf",
+      "abstract": "AI systems deployed in legal workflows hallucinate at rates that aggregate metrics report at ~52%, but this average conceals where errors concentrate and in which direction they run, leaving complianc",
       "authors": [
-        "Rishit Dagli",
-        "Donglai Xiang",
-        "Vismay Modi",
-        "Xuning Yang",
-        "Gavriel State"
+        "Lalit Yadav",
+        "Akshaj Gurugubelli"
       ],
-      "tags": [],
+      "tags": [
+        "agent"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

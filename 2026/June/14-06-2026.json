@@ -1,9 +1,39 @@
 {
-  "generatedAt": "2026-06-19T15:19:24.595Z",
+  "generatedAt": "2026-06-19T17:28:46.269Z",
   "date": "14-06-2026",
-  "count": 4,
+  "count": 5,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2606.17053",
+      "title": "Context-Aware RL for Agentic and Multimodal LLMs",
+      "url": "https://huggingface.co/papers/2606.17053",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-14T20:00:00.000Z",
+      "abstract": "Large language models (LLMs) often fail when answering requires identifying a small but decisive piece of evidence within a long or complex context, such as a single line in a tool trace or a subtle d",
+      "authors": [
+        "Peiyang Xu",
+        "Bangzheng Li",
+        "Sijia Liu",
+        "Karthik R. Narasimhan",
+        "Pramod Viswanath"
+      ],
+      "tags": [
+        "llm",
+        "multimodal",
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2606.16827",
       "title": "No Resource, No Benchmarks, No Problem? Evaluating and Improving LLMs for Code Generation in No-Resource Languages",
