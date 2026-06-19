@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-19T02:11:53.375Z",
+  "generatedAt": "2026-06-19T07:35:09.207Z",
   "date": "15-06-2026",
-  "count": 13,
+  "count": 9,
   "summary": null,
   "items": [
     {
@@ -25,77 +25,22 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.18531",
-      "title": "When Does Trajectory-Level Supervision Permit Efficient Offline Reinforcement Learning?",
-      "url": "https://huggingface.co/papers/2606.18531",
+      "id": "hf_paper_2606.18231",
+      "title": "Adaptive Volumetric Mechanical Property Fields Invariant to Resolution",
+      "url": "https://huggingface.co/papers/2606.18231",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-15T20:00:00.000Z",
-      "abstract": "Offline reinforcement learning is typically analyzed under process-level reward supervision, yet many sequential decision datasets\n  record only trajectory-level outcomes. We develop a statistical the",
+      "abstract": "Accurate mechanical properties (or materials) Young's modulus (E), Poisson's ratio (ν) and density (ρ) are essential for reliable physics simulation of digital worlds, but most 3D assets lack this inf",
       "authors": [
-        "Xuanfei Ren",
-        "Tengyang Xie"
-      ],
-      "tags": [
-        "reinforcement learning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.17800",
-      "title": "MaineCoon: Pursuing A Real-Time Audio-Visual Social World Model",
-      "url": "https://huggingface.co/papers/2606.17800",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-15T20:00:00.000Z",
-      "abstract": "As an increasing majority of global video content is consumed on social platforms for interactive social purposes, video generation models built for social worlds are important but largely overlooked",
-      "authors": [
-        "Lichen Bai",
-        "Tianhao Zhang",
-        "Shitong Shao",
-        "Dingwei Tan",
-        "Qiyu Zhong"
+        "Rishit Dagli",
+        "Donglai Xiang",
+        "Vismay Modi",
+        "Xuning Yang",
+        "Gavriel State"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.17682",
-      "title": "From Trainee to Trainer: LLM-Designed Training Environment for RL with Multi-Agent Reasoning",
-      "url": "https://huggingface.co/papers/2606.17682",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-15T20:00:00.000Z",
-      "abstract": "Reinforcement learning pipelines for Large Language Model (LLM) training often rely on manually redesigned environments between stages, requiring practitioners to heuristically infer which configurati",
-      "authors": [
-        "Chao Chen",
-        "Chengzu Li",
-        "Zhiwei Li",
-        "Yinhong Liu",
-        "Zhijiang Guo"
-      ],
-      "tags": [
-        "llm",
-        "agent",
-        "training"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -243,48 +188,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "HarmonyOS 7 steps into the AI gap Apple left open in China",
-      "url": "https://www.artificialintelligence-news.com/news/harmonyos-7-china-ai-apple-gap/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-06-15T11:00:00.000Z",
-      "abstract": "Four days after Apple confirmed that Siri AI would not launch in China, Huawei took the stage in Dongguan and declared HarmonyOS 7 the beginning of the agent era. The gap Apple could not fill, Huawei",
-      "authors": [],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "Accenture: Consumers show growing trust in AI shopping agents",
-      "url": "https://www.artificialintelligence-news.com/news/ai-shopping-agents-consumer-trust-accenture-report/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-06-15T10:00:00.000Z",
-      "abstract": "Consumers are showing a willingness to let AI agents take on more shopping-related tasks, according to new research from Accenture. The company’s 2026 Consumer Pulse Research, based on a survey of 25,",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

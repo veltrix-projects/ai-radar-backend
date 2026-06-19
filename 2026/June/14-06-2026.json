@@ -1,28 +1,51 @@
 {
-  "generatedAt": "2026-06-19T02:11:53.376Z",
+  "generatedAt": "2026-06-19T07:35:09.208Z",
   "date": "14-06-2026",
-  "count": 2,
+  "count": 3,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2606.16748",
-      "title": "MyPCBench: A Benchmark for Personally Intelligent Computer-Use Agents",
-      "url": "https://huggingface.co/papers/2606.16748",
+      "id": "hf_paper_2606.16817",
+      "title": "Understanding the Behaviors of Environment-aware Information Retrieval",
+      "url": "https://huggingface.co/papers/2606.16817",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-14T20:00:00.000Z",
-      "abstract": "Current benchmarks for computer-use agents evaluate models in impersonal environments. This leaves a gap between evaluation and deployment where personal assistants are expected to work across a user'",
+      "abstract": "Recent retrieval-augmented generation (RAG) approaches have demonstrated strong capability in handling complex queries, yet current research overlooks a critical challenge: different retrievers requir",
       "authors": [
-        "Lawrence Keunho Jang",
-        "Andrew Keunwoo Jang",
-        "Jing Yu Koh",
-        "Ruslan Salakhutdinov"
+        "Ruifeng Yuan",
+        "Chaohao Yuan",
+        "David Dai",
+        "Yu Rong",
+        "Hong Cheng"
       ],
-      "tags": [
-        "agent",
-        "benchmark"
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.16122",
+      "title": "Thinking with Visual Grounding",
+      "url": "https://huggingface.co/papers/2606.16122",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-14T20:00:00.000Z",
+      "abstract": "Visual thinking should not only sound right; it should show its evidence. While recent vision-language models (VLMs) can produce natural-language reasoning traces, these traces often leave the support",
+      "authors": [
+        "Junkai Zhang",
+        "Yihe Deng",
+        "Kai-Wei Chang",
+        "Wei Wang"
       ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
