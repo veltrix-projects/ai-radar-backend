@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T07:35:09.209Z",
+  "generatedAt": "2026-06-19T11:58:55.184Z",
   "date": "12-06-2026",
   "count": 8,
   "summary": null,
@@ -28,25 +28,27 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.15514",
-      "title": "Reinforcement Learning-Guided Retrieval with Soft Fusion for Robust Multimodal Imitation Learning under Missing Modalities",
-      "url": "https://huggingface.co/papers/2606.15514",
+      "id": "hf_paper_2606.15133",
+      "title": "DragMesh-2: Physically Plausible Dexterous Hand-Object Interaction with Articulated Objects",
+      "url": "https://huggingface.co/papers/2606.15133",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-12T20:00:00.000Z",
-      "abstract": "Robotic systems perceive the world through multiple input modalities -- including visual camera streams and natural language instructions -- and must select appropriate actions based on these signals.",
+      "abstract": "Dexterous interaction with articulated objects is important for household, assistive, and humanoid manipulation, where multi-finger hands can provide compliant contact patterns beyond parallel-jaw gra",
       "authors": [
-        "Hassan Ismkhan",
-        "Hamid Bouchahcia"
+        "Tianshan Zhang",
+        "Yijia Duan",
+        "Yanjun Li",
+        "Zeyu Zhang",
+        "Hao Tang"
       ],
       "tags": [
-        "multimodal",
-        "reinforcement learning"
+        "rag"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -162,7 +164,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 140857,
+      "stars": 140868,
       "votes": 0,
       "points": 0
     },

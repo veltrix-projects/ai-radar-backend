@@ -1,9 +1,62 @@
 {
-  "generatedAt": "2026-06-19T07:35:09.208Z",
+  "generatedAt": "2026-06-19T11:58:55.183Z",
   "date": "14-06-2026",
-  "count": 3,
+  "count": 4,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2606.16827",
+      "title": "No Resource, No Benchmarks, No Problem? Evaluating and Improving LLMs for Code Generation in No-Resource Languages",
+      "url": "https://huggingface.co/papers/2606.16827",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-14T20:00:00.000Z",
+      "abstract": "Large Language Models (LLMs) have significantly advanced the automation of software engineering tasks. One prominent example is code generation, where an LLM produces code in a specified programming l",
+      "authors": [
+        "Alessandro Giagnorio",
+        "Alberto Martin-Lopez",
+        "Gabriele Bavota"
+      ],
+      "tags": [
+        "llm",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.16429",
+      "title": "Taylor-Calibrate: Principled Initialization for Hybrid Linear Attention Distillation",
+      "url": "https://huggingface.co/papers/2606.16429",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-14T20:00:00.000Z",
+      "abstract": "Hybrid linear attention models offer an appealing path to faster long-context inference: they reduce the quadratic cost and KV-cache burden of full softmax attention while retaining much of the qualit",
+      "authors": [
+        "Zhongzhu Zhou",
+        "Qingyang Wu",
+        "Junxiong Wang",
+        "Mayank Mishra",
+        "Shuaiwen Leon Song"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2606.16817",
       "title": "Understanding the Behaviors of Environment-aware Information Retrieval",
@@ -19,31 +72,6 @@
         "David Dai",
         "Yu Rong",
         "Hong Cheng"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.16122",
-      "title": "Thinking with Visual Grounding",
-      "url": "https://huggingface.co/papers/2606.16122",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-14T20:00:00.000Z",
-      "abstract": "Visual thinking should not only sound right; it should show its evidence. While recent vision-language models (VLMs) can produce natural-language reasoning traces, these traces often leave the support",
-      "authors": [
-        "Junkai Zhang",
-        "Yihe Deng",
-        "Kai-Wei Chang",
-        "Wei Wang"
       ],
       "tags": [],
       "score": 6,
