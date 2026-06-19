@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-19T19:13:58.541Z",
+  "generatedAt": "2026-06-19T20:50:21.271Z",
   "date": "17-06-2026",
-  "count": 20,
+  "count": 21,
   "summary": null,
   "items": [
     {
@@ -39,6 +39,34 @@
       "tags": [
         "agent",
         "autonomous"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.20529",
+      "title": "LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents",
+      "url": "https://huggingface.co/papers/2606.20529",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-17T20:00:00.000Z",
+      "abstract": "Policy-adherent tool-calling agents in customer-service domains must maintain task states across turns while calling tools and obeying domain policies. Task states consist of relevant facts, identifie",
+      "authors": [
+        "Md Nayem Uddin",
+        "Amir Saeidi",
+        "Eduardo Blanco",
+        "Chitta Baral"
+      ],
+      "tags": [
+        "rag",
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -457,7 +485,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 156481,
+      "stars": 156480,
       "votes": 0,
       "points": 0
     },
