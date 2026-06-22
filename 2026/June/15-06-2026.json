@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-06-22T17:59:21.186Z",
+  "generatedAt": "2026-06-22T20:50:23.006Z",
   "date": "15-06-2026",
-  "count": 5,
+  "count": 6,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2606.18508",
+      "title": "MCompassRAG: Topic Metadata as a Semantic Compass for Paragraph-Level Retrieval",
+      "url": "https://huggingface.co/papers/2606.18508",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-15T20:00:00.000Z",
+      "abstract": "Retrieval-augmented generation (RAG) systems depend critically on how documents are chunked and searched. Fine-grained chunks can improve retrieval precision but expand the search space, increasing la",
+      "authors": [
+        "Amirhossein Abaskohi",
+        "Raymond Li",
+        "Gaetano Cimino",
+        "Peter West",
+        "Giuseppe Carenini"
+      ],
+      "tags": [
+        "rag"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2606.17480",
       "title": "GeneralVLA-2: Geometry-Aware Reconstruction and Governed Memory for Robot Planning",
