@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-22T01:44:31.591Z",
+  "generatedAt": "2026-06-22T07:11:28.750Z",
   "date": "16-06-2026",
-  "count": 27,
+  "count": 30,
   "summary": null,
   "items": [
     {
@@ -193,6 +193,118 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2606.18829",
+      "title": "GateMem: Benchmarking Memory Governance in Multi-Principal Shared-Memory Agents",
+      "url": "https://huggingface.co/papers/2606.18829",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-16T20:00:00.000Z",
+      "abstract": "Memory benchmarks for LLM agents largely assume single-user settings, leaving shared assistants for hospitals, workplaces, campuses, and households understudied. In these deployments, multiple princip",
+      "authors": [
+        "Zhe Ren",
+        "Yibo Yang",
+        "Yimeng Chen",
+        "Zijun Zhao",
+        "Benshuo Fu"
+      ],
+      "tags": [
+        "agent",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.19651",
+      "title": "BrainG3N: A Dual-Purpose Tokenizer for Controllable 3D Brain MRI Generation",
+      "url": "https://huggingface.co/papers/2606.19651",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-16T20:00:00.000Z",
+      "abstract": "Three-dimensional (3D) brain MRI is central to clinical neurology and neuro-oncology, where generative models could augment under-represented cohorts, simulate disease trajectories, and support privac",
+      "authors": [
+        "Max Van Puyvelde",
+        "Ibrahim Gulluk",
+        "Wim Van Criekinge",
+        "Olivier Gevaert"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.18847",
+      "title": "WorldLines: Benchmarking and Modeling Long-Horizon Stateful Embodied Agents",
+      "url": "https://huggingface.co/papers/2606.18847",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-16T20:00:00.000Z",
+      "abstract": "To assist humans over extended periods in real homes, embodied agents must remember user routines, world states, and past interactions. Existing long-term memory benchmarks mainly evaluate language-ce",
+      "authors": [
+        "Yehang Zhang",
+        "Jianchong Su",
+        "Haojian Huang",
+        "Yifan Chang",
+        "Tianhao Zhou"
+      ],
+      "tags": [
+        "agent",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.19534",
+      "title": "PerceptionDLM: Parallel Region Perception with Multimodal Diffusion Language Models",
+      "url": "https://huggingface.co/papers/2606.19534",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-16T20:00:00.000Z",
+      "abstract": "Multimodal large language models (MLLMs) have achieved remarkable progress in visual understanding tasks. However, most existing MLLMs rely on autoregressive generation, which limits their efficiency",
+      "authors": [
+        "Yueyi Sun",
+        "Yuhao Wang",
+        "Jason Li",
+        "Ye Tian",
+        "Tao Zhang"
+      ],
+      "tags": [
+        "diffusion",
+        "multimodal"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2606.19334",
       "title": "Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States",
       "url": "https://huggingface.co/papers/2606.19334",
@@ -235,34 +347,6 @@
       ],
       "tags": [
         "rag",
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.19419",
-      "title": "Playful Agentic Robot Learning",
-      "url": "https://huggingface.co/papers/2606.19419",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-16T20:00:00.000Z",
-      "abstract": "Current agentic robot systems can write executable Code-as-Policy programs, observe feedback, and revise behavior across multiple attempts, but they remain largely task-driven: reusable skills are acq",
-      "authors": [
-        "Junyi Zhang",
-        "Jiaxin Ge",
-        "Hanjun Yoo",
-        "Letian Fu",
-        "Zihan Yang"
-      ],
-      "tags": [
         "agent"
       ],
       "score": 6,
