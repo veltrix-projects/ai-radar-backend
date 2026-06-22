@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T13:08:21.044Z",
+  "generatedAt": "2026-06-22T17:59:21.184Z",
   "date": "17-06-2026",
   "count": 14,
   "summary": null,
@@ -43,6 +43,34 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.20527",
+      "title": "StylisticBias: A Few Human Visual Cues Drive Most Social Biases in MLLMs",
+      "url": "https://huggingface.co/papers/2606.20527",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-17T20:00:00.000Z",
+      "abstract": "Multimodal large language models (MLLMs) are increasingly deployed in personally and societally consequential settings, yet the visual cues that shape how these models judge people remain poorly under",
+      "authors": [
+        "Shaghayegh Kolli",
+        "Timo Cavelius",
+        "Nafiseh Nikeghbal",
+        "Samantha Dalal",
+        "Jana Diesner"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -124,32 +152,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.20517",
-      "title": "Multi-LCB: Extending LiveCodeBench to Multiple Programming Languages",
-      "url": "https://huggingface.co/papers/2606.20517",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-17T20:00:00.000Z",
-      "abstract": "LiveCodeBench (LCB) has recently become a widely adopted benchmark for evaluating large language models (LLMs) on code-generation tasks. By curating competitive programming problems, constantly adding",
-      "authors": [
-        "Maria Ivanova",
-        "Pavel Zadorozhny",
-        "Rodion Levichev",
-        "Ivan Petrov",
-        "Adamenko Pavel"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -309,7 +311,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 156529,
+      "stars": 156534,
       "votes": 0,
       "points": 0
     },
