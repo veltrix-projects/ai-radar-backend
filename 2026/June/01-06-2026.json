@@ -1,24 +1,26 @@
 {
-  "generatedAt": "2026-06-17T01:58:28.732Z",
+  "generatedAt": "2026-06-23T10:54:51.564Z",
   "date": "01-06-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2602.21103",
-      "title": "Prompt-Level Distillation: A Non-Parametric Alternative to Model Fine-Tuning for Efficient Reasoning",
-      "url": "https://huggingface.co/papers/2602.21103",
+      "id": "hf_paper_2606.20636",
+      "title": "SkillHarness: Harnessing Safe Skills for Computer-Use Agents",
+      "url": "https://huggingface.co/papers/2606.20636",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-01T20:00:00.000Z",
-      "abstract": "Advanced reasoning typically requires Chain-of-Thought prompting, which is accurate but incurs prohibitive latency and substantial test-time inference costs. The standard alternative, fine-tuning smal",
+      "abstract": "Computer-Use Agents (CUAs) are increasingly deployed in dynamic interactive environments, creating a growing need for continual skill learning during interaction. Recent approaches address this challe",
       "authors": [
-        "Sanket Badhe",
-        "Deep Shah"
+        "Yurun Chen",
+        "Biao Yi",
+        "Keting Yin",
+        "Shengyu Zhang"
       ],
       "tags": [
-        "fine-tuning"
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",

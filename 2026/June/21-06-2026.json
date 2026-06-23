@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-23T07:40:08.551Z",
+  "generatedAt": "2026-06-23T10:54:51.556Z",
   "date": "21-06-2026",
-  "count": 13,
+  "count": 17,
   "summary": null,
   "items": [
     {
@@ -42,6 +42,162 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.23085",
+      "title": "Foresight: Failure Detection for Long-Horizon Robotic Manipulation with Action-Conditioned World Model Latents",
+      "url": "https://huggingface.co/papers/2606.23085",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-21T20:00:00.000Z",
+      "abstract": "Long-horizon tasks are common in real-world robotic deployments, yet failure detection for such tasks remains underexplored. Detecting failures in long-horizon robotic tasks is particularly challengin",
+      "authors": [
+        "Haoran Zhang",
+        "Yifu Lu",
+        "Boyang Wang",
+        "Xuhui Kang",
+        "Yen-Ling Kuo"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.23489",
+      "title": "MeshFlow: Mesh Generation with Equivariant Flow Matching",
+      "url": "https://huggingface.co/papers/2606.23489",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-21T20:00:00.000Z",
+      "abstract": "Meshes are among the most common 3D scene representations, but directly generating meshes is challenging because the representation contains important symmetries, including permutation invariance of f",
+      "authors": [
+        "Qi Sun",
+        "Kiyohiro Nakayama",
+        "Jing Nathan Yan",
+        "Qixing Huang",
+        "Alexander Rush"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.22778",
+      "title": "HAKARI-Bench: A Lightweight Benchmark for Comparing Retrieval Architectures and Efficiency Settings under Unified Conditions",
+      "url": "https://huggingface.co/papers/2606.22778",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-21T20:00:00.000Z",
+      "abstract": "With the rapid spread of retrieval-augmented generation and semantic search, choosing the right embedding and retrieval configuration is increasingly hard. Large retrieval benchmarks are comprehensive",
+      "authors": [
+        "Yuichi Tateno"
+      ],
+      "tags": [
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.23321",
+      "title": "Tmax: A simple recipe for terminal agents",
+      "url": "https://huggingface.co/papers/2606.23321",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-21T20:00:00.000Z",
+      "abstract": "Terminal-using agents have quickly become the most popular downstream application of language models (LMs). Despite their prevalence, relatively little academic work has examined RL-based training of",
+      "authors": [
+        "Hamish Ivison",
+        "Junjie Oscar Yin",
+        "Rulin Shao",
+        "Teng Xiao",
+        "Nathan Lambert"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.23503",
+      "title": "UniverSat: Resolution- and Modality-Agnostic Transformers for Earth Observation",
+      "url": "https://huggingface.co/papers/2606.23503",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-21T20:00:00.000Z",
+      "abstract": "Vision Transformers (ViT) dominate computer vision. However, their reliance on rigid patch projectors hinders transfer to Earth Observation (EO), where input modalities, scales, and resolutions vary w",
+      "authors": [
+        "Yohann Perron",
+        "Guillaume Astruc",
+        "Nicolas Gonthier",
+        "Clement Mallet",
+        "Loic Landrieu"
+      ],
+      "tags": [
+        "transformer"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.23670",
+      "title": "Tapered Language Models",
+      "url": "https://huggingface.co/papers/2606.23670",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-21T20:00:00.000Z",
+      "abstract": "Modern language models, including transformer, recurrent, and memory-based variants, share a common chassis: a stack of identical layers in which parameters are allocated uniformly across depth. This",
+      "authors": [
+        "Reza Bayat",
+        "Ali Behrouz",
+        "Aaron Courville"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -232,55 +388,6 @@
         "agent",
         "benchmark"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.23267",
-      "title": "Safe Few-Step Generation via Velocity Editing",
-      "url": "https://huggingface.co/papers/2606.23267",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-21T20:00:00.000Z",
-      "abstract": "Flow matching has recently emerged as a strong paradigm for state-of-the-art text-to-image (T2I) generation, enabling high-quality generation with a small number of sampling steps. As these models are",
-      "authors": [
-        "Yujin Choi",
-        "Jaehong Yoon"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.22807",
-      "title": "KaLM-Reranker-V1: Fast but Not Late Interaction for Compressed Document Reranking",
-      "url": "https://huggingface.co/papers/2606.22807",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-21T20:00:00.000Z",
-      "abstract": "As retrieval systems scale, high-quality reranking becomes increasingly important. However, most existing rerankers, whether encoder-based or decoder-based, jointly encode the query and passage, tight",
-      "authors": [
-        "Xinping Zhao",
-        "Jiaxin Xu",
-        "Ziqi Dai",
-        "Xin Zhang",
-        "Shouzheng Huang"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

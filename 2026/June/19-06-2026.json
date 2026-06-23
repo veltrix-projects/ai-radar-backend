@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-06-23T07:40:08.553Z",
+  "generatedAt": "2026-06-23T10:54:51.557Z",
   "date": "19-06-2026",
-  "count": 8,
+  "count": 9,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2606.21906",
+      "title": "Deeper is Not Always Better: Mitigating the Alignment Tax via Confident Layer Decoding",
+      "url": "https://huggingface.co/papers/2606.21906",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-19T20:00:00.000Z",
+      "abstract": "Autoregressive generation in large language models (LLMs) conventionally decodes from the final layer, assuming that deeper representations yield more reliable next-token predictions. We revisit this",
+      "authors": [
+        "Xuanming Zhang",
+        "Sining Zhoubian",
+        "Yuxuan Chen",
+        "Tianyi Tang",
+        "An Yang"
+      ],
+      "tags": [
+        "alignment"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fbehind-t",
       "title": "Behind the Blog: Landfillcore and Go Knicks",

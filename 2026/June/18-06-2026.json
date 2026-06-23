@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-23T07:40:08.553Z",
+  "generatedAt": "2026-06-23T10:54:51.557Z",
   "date": "18-06-2026",
-  "count": 17,
+  "count": 18,
   "summary": null,
   "items": [
     {
@@ -27,6 +27,61 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2606.21670",
+      "title": "Improving Text-to-Music Generation with Human Preference Rewards",
+      "url": "https://huggingface.co/papers/2606.21670",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-18T20:00:00.000Z",
+      "abstract": "We describe our entry to the efficiency track of the Academic Text-to-Music (ATTM) Grand Challenge at ICME 2026. Beyond the challenge protocol's FAD-CLAP and CLAP score, we add a learned human-prefere",
+      "authors": [
+        "Yonghyun Kim",
+        "Junwon Lee",
+        "Haiwen Xia",
+        "Yinghao Ma",
+        "Chris Donahue"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.21337",
+      "title": "DataClaw0: Agentic Tailoring Multimodal Data from Raw Streams",
+      "url": "https://huggingface.co/papers/2606.21337",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-18T20:00:00.000Z",
+      "abstract": "Massive unstructured multimodal streams suffer from high \"data entropy,\" impeding both efficient human knowledge acquisition and high-quality AI post-training. Existing passive annotation paradigms, h",
+      "authors": [
+        "Cong Wan",
+        "Zeyu Guo",
+        "Zijian Cai",
+        "Jiangyang Li",
+        "SongLin Dong"
+      ],
+      "tags": [
+        "multimodal",
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2606.21139",
       "title": "PoLAR: Factorizing Extent and Mode in Latent Actions for Robot Policy Learning",
       "url": "https://huggingface.co/papers/2606.21139",
@@ -43,33 +98,6 @@
         "Taesup Kim"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.21649",
-      "title": "EvoEmbedding: Evolvable Representations for Long-Context Retrieval and Agentic Memory",
-      "url": "https://huggingface.co/papers/2606.21649",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-18T20:00:00.000Z",
-      "abstract": "Existing embedding models are inherently static: they encode text segments in isolation, ignoring their surrounding context and temporal order. This paper introduces EvoEmbedding, a novel embedding mo",
-      "authors": [
-        "Chang Nie",
-        "Chaoyou Fu",
-        "Junlan Feng",
-        "Caifeng Shan"
-      ],
-      "tags": [
-        "agent"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
