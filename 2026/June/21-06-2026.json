@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-23T20:29:21.469Z",
+  "generatedAt": "2026-06-23T21:56:55.278Z",
   "date": "21-06-2026",
-  "count": 7,
+  "count": 8,
   "summary": null,
   "items": [
     {
@@ -42,6 +42,32 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.23152",
+      "title": "ShotcreteDepth: A Bi-modal Dataset for Robust Robotic Depth Perception in Shotcrete Construction Environments",
+      "url": "https://huggingface.co/papers/2606.23152",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-21T20:00:00.000Z",
+      "abstract": "We introduce ShotcreteDepth, a bi-modal dataset from the construction domain that captures both an active shotcreting process and general construction environments. The dataset comprises stereo RGB im",
+      "authors": [
+        "Jakub Gregorek",
+        "Lars Arnold Dethlefsen",
+        "Patrick Schmidt",
+        "Mads Essenbæk",
+        "Jonas Flink Bentzen"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
