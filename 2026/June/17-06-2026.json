@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T18:17:47.278Z",
+  "generatedAt": "2026-06-23T20:29:21.471Z",
   "date": "17-06-2026",
   "count": 8,
   "summary": null,
@@ -27,19 +27,22 @@
       "points": 0
     },
     {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Get back hours every day with autonomous agents in Amazon Quick",
-      "url": "https://aws.amazon.com/blogs/machine-learning/get-back-hours-every-day-with-autonomous-agents-in-amazon-quick/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-06-17T20:35:39.000Z",
-      "abstract": "Today, Quick gets even more powerful: new autonomous agents that work continuously&amp;nbsp;on your behalf,&amp;nbsp;an activity feed that helps you prioritize your most important work, and the abilit",
-      "authors": [],
-      "tags": [
-        "agent",
-        "autonomous"
+      "id": "hf_paper_2606.20891",
+      "title": "Go-with-the-Track: Video Compositing and Motion Control with Point Tracking",
+      "url": "https://huggingface.co/papers/2606.20891",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-17T20:00:00.000Z",
+      "abstract": "Filmmaking demands precise motion control and reference image compositing -- capabilities that existing methods treat separately. Point-track-conditioned image-to-video models restrict content inserti",
+      "authors": [
+        "Koichi Namekata",
+        "Yash Kant",
+        "Zhizheng Liu",
+        "Ryan D Burgert",
+        "Yuancheng Xu"
       ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -126,6 +129,26 @@
       "points": 0
     },
     {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "Google Cloud generative AI automates council planning operations",
+      "url": "https://www.artificialintelligence-news.com/news/google-cloud-generative-ai-automates-council-planning-operations/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-06-17T10:59:42.000Z",
+      "abstract": "Government ministries are deploying Google Cloud generative AI across municipal agencies to automate council planning operations. Public sector administration handles vast volumes of unstructured data",
+      "authors": [],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fai-ch",
       "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
       "url": "https://openai.com/index/ai-chemist-improves-reaction",
@@ -174,27 +197,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 156552,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fintro",
-      "title": "Introducing LifeSciBench",
-      "url": "https://openai.com/index/introducing-life-sci-bench",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-06-17T00:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
+      "stars": 156553,
       "votes": 0,
       "points": 0
     }
