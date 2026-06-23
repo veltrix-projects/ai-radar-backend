@@ -1,31 +1,9 @@
 {
-  "generatedAt": "2026-06-23T10:54:51.556Z",
+  "generatedAt": "2026-06-23T13:36:15.419Z",
   "date": "21-06-2026",
-  "count": 17,
+  "count": 12,
   "summary": null,
   "items": [
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "The 7 Types of Agent Memory: A Technical Guide for AI Engineers",
-      "url": "https://www.marktechpost.com/2026/06/21/the-7-types-of-agent-memory-a-technical-guide-for-ai-engineers/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-06-21T23:12:31.000Z",
-      "abstract": "LLMs are stateless by default. Agent memory fixes that. This guide breaks down all 7 types — working, semantic, episodic, procedural, retrieval, parametric, and prospective. It covers what each stores",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fsamsu",
       "title": "Samsung Electronics brings ChatGPT and Codex to employees",
@@ -316,88 +294,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.23557",
-      "title": "Dense Reward for Multi-View 3D Reasoning with Global Maps and Local Views",
-      "url": "https://huggingface.co/papers/2606.23557",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-21T20:00:00.000Z",
-      "abstract": "Multi-view 3D Visual Question Answering (MV3D-VQA) requires integrating partial observations into a coherent 3D scene representation and selecting informative viewpoints for multi-step spatial reasoni",
-      "authors": [
-        "Jiho Choi",
-        "Seonho Lee",
-        "Seojeong Park",
-        "Hyunjung Shim"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.23608",
-      "title": "Causal Discovery in the Era of Agents",
-      "url": "https://huggingface.co/papers/2606.23608",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-21T20:00:00.000Z",
-      "abstract": "Recent attempts to combine large language models (LLMs) with causal discovery ask models to infer pairwise directions, propose graph structures, or inject language-model outputs as priors and constrai",
-      "authors": [
-        "Yujia Zheng",
-        "Vishal Verma",
-        "Mantej Gill",
-        "Haoyue Dai",
-        "Peter Spirtes"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.23654",
-      "title": "EnterpriseClawBench: Benchmarking Agents from Real Workplace Sessions",
-      "url": "https://huggingface.co/papers/2606.23654",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-21T20:00:00.000Z",
-      "abstract": "Enterprise agents increasingly operate inside workspaces: they read heterogeneous files, invoke tools, and deliver business artifacts. We introduce EnterpriseClawBench, an enterprise agent benchmark c",
-      "authors": [
-        "Jincheng Zhong",
-        "Weizhi Wang",
-        "Che Jiang",
-        "Kai Tian",
-        "Zhenzhao Yuan"
-      ],
-      "tags": [
-        "agent",
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "techcrunch_ai_https%3A%2F%2Ftechcrunch.com%2F2026%2F06",
       "title": "When the Trump administration cracks down on Anthropic, who benefits?",
       "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
@@ -411,28 +307,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Crawlee for Python: Build a Web Crawling Pipeline with Robots Handling, Link Graphs, and RAG Chunk Export",
-      "url": "https://www.marktechpost.com/2026/06/20/crawlee-for-python-build-a-web-crawling-pipeline-with-robots-handling-link-graphs-and-rag-chunk-export/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-06-21T06:52:10.000Z",
-      "abstract": "In this tutorial, we build a complete Crawlee for Python workflow from setup to AI-ready output. We generate a local demo website, then crawl it with BeautifulSoupCrawler, ParselCrawler, and Playwrigh",
-      "authors": [],
-      "tags": [
-        "rag"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
