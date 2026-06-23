@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-23T03:52:42.171Z",
+  "generatedAt": "2026-06-23T07:40:08.554Z",
   "date": "17-06-2026",
-  "count": 11,
+  "count": 13,
   "summary": null,
   "items": [
     {
@@ -50,18 +50,51 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.19827",
-      "title": "When, Where, and How: Adaptive Binning for Tabular Self-Supervised Learning",
-      "url": "https://huggingface.co/papers/2606.19827",
+      "id": "hf_paper_2606.20002",
+      "title": "Connect the Dots: Training LLMs for Long-Lifecycle Agents with Cross-Domain Generalization Via Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2606.20002",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-17T20:00:00.000Z",
-      "abstract": "Medical tabular data are ubiquitous in clinical research, but deep learning for tables remains underexplored because reliable labels often require costly expert adjudication, even though structured cl",
+      "abstract": "This work presents a general framework for training large language models (LLMs) to \"Connect the Dots\" (CoD), a meta-capability required by long-lifecycle agents: as an LLM-based AI agent gets deploye",
       "authors": [
-        "Daehwan Kim",
-        "Haejun Chung",
-        "Ikbeom Jang"
+        "Yanxi Chen",
+        "Weijie Shi",
+        "Yuexiang Xie",
+        "Boyi Hu",
+        "Yaliang Li"
+      ],
+      "tags": [
+        "llm",
+        "agent",
+        "training",
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.20781",
+      "title": "World Action Models: A Survey",
+      "url": "https://huggingface.co/papers/2606.20781",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-17T20:00:00.000Z",
+      "abstract": "World Action Models (WAMs) are embodied predictive-action models that make a forecast of the future available to action. Recent WAMs repurpose large video generation models, and a parallel line relies",
+      "authors": [
+        "Qiuhong Shen",
+        "Shihua Zhang",
+        "Yue Liao",
+        "Qi Li",
+        "Zhenxiong Tan"
       ],
       "tags": [],
       "score": 6,
@@ -74,27 +107,25 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.20527",
-      "title": "StylisticBias: A Few Human Visual Cues Drive Most Social Biases in MLLMs",
-      "url": "https://huggingface.co/papers/2606.20527",
+      "id": "hf_paper_2606.20097",
+      "title": "HydraHead: From Head-Level Functional Heterogeneity to Specialized Attention Hybridization",
+      "url": "https://huggingface.co/papers/2606.20097",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-17T20:00:00.000Z",
-      "abstract": "Multimodal large language models (MLLMs) are increasingly deployed in personally and societally consequential settings, yet the visual cues that shape how these models judge people remain poorly under",
+      "abstract": "The quadratic complexity of attention poses a critical bottleneck for long-context processing, spurring interest in hybrid attention designs. Most open-source hybrid models adopt a layer-wise strategy",
       "authors": [
-        "Shaghayegh Kolli",
-        "Timo Cavelius",
-        "Nafiseh Nikeghbal",
-        "Samantha Dalal",
-        "Jana Diesner"
+        "Zhentao Tan",
+        "Wei Chen",
+        "Jingyi Shen",
+        "Yao Liu",
+        "Xu Shen"
       ],
-      "tags": [
-        "llm"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -102,24 +133,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.20529",
-      "title": "LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents",
-      "url": "https://huggingface.co/papers/2606.20529",
+      "id": "hf_paper_2606.19750",
+      "title": "Manifold Bandits: Bayesian Curriculum Learning over the Latent Geometry of Large Language Models",
+      "url": "https://huggingface.co/papers/2606.19750",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-17T20:00:00.000Z",
-      "abstract": "Policy-adherent tool-calling agents in customer-service domains must maintain task states across turns while calling tools and obeying domain policies. Task states consist of relevant facts, identifie",
+      "abstract": "Reinforcement learning (RL) is a central approach for improving reasoning capabilities in large language models (LLMs), where training efficiency depends critically on how problems are sampled during",
       "authors": [
-        "Md Nayem Uddin",
-        "Amir Saeidi",
-        "Eduardo Blanco",
-        "Chitta Baral"
+        "Darrien McKenzie",
+        "Nicklas Hansen",
+        "Xiaolong Wang"
       ],
-      "tags": [
-        "rag",
-        "agent"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -192,6 +219,26 @@
       "points": 0
     },
     {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "Google Cloud generative AI automates council planning operations",
+      "url": "https://www.artificialintelligence-news.com/news/google-cloud-generative-ai-automates-council-planning-operations/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-06-17T10:59:42.000Z",
+      "abstract": "Government ministries are deploying Google Cloud generative AI across municipal agencies to automate council planning operations. Public sector administration handles vast volumes of unstructured data",
+      "authors": [],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fai-ch",
       "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
       "url": "https://openai.com/index/ai-chemist-improves-reaction",
@@ -240,7 +287,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 156533,
+      "stars": 156537,
       "votes": 0,
       "points": 0
     },

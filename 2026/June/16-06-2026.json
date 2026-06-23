@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-23T03:52:42.172Z",
+  "generatedAt": "2026-06-23T07:40:08.554Z",
   "date": "16-06-2026",
-  "count": 28,
+  "count": 24,
   "summary": null,
   "items": [
     {
@@ -151,190 +151,48 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.19468",
-      "title": "Characterizing Narrative Content in Web-scale LLM Pretraining Data",
-      "url": "https://huggingface.co/papers/2606.19468",
+      "id": "hf_paper_2606.19409",
+      "title": "OpenRath: Session-Centered Runtime State for Agent Systems",
+      "url": "https://huggingface.co/papers/2606.19409",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-16T20:00:00.000Z",
-      "abstract": "The narrative composition of web-scale LLM pretraining corpora remains largely unexplored even though narrative is a fundamental mode of human communication. We present the first fine-grained study of",
+      "abstract": "Modern agent systems often suffer from fragmented runtime state: transcripts, tool effects, memory events, workspace placement, branch provenance, and replay evidence are recorded separately and becom",
       "authors": [
-        "Teagan Johnson",
-        "Elliott Ash",
-        "Andrew Piper",
-        "Maria Antoniak"
+        "Fukang Wen",
+        "Zhijie Wang",
+        "Ruilin Xu"
       ],
       "tags": [
-        "llm",
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.18829",
-      "title": "GateMem: Benchmarking Memory Governance in Multi-Principal Shared-Memory Agents",
-      "url": "https://huggingface.co/papers/2606.18829",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-16T20:00:00.000Z",
-      "abstract": "Memory benchmarks for LLM agents largely assume single-user settings, leaving shared assistants for hospitals, workplaces, campuses, and households understudied. In these deployments, multiple princip",
-      "authors": [
-        "Zhe Ren",
-        "Yibo Yang",
-        "Yimeng Chen",
-        "Zijun Zhao",
-        "Benshuo Fu"
-      ],
-      "tags": [
-        "agent",
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.19651",
-      "title": "BrainG3N: A Dual-Purpose Tokenizer for Controllable 3D Brain MRI Generation",
-      "url": "https://huggingface.co/papers/2606.19651",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-16T20:00:00.000Z",
-      "abstract": "Three-dimensional (3D) brain MRI is central to clinical neurology and neuro-oncology, where generative models could augment under-represented cohorts, simulate disease trajectories, and support privac",
-      "authors": [
-        "Max Van Puyvelde",
-        "Ibrahim Gulluk",
-        "Wim Van Criekinge",
-        "Olivier Gevaert"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.18847",
-      "title": "WorldLines: Benchmarking and Modeling Long-Horizon Stateful Embodied Agents",
-      "url": "https://huggingface.co/papers/2606.18847",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-16T20:00:00.000Z",
-      "abstract": "To assist humans over extended periods in real homes, embodied agents must remember user routines, world states, and past interactions. Existing long-term memory benchmarks mainly evaluate language-ce",
-      "authors": [
-        "Yehang Zhang",
-        "Jianchong Su",
-        "Haojian Huang",
-        "Yifan Chang",
-        "Tianhao Zhou"
-      ],
-      "tags": [
-        "agent",
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.19534",
-      "title": "PerceptionDLM: Parallel Region Perception with Multimodal Diffusion Language Models",
-      "url": "https://huggingface.co/papers/2606.19534",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-16T20:00:00.000Z",
-      "abstract": "Multimodal large language models (MLLMs) have achieved remarkable progress in visual understanding tasks. However, most existing MLLMs rely on autoregressive generation, which limits their efficiency",
-      "authors": [
-        "Yueyi Sun",
-        "Yuhao Wang",
-        "Jason Li",
-        "Ye Tian",
-        "Tao Zhang"
-      ],
-      "tags": [
-        "diffusion",
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.19334",
-      "title": "Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States",
-      "url": "https://huggingface.co/papers/2606.19334",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-16T20:00:00.000Z",
-      "abstract": "Progress in legal AI increasingly depends on access to authoritative legal text at scale. Yet one of the most consequential layers of American law remains largely absent from existing machine-readable",
-      "authors": [
-        "Denis Peskoff",
-        "Joe Barrow",
-        "Christopher Vu",
-        "Diag Davenport"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.19602",
-      "title": "Configurable Clinical Information Extraction with Agentic RAG: What Works, What Breaks, and Why",
-      "url": "https://huggingface.co/papers/2606.19602",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-16T20:00:00.000Z",
-      "abstract": "Patient contexts span hundreds of heterogeneous documents and thousands of structured data points, yet the document-level metadata that AI systems need for retrieval and triage is absent or incomplete",
-      "authors": [
-        "Osman Alperen Çinar-Koraş",
-        "Marie Bauer",
-        "Sameh Khattab",
-        "Merlin Engelke",
-        "Moon Kim"
-      ],
-      "tags": [
-        "rag",
         "agent"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.18844",
+      "title": "Learning from Your Own Mistakes: Constructing Learnable Micro-Reflective Trajectories for Self-Distillation",
+      "url": "https://huggingface.co/papers/2606.18844",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-16T20:00:00.000Z",
+      "abstract": "Self-distillation improves reasoning in large language models by using the model's own rollouts as training signal, typically through implicit logit-level alignment that minimizes KL divergence toward",
+      "authors": [
+        "Zhilin Huang",
+        "Hang Gao",
+        "Ziqiang Dong",
+        "Yuan Chen",
+        "Yifeng Luo"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -517,6 +375,26 @@
       "points": 0
     },
     {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "Insurers pivot AI strategy toward core risk underwriting",
+      "url": "https://www.artificialintelligence-news.com/news/insurers-pivot-ai-strategy-toward-core-risk-underwriting/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-06-16T15:55:02.000Z",
+      "abstract": "AI investments by insurers are now expected to generate tangible business value beyond mere efficiency. According to findings in the 2026 Evident AI Index, insurers are now embedding AI technologies i",
+      "authors": [],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "google_deepmind_https%3A%2F%2Fdeepmind.google%2Fblog%2Fs",
       "title": "Securing the future of AI agents",
       "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
@@ -581,26 +459,18 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.18381",
-      "title": "SproutRAG: Attention-Guided Tree Search with Progressive Embeddings for Long-Document RAG",
-      "url": "https://huggingface.co/papers/2606.18381",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-16T14:28:00.000Z",
-      "abstract": "Retrieval-augmented generation (RAG) systems must balance retrieval granularity with contextual coherence, a challenge that existing methods address through LLM-guided chunking, single-level context e",
-      "authors": [
-        "Amirhossein Abaskohi",
-        "Issam H. Laradji",
-        "Peter West",
-        "Giuseppe Carenini"
-      ],
-      "tags": [
-        "rag",
-        "embeddings"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "EU publishes its AI content labelling playbook ahead of the AI Act&#8217;s August deadline",
+      "url": "https://www.artificialintelligence-news.com/news/ai-content-labelling-eu-code-of-practice/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-06-16T10:00:00.000Z",
+      "abstract": "The European Union has&#160;published&#160;its AI content labelling playbook, a voluntary Code of Practice meant to help companies meet transparency rules that become law across the bloc on August 2 o",
+      "authors": [],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
