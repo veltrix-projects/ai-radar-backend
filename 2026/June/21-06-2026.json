@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-24T11:38:16.107Z",
+  "generatedAt": "2026-06-24T14:07:20.968Z",
   "date": "21-06-2026",
-  "count": 3,
+  "count": 5,
   "summary": null,
   "items": [
     {
@@ -20,6 +20,61 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.23679",
+      "title": "Semantic Browsing: Controllable Diversity for Image Generation",
+      "url": "https://huggingface.co/papers/2606.23679",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-21T20:00:00.000Z",
+      "abstract": "Modern text-to-image models excel in visual fidelity and prompt adherence. However, this strict adherence comes at the cost of diversity: generated samples tend to collapse into a single visual interp",
+      "authors": [
+        "Sara Dorfman",
+        "Maya Vishnevsky",
+        "Omer Dahary",
+        "Or Patashnik",
+        "Daniel Cohen-Or"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.23997",
+      "title": "ChartWalker: Benchmarking the Cross-Chart RAG Task",
+      "url": "https://huggingface.co/papers/2606.23997",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-21T20:00:00.000Z",
+      "abstract": "Cross-Chart Retrieval-Augmented Generation (RAG) is critical for complex multi-modal analytical tasks in scientific, business, and political domains. However, existing benchmarks either focus on table",
+      "authors": [
+        "Ning Tang",
+        "Chenghan Xie",
+        "Hanyang Yuan",
+        "Yi Li",
+        "Renhong Huang"
+      ],
+      "tags": [
+        "rag",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
