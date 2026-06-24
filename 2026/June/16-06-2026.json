@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T01:22:08.658Z",
+  "generatedAt": "2026-06-24T05:14:24.164Z",
   "date": "16-06-2026",
   "count": 18,
   "summary": null,
@@ -151,20 +151,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.19603",
-      "title": "Comparing Linear Probes with Mahalanobis Cosine Similarity",
-      "url": "https://huggingface.co/papers/2606.19603",
+      "id": "hf_paper_2606.18831",
+      "title": "Beyond Reward Engineering: A Data Recipe for Long-Context Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2606.18831",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-16T20:00:00.000Z",
-      "abstract": "Linear probes are widely used in interpretability research and often compared by cosine similarity. The Mahalanobis cosine similarity (MCS) between two directions, which reweights the inner product by",
+      "abstract": "Long-context reasoning is an essential capability for large language models, particularly when they are deployed as autonomous agents that must reason over lengthy trajectories. Reinforcement learning",
       "authors": [
-        "Zhuofan Josh Ying",
-        "Peter Hase",
-        "Nikolaus Kriegeskorte"
+        "Xiaoyue Xu",
+        "Sikui Zhang",
+        "Xiaorong Wang",
+        "Xu Han",
+        "Chaojun Xiao"
       ],
-      "tags": [],
+      "tags": [
+        "reinforcement learning"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

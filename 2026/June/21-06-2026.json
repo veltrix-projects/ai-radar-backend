@@ -1,31 +1,9 @@
 {
-  "generatedAt": "2026-06-24T01:22:08.656Z",
+  "generatedAt": "2026-06-24T05:14:24.161Z",
   "date": "21-06-2026",
-  "count": 10,
+  "count": 5,
   "summary": null,
   "items": [
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "The 7 Types of Agent Memory: A Technical Guide for AI Engineers",
-      "url": "https://www.marktechpost.com/2026/06/21/the-7-types-of-agent-memory-a-technical-guide-for-ai-engineers/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-06-21T23:12:31.000Z",
-      "abstract": "LLMs are stateless by default. Agent memory fixes that. This guide breaks down all 7 types — working, semantic, episodic, procedural, retrieval, parametric, and prospective. It covers what each stores",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fsamsu",
       "title": "Samsung Electronics brings ChatGPT and Codex to employees",
@@ -42,6 +20,59 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.23449",
+      "title": "AOHP: An Open-Source OS-Level Agent Harness for Personalized, Efficient and Secure Interaction",
+      "url": "https://huggingface.co/papers/2606.23449",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-21T20:00:00.000Z",
+      "abstract": "AI agents are driving a new software paradigm, with the ability to autonomously call tools, extract information, manage memory, and complete tasks that span applications and data sources. Most existin",
+      "authors": [
+        "Shanhui Zhao",
+        "Jiacheng Liu",
+        "Guohong Liu",
+        "Jichao Yan",
+        "Jialei Ye"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.22875",
+      "title": "FedOT: Ownership Verification and Leakage Tracing via Watermarks for Federated LDMs",
+      "url": "https://huggingface.co/papers/2606.22875",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-21T20:00:00.000Z",
+      "abstract": "Training Latent Diffusion Models (LDMs) within Federated Learning (FL) has attracted increasing attention due to its ability to combine the powerful generative capacity of LDMs with the privacy-preser",
+      "authors": [
+        "Wenlong Cheng",
+        "Yuan Gan",
+        "Yunqiu Xu",
+        "Jiaxu Miao"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -88,158 +119,6 @@
         "Kris Kitani"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.23152",
-      "title": "ShotcreteDepth: A Bi-modal Dataset for Robust Robotic Depth Perception in Shotcrete Construction Environments",
-      "url": "https://huggingface.co/papers/2606.23152",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-21T20:00:00.000Z",
-      "abstract": "We introduce ShotcreteDepth, a bi-modal dataset from the construction domain that captures both an active shotcreting process and general construction environments. The dataset comprises stereo RGB im",
-      "authors": [
-        "Jakub Gregorek",
-        "Lars Arnold Dethlefsen",
-        "Patrick Schmidt",
-        "Mads Essenbæk",
-        "Jonas Flink Bentzen"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.22936",
-      "title": "When Agents Commit Too Soon: Diagnosing Premature Commitment in LLM Agents",
-      "url": "https://huggingface.co/papers/2606.22936",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-21T20:00:00.000Z",
-      "abstract": "Long-horizon LLM agents can fail quietly: they settle on one reading of the evidence early, then spend the rest of the run defending it. We call this premature commitment. Final-answer scoring misses",
-      "authors": [
-        "Aman Mehta"
-      ],
-      "tags": [
-        "llm",
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.23610",
-      "title": "Vera: A Layered Diffusion Model for Content-Preserving Video Editing",
-      "url": "https://huggingface.co/papers/2606.23610",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-21T20:00:00.000Z",
-      "abstract": "Video diffusion models have enabled remarkable progress in video generation and editing. However, content preservation remains a core challenge: existing methods regenerate every pixel and often alter",
-      "authors": [
-        "Hongkai Zheng",
-        "Ta-Ying Cheng",
-        "Benjamin Klein",
-        "Yisong Yue",
-        "Zhuoning Yuan"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.23189",
-      "title": "Capable but Careless: Do Computer-Use Agents Follow Contextual Integrity?",
-      "url": "https://huggingface.co/papers/2606.23189",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-21T20:00:00.000Z",
-      "abstract": "Computer-use agents (CUAs) now act on a user's behalf across personal applications such as email, calendars, and to-do lists. This cross-application access is useful, but it also creates a privacy ris",
-      "authors": [
-        "Anmol Goel",
-        "Iryna Gurevych"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.23514",
-      "title": "Arbor: Explicit Geometric Conditioning for Controllable 3D Asset Generation",
-      "url": "https://huggingface.co/papers/2606.23514",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-21T20:00:00.000Z",
-      "abstract": "Text and image conditioned 3D models now generate convincing assets, but they still offer little direct control over the space an object should occupy or avoid. In authoring, this spatial intent is of",
-      "authors": [
-        "Jan-Niklas Dihlmann",
-        "Andreas Engelhardt",
-        "Simon Donne",
-        "Hendrik P. A. Lensch",
-        "Mark Boss"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Crawlee for Python: Build a Web Crawling Pipeline with Robots Handling, Link Graphs, and RAG Chunk Export",
-      "url": "https://www.marktechpost.com/2026/06/20/crawlee-for-python-build-a-web-crawling-pipeline-with-robots-handling-link-graphs-and-rag-chunk-export/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-06-21T06:52:10.000Z",
-      "abstract": "In this tutorial, we build a complete Crawlee for Python workflow from setup to AI-ready output. We generate a local demo website, then crawl it with BeautifulSoupCrawler, ParselCrawler, and Playwrigh",
-      "authors": [],
-      "tags": [
-        "rag"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

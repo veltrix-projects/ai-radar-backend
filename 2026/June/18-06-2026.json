@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-24T01:22:08.657Z",
+  "generatedAt": "2026-06-24T05:14:24.162Z",
   "date": "18-06-2026",
-  "count": 14,
+  "count": 7,
   "summary": null,
   "items": [
     {
@@ -19,116 +19,6 @@
       ],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.21171",
-      "title": "An Exploratory Case Study of LLM-Assisted Refactoring and Gameplay Feature Generation in an Endless Runner Game",
-      "url": "https://huggingface.co/papers/2606.21171",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-18T20:00:00.000Z",
-      "abstract": "Large language models (LLMs) are increasingly used to support software development, but their practical usefulness in applied game-development settings remains underexplored, especially when generated",
-      "authors": [
-        "Jan Wunderlich",
-        "Markus Kleffmann",
-        "Sebastian Lempert"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.16246",
-      "title": "Demystifying Training-Time Augmentation for Data-Constrained Language Model Pretraining",
-      "url": "https://huggingface.co/papers/2606.16246",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-18T20:00:00.000Z",
-      "abstract": "As AI labs approach a data ceiling where compute capacity outpaces the rate of new high-quality text generation, language model pretraining is shifting toward a data-constrained, compute-abundant regi",
-      "authors": [
-        "Michael K. Chen",
-        "Xikun Zhang",
-        "Fan Bai",
-        "Zhengding Hu",
-        "Zhen Wang"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.21638",
-      "title": "Toward Open Weight Models Without Risks: Separating Public and Private Capabilities in LLMs",
-      "url": "https://huggingface.co/papers/2606.21638",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-18T20:00:00.000Z",
-      "abstract": "Open-weight Large Language Models (LLMs) enable scientific progress and broad deployment. However, they make it difficult to control access to sensitive capabilities. Current practice either suppresse",
-      "authors": [
-        "Charbel El Feghali",
-        "Arkil Patel",
-        "Nicholas Meade",
-        "Spandana Gella",
-        "Verna Dankers"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.21627",
-      "title": "Counsel: A Meta-Evaluation Dataset for Agentic Tasks",
-      "url": "https://huggingface.co/papers/2606.21627",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-18T20:00:00.000Z",
-      "abstract": "As agentic systems tackle increasingly complex multi-step tasks, evaluating their trajectories presents a major bottleneck - human annotation of a single trajectory on popular agentic benchmarks can t",
-      "authors": [
-        "Sashank Pisupati",
-        "Henry Broomfield",
-        "Eujeong Choi",
-        "Antonia Calvi",
-        "Charlie Wang"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -199,28 +89,6 @@
       "points": 0
     },
     {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "Computer vision deployments drive retail productivity gains",
-      "url": "https://www.artificialintelligence-news.com/news/computer-vision-deployments-drive-retail-productivity-gains/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-06-18T15:57:46.000Z",
-      "abstract": "Computer vision deployments are driving retail productivity gains as operators automate physical shelf tracking to protect eroding margins. This hardware deployment directly addresses the persistent i",
-      "authors": [],
-      "tags": [
-        "computer vision"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fif-ai-is",
       "title": "If AI Is Sentient Then So Is ‘Age of Empires II’",
       "url": "https://www.404media.co/if-ai-is-sentient-then-so-is-age-of-empires-ii/",
@@ -253,46 +121,6 @@
       "tags": [
         "gpt"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "HSBC expands AI banking partnership with Google Cloud",
-      "url": "https://www.artificialintelligence-news.com/news/hsbc-google-cloud-ai-partnership/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-06-18T10:00:00.000Z",
-      "abstract": "HSBC has entered a multi-year partnership with Google Cloud to develop and deploy artificial intelligence tools across its global operations. Announced at Google Cloud Summit London 2026, the agreemen",
-      "authors": [],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "Microsoft sells OpenAI models in China. OpenAI and Anthropic won&#8217;t.",
-      "url": "https://www.artificialintelligence-news.com/news/microsoft-sells-openai-models-china/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-06-18T09:00:00.000Z",
-      "abstract": "Microsoft has quietly become the main supplier of OpenAI models in China, selling the technology to the country&#8217;s largest internet companies even as OpenAI and Anthropic keep their own models ou",
-      "authors": [],
-      "tags": [],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
