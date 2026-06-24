@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-24T08:37:42.712Z",
+  "generatedAt": "2026-06-24T11:38:16.110Z",
   "date": "17-06-2026",
-  "count": 5,
+  "count": 6,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,60 @@
       "tags": [
         "inference"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.20027",
+      "title": "QG-MIL: A Gated Transformer Aggregator for Domain-Agnostic Multiple Instance Learning in Medical Imaging",
+      "url": "https://huggingface.co/papers/2606.20027",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-17T20:00:00.000Z",
+      "abstract": "Attention-based Multiple Instance Learning aggregators in medical imaging are prone to attention concentration, producing overconfident and unstable predictions. We introduce QG-MIL, a gated transform",
+      "authors": [
+        "Luca Zedda",
+        "Davide Antonio Mura",
+        "Cecilia Di Ruberto",
+        "Maurizio Atzori",
+        "Muhammed Furkan Dasdelen"
+      ],
+      "tags": [
+        "transformer"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.20092",
+      "title": "EventVLA: Event-Driven Visual Evidence Memory for Long-Horizon Vision-Language-Action Policies",
+      "url": "https://huggingface.co/papers/2606.20092",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-17T20:00:00.000Z",
+      "abstract": "Memory remains a critical bottleneck for long-horizon robotic manipulation, as standard Vision-Language-Action (VLA) policies often fail when task-relevant cues become occluded or unobservable over ti",
+      "authors": [
+        "Ganlin Yang",
+        "Zhangzheng Tu",
+        "Yuqiang Yang",
+        "Sitong Mao",
+        "Junyi Dong"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -83,26 +137,6 @@
       "points": 0
     },
     {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "Google Cloud generative AI automates council planning operations",
-      "url": "https://www.artificialintelligence-news.com/news/google-cloud-generative-ai-automates-council-planning-operations/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-06-17T10:59:42.000Z",
-      "abstract": "Government ministries are deploying Google Cloud generative AI across municipal agencies to automate council planning operations. Public sector administration handles vast volumes of unstructured data",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "gh_132464395",
       "title": "Snailclimb/JavaGuide — Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
       "url": "https://github.com/Snailclimb/JavaGuide",
@@ -129,7 +163,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 156565,
+      "stars": 156577,
       "votes": 0,
       "points": 0
     }

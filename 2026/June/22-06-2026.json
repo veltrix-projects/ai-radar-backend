@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-24T08:37:42.709Z",
+  "generatedAt": "2026-06-24T11:38:16.107Z",
   "date": "22-06-2026",
-  "count": 40,
+  "count": 36,
   "summary": null,
   "items": [
     {
@@ -438,35 +438,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.24888",
-      "title": "DiffusionBench: On Holistic Evaluation of Diffusion Transformers",
-      "url": "https://huggingface.co/papers/2606.24888",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-22T20:00:00.000Z",
-      "abstract": "Diffusion transformer (DiT) research on image generation has converged to a single evaluation setup: class-conditional generation on ImageNet. While methods improve the FID and related metrics, it is",
-      "authors": [
-        "Xingjian Leng",
-        "Jaskirat Singh",
-        "Zhanhao Liang",
-        "Ethan Smith",
-        "Martin Bell"
-      ],
-      "tags": [
-        "transformer",
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Freport%",
       "title": "AI is cursing renters with the promise of impossible homes",
       "url": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
@@ -497,28 +468,6 @@
       "abstract": "",
       "authors": [],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Sakana AI Launches Sakana Fugu: An Orchestration Model That Routes Tasks Across a Swappable Pool of Frontier LLMs",
-      "url": "https://www.marktechpost.com/2026/06/22/sakana-ai-launches-sakana-fugu-an-orchestration-model-that-routes-tasks-across-a-swappable-pool-of-frontier-llms/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-06-22T18:42:59.000Z",
-      "abstract": "Fugu and Fugu Ultra route tasks across a swappable model pool, leading most coding, reasoning, and agentic benchmarks.\nThe post Sakana AI Launches Sakana Fugu: An Orchestration Model That Routes Tasks",
-      "authors": [],
-      "tags": [
-        "llm"
-      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
@@ -842,26 +791,6 @@
       "points": 0
     },
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "MoonMath AI Open-Sources a HIP Attention Kernel for AMD MI300X That Beats AITER v3 on Every Shape and Rounding Mode",
-      "url": "https://www.marktechpost.com/2026/06/22/moonmath-ai-open-sources-a-hip-attention-kernel-for-amd-mi300x-that-beats-aiter-v3-on-every-shape-and-rounding-mode/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-06-22T07:13:49.000Z",
-      "abstract": "The HIP kernel uses one-instruction asm wrappers and an eight-wave pipeline to outperform AMD's AITER v3 on MI300X.\nThe post MoonMath AI Open-Sources a HIP Attention Kernel for AMD MI300X That Beats A",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "gh_1136590548",
       "title": "affaan-m/ECC — The agent harness performance optimization system. Skills, instincts, memory, security, and research",
       "url": "https://github.com/affaan-m/ECC",
@@ -887,27 +816,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 220792,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "How to Design Python-First Interactive Dashboards with Prefab Reactive UI Components and Static HTML Export",
-      "url": "https://www.marktechpost.com/2026/06/21/how-to-design-python-first-interactive-dashboards-with-prefab-reactive-ui-components-and-static-html-export/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-06-22T00:13:29.000Z",
-      "abstract": "In this tutorial, we build a Prefab application that creates interactive dashboards entirely in Python. We design an operations dashboard with reactive state, charts, tables, filters, forms, tabs, and",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
+      "stars": 220881,
       "votes": 0,
       "points": 0
     },
