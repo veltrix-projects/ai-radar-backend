@@ -1,9 +1,34 @@
 {
-  "generatedAt": "2026-06-25T11:11:13.965Z",
+  "generatedAt": "2026-06-25T13:31:55.620Z",
   "date": "22-06-2026",
-  "count": 18,
+  "count": 16,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2606.25182",
+      "title": "What Intermediate Layers Know: Detecting Jailbreaks from Entropy Dynamics",
+      "url": "https://huggingface.co/papers/2606.25182",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-22T20:00:00.000Z",
+      "abstract": "Jailbreak attacks reveal a persistent weakness in aligned Large Language Models: carefully crafted prompts can elicit policy-violating responses despite safety training. While most defenses operate at",
+      "authors": [
+        "Sofiia Nikolenko",
+        "Michele Papucci",
+        "Mina Rezaei",
+        "Shireen Kudukkil Manchingal"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2606.24083",
       "title": "CAVEWOMAN: How Large Language Models Behave Under Linguistic Input and Output Compression",
@@ -71,34 +96,6 @@
         "Jiaya Jia"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.24849",
-      "title": "IV-CoT: Implicit Visual Chain-of-Thought for Structure-Aware Text-to-Image Generation",
-      "url": "https://huggingface.co/papers/2606.24849",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-22T20:00:00.000Z",
-      "abstract": "Unified multi-modal large language models (MLLMs) have achieved strong text-to-image generation quality, but still struggle with structure-aware prompt following, where object counts, spatial relation",
-      "authors": [
-        "Zixuan Li",
-        "Haokun Lin",
-        "Yicheng Xiao",
-        "Zhiwei Li",
-        "Xinyang Song"
-      ],
-      "tags": [
-        "text-to-image"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -193,28 +190,6 @@
       "points": 0
     },
     {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "Mitigating vendor lock-in with Sakana AI Fugu multi-agent models",
-      "url": "https://www.artificialintelligence-news.com/news/mitigating-vendor-lock-in-sakana-ai-fugu-multi-agent-models/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-06-22T16:11:21.000Z",
-      "abstract": "Sakana AI launched Fugu to orchestrate multi-agent operations and mitigate single-vendor dependency risks in enterprise deployments. Enterprises face operational vulnerabilities when relying entirely",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "CCCL Runtime: A Modern C++ Runtime for CUDA",
       "url": "https://developer.nvidia.com/blog/cccl-runtime-a-modern-c-runtime-for-cuda/",
@@ -298,28 +273,6 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fpatch",
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "url": "https://openai.com/index/patch-the-planet",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-06-22T10:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "open source"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fdaybr",
       "title": "Daybreak: Tools for securing every organization in the world",
       "url": "https://openai.com/index/daybreak-securing-the-world",
@@ -340,17 +293,17 @@
       "points": 0
     },
     {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "L’Oréal brings Maybelline virtual try-on to ChatGPT",
-      "url": "https://www.artificialintelligence-news.com/news/loreal-maybelline-virtual-try-on-chatgpt/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fpatch",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "url": "https://openai.com/index/patch-the-planet",
+      "source": "OpenAI Blog",
+      "sourceIcon": "🟢",
       "type": "news",
       "timestamp": "2026-06-22T10:00:00.000Z",
-      "abstract": "L’Oréal has announced a collaboration with OpenAI that will bring Maybelline New York’s virtual makeup try-on feature into ChatGPT. The announcement was made at VivaTech 2026. The partnership covers c",
+      "abstract": "",
       "authors": [],
       "tags": [
-        "gpt"
+        "open source"
       ],
       "score": 8,
       "priority": "HIGH",
@@ -387,7 +340,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 221406,
+      "stars": 221461,
       "votes": 0,
       "points": 0
     },

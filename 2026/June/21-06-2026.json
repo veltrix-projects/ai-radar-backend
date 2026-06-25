@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-25T11:11:13.966Z",
+  "generatedAt": "2026-06-25T13:31:55.621Z",
   "date": "21-06-2026",
-  "count": 2,
+  "count": 3,
   "summary": null,
   "items": [
     {
@@ -20,6 +20,32 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.23104",
+      "title": "ReNIO: Reweighting Negative Trajectory Importance for LLM On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2606.23104",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-21T20:00:00.000Z",
+      "abstract": "On-policy distillation (OPD) improves LLM reasoning by training a student model on its own generated outputs, but standard OPD treats all student-generated outputs (SGOs) equally regardless of their i",
+      "authors": [
+        "Chen Lin",
+        "Kedi Chen",
+        "Wei Zhang"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
