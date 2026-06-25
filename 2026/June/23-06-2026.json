@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-25T16:15:43.412Z",
+  "generatedAt": "2026-06-25T18:29:34.123Z",
   "date": "23-06-2026",
-  "count": 28,
+  "count": 25,
   "summary": null,
   "items": [
     {
@@ -201,62 +201,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.25996",
-      "title": "Autodata: An agentic data scientist to create high quality synthetic data",
-      "url": "https://huggingface.co/papers/2606.25996",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-23T20:00:00.000Z",
-      "abstract": "We introduce Autodata, a general method that enables AI agents to act as data scientists who build high quality training and evaluation data. We show how to train (meta-optimize) such a data scientist",
-      "authors": [
-        "Ilia Kulikov",
-        "Chenxi Whitehouse",
-        "Tianhao Wu",
-        "Yixin Nie",
-        "Swarnadeep Saha"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.26058",
-      "title": "DomainShuttle: Freeform Open Domain Subject-driven Text-to-video Generation",
-      "url": "https://huggingface.co/papers/2606.26058",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-23T20:00:00.000Z",
-      "abstract": "Open domain subject-driven text-to-video (S2V) generation has drawn significant interest in academia and industry. Open domain S2V mainly involves two scenarios: in-domain, which requires retaining th",
-      "authors": [
-        "Nan Chen",
-        "Yiyang Cai",
-        "Rongchang Xie",
-        "Junwen Pan",
-        "Cheng Chen"
-      ],
-      "tags": [
-        "text-to-video"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
       "title": "Datalab Releases lift: A 9B Open-Weights Vision Model That Extracts Structured JSON From PDFs Using Schemas",
       "url": "https://www.marktechpost.com/2026/06/23/datalab-releases-lift-a-9b-open-weights-vision-model-that-extracts-structured-json-from-pdfs-using-schemas/",
@@ -265,26 +209,6 @@
       "type": "research",
       "timestamp": "2026-06-23T19:35:33.000Z",
       "abstract": "Datalab released lift, a 9B open-weights vision model that turns PDFs and images into schema-matching JSON. It uses schema-constrained decoding for valid structure and trained abstention to return nul",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "How to Use NVIDIA Canary-1B-v2 for ASR, Translation, and Automatic SRT Subtitle Export in Python",
-      "url": "https://www.marktechpost.com/2026/06/23/how-to-use-nvidia-canary-1b-v2-for-asr-translation-and-automatic-srt-subtitle-export-in-python/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-06-23T18:31:36.000Z",
-      "abstract": "In this tutorial, we build a multilingual ASR and speech translation pipeline with NVIDIA Canary-1B-v2. We load the model on a GPU-enabled runtime, prepare audio into 16 kHz mono, and run English ASR.",
       "authors": [],
       "tags": [],
       "score": 8,

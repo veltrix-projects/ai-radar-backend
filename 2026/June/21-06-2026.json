@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T16:15:43.413Z",
+  "generatedAt": "2026-06-25T18:29:34.125Z",
   "date": "21-06-2026",
   "count": 3,
   "summary": null,
@@ -27,6 +27,32 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2606.22953",
+      "title": "Plans Don't Persist: Why Context Management Is Load Bearing for LLM Agents",
+      "url": "https://huggingface.co/papers/2606.22953",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-21T20:00:00.000Z",
+      "abstract": "Long-horizon agents depend on context management: systems compress, summarize, and evict old tokens so tasks can continue beyond finite windows. That is safe only when dropped information is no longer",
+      "authors": [
+        "Aman Mehta",
+        "Anupam Datta"
+      ],
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2606.23104",
       "title": "ReNIO: Reweighting Negative Trajectory Importance for LLM On-Policy Distillation",
       "url": "https://huggingface.co/papers/2606.23104",
@@ -42,30 +68,6 @@
       ],
       "tags": [
         "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.24937",
-      "title": "The Hitchhiker's Guide to Agentic AI: From Foundations to Systems",
-      "url": "https://huggingface.co/papers/2606.24937",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-21T20:00:00.000Z",
-      "abstract": "The Hitchhiker's Guide to Agentic AI is a comprehensive practitioner's reference for building autonomous AI systems. The book covers the full stack from first principles to production deployment, orga",
-      "authors": [
-        "Haggai Roitman"
-      ],
-      "tags": [
-        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
