@@ -1,88 +1,31 @@
 {
-  "generatedAt": "2026-06-23T03:52:42.173Z",
+  "generatedAt": "2026-06-25T08:16:58.761Z",
   "date": "14-06-2026",
-  "count": 3,
+  "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2606.17162",
-      "title": "MemSlides: A Hierarchical Memory Driven Agent Framework for Personalized Slide Generation with Multi-turn Local Revision",
-      "url": "https://huggingface.co/papers/2606.17162",
+      "id": "hf_paper_2606.16316",
+      "title": "RL-Index: Reinforcement Learning for Retrieval Index Reasoning",
+      "url": "https://huggingface.co/papers/2606.16316",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-14T20:00:00.000Z",
-      "abstract": "Personalized presentation generation requires more than conditioning on a current prompt or template: agents must preserve stable user preferences across tasks, retain newly introduced preferences and",
+      "abstract": "Retrieving external knowledge is essential for solving real-world tasks, yet it remains challenging when the relationship between a query and its relevant knowledge involves implicit and complex reaso",
       "authors": [
-        "Ye Jin",
-        "Yangyang Xu",
-        "Jun Zhu",
-        "Yibo Yang"
+        "Yongjia Lei",
+        "Nedim Lipka",
+        "Zhisheng Qi",
+        "Utkarsh Sahu",
+        "Koustava Goswami"
       ],
       "tags": [
-        "agent"
+        "reinforcement learning"
       ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.16700",
-      "title": "Multi-Turn Reflective Masking Elicits Reasoning in Mask Diffusion Models",
-      "url": "https://huggingface.co/papers/2606.16700",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-14T20:00:00.000Z",
-      "abstract": "While reasoning on autoregressive (AR) models is often performed by chain-of-thought reasoning and reflection, their refinement of previous outputs still relies on fully sequential generation, even wh",
-      "authors": [
-        "Yanming Zhang",
-        "Yihan Bian",
-        "Jingyuan Qi",
-        "Yuguang Yao",
-        "Lifu Huang"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.17053",
-      "title": "Context-Aware RL for Agentic and Multimodal LLMs",
-      "url": "https://huggingface.co/papers/2606.17053",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-14T20:00:00.000Z",
-      "abstract": "Large language models (LLMs) often fail when answering requires identifying a small but decisive piece of evidence within a long or complex context, such as a single line in a tool trace or a subtle d",
-      "authors": [
-        "Peiyang Xu",
-        "Bangzheng Li",
-        "Sijia Liu",
-        "Karthik R. Narasimhan",
-        "Pramod Viswanath"
-      ],
-      "tags": [
-        "llm",
-        "multimodal",
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

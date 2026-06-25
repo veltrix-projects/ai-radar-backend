@@ -1,54 +1,29 @@
 {
-  "generatedAt": "2026-06-25T04:39:49.667Z",
+  "generatedAt": "2026-06-25T08:16:58.760Z",
   "date": "17-06-2026",
-  "count": 3,
+  "count": 2,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2606.20027",
-      "title": "QG-MIL: A Gated Transformer Aggregator for Domain-Agnostic Multiple Instance Learning in Medical Imaging",
-      "url": "https://huggingface.co/papers/2606.20027",
+      "id": "hf_paper_2606.20023",
+      "title": "When Lower Privileges Suffice: Investigating Over-Privileged Tool Selection in LLM Agents",
+      "url": "https://huggingface.co/papers/2606.20023",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-17T20:00:00.000Z",
-      "abstract": "Attention-based Multiple Instance Learning aggregators in medical imaging are prone to attention concentration, producing overconfident and unstable predictions. We introduce QG-MIL, a gated transform",
+      "abstract": "As LLM agents increasingly select tools autonomously, their choices among tools with different privileges become safety-relevant. However, prior tool-selection studies focus on safety-agnostic metadat",
       "authors": [
-        "Luca Zedda",
-        "Davide Antonio Mura",
-        "Cecilia Di Ruberto",
-        "Maurizio Atzori",
-        "Muhammed Furkan Dasdelen"
+        "Kaiyue Yang",
+        "Yuyan Bu",
+        "Jingwei Yi",
+        "Yuchi Wang",
+        "Biyu Zhou"
       ],
       "tags": [
-        "transformer"
+        "llm",
+        "agent"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.20092",
-      "title": "EventVLA: Event-Driven Visual Evidence Memory for Long-Horizon Vision-Language-Action Policies",
-      "url": "https://huggingface.co/papers/2606.20092",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-17T20:00:00.000Z",
-      "abstract": "Memory remains a critical bottleneck for long-horizon robotic manipulation, as standard Vision-Language-Action (VLA) policies often fail when task-relevant cues become occluded or unobservable over ti",
-      "authors": [
-        "Ganlin Yang",
-        "Zhangzheng Tu",
-        "Yuqiang Yang",
-        "Sitong Mao",
-        "Junyi Dong"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -85,7 +60,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 156592,
+      "stars": 156601,
       "votes": 0,
       "points": 0
     }

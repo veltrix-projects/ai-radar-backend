@@ -1,9 +1,113 @@
 {
-  "generatedAt": "2026-06-25T04:39:49.664Z",
+  "generatedAt": "2026-06-25T08:16:58.757Z",
   "date": "22-06-2026",
-  "count": 22,
+  "count": 19,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2606.24083",
+      "title": "CAVEWOMAN: How Large Language Models Behave Under Linguistic Input and Output Compression",
+      "url": "https://huggingface.co/papers/2606.24083",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-22T20:00:00.000Z",
+      "abstract": "\"Talk short. Drop grammar. Save token.\" This caveman style is widely promoted as a way to cut inference cost, but whether it actually saves anything depends on which channel (the user's prompt or the",
+      "authors": [
+        "Morayo Danielle Adeyemi",
+        "Ryan A. Rossi",
+        "Franck Dernoncourt"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.24775",
+      "title": "Are We Ready For An Agent-Native Memory System?",
+      "url": "https://huggingface.co/papers/2606.24775",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-22T20:00:00.000Z",
+      "abstract": "Memory for large language model (LLM) agents has rapidly evolved from simple retrieval-augmented mechanisms into a data management system that supports persistent information storage, retrieval, updat",
+      "authors": [
+        "Wei Zhou",
+        "Xuanhe Zhou",
+        "Shaokun Han",
+        "Hongming Xu",
+        "Guoliang Li"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.24033",
+      "title": "RoPE-Aware Bit Allocation for KV-Cache Quantization",
+      "url": "https://huggingface.co/papers/2606.24033",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-22T20:00:00.000Z",
+      "abstract": "Existing low-bit KV-cache quantizers often treat each cached key as a flat vector. Under RoPE, however, a key's contribution to a future attention logit decomposes into a position-dependent sum over t",
+      "authors": [
+        "Fengfeng Liang",
+        "Yuechen Zhang",
+        "Jiaya Jia"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.24849",
+      "title": "IV-CoT: Implicit Visual Chain-of-Thought for Structure-Aware Text-to-Image Generation",
+      "url": "https://huggingface.co/papers/2606.24849",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-22T20:00:00.000Z",
+      "abstract": "Unified multi-modal large language models (MLLMs) have achieved strong text-to-image generation quality, but still struggle with structure-aware prompt following, where object counts, spatial relation",
+      "authors": [
+        "Zixuan Li",
+        "Haokun Lin",
+        "Yicheng Xiao",
+        "Zhiwei Li",
+        "Xinyang Song"
+      ],
+      "tags": [
+        "text-to-image"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2606.24484",
       "title": "Advancing WordArt-Oriented Scene Text Recognition: Datasets and Methods",
@@ -74,196 +178,6 @@
       ],
       "tags": [
         "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.24884",
-      "title": "InSight: Self-Guided Skill Acquisition via Steerable VLAs",
-      "url": "https://huggingface.co/papers/2606.24884",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-22T20:00:00.000Z",
-      "abstract": "Vision-language-action (VLA) models can learn manipulation skills from demonstrations, but their capabilities are bounded by the skills in the training data. We present InSight, a framework that unloc",
-      "authors": [
-        "Maggie Wang",
-        "Lars Osterberg",
-        "Stephen Tian",
-        "Ola Shorinwa",
-        "Jiajun Wu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.24526",
-      "title": "AGORA: An Archive-Grounded Benchmark for Agentic Workplace Document Reasoning",
-      "url": "https://huggingface.co/papers/2606.24526",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-22T20:00:00.000Z",
-      "abstract": "Large language models are increasingly deployed as agents that reason over documents rather than answer from parametric knowledge. We study archive-grounded reasoning: locating sparse evidence across",
-      "authors": [
-        "Honglin Guo",
-        "Qi Zhang",
-        "Yu Zhang",
-        "Weijie Li",
-        "Rui Zheng"
-      ],
-      "tags": [
-        "agent",
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.24876",
-      "title": "FLAT: Feedforward Latent Triangle Splatting for Geometrically Accurate Scene Generation",
-      "url": "https://huggingface.co/papers/2606.24876",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-22T20:00:00.000Z",
-      "abstract": "Generating explorable 3D scenes from a single image requires strong generative priors and accurate geometric representations suitable for downstream use. Current video diffusion models offer high-qual",
-      "authors": [
-        "Orest Kupyn",
-        "Goutam Bhat",
-        "Philipp Henzler",
-        "Fabian Manhardt",
-        "Christian Rupprecht"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.24428",
-      "title": "Escaping the Self-Confirmation Trap: An Execute-Distill-Verify Paradigm for Agentic Experience Learning",
-      "url": "https://huggingface.co/papers/2606.24428",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-22T20:00:00.000Z",
-      "abstract": "Experience-driven self-evolution is critical for large language model (LLM) agents to improve through open-world interaction. However, existing experience learning methods mostly rely on single-agent",
-      "authors": [
-        "Shiding Zhu",
-        "Yudi Qi",
-        "Yajie Wang",
-        "Jiaze Li",
-        "Chao Song"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.24231",
-      "title": "FlowR2A: Learning Reward-to-Action Distribution for Multimodal Driving Planning",
-      "url": "https://huggingface.co/papers/2606.24231",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-22T20:00:00.000Z",
-      "abstract": "Multimodal driving planning faces a long-standing tension between two paradigms: scoring-based methods benefit from dense reward supervision but are confined to a fixed action vocabulary, while anchor",
-      "authors": [
-        "Xirui Li",
-        "Zhe Liu",
-        "Xiaoqing Ye",
-        "Wenhua Han",
-        "Yifeng Pan"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.24530",
-      "title": "NatureBench: Can Coding Agents Match the Published SOTA of Nature-Family Papers?",
-      "url": "https://huggingface.co/papers/2606.24530",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-22T20:00:00.000Z",
-      "abstract": "We introduce NatureBench, a cross-discipline benchmark of 90 tasks distilled from peer-reviewed Nature-family publications, designed to evaluate whether AI coding agents can move beyond reproduction t",
-      "authors": [
-        "Yuru Wang",
-        "Lejun Cheng",
-        "Yuxin Zuo",
-        "Sihang Zeng",
-        "Bingxiang He"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.24667",
-      "title": "DREAM: Dense Retrieval Embeddings via Autoregressive Modeling",
-      "url": "https://huggingface.co/papers/2606.24667",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-22T20:00:00.000Z",
-      "abstract": "Dense retrieval embedding models are a fundamental component of modern retrieval-based AI systems. Most dense retrievers are trained with contrastive objectives, which require labeled positive and neg",
-      "authors": [
-        "Yixuan Tang",
-        "Yi Yang"
-      ],
-      "tags": [
-        "embeddings"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -509,7 +423,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 221222,
+      "stars": 221310,
       "votes": 0,
       "points": 0
     },

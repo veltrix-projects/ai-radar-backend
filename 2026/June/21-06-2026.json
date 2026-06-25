@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-25T04:39:49.666Z",
+  "generatedAt": "2026-06-25T08:16:58.758Z",
   "date": "21-06-2026",
-  "count": 6,
+  "count": 2,
   "summary": null,
   "items": [
     {
@@ -27,129 +27,16 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.23543",
-      "title": "VeriEvol: Scaling Multimodal Mathematical Reasoning via Verifiable Evol-Instruct",
-      "url": "https://huggingface.co/papers/2606.23543",
+      "id": "hf_paper_2606.24937",
+      "title": "The Hitchhiker's Guide to Agentic AI: From Foundations to Systems",
+      "url": "https://huggingface.co/papers/2606.24937",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-21T20:00:00.000Z",
-      "abstract": "Scaling reinforcement learning for visual mathematical reasoning requires more than generating harder questions: as data volume grows, the reward labels themselves must remain reliable. Yet existing d",
+      "abstract": "The Hitchhiker's Guide to Agentic AI is a comprehensive practitioner's reference for building autonomous AI systems. The book covers the full stack from first principles to production deployment, orga",
       "authors": [
-        "Haoling Li",
-        "Kai Zheng",
-        "Jie Wu",
-        "Can Xu",
-        "Qingfeng Sun"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.23991",
-      "title": "Critique of Agent Model",
-      "url": "https://huggingface.co/papers/2606.23991",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-21T20:00:00.000Z",
-      "abstract": "What is an agent? What constitutes agency? With the rise of Large Language Model (LLM) systems marketed as ``coding agents'', ``AI co-scientists'', and other ``agentic\" tools that promise to drive up",
-      "authors": [
-        "Eric Xing",
-        "Mingkai Deng",
-        "Jinyu Hou"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.23679",
-      "title": "Semantic Browsing: Controllable Diversity for Image Generation",
-      "url": "https://huggingface.co/papers/2606.23679",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-21T20:00:00.000Z",
-      "abstract": "Modern text-to-image models excel in visual fidelity and prompt adherence. However, this strict adherence comes at the cost of diversity: generated samples tend to collapse into a single visual interp",
-      "authors": [
-        "Sara Dorfman",
-        "Maya Vishnevsky",
-        "Omer Dahary",
-        "Or Patashnik",
-        "Daniel Cohen-Or"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.23997",
-      "title": "ChartWalker: Benchmarking the Cross-Chart RAG Task",
-      "url": "https://huggingface.co/papers/2606.23997",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-21T20:00:00.000Z",
-      "abstract": "Cross-Chart Retrieval-Augmented Generation (RAG) is critical for complex multi-modal analytical tasks in scientific, business, and political domains. However, existing benchmarks either focus on table",
-      "authors": [
-        "Ning Tang",
-        "Chenghan Xie",
-        "Hanyang Yuan",
-        "Yi Li",
-        "Renhong Huang"
-      ],
-      "tags": [
-        "rag",
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.23449",
-      "title": "AOHP: An Open-Source OS-Level Agent Harness for Personalized, Efficient and Secure Interaction",
-      "url": "https://huggingface.co/papers/2606.23449",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-21T20:00:00.000Z",
-      "abstract": "AI agents are driving a new software paradigm, with the ability to autonomously call tools, extract information, manage memory, and complete tasks that span applications and data sources. Most existin",
-      "authors": [
-        "Shanhui Zhao",
-        "Jiacheng Liu",
-        "Guohong Liu",
-        "Jichao Yan",
-        "Jialei Ye"
+        "Haggai Roitman"
       ],
       "tags": [
         "agent"

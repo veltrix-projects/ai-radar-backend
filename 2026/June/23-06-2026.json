@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-25T04:39:49.664Z",
+  "generatedAt": "2026-06-25T08:16:58.756Z",
   "date": "23-06-2026",
-  "count": 40,
+  "count": 32,
   "summary": null,
   "items": [
     {
@@ -129,94 +129,20 @@
       "points": 0
     },
     {
-      "id": "arxiv_2606.24879v1",
-      "title": "New Bounds for the Last Iterate of the Stochastic subGradient Method",
-      "url": "https://arxiv.org/abs/2606.24879v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
+      "id": "hf_paper_2606.25319",
+      "title": "V-Zero: Answer-Label-Free On-Policy Distillation with Contrastive Evidence Gating for Fine-Grained Visual Reasoning",
+      "url": "https://huggingface.co/papers/2606.25319",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-06-23T17:55:18Z",
-      "abstract": "We study the last iterate of the stochastic subgradient method for one-dimensional convex Lipschitz objectives. For a fixed horizon $n$, we consider the standard fixed stepsizes $η=Θ(1/\\sqrt n)$. We p",
+      "timestamp": "2026-06-23T20:00:00.000Z",
+      "abstract": "Fine-grained visual reasoning requires multimodal large language models (MLLMs) to identify task-relevant visual evidence and ground their reasoning in local image regions. Existing agentic methods ty",
       "authors": [
-        "Guglielmo Beretta",
-        "Tommaso Cesari",
-        "Roberto Colomboni",
-        "Andrea Paudice"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2606.24874v1",
-      "title": "FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation",
-      "url": "https://arxiv.org/abs/2606.24874v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-06-23T17:52:21Z",
-      "abstract": "Sparse voxel representation has emerged as a scalable foundation for image-to-3D Gaussian Splatting (3DGS) generation, yet current methods struggle to preserve high-frequency visual details of input i",
-      "authors": [
-        "Haorui Ji",
-        "Weizhe Liu",
-        "Hongdong Li",
-        "Hengkai Guo"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2503.05226v2",
-      "title": "Reward-Centered ReST-MCTS: A Robust Decision-Making Framework for Robotic Manipulation in High Uncertainty Environments",
-      "url": "https://arxiv.org/abs/2503.05226v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-06-23T17:44:20Z",
-      "abstract": "Monte Carlo tree search is attractive for robotic manipulation because it can improve action selection through simulation without requiring a fully differentiable policy. In uncertain domains, however",
-      "authors": [
-        "Xibai Wang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2606.23566v2",
-      "title": "LangMAP: A Language-Adaptive Approach to Tokenization",
-      "url": "https://arxiv.org/abs/2606.23566v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-06-23T17:41:34Z",
-      "abstract": "Language-specific tokenizers improve tokenization quality and the downstream performance of models on those languages. However, using such a tokenizer comes at a cost: either a new model must be train",
-      "authors": [
-        "Clara Meister",
-        "Suchir Salhan",
-        "Andrzej Szablewski",
-        "Pietro Lesci",
-        "Paula Buttery"
+        "Haoxiang Sun",
+        "Zhihang Yi",
+        "Langxuan Deng",
+        "Yuhao Zhou",
+        "Peiqi Jia"
       ],
       "tags": [],
       "score": 8,
@@ -229,71 +155,22 @@
       "points": 0
     },
     {
-      "id": "arxiv_2603.12120v2",
-      "title": "CRAFT: A Tendon-Driven Hand with Hybrid Hard-Soft Compliance",
-      "url": "https://arxiv.org/abs/2603.12120v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
+      "id": "hf_paper_2606.26092",
+      "title": "TryOnCrafter: Unleashing Camera Trajectories for Realistic Video Virtual Try-on via a Renderable 4D Try-on Proxy",
+      "url": "https://huggingface.co/papers/2606.26092",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-06-23T17:40:39Z",
-      "abstract": "We introduce CRAFT hand, a tendon-driven anthropomorphic hand with hybrid hard-soft compliance for contact-rich manipulation. The design is based on a simple idea: contact is not uniform across the ha",
+      "timestamp": "2026-06-23T20:00:00.000Z",
+      "abstract": "While Video Virtual Try-on (VVT) has achieved remarkable progress in synthesizing realistic garment overlays on dynamic subjects, existing paradigms remains fundamentally constrained by a passive depe",
       "authors": [
-        "Leo Lin",
-        "Shivansh Patel",
-        "Jay Moon",
-        "Svetlana Lazebnik",
-        "Unnat Jain"
+        "Hao Sun",
+        "Hao Yan",
+        "Mengting Chen",
+        "Quanjian Song",
+        "Yu Li"
       ],
       "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2606.17102v2",
-      "title": "Quantum Cinema: An Interactive Cinematic Exploration of Quantum Computing Hardware via Generative World Models",
-      "url": "https://arxiv.org/abs/2606.17102v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-06-23T17:39:45Z",
-      "abstract": "Quantum computing promises transformative advances across science and industry, yet the physical hardware that enables these computations remains invisible to the public: quantum processors operate in",
-      "authors": [
-        "Aoyu Zhang",
-        "Dongping Liu",
-        "Luyao Zhang"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2605.21401v2",
-      "title": "Open-source LLMs administer maximum electric shocks in a Milgram-like obedience experiment",
-      "url": "https://arxiv.org/abs/2605.21401v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-06-23T17:39:03Z",
-      "abstract": "Large language models (LLMs) are increasingly deployed as autonomous agents that make sequences of decisions over extended interactions in high-stakes domains. However, the behaviour of LLMs under sus",
-      "authors": [
-        "Roland Pihlakas",
-        "Jan Llenzl Dagohoy"
-      ],
-      "tags": [
-        "llm"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -304,20 +181,20 @@
       "points": 0
     },
     {
-      "id": "arxiv_2606.24855v1",
-      "title": "OpenThoughts-Agent: Data Recipes for Agentic Models",
-      "url": "https://arxiv.org/abs/2606.24855v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
+      "id": "hf_paper_2606.25996",
+      "title": "Autodata: An agentic data scientist to create high quality synthetic data",
+      "url": "https://huggingface.co/papers/2606.25996",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-06-23T17:34:29Z",
-      "abstract": "Agentic language models dramatically expand the applications of AI yet little is publicly known about how to curate training data for broadly capable agents. Existing open efforts such as SWE-Smith, S",
+      "timestamp": "2026-06-23T20:00:00.000Z",
+      "abstract": "We introduce Autodata, a general method that enables AI agents to act as data scientists who build high quality training and evaluation data. We show how to train (meta-optimize) such a data scientist",
       "authors": [
-        "Negin Raoof",
-        "Richard Zhuang",
-        "Marianna Nezhurina",
-        "Etash Guha",
-        "Atula Tejaswi"
+        "Ilia Kulikov",
+        "Chenxi Whitehouse",
+        "Tianhao Wu",
+        "Yixin Nie",
+        "Swarnadeep Saha"
       ],
       "tags": [
         "agent"
@@ -332,101 +209,26 @@
       "points": 0
     },
     {
-      "id": "arxiv_2606.24854v1",
-      "title": "It's Complicated: On the Design and Evaluation of AI-Powered AAC Interfaces",
-      "url": "https://arxiv.org/abs/2606.24854v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
+      "id": "hf_paper_2606.26058",
+      "title": "DomainShuttle: Freeform Open Domain Subject-driven Text-to-video Generation",
+      "url": "https://huggingface.co/papers/2606.26058",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-06-23T17:34:18Z",
-      "abstract": "Artificial intelligence (AI) can enhance what people who use augmentative and alternative communication (AAC) are able to do with their systems. However, evaluating AI-powered AAC interfaces can be di",
+      "timestamp": "2026-06-23T20:00:00.000Z",
+      "abstract": "Open domain subject-driven text-to-video (S2V) generation has drawn significant interest in academia and industry. Open domain S2V mainly involves two scenarios: in-domain, which requires retaining th",
       "authors": [
-        "Blade Frisch",
-        "Will Wade",
-        "Dylan Gaines",
-        "Michelle Kinsella",
-        "Betts Peters"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2606.02800v4",
-      "title": "Cosmos 3: Omnimodal World Models for Physical AI",
-      "url": "https://arxiv.org/abs/2606.02800v4",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-06-23T17:33:32Z",
-      "abstract": "We introduce Cosmos 3, a family of omnimodal world models designed to jointly process and generate language, image, video, audio, and action sequences within a unified mixture-of-transformers architec",
-      "authors": [
-        "NVIDIA",
-        ":",
-        "Aditi",
-        "Niket Agarwal",
-        "Arslan Ali"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2605.08179v2",
-      "title": "Neural Posterior Estimation of Terrain Parameters from Radar Sounder Data",
-      "url": "https://arxiv.org/abs/2605.08179v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-06-23T17:31:05Z",
-      "abstract": "Radar sounders are electromagnetic instruments that can probe deep into the subsurface of Earth and other planetary bodies by processing the echo of transmitted radar waves. Conventional approaches fo",
-      "authors": [
-        "Jordy Dal Corso",
-        "Annalena Kofler",
-        "Marco Cortellazzi",
-        "Lorenzo Bruzzone",
-        "Bernhard Schölkopf"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2606.24851v1",
-      "title": "Real vs. Complex Spectral Bases for Neural Operators: The Role of Green's Function Alignment",
-      "url": "https://arxiv.org/abs/2606.24851v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-06-23T17:29:15Z",
-      "abstract": "Fourier Neural Operators (FNO) learn solution operators of partial differential equations by parameterizing global convolutions in the complex Fourier domain. For real-valued PDE solutions, the comple",
-      "authors": [
-        "Jason Sulskis",
-        "Sathya Ravi"
+        "Nan Chen",
+        "Yiyang Cai",
+        "Rongchang Xie",
+        "Junwen Pan",
+        "Cheng Chen"
       ],
       "tags": [
-        "alignment"
+        "text-to-video"
       ],
-      "score": 4,
-      "priority": "LOW",
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -435,26 +237,26 @@
       "points": 0
     },
     {
-      "id": "arxiv_2606.24849v1",
-      "title": "IV-CoT: Implicit Visual Chain-of-Thought for Structure-Aware Text-to-Image Generation",
-      "url": "https://arxiv.org/abs/2606.24849v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
+      "id": "hf_paper_2606.25331",
+      "title": "Improved Large Language Diffusion Models",
+      "url": "https://huggingface.co/papers/2606.25331",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-06-23T17:28:00Z",
-      "abstract": "Unified multi-modal large language models (MLLMs) have achieved strong text-to-image generation quality, but still struggle with structure-aware prompt following, where object counts, spatial relation",
+      "timestamp": "2026-06-23T20:00:00.000Z",
+      "abstract": "Modern large language models are predominantly trained with autoregressive factorization and causal attention. We present iLLaDA, an 8B masked diffusion language model trained from scratch with fully",
       "authors": [
-        "Zixuan Li",
-        "Haokun Lin",
-        "Yicheng Xiao",
-        "Zhiwei Li",
-        "Xinyang Song"
+        "Shen Nie",
+        "Qiyang Min",
+        "Shaoxuan Xu",
+        "Zihao Huang",
+        "Yuxuan Song"
       ],
       "tags": [
-        "text-to-image"
+        "diffusion"
       ],
-      "score": 4,
-      "priority": "LOW",
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -463,25 +265,26 @@
       "points": 0
     },
     {
-      "id": "arxiv_2603.08287v2",
-      "title": "Posterior Sampling Reinforcement Learning with Gaussian Processes for Continuous Control: Sublinear Regret Bounds for Unbounded State Spaces",
-      "url": "https://arxiv.org/abs/2603.08287v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
+      "id": "hf_paper_2606.25473",
+      "title": "Causal-rCM: A Unified Teacher-Forcing and Self-Forcing Open Recipe for Autoregressive Diffusion Distillation in Streaming Video Generation and Interactive World Models",
+      "url": "https://huggingface.co/papers/2606.25473",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-06-23T17:25:23Z",
-      "abstract": "We analyze the Bayesian regret of the Gaussian process posterior sampling reinforcement learning (GP-PSRL) algorithm. Posterior sampling is a heuristic for decision-making under uncertainty that has b",
+      "timestamp": "2026-06-23T20:00:00.000Z",
+      "abstract": "Autoregressive video diffusion with causal diffusion transformers has emerged as a major paradigm for real-time streaming video generation and action-conditioned interactive world models. In this work",
       "authors": [
-        "Hamish Flynn",
-        "Joe Watson",
-        "Ingmar Posner",
-        "Jan Peters"
+        "Kaiwen Zheng",
+        "Guande He",
+        "Min Zhao",
+        "Jintao Zhang",
+        "Huayu Chen"
       ],
       "tags": [
-        "reinforcement learning"
+        "diffusion"
       ],
-      "score": 4,
-      "priority": "LOW",
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
