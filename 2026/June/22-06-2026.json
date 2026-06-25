@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-06-25T13:31:55.620Z",
+  "generatedAt": "2026-06-25T16:15:43.413Z",
   "date": "22-06-2026",
-  "count": 16,
+  "count": 17,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2606.24457",
+      "title": "Lite Any Stereo V2: Faster and Stronger Efficient Zero-Shot Stereo Matching",
+      "url": "https://huggingface.co/papers/2606.24457",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-22T20:00:00.000Z",
+      "abstract": "Recent advances in stereo matching have achieved remarkable accuracy, but often rely on large models, heavy computation, or additional foundation-model priors, making them difficult to deploy on resou",
+      "authors": [
+        "Junpeng Jing",
+        "Ronglai Zuo",
+        "Zhelun Shen",
+        "Shangchen Zhou",
+        "Rolandos Alexandros Potamias"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2606.25182",
       "title": "What Intermediate Layers Know: Detecting Jailbreaks from Entropy Dynamics",
@@ -72,30 +98,6 @@
       "tags": [
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.24033",
-      "title": "RoPE-Aware Bit Allocation for KV-Cache Quantization",
-      "url": "https://huggingface.co/papers/2606.24033",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-22T20:00:00.000Z",
-      "abstract": "Existing low-bit KV-cache quantizers often treat each cached key as a flat vector. Under RoPE, however, a key's contribution to a future attention logit decomposes into a position-dependent sum over t",
-      "authors": [
-        "Fengfeng Liang",
-        "Yuechen Zhang",
-        "Jiaya Jia"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -190,6 +192,28 @@
       "points": 0
     },
     {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "Mitigating vendor lock-in with Sakana AI Fugu multi-agent models",
+      "url": "https://www.artificialintelligence-news.com/news/mitigating-vendor-lock-in-sakana-ai-fugu-multi-agent-models/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-06-22T16:11:21.000Z",
+      "abstract": "Sakana AI launched Fugu to orchestrate multi-agent operations and mitigate single-vendor dependency risks in enterprise deployments. Enterprises face operational vulnerabilities when relying entirely",
+      "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "CCCL Runtime: A Modern C++ Runtime for CUDA",
       "url": "https://developer.nvidia.com/blog/cccl-runtime-a-modern-c-runtime-for-cuda/",
@@ -203,26 +227,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fwe-will-",
-      "title": "'We Will Fight to Our Very Last Breath:' Township Leaders Vow to Fight Nuclear AI Data Center",
-      "url": "https://www.404media.co/we-will-fight-to-our-very-last-breath-township-leaders-vow-to-fight-nuclear-ai-data-center/",
-      "source": "404 Media",
-      "sourceIcon": "📡",
-      "type": "news",
-      "timestamp": "2026-06-22T15:24:09.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -273,6 +277,28 @@
       "points": 0
     },
     {
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fpatch",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "url": "https://openai.com/index/patch-the-planet",
+      "source": "OpenAI Blog",
+      "sourceIcon": "🟢",
+      "type": "news",
+      "timestamp": "2026-06-22T10:00:00.000Z",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "open source"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fdaybr",
       "title": "Daybreak: Tools for securing every organization in the world",
       "url": "https://openai.com/index/daybreak-securing-the-world",
@@ -293,17 +319,17 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fpatch",
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "url": "https://openai.com/index/patch-the-planet",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "L’Oréal brings Maybelline virtual try-on to ChatGPT",
+      "url": "https://www.artificialintelligence-news.com/news/loreal-maybelline-virtual-try-on-chatgpt/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
       "type": "news",
       "timestamp": "2026-06-22T10:00:00.000Z",
-      "abstract": "",
+      "abstract": "L’Oréal has announced a collaboration with OpenAI that will bring Maybelline New York’s virtual makeup try-on feature into ChatGPT. The announcement was made at VivaTech 2026. The partnership covers c",
       "authors": [],
       "tags": [
-        "open source"
+        "gpt"
       ],
       "score": 8,
       "priority": "HIGH",
@@ -340,7 +366,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 221461,
+      "stars": 221558,
       "votes": 0,
       "points": 0
     },
