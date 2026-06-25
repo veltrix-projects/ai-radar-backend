@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-25T08:16:58.757Z",
+  "generatedAt": "2026-06-25T11:11:13.965Z",
   "date": "22-06-2026",
-  "count": 19,
+  "count": 18,
   "summary": null,
   "items": [
     {
@@ -109,86 +109,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.24484",
-      "title": "Advancing WordArt-Oriented Scene Text Recognition: Datasets and Methods",
-      "url": "https://huggingface.co/papers/2606.24484",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-22T20:00:00.000Z",
-      "abstract": "WordArt (artistic text) features highly customized fonts, textures, and layouts, making WordArt-oriented scene TExt Recognition (WATER) substantially more challenging than general Scene Text Recogniti",
-      "authors": [
-        "Xingsong Ye",
-        "Yongkun Du",
-        "Jiaxin Zhang",
-        "Haojie Zhang",
-        "Chong Sun"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.25041",
-      "title": "Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models",
-      "url": "https://huggingface.co/papers/2606.25041",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-22T20:00:00.000Z",
-      "abstract": "We present Wan-Streamer, a native-streaming, end-to-end interactive foundation model designed from the ground up for real-time, low-latency, full-duplex audio-visual interaction. Wan-Streamer seamless",
-      "authors": [
-        "Lianghua Huang",
-        "Zhifan Wu",
-        "Wei Wang",
-        "Yupeng Shi",
-        "Mengyang Feng"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.24595",
-      "title": "MEMPROBE: Probing Long-Term Agent Memory via Hidden User-State Recovery",
-      "url": "https://huggingface.co/papers/2606.24595",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-22T20:00:00.000Z",
-      "abstract": "Long-term memory promises LLM agents that grow more capable across sessions, maintaining an accurate, evolving understanding of the user that interaction forms. In practice, however, this memory is ev",
-      "authors": [
-        "Enze Ma",
-        "Yufan Zhou",
-        "Wei-Chieh Huang",
-        "Jie Yang",
-        "Huanhuan Ma"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
       "title": "Three things to watch amid Anthropic’s latest feud with the government",
       "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
@@ -265,6 +185,28 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "Mitigating vendor lock-in with Sakana AI Fugu multi-agent models",
+      "url": "https://www.artificialintelligence-news.com/news/mitigating-vendor-lock-in-sakana-ai-fugu-multi-agent-models/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-06-22T16:11:21.000Z",
+      "abstract": "Sakana AI launched Fugu to orchestrate multi-agent operations and mitigate single-vendor dependency risks in enterprise deployments. Enterprises face operational vulnerabilities when relying entirely",
+      "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -356,6 +298,28 @@
       "points": 0
     },
     {
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fpatch",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "url": "https://openai.com/index/patch-the-planet",
+      "source": "OpenAI Blog",
+      "sourceIcon": "🟢",
+      "type": "news",
+      "timestamp": "2026-06-22T10:00:00.000Z",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "open source"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fdaybr",
       "title": "Daybreak: Tools for securing every organization in the world",
       "url": "https://openai.com/index/daybreak-securing-the-world",
@@ -376,17 +340,17 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fpatch",
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "url": "https://openai.com/index/patch-the-planet",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "L’Oréal brings Maybelline virtual try-on to ChatGPT",
+      "url": "https://www.artificialintelligence-news.com/news/loreal-maybelline-virtual-try-on-chatgpt/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
       "type": "news",
       "timestamp": "2026-06-22T10:00:00.000Z",
-      "abstract": "",
+      "abstract": "L’Oréal has announced a collaboration with OpenAI that will bring Maybelline New York’s virtual makeup try-on feature into ChatGPT. The announcement was made at VivaTech 2026. The partnership covers c",
       "authors": [],
       "tags": [
-        "open source"
+        "gpt"
       ],
       "score": 8,
       "priority": "HIGH",
@@ -423,7 +387,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 221310,
+      "stars": 221406,
       "votes": 0,
       "points": 0
     },
