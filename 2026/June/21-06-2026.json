@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-26T06:43:43.804Z",
+  "generatedAt": "2026-06-26T10:14:20.509Z",
   "date": "21-06-2026",
-  "count": 3,
+  "count": 2,
   "summary": null,
   "items": [
     {
@@ -43,32 +43,6 @@
         "Tingyu Song"
       ],
       "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.22953",
-      "title": "Plans Don't Persist: Why Context Management Is Load Bearing for LLM Agents",
-      "url": "https://huggingface.co/papers/2606.22953",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-21T20:00:00.000Z",
-      "abstract": "Long-horizon agents depend on context management: systems compress, summarize, and evict old tokens so tasks can continue beyond finite windows. That is safe only when dropped information is no longer",
-      "authors": [
-        "Aman Mehta",
-        "Anupam Datta"
-      ],
-      "tags": [
-        "llm",
         "agent"
       ],
       "score": 6,

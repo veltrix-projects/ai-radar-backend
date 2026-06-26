@@ -1,31 +1,61 @@
 {
-  "generatedAt": "2026-06-26T02:30:16.484Z",
+  "generatedAt": "2026-06-26T10:14:20.513Z",
   "date": "14-06-2026",
-  "count": 1,
+  "count": 2,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2606.16316",
-      "title": "RL-Index: Reinforcement Learning for Retrieval Index Reasoning",
-      "url": "https://huggingface.co/papers/2606.16316",
+      "id": "hf_paper_2606.16613",
+      "title": "CoffeeBench: Benchmarking Long-Horizon LLM Agents in Heterogeneous Multi-Agent Economies",
+      "url": "https://huggingface.co/papers/2606.16613",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-14T20:00:00.000Z",
-      "abstract": "Retrieving external knowledge is essential for solving real-world tasks, yet it remains challenging when the relationship between a query and its relevant knowledge involves implicit and complex reaso",
+      "abstract": "As LLM agents become capable of increasingly long-horizon tasks, evaluating their performance in economic systems is becoming increasingly important. Unlike existing benchmarks that primarily evaluate",
       "authors": [
-        "Yongjia Lei",
-        "Nedim Lipka",
-        "Zhisheng Qi",
-        "Utkarsh Sahu",
-        "Koustava Goswami"
+        "Issa Sugiura",
+        "Daichi Hattori",
+        "Kazuo Araragi",
+        "Keita Ogawa",
+        "Shota Onose"
       ],
       "tags": [
-        "reinforcement learning"
+        "llm",
+        "agent",
+        "benchmark"
       ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.16517",
+      "title": "How Post-Training Shapes Biological Reasoning Models",
+      "url": "https://huggingface.co/papers/2606.16517",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-14T20:00:00.000Z",
+      "abstract": "Scientific reasoning models for biology combine language models with foundation models trained on multimodal biological data, including DNA, RNA, and proteins. These models are built through post-trai",
+      "authors": [
+        "Lukas Fesser",
+        "Hanlin Zhang",
+        "Michelle M. Li",
+        "Eric Wang",
+        "Bryan Perozzi"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
