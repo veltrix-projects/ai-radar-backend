@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T17:13:00.211Z",
+  "generatedAt": "2026-06-26T19:14:03.129Z",
   "date": "24-06-2026",
   "count": 41,
   "summary": null,
@@ -85,6 +85,31 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.26875",
+      "title": "Information-Aware KV Cache Compression for Long Reasoning",
+      "url": "https://huggingface.co/papers/2606.26875",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-24T20:00:00.000Z",
+      "abstract": "Reasoning capability has advanced rapidly in large language models (LLMs), leading to an increasing size of key-value (KV) cache in both prefilling and decoding stages. Existing KV cache compression m",
+      "authors": [
+        "Jushi Kai",
+        "Zhuiri Xiao",
+        "Alexandra Birch",
+        "Zhouhan Lin"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -345,35 +370,6 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.26907",
-      "title": "Qwen-Image-Agent: Bridging the Context Gap in Real-World Image Generation",
-      "url": "https://huggingface.co/papers/2606.26907",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-24T20:00:00.000Z",
-      "abstract": "While text-to-image (T2I) models have achieved remarkable progress, they struggle with real-world requests that are often underspecified, implicit, or dependent on up-to-date knowledge. We identify th",
-      "authors": [
-        "Zekai Zhang",
-        "Jiahao Li",
-        "Jie Zhang",
-        "Kaiyuan Gao",
-        "Kun Yan"
-      ],
-      "tags": [
-        "qwen",
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -674,7 +670,7 @@
     },
     {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fpodcast-",
-      "title": "Podcast: If AI Is Sentient Then So Is ‘Age of Empires II",
+      "title": "Podcast: If AI Is Sentient Then So Is 'Age of Empires II'",
       "url": "https://www.404media.co/podcast-if-ai-is-sentient-then-so-is-age-of-empires-ii/",
       "source": "404 Media",
       "sourceIcon": "📡",
