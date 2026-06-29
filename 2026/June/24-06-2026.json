@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-29T14:31:16.198Z",
+  "generatedAt": "2026-06-29T17:27:47.553Z",
   "date": "24-06-2026",
-  "count": 25,
+  "count": 24,
   "summary": null,
   "items": [
     {
@@ -62,6 +62,34 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.27457",
+      "title": "Cluster, Route, Escalate: Cascaded Framework for Cost-Aware LLM Serving",
+      "url": "https://huggingface.co/papers/2606.27457",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-24T20:00:00.000Z",
+      "abstract": "Efficient deployment of large language models (LLMs) in production forces a trade-off between accuracy and cost. Operators often default to a single model that is either expensive for easy queries or",
+      "authors": [
+        "Yasmin Moslem",
+        "Magdalena Kacmajor",
+        "Vasudevan Nedumpozhimana",
+        "Ammar Abbas",
+        "Solmaz Panahi"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -164,57 +192,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.26875",
-      "title": "Information-Aware KV Cache Compression for Long Reasoning",
-      "url": "https://huggingface.co/papers/2606.26875",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-24T20:00:00.000Z",
-      "abstract": "Reasoning capability has advanced rapidly in large language models (LLMs), leading to an increasing size of key-value (KV) cache in both prefilling and decoding stages. Existing KV cache compression m",
-      "authors": [
-        "Jushi Kai",
-        "Zhuiri Xiao",
-        "Alexandra Birch",
-        "Zhouhan Lin"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.27277",
-      "title": "EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting",
-      "url": "https://huggingface.co/papers/2606.27277",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-24T20:00:00.000Z",
-      "abstract": "Earth Observation (EO) forecasting aims to predict future Earth surface dynamics from satellite observations under changing meteorological conditions. In this paper, we view this task as a partially o",
-      "authors": [
-        "Junwei Luo",
-        "Shuai Yuan",
-        "Zhenya Yang",
-        "Yansheng Li",
-        "Zhe Liu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-29T14:31:16.197Z",
+  "generatedAt": "2026-06-29T17:27:47.553Z",
   "date": "25-06-2026",
-  "count": 29,
+  "count": 31,
   "summary": null,
   "items": [
     {
@@ -40,6 +40,54 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.27978",
+      "title": "Parallel Rollout Approximation for Pixel-Space Autoregressive Image Generation",
+      "url": "https://huggingface.co/papers/2606.27978",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-25T20:00:00.000Z",
+      "abstract": "Pixel-space continuous-token autoregressive (AR) generation directly models images as sequences of raw pixel patches, avoiding discrete tokenization or a separately pretrained tokenizer. However, it f",
+      "authors": [
+        "Jiayi Xu",
+        "Di He",
+        "Guolin Ke"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.28057",
+      "title": "MultiHashFormer: Hash-based Generative Language Models",
+      "url": "https://huggingface.co/papers/2606.28057",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-25T20:00:00.000Z",
+      "abstract": "Language models (LMs) represent tokens using embedding matrices that scale linearly with the vocabulary size. To constrain the parameter footprint, prior work proposes hashing many tokens into a singl",
+      "authors": [
+        "Huiyin Xue",
+        "Atsuki Yamaguchi",
+        "Nikolaos Aletras"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -574,7 +622,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 241160,
+      "stars": 241302,
       "votes": 0,
       "points": 0
     },
