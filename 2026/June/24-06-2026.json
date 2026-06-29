@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-29T17:27:47.553Z",
+  "generatedAt": "2026-06-29T19:20:10.993Z",
   "date": "24-06-2026",
-  "count": 24,
+  "count": 25,
   "summary": null,
   "items": [
     {
@@ -62,6 +62,89 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.26978",
+      "title": "To Run or Not to Run: Analyzing the Cost-Effectiveness of Code Execution in LLM-Based Program Repair",
+      "url": "https://huggingface.co/papers/2606.26978",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-24T20:00:00.000Z",
+      "abstract": "LLM-based agents for program repair are increasingly built on a \"generate-run-revise\" paradigm, iteratively executing tests to evaluate and refine patches. This execution-based approach has become sta",
+      "authors": [
+        "Zhihao Lin",
+        "Junhua Zhu",
+        "Mingyi Zhou",
+        "Xin Wang",
+        "Zhensu Sun"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.26979",
+      "title": "How Much Static Structure Do Code Agents Need? A Study of Deterministic Anchoring",
+      "url": "https://huggingface.co/papers/2606.26979",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-24T20:00:00.000Z",
+      "abstract": "LLM-based code agents navigate repositories through keyword search but miss the structural relationships, such as call graphs, inheritance hierarchies, and configuration dependencies, that define how",
+      "authors": [
+        "Zhihao Lin",
+        "Mingyi Zhou",
+        "Yizhuo Yang",
+        "Li Li"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.27537",
+      "title": "MemoBench: Benchmarking World Modeling in Dynamically Changing Environments",
+      "url": "https://huggingface.co/papers/2606.27537",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-24T20:00:00.000Z",
+      "abstract": "Video generation models aspire to simulate dynamic environments, and several benchmarks now evaluate memory consistency across frames. However, most assess consistency only while the target remains in",
+      "authors": [
+        "Haoyu Chen",
+        "Kaichen Zhou",
+        "Hang Hua",
+        "Kaile Zhang",
+        "Jingwen Qian"
+      ],
+      "tags": [
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -192,48 +275,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Huntington Bank: Redacting sensitive data from 400M+ documents with AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/huntington-bank-redacting-sensitive-data-from-400m-documents-with-aws/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-06-24T18:24:50.000Z",
-      "abstract": "In this post, we walk through how Huntington built a scalable AWS solution to detect and redact Personally Identifiable Information (PII) and Payment Card Industry (PCI) data from over 400 million doc",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Build a healthcare appointment agent with Amazon Nova 2 Sonic",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-healthcare-appointment-agent-with-amazon-nova-2-sonic/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-06-24T18:20:27.000Z",
-      "abstract": "In this post, you will learn how to build a voice agent that handles appointment reminder conversations using Amazon Nova 2 Sonic and Amazon Bedrock AgentCore. The agent authenticates patients by voic",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
