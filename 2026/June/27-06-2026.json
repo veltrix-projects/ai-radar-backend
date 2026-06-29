@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-29T00:00:48.105Z",
+  "generatedAt": "2026-06-29T05:07:48.436Z",
   "date": "27-06-2026",
-  "count": 10,
+  "count": 13,
   "summary": null,
   "items": [
     {
@@ -58,6 +58,28 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "DeepSeek Releases DSpark, a Speculative Decoding Framework That Accelerates DeepSeek-V4 Per-User Generation 60–85% Over MTP-1",
+      "url": "https://www.marktechpost.com/2026/06/27/deepseek-releases-dspark-a-speculative-decoding-framework-that-accelerates-deepseek-v4-per-user-generation-60-85-over-mtp-1/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-06-27T16:59:58.000Z",
+      "abstract": "DeepSeek open-sourced DSpark, a speculative decoding framework that attaches a draft module to existing DeepSeek-V4 weights. It pairs a parallel draft backbone with a lightweight Markov head to cut su",
+      "authors": [],
+      "tags": [
+        "deepseek"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -167,6 +189,28 @@
       "points": 0
     },
     {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Meta&#8217;s Astryx Brings a CLI and MCP Server to an Open-Source React Design System Agents Can Read",
+      "url": "https://www.marktechpost.com/2026/06/27/metas-astryx-brings-a-cli-and-mcp-server-to-an-open-source-react-design-system-agents-can-read/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-06-27T08:38:26.000Z",
+      "abstract": "Meta released Astryx, an open-source React design system built on StyleX. It pairs a CSS-variable theme cascade with a CLI and MCP server, so both engineers and AI agents build using the same API. The",
+      "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "techcrunch_ai_https%3A%2F%2Ftechcrunch.com%2F2026%2F06",
       "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
       "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
@@ -197,6 +241,28 @@
       "abstract": "",
       "authors": [],
       "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Building Supervised Fine-Tuning Data from NVIDIA Open-SWE-Traces: Trajectory Parsing, Patch Analysis, Token Budgets, and Tool-Use Metrics",
+      "url": "https://www.marktechpost.com/2026/06/26/building-supervised-fine-tuning-data-from-nvidia-open-swe-traces-trajectory-parsing-patch-analysis-token-budgets-and-tool-use-metrics/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-06-27T00:02:33.000Z",
+      "abstract": "In this tutorial, we work with NVIDIA's Open-SWE-Traces dataset to study agentic software-engineering trajectories for fine-tuning. We stream the data directly from Hugging Face, so we can process it",
+      "authors": [],
+      "tags": [
+        "fine-tuning"
+      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
