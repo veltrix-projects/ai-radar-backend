@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-29T05:07:48.440Z",
+  "generatedAt": "2026-06-29T10:03:25.440Z",
   "date": "23-06-2026",
-  "count": 14,
+  "count": 12,
   "summary": null,
   "items": [
     {
@@ -24,62 +24,6 @@
         "llm",
         "agent",
         "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.26300",
-      "title": "The Verification Horizon: No Silver Bullet for Coding Agent Rewards",
-      "url": "https://huggingface.co/papers/2606.26300",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-23T20:00:00.000Z",
-      "abstract": "A classical intuition holds that verifying a solution is easier than producing one. For today's coding agents, this intuition is being inverted: as foundation models develop stronger reasoning capabil",
-      "authors": [
-        "Binghai Wang",
-        "Chenlong Zhang",
-        "Dayiheng Liu",
-        "Jiajun Zhang",
-        "Jiawei Chen"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.26027",
-      "title": "Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It",
-      "url": "https://huggingface.co/papers/2606.26027",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-23T20:00:00.000Z",
-      "abstract": "Tool use enables large language models (LLMs) to perform complex tasks, and recent agentic reinforcement learning (RL) methods show promise for enhancing model capabilities. However, RL alone often le",
-      "authors": [
-        "Yupu Hao",
-        "Zhuoran Jin",
-        "Huanxuan Liao",
-        "Kang Liu",
-        "Jun Zhao"
-      ],
-      "tags": [
-        "reinforcement learning"
       ],
       "score": 6,
       "priority": "MEDIUM",

@@ -1,26 +1,28 @@
 {
-  "generatedAt": "2026-05-19T16:44:54.862Z",
+  "generatedAt": "2026-06-29T10:03:25.451Z",
   "date": "06-05-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "google_deepmind_https%3A%2F%2Fdeepmind.google%2Fblog%2Fa",
-      "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
-      "url": "https://deepmind.google/blog/alphaevolve-impact/",
-      "source": "Google DeepMind",
-      "sourceIcon": "🔵",
+      "id": "hf_paper_2606.27378",
+      "title": "Formalizing Latent Thoughts: Four Axioms of Thought Representation in LLMs",
+      "url": "https://huggingface.co/papers/2606.27378",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-05-06T10:43:49.000Z",
-      "abstract": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
-      "authors": [],
-      "tags": [
-        "gemini",
-        "agent"
+      "timestamp": "2026-05-06T20:00:00.000Z",
+      "abstract": "We introduce an axiomatic evaluation framework for latent thought representations in LLMs, comprising metrics that are independent of downstream benchmark scores and reveal representational failures t",
+      "authors": [
+        "Fahd Seddik",
+        "Fatemeh Fard"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
