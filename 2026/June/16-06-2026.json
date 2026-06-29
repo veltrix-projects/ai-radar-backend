@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-29T19:20:10.997Z",
+  "generatedAt": "2026-06-29T21:04:46.871Z",
   "date": "16-06-2026",
-  "count": 5,
+  "count": 6,
   "summary": null,
   "items": [
     {
@@ -15,6 +15,35 @@
       "abstract": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
       "authors": [],
       "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.17846",
+      "title": "Qwen-RobotManip Technical Report: Alignment Unlocks Scale for Robotic Manipulation Foundation Models",
+      "url": "https://huggingface.co/papers/2606.17846",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-16T20:00:00.000Z",
+      "abstract": "Foundation models in language and multimodality achieve strong generalization by aligning heterogeneous data under a unified formulation and training at scale. In this report, we investigate whether t",
+      "authors": [
+        "Haoqi Yuan",
+        "Zhixuan Liang",
+        "Anzhe Chen",
+        "Ye Wang",
+        "Haoyang Li"
+      ],
+      "tags": [
+        "qwen",
+        "alignment"
+      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
