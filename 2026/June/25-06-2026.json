@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-29T21:04:46.868Z",
+  "generatedAt": "2026-06-29T22:34:10.764Z",
   "date": "25-06-2026",
-  "count": 22,
+  "count": 23,
   "summary": null,
   "items": [
     {
@@ -18,6 +18,30 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2604.20920",
+      "title": "Simplified Sparse Attention via Gist Tokens",
+      "url": "https://huggingface.co/papers/2604.20920",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-25T20:00:00.000Z",
+      "abstract": "Sparse attention can reduce the cost of long-context inference, but most variants introduce new architectural components. We introduce Simplified Sparse Attention (SSA), a simpler approach to sparse a",
+      "authors": [
+        "Yuzhen Mao",
+        "Michael Y. Li",
+        "Emily B. Fox"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -148,34 +172,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.27771",
-      "title": "NormGuard: Reward-Preserving Norm Constraints in Flow-Matching Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2606.27771",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-25T20:00:00.000Z",
-      "abstract": "Reinforcement learning (RL) post-training improves the reward alignment of flow-based generators, but often degrades perceptual quality in ways that are not captured by the reward proxy. We identify a",
-      "authors": [
-        "Tianlin Pan",
-        "Lianyu Pang",
-        "Cheng Da",
-        "Huan Yang",
-        "Changqian Yu"
-      ],
-      "tags": [
-        "reinforcement learning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -393,6 +389,26 @@
       "points": 0
     },
     {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "The math behind the OpenAI Jalapeño chip",
+      "url": "https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-06-25T06:00:00.000Z",
+      "abstract": "OpenAI’s financial trajectory hinges heavily on infrastructure costs, a reality that drove the development of the new custom OpenAI Jalapeño chip. Developed in collaboration with Broadcom, the applica",
+      "authors": [],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "gh_1073224795",
       "title": "obra/superpowers — An agentic skills framework & software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
@@ -418,7 +434,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 241416,
+      "stars": 241452,
       "votes": 0,
       "points": 0
     },
