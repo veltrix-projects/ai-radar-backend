@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-30T10:25:23.980Z",
+  "generatedAt": "2026-06-30T12:27:51.451Z",
   "date": "24-06-2026",
-  "count": 18,
+  "count": 19,
   "summary": null,
   "items": [
     {
@@ -62,6 +62,30 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.27282",
+      "title": "How Good Can Linear Models Be for Time-Series Forecasting?",
+      "url": "https://huggingface.co/papers/2606.27282",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-24T20:00:00.000Z",
+      "abstract": "Time-series forecasting research has been moving steadily toward larger architectures, from specialized transformers to general-purpose foundation models, on the assumption that capacity is what unloc",
+      "authors": [
+        "Lang Huang",
+        "Jinglue Xu",
+        "Luke Darlow"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
