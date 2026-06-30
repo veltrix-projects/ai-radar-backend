@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-30T22:47:19.028Z",
+  "generatedAt": "2026-06-30T23:58:17.489Z",
   "date": "28-06-2026",
-  "count": 10,
+  "count": 12,
   "summary": null,
   "items": [
     {
@@ -235,6 +235,26 @@
       "points": 0
     },
     {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "OCRmyPDF Tutorial: Convert Scanned Documents into Searchable PDF/A Files with Sidecar Text Extraction and Batch Processing",
+      "url": "https://www.marktechpost.com/2026/06/28/ocrmypdf-tutorial-convert-scanned-documents-into-searchable-pdf-a-files-with-sidecar-text-extraction-and-batch-processing/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-06-28T16:47:50.000Z",
+      "abstract": "In this tutorial, we build a complete, self-contained OCRmyPDF pipeline in Python. We generate synthetic image-only PDFs so we can test OCR without external files, then convert them into searchable PD",
+      "authors": [],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fai-arti",
       "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
       "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
@@ -250,6 +270,28 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Building a Stable Fable 5 Traces Workflow in Colab: Parsing Tool Calls, Auditing Data, and Training Baselines",
+      "url": "https://www.marktechpost.com/2026/06/28/building-a-stable-fable-5-traces-workflow-in-colab-parsing-tool-calls-auditing-data-and-training-baselines/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-06-28T07:02:54.000Z",
+      "abstract": "In this tutorial, we build a stable workflow around the Fable 5 Traces dataset from Hugging Face. We avoid fragile dependencies and manually parse the merged JSONL file to keep Colab reliable. We insp",
+      "authors": [],
+      "tags": [
+        "training"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
