@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T06:47:25.215Z",
+  "generatedAt": "2026-06-30T10:25:23.980Z",
   "date": "24-06-2026",
   "count": 18,
   "summary": null,
@@ -69,6 +69,32 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2606.25393",
+      "title": "Large-Scale Tunnel Air-Ground Collaboration With FLISP: Fast LiDAR-IMU Synchronized Path Planner",
+      "url": "https://huggingface.co/papers/2606.25393",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-24T20:00:00.000Z",
+      "abstract": "Hydropower tunnel inspection is critical for infrastructure integrity yet remains inefficient and hazardous using manual methods. We propose FLISP (Fast LiDAR-IMU Synchronized Path Planner), a mapless",
+      "authors": [
+        "Fenghe Guo",
+        "Runjie Shen",
+        "Chenyang Sun",
+        "Junrui Zhang",
+        "Quanxi Zhan"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2606.26740",
       "title": "LiveEdit: Towards Real-Time Diffusion-Based Streaming Video Editing",
       "url": "https://huggingface.co/papers/2606.26740",
@@ -82,34 +108,6 @@
         "Chongbo Zhao",
         "Fangneng Zhan",
         "Yue Ma"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.26938",
-      "title": "Focusing on What Matters: Saliency-Harnessing Accurate Routing for Diffusion MoE",
-      "url": "https://huggingface.co/papers/2606.26938",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-24T20:00:00.000Z",
-      "abstract": "Mixture-of-Experts (MoE) architectures have emerged as a powerful paradigm for scaling diffusion models in visual generation. Recent advancements have focused on adaptively allocating computational re",
-      "authors": [
-        "Haoyou Deng",
-        "Keyu Yan",
-        "Chaojie Mao",
-        "Xiang Wang",
-        "Yu Liu"
       ],
       "tags": [
         "diffusion"

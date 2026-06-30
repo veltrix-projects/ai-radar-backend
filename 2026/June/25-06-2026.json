@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-30T06:47:25.214Z",
+  "generatedAt": "2026-06-30T10:25:23.979Z",
   "date": "25-06-2026",
-  "count": 20,
+  "count": 21,
   "summary": null,
   "items": [
     {
@@ -18,6 +18,31 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.27708",
+      "title": "ZooClaw-FashionSigLIP2: Distilled Fine-tuning for Robust Fashion Retrieval",
+      "url": "https://huggingface.co/papers/2606.27708",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-25T20:00:00.000Z",
+      "abstract": "Adapting a foundation vision-language encoder to a specialized retrieval task creates a fundamental tradeoff: gains on the target distribution come at the cost of the foundation model's broad generali",
+      "authors": [
+        "Siqiao Xue",
+        "Chunxue Xu"
+      ],
+      "tags": [
+        "fine-tuning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -363,7 +388,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 241711,
+      "stars": 241900,
       "votes": 0,
       "points": 0
     },

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-30T06:47:25.210Z",
+  "generatedAt": "2026-06-30T10:25:23.975Z",
   "date": "29-06-2026",
-  "count": 58,
+  "count": 59,
   "summary": null,
   "items": [
     {
@@ -197,7 +197,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 140530,
+      "stars": 140552,
       "votes": 0,
       "points": 0
     },
@@ -301,7 +301,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 119320,
+      "stars": 119645,
       "votes": 0,
       "points": 0
     },
@@ -705,6 +705,34 @@
       ],
       "tags": [
         "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2606.30616v1",
+      "title": "Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent",
+      "url": "https://arxiv.org/abs/2606.30616v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-06-29T17:50:54Z",
+      "abstract": "We introduce Agents-A1, a 35B Mixture-of-Experts Agentic Model that reaches trillion-parameter-level performance by scaling the agent horizon. We investigate agent-horizon scaling from two perspective",
+      "authors": [
+        "Lei Bai",
+        "Zongsheng Cao",
+        "Yang Chen",
+        "Zhiyao Cui",
+        "Shangheng Du"
+      ],
+      "tags": [
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",

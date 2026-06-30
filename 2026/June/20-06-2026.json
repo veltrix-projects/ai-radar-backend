@@ -1,31 +1,29 @@
 {
-  "generatedAt": "2026-06-25T20:31:13.928Z",
+  "generatedAt": "2026-06-30T10:25:23.981Z",
   "date": "20-06-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2606.22565",
-      "title": "Look Light, Think Heavy: What Multimodal Chain-of-Thought Reasoning Can and Cannot Do",
-      "url": "https://huggingface.co/papers/2606.22565",
+      "id": "hf_paper_2606.22473",
+      "title": "Interleaved Speech Language Models Latently Work In Text",
+      "url": "https://huggingface.co/papers/2606.22473",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-20T20:00:00.000Z",
-      "abstract": "Chain-of-Thought (CoT) has become a standard method for improving reasoning capabilities in large language models (LLMs) by eliciting step-by-step thinking, but its effectiveness in multimodal tasks r",
+      "abstract": "Speech language models (SLMs) have been extensively studied, with the common paradigm incorporating text data and pre-trained text LMs. A leading approach is speech-text interleaving in which models a",
       "authors": [
-        "Zhuoran Jin",
-        "Kejian Zhu",
-        "Hongbang Yuan",
-        "Yupu Hao",
-        "Pengfei Cao"
+        "Talia Sternberg",
+        "Gallil Maimon",
+        "Yossi Adi"
       ],
       "tags": [
-        "multimodal"
+        "speech"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
