@@ -1,9 +1,87 @@
 {
-  "generatedAt": "2026-06-30T02:30:27.763Z",
+  "generatedAt": "2026-06-30T06:47:25.212Z",
   "date": "27-06-2026",
-  "count": 7,
+  "count": 9,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2606.29655",
+      "title": "Geometric Stability of Neural Population Codes: Regional Variation, Behavioral Relevance, and Circuit Dependence",
+      "url": "https://huggingface.co/papers/2606.29655",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-27T20:00:00.000Z",
+      "abstract": "Current models of representational reliability in neural populations focus on temporal stability: whether population centroids are preserved across sessions and days. This framing leaves a fundamental",
+      "authors": [
+        "Prashant C. Raju"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.29537",
+      "title": "OSWorld2.0: Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks",
+      "url": "https://huggingface.co/papers/2606.29537",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-27T20:00:00.000Z",
+      "abstract": "Existing computer-use benchmarks fail to capture the realism, complexity, and long-horizon demands of real-world computer use, limiting their ability to reveal the limitations of frontier agents. We i",
+      "authors": [
+        "Mengqi Yuan",
+        "Zilong Zhou",
+        "Xinzhuang Xiong",
+        "Weiming Wu",
+        "Jiayang Sun"
+      ],
+      "tags": [
+        "agent",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.29225",
+      "title": "PolicyGuard: A Dialogue-Grounded Sub-Agent Verifier for Policy Adherence in LLM Agents",
+      "url": "https://huggingface.co/papers/2606.29225",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-27T20:00:00.000Z",
+      "abstract": "LLM agents handle user requests on behalf of organizations through tool calls and must follow the company policies stated in their system prompts. Prior work approaches this as a safeguarding problem",
+      "authors": [
+        "Seongjae Kang",
+        "Taehyung Yu",
+        "Sung Ju Hwang"
+      ],
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fai-arti",
       "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
@@ -119,28 +197,6 @@
       "abstract": "",
       "authors": [],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Building Supervised Fine-Tuning Data from NVIDIA Open-SWE-Traces: Trajectory Parsing, Patch Analysis, Token Budgets, and Tool-Use Metrics",
-      "url": "https://www.marktechpost.com/2026/06/26/building-supervised-fine-tuning-data-from-nvidia-open-swe-traces-trajectory-parsing-patch-analysis-token-budgets-and-tool-use-metrics/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-06-27T00:02:33.000Z",
-      "abstract": "In this tutorial, we work with NVIDIA's Open-SWE-Traces dataset to study agentic software-engineering trajectories for fine-tuning. We stream the data directly from Hugging Face, so we can process it",
-      "authors": [],
-      "tags": [
-        "fine-tuning"
-      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",

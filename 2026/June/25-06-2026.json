@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-30T02:30:27.766Z",
+  "generatedAt": "2026-06-30T06:47:25.214Z",
   "date": "25-06-2026",
-  "count": 22,
+  "count": 20,
   "summary": null,
   "items": [
     {
@@ -25,94 +25,52 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2604.20920",
-      "title": "Simplified Sparse Attention via Gist Tokens",
-      "url": "https://huggingface.co/papers/2604.20920",
+      "id": "hf_paper_2606.27828",
+      "title": "Video-MME-Logical: A Controlled Diagnostic Benchmark for Video Temporal-Logical Reasoning",
+      "url": "https://huggingface.co/papers/2606.27828",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-25T20:00:00.000Z",
-      "abstract": "Sparse attention can reduce the cost of long-context inference, but most variants introduce new architectural components. We introduce Simplified Sparse Attention (SSA), a simpler approach to sparse a",
+      "abstract": "Recent interest in multimodal large language models (MLLMs) raises a central question: can they reason over dynamic visual evidence rather than merely recognize objects or events in individual frames?",
       "authors": [
-        "Yuzhen Mao",
-        "Michael Y. Li",
-        "Emily B. Fox"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.27978",
-      "title": "Parallel Rollout Approximation for Pixel-Space Autoregressive Image Generation",
-      "url": "https://huggingface.co/papers/2606.27978",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-25T20:00:00.000Z",
-      "abstract": "Pixel-space continuous-token autoregressive (AR) generation directly models images as sequences of raw pixel patches, avoiding discrete tokenization or a separately pretrained tokenizer. However, it f",
-      "authors": [
-        "Jiayi Xu",
-        "Di He",
-        "Guolin Ke"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.28057",
-      "title": "MultiHashFormer: Hash-based Generative Language Models",
-      "url": "https://huggingface.co/papers/2606.28057",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-25T20:00:00.000Z",
-      "abstract": "Language models (LMs) represent tokens using embedding matrices that scale linearly with the vocabulary size. To constrain the parameter footprint, prior work proposes hashing many tokens into a singl",
-      "authors": [
-        "Huiyin Xue",
-        "Atsuki Yamaguchi",
-        "Nikolaos Aletras"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.28187",
-      "title": "GBC: Gradient-Based Connections for Optimizing Multi-Agent Systems",
-      "url": "https://huggingface.co/papers/2606.28187",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-25T20:00:00.000Z",
-      "abstract": "Multi-agent systems (MAS) built on large language models (LLMs) provide a promising framework for solving complex tasks through role specialization and structured interaction. However, their performan",
-      "authors": [
-        "Xiaocheng Yang",
-        "Abdulrahman Alrabah",
-        "Dilek Hakkani-Tür",
-        "Gokhan Tur"
+        "Hohin Kwan",
+        "Hongyu Li",
+        "Ray Zhang",
+        "Manyuan Zhang",
+        "Xianghao Kong"
       ],
       "tags": [
-        "agent"
+        "benchmark"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.28480",
+      "title": "TUA-Bench: A Benchmark for General-Purpose Terminal-Use Agents",
+      "url": "https://huggingface.co/papers/2606.28480",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-25T20:00:00.000Z",
+      "abstract": "As large language models and harness frameworks continue to advance, agents operating in terminals are increasingly capable of performing a broader range of general computer-use tasks beyond coding. H",
+      "authors": [
+        "Shoufa Chen",
+        "Luyuan Wang",
+        "Xuan Yang",
+        "Zhiheng Liu",
+        "Yuren Cong"
+      ],
+      "tags": [
+        "agent",
+        "benchmark"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -124,20 +82,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.28133",
-      "title": "Translation as a Bridging Action: Transferring Manipulation Skills from Humans to Robots",
-      "url": "https://huggingface.co/papers/2606.28133",
+      "id": "hf_paper_2502.16886",
+      "title": "ReFreeKV: Towards Threshold-Free KV Cache Compression",
+      "url": "https://huggingface.co/papers/2502.16886",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-25T20:00:00.000Z",
-      "abstract": "We study whether we can learn novel manipulation skills from human actions to a bi-manual robot with parallel grippers. Human action data is cheap, abundant, and diverse, making it one of the most pro",
+      "abstract": "To reduce memory consumption during LLM inference, a handful of methods have been proposed for KV cache pruning. While these techniques can accomplish lossless memory reduction on many datasets, they",
       "authors": [
-        "Sijin Chen",
-        "Kaixuan Jiang",
-        "Haixin Shi",
-        "Yanhui Wang",
-        "Weiheng Zhong"
+        "Xuanfan Ni",
+        "Liyan Xu",
+        "Chenyang Lyu",
+        "Longyue Wang",
+        "Mo Yu"
       ],
       "tags": [],
       "score": 6,
@@ -405,7 +363,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 241540,
+      "stars": 241711,
       "votes": 0,
       "points": 0
     },

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-30T02:30:27.767Z",
+  "generatedAt": "2026-06-30T06:47:25.215Z",
   "date": "24-06-2026",
-  "count": 22,
+  "count": 18,
   "summary": null,
   "items": [
     {
@@ -69,23 +69,22 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.26978",
-      "title": "To Run or Not to Run: Analyzing the Cost-Effectiveness of Code Execution in LLM-Based Program Repair",
-      "url": "https://huggingface.co/papers/2606.26978",
+      "id": "hf_paper_2606.26740",
+      "title": "LiveEdit: Towards Real-Time Diffusion-Based Streaming Video Editing",
+      "url": "https://huggingface.co/papers/2606.26740",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-24T20:00:00.000Z",
-      "abstract": "LLM-based agents for program repair are increasingly built on a \"generate-run-revise\" paradigm, iteratively executing tests to evaluate and refine patches. This execution-based approach has become sta",
+      "abstract": "Streaming video editing has made rapid progress, yet practical deployment is still limited by two core issues: maintaining stable backgrounds and non-edited regions over time, and achieving the low la",
       "authors": [
-        "Zhihao Lin",
-        "Junhua Zhu",
-        "Mingyi Zhou",
-        "Xin Wang",
-        "Zhensu Sun"
+        "Xinyu Wang",
+        "Chongbo Zhao",
+        "Fangneng Zhan",
+        "Yue Ma"
       ],
       "tags": [
-        "llm"
+        "diffusion"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -97,127 +96,23 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.26979",
-      "title": "How Much Static Structure Do Code Agents Need? A Study of Deterministic Anchoring",
-      "url": "https://huggingface.co/papers/2606.26979",
+      "id": "hf_paper_2606.26938",
+      "title": "Focusing on What Matters: Saliency-Harnessing Accurate Routing for Diffusion MoE",
+      "url": "https://huggingface.co/papers/2606.26938",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-24T20:00:00.000Z",
-      "abstract": "LLM-based code agents navigate repositories through keyword search but miss the structural relationships, such as call graphs, inheritance hierarchies, and configuration dependencies, that define how",
+      "abstract": "Mixture-of-Experts (MoE) architectures have emerged as a powerful paradigm for scaling diffusion models in visual generation. Recent advancements have focused on adaptively allocating computational re",
       "authors": [
-        "Zhihao Lin",
-        "Mingyi Zhou",
-        "Yizhuo Yang",
-        "Li Li"
+        "Haoyou Deng",
+        "Keyu Yan",
+        "Chaojie Mao",
+        "Xiang Wang",
+        "Yu Liu"
       ],
       "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.27537",
-      "title": "MemoBench: Benchmarking World Modeling in Dynamically Changing Environments",
-      "url": "https://huggingface.co/papers/2606.27537",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-24T20:00:00.000Z",
-      "abstract": "Video generation models aspire to simulate dynamic environments, and several benchmarks now evaluate memory consistency across frames. However, most assess consistency only while the target remains in",
-      "authors": [
-        "Haoyu Chen",
-        "Kaichen Zhou",
-        "Hang Hua",
-        "Kaile Zhang",
-        "Jingwen Qian"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.27457",
-      "title": "Cluster, Route, Escalate: Cascaded Framework for Cost-Aware LLM Serving",
-      "url": "https://huggingface.co/papers/2606.27457",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-24T20:00:00.000Z",
-      "abstract": "Efficient deployment of large language models (LLMs) in production forces a trade-off between accuracy and cost. Operators often default to a single model that is either expensive for easy queries or",
-      "authors": [
-        "Yasmin Moslem",
-        "Magdalena Kacmajor",
-        "Vasudevan Nedumpozhimana",
-        "Ammar Abbas",
-        "Solmaz Panahi"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.27163",
-      "title": "Learning to Fold: prizewinning solution at LeHome Challenge 2026 (1st place online, 2nd offline)",
-      "url": "https://huggingface.co/papers/2606.27163",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-24T20:00:00.000Z",
-      "abstract": "I describe my solution to the LeHome Challenge 2026, an ICRA 2026 competition on bimanual garment folding. The system placed 1st of 62 teams in the online (simulation) round and 2nd in the real-world",
-      "authors": [
-        "Ilia Larchenko"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.26519",
-      "title": "Boundary-Aware Context Grounding for A Low-Channel EEG Agent",
-      "url": "https://huggingface.co/papers/2606.26519",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-24T20:00:00.000Z",
-      "abstract": "Large language models (LLMs) can make scientific software easier to use. However, a general model does not automatically know which measurements a particular sensor can support, which algorithms are i",
-      "authors": [
-        "Zhiyuan Xu",
-        "Yueqing Dai",
-        "Junling Li",
-        "Junwen Luo"
-      ],
-      "tags": [
-        "agent"
+        "diffusion"
       ],
       "score": 6,
       "priority": "MEDIUM",

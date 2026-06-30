@@ -1,25 +1,26 @@
 {
-  "generatedAt": "2026-06-29T19:20:10.996Z",
+  "generatedAt": "2026-06-30T06:47:25.216Z",
   "date": "21-06-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2606.22873",
-      "title": "SingGuard: A Policy-Adaptive Multimodal LLM Guardrail with Dynamic Reasoning",
-      "url": "https://huggingface.co/papers/2606.22873",
+      "id": "hf_paper_2606.23404",
+      "title": "ReasoningLens: Hierarchical Visualization and Diagnostic Auditing for Large Reasoning Models",
+      "url": "https://huggingface.co/papers/2606.23404",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-21T20:00:00.000Z",
-      "abstract": "Vision-language models (VLMs) are increasingly deployed in consumer, medical, financial, and enterprise applications. This broad deployment expands the safety surface: risks can arise from multimodal",
+      "abstract": "The emergence of Large Reasoning Models has introduced exceptionally long Chain-of-Thought traces, creating a transparency burden where critical logic is often buried under massive procedural text. To",
       "authors": [
-        "SingGuard Team"
+        "Jun Zhang",
+        "Jiasheng Zheng",
+        "Boxi Cao",
+        "Yaojie Lu",
+        "Hongyu Lin"
       ],
-      "tags": [
-        "llm",
-        "multimodal"
-      ],
+      "tags": [],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
