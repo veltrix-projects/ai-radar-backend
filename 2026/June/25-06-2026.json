@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-30T17:21:11.674Z",
+  "generatedAt": "2026-06-30T19:14:23.126Z",
   "date": "25-06-2026",
-  "count": 21,
+  "count": 17,
   "summary": null,
   "items": [
     {
@@ -103,56 +103,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.27828",
-      "title": "Video-MME-Logical: A Controlled Diagnostic Benchmark for Video Temporal-Logical Reasoning",
-      "url": "https://huggingface.co/papers/2606.27828",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-25T20:00:00.000Z",
-      "abstract": "Recent interest in multimodal large language models (MLLMs) raises a central question: can they reason over dynamic visual evidence rather than merely recognize objects or events in individual frames?",
-      "authors": [
-        "Hohin Kwan",
-        "Hongyu Li",
-        "Ray Zhang",
-        "Manyuan Zhang",
-        "Xianghao Kong"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Retrofit, don’t rebuild: Agentic overlays for transforming legacy enterprise services",
-      "url": "https://aws.amazon.com/blogs/machine-learning/retrofit-dont-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-06-25T17:55:10.000Z",
-      "abstract": "In this technical collaboration between AWS and the authors, we present a pragmatic solution: agentic overlays. Agentic overlays are thin wrapper layers that transform traditional REST-based services",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "Scaling AI Inference Across Multiple GPUs Using NVIDIA TensorRT with Multi-Device Inference Support",
       "url": "https://developer.nvidia.com/blog/scaling-ai-inference-across-multiple-gpus-using-nvidia-tensorrt-with-multi-device-inference-support/",
@@ -164,28 +114,6 @@
       "authors": [],
       "tags": [
         "inference"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Optimize model training on Amazon SageMaker AI with NVIDIA Blackwell",
-      "url": "https://aws.amazon.com/blogs/machine-learning/optimize-model-training-on-amazon-sagemaker-ai-with-nvidia-blackwell/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-06-25T16:41:47.000Z",
-      "abstract": "This post shows you how to configure training jobs on Amazon SageMaker AI to get the most out of Blackwell’s architecture on AWS. You learn how to select batch sizes and sequence lengths that take adv",
-      "authors": [],
-      "tags": [
-        "training"
       ],
       "score": 8,
       "priority": "HIGH",
@@ -357,36 +285,6 @@
       "downloads": 0,
       "likes": 0,
       "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "gh_1073224795",
-      "title": "obra/superpowers — An agentic skills framework & software development methodology that works.",
-      "url": "https://github.com/obra/superpowers",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-06-25T02:35:57Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "ai",
-        "brainstorming",
-        "coding",
-        "obra",
-        "sdlc",
-        "skills",
-        "subagent-driven-development",
-        "superpowers",
-        "Shell"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 242239,
       "votes": 0,
       "points": 0
     },
