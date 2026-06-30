@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-06-30T15:09:03.166Z",
+  "generatedAt": "2026-06-30T17:21:11.675Z",
   "date": "23-06-2026",
   "count": 8,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2606.25621",
+      "title": "One Model, Many Latencies: Universal Speech Enhancement for Diverse Real-Time Applications",
+      "url": "https://huggingface.co/papers/2606.25621",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-23T20:00:00.000Z",
+      "abstract": "Different real-time speech applications impose distinct latency budgets, often requiring separately trained enhancement models for each scenario. In this paper, we propose a one-for-all, real-time uni",
+      "authors": [
+        "Szu-Wei Fu",
+        "Rong Chao",
+        "Xuesong Yang",
+        "Sung-Feng Huang",
+        "Ante Jukić"
+      ],
+      "tags": [
+        "speech"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2606.25363",
       "title": "TheoremGraph: Bridging Formal and Informal Mathematics",
@@ -87,28 +115,6 @@
       "authors": [],
       "tags": [
         "inference"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
-      "title": "Build an AI Scientist for Life Science Discovery with NVIDIA BioNeMo Agent Toolkit",
-      "url": "https://developer.nvidia.com/blog/build-an-ai-scientist-for-life-science-discovery-with-nvidia-bionemo-agent-toolkit/",
-      "source": "NVIDIA Blog",
-      "sourceIcon": "🟩",
-      "type": "tool",
-      "timestamp": "2026-06-23T13:30:00.000Z",
-      "abstract": "AI scientists are emerging as a new interface for scientific computing. These agents can read papers, write code, generate hypotheses, call APIs, inspect files,...]]>",
-      "authors": [],
-      "tags": [
-        "agent"
       ],
       "score": 8,
       "priority": "HIGH",
