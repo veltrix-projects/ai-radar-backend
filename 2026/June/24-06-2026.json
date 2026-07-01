@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-01T03:51:11.376Z",
+  "generatedAt": "2026-07-01T08:03:31.882Z",
   "date": "24-06-2026",
-  "count": 13,
+  "count": 11,
   "summary": null,
   "items": [
     {
@@ -69,6 +69,32 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2606.30673",
+      "title": "PolyFlow: Continuous Topology Embedding Flow Matching for Artist-style Mesh Generation",
+      "url": "https://huggingface.co/papers/2606.30673",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-24T20:00:00.000Z",
+      "abstract": "Autoregressive Transformers dominate high-quality mesh generation by producing artist-worthy topologies, yet their inherent sequential decoding induces substantial computational overhead, falling orde",
+      "authors": [
+        "Chunshi Wang",
+        "Haohan Weng",
+        "Junliang Ye",
+        "Biwen Lei",
+        "Yang Li"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2606.27409",
       "title": "Delayed Verification Destabilizes Multi-Agent LLM Belief: Instability Thresholds and Optimal Corrector Placement",
       "url": "https://huggingface.co/papers/2606.27409",
@@ -84,81 +110,6 @@
         "llm",
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.27339",
-      "title": "SAM2Matting: Generalized Image and Video Matting",
-      "url": "https://huggingface.co/papers/2606.27339",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-24T20:00:00.000Z",
-      "abstract": "Despite impressive advances in image matting, video matting remains challenging due to the inherent gap between high-level tracking, which requires frame-wise understanding, and low-level matting, whi",
-      "authors": [
-        "Ruiqi Shen",
-        "Guangquan Jie",
-        "Chang Liu",
-        "Henghui Ding"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.27282",
-      "title": "How Good Can Linear Models Be for Time-Series Forecasting?",
-      "url": "https://huggingface.co/papers/2606.27282",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-24T20:00:00.000Z",
-      "abstract": "Time-series forecasting research has been moving steadily toward larger architectures, from specialized transformers to general-purpose foundation models, on the assumption that capacity is what unloc",
-      "authors": [
-        "Lang Huang",
-        "Jinglue Xu",
-        "Luke Darlow"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.25393",
-      "title": "Large-Scale Tunnel Air-Ground Collaboration With FLISP: Fast LiDAR-IMU Synchronized Path Planner",
-      "url": "https://huggingface.co/papers/2606.25393",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-24T20:00:00.000Z",
-      "abstract": "Hydropower tunnel inspection is critical for infrastructure integrity yet remains inefficient and hazardous using manual methods. We propose FLISP (Fast LiDAR-IMU Synchronized Path Planner), a mapless",
-      "authors": [
-        "Fenghe Guo",
-        "Runjie Shen",
-        "Chenyang Sun",
-        "Junrui Zhang",
-        "Quanxi Zhan"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

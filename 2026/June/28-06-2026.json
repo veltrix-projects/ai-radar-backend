@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-01T03:51:11.373Z",
+  "generatedAt": "2026-07-01T08:03:31.880Z",
   "date": "28-06-2026",
-  "count": 9,
+  "count": 11,
   "summary": null,
   "items": [
     {
@@ -31,7 +31,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 156716,
+      "stars": 156724,
       "votes": 0,
       "points": 0
     },
@@ -76,6 +76,160 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2606.30968",
+      "title": "PhotoQuilt: Training-Free Arbitrary-Resolution Photomosaics via Bootstrapped Tiled Denoising",
+      "url": "https://huggingface.co/papers/2606.30968",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-28T20:00:00.000Z",
+      "abstract": "Photomosaics are large images whose local regions are seen as independent tiles while their overall arrangement forms a coherent scene. Generating them at high resolution, with every tile convincing i",
+      "authors": [
+        "Koorosh Roohi",
+        "Javad Rajabi",
+        "Andrew Fleet",
+        "Babak Taati"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.30319",
+      "title": "BrainJanus: A Unified Model for Understanding and Generation across Brain, Vision, and Language",
+      "url": "https://huggingface.co/papers/2606.30319",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-28T20:00:00.000Z",
+      "abstract": "Modeling the bidirectional correspondence between external sensory stimuli and internal neural activity has emerged as a critical frontier in neuroscience. However, existing approaches predominantly t",
+      "authors": [
+        "Haitao Wu",
+        "Qirui Zhang",
+        "Zhouheng Yao",
+        "Shangquan Sun",
+        "Qihao Zheng"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.30534",
+      "title": "Orca: The World is in Your Mind",
+      "url": "https://huggingface.co/papers/2606.30534",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-28T20:00:00.000Z",
+      "abstract": "We introduce Orca, an initial instantiation of a general world foundation model. Orca learns a unified world latent space from multimodal world signals and exposes it through multimodal readout interf",
+      "authors": [
+        "Yihao Wang",
+        "Yuheng Ji",
+        "Mingyu Cao",
+        "Yanqing Shen",
+        "Runze Xiao"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.30811",
+      "title": "AVTok: 1D Unified Tokenization for Holistic Audio-Video Generation",
+      "url": "https://huggingface.co/papers/2606.30811",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-28T20:00:00.000Z",
+      "abstract": "Audio-video generation has recently gained unprecedented research attention, aiming to synthesize high-quality sounding video content with fine-grained synchronization and semantic alignment between t",
+      "authors": [
+        "Kien T. Pham",
+        "I Chieh Chen",
+        "Qifeng Chen",
+        "Long Chen"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.30626",
+      "title": "DOPD: Dual On-policy Distillation",
+      "url": "https://huggingface.co/papers/2606.30626",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-28T20:00:00.000Z",
+      "abstract": "On-policy distillation (OPD) offers superior capacity transfer by supervising student-sampled trajectories with dense token-level signals. To furnish high-quality supervision sources and thereby eleva",
+      "authors": [
+        "Xinlei Yu",
+        "Gen Li",
+        "Qingyi Si",
+        "Guibin Zhang",
+        "Yuqi Xu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.30697",
+      "title": "LUMOS: A Semantic Operating-System Layer for Accessibility-Grounded AI Agents",
+      "url": "https://huggingface.co/papers/2606.30697",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-28T20:00:00.000Z",
+      "abstract": "Current operating systems expose interfaces optimized for human users but not for AI agents. Humans benefit from pixels, icons, windows, visual grouping, mouse movement, and keyboard shortcuts; AI age",
+      "authors": [
+        "Yogeswar Reddy Thota"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2606.29957",
       "title": "SWE-Together: Evaluating Coding Agents in Interactive User Sessions",
       "url": "https://huggingface.co/papers/2606.29957",
@@ -93,117 +247,6 @@
       ],
       "tags": [
         "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.30634",
-      "title": "One-Step Gradient Delay is Not a Barrier for Large-Scale Asynchronous Pipeline Parallel LLM Pretraining",
-      "url": "https://huggingface.co/papers/2606.30634",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-28T20:00:00.000Z",
-      "abstract": "Modern large-scale LLM pretraining benefits from utilizing Pipeline Parallelism; however, synchronous implementations leave GPUs idle during pipeline bubbles, wasting computational resources. Asynchro",
-      "authors": [
-        "Philip Zmushko",
-        "Egor Petrov",
-        "Nursultan Abdullaev",
-        "Mikhail Khrushchev",
-        "Samuel Horváth"
-      ],
-      "tags": [
-        "llm",
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.30054",
-      "title": "Illuminating Unified Multimodal Model for Free-form Interleaved Text-Image Generation",
-      "url": "https://huggingface.co/papers/2606.30054",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-28T20:00:00.000Z",
-      "abstract": "The advancement of generative AI models capable of producing text and image marks a critical step forward in the realm of multimodal intelligence, particularly for tasks involving the interleaving of",
-      "authors": [
-        "Chonghuinan Wang",
-        "Zhikai Chen",
-        "Chunwei Wang",
-        "Yecong Wan",
-        "Junwei Yang"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.30410",
-      "title": "Beyond IID: How General Are Tabular Foundation Models, Really?",
-      "url": "https://huggingface.co/papers/2606.30410",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-28T20:00:00.000Z",
-      "abstract": "Foundation models for predictive machine learning on tabular data have recently gained significant traction in academia and industry. Research communities across disciplines are increasingly evaluatin",
-      "authors": [
-        "Lennart Purucker",
-        "Andrej Tschalzev",
-        "Nick Erickson",
-        "Gioia Blayer",
-        "David Holzmüller"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.30170",
-      "title": "Beyond Drug Discovery: The Nanotechnology Molecular Optimization (NMO) Benchmark",
-      "url": "https://huggingface.co/papers/2606.30170",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-28T20:00:00.000Z",
-      "abstract": "Generative molecular design is shaped by simple proxy benchmarks for drug-like properties and models pretrained on large pharmaceutical datasets. This combination yields strong benchmark metrics but l",
-      "authors": [
-        "Matthias Blaschke",
-        "Daniel Kienzle",
-        "Zsuzsanna Koczor-Benda",
-        "Julian Lorenz",
-        "Rainer Lienhart"
-      ],
-      "tags": [
-        "benchmark"
       ],
       "score": 6,
       "priority": "MEDIUM",
