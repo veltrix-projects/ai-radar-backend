@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-01T14:08:36.978Z",
+  "generatedAt": "2026-07-01T16:42:21.761Z",
   "date": "28-06-2026",
-  "count": 9,
+  "count": 8,
   "summary": null,
   "items": [
     {
@@ -31,7 +31,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 156731,
+      "stars": 156736,
       "votes": 0,
       "points": 0
     },
@@ -56,16 +56,52 @@
       "points": 0
     },
     {
-      "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fai-arti",
-      "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
-      "source": "The Verge AI",
-      "sourceIcon": "🔺",
-      "type": "news",
-      "timestamp": "2026-06-28T20:27:36.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
+      "id": "hf_paper_2606.30406",
+      "title": "MOPD: Multi-Teacher On-Policy Distillation for Capability Integration in LLM Post-Training",
+      "url": "https://huggingface.co/papers/2606.30406",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-28T20:00:00.000Z",
+      "abstract": "Modern large language models (LLMs) rely on reinforcement learning during post-training to push specific capabilities, yet integrating multiple capabilities into one model remains hard. Existing metho",
+      "authors": [
+        "Wenhan Ma",
+        "Jianyu Wei",
+        "Liang Zhao",
+        "Hailin Zhang",
+        "Bangjun Xiao"
+      ],
+      "tags": [
+        "llm",
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.29667",
+      "title": "Unlocking the Visual Record of Materials Science: A Large-Scale Multimodal Dataset from Scientific Literature",
+      "url": "https://huggingface.co/papers/2606.29667",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-28T20:00:00.000Z",
+      "abstract": "The materials science literature encodes decades of experimental knowledge in figures, yet this visual record remains locked away and inaccessible to AI at scale. The core difficulty is structural: mo",
+      "authors": [
+        "Subham Ghosh",
+        "Shubham Tiwari",
+        "Mohammad Ibrahim",
+        "Abhishek Tewari"
+      ],
+      "tags": [
+        "multimodal"
+      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
@@ -143,57 +179,6 @@
         "Zhouheng Yao",
         "Shangquan Sun",
         "Qihao Zheng"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.30534",
-      "title": "Orca: The World is in Your Mind",
-      "url": "https://huggingface.co/papers/2606.30534",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-28T20:00:00.000Z",
-      "abstract": "We introduce Orca, an initial instantiation of a general world foundation model. Orca learns a unified world latent space from multimodal world signals and exposes it through multimodal readout interf",
-      "authors": [
-        "Yihao Wang",
-        "Yuheng Ji",
-        "Mingyu Cao",
-        "Yanqing Shen",
-        "Runze Xiao"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.30811",
-      "title": "AVTok: 1D Unified Tokenization for Holistic Audio-Video Generation",
-      "url": "https://huggingface.co/papers/2606.30811",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-28T20:00:00.000Z",
-      "abstract": "Audio-video generation has recently gained unprecedented research attention, aiming to synthesize high-quality sounding video content with fine-grained synchronization and semantic alignment between t",
-      "authors": [
-        "Kien T. Pham",
-        "I Chieh Chen",
-        "Qifeng Chen",
-        "Long Chen"
       ],
       "tags": [],
       "score": 6,
