@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T08:03:31.880Z",
+  "generatedAt": "2026-07-01T11:36:08.562Z",
   "date": "28-06-2026",
   "count": 11,
   "summary": null,
@@ -31,7 +31,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 156724,
+      "stars": 156729,
       "votes": 0,
       "points": 0
     },
@@ -69,6 +69,32 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.30062",
+      "title": "Little Brains, Big Feats: Exploring Compact Language Models",
+      "url": "https://huggingface.co/papers/2606.30062",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-28T20:00:00.000Z",
+      "abstract": "While large language models have been dominating the research landscape recently, small language models remain highly relevant across various domains; yet, they receive far less attention. In this stu",
+      "authors": [
+        "Dari Baturova",
+        "Elena Bruches",
+        "Ivan Chernov",
+        "Roman Derunets",
+        "Arsenii Fomin"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -216,34 +242,6 @@
       "abstract": "Current operating systems expose interfaces optimized for human users but not for AI agents. Humans benefit from pixels, icons, windows, visual grouping, mouse movement, and keyboard shortcuts; AI age",
       "authors": [
         "Yogeswar Reddy Thota"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.29957",
-      "title": "SWE-Together: Evaluating Coding Agents in Interactive User Sessions",
-      "url": "https://huggingface.co/papers/2606.29957",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-28T20:00:00.000Z",
-      "abstract": "Most coding-agent benchmarks are static: an agent receives a complete task description up front and is judged only by its final code. Real coding assistance is interactive, with users clarifying goals",
-      "authors": [
-        "Yifan Wu",
-        "Zhuokai Zhao",
-        "Songlin Li",
-        "Ho Hin Lee",
-        "Jiacheng Zhu"
       ],
       "tags": [
         "agent"

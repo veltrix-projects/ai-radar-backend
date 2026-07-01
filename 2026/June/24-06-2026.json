@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-01T08:03:31.882Z",
+  "generatedAt": "2026-07-01T11:36:08.566Z",
   "date": "24-06-2026",
-  "count": 11,
+  "count": 12,
   "summary": null,
   "items": [
     {
@@ -62,6 +62,35 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.26968",
+      "title": "RedVox: Safety and Fairness Gaps in Speech Models Across Languages",
+      "url": "https://huggingface.co/papers/2606.26968",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-24T20:00:00.000Z",
+      "abstract": "Speech-capable models are increasingly deployed in real-world applications across languages. Yet their safety and fairness beyond English settings and under naturalistic conditions remain understudied",
+      "authors": [
+        "Beatrice Savoldi",
+        "Sara Papi",
+        "Wafa Aissa",
+        "Matteo Negri",
+        "Luisa Bentivogli"
+      ],
+      "tags": [
+        "safety",
+        "speech"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-01T08:03:31.881Z",
+  "generatedAt": "2026-07-01T11:36:08.565Z",
   "date": "25-06-2026",
-  "count": 17,
+  "count": 14,
   "summary": null,
   "items": [
     {
@@ -42,85 +42,6 @@
       ],
       "tags": [
         "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.27755",
-      "title": "Drop-Then-Recovery: How Redundant Are Vision-Language-Action Models?",
-      "url": "https://huggingface.co/papers/2606.27755",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-25T20:00:00.000Z",
-      "abstract": "Vision-Language-Action (VLA) models enable instruction-driven robotic manipulation, but they inherit oversized language backbones from pretrained VLMs whose capacity far exceeds what is needed for sho",
-      "authors": [
-        "Guoheng Sun",
-        "Kaixi Feng",
-        "Shwai He",
-        "Xiaochuan Gong",
-        "Yexiao He"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.00097",
-      "title": "RocketSmith: Agentic Additive Manufacturing of High-Powered Rockets",
-      "url": "https://huggingface.co/papers/2606.00097",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-25T20:00:00.000Z",
-      "abstract": "RocketSmith is an agentic system which intelligently automates the DFAM process for the development of high powered rockets suitable for launch. The system utilizes a large language model to orchestra",
-      "authors": [
-        "Peter Pak",
-        "Jesse Barkley",
-        "Rumi Loghmani",
-        "Derek Baich",
-        "Ananya Pamal"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.28525",
-      "title": "A Gravitational Interpretation of Fine-Tuning Reversion",
-      "url": "https://huggingface.co/papers/2606.28525",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-25T20:00:00.000Z",
-      "abstract": "Fine-tuning on harmless data can partially undo behaviors acquired earlier in training. Safety can erode under benign post-alignment updates, unlearned capabilities can re-emerge, latent traits can tr",
-      "authors": [
-        "Samuele Poppi",
-        "Nils Lukas"
-      ],
-      "tags": [
-        "fine-tuning"
       ],
       "score": 6,
       "priority": "MEDIUM",

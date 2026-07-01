@@ -1,9 +1,118 @@
 {
-  "generatedAt": "2026-07-01T08:03:31.878Z",
+  "generatedAt": "2026-07-01T11:36:08.562Z",
   "date": "29-06-2026",
-  "count": 13,
+  "count": 17,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2606.32039",
+      "title": "GEAR: Guided End-to-End AutoRegression for Image Synthesis",
+      "url": "https://huggingface.co/papers/2606.32039",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-29T20:00:00.000Z",
+      "abstract": "Visual generative models are typically trained in two stages. A tokenizer is first trained for reconstruction and then frozen, after which a generator is trained on its discrete indices or continuous",
+      "authors": [
+        "Bin Lin",
+        "Zheyuan Liu",
+        "Chenguo Lin",
+        "Sixiang Chen",
+        "Yunyang Ge"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.29215",
+      "title": "Multi-Block Diffusion Language Models",
+      "url": "https://huggingface.co/papers/2606.29215",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-29T20:00:00.000Z",
+      "abstract": "Block Diffusion Language Models (BD-LMs) improve diffusion-based text generation with KV caching and flexible-length generation. A natural next step is to extend them from Single-Block Diffusion (Sing",
+      "authors": [
+        "Yijie Jin",
+        "Jiajun Xu",
+        "Yuxuan Liu",
+        "Chenkai Xu",
+        "Yi Tu"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.32032",
+      "title": "Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs",
+      "url": "https://huggingface.co/papers/2606.32032",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-29T20:00:00.000Z",
+      "abstract": "Metacognition is a critical component of intelligence that describes the ability to monitor and regulate one's own cognitive processes. Yet LLMs exhibit systemic deficiencies in key metacognitive facu",
+      "authors": [
+        "Gabrielle Kaili-May Liu",
+        "Avi Caciularu",
+        "Gal Yona",
+        "Idan Szpektor",
+        "Arman Cohan"
+      ],
+      "tags": [
+        "llm",
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.31029",
+      "title": "TerraDiT-Ω: Unified Spatial Control for Satellite Image Synthesis with Any Geospatial Primitive",
+      "url": "https://huggingface.co/papers/2606.31029",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-29T20:00:00.000Z",
+      "abstract": "Generative models have achieved remarkable progress, yet applying them to satellite imagery remains challenging. Unlike natural imagery, satellite scenes are structured by spatially complex and semant",
+      "authors": [
+        "Brian Wei",
+        "Srikumar Sastry",
+        "Daniel Cher",
+        "Eric Xing",
+        "Nathan Jacobs"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2606.31315",
       "title": "BlockPilot: Instance-Adaptive Policy Learning for Diffusion-based Speculative Decoding",
