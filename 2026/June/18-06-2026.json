@@ -1,26 +1,28 @@
 {
-  "generatedAt": "2026-06-29T05:07:48.442Z",
+  "generatedAt": "2026-07-02T02:26:37.528Z",
   "date": "18-06-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2606.21795",
-      "title": "Discretizing Reward Models",
-      "url": "https://huggingface.co/papers/2606.21795",
+      "id": "hf_paper_2606.20997",
+      "title": "BioInsight: Multi-Agent Orchestration for Interactive Biomedical Knowledge Discovery",
+      "url": "https://huggingface.co/papers/2606.20997",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-18T20:00:00.000Z",
-      "abstract": "Despite their widespread use, the role of reward models in shaping reinforcement learning is poorly understood. Reward models offer a tempting promise: they automatically estimate response quality in",
+      "abstract": "Biomedical researchers increasingly use AI-generated analyses and reports to interpret protein-level signals, but static outputs are often insufficient for research decision-making, where users need t",
       "authors": [
-        "Vijay Viswanathan",
-        "Shiqi Wang",
-        "Devamanyu Hazarika",
-        "Chirag Nagpal",
-        "Tongshuang Wu"
+        "Jieyi Wang",
+        "Bingxuan Li",
+        "Nanyi Jiang",
+        "Desong Meng",
+        "Zirui Fan"
       ],
-      "tags": [],
+      "tags": [
+        "agent"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
