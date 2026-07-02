@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-02T14:35:28.246Z",
+  "generatedAt": "2026-07-02T16:44:25.907Z",
   "date": "28-06-2026",
-  "count": 2,
+  "count": 4,
   "summary": null,
   "items": [
     {
@@ -31,7 +31,60 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 156753,
+      "stars": 156756,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.30124",
+      "title": "SciIR: A Large-scale Training Dataset and Benchmark for Scientific Image Reasoning Generation",
+      "url": "https://huggingface.co/papers/2606.30124",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-28T20:00:00.000Z",
+      "abstract": "While Text-to-Image (T2I) models have shown remarkable success in generating photorealistic visual content, they still struggle with the rigorous semantic alignment and logical reasoning required for",
+      "authors": [
+        "Zhiyuan Ma",
+        "Zhengfeng Shi",
+        "Yuning An",
+        "Peize Li",
+        "Jiabao Wei"
+      ],
+      "tags": [
+        "benchmark",
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.30030",
+      "title": "CogSENet: Blind Image Deblurring with Blur-Conditioned Semantic Routing and Explicit Frequency Fusion",
+      "url": "https://huggingface.co/papers/2606.30030",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-28T20:00:00.000Z",
+      "abstract": "Blind image deblurring demands the recovery of high-fidelity details and coherent structures from complex, unknown degradations. Current blind image deblurring methods struggle with real-world, spatia",
+      "authors": [
+        "Pan Wang",
+        "Yihao Hu",
+        "Xiujin Liu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
       "votes": 0,
       "points": 0
     },

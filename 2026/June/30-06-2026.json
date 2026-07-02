@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-02T14:35:28.245Z",
+  "generatedAt": "2026-07-02T16:44:25.906Z",
   "date": "30-06-2026",
-  "count": 35,
+  "count": 33,
   "summary": null,
   "items": [
     {
@@ -20,6 +20,35 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.01211",
+      "title": "Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?",
+      "url": "https://huggingface.co/papers/2607.01211",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-30T20:00:00.000Z",
+      "abstract": "Repository-level performance-optimization benchmarks such as GSO, SWE-Perf and SWE-fficiency evaluate coding agents by applying patches to real repositories and comparing runtime against unoptimized b",
+      "authors": [
+        "Zhi Chen",
+        "Zhensu Sun",
+        "Yuling Shi",
+        "David Lo",
+        "Lingxiao Jiang"
+      ],
+      "tags": [
+        "agent",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -253,86 +282,6 @@
         "Dingming Li",
         "Wenjing Jiang",
         "Zixuan Wang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.01104",
-      "title": "CausalMix: Data Mixture as Causal Inference for Language Model Training",
-      "url": "https://huggingface.co/papers/2607.01104",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-30T20:00:00.000Z",
-      "abstract": "In Large Language Model (LLM) training, data mixing plays a pivotal role in determining model performance. Recent methods optimize mixture weights via proxy models, but they rely on the assumption of",
-      "authors": [
-        "Zinan Tang",
-        "Yukun Zhang",
-        "Shaomian Zheng",
-        "Zhuoshi Pan",
-        "Qizhi Pei"
-      ],
-      "tags": [
-        "inference",
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.00666",
-      "title": "Domain Arithmetic: One-Shot VLA Adaptation under Environmental Shifts",
-      "url": "https://huggingface.co/papers/2607.00666",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-30T20:00:00.000Z",
-      "abstract": "Vision-Language-Action (VLA) models often fail to perform the same learned tasks under environmental shifts, such as changes in camera pose and shifts to a different but similar robot (e.g., from Pand",
-      "authors": [
-        "Taewook Kang",
-        "Taeheon Kim",
-        "Donghyun Shin",
-        "Jonghyun Choi"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.00678",
-      "title": "ABot-M0.5: Unified Mobility-and-Manipulation World Action Model",
-      "url": "https://huggingface.co/papers/2607.00678",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-30T20:00:00.000Z",
-      "abstract": "Mobile manipulation is a key capability for general-purpose robots, yet remains challenging for current embodied learning methods. VLA policies are typically reactive and lack explicit world modeling,",
-      "authors": [
-        "Ronghan Chen",
-        "Yandan Yang",
-        "Zuojin Tang",
-        "Dongjie Huo",
-        "Tong Lin"
       ],
       "tags": [],
       "score": 6,

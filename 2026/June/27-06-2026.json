@@ -1,27 +1,25 @@
 {
-  "generatedAt": "2026-07-02T02:26:37.524Z",
+  "generatedAt": "2026-07-02T16:44:25.907Z",
   "date": "27-06-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2606.29315",
-      "title": "Hierarchical Experimentalist Agents",
-      "url": "https://huggingface.co/papers/2606.29315",
+      "id": "hf_paper_2606.29464",
+      "title": "Rank-Aware Hyperbolic Alignment for Vision-Language Dataset Distillation",
+      "url": "https://huggingface.co/papers/2606.29464",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-27T20:00:00.000Z",
-      "abstract": "Large language models (LLMs) are increasingly used to take actions in the real world and support human decision-making, yet most agents rely on parametric knowledge, fixed post-training data, retrieva",
+      "abstract": "Vision-language dataset distillation (VLDD) compresses a large image-text paired dataset into a small set of synthetic pairs that can efficiently train contrastive vision-language models under strict",
       "authors": [
-        "Abhranil Chandra",
-        "Sankaran Vaidyanathan",
-        "Utsav Dhanuka",
-        "Varun Gandhi",
-        "Scott Niekum"
+        "Jongoh Jeong",
+        "Sun-Kyung Lee",
+        "Kuk-Jin Yoon"
       ],
       "tags": [
-        "agent"
+        "alignment"
       ],
       "score": 6,
       "priority": "MEDIUM",
