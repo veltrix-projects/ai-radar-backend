@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-02T09:40:12.199Z",
+  "generatedAt": "2026-07-02T12:02:20.545Z",
   "date": "30-06-2026",
-  "count": 38,
+  "count": 37,
   "summary": null,
   "items": [
     {
@@ -64,6 +64,33 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.00924",
+      "title": "Graph-Native Reinforcement Learning Enables Traceable Scientific Hypothesis Generation through Conceptual Recombination",
+      "url": "https://huggingface.co/papers/2607.00924",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-30T20:00:00.000Z",
+      "abstract": "Accelerating materials discovery requires AI systems that can generate scientifically valid hypotheses through multi-step, domain-grounded reasoning. Standard large language models often produce fluen",
+      "authors": [
+        "Subhadeep Pal",
+        "Shashwat Sourav",
+        "Tirthankar Ghosal",
+        "Markus J. Buehler"
+      ],
+      "tags": [
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -352,57 +379,6 @@
         "Tong Lin"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.00917",
-      "title": "Valdi: Value Diffusion World Models",
-      "url": "https://huggingface.co/papers/2607.00917",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-30T20:00:00.000Z",
-      "abstract": "World models can enable Model Predictive Control (MPC), but this requires dynamics prediction that is both fast enough for online use and expressive enough to represent uncertain futures. Diffusion mo",
-      "authors": [
-        "Christopher Lindenberg",
-        "Kashyap Chitta"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.01131",
-      "title": "Autonomous Scientific Discovery via Iterative Meta-Reflection",
-      "url": "https://huggingface.co/papers/2607.01131",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-30T20:00:00.000Z",
-      "abstract": "Autonomous scientific discovery systems offer the potential to accelerate research by automating the process of hypothesis generation and validation. However, current systems operate within constraine",
-      "authors": [
-        "Bingchen Zhao",
-        "Sara Beery",
-        "Oisin Mac Aodha"
-      ],
-      "tags": [
-        "autonomous"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
