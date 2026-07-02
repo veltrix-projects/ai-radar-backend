@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-02T02:26:37.523Z",
+  "generatedAt": "2026-07-02T06:13:57.382Z",
   "date": "28-06-2026",
-  "count": 7,
+  "count": 4,
   "summary": null,
   "items": [
     {
@@ -31,7 +31,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 156740,
+      "stars": 156745,
       "votes": 0,
       "points": 0
     },
@@ -72,90 +72,6 @@
       ],
       "tags": [
         "benchmark"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.29985",
-      "title": "Are We Measuring Strategy or Phrasing? The Gap Between Surface- and Approach-Level Diversity in LLM Math Reasoning",
-      "url": "https://huggingface.co/papers/2606.29985",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-28T20:00:00.000Z",
-      "abstract": "Diversity in LLM mathematical reasoning is critical for exploration, but common diversity metrics mostly capture surface-level variation rather than differences in how a problem is solved. We address",
-      "authors": [
-        "Sangmook Lee",
-        "Minbeom Kim",
-        "Jeonghye Kim",
-        "Dohyung Kim",
-        "Sojeong Rhee"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.30406",
-      "title": "MOPD: Multi-Teacher On-Policy Distillation for Capability Integration in LLM Post-Training",
-      "url": "https://huggingface.co/papers/2606.30406",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-28T20:00:00.000Z",
-      "abstract": "Modern large language models (LLMs) rely on reinforcement learning during post-training to push specific capabilities, yet integrating multiple capabilities into one model remains hard. Existing metho",
-      "authors": [
-        "Wenhan Ma",
-        "Jianyu Wei",
-        "Liang Zhao",
-        "Hailin Zhang",
-        "Bangjun Xiao"
-      ],
-      "tags": [
-        "llm",
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.29667",
-      "title": "Unlocking the Visual Record of Materials Science: A Large-Scale Multimodal Dataset from Scientific Literature",
-      "url": "https://huggingface.co/papers/2606.29667",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-28T20:00:00.000Z",
-      "abstract": "The materials science literature encodes decades of experimental knowledge in figures, yet this visual record remains locked away and inaccessible to AI at scale. The core difficulty is structural: mo",
-      "authors": [
-        "Subham Ghosh",
-        "Shubham Tiwari",
-        "Mohammad Ibrahim",
-        "Abhishek Tewari"
-      ],
-      "tags": [
-        "multimodal"
       ],
       "score": 8,
       "priority": "HIGH",
