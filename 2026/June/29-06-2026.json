@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-02T06:13:57.381Z",
+  "generatedAt": "2026-07-02T09:40:12.201Z",
   "date": "29-06-2026",
-  "count": 23,
+  "count": 20,
   "summary": null,
   "items": [
     {
@@ -145,87 +145,6 @@
       ],
       "tags": [
         "autonomous"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.31292",
-      "title": "AtomiMed: Hierarchical Atomic Fact-Checking for Universal Clinical-Aware Medical Report Evaluation",
-      "url": "https://huggingface.co/papers/2606.31292",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-29T20:00:00.000Z",
-      "abstract": "Traditional metrics for Medical Report Generation (MRG) predominantly rely on surface-level n-gram overlap, which fails to capture clinical factual accuracy and often overlooks catastrophic diagnostic",
-      "authors": [
-        "Yuan Wang",
-        "Wanxing Chang",
-        "Songtao Jiang",
-        "Shujian Gao",
-        "Xiaotian Zhang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.32033",
-      "title": "SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE",
-      "url": "https://huggingface.co/papers/2606.32033",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-29T20:00:00.000Z",
-      "abstract": "We present a zero-shot, training-free and optimization-free framework for generating 360 panoramic images and videos by directly injecting spherical priors into pre-trained diffusion transformers. Exi",
-      "authors": [
-        "Or Hirschorn",
-        "Aaron Olender",
-        "Eli Alshan",
-        "Ianir Ideses",
-        "Lior Fritz"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.32017",
-      "title": "TRIAGE: Role-Typed Credit Assignment for Agentic Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2606.32017",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-29T20:00:00.000Z",
-      "abstract": "Agentic reinforcement learning requires assigning credit to environment-facing actions such as searches, clicks, edits, navigation commands, and object interactions. Standard GRPO uses the final verif",
-      "authors": [
-        "Yuanda Xu",
-        "Zhengze Zhou",
-        "Hejian Sang",
-        "Xiaomin Li",
-        "Jiaxin Zhang"
-      ],
-      "tags": [
-        "agent",
-        "reinforcement learning"
       ],
       "score": 6,
       "priority": "MEDIUM",

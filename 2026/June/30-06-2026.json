@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-02T06:13:57.380Z",
+  "generatedAt": "2026-07-02T09:40:12.199Z",
   "date": "30-06-2026",
-  "count": 35,
+  "count": 38,
   "summary": null,
   "items": [
     {
@@ -64,6 +64,137 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.00553",
+      "title": "Cross-Domain Generalization Failure in Lightweight Intrusion Detection Models for IIoT Networks",
+      "url": "https://huggingface.co/papers/2607.00553",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-30T20:00:00.000Z",
+      "abstract": "Lightweight machine learning models are increasingly proposed for intrusion detection in Industrial Internet of Things (IIoT) networks due to their suitability for resource-constrained edge deployment",
+      "authors": [
+        "MD Azizul Hakim",
+        "Md Shihab Uddin",
+        "Talha Ibne Anis"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.00407",
+      "title": "Personalization as Inverse Planning: Learning Latent Design Intents for Agentic Slide Generation via Structural Denoising",
+      "url": "https://huggingface.co/papers/2607.00407",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-30T20:00:00.000Z",
+      "abstract": "Slide design requires personalizing both deck themes and page layouts. Yet, current AI agent-based methods struggle with fine-grained, page-level design. Solely relying on prespecified templates or us",
+      "authors": [
+        "Tianci Liu",
+        "Zihan Dong",
+        "Linjun Zhang",
+        "Haoyu Wang",
+        "jing Gao"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.00529",
+      "title": "NoPA: Non-Parametric Online 3D Scene Graph Generation",
+      "url": "https://huggingface.co/papers/2607.00529",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-30T20:00:00.000Z",
+      "abstract": "Classic 3D scene graph generation approaches fail to work in real-time due to the heavy computational cost of environment mapping and the need to generate intermediate point-cloud representations. To",
+      "authors": [
+        "Qi Xun Yeo",
+        "Seungjun Lee",
+        "Yan Li",
+        "Gim Hee Lee"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.00461",
+      "title": "Multimodal Continuous Reasoning via Asymmetric Mutual Variational Learning",
+      "url": "https://huggingface.co/papers/2607.00461",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-30T20:00:00.000Z",
+      "abstract": "Multimodal Large Language Models (MLLMs) are often constrained by a language-space bottleneck, forcing complex visual reasoning into discrete tokens which can lose perceptual nuance. A promising alter",
+      "authors": [
+        "Shijie Li",
+        "Yilin Gao",
+        "Siyuan Yang",
+        "Tieyuan Chen",
+        "Chaofan Gan"
+      ],
+      "tags": [
+        "multimodal"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.00466",
+      "title": "ELDR: Expert-Locality-Aware Decode Routing for PD-Disaggregated MoE Serving",
+      "url": "https://huggingface.co/papers/2607.00466",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-30T20:00:00.000Z",
+      "abstract": "In prefill-decode (PD) disaggregated LLM serving, each request is assigned to a decode worker after prefill. Existing decode routers balance only load; for mixture-of-experts (MoE) models this is inco",
+      "authors": [
+        "Sangjin Choi",
+        "Sukmin Cho",
+        "Yifan Xiong",
+        "Ziyue Yang",
+        "Youngjin Kwon"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -271,61 +402,6 @@
       ],
       "tags": [
         "autonomous"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.00446",
-      "title": "VideoSearch-R1: Iterative Video Retrieval and Reasoning via Soft Query Refinement",
-      "url": "https://huggingface.co/papers/2607.00446",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-30T20:00:00.000Z",
-      "abstract": "As video corpora continue to expand in both scale and task complexity, there is increasing demand for approaches that retrieve relevant videos from large-scale corpora (inter-video reasoning) and subs",
-      "authors": [
-        "Seohyun Lee",
-        "Seoung Choi",
-        "Dohwan Ko",
-        "Jongha Kim",
-        "Hyunwoo J. Kim"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.01213",
-      "title": "RepoRescue: An Empirical Study of LLM Agents on Whole-Repository Compatibility Rescue",
-      "url": "https://huggingface.co/papers/2607.01213",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-30T20:00:00.000Z",
-      "abstract": "Open-source libraries and tools are widely reused, but compatibility maintenance is expensive. Once maintainers leave, useful repositories can stop working as runtimes and dependencies evolve. We stud",
-      "authors": [
-        "Zhihao Lin",
-        "Mingyi Zhou",
-        "Zhensu Sun",
-        "Yizhuo Yang",
-        "Renyu Yang"
-      ],
-      "tags": [
-        "llm",
-        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
