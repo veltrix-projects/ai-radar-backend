@@ -1,22 +1,24 @@
 {
-  "generatedAt": "2026-07-03T06:06:24.201Z",
+  "generatedAt": "2026-07-03T09:39:08.058Z",
   "date": "29-06-2026",
   "count": 9,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2606.31719",
-      "title": "Seeing Is Not Sharing: Some Vision-Language Models Overestimate Common Ground in Asymmetric Dialogue",
-      "url": "https://huggingface.co/papers/2606.31719",
+      "id": "hf_paper_2606.31924",
+      "title": "InstanceControl: Controllable Complex Image Generation without Instance Labeling",
+      "url": "https://huggingface.co/papers/2606.31924",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-29T20:00:00.000Z",
-      "abstract": "In collaborative dialogue, shared perception does not guarantee shared interpretation. Mutual understanding must be established through interaction. We investigate whether vision-language models (VLMs",
+      "abstract": "Controllable image generation methods, such as ControlNet, have demonstrated a remarkable capacity to introduce visual conditions(e.g., depth maps) to guide image generation. However, these methods of",
       "authors": [
-        "Nan Li",
-        "Albert Gatt",
-        "Massimo Poesio"
+        "Xiaoyu Liu",
+        "Huan Wang",
+        "Fan Li",
+        "Zhixin Wang",
+        "Jiaqi Xu"
       ],
       "tags": [],
       "score": 6,
@@ -29,22 +31,28 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2607.00152",
-      "title": "GRPO, Dr. GRPO, and DAPO Are Three Operations on One Number: The Group-Standard-Deviation Identity",
-      "url": "https://huggingface.co/papers/2607.00152",
+      "id": "hf_paper_2606.31825",
+      "title": "Breaking Failure Cascades: Step-Aware Reinforcement Learning for Medical Multimodal Reasoning",
+      "url": "https://huggingface.co/papers/2606.31825",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-29T20:00:00.000Z",
-      "abstract": "Three of the most popular methods for training language models to reason look like three different tricks. They are not. All three adjust a single number: standard deviation, reflecting how much a pro",
+      "abstract": "Recent multimodal large language models have shown great promise in clinical image reasoning, but existing post-training pipelines remain predominantly outcome-centric, relying on final answer correct",
       "authors": [
-        "Yong Yi Bay",
-        "Kathleen A. Yearick"
+        "Junha Jung",
+        "Minbyul Jeong",
+        "Suhyeon Lim",
+        "Sungwook Jung",
+        "Jaehoon Yun"
       ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "tags": [
+        "multimodal",
+        "reinforcement learning"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

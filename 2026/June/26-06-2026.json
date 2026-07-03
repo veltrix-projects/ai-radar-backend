@@ -1,21 +1,24 @@
 {
-  "generatedAt": "2026-07-03T06:06:24.202Z",
+  "generatedAt": "2026-07-03T09:39:08.059Z",
   "date": "26-06-2026",
   "count": 5,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2606.28661",
-      "title": "When More Sampling Hurts: The Modal Ceiling and Correlation Ceiling of Test-Time Scaling",
-      "url": "https://huggingface.co/papers/2606.28661",
+      "id": "hf_paper_2606.25178",
+      "title": "Transferability for General Reasoning: An Automated Curriculum for Multi-Domain RLVR",
+      "url": "https://huggingface.co/papers/2606.25178",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-26T20:00:00.000Z",
-      "abstract": "People overthink; language models over-sample, and the extra effort can talk both into a worse answer. Reasoning systems answer a hard question by sampling it many times (test-time scaling), and the m",
+      "abstract": "Reinforcement learning with verifiable rewards (RLVR) has been extended from single-domain training to multi-domain reasoning suites spanning mathematics, programming, and science. However, the traini",
       "authors": [
-        "Yong Yi Bay",
-        "Kathleen A. Yearick"
+        "Yongjin Yang",
+        "Jiarui Liu",
+        "Yinghui He",
+        "Lechen Zhang",
+        "Bernhard Schölkopf"
       ],
       "tags": [],
       "score": 6,
