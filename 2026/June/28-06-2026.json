@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-03T02:05:06.815Z",
+  "generatedAt": "2026-07-03T06:06:24.202Z",
   "date": "28-06-2026",
-  "count": 4,
+  "count": 3,
   "summary": null,
   "items": [
     {
@@ -31,54 +31,29 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 156761,
+      "stars": 156768,
       "votes": 0,
       "points": 0
     },
     {
-      "id": "hf_paper_2606.30124",
-      "title": "SciIR: A Large-scale Training Dataset and Benchmark for Scientific Image Reasoning Generation",
-      "url": "https://huggingface.co/papers/2606.30124",
+      "id": "hf_paper_2606.30562",
+      "title": "Morphing into Hybrid Attention Models",
+      "url": "https://huggingface.co/papers/2606.30562",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-28T20:00:00.000Z",
-      "abstract": "While Text-to-Image (T2I) models have shown remarkable success in generating photorealistic visual content, they still struggle with the rigorous semantic alignment and logical reasoning required for",
+      "abstract": "Hybrid attention models improve long-context efficiency by retaining only a subset of full-attention layers and replacing the remaining layers with linear attention. However, the effectiveness of Tran",
       "authors": [
-        "Zhiyuan Ma",
-        "Zhengfeng Shi",
-        "Yuning An",
-        "Peize Li",
-        "Jiabao Wei"
+        "Disen Lan",
+        "Jianbin Zheng",
+        "Yuxi Ren",
+        "Xin Xia",
+        "Xuanda Wang"
       ],
       "tags": [
-        "benchmark",
-        "training"
+        "phi"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.30030",
-      "title": "CogSENet: Blind Image Deblurring with Blur-Conditioned Semantic Routing and Explicit Frequency Fusion",
-      "url": "https://huggingface.co/papers/2606.30030",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-28T20:00:00.000Z",
-      "abstract": "Blind image deblurring demands the recovery of high-fidelity details and coherent structures from complex, unknown degradations. Current blind image deblurring methods struggle with real-world, spatia",
-      "authors": [
-        "Pan Wang",
-        "Yihao Hu",
-        "Xiujin Liu"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

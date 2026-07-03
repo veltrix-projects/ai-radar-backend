@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-03T02:05:06.813Z",
+  "generatedAt": "2026-07-03T06:06:24.201Z",
   "date": "30-06-2026",
-  "count": 28,
+  "count": 22,
   "summary": null,
   "items": [
     {
@@ -27,183 +27,23 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2607.01211",
-      "title": "Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?",
-      "url": "https://huggingface.co/papers/2607.01211",
+      "id": "hf_paper_2607.01436",
+      "title": "Discrete Diffusion Language Models for Interactive Radiology Report Drafting",
+      "url": "https://huggingface.co/papers/2607.01436",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-30T20:00:00.000Z",
-      "abstract": "Repository-level performance-optimization benchmarks such as GSO, SWE-Perf and SWE-fficiency evaluate coding agents by applying patches to real repositories and comparing runtime against unoptimized b",
+      "abstract": "Diffusion language models, which generate text by denoising a token canvas bidirectionally instead of emitting tokens left to right, have become competitive with autoregressive (AR) generation. Medica",
       "authors": [
-        "Zhi Chen",
-        "Zhensu Sun",
-        "Yuling Shi",
-        "David Lo",
-        "Lingxiao Jiang"
+        "Max Van Puyvelde",
+        "Halil Ibrahim Gulluk",
+        "Wim Van Criekinge",
+        "Olivier Gevaert"
       ],
       "tags": [
-        "agent",
-        "benchmark"
+        "diffusion"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.00924",
-      "title": "Graph-Native Reinforcement Learning Enables Traceable Scientific Hypothesis Generation through Conceptual Recombination",
-      "url": "https://huggingface.co/papers/2607.00924",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-30T20:00:00.000Z",
-      "abstract": "Accelerating materials discovery requires AI systems that can generate scientifically valid hypotheses through multi-step, domain-grounded reasoning. Standard large language models often produce fluen",
-      "authors": [
-        "Subhadeep Pal",
-        "Shashwat Sourav",
-        "Tirthankar Ghosal",
-        "Markus J. Buehler"
-      ],
-      "tags": [
-        "reinforcement learning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.00553",
-      "title": "Cross-Domain Generalization Failure in Lightweight Intrusion Detection Models for IIoT Networks",
-      "url": "https://huggingface.co/papers/2607.00553",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-30T20:00:00.000Z",
-      "abstract": "Lightweight machine learning models are increasingly proposed for intrusion detection in Industrial Internet of Things (IIoT) networks due to their suitability for resource-constrained edge deployment",
-      "authors": [
-        "MD Azizul Hakim",
-        "Md Shihab Uddin",
-        "Talha Ibne Anis"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.00407",
-      "title": "Personalization as Inverse Planning: Learning Latent Design Intents for Agentic Slide Generation via Structural Denoising",
-      "url": "https://huggingface.co/papers/2607.00407",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-30T20:00:00.000Z",
-      "abstract": "Slide design requires personalizing both deck themes and page layouts. Yet, current AI agent-based methods struggle with fine-grained, page-level design. Solely relying on prespecified templates or us",
-      "authors": [
-        "Tianci Liu",
-        "Zihan Dong",
-        "Linjun Zhang",
-        "Haoyu Wang",
-        "jing Gao"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.00529",
-      "title": "NoPA: Non-Parametric Online 3D Scene Graph Generation",
-      "url": "https://huggingface.co/papers/2607.00529",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-30T20:00:00.000Z",
-      "abstract": "Classic 3D scene graph generation approaches fail to work in real-time due to the heavy computational cost of environment mapping and the need to generate intermediate point-cloud representations. To",
-      "authors": [
-        "Qi Xun Yeo",
-        "Seungjun Lee",
-        "Yan Li",
-        "Gim Hee Lee"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.00461",
-      "title": "Multimodal Continuous Reasoning via Asymmetric Mutual Variational Learning",
-      "url": "https://huggingface.co/papers/2607.00461",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-30T20:00:00.000Z",
-      "abstract": "Multimodal Large Language Models (MLLMs) are often constrained by a language-space bottleneck, forcing complex visual reasoning into discrete tokens which can lose perceptual nuance. A promising alter",
-      "authors": [
-        "Shijie Li",
-        "Yilin Gao",
-        "Siyuan Yang",
-        "Tieyuan Chen",
-        "Chaofan Gan"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.00466",
-      "title": "ELDR: Expert-Locality-Aware Decode Routing for PD-Disaggregated MoE Serving",
-      "url": "https://huggingface.co/papers/2607.00466",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-30T20:00:00.000Z",
-      "abstract": "In prefill-decode (PD) disaggregated LLM serving, each request is assigned to a decode worker after prefill. Existing decode routers balance only load; for mixture-of-experts (MoE) models this is inco",
-      "authors": [
-        "Sangjin Choi",
-        "Sukmin Cho",
-        "Yifan Xiong",
-        "Ziyue Yang",
-        "Youngjin Kwon"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
