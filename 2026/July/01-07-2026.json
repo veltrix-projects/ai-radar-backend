@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-03T16:19:02.966Z",
+  "generatedAt": "2026-07-03T17:54:19.843Z",
   "date": "01-07-2026",
-  "count": 40,
+  "count": 39,
   "summary": null,
   "items": [
     {
@@ -60,6 +60,33 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.01686",
+      "title": "WARP: Weight-Space Analysis for Recovering Training Data Portfolios",
+      "url": "https://huggingface.co/papers/2607.01686",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-01T20:00:00.000Z",
+      "abstract": "Foundation models are routinely released to the public, yet the data recipes used to train them -- such as domain mixture weights that determine how different sources are sampled -- are rarely disclos",
+      "authors": [
+        "Tzu-Heng Huang",
+        "Aditya Goyal",
+        "John Cooper",
+        "Frederic Sala"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -342,62 +369,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2607.01763",
-      "title": "Denser neq Better: Limits of On-Policy Self-Distillation for Continual Post-Training",
-      "url": "https://huggingface.co/papers/2607.01763",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-01T20:00:00.000Z",
-      "abstract": "Continual post-training enables foundation models to acquire new knowledge while preserving existing capabilities. Recent work suggests that on-policy learning can mitigate forgetting, with on-policy",
-      "authors": [
-        "Meng Wang",
-        "Haohan Zhao",
-        "Wenzhuo Liu",
-        "Lu Yang",
-        "Geng Liu"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.02269",
-      "title": "AnyGroundBench: A Specialized-Domain Benchmark for Video Grounding in Vision-Language Models",
-      "url": "https://huggingface.co/papers/2607.02269",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-01T20:00:00.000Z",
-      "abstract": "Vision-Language Models (VLMs) have demonstrated immense promise in Spatio-Temporal Video Grounding (STVG). However, current evaluation protocols are largely confined to zero-shot assessments on genera",
-      "authors": [
-        "Rintaro Otsubo",
-        "Ryo Fujii",
-        "Reina Ishikawa",
-        "Taiki Kanaya",
-        "Kanta Sawafuji"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "gh_552661142",
       "title": "langchain-ai/langchain — The agent engineering platform.",
       "url": "https://github.com/langchain-ai/langchain",
@@ -656,7 +627,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 126262,
+      "stars": 126323,
       "votes": 0,
       "points": 0
     },
