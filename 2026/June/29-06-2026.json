@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-07-06T14:59:44.185Z",
+  "generatedAt": "2026-07-06T17:45:17.508Z",
   "date": "29-06-2026",
-  "count": 8,
+  "count": 11,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2405.03650",
+      "title": "Generated Contents Enrichment",
+      "url": "https://huggingface.co/papers/2405.03650",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-29T20:00:00.000Z",
+      "abstract": "We study Generated Contents Enrichment (GCE), a conditional image-generation task in which a sparse scene description is first enriched through an explicit scene representation and then rendered into",
+      "authors": [
+        "Mahdi Naseri",
+        "Jiayan Qiu",
+        "Zhou Wang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2606.31227",
       "title": "Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming",
@@ -82,35 +106,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.31825",
-      "title": "Breaking Failure Cascades: Step-Aware Reinforcement Learning for Medical Multimodal Reasoning",
-      "url": "https://huggingface.co/papers/2606.31825",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-29T20:00:00.000Z",
-      "abstract": "Recent multimodal large language models have shown great promise in clinical image reasoning, but existing post-training pipelines remain predominantly outcome-centric, relying on final answer correct",
-      "authors": [
-        "Junha Jung",
-        "Minbyul Jeong",
-        "Suhyeon Lim",
-        "Sungwook Jung",
-        "Jaehoon Yun"
-      ],
-      "tags": [
-        "multimodal",
-        "reinforcement learning"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
       "title": "AI agents are not your &#8220;coworkers&#8221;",
       "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
@@ -168,6 +163,68 @@
       "tags": [
         "agent"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "HP accelerates enterprise workflows with OpenAI Frontier",
+      "url": "https://www.artificialintelligence-news.com/news/hp-accelerates-enterprise-workflows-openai-frontier/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-06-29T12:22:45.000Z",
+      "abstract": "HP has scaled its OpenAI Frontier integration across global operations to optimise enterprise workflows and accelerate output. The hardware manufacturer initiated testing of the platform in February 2",
+      "authors": [],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "Wimbledon adds IBM AI tools for live match coverage",
+      "url": "https://www.artificialintelligence-news.com/news/wimbledon-ibm-ai-tools-live-match-coverage/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-06-29T10:00:00.000Z",
+      "abstract": "The All England Lawn Tennis Club is adding new AI-powered features to Wimbledon’s digital platforms through its ongoing work with IBM. The updates will be available through the Wimbledon app and wimbl",
+      "authors": [],
+      "tags": [
+        "rag"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "Advances in Natural Language Processing Are Changing Professional Networking",
+      "url": "https://www.artificialintelligence-news.com/news/advances-in-natural-language-processing-are-changing-professional-networking/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-06-29T08:59:46.000Z",
+      "abstract": "Natural language processing is reshaping professional communication on online platforms, enabling more relevant and personalised networking interactions. As AI-driven systems increasingly comprehend a",
+      "authors": [],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
