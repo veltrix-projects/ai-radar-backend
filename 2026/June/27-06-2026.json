@@ -1,29 +1,35 @@
 {
-  "generatedAt": "2026-07-03T02:05:06.820Z",
+  "generatedAt": "2026-07-06T07:05:17.109Z",
   "date": "27-06-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2606.29464",
-      "title": "Rank-Aware Hyperbolic Alignment for Vision-Language Dataset Distillation",
-      "url": "https://huggingface.co/papers/2606.29464",
+      "id": "hf_paper_2606.29526",
+      "title": "The Mirage of Optimizing Training Policies: Monotonic Inference Policies as the Real Objective for LLM Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2606.29526",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-27T20:00:00.000Z",
-      "abstract": "Vision-language dataset distillation (VLDD) compresses a large image-text paired dataset into a small set of synthetic pairs that can efficiently train contrastive vision-language models under strict",
+      "abstract": "Reinforcement learning (RL) has gained growing attention in large language model (LLM) post-training, yet RL training remains fragile and can suffer from instability or collapse. One vital cause is tr",
       "authors": [
-        "Jongoh Jeong",
-        "Sun-Kyung Lee",
-        "Kuk-Jin Yoon"
+        "Jing Liang",
+        "Hongyao Tang",
+        "Yi Ma",
+        "Yancheng He",
+        "Weixun Wang"
       ],
       "tags": [
-        "alignment"
+        "llm",
+        "rag",
+        "inference",
+        "training",
+        "reinforcement learning"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
