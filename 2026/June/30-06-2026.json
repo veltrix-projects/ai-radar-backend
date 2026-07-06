@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T07:05:17.107Z",
+  "generatedAt": "2026-07-06T11:46:56.983Z",
   "date": "30-06-2026",
   "count": 22,
   "summary": null,
@@ -16,6 +16,35 @@
       "authors": [],
       "tags": [
         "claude"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.01420",
+      "title": "MultAttnAttrib: Training-Free Multimodal Attribution in Long Document Question Answering",
+      "url": "https://huggingface.co/papers/2607.01420",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-30T20:00:00.000Z",
+      "abstract": "As grounded QA systems are increasingly deployed in AI assistants, accurately attributing generated answers to evidence is critical for user trust and model safety. While unimodal attributions have be",
+      "authors": [
+        "Dang Quang Thien Tran",
+        "Quang V. Dang",
+        "Vinamra Tyagi",
+        "Sai Soorya Rao Veeravalli",
+        "Trang Nguyen"
+      ],
+      "tags": [
+        "multimodal",
+        "training"
       ],
       "score": 8,
       "priority": "HIGH",
@@ -93,33 +122,6 @@
         "Pasquale Minervini"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.01436",
-      "title": "Discrete Diffusion Language Models for Interactive Radiology Report Drafting",
-      "url": "https://huggingface.co/papers/2607.01436",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-30T20:00:00.000Z",
-      "abstract": "Diffusion language models, which generate text by denoising a token canvas bidirectionally instead of emitting tokens left to right, have become competitive with autoregressive (AR) generation. Medica",
-      "authors": [
-        "Max Van Puyvelde",
-        "Halil Ibrahim Gulluk",
-        "Wim Van Criekinge",
-        "Olivier Gevaert"
-      ],
-      "tags": [
-        "diffusion"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

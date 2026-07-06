@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-06T07:05:17.105Z",
+  "generatedAt": "2026-07-06T11:46:56.982Z",
   "date": "01-07-2026",
-  "count": 22,
+  "count": 23,
   "summary": null,
   "items": [
     {
@@ -18,6 +18,63 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.02471",
+      "title": "Interpretation-Oriented Cloud Removal via Observation-Anchored Residual Flow with Geo-Contextual Alignment",
+      "url": "https://huggingface.co/papers/2607.02471",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-01T20:00:00.000Z",
+      "abstract": "Cloud removal (CR) is essential for optical remote sensing, serving as a prerequisite for reliable downstream interpretation, such as semantic segmentation and change detection. However, existing CR a",
+      "authors": [
+        "Ziyao Wang",
+        "Maonan Wang",
+        "Yucheng He",
+        "Xianping Ma",
+        "Ziyi Wang"
+      ],
+      "tags": [
+        "alignment"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.02461",
+      "title": "OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers",
+      "url": "https://huggingface.co/papers/2607.02461",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-01T20:00:00.000Z",
+      "abstract": "Diffusion transformers (DiTs) achieve state-of-the-art image and video generation, but their multi-step sampling and growing parameter count make inference expensive. Post-training quantization (PTQ)",
+      "authors": [
+        "Donghyun Lee",
+        "Jitesh Chavan",
+        "Duy Nguyen",
+        "Sam Huang",
+        "Liming Jiang"
+      ],
+      "tags": [
+        "transformer",
+        "diffusion"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -183,31 +240,6 @@
         "llm",
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.02508",
-      "title": "From SRA to Self-Flow: Data Augmentation or Self-Supervision?",
-      "url": "https://huggingface.co/papers/2607.02508",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-01T20:00:00.000Z",
-      "abstract": "Representation alignment has become an effective way to accelerate diffusion transformer training and improve generation quality. Recent self-alignment methods, such as SRA and Self-Flow, further remo",
-      "authors": [
-        "Dengyang Jiang",
-        "Mengmeng Wang",
-        "Harry Yang",
-        "Jingdong Wang"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
