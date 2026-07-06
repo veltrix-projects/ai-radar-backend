@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-06T11:46:56.986Z",
+  "generatedAt": "2026-07-06T14:59:44.188Z",
   "date": "25-06-2026",
-  "count": 13,
+  "count": 14,
   "summary": null,
   "items": [
     {
@@ -18,6 +18,32 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.28551",
+      "title": "DataComp-VLM: Improved Open Datasets for Vision-Language Models",
+      "url": "https://huggingface.co/papers/2606.28551",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-25T20:00:00.000Z",
+      "abstract": "Building performant Vision-Language Models (VLMs) requires carefully curating large-scale training datasets, yet the community lacks systematic benchmarks for evaluating such curation strategies. We i",
+      "authors": [
+        "Matteo Farina",
+        "Vishaal Udandarao",
+        "Thao Nguyen",
+        "Selim Kuzucu",
+        "Maximilian Böther"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

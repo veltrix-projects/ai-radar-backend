@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-06T11:46:56.982Z",
+  "generatedAt": "2026-07-06T14:59:44.184Z",
   "date": "01-07-2026",
-  "count": 23,
+  "count": 22,
   "summary": null,
   "items": [
     {
@@ -210,35 +210,6 @@
       ],
       "tags": [
         "autonomous"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.02255",
-      "title": "AgenticSTS: A Bounded-Memory Testbed for Long-Horizon LLM Agents",
-      "url": "https://huggingface.co/papers/2607.02255",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-01T20:00:00.000Z",
-      "abstract": "Memory for a long-horizon LLM agent is a contract about what each future decision is allowed to see. The simplest contract appends past observations, tool calls, and reflections to every prompt, which",
-      "authors": [
-        "Xiangchen Cheng",
-        "Yunwei Jiang",
-        "Jianwen Sun",
-        "Zizhen Li",
-        "Chuanhao Li"
-      ],
-      "tags": [
-        "llm",
-        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
