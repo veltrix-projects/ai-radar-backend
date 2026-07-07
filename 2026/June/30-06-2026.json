@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-07T03:23:39.879Z",
+  "generatedAt": "2026-07-07T06:59:05.659Z",
   "date": "30-06-2026",
-  "count": 21,
+  "count": 15,
   "summary": null,
   "items": [
     {
@@ -20,137 +20,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.01233",
-      "title": "Measuring the Gap Between Human and LLM Research Ideas",
-      "url": "https://huggingface.co/papers/2607.01233",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-30T20:00:00.000Z",
-      "abstract": "LLMs are increasingly used to brainstorm research ideas, but existing evaluations mostly judge individual ideas by novelty, feasibility, or expert preference. We instead ask: how far are current LLM-g",
-      "authors": [
-        "Ziyu Chen",
-        "Yilun Zhao",
-        "Arman Cohan"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.01420",
-      "title": "MultAttnAttrib: Training-Free Multimodal Attribution in Long Document Question Answering",
-      "url": "https://huggingface.co/papers/2607.01420",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-30T20:00:00.000Z",
-      "abstract": "As grounded QA systems are increasingly deployed in AI assistants, accurately attributing generated answers to evidence is critical for user trust and model safety. While unimodal attributions have be",
-      "authors": [
-        "Dang Quang Thien Tran",
-        "Quang V. Dang",
-        "Vinamra Tyagi",
-        "Sai Soorya Rao Veeravalli",
-        "Trang Nguyen"
-      ],
-      "tags": [
-        "multimodal",
-        "training"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.01283",
-      "title": "Scaling Laws for Grid-Based Approximate Nearest Neighbor Search in High Dimensions",
-      "url": "https://huggingface.co/papers/2607.01283",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-30T20:00:00.000Z",
-      "abstract": "Grid-based approaches to approximate nearest neighbor (ANN) search have been absent from modern scaling analyses. We present a systematic characterization of a multiprobe grid algorithm with respect t",
-      "authors": [
-        "Matthew J Liu",
-        "Wei Hang Zheng",
-        "Vidhan Purohit",
-        "Siqi Xie",
-        "Chieh-En Li"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.01224",
-      "title": "AutoMem: Automated Learning of Memory as a Cognitive Skill",
-      "url": "https://huggingface.co/papers/2607.01224",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-30T20:00:00.000Z",
-      "abstract": "Memory expertise is a learned skill: knowing what to encode, when to retrieve, and how to organize knowledge--a capacity known in cognitive science as metamemory. We bring this perspective to LLMs by",
-      "authors": [
-        "Shengguang Wu",
-        "Hao Zhu",
-        "Yuhui Zhang",
-        "Xiaohan Wang",
-        "Serena Yeung-Levy"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.01002",
-      "title": "Logit-Contribution Scoring Identifies Non-Literal Retrieval Heads",
-      "url": "https://huggingface.co/papers/2607.01002",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-30T20:00:00.000Z",
-      "abstract": "In long-context use, large language models frequently synthesize answers from the meaning of a relevant context span rather than literally copy-pasting them. Identifying which attention heads perform",
-      "authors": [
-        "Aryo Pradipta Gema",
-        "Beatrice Alex",
-        "Pasquale Minervini"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -320,31 +189,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2606.31959",
-      "title": "AnyBokeh: Physics-Guided Any-to-Any Bokeh Editing with Optical Fingerprint Transfer",
-      "url": "https://huggingface.co/papers/2606.31959",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-30T13:01:28.000Z",
-      "abstract": "Depth-of-field control is a fundamental tool in photography, yet post-capture bokeh editing from a single image remains challenging. A practical editor should handle images captured under arbitrary fo",
-      "authors": [
-        "Xinyu Hou",
-        "Xiaoming Li",
-        "Zongsheng Yue",
-        "Chen Change Loy"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
       "title": "Agriculture is ready for AI, but its data isn&#8217;t",
       "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
@@ -407,9 +251,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fgeneb",
-      "title": "Inside Genebench-Pro",
-      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fcore-",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
@@ -447,9 +291,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fcore-",
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fgeneb",
+      "title": "Inside Genebench-Pro",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",

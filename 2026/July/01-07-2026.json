@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-07T03:23:39.879Z",
+  "generatedAt": "2026-07-07T06:59:05.658Z",
   "date": "01-07-2026",
-  "count": 19,
+  "count": 16,
   "summary": null,
   "items": [
     {
@@ -25,77 +25,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2607.02471",
-      "title": "Interpretation-Oriented Cloud Removal via Observation-Anchored Residual Flow with Geo-Contextual Alignment",
-      "url": "https://huggingface.co/papers/2607.02471",
+      "id": "hf_paper_2607.02646",
+      "title": "EVA-Client: A Unified Data Collection, Inference, and Deployment Framework for Embodied Policies on Real Robots",
+      "url": "https://huggingface.co/papers/2607.02646",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-07-01T20:00:00.000Z",
-      "abstract": "Cloud removal (CR) is essential for optical remote sensing, serving as a prerequisite for reliable downstream interpretation, such as semantic segmentation and change detection. However, existing CR a",
+      "abstract": "We present EVA-Client, an open-source framework for deployment, data collection, and evaluation of trained manipulation policies on real robots. Sitting between a policy server and the physical hardwa",
       "authors": [
-        "Ziyao Wang",
-        "Maonan Wang",
-        "Yucheng He",
-        "Xianping Ma",
-        "Ziyi Wang"
-      ],
-      "tags": [
-        "alignment"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.02461",
-      "title": "OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers",
-      "url": "https://huggingface.co/papers/2607.02461",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-01T20:00:00.000Z",
-      "abstract": "Diffusion transformers (DiTs) achieve state-of-the-art image and video generation, but their multi-step sampling and growing parameter count make inference expensive. Post-training quantization (PTQ)",
-      "authors": [
-        "Donghyun Lee",
-        "Jitesh Chavan",
-        "Duy Nguyen",
-        "Sam Huang",
-        "Liming Jiang"
-      ],
-      "tags": [
-        "transformer",
-        "diffusion"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.01804",
-      "title": "VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon",
-      "url": "https://huggingface.co/papers/2607.01804",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-01T20:00:00.000Z",
-      "abstract": "Vision-Language-Action (VLA) foundation models have recently achieved strong progress in embodied intelligence. To reduce policy-call frequency while preserving temporal coherence, most generative pol",
-      "authors": [
-        "Yi Pan",
-        "Miao Pan",
-        "Qi Lu",
-        "Jiaming Huang",
-        "Man Zhang"
+        "Heqing Yang",
+        "Yang Yi",
+        "Liyao Wang",
+        "Linqing Zhong",
+        "Donglin Yang"
       ],
       "tags": [
         "inference"
@@ -110,24 +53,22 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2607.02501",
-      "title": "Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots",
-      "url": "https://huggingface.co/papers/2607.02501",
+      "id": "hf_paper_2607.02642",
+      "title": "GigaWorld-1: A Roadmap to Build World Models for Robot Policy Evaluation",
+      "url": "https://huggingface.co/papers/2607.02642",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-07-01T20:00:00.000Z",
-      "abstract": "Embodied AI models now span vision-language-action (VLA) models and world-action models (WAMs), but practical deployment remains fragmented across model-specific Python stacks, backend assumptions, an",
+      "abstract": "Evaluating embodied robot foundation models remains a critical bottleneck; unlike large language models efficiently assessed via digital benchmarks, robotic policies require slow, costly real-world ro",
       "authors": [
-        "Ling Xu",
-        "Chuyu Han",
-        "Borui Li",
-        "Hao Wu",
-        "Shiqi Jiang"
+        "GigaWorld Team",
+        "Angyuan Ma",
+        "Boyuan Wang",
+        "Bohan Li",
+        "Chaojun Ni"
       ],
-      "tags": [
-        "inference"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -138,54 +79,25 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2607.01686",
-      "title": "WARP: Weight-Space Analysis for Recovering Training Data Portfolios",
-      "url": "https://huggingface.co/papers/2607.01686",
+      "id": "hf_paper_2607.01764",
+      "title": "Mastermind: Strategy-grounded Learning for Repository-Scale Vulnerability Reproduction",
+      "url": "https://huggingface.co/papers/2607.01764",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-07-01T20:00:00.000Z",
-      "abstract": "Foundation models are routinely released to the public, yet the data recipes used to train them -- such as domain mixture weights that determine how different sources are sampled -- are rarely disclos",
+      "abstract": "Repository-level vulnerability reproduction is a demanding software engineering (SE) task: an agent must inspect a codebase, infer the input grammar that reaches a vulnerable path, construct a proof-o",
       "authors": [
-        "Tzu-Heng Huang",
-        "Aditya Goyal",
-        "John Cooper",
-        "Frederic Sala"
+        "Mingzhe Du",
+        "Luu Anh Tuan",
+        "Tianyi Wu",
+        "Renyang Liu",
+        "Zhijiang Guo"
       ],
-      "tags": [
-        "training"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.02271",
-      "title": "AGVBench: A Reliability-Oriented Benchmark of Data Augmentation for Vein Recognition",
-      "url": "https://huggingface.co/papers/2607.02271",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-01T20:00:00.000Z",
-      "abstract": "Vein recognition is a secure biometric technology often constrained by limited annotated data and imaging variations. While data augmentation mitigates this, strategies designed for natural images may",
-      "authors": [
-        "Haiyang Li",
-        "Yuming Fu",
-        "Qun Song",
-        "Hongchao Liao",
-        "Jing Chen"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

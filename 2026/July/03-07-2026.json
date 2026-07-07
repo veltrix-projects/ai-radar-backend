@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-07T03:23:39.878Z",
+  "generatedAt": "2026-07-07T06:59:05.657Z",
   "date": "03-07-2026",
-  "count": 6,
+  "count": 7,
   "summary": null,
   "items": [
     {
@@ -31,7 +31,37 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 141609,
+      "stars": 141616,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.01793",
+      "title": "Safety Testing LLM Agents at Scale: From Risk Discovery to Evidence-Grounded Verification",
+      "url": "https://huggingface.co/papers/2607.01793",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-03T20:00:00.000Z",
+      "abstract": "LLM agents increasingly perform autonomous actions through external tools, leading to complex and evolving safety risks. However, existing safety testing targets expert-designed safety violations, and",
+      "authors": [
+        "Yunhao Feng",
+        "Ruixiao Lin",
+        "Ming Wen",
+        "Qinqin He",
+        "Yanming Guo"
+      ],
+      "tags": [
+        "llm",
+        "agent",
+        "safety"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
       "votes": 0,
       "points": 0
     },

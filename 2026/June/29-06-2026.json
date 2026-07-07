@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-07-07T03:23:39.880Z",
+  "generatedAt": "2026-07-07T06:59:05.660Z",
   "date": "29-06-2026",
-  "count": 11,
+  "count": 9,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2602.11688",
+      "title": "GORGO: Online Tuning for Cross-Region Network-Aware LLM Serving",
+      "url": "https://huggingface.co/papers/2602.11688",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-29T20:00:00.000Z",
+      "abstract": "Increasingly, LLM inference services proxy client requests to engine replicas distributed globally. Load-balancing policies must jointly account for factors including KV-cache locality, replica load,",
+      "authors": [
+        "Alessio Ricci Toniolo",
+        "Rome Thorstenson",
+        "Abinaya Dinesh"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2606.31036",
       "title": "Teaching LLMs to Recommend and Defer in Underrepresented Epilepsy Care",
@@ -26,81 +52,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2405.03650",
-      "title": "Generated Contents Enrichment",
-      "url": "https://huggingface.co/papers/2405.03650",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-29T20:00:00.000Z",
-      "abstract": "We study Generated Contents Enrichment (GCE), a conditional image-generation task in which a sparse scene description is first enriched through an explicit scene representation and then rendered into",
-      "authors": [
-        "Mahdi Naseri",
-        "Jiayan Qiu",
-        "Zhou Wang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.31227",
-      "title": "Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming",
-      "url": "https://huggingface.co/papers/2606.31227",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-29T20:00:00.000Z",
-      "abstract": "The fast growth of open-source AI infrastructure, from model serving engines and agent platforms to the Model Context Protocol (MCP) ecosystem and the language models themselves, has outpaced the secu",
-      "authors": [
-        "Yong Yang",
-        "Xing Zheng",
-        "Huiyu Wu",
-        "Huangsheng Cheng",
-        "Xiaorong Shi"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.00052",
-      "title": "AGE: Adaptive-masking for Graph Embedding in Graph Retrieval-Augmented Generation",
-      "url": "https://huggingface.co/papers/2607.00052",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-06-29T20:00:00.000Z",
-      "abstract": "GraphRAG is an extension of retrieval-augmented generation (RAG) that supports large language models (LLMs) by referring to graph-structured data as external knowledge. While this technique ideally ca",
-      "authors": [
-        "Bao Long Nguyen Huu",
-        "Atsushi Hashimoto"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
