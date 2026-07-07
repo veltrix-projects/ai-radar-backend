@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T15:39:43.130Z",
+  "generatedAt": "2026-07-07T17:52:09.986Z",
   "date": "02-07-2026",
   "count": 13,
   "summary": null,
@@ -38,6 +38,33 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.02904",
+      "title": "Speaker-Aware Temporal Aggregation Strategies on Segment Representations for Depression Detection in Dyadic Interaction: A Benchmark Study",
+      "url": "https://huggingface.co/papers/2607.02904",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-02T20:00:00.000Z",
+      "abstract": "Speech-based depression detection compresses features from short audio segments into one speaker-level decision, a step called temporal aggregation rarely studied on its own. Most benchmarks fix a sin",
+      "authors": [
+        "Anisha Pattanayak",
+        "Huang-Cheng Chou",
+        "Shrikanth Narayanan",
+        "Sudarsana Reddy Kadiri"
+      ],
+      "tags": [
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -123,28 +150,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2607.03068",
-      "title": "PixCon: Clean-Positive Contrastive Learning for Foundation-Model Semi-Supervised Segmentation",
-      "url": "https://huggingface.co/papers/2607.03068",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-02T20:00:00.000Z",
-      "abstract": "Semi-supervised semantic segmentation (SSSS) has long turned on one question, which pseudo-labels to trust, and answered it with ever more careful confidence filtering. Foundation backbones change the",
-      "authors": [
-        "Ebenezer Tarubinga"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
       "title": "How Amazon Bedrock catches AI-generated phishing",
       "url": "https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-catches-ai-generated-phishing/",
@@ -215,7 +220,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 144554,
+      "stars": 144570,
       "votes": 0,
       "points": 0
     },
@@ -241,17 +246,19 @@
     },
     {
       "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
-      "title": "Teaching AI to run with the turbines",
-      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+      "title": "Building the foundation for an autonomous enterprise",
+      "url": "https://www.technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise/",
       "source": "MIT Tech Review",
       "sourceIcon": "🏛️",
       "type": "research",
       "timestamp": "2026-07-02T12:51:44.000Z",
       "abstract": "",
       "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
+      "tags": [
+        "autonomous"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
