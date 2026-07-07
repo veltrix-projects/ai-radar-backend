@@ -1,25 +1,27 @@
 {
-  "generatedAt": "2026-07-07T17:52:09.989Z",
+  "generatedAt": "2026-07-07T19:41:54.546Z",
   "date": "29-06-2026",
-  "count": 5,
+  "count": 6,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2602.11688",
-      "title": "GORGO: Online Tuning for Cross-Region Network-Aware LLM Serving",
-      "url": "https://huggingface.co/papers/2602.11688",
+      "id": "hf_paper_2606.31145",
+      "title": "SeKV: Resolution-Adaptive KV Cache with Hierarchical Semantic Memory for Long-Context LLM Inference",
+      "url": "https://huggingface.co/papers/2606.31145",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-06-29T20:00:00.000Z",
-      "abstract": "Increasingly, LLM inference services proxy client requests to engine replicas distributed globally. Load-balancing policies must jointly account for factors including KV-cache locality, replica load,",
+      "abstract": "Large language models increasingly operate over long contexts, where the KV cache becomes a dominant memory bottleneck: its size grows linearly with sequence length and must be retained throughout dec",
       "authors": [
-        "Alessio Ricci Toniolo",
-        "Rome Thorstenson",
-        "Abinaya Dinesh"
+        "Amirhossein Abaskohi",
+        "Giuseppe Carenini",
+        "Peter West",
+        "Yuhang He"
       ],
       "tags": [
-        "llm"
+        "llm",
+        "inference"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -91,6 +93,26 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "HP accelerates enterprise workflows with OpenAI Frontier",
+      "url": "https://www.artificialintelligence-news.com/news/hp-accelerates-enterprise-workflows-openai-frontier/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-06-29T12:22:45.000Z",
+      "abstract": "HP has scaled its OpenAI Frontier integration across global operations to optimise enterprise workflows and accelerate output. The hardware manufacturer initiated testing of the platform in February 2",
+      "authors": [],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
