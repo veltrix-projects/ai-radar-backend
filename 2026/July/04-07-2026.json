@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-07-07T10:26:05.446Z",
+  "generatedAt": "2026-07-07T12:41:14.977Z",
   "date": "04-07-2026",
-  "count": 6,
+  "count": 5,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2607.04410",
+      "title": "AI Wizards at EXIST 2026: Hierarchical Soft-Label Learning for Multimodal Sexism Identification in Memes",
+      "url": "https://huggingface.co/papers/2607.04410",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-04T20:00:00.000Z",
+      "abstract": "We present the AI Wizards submission to EXIST 2026 for multimodal sexism identification in memes. The task is composed of three, increasingly harder subtasks. We model them hierarchically as condition",
+      "authors": [
+        "Matteo Fasulo",
+        "Antonio Gravina",
+        "Luca Tedeschini",
+        "Luca Babboni"
+      ],
+      "tags": [
+        "multimodal"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2607.04428",
       "title": "dOPSD: On-Policy Self-Distillation for Diffusion Language Models",
@@ -21,59 +48,6 @@
       "tags": [
         "diffusion"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.04425",
-      "title": "UI-MOPD: Multi-Platform On-Policy Distillation for Continual GUI Agent Learning",
-      "url": "https://huggingface.co/papers/2607.04425",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-04T20:00:00.000Z",
-      "abstract": "Recent advances in multimodal foundation models and agent systems have driven GUI agents from single-platform task execution toward cross-platform interaction. However, building multi-platform GUI age",
-      "authors": [
-        "Niu Lian",
-        "Alan Chen",
-        "Zhehao Yu",
-        "Chengzhen Duan",
-        "Fazhan Liu"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.04064",
-      "title": "Speaker-Disentangled Chunk-Wise Regression for Syllabic Tokenization",
-      "url": "https://huggingface.co/papers/2607.04064",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-04T20:00:00.000Z",
-      "abstract": "Unsupervised syllabic tokenization aims to learn discrete syllabic tokens that capture latent linguistic content-related structure from raw speech. Recent syllabic tokenization methods employ teacher-",
-      "authors": [
-        "Ryota Komatsu",
-        "Kota Kawakita",
-        "Takuma Okamoto",
-        "Takahiro Shinozaki"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
