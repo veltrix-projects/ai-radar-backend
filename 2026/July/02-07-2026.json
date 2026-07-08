@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T07:43:14.025Z",
+  "generatedAt": "2026-07-08T10:07:25.456Z",
   "date": "02-07-2026",
   "count": 13,
   "summary": null,
@@ -38,6 +38,30 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.05435",
+      "title": "Bibby AI: An Editor-Native Agentic Platform for Academic Research, Writing, and Publishing",
+      "url": "https://huggingface.co/papers/2607.05435",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-02T20:00:00.000Z",
+      "abstract": "Academic output is produced across a fragmented toolchain: literature discovery in one application, reference management in another, writing in a LaTeX editor, formatting against venue templates by ha",
+      "authors": [
+        "Nilesh Jain"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -180,32 +204,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2607.03451",
-      "title": "SkillOpt-Lite: Better and Faster Agent Self-evolution via One Line of Vibe",
-      "url": "https://huggingface.co/papers/2607.03451",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-02T20:00:00.000Z",
-      "abstract": "While skill optimization for autonomous agents has gained traction, existing methods rely on complex pipelines. This leaves a fundamental question unaddressed: What constitutes a minimal viable pipeli",
-      "authors": [
-        "Yifei Shen",
-        "Bo Li",
-        "Xinjie Zhang"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "gh_701547123",
       "title": "open-webui/open-webui — User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
       "url": "https://github.com/open-webui/open-webui",
@@ -232,7 +230,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 144661,
+      "stars": 144687,
       "votes": 0,
       "points": 0
     },

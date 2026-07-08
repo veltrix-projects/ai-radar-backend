@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-08T07:43:14.026Z",
+  "generatedAt": "2026-07-08T10:07:25.456Z",
   "date": "01-07-2026",
-  "count": 10,
+  "count": 11,
   "summary": null,
   "items": [
     {
@@ -18,6 +18,32 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.02770",
+      "title": "Gemma 4 Technical Report",
+      "url": "https://huggingface.co/papers/2607.02770",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-01T20:00:00.000Z",
+      "abstract": "We introduce Gemma 4, a new generation of open-weight, natively multimodal language models in the Gemma model family. Designed to advance compute efficiency and reasoning, the Gemma 4 model suite feat",
+      "authors": [
+        "Gemma Team",
+        "Sherif El Abd",
+        "Vaibhav Aggarwal",
+        "Robin Algayres",
+        "Alek Andreev"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
