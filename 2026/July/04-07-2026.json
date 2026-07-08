@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-07-08T21:58:31.518Z",
+  "generatedAt": "2026-07-08T23:06:56.488Z",
   "date": "04-07-2026",
-  "count": 4,
+  "count": 5,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2607.04412",
+      "title": "LLM-as-a-Tutor: Policy-Aware Prompt Adaptation for Non-Verifiable RL",
+      "url": "https://huggingface.co/papers/2607.04412",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-04T20:00:00.000Z",
+      "abstract": "Reinforcement learning (RL) for non-verifiable instruction following increasingly relies on LLM judges with prompt-specific rubrics as reward signals. While recent methods adapt these rubrics to the e",
+      "authors": [
+        "Yujin Kim",
+        "Namgyu Ho",
+        "Sangmin Hwang",
+        "Joonkee Kim",
+        "Yongjin Yang"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2607.04540",
       "title": "SceneFrom3D: Geometry-Conditioned Outdoor 3D Scene Generation via View Scheduling with Object-Level Control",
