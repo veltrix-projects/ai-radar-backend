@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-08T11:59:52.930Z",
+  "generatedAt": "2026-07-08T14:22:26.924Z",
   "date": "05-07-2026",
-  "count": 5,
+  "count": 6,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,28 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.05691",
+      "title": "Where to cut, how deep: BPE and Unigram-LM on chemistry SMILES",
+      "url": "https://huggingface.co/papers/2607.05691",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-05T20:00:00.000Z",
+      "abstract": "Every chemical language model reading SMILES begins with a tokenizer, yet the field has inherited byte-pair encoding (BPE) from natural language with little scrutiny. In natural language, BPE's princi",
+      "authors": [
+        "Hunter Heidenreich"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
