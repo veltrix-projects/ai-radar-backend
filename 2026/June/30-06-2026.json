@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-08T05:11:54.377Z",
+  "generatedAt": "2026-07-08T07:43:14.027Z",
   "date": "30-06-2026",
-  "count": 13,
+  "count": 14,
   "summary": null,
   "items": [
     {
@@ -20,6 +20,30 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.00394",
+      "title": "When Classic Cache Policies Fail: Learning-Augmented Replacement for Semantic Retrieval Buffers",
+      "url": "https://huggingface.co/papers/2607.00394",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-30T20:00:00.000Z",
+      "abstract": "LLM agents increasingly rely on retrieval buffers to store and reuse past experience, yet the cache management policies governing these buffers remain largely ad-hoc. We formalize this as an online se",
+      "authors": [
+        "Yushi Sun",
+        "Bowen Cao",
+        "Wai Lam"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
