@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T10:07:25.454Z",
+  "generatedAt": "2026-07-08T11:59:52.930Z",
   "date": "05-07-2026",
   "count": 5,
   "summary": null,
@@ -25,6 +25,34 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2607.05465",
+      "title": "CanvasAgent: Enabling Complex Image Creation and Editing via Visual Tool Orchestration",
+      "url": "https://huggingface.co/papers/2607.05465",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-05T20:00:00.000Z",
+      "abstract": "Complex image creation and editing often require more than a single generation or editing model. A user request may involve synthesizing images, localizing objects, segmenting regions, editing selecte",
+      "authors": [
+        "Hairui Zhu",
+        "Yiying Yang",
+        "Tengjin Weng",
+        "Ziyu Lu",
+        "Xiao Yao"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2607.05147",
       "title": "DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation",
       "url": "https://huggingface.co/papers/2607.05147",
@@ -39,32 +67,6 @@
         "Chenze Shao",
         "Jiashi Li",
         "Yunfan Xiong"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.05339",
-      "title": "TREK: Distill to Explore, Reinforce to Refine",
-      "url": "https://huggingface.co/papers/2607.05339",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-05T20:00:00.000Z",
-      "abstract": "Group Relative Policy Optimization (GRPO) is effective when the current policy already samples useful reasoning trajectories, but it stalls on hard prompts whose correct solution modes lie outside the",
-      "authors": [
-        "Yuanda Xu",
-        "Zhengze Zhou",
-        "Kayhan Behdin",
-        "Jelena Markovic-Voronov",
-        "Hejian Sang"
       ],
       "tags": [],
       "score": 6,
