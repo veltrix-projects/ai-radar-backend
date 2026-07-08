@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T14:22:26.924Z",
+  "generatedAt": "2026-07-08T16:13:25.283Z",
   "date": "05-07-2026",
   "count": 6,
   "summary": null,
@@ -17,6 +17,32 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.04884",
+      "title": "HunyuanOCR-1.5: Making Lightweight OCR VLMs Faster and Better",
+      "url": "https://huggingface.co/papers/2607.04884",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-05T20:00:00.000Z",
+      "abstract": "We present HunyuanOCR-1.5, a lightweight end-to-end OCR-specialized vision-language model. HunyuanOCR unifies document parsing, text spotting, information extraction, text-image translation, and multi",
+      "authors": [
+        "Gengluo Li",
+        "Xingyu Wan",
+        "Shangpin Peng",
+        "Weinong Wang",
+        "Hao Feng"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -65,32 +91,6 @@
       "tags": [
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.05147",
-      "title": "DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation",
-      "url": "https://huggingface.co/papers/2607.05147",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-05T20:00:00.000Z",
-      "abstract": "Speculative decoding accelerates Large Language Model (LLM) inference by decoupling draft generation from target verification. While recent parallel drafters efficiently propose long token sequences i",
-      "authors": [
-        "Xin Cheng",
-        "Xingkai Yu",
-        "Chenze Shao",
-        "Jiashi Li",
-        "Yunfan Xiong"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

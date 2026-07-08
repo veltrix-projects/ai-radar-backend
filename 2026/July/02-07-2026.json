@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-08T14:22:26.925Z",
+  "generatedAt": "2026-07-08T16:13:25.285Z",
   "date": "02-07-2026",
-  "count": 13,
+  "count": 10,
   "summary": null,
   "items": [
     {
@@ -124,86 +124,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2607.02980",
-      "title": "Hierarchical Sparse Attention Done Right: Toward Infinite Context Modeling",
-      "url": "https://huggingface.co/papers/2607.02980",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-02T20:00:00.000Z",
-      "abstract": "Scaling modern large language models (LLMs) to long contexts is limited by the quadratic computation cost, and poor length extrapolation of dense attention. Chunk-wise sparse attention offers a promis",
-      "authors": [
-        "Xiang Hu",
-        "Xinyu Wei",
-        "Hao Gu",
-        "Minshen Zhang",
-        "Tian Liang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.03509",
-      "title": "Flex-Forcing: Towards a Unified Autoregressive and Bidirectional Video Diffusion Model",
-      "url": "https://huggingface.co/papers/2607.03509",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-02T20:00:00.000Z",
-      "abstract": "Recent progress in large-scale generative models has substantially advanced video generation, yet existing methods remain constrained by a rigid inference paradigm. Bidirectional diffusion models exce",
-      "authors": [
-        "Xinyin Ma",
-        "Julius Berner",
-        "Chao Liu",
-        "Arash Vahdat",
-        "Weili Nie"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.02963",
-      "title": "Parallelized Autoregressive Decoding for Omni-Modal Dense Video Captioning",
-      "url": "https://huggingface.co/papers/2607.02963",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-02T20:00:00.000Z",
-      "abstract": "Dense video captioning aims to generate temporally grounded descriptions of video events, benefiting both event-level video understanding and generation. In this domain, autoregressive video large lan",
-      "authors": [
-        "Wenzheng Zeng",
-        "Siyi Jiao",
-        "Chen Gao",
-        "Hwee Tou Ng",
-        "Mike Zheng Shou"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "gh_701547123",
       "title": "open-webui/open-webui — User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
       "url": "https://github.com/open-webui/open-webui",
@@ -230,7 +150,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 144709,
+      "stars": 144718,
       "votes": 0,
       "points": 0
     },

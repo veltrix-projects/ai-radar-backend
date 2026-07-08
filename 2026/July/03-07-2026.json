@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-08T14:22:26.925Z",
+  "generatedAt": "2026-07-08T16:13:25.284Z",
   "date": "03-07-2026",
-  "count": 10,
+  "count": 12,
   "summary": null,
   "items": [
     {
@@ -37,6 +37,54 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.03738",
+      "title": "Attending to Multimodal Generation One Token at a Time",
+      "url": "https://huggingface.co/papers/2607.03738",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-03T20:00:00.000Z",
+      "abstract": "Multimodal large language models (MLLMs) generate responses autoregressively, integrating visual and linguistic information in an evolving context. Prior work on interpretability has focused on indivi",
+      "authors": [
+        "Varun Gupta",
+        "Vineet Gandhi",
+        "Makarand Tapaswi"
+      ],
+      "tags": [
+        "multimodal"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.04044",
+      "title": "SiamJEPA: On the Role of Siamese Student Encoders in JEPA",
+      "url": "https://huggingface.co/papers/2607.04044",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-03T20:00:00.000Z",
+      "abstract": "Recently, Joint Embedding Predictive Architectures (JEPAs) have attracted significant attention in the computer vision and machine learning communities as a promising framework for self-supervised rep",
+      "authors": [
+        "Makoto Yamada"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
