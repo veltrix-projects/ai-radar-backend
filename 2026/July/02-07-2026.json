@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-08T01:48:47.072Z",
+  "generatedAt": "2026-07-08T05:11:54.376Z",
   "date": "02-07-2026",
-  "count": 10,
+  "count": 12,
   "summary": null,
   "items": [
     {
@@ -45,22 +45,50 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2607.02904",
-      "title": "Speaker-Aware Temporal Aggregation Strategies on Segment Representations for Depression Detection in Dyadic Interaction: A Benchmark Study",
-      "url": "https://huggingface.co/papers/2607.02904",
+      "id": "hf_paper_2607.03530",
+      "title": "MentalThink: Shaping Thoughts in Mental SVG World",
+      "url": "https://huggingface.co/papers/2607.03530",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-07-02T20:00:00.000Z",
-      "abstract": "Speech-based depression detection compresses features from short audio segments into one speaker-level decision, a step called temporal aggregation rarely studied on its own. Most benchmarks fix a sin",
+      "abstract": "We introduce MentalThink, a visual-symbolic reasoning paradigm that equips Multimodal LLMs (MLLMs) with an executable mechanism for \"mental\" visualization. The core of MentalThink is a think-with-SVG",
+      "authors": [
+        "Kangheng Lin",
+        "Jisheng Yin",
+        "Dingming Li",
+        "En Yu",
+        "Yana Wei"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.02920",
+      "title": "Layer-wise Cross-Lingual Depression Detection from Speech: Analysis with Contrastive Alignment",
+      "url": "https://huggingface.co/papers/2607.02920",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-02T20:00:00.000Z",
+      "abstract": "Significant disparities exist in the diagnosis and clinical presentation of depression across different linguistic populations. Speech-based depression detection performs well monolingually, but cross",
       "authors": [
         "Anisha Pattanayak",
+        "Hanie Kang",
         "Huang-Cheng Chou",
         "Shrikanth Narayanan",
         "Sudarsana Reddy Kadiri"
       ],
       "tags": [
-        "benchmark"
+        "alignment",
+        "speech"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -72,74 +100,102 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2607.03296",
-      "title": "Taste-aware music retrieval from audio embeddings",
-      "url": "https://huggingface.co/papers/2607.03296",
+      "id": "hf_paper_2607.02980",
+      "title": "Hierarchical Sparse Attention Done Right: Toward Infinite Context Modeling",
+      "url": "https://huggingface.co/papers/2607.02980",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-07-02T20:00:00.000Z",
-      "abstract": "Crossmodal correspondences between sound and taste are well established in psychology and neuroscience, but largely absent from content-based multimedia retrieval. We formalise taste-from-audio predic",
+      "abstract": "Scaling modern large language models (LLMs) to long contexts is limited by the quadratic computation cost, and poor length extrapolation of dense attention. Chunk-wise sparse attention offers a promis",
       "authors": [
-        "Matteo Spanio",
-        "Antonio Rodà"
-      ],
-      "tags": [
-        "embeddings"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.02998",
-      "title": "CONFLUX: A Latent Diusion Model for 3D Chest-CT Synthesis with RL Post-Training",
-      "url": "https://huggingface.co/papers/2607.02998",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-02T20:00:00.000Z",
-      "abstract": "Controllable generative models of 3D medical images can synthesize volumes with specified clinical attributes, but this demands samples that are simultaneously high-fidelity, natively 3D, and faithful",
-      "authors": [
-        "Max Van Puyvelde",
-        "Halil Ibrahim Gulluk",
-        "Wim Van Criekinge",
-        "Olivier Gevaert"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.03524",
-      "title": "Perceptual Flow Matching for Few-Step Generative Modeling",
-      "url": "https://huggingface.co/papers/2607.03524",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-02T20:00:00.000Z",
-      "abstract": "We propose Perceptual Flow Matching (PFM), a simple yet effective framework for few-step generation in flow-matching models. Rather than performing velocity regression in the conventional VAE latent s",
-      "authors": [
-        "Chuyang Zhao",
-        "Yifei Song",
-        "Hongfa Wang",
-        "Jianlong Yuan",
-        "Yuan Zhang"
+        "Xiang Hu",
+        "Xinyu Wei",
+        "Hao Gu",
+        "Minshen Zhang",
+        "Tian Liang"
       ],
       "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.03509",
+      "title": "Flex-Forcing: Towards a Unified Autoregressive and Bidirectional Video Diffusion Model",
+      "url": "https://huggingface.co/papers/2607.03509",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-02T20:00:00.000Z",
+      "abstract": "Recent progress in large-scale generative models has substantially advanced video generation, yet existing methods remain constrained by a rigid inference paradigm. Bidirectional diffusion models exce",
+      "authors": [
+        "Xinyin Ma",
+        "Julius Berner",
+        "Chao Liu",
+        "Arash Vahdat",
+        "Weili Nie"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.02963",
+      "title": "Parallelized Autoregressive Decoding for Omni-Modal Dense Video Captioning",
+      "url": "https://huggingface.co/papers/2607.02963",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-02T20:00:00.000Z",
+      "abstract": "Dense video captioning aims to generate temporally grounded descriptions of video events, benefiting both event-level video understanding and generation. In this domain, autoregressive video large lan",
+      "authors": [
+        "Wenzheng Zeng",
+        "Siyi Jiao",
+        "Chen Gao",
+        "Hwee Tou Ng",
+        "Mike Zheng Shou"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.03451",
+      "title": "SkillOpt-Lite: Better and Faster Agent Self-evolution via One Line of Vibe",
+      "url": "https://huggingface.co/papers/2607.03451",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-02T20:00:00.000Z",
+      "abstract": "While skill optimization for autonomous agents has gained traction, existing methods rely on complex pipelines. This leaves a fundamental question unaddressed: What constitutes a minimal viable pipeli",
+      "authors": [
+        "Yifei Shen",
+        "Bo Li",
+        "Xinjie Zhang"
+      ],
+      "tags": [
+        "agent"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -176,7 +232,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 144604,
+      "stars": 144645,
       "votes": 0,
       "points": 0
     },

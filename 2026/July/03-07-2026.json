@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-08T01:48:47.072Z",
+  "generatedAt": "2026-07-08T05:11:54.375Z",
   "date": "03-07-2026",
-  "count": 12,
+  "count": 9,
   "summary": null,
   "items": [
     {
@@ -45,100 +45,21 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2607.03751",
-      "title": "Look Before You Leap: Distilling Tree Search into Action Evaluation for Frozen VLA Models",
-      "url": "https://huggingface.co/papers/2607.03751",
+      "id": "hf_paper_2607.03819",
+      "title": "CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-centric 3D Scene Generation",
+      "url": "https://huggingface.co/papers/2607.03819",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-07-03T20:00:00.000Z",
-      "abstract": "Vision-Language-Action (VLA) models acquire broad embodied capabilities through large-scale pretraining, yet their generalization remains far more fragile than that of LLMs and VLMs. The prevailing re",
+      "abstract": "Challenges remain in ego-centric 3D scene generation due to limited view overlap and the dominant influence of individual perspectives on scene interpretation. These factors hinder the creation of vie",
       "authors": [
-        "Xinyi Xie",
-        "Zican Hu",
-        "Zhanyu Liu",
-        "Yicheng Dong",
-        "Wenhao Wu"
+        "Zhenyu Sun",
+        "Xiaohan Zhang",
+        "Qi Liu",
+        "Huan Wang"
       ],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.03748",
-      "title": "Bridging Interleaved Multi-Modal Reasoning as a Unified Decision Process",
-      "url": "https://huggingface.co/papers/2607.03748",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-03T20:00:00.000Z",
-      "abstract": "Unified multi-modal models (UMMs) have shown promising interleaved text-image reasoning capabilities, yet effectively optimizing such multi-turn generation via reinforcement learning (RL) remains an o",
-      "authors": [
-        "Zican Hu",
-        "Xuyang Hu",
-        "Yiming Liu",
-        "Zuwei Long",
-        "Wei Liu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.03973",
-      "title": "MANCE: Manifold Aware Concept Erasure",
-      "url": "https://huggingface.co/papers/2607.03973",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-03T20:00:00.000Z",
-      "abstract": "Concept erasure aims to remove a target concept from a representation while preserving the other information encoded in it. This is difficult because representations encode many concepts that are ofte",
-      "authors": [
-        "Matan Avitan",
-        "Yoav Goldberg",
-        "Yanai Elazar"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.04033",
-      "title": "OmniOpt: Taxonomy, Geometry, and Benchmarking of Modern Optimizers",
-      "url": "https://huggingface.co/papers/2607.04033",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-03T20:00:00.000Z",
-      "abstract": "Optimizer selection for large-scale model training has become a system-level design decision constrained jointly by compute, memory, tuning budget, and task diversity, yet the landscape of over one hu",
-      "authors": [
-        "Siyuan Li",
-        "Jiabao Pan",
-        "Yumou Liu",
-        "Zhuoli Ouyang",
-        "Xin Jin"
-      ],
-      "tags": [
-        "benchmark"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
