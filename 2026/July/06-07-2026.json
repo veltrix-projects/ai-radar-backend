@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T22:25:50.522Z",
+  "generatedAt": "2026-07-09T23:43:10.701Z",
   "date": "06-07-2026",
   "count": 13,
   "summary": null,
@@ -52,7 +52,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 250806,
+      "stars": 250827,
       "votes": 0,
       "points": 0
     },
@@ -70,6 +70,32 @@
         "llm",
         "training"
       ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.06018",
+      "title": "RoboTALES: Learning Reasoning-Guided Robot Policies via Task-Aligned Simulated Futures",
+      "url": "https://huggingface.co/papers/2607.06018",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-06T20:00:00.000Z",
+      "abstract": "Pretrained video generative models are promising backbones for visuomotor control, but their imagined futures often drift from task intent and are not reliably action-conditional. As a result, these m",
+      "authors": [
+        "Hanan Gani",
+        "Tejal Kulkarni",
+        "Madhoolika Chodavarapu",
+        "Nicklas Hansen",
+        "Manmohan Chandraker"
+      ],
+      "tags": [],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
@@ -298,27 +324,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 156919,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "China&#8217;s AI companion rules: what Beijing is really going after",
-      "url": "https://www.artificialintelligence-news.com/news/china-ai-companion-rules/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-07-06T11:00:00.000Z",
-      "abstract": "An AI companion sounds dystopian, but it has become a common thread in the wider conversation about the perils of generative AI. What it refers to is essentially a conversational agent built to sustai",
-      "authors": [],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
+      "stars": 156920,
       "votes": 0,
       "points": 0
     }
