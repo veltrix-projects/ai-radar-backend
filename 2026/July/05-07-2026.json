@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T05:29:00.933Z",
+  "generatedAt": "2026-07-09T11:50:24.255Z",
   "date": "05-07-2026",
   "count": 6,
   "summary": null,
@@ -17,6 +17,34 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.04939",
+      "title": "Teaching LLMs a Low-Resource Language: Enhancing Code Completion in Pharo",
+      "url": "https://huggingface.co/papers/2607.04939",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-05T20:00:00.000Z",
+      "abstract": "Large Language Models (LLMs) unlocked new possibilities in automated code writing, becoming the backbone of most code completion tools. While LLMs excel in mainstream languages, they often lack suppor",
+      "authors": [
+        "Kilian Kier",
+        "Alessandro Giagnorio",
+        "Omar AbedelKader",
+        "Oleksandr Zaitsev",
+        "Robert Peharz"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -63,34 +91,6 @@
         "Hunter Heidenreich"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.05465",
-      "title": "CanvasAgent: Enabling Complex Image Creation and Editing via Visual Tool Orchestration",
-      "url": "https://huggingface.co/papers/2607.05465",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-05T20:00:00.000Z",
-      "abstract": "Complex image creation and editing often require more than a single generation or editing model. A user request may involve synthesizing images, localizing objects, segmenting regions, editing selecte",
-      "authors": [
-        "Hairui Zhu",
-        "Yiying Yang",
-        "Tengjin Weng",
-        "Ziyu Lu",
-        "Xiao Yao"
-      ],
-      "tags": [
-        "agent"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-09T05:29:00.933Z",
+  "generatedAt": "2026-07-09T11:50:24.254Z",
   "date": "06-07-2026",
-  "count": 16,
+  "count": 14,
   "summary": null,
   "items": [
     {
@@ -52,7 +52,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 249831,
+      "stars": 250300,
       "votes": 0,
       "points": 0
     },
@@ -80,101 +80,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2607.06065",
-      "title": "SWE-Review: Closing the Loop on Issue Resolution with Agentic Code Review",
-      "url": "https://huggingface.co/papers/2607.06065",
+      "id": "hf_paper_2607.04434",
+      "title": "RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies",
+      "url": "https://huggingface.co/papers/2607.04434",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-07-06T20:00:00.000Z",
-      "abstract": "Coding agents increasingly generate pull requests (PRs) for real-world software issues, yet one-shot PR generation remains open-loop: the PR is proposed without systematic review, diagnosis, or revisi",
+      "abstract": "Generalist robot manipulation policies have advanced rapidly, yet existing benchmarks remain limited in systematically evaluating their capabilities. Many rely on simple, short-horizon, or skill-narro",
       "authors": [
-        "Ruoyu Wang",
-        "Jierun Chen",
-        "Shaowei Wang",
-        "Chaofan Tao",
-        "Sidi Yang"
+        "Tianxing Chen",
+        "Yue Chen",
+        "Zixuan Li",
+        "Junyuan Tang",
+        "Kailun Su"
       ],
       "tags": [
-        "agent"
+        "benchmark"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.06403",
-      "title": "From Foundation to Application: Improving VLA Models in Practice",
-      "url": "https://huggingface.co/papers/2607.06403",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-06T20:00:00.000Z",
-      "abstract": "Despite recent progress of VLA foundation models, the disparity between laboratory conditions and real-world applications continues to impede their practical implementation. To bridge this gap, we pre",
-      "authors": [
-        "Wei Wu",
-        "Fangjing Wang",
-        "Fan Lu",
-        "He Sun",
-        "Shi Liu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.05765",
-      "title": "Image2Sim: Scaling Embodied Navigation via Generative Neural Simulator",
-      "url": "https://huggingface.co/papers/2607.05765",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-06T20:00:00.000Z",
-      "abstract": "Embodied navigation aims to build agents that interpret multimodal goals, reason in 3D space, and reach target destinations reliably in the real world. However, progress remains constrained by the lac",
-      "authors": [
-        "Zihan Wang",
-        "Seungjun Lee",
-        "Yinghao Xu",
-        "Gim Hee Lee"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.05992",
-      "title": "PluraMath: Extending Mathematical Reasoning Evaluation Beyond High-Resource Languages",
-      "url": "https://huggingface.co/papers/2607.05992",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-06T20:00:00.000Z",
-      "abstract": "Mathematical reasoning has become a central task for evaluating and tuning reasoning Large Language Models (LLMs), yet existing benchmarks remain heavily biased toward high-resource languages, with En",
-      "authors": [
-        "Daryna Dementieva",
-        "Nikolay Babakov",
-        "Kathy Hämmerl",
-        "Ilseyar Alimova",
-        "Jindřich Libovický"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -201,6 +124,34 @@
         "Ziyu Chen"
       ],
       "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.06065",
+      "title": "SWE-Review: Closing the Loop on Issue Resolution with Agentic Code Review",
+      "url": "https://huggingface.co/papers/2607.06065",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-06T20:00:00.000Z",
+      "abstract": "Coding agents increasingly generate pull requests (PRs) for real-world software issues, yet one-shot PR generation remains open-loop: the PR is proposed without systematic review, diagnosis, or revisi",
+      "authors": [
+        "Ruoyu Wang",
+        "Jierun Chen",
+        "Shaowei Wang",
+        "Chaofan Tao",
+        "Sidi Yang"
+      ],
+      "tags": [
+        "agent"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -317,7 +268,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 156894,
+      "stars": 156910,
       "votes": 0,
       "points": 0
     },
