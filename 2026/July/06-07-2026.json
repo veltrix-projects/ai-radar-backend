@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-09T01:07:17.434Z",
+  "generatedAt": "2026-07-09T05:29:00.933Z",
   "date": "06-07-2026",
-  "count": 15,
+  "count": 16,
   "summary": null,
   "items": [
     {
@@ -52,7 +52,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 249788,
+      "stars": 249831,
       "votes": 0,
       "points": 0
     },
@@ -185,25 +185,22 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2607.05804",
-      "title": "TurnOPD: Making On-Policy Distillation Turn-Aware for Efficient Long-Horizon Agent Training",
-      "url": "https://huggingface.co/papers/2607.05804",
+      "id": "hf_paper_2607.06838",
+      "title": "WildCity: A Real-World City-Scale Testbed for Rendering, Simulation, and Spatial Intelligence",
+      "url": "https://huggingface.co/papers/2607.06838",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-07-06T20:00:00.000Z",
-      "abstract": "On-policy distillation (OPD) trains a student policy by matching a stronger teacher on the student's own trajectories, offering a promising framework for language agent training. However, its applicat",
+      "abstract": "Humans can navigate an unfamiliar city and gradually form a coherent spatial mental map spanning tens of square kilometers. Can AI build spatial representations at a comparable scale? Although recent",
       "authors": [
-        "Yuhang Zhou",
-        "Kai Zheng",
-        "Haoling Li",
-        "Dengyun Peng",
-        "Can Xu"
+        "Xiangyu Han",
+        "Mengyu Yang",
+        "Jiaqi Li",
+        "Bowen Chang",
+        "Ziyu Chen"
       ],
-      "tags": [
-        "agent",
-        "training"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -337,6 +334,26 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "China&#8217;s AI companion rules: what Beijing is really going after",
+      "url": "https://www.artificialintelligence-news.com/news/china-ai-companion-rules/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-07-06T11:00:00.000Z",
+      "abstract": "An AI companion sounds dystopian, but it has become a common thread in the wider conversation about the perils of generative AI. What it refers to is essentially a conversational agent built to sustai",
+      "authors": [],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
