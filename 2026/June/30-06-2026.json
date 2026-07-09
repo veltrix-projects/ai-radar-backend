@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-09T11:50:24.537Z",
+  "generatedAt": "2026-07-09T14:33:20.846Z",
   "date": "30-06-2026",
-  "count": 12,
+  "count": 13,
   "summary": null,
   "items": [
     {
@@ -16,6 +16,34 @@
       "authors": [],
       "tags": [
         "claude"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.00302",
+      "title": "Wake up for Touch! Mask-isolated Tactile Alignment Learning in MLLMs",
+      "url": "https://huggingface.co/papers/2607.00302",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-06-30T20:00:00.000Z",
+      "abstract": "Touch supplies the physical grounding needed to perceive intrinsic material properties, such as friction and compliance, that vision alone often cannot resolve. Recent efforts for equipping multimodal",
+      "authors": [
+        "Yoonhyung Park",
+        "Minji Kim",
+        "Sungwon Moon",
+        "Jiyoung Lee"
+      ],
+      "tags": [
+        "llm",
+        "alignment"
       ],
       "score": 8,
       "priority": "HIGH",
@@ -197,9 +225,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fintro",
-      "title": "Introducing GeneBench-Pro",
-      "url": "https://openai.com/index/introducing-genebench-pro",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fcore-",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
@@ -237,9 +265,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fcore-",
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fintro",
+      "title": "Introducing GeneBench-Pro",
+      "url": "https://openai.com/index/introducing-genebench-pro",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",

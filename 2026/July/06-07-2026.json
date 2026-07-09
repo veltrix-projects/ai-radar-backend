@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T11:50:24.254Z",
+  "generatedAt": "2026-07-09T14:33:20.843Z",
   "date": "06-07-2026",
   "count": 14,
   "summary": null,
@@ -52,7 +52,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 250300,
+      "stars": 250557,
       "votes": 0,
       "points": 0
     },
@@ -70,6 +70,32 @@
         "llm",
         "training"
       ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.05966",
+      "title": "Imagined Rollouts are Kinematic, Not Dynamic: A Diagnosis of Long-Horizon World-Model Failure",
+      "url": "https://huggingface.co/papers/2607.05966",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-06T20:00:00.000Z",
+      "abstract": "Long-horizon failure in world models is conventionally attributed to compounding error, a generic framing that does not distinguish what kind of error compounds. We propose a kinematic-vs-dynamic refr",
+      "authors": [
+        "Finn Rasmus Schäfer",
+        "Korbinian Moller",
+        "Yuan Gao",
+        "Christian Oefinger",
+        "Sebastian Schmidt"
+      ],
+      "tags": [],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
@@ -124,34 +150,6 @@
         "Ziyu Chen"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.06065",
-      "title": "SWE-Review: Closing the Loop on Issue Resolution with Agentic Code Review",
-      "url": "https://huggingface.co/papers/2607.06065",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-06T20:00:00.000Z",
-      "abstract": "Coding agents increasingly generate pull requests (PRs) for real-world software issues, yet one-shot PR generation remains open-loop: the PR is proposed without systematic review, diagnosis, or revisi",
-      "authors": [
-        "Ruoyu Wang",
-        "Jierun Chen",
-        "Shaowei Wang",
-        "Chaofan Tao",
-        "Sidi Yang"
-      ],
-      "tags": [
-        "agent"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -268,7 +266,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 156910,
+      "stars": 156913,
       "votes": 0,
       "points": 0
     },

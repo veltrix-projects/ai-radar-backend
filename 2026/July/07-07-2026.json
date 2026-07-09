@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-09T11:50:24.253Z",
+  "generatedAt": "2026-07-09T14:33:20.843Z",
   "date": "07-07-2026",
-  "count": 22,
+  "count": 24,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,60 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.07508",
+      "title": "Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2607.07508",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-07T20:00:00.000Z",
+      "abstract": "Reinforcement learning (RL) is becoming increasingly important for post-training large language models (LLMs). Previous RL pipelines for LLMs were mostly synchronous and batch-interleaved, which is in",
+      "authors": [
+        "Zhenyu Hou",
+        "Yujiang Li",
+        "Jie Tang",
+        "Yuxiao Dong"
+      ],
+      "tags": [
+        "agent",
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.07386",
+      "title": "Sparse Delta Memory: Scaling the State of Linear RNNs through Sparsity",
+      "url": "https://huggingface.co/papers/2607.07386",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-07T20:00:00.000Z",
+      "abstract": "Linear attention models allow a fixed state size and a fixed amount of compute per token. However, due to their limited state size, linear attention models fall behind in long-context recall compared",
+      "authors": [
+        "Loïc Cabannes",
+        "Pierre-Emmanuel Mazaré",
+        "Gergely Szilvasy",
+        "Matthijs Douze",
+        "Maria Lomeli"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
