@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-10T01:59:56.069Z",
+  "generatedAt": "2026-07-10T06:07:44.518Z",
   "date": "06-07-2026",
-  "count": 13,
+  "count": 11,
   "summary": null,
   "items": [
     {
@@ -52,7 +52,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 250860,
+      "stars": 251041,
       "votes": 0,
       "points": 0
     },
@@ -70,6 +70,32 @@
         "llm",
         "training"
       ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.06238",
+      "title": "PhyMRI-SR: Toward Physics-Aware MRI Image Super-Resolution",
+      "url": "https://huggingface.co/papers/2607.06238",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-06T20:00:00.000Z",
+      "abstract": "Magnetic resonance imaging (MRI) super-resolution is vital for improving diagnostic accessibility, yet most methods treat it as a deterministic mapping from a fixed low-resolution input to a high-reso",
+      "authors": [
+        "Lihua Wei",
+        "Huatong Gao",
+        "Jia Gong",
+        "Zhiyu Tan",
+        "Hao Li"
+      ],
+      "tags": [],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
@@ -148,86 +174,6 @@
       "tags": [
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.05966",
-      "title": "Imagined Rollouts are Kinematic, Not Dynamic: A Diagnosis of Long-Horizon World-Model Failure",
-      "url": "https://huggingface.co/papers/2607.05966",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-06T20:00:00.000Z",
-      "abstract": "Long-horizon failure in world models is conventionally attributed to compounding error, a generic framing that does not distinguish what kind of error compounds. We propose a kinematic-vs-dynamic refr",
-      "authors": [
-        "Finn Rasmus Schäfer",
-        "Korbinian Moller",
-        "Yuan Gao",
-        "Christian Oefinger",
-        "Sebastian Schmidt"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.04434",
-      "title": "RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies",
-      "url": "https://huggingface.co/papers/2607.04434",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-06T20:00:00.000Z",
-      "abstract": "Generalist robot manipulation policies have advanced rapidly, yet existing benchmarks remain limited in systematically evaluating their capabilities. Many rely on simple, short-horizon, or skill-narro",
-      "authors": [
-        "Tianxing Chen",
-        "Yue Chen",
-        "Zixuan Li",
-        "Junyuan Tang",
-        "Kailun Su"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.06838",
-      "title": "WildCity: A Real-World City-Scale Testbed for Rendering, Simulation, and Spatial Intelligence",
-      "url": "https://huggingface.co/papers/2607.06838",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-06T20:00:00.000Z",
-      "abstract": "Humans can navigate an unfamiliar city and gradually form a coherent spatial mental map spanning tens of square kilometers. Can AI build spatial representations at a comparable scale? Although recent",
-      "authors": [
-        "Xiangyu Han",
-        "Mengyu Yang",
-        "Jiaqi Li",
-        "Bowen Chang",
-        "Ziyu Chen"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -324,7 +270,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 156921,
+      "stars": 156923,
       "votes": 0,
       "points": 0
     }
