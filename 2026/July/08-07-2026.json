@@ -1,9 +1,65 @@
 {
-  "generatedAt": "2026-07-13T04:30:00.506Z",
+  "generatedAt": "2026-07-13T07:48:10.144Z",
   "date": "08-07-2026",
-  "count": 20,
+  "count": 19,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2607.08964",
+      "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
+      "url": "https://huggingface.co/papers/2607.08964",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-08T20:00:00.000Z",
+      "abstract": "AI agents have become capable of autonomously completing short, well-specified tasks. However, existing terminal benchmarks largely focus on simple problems that finish within minutes and are evaluate",
+      "authors": [
+        "Zongxia Li",
+        "Zhongzhi Li",
+        "Yucheng Shi",
+        "Ruhan Wang",
+        "Junyao Yang"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.06553",
+      "title": "From RGB Generation to Dense Field Readout: Pixel-Space Dense Prediction with Text-to-Image Models",
+      "url": "https://huggingface.co/papers/2607.06553",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-08T20:00:00.000Z",
+      "abstract": "Large-scale text-to-image models are attractive backbones for dense prediction because RGB generation pretraining learns rich semantic, structural, and geometric priors. Existing generative and editin",
+      "authors": [
+        "Zanyi Wang",
+        "Xin Lin",
+        "Haodong Li",
+        "Dengyang Jiang",
+        "Yijiang Li"
+      ],
+      "tags": [
+        "text-to-image"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2607.08716",
       "title": "Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents",
@@ -152,89 +208,6 @@
         "Antonio Rodà"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.08768",
-      "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
-      "url": "https://huggingface.co/papers/2607.08768",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-08T20:00:00.000Z",
-      "abstract": "The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-wo",
-      "authors": [
-        "Zhekai Chen",
-        "Chengqi Duan",
-        "Kaiyue Sun",
-        "Bohao Li",
-        "Yuqing Wang"
-      ],
-      "tags": [
-        "agent",
-        "benchmark"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.08093",
-      "title": "CausalDS: Benchmarking Causal Reasoning in Data-Science Agents",
-      "url": "https://huggingface.co/papers/2607.08093",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-08T20:00:00.000Z",
-      "abstract": "Large language models (LLMs) increasingly act as integrated data-science agents, combining abstract reasoning with advanced tool use. Yet the relevant benchmark landscape largely divides into symbolic",
-      "authors": [
-        "Andrej Leban",
-        "Yuekai Sun"
-      ],
-      "tags": [
-        "agent",
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.08741",
-      "title": "ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation",
-      "url": "https://huggingface.co/papers/2607.08741",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-08T20:00:00.000Z",
-      "abstract": "Generating realistic 3D human motions in real-time within interactive applications is key for animation, simulation, and humanoid robotics. While recent offline motion generation approaches offer prec",
-      "authors": [
-        "Kaifeng Zhao",
-        "Mathis Petrovich",
-        "Haotian Zhang",
-        "Tingwu Wang",
-        "Siyu Tang"
-      ],
-      "tags": [
-        "diffusion"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
