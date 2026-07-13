@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-07-13T07:48:10.145Z",
+  "generatedAt": "2026-07-13T10:49:55.414Z",
   "date": "07-07-2026",
-  "count": 6,
+  "count": 7,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2607.07964",
+      "title": "KronQ: LLM Quantization via Kronecker-Factored Hessian",
+      "url": "https://huggingface.co/papers/2607.07964",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-07T20:00:00.000Z",
+      "abstract": "Post-training quantization (PTQ) is a widely adopted technique for compressing large language models (LLMs) without retraining. Existing second-order PTQ methods, including GPTQ, construct quantizatio",
+      "authors": [
+        "Donghyun Lee",
+        "Yuhang Li",
+        "Ruokai Yin",
+        "Priyadarshini Panda"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2607.07816",
       "title": "A Sparse and Truncated State Vector Simulator for Peaked Circuits",
