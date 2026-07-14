@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-14T01:29:08.287Z",
+  "generatedAt": "2026-07-14T04:27:11.638Z",
   "date": "09-07-2026",
-  "count": 29,
+  "count": 27,
   "summary": null,
   "items": [
     {
@@ -161,6 +161,32 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2607.09125",
+      "title": "4D Human-Scene Reconstruction from Low-Overlap Captures",
+      "url": "https://huggingface.co/papers/2607.09125",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-09T20:00:00.000Z",
+      "abstract": "Existing volumetric capture of dynamic human performance achieves high fidelity with dense camera arrays. However, in real-world scenarios, only a handful of low-overlap cameras are available, which d",
+      "authors": [
+        "Minhyuk Hwang",
+        "Sangmin Kim",
+        "Seunguk Do",
+        "Daneul Kim",
+        "Jaesik Park"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2607.09020",
       "title": "Phone Segmentation and Recognition through Phonological Activation Mapping",
       "url": "https://huggingface.co/papers/2607.09020",
@@ -230,86 +256,6 @@
       ],
       "tags": [
         "llm",
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.09024",
-      "title": "Video Generation Models are General-Purpose Vision Learners",
-      "url": "https://huggingface.co/papers/2607.09024",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-09T20:00:00.000Z",
-      "abstract": "Driven by next-token prediction, NLP shifted from task-specific models into powerful generalist foundation models. What, then, is the equivalent catalyst needed to achieve a general-purpose model in c",
-      "authors": [
-        "Letian Wang",
-        "Chuhan Zhang",
-        "Rishabh Kabra",
-        "Jasper Uijlings",
-        "Steven Waslander"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.09424",
-      "title": "A Sovereign, Open-Source Foundation Model for German and English",
-      "url": "https://huggingface.co/papers/2607.09424",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-09T20:00:00.000Z",
-      "abstract": "We present Soofi S 30B-A3B, a sovereign, open-source Mixture-of-Experts (MoE) hybrid Mamba Transformer foundation model for German and English. Its hybrid design activates only 3B of 30B parameters pe",
-      "authors": [
-        "The Soofi-Team",
-        "Benedikt Droste",
-        "David Fitzek",
-        "Ruben Härle",
-        "Lukas Helff"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.09657",
-      "title": "Scalable Visual Pretraining for Language Intelligence",
-      "url": "https://huggingface.co/papers/2607.09657",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-09T20:00:00.000Z",
-      "abstract": "The rapid progress of large foundation models has been driven predominantly by pretraining on large-scale text corpora. However, many forms of knowledge are conveyed through visual representations, wh",
-      "authors": [
-        "Yiming Zhang",
-        "Zhonghan Zhao",
-        "Wenwei Zhang",
-        "Haiteng Zhao",
-        "Tianyang Lin"
-      ],
-      "tags": [
         "training"
       ],
       "score": 6,

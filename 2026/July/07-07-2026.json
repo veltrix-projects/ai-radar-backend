@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-07-14T01:29:08.288Z",
+  "generatedAt": "2026-07-14T04:27:11.639Z",
   "date": "07-07-2026",
-  "count": 9,
+  "count": 8,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2607.05394",
+      "title": "Weak-to-Strong Generalization via Direct On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2607.05394",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-07T20:00:00.000Z",
+      "abstract": "Reinforcement learning with verifiable rewards (RLVR) is a powerful recipe for improving language-model reasoning, but it is expensive to repeat on every new strong model because the target model must",
+      "authors": [
+        "Shiyuan Feng",
+        "Huan-ang Gao",
+        "Haohan Chi",
+        "Hanlin Wu",
+        "Zhilong Zhang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2607.07673",
       "title": "MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models",
@@ -77,54 +103,6 @@
       "tags": [
         "llm"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.07816",
-      "title": "A Sparse and Truncated State Vector Simulator for Peaked Circuits",
-      "url": "https://huggingface.co/papers/2607.07816",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-07T20:00:00.000Z",
-      "abstract": "In a class of quantum circuits known as peaked circuits, the goal is to predict the most probable bit string at the output of the circuit. Since these circuits are designed to have a sharp peak in the",
-      "authors": [
-        "Diogo R. Ferreira"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.07953",
-      "title": "Linear Attention Architectures: Mechanisms, Trade-offs, and Cross-Layer Routing",
-      "url": "https://huggingface.co/papers/2607.07953",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-07T20:00:00.000Z",
-      "abstract": "Self-attention lets each token retrieve information from the full context, but its quadratic cost in sequence length limits training and inference at long context. This paper presents a comparative st",
-      "authors": [
-        "Tommaso Cerruti",
-        "Tim Rieder",
-        "George Rowlands",
-        "Lingfeng Jin",
-        "Imanol Schlag"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
