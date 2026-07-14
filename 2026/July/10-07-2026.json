@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-14T04:27:11.636Z",
+  "generatedAt": "2026-07-14T06:33:38.097Z",
   "date": "10-07-2026",
-  "count": 20,
+  "count": 21,
   "summary": null,
   "items": [
     {
@@ -38,34 +38,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.10350",
-      "title": "ABot-AgentOS: A General Robotic Agent OS with Lifelong Multi-modal Memory",
-      "url": "https://huggingface.co/papers/2607.10350",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-10T20:00:00.000Z",
-      "abstract": "Recent VLM and VLA systems have improved robotic perception and action prediction, yet long-horizon embodied agents still require a general runtime layer for reasoning, memory, tool use, verification,",
-      "authors": [
-        "Jiayi Tian",
-        "Shiao Liu",
-        "Yuting Xu",
-        "Jia Lu",
-        "Zihao Guan"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -364,6 +336,31 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2607.09362",
+      "title": "CtrlVTON: Controllable Virtual Try-On via Visual-Instance-Prompt Segmentation",
+      "url": "https://huggingface.co/papers/2607.09362",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-10T08:40:06.000Z",
+      "abstract": "Virtual try-on (VTO) has made significant progress in realistically transferring garments onto a target person. Yet most systems give the user little control over how a garment should be worn -- its s",
+      "authors": [
+        "Seungyong Lee",
+        "Hyun Jun Jang",
+        "Sangoh Kim",
+        "Sungjoon Park"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fdeuts",
       "title": "How Deutsche Telekom is rewiring telecommunications with AI",
       "url": "https://openai.com/index/deutsche-telekom",
@@ -393,6 +390,32 @@
       "timestamp": "2026-07-10T02:38:00.000Z",
       "abstract": "AI creative workflows are reshaping how teams create, moving beyond content generation to editable, collaborative experiences that boost productivity. At the same time, enterprises are demanding trust",
       "authors": [],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.09125",
+      "title": "4D Human-Scene Reconstruction from Low-Overlap Captures",
+      "url": "https://huggingface.co/papers/2607.09125",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-10T02:30:45.000Z",
+      "abstract": "Existing volumetric capture of dynamic human performance achieves high fidelity with dense camera arrays. However, in real-world scenarios, only a handful of low-overlap cameras are available, which d",
+      "authors": [
+        "Minhyuk Hwang",
+        "Sangmin Kim",
+        "Seunguk Do",
+        "Daneul Kim",
+        "Jaesik Park"
+      ],
       "tags": [],
       "score": 6,
       "priority": "MEDIUM",
