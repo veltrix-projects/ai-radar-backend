@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-07-15T17:17:16.694Z",
+  "generatedAt": "2026-07-15T18:35:38.655Z",
   "date": "08-07-2026",
-  "count": 4,
+  "count": 5,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2607.08046",
+      "title": "What LLM Forecasters Know but Don't Say: Probing Internal Representations for Calibration and Faithfulness",
+      "url": "https://huggingface.co/papers/2607.08046",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-08T20:00:00.000Z",
+      "abstract": "Large language models fine-tuned for forecasting can be accurate yet poorly calibrated, and their chain-of-thought (CoT) reasoning may not faithfully reflect the evidence behind a forecast. We ask whe",
+      "authors": [
+        "Raphaël Sarfati",
+        "Pratyush Ranjan Tiwari",
+        "Siddharth Boppana",
+        "Christopher J. Earls",
+        "Srikar Varadaraj"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2607.05382",
       "title": "Search Beyond What Can Be Taught: Evolving the Knowledge Boundary in Agentic Visual Generation",
