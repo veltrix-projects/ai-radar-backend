@@ -1,9 +1,64 @@
 {
-  "generatedAt": "2026-07-14T23:25:14.183Z",
+  "generatedAt": "2026-07-15T03:42:45.909Z",
   "date": "12-07-2026",
-  "count": 4,
+  "count": 6,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2607.11886",
+      "title": "Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation",
+      "url": "https://huggingface.co/papers/2607.11886",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-12T20:00:00.000Z",
+      "abstract": "In this paper, we propose SpectraReward, a training-free reward function that turns pretrained MLLMs into off-the-shelf reward models for image-generation reinforcement learning. Instead of asking the",
+      "authors": [
+        "Runhui Huang",
+        "Qihui Zhang",
+        "Zhe Liu",
+        "Yu Gao",
+        "Jie Wu"
+      ],
+      "tags": [
+        "llm",
+        "text-to-image"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.11111",
+      "title": "Know Before Fix: QA-Driven Repository Knowledge Acquisition for Software Issue Resolution",
+      "url": "https://huggingface.co/papers/2607.11111",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-12T20:00:00.000Z",
+      "abstract": "LLM-based coding agents have significantly advanced automated software issue resolution, yet they remain highly prone to factual errors caused by insufficient repository understanding. Recent methods",
+      "authors": [
+        "Haotian Lin",
+        "Silin Chen",
+        "Xiaodong Gu",
+        "Yuling Shi",
+        "Chengxi Pan"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "gh_1075372545",
       "title": "msitarzewski/agency-agents — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whi",
@@ -22,7 +77,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 131453,
+      "stars": 131464,
       "votes": 0,
       "points": 0
     },
@@ -53,7 +108,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 141921,
+      "stars": 141924,
       "votes": 0,
       "points": 0
     },
