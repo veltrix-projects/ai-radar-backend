@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-16T15:56:54.941Z",
+  "generatedAt": "2026-07-16T17:09:37.632Z",
   "date": "13-07-2026",
-  "count": 20,
+  "count": 21,
   "summary": null,
   "items": [
     {
@@ -16,6 +16,34 @@
       "authors": [],
       "tags": [
         "gpt"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.12477",
+      "title": "Self in Space: Benchmarking Self-Awareness and Spatial Cognition in UAV Embodied Intelligence",
+      "url": "https://huggingface.co/papers/2607.12477",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-13T20:00:00.000Z",
+      "abstract": "Autonomous UAV systems increasingly rely on multimodal large language models (MLLMs) to operate in complex real-world environments. Such embodied scenarios require not only understanding the surroundi",
+      "authors": [
+        "Zhishan Zou",
+        "Guoyan Sun",
+        "Zhiwei Wei",
+        "Jiancheng Pan",
+        "Yujie Li"
+      ],
+      "tags": [
+        "benchmark"
       ],
       "score": 8,
       "priority": "HIGH",
@@ -332,26 +360,6 @@
       "points": 0
     },
     {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "When your brain works differently, AI isn’t a luxury—it’s accessibility",
-      "url": "https://aws.amazon.com/blogs/machine-learning/when-your-brain-works-differently-ai-isnt-a-luxury-its-accessibility/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-07-13T17:50:16.000Z",
-      "abstract": "In this post, I share how AI serves as an accessibility tool for neurodivergent professionals. The system is built on Amazon Quick on your desktop, an AI-powered desktop and web assistant that compens",
-      "authors": [],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Flapd-reg",
       "title": "LAPD Regularly Pulled Over Innocent People Because License Plate Readers Flagged Their Cars As Stolen",
       "url": "https://www.404media.co/lapd-regularly-pulled-over-innocent-people-because-license-plate-readers-flagged-their-cars-as-stolen/",
@@ -447,6 +455,28 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "AI agent crawlers now need permission. Here&#8217;s how to get it",
+      "url": "https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-07-13T11:00:00.000Z",
+      "abstract": "AI agent crawlers, the bots that fetch pages in real time on behalf of a person waiting for an answer, will be blocked by default on a slice of the web from September 15 onwards. Cloudflare&#160;annou",
+      "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
