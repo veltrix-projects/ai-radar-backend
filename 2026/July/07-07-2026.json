@@ -1,23 +1,27 @@
 {
-  "generatedAt": "2026-07-16T03:55:30.559Z",
+  "generatedAt": "2026-07-16T06:10:20.757Z",
   "date": "07-07-2026",
-  "count": 3,
+  "count": 4,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2607.07769",
-      "title": "Principled Analysis of Deep Reinforcement Learning Evaluation and Design Paradigms",
-      "url": "https://huggingface.co/papers/2607.07769",
+      "id": "hf_paper_2607.07702",
+      "title": "From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization",
+      "url": "https://huggingface.co/papers/2607.07702",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-07-07T20:00:00.000Z",
-      "abstract": "Starting from the utilization of deep neural networks to approximate the state-action value function that led to winning one of the most challenging games, to algorithmic advancements that allowed sol",
+      "abstract": "The optimization of long-horizon agents increasingly relies on reflection-based mechanisms, where a large language model (LLM) acts as an optimizer to diagnose agent failures and improve agent policie",
       "authors": [
-        "Ezgi Korkmaz"
+        "Ying Chang",
+        "Jiahang Xu",
+        "Xuan Feng",
+        "Chenyuan Yang",
+        "Peng Cheng"
       ],
       "tags": [
-        "reinforcement learning"
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -61,6 +65,34 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.05910",
+      "title": "PolicyShiftGuard: Benchmarking and Improving Policy-Adaptive Image Guardrails",
+      "url": "https://huggingface.co/papers/2607.05910",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-07T03:04:28.000Z",
+      "abstract": "Image guardrails are typically trained and evaluated under a fixed safety policy, implicitly treating safety as an intrinsic property of an image. Real deployments are different: the same image may be",
+      "authors": [
+        "Mingyang Song",
+        "Luxin Xu",
+        "Haoyu Sun",
+        "Minzhou Pan",
+        "Yu Cheng"
+      ],
+      "tags": [
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

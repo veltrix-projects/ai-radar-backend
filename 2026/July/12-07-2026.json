@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-07-16T03:55:30.557Z",
+  "generatedAt": "2026-07-16T06:10:20.754Z",
   "date": "12-07-2026",
-  "count": 6,
+  "count": 5,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2607.12000",
+      "title": "MetaView: Monocular Novel View Synthesis with Scale-Aware Implicit Geometry Priors",
+      "url": "https://huggingface.co/papers/2607.12000",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-12T20:00:00.000Z",
+      "abstract": "Current visual generation models are capable of producing high-quality content, yet they lack a coherent perception of the spatial structure. Existing generative novel view synthesis methods typically",
+      "authors": [
+        "Yufei Cai",
+        "Xuesong Niu",
+        "Hao Lu",
+        "Kun Gai",
+        "Kai Wu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2607.11594",
       "title": "MAGIC: Transition-Aware Generation of Navigable Multi-Scene Game Worlds with Large Language Models",
@@ -60,61 +86,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2607.11886",
-      "title": "Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation",
-      "url": "https://huggingface.co/papers/2607.11886",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-12T20:00:00.000Z",
-      "abstract": "In this paper, we propose SpectraReward, a training-free reward function that turns pretrained MLLMs into off-the-shelf reward models for image-generation reinforcement learning. Instead of asking the",
-      "authors": [
-        "Runhui Huang",
-        "Qihui Zhang",
-        "Zhe Liu",
-        "Yu Gao",
-        "Jie Wu"
-      ],
-      "tags": [
-        "llm",
-        "text-to-image"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.11111",
-      "title": "Know Before Fix: QA-Driven Repository Knowledge Acquisition for Software Issue Resolution",
-      "url": "https://huggingface.co/papers/2607.11111",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-12T20:00:00.000Z",
-      "abstract": "LLM-based coding agents have significantly advanced automated software issue resolution, yet they remain highly prone to factual errors caused by insufficient repository understanding. Recent methods",
-      "authors": [
-        "Haotian Lin",
-        "Silin Chen",
-        "Xiaodong Gu",
-        "Yuling Shi",
-        "Chengxi Pan"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "gh_943398999",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools — FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, L",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
@@ -141,7 +112,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 141959,
+      "stars": 141963,
       "votes": 0,
       "points": 0
     },
