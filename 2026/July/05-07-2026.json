@@ -1,25 +1,29 @@
 {
-  "generatedAt": "2026-07-14T04:27:11.640Z",
+  "generatedAt": "2026-07-16T10:49:32.825Z",
   "date": "05-07-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2607.04751",
-      "title": "Trust Region Policy Distillation",
-      "url": "https://huggingface.co/papers/2607.04751",
+      "id": "hf_paper_2605.16147",
+      "title": "Registers Matter for Pixel-Space Diffusion Transformers",
+      "url": "https://huggingface.co/papers/2605.16147",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-07-05T20:00:00.000Z",
-      "abstract": "Big goals are hard to achieve all at once; breaking them into small steps is wiser. We present Trust Region Policy Distillation (TOP-D), which transforms the notoriously unstable, high-variance On-Pol",
+      "abstract": "Vision Transformers (ViTs) are known to exhibit high-norm patch-token outliers that degrade feature map quality, a problem effectively mitigated by register tokens. As diffusion models increasingly ad",
       "authors": [
-        "Zhengpeng Xie",
-        "Li Lyna Zhang",
-        "Zeke Xie",
-        "Mao Yang"
+        "Nikita Starodubcev",
+        "Ilia Sudakov",
+        "Ilya Drobyshevskiy",
+        "Artem Babenko",
+        "Dmitry Baranchuk"
       ],
-      "tags": [],
+      "tags": [
+        "transformer",
+        "diffusion"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
