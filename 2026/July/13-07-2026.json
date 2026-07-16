@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-16T06:10:20.753Z",
+  "generatedAt": "2026-07-16T08:38:18.218Z",
   "date": "13-07-2026",
-  "count": 19,
+  "count": 18,
   "summary": null,
   "items": [
     {
@@ -16,6 +16,34 @@
       "authors": [],
       "tags": [
         "gpt"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.13125",
+      "title": "Boogu-Image-0.1: Boosting Open-Source Unified Multimodal Understanding and Generation",
+      "url": "https://huggingface.co/papers/2607.13125",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-13T20:00:00.000Z",
+      "abstract": "We introduce Boogu-Image-0.1, an open-source unified multimodal understanding and generation model family, comprising Base, Turbo, Edit, and Edit-Turbo variants. It delivers competitive performance in",
+      "authors": [
+        "Guoxuan Chen",
+        "Chufeng Xiao",
+        "Haoran Yang",
+        "Siyue Xie",
+        "Binxiao Huang"
+      ],
+      "tags": [
+        "multimodal"
       ],
       "score": 8,
       "priority": "HIGH",
@@ -184,32 +212,6 @@
         "agent",
         "training"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.12450",
-      "title": "Let RGB Be the Language of Vision",
-      "url": "https://huggingface.co/papers/2607.12450",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-13T20:00:00.000Z",
-      "abstract": "This work introduces a unified formulation for vision models, where diverse forms of visual information beyond natural images, such as masks, depth maps, and other structured visual signals, are all r",
-      "authors": [
-        "Timing Yang",
-        "Jinrui Yang",
-        "Xinlong Li",
-        "Yuhan Wang",
-        "Haoran Li"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -395,32 +397,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.11562",
-      "title": "MonkeyOCRv2: A Visual-Text Foundation Model for Document AI",
-      "url": "https://huggingface.co/papers/2607.11562",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-13T09:43:39.000Z",
-      "abstract": "Mainstream visual encoders are pretrained on natural images and cannot be effectively applied to document images without document-oriented adaptation, as dense text and fine-grained character strokes",
-      "authors": [
-        "Yuliang Liu",
-        "Zhang Li",
-        "Ziyang Zhang",
-        "Shuo Zhang",
-        "Qiang Liu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
