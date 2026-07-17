@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-06-29T19:20:11.004Z",
+  "generatedAt": "2026-07-17T17:00:28.841Z",
   "date": "06-05-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2606.27378",
-      "title": "Formalizing Latent Thoughts: Four Axioms of Thought Representation in LLMs",
-      "url": "https://huggingface.co/papers/2606.27378",
+      "id": "hf_paper_2607.14106",
+      "title": "Token Time Continuous Diffusion for Language Modeling",
+      "url": "https://huggingface.co/papers/2607.14106",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-06T20:00:00.000Z",
-      "abstract": "We introduce an axiomatic evaluation framework for latent thought representations in LLMs, comprising metrics that are independent of downstream benchmark scores and reveal representational failures t",
+      "abstract": "In this paper we introduce token time continuous diffusion (TTCD), a new diffusion language model which (a) operates in continuous space, deterministically mapping Gaussian noise to a final token canv",
       "authors": [
-        "Fahd Seddik",
-        "Fatemeh Fard"
+        "Parikshit Bansal",
+        "Sujay Sanghavi"
       ],
       "tags": [
-        "llm"
+        "diffusion"
       ],
       "score": 6,
       "priority": "MEDIUM",
