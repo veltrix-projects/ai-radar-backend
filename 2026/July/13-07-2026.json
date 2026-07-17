@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-07-17T01:49:56.895Z",
+  "generatedAt": "2026-07-17T04:55:02.155Z",
   "date": "13-07-2026",
-  "count": 17,
+  "count": 10,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2607.13188",
+      "title": "Concurrent Image Understanding and Generation: Self-Correcting Coupled Markov Jump Processes",
+      "url": "https://huggingface.co/papers/2607.13188",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-13T20:00:00.000Z",
+      "abstract": "Human cognition does not separate understanding and generation. A teacher at a whiteboard speaks and draws together, each modality reshapes the other. In this paper, we bring this coupled loop to arti",
+      "authors": [
+        "Minh-Quan Le",
+        "Armand Comas",
+        "Alexandros Lattas",
+        "Stylianos Moschoglou",
+        "Pedro Vélez"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2607.12477",
       "title": "Self in Space: Benchmarking Self-Awareness and Spatial Cognition in UAV Embodied Intelligence",
@@ -48,172 +74,6 @@
         "Abdenour Hadid"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.10834",
-      "title": "From Controlled to the Wild: Evaluation of Pentesting Agents for the Real-World",
-      "url": "https://huggingface.co/papers/2605.10834",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-13T20:00:00.000Z",
-      "abstract": "AI pentesting agents are increasingly credible as offensive security systems, but current benchmarks still provide limited guidance on which will perform best in real-world targets. Existing evaluatio",
-      "authors": [
-        "Pedro Conde",
-        "Henrique Branquinho",
-        "Valerio Mazzone",
-        "Bruno Mendes",
-        "André Baptista"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.13104",
-      "title": "Self-Improvements in Modern Agentic Systems: A Survey",
-      "url": "https://huggingface.co/papers/2607.13104",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-13T20:00:00.000Z",
-      "abstract": "Self-improving autonomous agents are moving from research prototypes to deployed systems. The primary goal is controllable evolution, or adaptation, from experience with minimal or even no human input",
-      "authors": [
-        "Zhe Ren",
-        "Yimeng Chen",
-        "Dandan Guo",
-        "Guowei Rong",
-        "Tonghui Li"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.13027",
-      "title": "PalmClaw: A Native On-Device Agent Framework for Mobile Phones",
-      "url": "https://huggingface.co/papers/2607.13027",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-13T20:00:00.000Z",
-      "abstract": "Large Language Model (LLM) agents have moved beyond generating responses to executing multi-step tasks by calling tools, observing the results, and iteratively deciding the next action. Most agent sys",
-      "authors": [
-        "Hongru Cai",
-        "Yongqi Li",
-        "Ran Wei",
-        "Wenjie Li"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.13125",
-      "title": "Boogu-Image-0.1: Boosting Open-Source Unified Multimodal Understanding and Generation",
-      "url": "https://huggingface.co/papers/2607.13125",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-13T20:00:00.000Z",
-      "abstract": "We introduce Boogu-Image-0.1, an open-source unified multimodal understanding and generation model family, comprising Base, Turbo, Edit, and Edit-Turbo variants. It delivers competitive performance in",
-      "authors": [
-        "Guoxuan Chen",
-        "Chufeng Xiao",
-        "Haoran Yang",
-        "Siyue Xie",
-        "Binxiao Huang"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.12747",
-      "title": "Tracing Agentic Failure from the Flow of Success",
-      "url": "https://huggingface.co/papers/2607.12747",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-13T20:00:00.000Z",
-      "abstract": "Failure attribution for LLM-based agentic systems, i.e., identifying which steps in a failure trajectory caused the task to fail, is critical for debugging and improving these systems. Existing approa",
-      "authors": [
-        "Samuel Yeh",
-        "Yiwen Zhu",
-        "Shaleen Deep",
-        "Sharon Li"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.13124",
-      "title": "ShortOPD: Recovering Pruned LLMs with Short-to-Long On-Policy Distillation",
-      "url": "https://huggingface.co/papers/2607.13124",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-13T20:00:00.000Z",
-      "abstract": "Structured pruning is a hardware-friendly way to compress LLMs, but it is mostly validated on multiple-choice recognition tasks, while the same compressed checkpoints can collapse on the free-form gen",
-      "authors": [
-        "Qingyu Zhang",
-        "Qianhao Yuan",
-        "Hongyu Lin",
-        "Yaojie Lu",
-        "Xianpei Han"
-      ],
-      "tags": [
-        "llm"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -359,54 +219,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "AI agent crawlers now need permission. Here&#8217;s how to get it",
-      "url": "https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-07-13T11:00:00.000Z",
-      "abstract": "AI agent crawlers, the bots that fetch pages in real time on behalf of a person waiting for an answer, will be blocked by default on a slice of the web from September 15 onwards. Cloudflare&#160;annou",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.11523",
-      "title": "Vinci2: Providing Proactive Assistance in Continuous Egocentric Videos",
-      "url": "https://huggingface.co/papers/2607.11523",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-13T09:09:45.000Z",
-      "abstract": "When should an intelligent assistant speak up without being asked? Continuous egocentric video offers rich, evolving context that enables a new form of assistance: one that is proactive rather than me",
-      "authors": [
-        "Gong Sitong",
-        "Tianyu Yan",
-        "Caixin Kang",
-        "Bo Zheng",
-        "Xiang Ruan"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
