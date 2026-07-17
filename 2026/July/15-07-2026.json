@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T12:39:47.588Z",
+  "generatedAt": "2026-07-17T14:24:55.175Z",
   "date": "15-07-2026",
   "count": 41,
   "summary": null,
@@ -42,7 +42,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 132190,
+      "stars": 132209,
       "votes": 0,
       "points": 0
     },
@@ -227,6 +227,34 @@
       "abstract": "Monumental BV, a Dutch startup that operates a fleet of bricklaying robots, has raised $35 million in funding.  Khosla Ventures led the Series B investment. Monumental stated in its funding announceme",
       "authors": [],
       "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.15058",
+      "title": "SUFLECA: Scaling Up Feature Learning for CAD-to-image Alignment",
+      "url": "https://huggingface.co/papers/2607.15058",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-15T20:00:00.000Z",
+      "abstract": "CAD-to-image alignment aims to estimate an object's 9D pose (rotation, translation, and anisotropic scale) from a single RGB image, enabling applications in robotics and augmented reality. Recent zero",
+      "authors": [
+        "Saad Ejaz",
+        "Miguel Fernandez-Cortizas",
+        "Javier Civera",
+        "Holger Voos",
+        "Jose Luis Sanchez-Lopez"
+      ],
+      "tags": [
+        "alignment"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -438,35 +466,6 @@
       ],
       "tags": [
         "rag"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.14777",
-      "title": "SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2607.14777",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-15T20:00:00.000Z",
-      "abstract": "Large language models are increasingly trained as interactive agents for long-horizon tasks involving multi-turn interaction, tool use, and environment feedback. Outcome-based reinforcement learning (",
-      "authors": [
-        "Jinyang Wu",
-        "Shuo Yang",
-        "Zhengxi Lu",
-        "Fan Zhang",
-        "Yuhao Shen"
-      ],
-      "tags": [
-        "agent",
-        "reinforcement learning"
       ],
       "score": 6,
       "priority": "MEDIUM",
