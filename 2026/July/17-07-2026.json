@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-18T16:44:04.902Z",
+  "generatedAt": "2026-07-18T17:47:01.236Z",
   "date": "17-07-2026",
-  "count": 41,
+  "count": 40,
   "summary": null,
   "items": [
     {
@@ -27,18 +27,20 @@
       "points": 0
     },
     {
-      "id": "reddit_MachineLearning_t3_1uzevbg",
-      "title": "Stereo2Spatial: Convert Stereo Music Tracks to Spatialized Binaural Mixes [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uzevbg/stereo2spatial_convert_stereo_music_tracks_to/",
-      "source": "Reddit r/MachineLearning",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-07-17T22:55:00+00:00",
-      "abstract": "",
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Build an Agentic Event Venue Operator with MongoDB Atlas, Voyage, and LangGraph",
+      "url": "https://www.marktechpost.com/2026/07/17/build-an-agentic-event-venue-operator-with-mongodb-atlas-voyage-and-langgraph/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-07-17T22:12:57.000Z",
+      "abstract": "Introduction This tutorial starts where most agent demos stop: giving the agent persistent memory, operational context, and a place to write back what happened. An event operator does not just need an",
       "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -60,6 +62,26 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Zyphra Releases ZUNA1.1: An Apache 2.0 EEG Foundation Model With Variable-Length Inputs From 0.5 To 30 Seconds",
+      "url": "https://www.marktechpost.com/2026/07/17/zyphra-releases-zuna1-1-an-apache-2-0-eeg-foundation-model-with-variable-length-inputs-from-0-5-to-30-seconds/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-07-17T21:35:27.000Z",
+      "abstract": "Zyphra released ZUNA1.1 on July 16, 2026, under the Apache 2.0 license. The 380M masked diffusion autoencoder reconstructs, denoises, and upsamples scalp-EEG across arbitrary channel layouts. It accep",
+      "authors": [],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -112,7 +134,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 230859,
+      "stars": 230870,
       "votes": 0,
       "points": 0
     },
@@ -239,28 +261,6 @@
       "points": 0
     },
     {
-      "id": "reddit_MachineLearning_t3_1uz8w8q",
-      "title": "short-paper at ACL/EMNLP/EACL [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uz8w8q/shortpaper_at_aclemnlpeacl_r/",
-      "source": "Reddit r/MachineLearning",
-      "sourceIcon": "🔴",
-      "type": "research",
-      "timestamp": "2026-07-17T19:02:01+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "nlp"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "ars_technica_https%3A%2F%2Farstechnica.com%2Fhealth%2",
       "title": "Hegseth wants a \"High-T\" military; doctors call it a clinical minefield",
       "url": "https://arstechnica.com/health/2026/07/hegseth-wants-a-high-t-military-doctors-call-it-a-clinical-minefield/",
@@ -323,6 +323,28 @@
       "points": 0
     },
     {
+      "id": "reddit_LocalLLaMA_t3_1uz8596",
+      "title": "A year ago you told me my open-source screen-watching app was flaky. You were right, so I spent the year fixing it with your feedback. Thank you r/LocalLLaMA c: !!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uz8596/a_year_ago_you_told_me_my_opensource/",
+      "source": "Reddit r/LocalLLaMA",
+      "sourceIcon": "🔴",
+      "type": "tool",
+      "timestamp": "2026-07-17T18:34:33+00:00",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "llama"
+      ],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "reddit_LocalLLaMA_t3_1uz8532",
       "title": "Gemma4-31b better than Qwen3.6-27b",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uz8532/gemma431b_better_than_qwen3627b/",
@@ -365,46 +387,6 @@
       "points": 0
     },
     {
-      "id": "reddit_MachineLearning_t3_1uz7hbu",
-      "title": "BMVC rebuttals update [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uz7hbu/bmvc_rebuttals_update_d/",
-      "source": "Reddit r/MachineLearning",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-07-17T18:11:07+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_MachineLearning_t3_1uz75qt",
-      "title": "Prism accidentally leaked [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uz75qt/prism_accidentally_leaked_d/",
-      "source": "Reddit r/MachineLearning",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-07-17T17:59:44+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "techcrunch_ai_https%3A%2F%2Ftechcrunch.com%2Fvideo%2Fh",
       "title": "How Apple&#8217;s big lawsuit could disrupt OpenAI&#8217;s IPO plans",
       "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
@@ -435,29 +417,6 @@
       "abstract": "",
       "authors": [],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1uz5w3y",
-      "title": "DeepSeek v4 Flash on 5090 in llama.cpp with 1 Million context",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uz5w3y/deepseek_v4_flash_on_5090_in_llamacpp_with_1/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "model",
-      "timestamp": "2026-07-17T17:14:30+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "llama",
-        "deepseek"
-      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
@@ -534,29 +493,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 162712,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1uz56hl",
-      "title": "When will we get more small LLMs?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uz56hl/when_will_we_get_more_small_llms/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-07-17T16:49:12+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "llm"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
+      "stars": 162714,
       "votes": 0,
       "points": 0
     },
@@ -681,6 +618,28 @@
       "points": 0
     },
     {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "Bunkerhill raises $55M to scale agentic AI across health systems",
+      "url": "https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-07-17T16:00:30.000Z",
+      "abstract": "Bunkerhill Health has raised $55 million to scale its agentic AI platform, Carebricks. The closing of the company’s Series B round, announced today, folds in continued participation from Sequoia Capit",
+      "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "ars_technica_https%3A%2F%2Farstechnica.com%2Fstaff%2F",
       "title": "Ars is looking for a senior technology reporter, and you might be it!",
       "url": "https://arstechnica.com/staff/2026/07/ars-is-looking-for-a-senior-technology-reporter-and-you-might-be-it/",
@@ -738,7 +697,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 132871,
+      "stars": 132914,
       "votes": 0,
       "points": 0
     },
@@ -845,6 +804,26 @@
       "points": 0
     },
     {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "NVIDIA AI Releases Nemotron 3 Embed: An Open Embedding Collection Whose 8B Checkpoint Ranks #1 on RTEB",
+      "url": "https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-open-embedding-collection-whose-8b-checkpoint-ranks-1-on-rteb/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-07-17T07:53:02.000Z",
+      "abstract": "NVIDIA released Nemotron 3 Embed on July 15 and 16, 2026. The collection has three open checkpoints: Nemotron-3-Embed-8B-BF16, Nemotron-3-Embed-1B-BF16, and Nemotron-3-Embed-1B-NVFP4. The 8B ranks #1",
+      "authors": [],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "gh_1073224795",
       "title": "obra/superpowers — An agentic skills framework & software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
@@ -870,7 +849,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 256962,
+      "stars": 256988,
       "votes": 0,
       "points": 0
     }
