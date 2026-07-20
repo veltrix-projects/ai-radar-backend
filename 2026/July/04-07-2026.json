@@ -1,28 +1,23 @@
 {
-  "generatedAt": "2026-07-13T04:30:00.508Z",
+  "generatedAt": "2026-07-20T20:15:30.404Z",
   "date": "04-07-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2607.04461",
-      "title": "Flash-BoN: Instant Drafts for Inference-Time Scaling in Diffusion Models",
-      "url": "https://huggingface.co/papers/2607.04461",
+      "id": "hf_paper_2607.11915",
+      "title": "Benchmarking Sensor Robustness in Plasma Diagnostic Models: A Systematic Evaluation on TokaMark",
+      "url": "https://huggingface.co/papers/2607.11915",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-07-04T20:00:00.000Z",
-      "abstract": "Inference-time scaling for text-to-image generation has progressed from simple Best-of-N (BoN) sampling to guided search methods that verify and steer candidate trajectories at intermediate denoising",
+      "abstract": "Plasma diagnostic models for tokamak fusion devices are almost universally evaluated on clean, complete sensor data. In practice, fusion diagnostics fail regularly: acquisition systems start late, ind",
       "authors": [
-        "Ruchit Rawal",
-        "Reza Shirkavand",
-        "Sayak Paul",
-        "Yuxin Wen",
-        "Heng Huang"
+        "Neerav Gupta"
       ],
       "tags": [
-        "diffusion",
-        "inference"
+        "benchmark"
       ],
       "score": 6,
       "priority": "MEDIUM",
