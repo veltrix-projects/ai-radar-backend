@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-20T04:38:08.650Z",
+  "generatedAt": "2026-07-20T07:51:47.492Z",
   "date": "15-07-2026",
-  "count": 29,
+  "count": 28,
   "summary": null,
   "items": [
     {
@@ -151,6 +151,85 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2607.15330",
+      "title": "Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories",
+      "url": "https://huggingface.co/papers/2607.15330",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-15T20:00:00.000Z",
+      "abstract": "We present Xiaomi-Robotics-1, a foundational vision-language-action (VLA) model capable of (1) following diverse language instructions to perform a wide range of mobile manipulation tasks in unseen en",
+      "authors": [
+        "Xiaomi Robotics Team",
+        "Jun Guo",
+        "Piaopiao Jin",
+        "Jason Li",
+        "Peiyan Li"
+      ],
+      "tags": [
+        "robotics"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.15161",
+      "title": "On-Policy Delta Distillation",
+      "url": "https://huggingface.co/papers/2607.15161",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-15T20:00:00.000Z",
+      "abstract": "On-policy distillation is an alternative post-training method in reinforcement learning that alleviates the constraints imposed by reward models by providing token-level supervision from a teacher mod",
+      "authors": [
+        "Byeongho Heo",
+        "Jaehui Hwang",
+        "Sangdoo Yun",
+        "Dongyoon Han"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.14530",
+      "title": "xHC: Expanded Hyper-Connections",
+      "url": "https://huggingface.co/papers/2607.14530",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-15T20:00:00.000Z",
+      "abstract": "Hyper-Connections (HC) expand the residual stream of Transformers into N parallel streams, providing a form of memory scaling beyond model width and depth. Manifold-Constrained HC (mHC) stabilizes thi",
+      "authors": [
+        "Xiangdong Zhang",
+        "Xiaohan Qin",
+        "Sunan Zou",
+        "Tuo Dai",
+        "Xiaoming Shi"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2607.15278",
       "title": "Hierarchical Denoising For Multi-Step Visual Reasoning",
       "url": "https://huggingface.co/papers/2607.15278",
@@ -194,113 +273,6 @@
       ],
       "tags": [
         "alignment"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.14952",
-      "title": "LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget",
-      "url": "https://huggingface.co/papers/2607.14952",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-15T20:00:00.000Z",
-      "abstract": "A growing gap separates inference context lengths from RL post-training: inference systems are approaching million-token contexts, while post-training workloads often remain at 256K tokens or below an",
-      "authors": [
-        "Changhai Zhou",
-        "Kieran Liu",
-        "Yuhua Zhou",
-        "Qian Qiao",
-        "Jun Gao"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.14660",
-      "title": "VIABench: A Comprehensive Video Benchmark Collected from Blind Individuals for Visual Impairment Assistance",
-      "url": "https://huggingface.co/papers/2607.14660",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-15T20:00:00.000Z",
-      "abstract": "Visually impaired individuals (VIIs) encounter significant daily challenges due to limited access to visual information. Although Multimodal Large Language Models (MLLMs) have achieved impressive resu",
-      "authors": [
-        "Yunfeng Liu",
-        "Yuandong Yang",
-        "Jiarui Han",
-        "Zhenpeng Huang",
-        "Yuqing Tang"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.15277",
-      "title": "Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models",
-      "url": "https://huggingface.co/papers/2607.15277",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-15T20:00:00.000Z",
-      "abstract": "In-context learning is commonly interpreted as a form of conditional inference, in which the prompt specifies a context and the model's output is treated as an estimate of the corresponding conditiona",
-      "authors": [
-        "Patrik Wolf",
-        "Thomas Kleine Buening",
-        "Andreas Krause",
-        "Celestine Mendler-Dünner"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.14935",
-      "title": "VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding",
-      "url": "https://huggingface.co/papers/2607.14935",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-15T20:00:00.000Z",
-      "abstract": "Recent advances in video understanding have spanned motion, long video, and streaming interaction, driving this field toward real-world applications. Despite this progress, current open-source models",
-      "authors": [
-        "Xinhao Li",
-        "Yuhan Zhu",
-        "Xiangyu Zeng",
-        "Yuhao Dong",
-        "Haoning Wu"
-      ],
-      "tags": [
-        "llm"
       ],
       "score": 6,
       "priority": "MEDIUM",
