@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-20T15:25:07.209Z",
+  "generatedAt": "2026-07-20T16:51:02.062Z",
   "date": "09-07-2026",
-  "count": 2,
+  "count": 4,
   "summary": null,
   "items": [
     {
@@ -20,6 +20,56 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.09082",
+      "title": "REBASE: Reference-Background Subspace Elimination for Training-Free In-Context Segmentation",
+      "url": "https://huggingface.co/papers/2607.09082",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-09T20:00:00.000Z",
+      "abstract": "Training-free in-context segmentation enables new object categories to be introduced at inference time from a single annotated reference image, eliminating the retraining and memory overhead of class-",
+      "authors": [
+        "Mantha Sai Gopal",
+        "Jaison Saji Chacko",
+        "Harsh Nandwana",
+        "Sandesh Hegde",
+        "Debarshi Banerjee"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "AWS GraphRAG deployment cuts drug research cycles by 87%",
+      "url": "https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-07-09T15:43:09.000Z",
+      "abstract": "A recent AWS GraphRAG deployment reduced drug research and development cycles in pharmaceutical environments by 87 percent. This acceleration is achieved by integrating previously separated proprietar",
+      "authors": [],
+      "tags": [
+        "rag"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
