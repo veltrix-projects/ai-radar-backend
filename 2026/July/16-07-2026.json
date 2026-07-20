@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T21:38:17.294Z",
+  "generatedAt": "2026-07-20T22:47:12.319Z",
   "date": "16-07-2026",
   "count": 25,
   "summary": null,
@@ -36,6 +36,32 @@
       "timestamp": "2026-07-16T21:29:14.000Z",
       "abstract": "In this post, we walk through the three pillars that make this possible: simplified setup, smarter retrieval, and production readiness. We also show you code examples for setting up a knowledge base a",
       "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.15263",
+      "title": "Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents",
+      "url": "https://huggingface.co/papers/2607.15263",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-16T20:00:00.000Z",
+      "abstract": "Security-agent evaluations commonly measure peak offensive capability under generous inference budgets, emphasizing vulnerability discovery, exploit development, penetration testing, and CTF completio",
+      "authors": [
+        "Paul Kassianik",
+        "Blaine Nelson",
+        "Yaron Singer"
+      ],
       "tags": [
         "agent"
       ],
@@ -147,32 +173,6 @@
         "Jeffrey Seely",
         "Donghyun Lee",
         "Matei Zaharia"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.16051",
-      "title": "Loop the Loopies!",
-      "url": "https://huggingface.co/papers/2607.16051",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-16T20:00:00.000Z",
-      "abstract": "We present Loopie, the most powerful looped Transformer to date. The Loopie series consists of two Mixture-of-Experts (MoE) models: a 20B-parameter model with 2B active parameters and a 6Bparameter mo",
-      "authors": [
-        "Zitian Gao",
-        "Yilong Chen",
-        "Yihao Xiao",
-        "Xinyu Yang",
-        "Ran Tao"
       ],
       "tags": [],
       "score": 6,
