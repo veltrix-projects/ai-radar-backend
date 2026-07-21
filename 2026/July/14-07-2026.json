@@ -1,24 +1,22 @@
 {
-  "generatedAt": "2026-07-21T01:48:03.397Z",
+  "generatedAt": "2026-07-21T05:11:25.055Z",
   "date": "14-07-2026",
   "count": 9,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2607.14088",
-      "title": "VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders",
-      "url": "https://huggingface.co/papers/2607.14088",
+      "id": "hf_paper_2607.13365",
+      "title": "DiffGI: Differentiable Geometry Images for High-Fidelity Thin-Shell 3D Generation",
+      "url": "https://huggingface.co/papers/2607.13365",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-07-14T20:00:00.000Z",
-      "abstract": "Video generative models commonly rely on latent spaces learned by 3D Variational Autoencoders (3D-VAEs). However, conventional 3D-VAEs are mainly optimized for pixel-level reconstruction, which can li",
+      "abstract": "Existing 3D generative models predominantly rely on implicit volumetric representations, which enforce watertight topology and struggle to represent thin-shell and non-manifold geometries such as garm",
       "authors": [
-        "Zhihao Xie",
-        "Junfeng Wu",
-        "Xinting Hu",
-        "Junchao Huang",
-        "Li Jiang"
+        "Eungjune Shim",
+        "Hansol Lee",
+        "Eunjung Ju"
       ],
       "tags": [],
       "score": 6,
@@ -31,23 +29,19 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2607.15314",
-      "title": "Cura 1T: Specialized Model for Agentic Healthcare",
-      "url": "https://huggingface.co/papers/2607.15314",
+      "id": "hf_paper_2607.13918",
+      "title": "Partially Correlated Verifier Cascades in LLM Harnesses: Concave Log-Odds, Polynomial Reliability, and Blind-Spot Ceilings",
+      "url": "https://huggingface.co/papers/2607.13918",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-07-14T20:00:00.000Z",
-      "abstract": "Healthcare spans high-stakes communication, expert reasoning, and workflow execution, yet specialized LLMs that cover these use cases together remain limited. A healthcare model must handle patient co",
+      "abstract": "Serial verification gates are a core reliability primitive in LLM harnesses: a candidate answer is returned only if k verifier calls all accept it. Under conditionally independent gates, the recent Od",
       "authors": [
-        "actAVA AI",
-        "Haolin Chen",
-        "Leon Qi",
-        "Steve Brown",
-        "Deon Metelski"
+        "Jiangang Han"
       ],
       "tags": [
-        "agent"
+        "llm"
       ],
       "score": 6,
       "priority": "MEDIUM",

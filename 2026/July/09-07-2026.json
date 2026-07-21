@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-21T01:48:03.399Z",
+  "generatedAt": "2026-07-21T05:11:25.097Z",
   "date": "09-07-2026",
-  "count": 4,
+  "count": 5,
   "summary": null,
   "items": [
     {
@@ -20,6 +20,32 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.09655",
+      "title": "OpenLongTail: Generative Scaling of Long-Tail Driving Data",
+      "url": "https://huggingface.co/papers/2607.09655",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-09T20:00:00.000Z",
+      "abstract": "Scaling robust driving policies is fundamentally bottlenecked by the scarcity of edge cases in curated datasets. While the real world continuously captures these critical events, such long-tail events",
+      "authors": [
+        "Lulin Liu",
+        "Nuo Chen",
+        "Yan Wang",
+        "Bangya Liu",
+        "Wenyan Cong"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

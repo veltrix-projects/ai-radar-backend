@@ -1,9 +1,63 @@
 {
-  "generatedAt": "2026-07-21T01:48:03.394Z",
+  "generatedAt": "2026-07-21T05:11:25.054Z",
   "date": "17-07-2026",
-  "count": 25,
+  "count": 14,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2607.16850",
+      "title": "Group Entropy-Controlled Policy Optimization",
+      "url": "https://huggingface.co/papers/2607.16850",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-17T20:00:00.000Z",
+      "abstract": "Entropy control has become an effective tool in reinforcement learning (RL) of large language models (LLMs), helping balance exploration-exploitation trade-off during alignment process. Such RL paradi",
+      "authors": [
+        "Guangran Cheng",
+        "Chengqi Lyu",
+        "Songyang Gao",
+        "Wenwei Zhang",
+        "Kai Chen"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.16900",
+      "title": "Environment-free Synthetic Data Generation for API-Calling Agents",
+      "url": "https://huggingface.co/papers/2607.16900",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-17T20:00:00.000Z",
+      "abstract": "Training API-calling large language model (LLM) agents demands massive amounts of high-quality trajectories. However, collecting such data at scale typically requires fully implemented environments wi",
+      "authors": [
+        "Seanie Lee",
+        "Sanjoy Chowdhury",
+        "Chao Jiang",
+        "Cheng-Yu Hsieh",
+        "Ting-Yao Hu"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Ftech%2F",
       "title": "TikTok is testing an AI likeness detection tool",
@@ -47,214 +101,6 @@
       "points": 0
     },
     {
-      "id": "arxiv_2607.16184v1",
-      "title": "PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization",
-      "url": "https://arxiv.org/abs/2607.16184v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-07-17T17:58:29Z",
-      "abstract": "Mixture-of-Experts (MoE) is a popular class of large language models (LLMs), offering high efficiency and accuracy. However, in KV-cache-intensive serving scenarios, MoEs often exhibit a tension betwe",
-      "authors": [
-        "Yuchen Yang",
-        "Yifan Zhao",
-        "Anisha Dasgupta",
-        "Sasa Misailovic"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2607.16183v1",
-      "title": "A Blueprint for Equilibrium-Based Differentiable Continuous-Variable Thermodynamic Computing",
-      "url": "https://arxiv.org/abs/2607.16183v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-07-17T17:57:49Z",
-      "abstract": "To address the escalating energy and latency demands of machine-learning workloads, we introduce a blueprint for an energy-efficient and fast thermodynamic computing stack that leverages stochastic an",
-      "authors": [
-        "Owen Lockwood",
-        "Jérémy Béjanin",
-        "Joost Bus",
-        "Christopher Chamberland",
-        "Patrick Huembeli"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2607.16178v1",
-      "title": "Cluster-Aware Matching via Laplacian Optimal Transport",
-      "url": "https://arxiv.org/abs/2607.16178v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-07-17T17:56:51Z",
-      "abstract": "In many applications of matching, the point clouds to be matched are not merely unstructured sets of points but rather samples from distributions with an intrinsic cluster structure. In such cases, as",
-      "authors": [
-        "Gabriel Samberg",
-        "YoonHaeng Hur",
-        "Yuehaw Khoo",
-        "Nir Sharon"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2607.16177v1",
-      "title": "Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems",
-      "url": "https://arxiv.org/abs/2607.16177v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-07-17T17:56:05Z",
-      "abstract": "Reinforcement learning (RL) has recently emerged as a promising feedback control strategy for nonlinear and complex dynamical systems. However, RL algorithms are sample inefficient and require a large",
-      "authors": [
-        "Matteo Tomasetto",
-        "Nicolò Botteghi",
-        "Gabriele Bruni",
-        "Andrea Manzoni"
-      ],
-      "tags": [
-        "reinforcement learning"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2607.16175v1",
-      "title": "Evaluating Open-Weight LLMs for Generating Structured Threat Information for Autonomous Vehicle Vulnerabilities",
-      "url": "https://arxiv.org/abs/2607.16175v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-07-17T17:55:19Z",
-      "abstract": "Connected and Autonomous Vehicles (CAVs) rely on interconnected software and hardware components, including sensors, Electronic Control Units, in-vehicle infotainment systems, and telematics units, wh",
-      "authors": [
-        "Md Erfan",
-        "Ahmed Ryan",
-        "Md Kamal Hossain Chowdhury",
-        "Md Rayhanur Rahman"
-      ],
-      "tags": [
-        "llm",
-        "autonomous"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2607.16168v1",
-      "title": "Behaviour-Conditioned Neural Processes for Adaptive Residential Short-Term Load Forecasting",
-      "url": "https://arxiv.org/abs/2607.16168v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-07-17T17:48:22Z",
-      "abstract": "Residential short-term load forecasting (STLF) is challenging because household demand is heterogeneous, temporally variable, and shaped by diverse behavioural routines. This work investigates whether",
-      "authors": [
-        "Ramin Soleimani",
-        "Andrea Visentin",
-        "Dirk Pesch"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2607.16165v1",
-      "title": "An Exam for Active Observers",
-      "url": "https://arxiv.org/abs/2607.16165v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-07-17T17:46:23Z",
-      "abstract": "Human vision is a closed loop: gaze is continuously redirected by intermediate hypotheses rather than a single snapshot. Decades of psychophysics and cognitive science have argued that this active obs",
-      "authors": [
-        "Jiarui Zhang",
-        "Muzi Tao",
-        "Shangshang Wang",
-        "Ollie Liu",
-        "Xuezhe Ma"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2607.12550v2",
-      "title": "A JoLT for the KV Cache: Near-Lossless KV Cache Compression via Joint Tucker and JL-Residual Allocation for LLMs",
-      "url": "https://arxiv.org/abs/2607.12550v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-07-17T17:45:07Z",
-      "abstract": "The key-value (KV) cache has become the dominant memory cost of transformer inference: it grows with batch size, context length, and depth, and at long context it, rather than the model weights, sets",
-      "authors": [
-        "Rahul Krishnan",
-        "Volker Schulz"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fpodcast",
       "title": "Apple’s plot to crush OpenAI",
       "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
@@ -268,137 +114,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2603.03751v2",
-      "title": "Interaction-Aware Whole-Body Control for Compliant Object Transport",
-      "url": "https://arxiv.org/abs/2603.03751v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-07-17T17:40:32Z",
-      "abstract": "Cooperative object transport in unstructured environments remains challenging for assistive humanoids because strong, time-varying interaction forces can make tracking-centric whole-body control unrel",
-      "authors": [
-        "Hao Zhang",
-        "Yves Tseng",
-        "Ding Zhao",
-        "H. Eric Tseng"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2607.04419v4",
-      "title": "Agent Step Value: Auditing Evaluator-Channel Reversals in Black-Box Agent Traces",
-      "url": "https://arxiv.org/abs/2607.04419v4",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-07-17T17:39:00Z",
-      "abstract": "Pooling, substituting, or reusing evaluator-derived step rewards assumes that their direction survives a change of evaluation channel. The same frozen transition can violate that assumption. Process r",
-      "authors": [
-        "Andrew Zhang",
-        "Chengzhan Li"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2607.16156v1",
-      "title": "PRISA: Proactive Infrastructure LiDAR Framework for Intersection Safety Assessment",
-      "url": "https://arxiv.org/abs/2607.16156v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-07-17T17:35:23Z",
-      "abstract": "Urban intersections are among the most hazardous locations in road networks, posing significant risks to vehicles and vulnerable road users (VRUs) such as pedestrians and cyclists. The complexity of m",
-      "authors": [
-        "Tam Bang",
-        "Hussam Abubakr",
-        "Emiliano de la Garza Villarreal",
-        "Truc Phuong Nguyen",
-        "Austin Harris"
-      ],
-      "tags": [
-        "safety"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2607.10350v3",
-      "title": "ABot-AgentOS: A General Robotic Agent OS with Lifelong Multi-modal Memory",
-      "url": "https://arxiv.org/abs/2607.10350v3",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-07-17T17:27:03Z",
-      "abstract": "Recent VLM and VLA systems have improved robotic perception and action prediction, yet long-horizon embodied agents still require a general runtime layer for reasoning, memory, tool use, verification,",
-      "authors": [
-        "Jiayi Tian",
-        "Shiao Liu",
-        "Yuting Xu",
-        "Jia Lu",
-        "Zihao Guan"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2607.16144v1",
-      "title": "Learning Standard Model structure from LHC data with Riemannian flow matching",
-      "url": "https://arxiv.org/abs/2607.16144v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-07-17T17:23:22Z",
-      "abstract": "In this work we demonstrate that a single transformer-based generative model can capture Standard Model structure spanning five decades of invariant mass, from the sub-GeV regime to the TeV continuum,",
-      "authors": [
-        "Midori Kato",
-        "Kevin A. Urquía-Calderón",
-        "Inar Timiryasov",
-        "Oleg Ruchayskiy"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -545,7 +260,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 134710,
+      "stars": 134871,
       "votes": 0,
       "points": 0
     },

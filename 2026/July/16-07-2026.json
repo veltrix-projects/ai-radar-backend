@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-21T01:48:03.396Z",
+  "generatedAt": "2026-07-21T05:11:25.055Z",
   "date": "16-07-2026",
-  "count": 24,
+  "count": 21,
   "summary": null,
   "items": [
     {
@@ -49,6 +49,34 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2607.16074",
+      "title": "JoyNexus: Service-Oriented Multi-Tenant Post-Training for VLA Models",
+      "url": "https://huggingface.co/papers/2607.16074",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-16T20:00:00.000Z",
+      "abstract": "The post-training of Vision-Language-Action (VLA) models is essential due to the diversity of simulators, robot embodiments, and task objectives. Existing compute services, whether offered as direct a",
+      "authors": [
+        "Haoran Sun",
+        "Wentao Zhang",
+        "Junyang Hua",
+        "Hedan Yang",
+        "Yongjian Guo"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2607.15263",
       "title": "Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents",
       "url": "https://huggingface.co/papers/2607.15263",
@@ -65,116 +93,6 @@
       "tags": [
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.16169",
-      "title": "When Does Muon Help Agentic Reinforcement Learning?",
-      "url": "https://huggingface.co/papers/2607.16169",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-16T20:00:00.000Z",
-      "abstract": "Muon is competitive with AdamW in large-scale pre-training, but its value for reinforcement-learning (RL) post-training remains unclear. We study vanilla Muon in sparse-reward agentic RL through match",
-      "authors": [
-        "Kai Ruan",
-        "Jinghao Lin",
-        "Zihe Huang",
-        "Ziqi Zhou",
-        "Qianshan Wei"
-      ],
-      "tags": [
-        "agent",
-        "reinforcement learning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.15686",
-      "title": "S1-Omni: A Unified Multimodal Reasoning Model for Scientific Understanding, Prediction, and Generation",
-      "url": "https://huggingface.co/papers/2607.15686",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-16T20:00:00.000Z",
-      "abstract": "We present S1-Omni, a unified multimodal reasoning model for scientific understanding, prediction, and generation. AI for Science (AI4S) has advanced significantly through domain-specific models, tool",
-      "authors": [
-        "Jiahao Zhao",
-        "Junyi Liu",
-        "Lifeng Xu",
-        "Nan Xu",
-        "Qingli Wang"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.15901",
-      "title": "DSWorld: A Data Science World Model for Efficient Autonomous Agents",
-      "url": "https://huggingface.co/papers/2607.15901",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-16T20:00:00.000Z",
-      "abstract": "Despite strong capabilities in data understanding and decision-making, autonomous data science agents still heavily rely on trial-and-error workflows that involve expensive computation. This bottlenec",
-      "authors": [
-        "Zherui Yang",
-        "Fan Liu",
-        "Hao Liu"
-      ],
-      "tags": [
-        "agent",
-        "autonomous"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.15524",
-      "title": "Recursive Harness Self-Improvement",
-      "url": "https://huggingface.co/papers/2607.15524",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-16T20:00:00.000Z",
-      "abstract": "Under model--harness co-evolution, harnesses are not merely inference-time scaffolds but data-generating components whose execution traces can shape future foundation models. This motivates harness-in",
-      "authors": [
-        "Hyunin Lee",
-        "Jinglue Xu",
-        "Jeffrey Seely",
-        "Donghyun Lee",
-        "Matei Zaharia"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
