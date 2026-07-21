@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-07-20T07:51:47.503Z",
+  "generatedAt": "2026-07-21T17:49:39.648Z",
   "date": "06-05-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2607.14106",
-      "title": "Token Time Continuous Diffusion for Language Modeling",
-      "url": "https://huggingface.co/papers/2607.14106",
+      "id": "hf_paper_2607.16204",
+      "title": "Masked Diffusion Language Models are Strong and Steerable Text-Based World Models for Agentic RL",
+      "url": "https://huggingface.co/papers/2607.16204",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-06T20:00:00.000Z",
-      "abstract": "In this paper we introduce token time continuous diffusion (TTCD), a new diffusion language model which (a) operates in continuous space, deterministically mapping Gaussian noise to a final token canv",
+      "abstract": "Recent growth in reinforcement learning (RL) has surfaced a need for diverse, specialized training environments. Hand-curated environments with fixed task and reward difficulties become ineffective si",
       "authors": [
-        "Parikshit Bansal",
-        "Sujay Sanghavi"
+        "Darshan Deshpande"
       ],
       "tags": [
-        "diffusion"
+        "diffusion",
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",

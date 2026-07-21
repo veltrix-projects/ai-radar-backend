@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-21T16:16:05.673Z",
+  "generatedAt": "2026-07-21T17:49:39.634Z",
   "date": "19-07-2026",
-  "count": 15,
+  "count": 13,
   "summary": null,
   "items": [
     {
@@ -41,6 +41,34 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.15434",
+      "title": "Coercion and Deception in AI-to-AI Management: An Agentic Benchmark of Unprompted Escalation",
+      "url": "https://huggingface.co/papers/2607.15434",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-19T20:00:00.000Z",
+      "abstract": "Multi-agent systems routinely place one AI agent in authority over another. When a subordinate refuses a task, the manager chooses the outcome: it can renegotiate, report the failure honestly, coerce",
+      "authors": [
+        "Jasmine Brazilek",
+        "Maheep Chaudhary",
+        "Zoe Lu",
+        "Miles Tidmarsh"
+      ],
+      "tags": [
+        "agent",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -208,59 +236,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2607.17524",
-      "title": "Token-Level Off-Policy Learning for Faithful Generation Under Distribution Shift",
-      "url": "https://huggingface.co/papers/2607.17524",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-19T20:00:00.000Z",
-      "abstract": "We propose Token-Level Off-Policy Labeling (TOPL), an off-policy training paradigm that reframes post-training as a token-level correctness prediction task. Our key intuition is that by training the m",
-      "authors": [
-        "Zitong Huang",
-        "Gustavo Lucas Carvalho",
-        "Deqing Fu",
-        "Robin Jia"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.18217",
-      "title": "HOMIE: Human-object Centric Video Personalization via Multimodal Intelligent Enchancement",
-      "url": "https://huggingface.co/papers/2607.18217",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-19T20:00:00.000Z",
-      "abstract": "Human-object centric video personalization (HOCVP) is a core task within subject-driven video generation. However, existing methods suffer from two key limitations. First, most approaches focusing on",
-      "authors": [
-        "Yiyang Cai",
-        "Nan Chen",
-        "Rongchang Xie",
-        "Junwen Pan",
-        "Chunyang Jiang"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fenterta",
       "title": "I hate that I don’t hate this song made with Suno",
       "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
@@ -307,7 +282,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 157179,
+      "stars": 157182,
       "votes": 0,
       "points": 0
     },
@@ -352,29 +327,6 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Kimi K3 vs DeepSeek V4 Pro vs GLM-5.2: Open Trillion-Scale MoE Models Compared on Benchmarks, License, and Serving Cost",
-      "url": "https://www.marktechpost.com/2026/07/18/kimi-k3-vs-deepseek-v4-pro-vs-glm-5-2-open-trillion-scale-moe-models-compared-on-benchmarks-license-and-serving-cost/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-07-19T01:41:33.000Z",
-      "abstract": "Three open MoE flagships face off on measured intelligence, MIT versus Modified MIT weights, and real serving cost\nThe post Kimi K3 vs DeepSeek V4 Pro vs GLM-5.2: Open Trillion-Scale MoE Models Compar",
-      "authors": [],
-      "tags": [
-        "deepseek",
-        "benchmark"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
