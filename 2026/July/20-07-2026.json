@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-22T04:59:27.301Z",
+  "generatedAt": "2026-07-22T07:34:54.456Z",
   "date": "20-07-2026",
-  "count": 27,
+  "count": 29,
   "summary": null,
   "items": [
     {
@@ -60,6 +60,64 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.18754",
+      "title": "AgentDebugX: An Open-Source Toolkit for Failure Observability, Attribution, and Recovery in LLM Agents",
+      "url": "https://huggingface.co/papers/2607.18754",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-20T20:00:00.000Z",
+      "abstract": "LLM agent failures are difficult to debug because the step where an error surfaces is often not the one that caused it. Existing observability tools replay execution traces but provide little support",
+      "authors": [
+        "Kunlun Zhu",
+        "Xuyan Ye",
+        "Zhiguang Han",
+        "Yuchen Zhao",
+        "Bingxuan Li"
+      ],
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.19139",
+      "title": "Text Template Tokens Are Implicit Semantic Registers in Diffusion Transformers",
+      "url": "https://huggingface.co/papers/2607.19139",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-20T20:00:00.000Z",
+      "abstract": "Text-to-image diffusion transformers (DiTs) jointly process text and image tokens, yet their internal computation during denoising remains poorly understood. We introduce a causal interpretability fra",
+      "authors": [
+        "Maohua Li",
+        "Qirui Li",
+        "Yanke Zhou",
+        "Yiduo Li",
+        "Zhaosheng Chi"
+      ],
+      "tags": [
+        "transformer",
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

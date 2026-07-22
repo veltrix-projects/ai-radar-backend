@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-22T04:59:27.302Z",
+  "generatedAt": "2026-07-22T07:34:54.457Z",
   "date": "19-07-2026",
-  "count": 6,
+  "count": 4,
   "summary": null,
   "items": [
     {
@@ -25,22 +25,26 @@
       "points": 0
     },
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Alibaba Previews Qwen3.8-Max, a 2.4 Trillion-Parameter Multimodal Model, Days After Moonshot&#8217;s Kimi K3 Open-Weight Launch",
-      "url": "https://www.marktechpost.com/2026/07/19/alibaba-previews-qwen3-8-max-a-2-4-trillion-parameter-multimodal-model-days-after-moonshots-kimi-k3-open-weight-launch/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
+      "id": "hf_paper_2607.18529",
+      "title": "EduPanel: A Three-Agent LLM Judge for Teaching Videos -- Reliability, Complementarity, and Human Trust Calibration",
+      "url": "https://huggingface.co/papers/2607.18529",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-07-19T21:42:50.000Z",
-      "abstract": "Alibaba's Qwen team previewed Qwen3.8-Max-Preview, a 2.4 trillion-parameter multimodal MoE model it calls \"second only to Fable 5.\" The preview is live on Token Plan, Qoder, and QoderWork at 10% of st",
-      "authors": [],
-      "tags": [
-        "qwen",
-        "multimodal"
+      "timestamp": "2026-07-19T20:00:00.000Z",
+      "abstract": "Teaching videos are becoming a major medium for education, creating a growing need for scalable evaluation of their pedagogical quality. Existing automatic judges do not fully address this setting bec",
+      "authors": [
+        "Jia-Kai Dong",
+        "Yi-Cheng Lin",
+        "Hung-yi Lee"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -88,60 +92,6 @@
         "Wenyuan Huang",
         "Jian Yang",
         "Hao Tang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.15434",
-      "title": "Coercion and Deception in AI-to-AI Management: An Agentic Benchmark of Unprompted Escalation",
-      "url": "https://huggingface.co/papers/2607.15434",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-19T20:00:00.000Z",
-      "abstract": "Multi-agent systems routinely place one AI agent in authority over another. When a subordinate refuses a task, the manager chooses the outcome: it can renegotiate, report the failure honestly, coerce",
-      "authors": [
-        "Jasmine Brazilek",
-        "Maheep Chaudhary",
-        "Zoe Lu",
-        "Miles Tidmarsh"
-      ],
-      "tags": [
-        "agent",
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.17790",
-      "title": "ReViV: Reconstructing the Viewer and the View in 4D from Monocular Egocentric Video",
-      "url": "https://huggingface.co/papers/2607.17790",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-19T20:00:00.000Z",
-      "abstract": "Egocentric devices, such as wearable front-facing cameras, provide a unique perspective for capturing the continuous interaction between a human viewer and the surrounding environment. A holistic and",
-      "authors": [
-        "Xiaozhong Lyu",
-        "Gen Li",
-        "Zhiyin Qian",
-        "Xucong Zhang",
-        "Marc Pollefeys"
       ],
       "tags": [],
       "score": 6,
