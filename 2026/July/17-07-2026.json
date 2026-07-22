@@ -1,31 +1,32 @@
 {
-  "generatedAt": "2026-07-22T01:46:55.345Z",
+  "generatedAt": "2026-07-22T04:59:27.303Z",
   "date": "17-07-2026",
-  "count": 11,
+  "count": 10,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2607.16609",
-      "title": "Can Multimodal Large Language Models Understand OCT?",
-      "url": "https://huggingface.co/papers/2607.16609",
+      "id": "hf_paper_2607.16617",
+      "title": "DataFlow-Harness: A Grounded Code-Agent Platform for Constructing Editable LLM Data Pipelines",
+      "url": "https://huggingface.co/papers/2607.16617",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-07-17T20:00:00.000Z",
-      "abstract": "Optical coherence tomography (OCT) imaging is essential for the diagnosis and treatment of retinal diseases. Although multimodal large language models (MLLMs) have demonstrated considerable potential",
+      "abstract": "Large language models (LLMs) are increasingly used to automate data-processing workflows, yet coding agents typically produce scripts that are not automatically materialized as persistent, editable pl",
       "authors": [
-        "Baochen Fu",
-        "Wenzhi Deng",
-        "Baihao Jin",
-        "Yang Li",
-        "Zihan Nie"
+        "Runming He",
+        "Zhen Hao Wong",
+        "Hao Liang",
+        "Zimo Meng",
+        "Chengyu Shen"
       ],
       "tags": [
-        "multimodal"
+        "llm",
+        "agent"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -173,28 +174,6 @@
       "downloads": 0,
       "likes": 0,
       "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "gh_1075372545",
-      "title": "msitarzewski/agency-agents — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whi",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-07-17T15:25:48Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "Shell"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 135403,
       "votes": 0,
       "points": 0
     },
