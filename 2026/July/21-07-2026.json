@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-23T20:13:13.131Z",
+  "generatedAt": "2026-07-23T21:32:38.492Z",
   "date": "21-07-2026",
-  "count": 24,
+  "count": 26,
   "summary": null,
   "items": [
     {
@@ -341,19 +341,65 @@
       "points": 0
     },
     {
-      "id": "404_media_https%3A%2F%2Fwww.404media.co%2Folive-ga",
-      "title": "What Does Olive Garden’s Never-Ending Pasta Have to Do With Voting Rights?",
-      "url": "https://www.404media.co/olive-garden-never-ending-pasta-id-save-act/",
-      "source": "404 Media",
-      "sourceIcon": "📡",
-      "type": "news",
-      "timestamp": "2026-07-21T17:17:45.000Z",
-      "abstract": "",
+      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
+      "title": "Setting a World Record for MoE Pre-Training on NVIDIA GB300 NVL72",
+      "url": "https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72/",
+      "source": "NVIDIA Blog",
+      "sourceIcon": "🟩",
+      "type": "tool",
+      "timestamp": "2026-07-21T18:30:00.000Z",
+      "abstract": "Frontier model pre-training has converged on mixture of experts (MoE), which is fundamentally changing what limits large-scale AI training. As compute per token...]]>",
       "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
+      "tags": [
+        "training"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
+      "title": "Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI",
+      "url": "https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai/",
+      "source": "NVIDIA Blog",
+      "sourceIcon": "🟩",
+      "type": "tool",
+      "timestamp": "2026-07-21T18:15:00.000Z",
+      "abstract": "What began as discrete AI model training and human-facing chat interfaces has evolved into always-on AI factories dedicated to producing intelligence at scale....]]>",
+      "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
+      "title": "NVIDIA Vera CPU: Olympus Cores Built for Maximum Single-Thread Performance in Agentic AI",
+      "url": "https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai/",
+      "source": "NVIDIA Blog",
+      "sourceIcon": "🟩",
+      "type": "tool",
+      "timestamp": "2026-07-21T18:00:00.000Z",
+      "abstract": "Agentic AI shifts more of the critical execution path onto the CPU. Agents operate in sandboxes to execute code, invoke tools, retrieve context, interact with...]]>",
+      "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
