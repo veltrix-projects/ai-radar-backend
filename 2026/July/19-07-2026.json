@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-07-23T17:52:58.189Z",
+  "generatedAt": "2026-07-23T18:59:16.878Z",
   "date": "19-07-2026",
   "count": 2,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2607.18149",
+      "title": "Differentiable Logic Gate Networks for Low-Latency EEG Classification on Edge Devices",
+      "url": "https://huggingface.co/papers/2607.18149",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-19T20:00:00.000Z",
+      "abstract": "Real-time EEG classification on edge devices is bottlenecked by the floating-point arithmetic of conventional neural networks. We investigated Differentiable Logic Gate Networks (Diff-Logic) as a hard",
+      "authors": [
+        "Shyamal Y. Dharia",
+        "Stephen D. Smith",
+        "Camilo E. Valderrama"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2607.17699",
       "title": "SLAM in Low-Light Environments: Project Report",
@@ -20,34 +44,6 @@
         "Yaroslav Prytula"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.01774",
-      "title": "Subliminal Clocks: Latent Time Modelling in Diffusion Language Models",
-      "url": "https://huggingface.co/papers/2607.01774",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-19T20:00:00.000Z",
-      "abstract": "Diffusion Language Models (DLMs) have recently emerged as a promising alternative to autoregressive models. Unlike standard diffusion-based approaches, DLMs are not explicitly conditioned on a timeste",
-      "authors": [
-        "Maximo Eduardo Rulli",
-        "Thomas Vaitses Fontanari",
-        "Simone Petruzzi",
-        "Federico Alvetreti",
-        "Giorgio Strano"
-      ],
-      "tags": [
-        "diffusion"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
