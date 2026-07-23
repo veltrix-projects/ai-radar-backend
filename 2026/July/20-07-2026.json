@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-07-23T05:16:56.629Z",
+  "generatedAt": "2026-07-23T07:54:16.420Z",
   "date": "20-07-2026",
-  "count": 17,
+  "count": 15,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2607.19604",
+      "title": "Scaling Laws for Hypernetwork-Based Knowledge Injection in Large Language Models",
+      "url": "https://huggingface.co/papers/2607.19604",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-20T20:00:00.000Z",
+      "abstract": "Injecting factual knowledge into large language models (LLMs) reliably and at scale remains an open challenge. Hypernetworks provide a promising solution to large-scale knowledge injection. Although h",
+      "authors": [
+        "Nischay Dhankhar",
+        "Dos Baha",
+        "Abulhair Saparov"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2607.18603",
       "title": "AutoIndex: Learning Representation Programs for Retrieval",
@@ -100,88 +124,6 @@
         "Volodymyr Kuzin"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.19058",
-      "title": "Where Should Optimizer State Live? Tiered State Allocation for Memory-Efficient Mixture-of-Experts Training",
-      "url": "https://huggingface.co/papers/2607.19058",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-20T20:00:00.000Z",
-      "abstract": "Optimizer state is the largest single line item in the memory budget of mixture-of-experts (MoE) training: on a 6.78B-parameter MoE language model, AdamW keeps 50.6 GB of first and second moments to u",
-      "authors": [
-        "Nuemaan Malik"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.18754",
-      "title": "AgentDebugX: An Open-Source Toolkit for Failure Observability, Attribution, and Recovery in LLM Agents",
-      "url": "https://huggingface.co/papers/2607.18754",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-20T20:00:00.000Z",
-      "abstract": "LLM agent failures are difficult to debug because the step where an error surfaces is often not the one that caused it. Existing observability tools replay execution traces but provide little support",
-      "authors": [
-        "Kunlun Zhu",
-        "Xuyan Ye",
-        "Zhiguang Han",
-        "Yuchen Zhao",
-        "Bingxuan Li"
-      ],
-      "tags": [
-        "llm",
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.19139",
-      "title": "Text Template Tokens Are Implicit Semantic Registers in Diffusion Transformers",
-      "url": "https://huggingface.co/papers/2607.19139",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-20T20:00:00.000Z",
-      "abstract": "Text-to-image diffusion transformers (DiTs) jointly process text and image tokens, yet their internal computation during denoising remains poorly understood. We introduce a causal interpretability fra",
-      "authors": [
-        "Maohua Li",
-        "Qirui Li",
-        "Yanke Zhou",
-        "Yiduo Li",
-        "Zhaosheng Chi"
-      ],
-      "tags": [
-        "transformer",
-        "diffusion"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
