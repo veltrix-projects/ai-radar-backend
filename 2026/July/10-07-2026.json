@@ -1,52 +1,28 @@
 {
-  "generatedAt": "2026-07-22T01:46:55.348Z",
+  "generatedAt": "2026-07-23T05:16:56.632Z",
   "date": "10-07-2026",
-  "count": 2,
+  "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2607.10387",
-      "title": "GigaChat Audio: Time-aware Large Audio Language Model",
-      "url": "https://huggingface.co/papers/2607.10387",
+      "id": "hf_paper_2607.10169",
+      "title": "Beyond Euclidean Clipping: Overcoming Exploration Collapse in LLM RL via Riemannian Isometric Policy Optimization",
+      "url": "https://huggingface.co/papers/2607.10169",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-07-10T20:00:00.000Z",
-      "abstract": "Temporal grounding in long recordings remains challenging for audio-conditioned LLMs. We present a time-aware audio LLM that answers questions with explicit timestamps over up to 120 minutes of input.",
+      "abstract": "Reinforcement learning (RL) has become a dominant paradigm for enhancing LLMs' reasoning capabilities. However, RL algorithms with PPO-Clip are inherently limited by exploration collapse. Subsequent w",
       "authors": [
-        "Aleksandr Kutsakov",
-        "Mariia Sadovina",
-        "Georgii Gospodinov",
-        "Alexandr Maximenko",
-        "Oleg Kutuzov"
+        "Zhicheng Cai",
+        "Xinyuan Guo",
+        "Hanlin Wu",
+        "Mingxuan Wang",
+        "Wei-Ying Ma"
       ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.10371",
-      "title": "GigaAM Multilingual: Foundation Model for Underrepresented Languages",
-      "url": "https://huggingface.co/papers/2607.10371",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-10T20:00:00.000Z",
-      "abstract": "Despite recent scaling successes, multilingual ASR performance remains highly uneven, with long-tail languages suffering from severe data scarcity. This work addresses the challenge of building robust",
-      "authors": [
-        "Andrei Kuzmenko",
-        "Alexandr Maximenko",
-        "Aleksandr Kutsakov",
-        "Georgii Gospodinov",
-        "Dmitrii Bolotov"
+      "tags": [
+        "llm"
       ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

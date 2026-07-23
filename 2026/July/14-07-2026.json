@@ -1,25 +1,31 @@
 {
-  "generatedAt": "2026-07-22T12:09:46.145Z",
+  "generatedAt": "2026-07-23T05:16:56.631Z",
   "date": "14-07-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fmanag",
-      "title": "How to manage AI investments in the agentic era",
-      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-07-14T10:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "agent"
+      "id": "hf_paper_2607.13429",
+      "title": "Generalizable VLA Finetuning via Representation Anchoring and Language-Action Alignment",
+      "url": "https://huggingface.co/papers/2607.13429",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-14T20:00:00.000Z",
+      "abstract": "Finetuning a pretrained vision-language model (VLM) on robot demonstrations via behavior cloning (BC) has become the standard recipe for vision-language-action (VLA) policies. However, BC finetuning p",
+      "authors": [
+        "Dwip Dalal",
+        "Shivansh Patel",
+        "Chahit Jain",
+        "Jeonghwan Kim",
+        "Utkarsh Mishra"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "tags": [
+        "alignment"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
