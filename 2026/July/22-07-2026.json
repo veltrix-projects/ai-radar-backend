@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T11:58:28.354Z",
+  "generatedAt": "2026-07-24T13:44:32.485Z",
   "date": "22-07-2026",
   "count": 33,
   "summary": null,
@@ -60,6 +60,32 @@
       "tags": [
         "agent"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.21553",
+      "title": "SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation",
+      "url": "https://huggingface.co/papers/2607.21553",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-22T20:00:00.000Z",
+      "abstract": "We introduce SANA-Video 2.0, a hybrid video diffusion transformer instantiated at 5B and 14B scales under a unified architecture. Designed to generate high-quality video up to 720p on a single GPU, SA",
+      "authors": [
+        "Junsong Chen",
+        "Jincheng Yu",
+        "Yitong Li",
+        "Shuchen Xue",
+        "Haozhe Liu"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -356,34 +382,6 @@
       ],
       "tags": [
         "diffusion",
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.21217",
-      "title": "ICAE-Bench: Evaluating Coding Agents as Interactive Project Builders",
-      "url": "https://huggingface.co/papers/2607.21217",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-22T20:00:00.000Z",
-      "abstract": "The recent emergence of vibe-coding workflows is changing what coding agents are expected to do. Instead of merely completing code under fully specified instructions, agents are increasingly expected",
-      "authors": [
-        "Zhongyuan Peng",
-        "Dan Huang",
-        "Chuyu Zhang",
-        "Caijun Xu",
-        "Changyi Xiao"
-      ],
-      "tags": [
         "agent"
       ],
       "score": 6,

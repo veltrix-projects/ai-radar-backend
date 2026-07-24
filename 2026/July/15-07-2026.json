@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-24T11:58:28.357Z",
+  "generatedAt": "2026-07-24T13:44:32.586Z",
   "date": "15-07-2026",
-  "count": 11,
+  "count": 12,
   "summary": null,
   "items": [
     {
@@ -76,6 +76,32 @@
       "timestamp": "2026-07-15T20:43:15.000Z",
       "abstract": "Monumental BV, a Dutch startup that operates a fleet of bricklaying robots, has raised $35 million in funding.  Khosla Ventures led the Series B investment. Monumental stated in its funding announceme",
       "authors": [],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.04763",
+      "title": "Multi-Turn On-Policy Distillation with Prefix Replay",
+      "url": "https://huggingface.co/papers/2607.04763",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-15T20:00:00.000Z",
+      "abstract": "We study on-policy distillation (OPD) for agentic tasks, where an LLM agent interacts with an environment over multiple turns and a student imitates a teacher over these multi-turn interaction histori",
+      "authors": [
+        "Baohao Liao",
+        "Hanze Dong",
+        "Christof Monz",
+        "Xinxing Xu",
+        "Li Dong"
+      ],
       "tags": [],
       "score": 6,
       "priority": "MEDIUM",
