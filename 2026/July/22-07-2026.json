@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-24T05:11:59.393Z",
+  "generatedAt": "2026-07-24T07:43:56.542Z",
   "date": "22-07-2026",
-  "count": 29,
+  "count": 32,
   "summary": null,
   "items": [
     {
@@ -60,6 +60,116 @@
       "tags": [
         "agent"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2605.09635",
+      "title": "K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs",
+      "url": "https://huggingface.co/papers/2605.09635",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-22T20:00:00.000Z",
+      "abstract": "Large language models are increasingly used in K-12 education, but existing benchmarks mainly test exam question answering rather than understanding how curriculum knowledge is structured and visually",
+      "authors": [
+        "Hao Liang",
+        "Qihan Lin",
+        "Zhaoyang Han",
+        "Xiaochen Ma",
+        "Zhen Hao Wong"
+      ],
+      "tags": [
+        "llm",
+        "benchmark",
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.21051",
+      "title": "Sample-Efficient Learning from Agent Experience",
+      "url": "https://huggingface.co/papers/2607.21051",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-22T20:00:00.000Z",
+      "abstract": "Real-world agent learning is often constrained by costly environment interactions, such as running time-consuming experiments or obtaining human feedback. In-context learning offers a highly sample-ef",
+      "authors": [
+        "Chenhui Gou",
+        "Haoqin Tu",
+        "Yunhao Fang",
+        "Jianfei Cai",
+        "Hamid Rezatofighi"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.21072",
+      "title": "Show, Don't Tell: Evaluating Spatial Cognition in Generative Pixels Rather Than LLM Text",
+      "url": "https://huggingface.co/papers/2607.21072",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-22T20:00:00.000Z",
+      "abstract": "Spatial intelligence is essential for agents to move from static semantic understanding toward interacting with the physical world. Many spatial tasks are grounded in continuous visual scenes, where l",
+      "authors": [
+        "Xu Wang",
+        "Kaixiang Yao",
+        "Miao Pan",
+        "Xiaohe Zhou",
+        "Xuanyu Liu"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.21485",
+      "title": "Recurrent Sinusoidal INRs for Efficient High-Fidelity Representation",
+      "url": "https://huggingface.co/papers/2607.21485",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-22T20:00:00.000Z",
+      "abstract": "We study sinusoidal recurrence as an iterative mechanism for harmonic spectral enrichment in implicit neural representations (INRs). Our analysis reveals that sinusoidal activations induce a harmonic",
+      "authors": [
+        "Hyunmin Cho",
+        "Jaejun Yoo",
+        "Kyong Hwan Jin"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -597,28 +707,6 @@
       "abstract": "",
       "authors": [],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Poolside Releases Laguna S 2.1, an Open-Weight Agentic Coding Model Punching Above Its Weight Class on SWE-Bench Multilingual",
-      "url": "https://www.marktechpost.com/2026/07/21/poolside-releases-laguna-s-2-1/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-07-22T00:01:32.000Z",
-      "abstract": "Poolside has released Laguna S 2.1, a 118B open-weight Mixture-of-Experts coding model with 8B active parameters per token and a 1M-token context. It matches or beats models several times its size on",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",

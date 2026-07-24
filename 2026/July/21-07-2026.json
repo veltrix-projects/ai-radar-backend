@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-24T05:11:59.394Z",
+  "generatedAt": "2026-07-24T07:43:56.543Z",
   "date": "21-07-2026",
-  "count": 20,
+  "count": 19,
   "summary": null,
   "items": [
     {
@@ -31,7 +31,33 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 157260,
+      "stars": 157265,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.20734",
+      "title": "LLMs Get Lost in Evolving User Intent",
+      "url": "https://huggingface.co/papers/2607.20734",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-21T20:00:00.000Z",
+      "abstract": "As LLMs become more capable, they are increasingly deployed as collaborative agents, taking on user-delegated tasks through iterative interaction. Yet genuine interaction is inherently dynamic: users",
+      "authors": [
+        "Jihoon Tack",
+        "Philippe Laban",
+        "Jennifer Neville"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
       "votes": 0,
       "points": 0
     },
@@ -129,58 +155,6 @@
         "Afreen Hossain",
         "Debojyoti Das",
         "Vishal Bhutani"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.19865",
-      "title": "DocOps: A Verifiable Benchmark for Autonomous Agents in Complex Document Operations",
-      "url": "https://huggingface.co/papers/2607.19865",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-21T20:00:00.000Z",
-      "abstract": "As autonomous agents rapidly evolve, their ability to reliably manipulate ubiquitous digital documents has become critical for enabling general-purpose AI assistants and automating complex workspace w",
-      "authors": [
-        "Jiazhen Jiang",
-        "Boxi Cao",
-        "Lingyong Yan",
-        "Yaojie Lu",
-        "Hongyu Lin"
-      ],
-      "tags": [
-        "agent",
-        "benchmark",
-        "autonomous"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.20379",
-      "title": "Train the Model, Not the Reader: Decodability Supervision for Verifiable Activation Explanations",
-      "url": "https://huggingface.co/papers/2607.20379",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-21T20:00:00.000Z",
-      "abstract": "Natural-language autoencoders score explanations of hidden activations by reconstruction: an explanation is deemed faithful if the activation can be regenerated from it. The test is structurally insen",
-      "authors": [
-        "Hiskias Dingeto"
       ],
       "tags": [],
       "score": 6,
