@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-24T22:53:06.570Z",
+  "generatedAt": "2026-07-24T23:56:06.932Z",
   "date": "22-07-2026",
-  "count": 28,
+  "count": 27,
   "summary": null,
   "items": [
     {
@@ -57,6 +57,34 @@
       "timestamp": "2026-07-22T21:32:00.000Z",
       "abstract": "General Science",
       "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.21557",
+      "title": "OpenForgeRL: Train Harness-native Agents in Any Environment",
+      "url": "https://huggingface.co/papers/2607.21557",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-22T20:00:00.000Z",
+      "abstract": "Modern AI agents rely on elaborate inference harnesses such as Claude Code, Codex, and OpenClaw to drive multi-turn reasoning, tool use, and access to external systems. While powerful, these complex h",
+      "authors": [
+        "Xiao Yu",
+        "Baolin Peng",
+        "Ruize Xu",
+        "Hao Zou",
+        "Qianhui Wu"
+      ],
       "tags": [
         "agent"
       ],
@@ -339,32 +367,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2607.21017",
-      "title": "TableVerse: A Large-scale Tabletop Dataset with Real-world Grounded Layouts for Generalizable Manipulation",
-      "url": "https://huggingface.co/papers/2607.21017",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-22T20:00:00.000Z",
-      "abstract": "The development of generalizable robotic manipulation policies is inherently bounded by the availability of large-scale, high-fidelity scene data. While recent automated synthesis methods attempt to b",
-      "authors": [
-        "Boyuan Wang",
-        "Yue Zhang",
-        "Xutao Xue",
-        "Xueyu Song",
-        "Yu Sun"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Ft",
       "title": "Towards a quantum computer that learns from its errors",
       "url": "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/",
@@ -583,26 +585,6 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Cisco Foundation AI Releases Antares: 350M and 1B Open-Weight Models That Localize Known Vulnerabilities Inside Real Codebases",
-      "url": "https://www.marktechpost.com/2026/07/21/cisco-foundation-ai-releases-antares-350m-and-1b-open-weight-models-that-localize-known-vulnerabilities-inside-real-codebases/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-07-22T06:27:02.000Z",
-      "abstract": "Cisco Foundation AI has released Antares, a family of small language models trained to pinpoint where known vulnerabilities live inside a codebase. Antares-1B reaches 0.209 File F1 on the new Vulnerab",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
