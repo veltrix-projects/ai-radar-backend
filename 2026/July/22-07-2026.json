@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-24T10:07:37.822Z",
+  "generatedAt": "2026-07-24T11:58:28.354Z",
   "date": "22-07-2026",
-  "count": 32,
+  "count": 33,
   "summary": null,
   "items": [
     {
@@ -60,6 +60,30 @@
       "tags": [
         "agent"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.21576",
+      "title": "Self-Supervised Learning of Structured Dynamics from Videos",
+      "url": "https://huggingface.co/papers/2607.21576",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-22T20:00:00.000Z",
+      "abstract": "Understanding motion in video is a fundamental challenge for visual learning, as frame-to-frame change entangles two sources of dynamics: camera motion and object motion. This decomposition has remain",
+      "authors": [
+        "Lukas Knobel",
+        "Andrew Zisserman",
+        "Yuki M. Asano"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
