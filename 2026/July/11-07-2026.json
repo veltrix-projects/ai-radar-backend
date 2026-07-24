@@ -1,22 +1,30 @@
 {
-  "generatedAt": "2026-07-16T18:37:03.890Z",
+  "generatedAt": "2026-07-24T05:11:59.398Z",
   "date": "11-07-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fscientis",
-      "title": "Scientists Solve Mystery of Bizarre ‘Alien Megastructure’ Star",
-      "url": "https://www.404media.co/scientists-solve-mystery-of-bizarre-alien-megastructure-star/",
-      "source": "404 Media",
-      "sourceIcon": "📡",
-      "type": "news",
-      "timestamp": "2026-07-11T14:51:18.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
+      "id": "hf_paper_2607.10848",
+      "title": "Predictive Divergence Masks for LLM RL",
+      "url": "https://huggingface.co/papers/2607.10848",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-11T20:00:00.000Z",
+      "abstract": "Reinforcement learning for large language models (LLMs) typically relies on trust-region masks to stabilize off-policy updates. The dominant PPO-style approach uses the sampled-token importance ratio",
+      "authors": [
+        "Xiangxin Zhou",
+        "Jiarui Yao",
+        "Penghui Qi",
+        "Bowen Ping",
+        "Jiaqi Tang"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
