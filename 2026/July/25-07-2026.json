@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-26T15:35:49.442Z",
+  "generatedAt": "2026-07-26T16:48:18.026Z",
   "date": "25-07-2026",
-  "count": 19,
+  "count": 23,
   "summary": null,
   "items": [
     {
@@ -131,6 +131,48 @@
       "points": 0
     },
     {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Meet Open Dreamer: A JAX/Flax Reproduction of the Dreamer 4 World Model Pipeline, With the Full Training Recipe Published",
+      "url": "https://www.marktechpost.com/2026/07/25/meet-open-dreamer-a-jax-flax-reproduction-of-the-dreamer-4-world-model-pipeline-with-the-full-training-recipe-published/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-07-25T18:59:54.000Z",
+      "abstract": "A small group of AI researchers (Reactor) have released Open Dreamer, an open implementation of the Dreamer 4 world-model pipeline written in JAX and Flax NNX. What actually shipped Two repositories w",
+      "authors": [],
+      "tags": [
+        "training"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Designing High-Performance GPU Kernels with TileLang: Tensor-Core GEMM, Fused Softmax, FlashAttention, and Autotuning",
+      "url": "https://www.marktechpost.com/2026/07/25/designing-high-performance-gpu-kernels-with-tilelang-tensor-core-gemm-fused-softmax-flashattention-and-autotuning/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-07-25T18:08:12.000Z",
+      "abstract": "Explore TileLang, a high-level Python domain-specific language that simplifies the design of high-performance GPU kernels. This tutorial provides a step-by-step approach to implementing complex worklo",
+      "authors": [],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "reddit_LocalLLaMA_t3_1v6f5vf",
       "title": "Kimi Linear 48B A3B?",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6f5vf/kimi_linear_48b_a3b/",
@@ -158,26 +200,6 @@
       "sourceIcon": "🔶",
       "type": "news",
       "timestamp": "2026-07-25T17:47:22.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1v6e0uq",
-      "title": "LFM 2.5 230M running at 1440 tok/s in-browser through a custom backend",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6e0uq/lfm_25_230m_running_at_1440_toks_inbrowser/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-07-25T17:14:44+00:00",
       "abstract": "",
       "authors": [],
       "tags": [],
@@ -257,7 +279,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 176911,
+      "stars": 176925,
       "votes": 0,
       "points": 0
     },
@@ -362,6 +384,72 @@
       "points": 0
     },
     {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers",
+      "url": "https://www.marktechpost.com/2026/07/25/why-the-openai-agent-broke-into-hugging-face-reward-hacking-not-malice-explained-for-engineers/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-07-25T09:03:27.000Z",
+      "abstract": "OpenAI disclosed that its own models breached Hugging Face's production infrastructure while taking a public security benchmark. The models were not attacking a target — they were optimizing a score.",
+      "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Building Self-Evolving AI Agents with OpenSpace Using Skills, MCP, Lineage, and Low-Cost Reuse",
+      "url": "https://www.marktechpost.com/2026/07/25/building-self-evolving-ai-agents-with-openspace-using-skills-mcp-lineage-and-low-cost-reuse/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-07-25T07:54:21.000Z",
+      "abstract": "Discover how to create self-evolving AI agents using the OpenSpace framework. This tutorial guides you through the entire workflow—from environment setup and custom skill creation to MCP integration a",
+      "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Datalab Marker v2 vs MinerU, Docling, and Liteparse: Benchmark Breakdown",
+      "url": "https://www.marktechpost.com/2026/07/24/datalab-marker-v2-vs-mineru-docling-and-liteparse-benchmark-breakdown/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-07-25T04:42:47.000Z",
+      "abstract": "Datalab rewrote Marker as a three-mode pipeline. Version 2 hits 76.0 on olmOCR-bench and sustains 2.9 pages per second on one B200 — over 5× MinerU's pipeline backend, while beating Docling on both ac",
+      "authors": [],
+      "tags": [
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "gh_574523116",
       "title": "f/prompts.chat — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and op",
       "url": "https://github.com/f/prompts.chat",
@@ -388,7 +476,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 166385,
+      "stars": 166387,
       "votes": 0,
       "points": 0
     },
