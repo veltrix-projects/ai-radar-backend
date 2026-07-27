@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-27T08:51:15.577Z",
+  "generatedAt": "2026-07-27T12:11:24.442Z",
   "date": "23-07-2026",
-  "count": 28,
+  "count": 31,
   "summary": null,
   "items": [
     {
@@ -82,7 +82,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 136975,
+      "stars": 137016,
       "votes": 0,
       "points": 0
     },
@@ -99,6 +99,34 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.22091",
+      "title": "Spectral Prior for Reducing Exposure Bias in Diffusion Models",
+      "url": "https://huggingface.co/papers/2607.22091",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-23T20:00:00.000Z",
+      "abstract": "Diffusion models typically suffer from error accumulation during iterative sampling, commonly referred to as exposure bias. We reveal systematic frequency-dependent discrepancies between training and",
+      "authors": [
+        "Yuya Kobayashi",
+        "Masato Ishii",
+        "Yuhta Takida",
+        "Takashi Shibuya",
+        "Yuki Mitsufuji"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -590,6 +618,48 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "Nvidia bets physical AI can solve healthcare robotics&#8217; data problem",
+      "url": "https://www.artificialintelligence-news.com/news/nvidia-bets-physical-ai-solve-healthcare-robotics-data-problem/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-07-23T11:38:55.000Z",
+      "abstract": "Nvidia&#8217;s new Medical Physics Simulation framework treats healthcare robots as physical AI systems that need embodied experience to learn, not just code. Physical AI is the term Nvidia and much o",
+      "authors": [],
+      "tags": [
+        "robotics"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "AMD to invest up to $5 billion in Anthropic under AI infrastructure deal",
+      "url": "https://www.artificialintelligence-news.com/news/amd-anthropic-ai-infrastructure-deal/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-07-23T10:00:00.000Z",
+      "abstract": "AMD has agreed to invest up to $5 billion in Anthropic under an infrastructure agreement covering tens of billions of dollars’ worth of AI systems. Anthropic will deploy up to two gigawatts of capacit",
+      "authors": [],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
