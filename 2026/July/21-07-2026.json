@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-27T01:06:48.057Z",
+  "generatedAt": "2026-07-27T05:03:02.311Z",
   "date": "21-07-2026",
-  "count": 17,
+  "count": 18,
   "summary": null,
   "items": [
     {
@@ -31,7 +31,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 157313,
+      "stars": 157312,
       "votes": 0,
       "points": 0
     },
@@ -135,6 +135,36 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.21653",
+      "title": "Molt: A Scalable PyTorch-Native Training Framework for Agentic Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2607.21653",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-21T20:00:00.000Z",
+      "abstract": "Agentic reinforcement learning research is constant algorithm modification, new estimators, new pipeline stages, new rollout schemes, and in mainstream frameworks each change threads through layers of",
+      "authors": [
+        "Jian Hu",
+        "Huiying Li",
+        "Hao Zhang",
+        "Binfeng Xu",
+        "Yifan Zhang"
+      ],
+      "tags": [
+        "agent",
+        "training",
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

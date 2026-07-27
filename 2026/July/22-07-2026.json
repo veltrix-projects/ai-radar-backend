@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-27T01:06:48.057Z",
+  "generatedAt": "2026-07-27T05:03:02.310Z",
   "date": "22-07-2026",
-  "count": 23,
+  "count": 25,
   "summary": null,
   "items": [
     {
@@ -313,6 +313,57 @@
       "tags": [
         "agent",
         "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.21503",
+      "title": "Agentic Context Management: Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems",
+      "url": "https://huggingface.co/papers/2607.21503",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-22T20:00:00.000Z",
+      "abstract": "Production AI agents' failures are less often due to an inability to reason well and more often because they cannot manage what is in their reasoning context: conversation histories, large prompts, la",
+      "authors": [
+        "Gaurav Dadhich"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.21848",
+      "title": "Closing the Loop: Training-Free Revisit Consistency for Autoregressive Generative Rendering",
+      "url": "https://huggingface.co/papers/2607.21848",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-22T20:00:00.000Z",
+      "abstract": "Recent conditional video generation models have shown promising potentials to transform 3D engine renderings, such as depth maps and untextured geometry, into photorealistic videos for gaming and imme",
+      "authors": [
+        "Wenchao Ma",
+        "Changran Liu",
+        "Sharon X. Huang",
+        "Haomiao Jiang"
+      ],
+      "tags": [
+        "training"
       ],
       "score": 6,
       "priority": "MEDIUM",

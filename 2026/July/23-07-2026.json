@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-27T01:06:48.056Z",
+  "generatedAt": "2026-07-27T05:03:02.310Z",
   "date": "23-07-2026",
-  "count": 39,
+  "count": 44,
   "summary": null,
   "items": [
     {
@@ -82,7 +82,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 136874,
+      "stars": 136882,
       "votes": 0,
       "points": 0
     },
@@ -99,6 +99,146 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.22375",
+      "title": "IDEAgent: Agentic Quality-Diversity Search for Research Idea Generation",
+      "url": "https://huggingface.co/papers/2607.22375",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-23T20:00:00.000Z",
+      "abstract": "Large Language Models (LLMs) have significantly automated the process of scientific discovery over the past few years. However, existing systems share one core limitation: they generate and optimize i",
+      "authors": [
+        "Varun Gumma",
+        "Navonil Majumder",
+        "Soumitra Sinhahajari",
+        "Soujanya Poria"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.22042",
+      "title": "LAMAR: An Open Language-Aware Multilingual Alignment Reranker",
+      "url": "https://huggingface.co/papers/2607.22042",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-23T20:00:00.000Z",
+      "abstract": "In multilingual retrieval augmented generation, a retriever can retrieve relevant documents written in multiple languages, which are subsequently reranked before answer generation. However, it remains",
+      "authors": [
+        "Seongtae Hong",
+        "Youngjoon Jang",
+        "Jungseob Lee",
+        "Seungyoon Lee",
+        "Heuiseok Lim"
+      ],
+      "tags": [
+        "alignment"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.22043",
+      "title": "Scaling Native Multimodal Pre-Training From Scratch",
+      "url": "https://huggingface.co/papers/2607.22043",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-23T20:00:00.000Z",
+      "abstract": "Although large language models (LLMs) exhibit remarkable reasoning capabilities, their reliance on text-only pre-training restricts the perception of the multimodal physical world. Native multimodal p",
+      "authors": [
+        "Haoyuan Wu",
+        "Aoqi Wu",
+        "Hai Wang",
+        "Jiajia Wu",
+        "Jinxiang Ou"
+      ],
+      "tags": [
+        "multimodal",
+        "training"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.22393",
+      "title": "SceneActBench: Can Agents Act on the 3D Scenes They See?",
+      "url": "https://huggingface.co/papers/2607.22393",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-23T20:00:00.000Z",
+      "abstract": "Vision-language model (VLM) agents increasingly use tools to act on 3D scenes rather than only describe them. Existing 3D benchmarks score textual responses or single-object operations, leaving agent",
+      "authors": [
+        "Yifei Zhao",
+        "Xiangxin Zhou",
+        "Wenhao Yang",
+        "Jiaqi Tang",
+        "Pu Jian"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.22529",
+      "title": "Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills",
+      "url": "https://huggingface.co/papers/2607.22529",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-23T20:00:00.000Z",
+      "abstract": "LLM training is shifting from manual design and annotation to interaction-driven self-evolution. However, existing self-evolutionary methods face a fundamental dilemma between task diversity and verif",
+      "authors": [
+        "Siyuan Huang",
+        "Pengyu Cheng",
+        "Haotian Liu",
+        "Tao Chen",
+        "Yihao Liu"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
