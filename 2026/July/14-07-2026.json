@@ -1,27 +1,27 @@
 {
-  "generatedAt": "2026-07-24T01:50:03.179Z",
+  "generatedAt": "2026-07-27T08:51:15.581Z",
   "date": "14-07-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2607.13429",
-      "title": "Generalizable VLA Finetuning via Representation Anchoring and Language-Action Alignment",
-      "url": "https://huggingface.co/papers/2607.13429",
+      "id": "hf_paper_2607.14277",
+      "title": "Multi-Head Latent Control: A Unified Interface for LLM Agent Decision Making",
+      "url": "https://huggingface.co/papers/2607.14277",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-07-14T20:00:00.000Z",
-      "abstract": "Finetuning a pretrained vision-language model (VLM) on robot demonstrations via behavior cloning (BC) has become the standard recipe for vision-language-action (VLA) policies. However, BC finetuning p",
+      "abstract": "Large language models are increasingly deployed as agents, but reliable agentic behavior requires more than next-token prediction. At inference time, it is preferred that an agent can decide whether t",
       "authors": [
-        "Dwip Dalal",
-        "Shivansh Patel",
-        "Chahit Jain",
-        "Jeonghwan Kim",
-        "Utkarsh Mishra"
+        "Amirhosein Ghasemabadi",
+        "Ruichen Chen",
+        "Bahador Rashidi",
+        "Di Niu"
       ],
       "tags": [
-        "alignment"
+        "llm",
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
