@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-07-28T04:55:15.541Z",
+  "generatedAt": "2026-07-28T07:32:54.603Z",
   "date": "25-07-2026",
-  "count": 6,
+  "count": 8,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2607.23518",
+      "title": "Chamaileon: Cross-Context Binder Design with Contextualized Modeling and Mixed Sampling",
+      "url": "https://huggingface.co/papers/2607.23518",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-25T20:00:00.000Z",
+      "abstract": "The rapid evolution of generative models has unlocked new potentials in protein binder design, a pivotal task in structural biology, by facilitating end-to-end generation via joint sequence-structure",
+      "authors": [
+        "Hengyuan Cao",
+        "Shizhuo Cheng",
+        "Mingxuan Liu",
+        "Weicheng Huang",
+        "Yunhong Lu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2607.23806",
       "title": "A Frozen 12B Beats Frontier Models on Verified Work: 100% Accuracy, 0 Tokens, Bit-Exact, Forever",
@@ -110,26 +136,41 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2607.23822",
-      "title": "DriveDNA: A Large-Scale Multimodal Naturalistic Driving Dataset and Benchmark for Driving Style Identification",
-      "url": "https://huggingface.co/papers/2607.23822",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Meet Open Dreamer: A JAX/Flax Reproduction of the Dreamer 4 World Model Pipeline, With the Full Training Recipe Published",
+      "url": "https://www.marktechpost.com/2026/07/25/meet-open-dreamer-a-jax-flax-reproduction-of-the-dreamer-4-world-model-pipeline-with-the-full-training-recipe-published/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
       "type": "research",
-      "timestamp": "2026-07-25T20:00:00.000Z",
-      "abstract": "Driving style captures stable, driver-specific patterns in how a vehicle is driven. In naturalistic data, however, this signal is hard to isolate because drivers are observed in different vehicles, on",
-      "authors": [
-        "Yuhang Wang",
-        "Lingyao Li",
-        "Hao Zhou"
-      ],
+      "timestamp": "2026-07-25T18:59:54.000Z",
+      "abstract": "A small group of AI researchers (Francesco Sacco, Diego Martí, and Edward Hu) have released Open Dreamer, an open implementation of the Dreamer 4 world-model pipeline written in JAX and Flax NNX. The",
+      "authors": [],
       "tags": [
-        "multimodal",
-        "benchmark"
+        "training"
       ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Designing High-Performance GPU Kernels with TileLang: Tensor-Core GEMM, Fused Softmax, FlashAttention, and Autotuning",
+      "url": "https://www.marktechpost.com/2026/07/25/designing-high-performance-gpu-kernels-with-tilelang-tensor-core-gemm-fused-softmax-flashattention-and-autotuning/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-07-25T18:08:12.000Z",
+      "abstract": "Explore TileLang, a high-level Python domain-specific language that simplifies the design of high-performance GPU kernels. This tutorial provides a step-by-step approach to implementing complex worklo",
+      "authors": [],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
