@@ -1,31 +1,30 @@
 {
-  "generatedAt": "2026-06-02T13:51:54.745Z",
+  "generatedAt": "2026-07-28T19:08:23.150Z",
   "date": "15-05-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2605.16745",
-      "title": "EVA01: Unified Native 3D Understanding and Generation via Mixture-of-Transformers",
-      "url": "https://huggingface.co/papers/2605.16745",
+      "id": "hf_paper_2607.21606",
+      "title": "TILT: Improving Compositional Generation in Diffusion Models with a Model-Intrinsic Reward",
+      "url": "https://huggingface.co/papers/2607.21606",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-05-15T20:00:00.000Z",
-      "abstract": "This paper addresses the challenge of integrating 3D meshes as a native modality within Multimodal Large Language Models (MLLMs). Diffusion-based large reconstruction models decouple semantic understa",
+      "abstract": "Recent advances in powerful text-to-image generation models have made it increasingly important to develop test-time methods that modify the sampling trajectory to produce images more faithful to comp",
       "authors": [
-        "Zongyuan Yang",
-        "Mingjing Yi",
-        "Wanli Ma",
-        "Chenzhuo Fan",
-        "Bocheng Li"
+        "Debottam Dutta",
+        "Jaehoon Hahm",
+        "Jianchong Chen",
+        "Romit Roy Choudhury"
       ],
       "tags": [
-        "transformer"
+        "diffusion"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
