@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-28T01:50:03.442Z",
+  "generatedAt": "2026-07-28T04:55:15.543Z",
   "date": "22-07-2026",
-  "count": 13,
+  "count": 10,
   "summary": null,
   "items": [
     {
@@ -27,99 +27,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2607.21503",
-      "title": "Agentic Context Management: Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems",
-      "url": "https://huggingface.co/papers/2607.21503",
+      "id": "hf_paper_2607.21694",
+      "title": "Oxygen-TryOn: Fashion-Native Foundation Model for Any-item Virtual Try-On",
+      "url": "https://huggingface.co/papers/2607.21694",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-07-22T20:00:00.000Z",
-      "abstract": "Production AI agents' failures are less often due to an inability to reason well and more often because they cannot manage what is in their reasoning context: conversation histories, large prompts, la",
+      "abstract": "We present Oxygen-TryOn, a unified foundation model for any-item virtual try-on. Rather than repurposing a general-purpose image editor, Oxygen-TryOn is fashion-native, built for try-on through a dedi",
       "authors": [
-        "Gaurav Dadhich"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.21848",
-      "title": "Closing the Loop: Training-Free Revisit Consistency for Autoregressive Generative Rendering",
-      "url": "https://huggingface.co/papers/2607.21848",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-22T20:00:00.000Z",
-      "abstract": "Recent conditional video generation models have shown promising potentials to transform 3D engine renderings, such as depth maps and untextured geometry, into photorealistic videos for gaming and imme",
-      "authors": [
-        "Wenchao Ma",
-        "Changran Liu",
-        "Sharon X. Huang",
-        "Haomiao Jiang"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.21557",
-      "title": "OpenForgeRL: Train Harness-native Agents in Any Environment",
-      "url": "https://huggingface.co/papers/2607.21557",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-22T20:00:00.000Z",
-      "abstract": "Modern AI agents rely on elaborate inference harnesses such as Claude Code, Codex, and OpenClaw to drive multi-turn reasoning, tool use, and access to external systems. While powerful, these complex h",
-      "authors": [
-        "Xiao Yu",
-        "Baolin Peng",
-        "Ruize Xu",
-        "Hao Zou",
-        "Qianhui Wu"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.21553",
-      "title": "SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation",
-      "url": "https://huggingface.co/papers/2607.21553",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-22T20:00:00.000Z",
-      "abstract": "We introduce SANA-Video 2.0, a hybrid video diffusion transformer instantiated at 5B and 14B scales under a unified architecture. Designed to generate high-quality video up to 720p on a single GPU, SA",
-      "authors": [
-        "Junsong Chen",
-        "Jincheng Yu",
-        "Yitong Li",
-        "Shuchen Xue",
-        "Haozhe Liu"
+        "Yong Liu",
+        "Xiaolong Fu",
+        "Zihang Xu",
+        "Wen Xue",
+        "Xueheng Li"
       ],
       "tags": [],
       "score": 6,

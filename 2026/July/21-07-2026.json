@@ -1,57 +1,26 @@
 {
-  "generatedAt": "2026-07-28T01:50:03.442Z",
+  "generatedAt": "2026-07-28T04:55:15.544Z",
   "date": "21-07-2026",
-  "count": 9,
+  "count": 8,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2607.19636",
-      "title": "Multimodal Speaker Verification as a Threat to Speaker Anonymization",
-      "url": "https://huggingface.co/papers/2607.19636",
+      "id": "hf_paper_2607.21655",
+      "title": "Progress Reward Modeling for Robotic Learning: A Comprehensive Survey",
+      "url": "https://huggingface.co/papers/2607.21655",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-07-21T20:00:00.000Z",
-      "abstract": "Most automatic speaker verification (ASV) systems operate on individual utterances, despite real-world interactions typically consisting of multiple utterances. As speech accumulates, increasingly ric",
+      "abstract": "Robotic learning takes place in dynamic environments with large behavior spaces. A terminal success signal only tells the robot whether the task is completed. It does not explain whether the current b",
       "authors": [
-        "Ashi Garg",
-        "Cristina Aggazzotti",
-        "Leibny Paola García-Perera",
-        "Nicholas Andrews"
+        "Jianshu Zhang",
+        "Keliang Wu",
+        "Haoran Lu",
+        "Anbang Liu",
+        "Ce Zhang"
       ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.21653",
-      "title": "Molt: A Scalable PyTorch-Native Training Framework for Agentic Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2607.21653",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-21T20:00:00.000Z",
-      "abstract": "Agentic reinforcement learning research is constant algorithm modification, new estimators, new pipeline stages, new rollout schemes, and in mainstream frameworks each change threads through layers of",
-      "authors": [
-        "Jian Hu",
-        "Huiying Li",
-        "Hao Zhang",
-        "Binfeng Xu",
-        "Yifan Zhang"
-      ],
-      "tags": [
-        "agent",
-        "training",
-        "reinforcement learning"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
