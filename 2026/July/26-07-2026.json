@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-07-28T14:56:11.106Z",
+  "generatedAt": "2026-07-28T16:28:37.678Z",
   "date": "26-07-2026",
-  "count": 13,
+  "count": 12,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2607.23909",
+      "title": "WorldDiT: A Unified Diffusion Architecture for World and Action Modeling",
+      "url": "https://huggingface.co/papers/2607.23909",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-26T20:00:00.000Z",
+      "abstract": "Many recent robot policies pursue stronger control by using large pretrained vision-language models (VLMs) as the action backbone. We introduce WorldDiT, a unified diffusion transformer architecture t",
+      "authors": [
+        "Sen Wang",
+        "R. Gnana Praveen",
+        "Bidhan Roy",
+        "Marcos Villagra"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2607.24027",
       "title": "Sol-Attn: Accelerating Video Generation Inference via On-the-Fly Attention Sparsification",
@@ -157,60 +184,6 @@
         "M. C."
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.24516",
-      "title": "DecoupleMix: Decoupled Ratio Search and Convex Allocation for Scalable VLM Data Recipes",
-      "url": "https://huggingface.co/papers/2607.24516",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-26T20:00:00.000Z",
-      "abstract": "While data curation for Vision Language Models (VLMs) is increasingly active, public practice for constructing pretraining mixtures remains largely heuristic: practitioners stack datasets that pass qu",
-      "authors": [
-        "Jiahao Xie",
-        "Zhongbin Guo",
-        "Qianle Wang",
-        "Ruiqi Lu",
-        "Dongling Xiao"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.24280",
-      "title": "From Proprietary to Open-Source: Bridging the Distribution Gap via Multi-Agent Protocol Distillation in Agentic Search",
-      "url": "https://huggingface.co/papers/2607.24280",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-26T20:00:00.000Z",
-      "abstract": "Agentic search enables large language models to solve knowledge-intensive tasks by interleaving multi-step reasoning with retrieval, yet optimizing this with outcome-based reinforcement learning (RL)",
-      "authors": [
-        "Junlin Liu",
-        "Jiangwang Chen",
-        "Zixin Song",
-        "Shuaiyu Zhou",
-        "Chunji Lv"
-      ],
-      "tags": [
-        "agent"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

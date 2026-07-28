@@ -1,26 +1,28 @@
 {
-  "generatedAt": "2026-07-16T00:54:50.270Z",
+  "generatedAt": "2026-07-28T16:28:37.688Z",
   "date": "21-06-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2607.09701",
-      "title": "EgoSteer: A Full-Stack System Towards Steerable Dexterous Manipulation from Egocentric Videos",
-      "url": "https://huggingface.co/papers/2607.09701",
+      "id": "hf_paper_2607.22639",
+      "title": "TRACE: Business Rule-Grounded Reasoning Curriculum for Knowledge-Preserving Parametric Tool Retrieval in Enterprise LLMs",
+      "url": "https://huggingface.co/papers/2607.22639",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-06-21T12:16:02.000Z",
-      "abstract": "Steerability is a defining capability of generalist robot policies, yet remains largely absent in dexterous-hand systems for lack of large-scale, language-aligned, and action-accurate demonstration da",
+      "timestamp": "2026-06-21T20:00:00.000Z",
+      "abstract": "Parametric retrieval enables LLMs to retrieve tools implicitly by assigning each API a unique virtual token and training the model to generate it via constrained beam search. Toolsense shows that this",
       "authors": [
-        "Yifan Zhong",
-        "Zhang Chen",
-        "Tianrui Guan",
-        "Fanlian Zeng",
-        "Yuyao Ye"
+        "Sai Shruthi Sistla",
+        "Ashutosh Hathidara",
+        "Christopher Toukmaji",
+        "Mayank Shrivastava",
+        "Karthikeyan Asokkumar"
       ],
-      "tags": [],
+      "tags": [
+        "llm"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
