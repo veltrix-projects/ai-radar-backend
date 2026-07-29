@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-29T05:11:24.487Z",
+  "generatedAt": "2026-07-29T08:01:45.742Z",
   "date": "27-07-2026",
-  "count": 33,
+  "count": 34,
   "summary": null,
   "items": [
     {
@@ -51,7 +51,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 147141,
+      "stars": 147168,
       "votes": 0,
       "points": 0
     },
@@ -110,6 +110,31 @@
         "open source",
         "training",
         "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.25572",
+      "title": "Mapping CVEs to MITRE ATT&CK Techniques: A Curated Gold-Set Classifier and the Limits of LLM-Assisted Label Expansion",
+      "url": "https://huggingface.co/papers/2607.25572",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-27T20:00:00.000Z",
+      "abstract": "We present a reproducible pipeline for mapping Common Vulnerabilities and Exposures (CVEs) to MITRE ATT&CK Enterprise techniques from free-text vulnerability descriptions. Rather than relying on the C",
+      "authors": [
+        "Cédric Bonhomme",
+        "Alexandre Dulaunoy"
+      ],
+      "tags": [
+        "llm"
       ],
       "score": 6,
       "priority": "MEDIUM",

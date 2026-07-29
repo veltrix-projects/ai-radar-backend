@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-29T05:11:24.488Z",
+  "generatedAt": "2026-07-29T08:01:45.743Z",
   "date": "26-07-2026",
-  "count": 10,
+  "count": 9,
   "summary": null,
   "items": [
     {
@@ -160,34 +160,6 @@
       ],
       "tags": [
         "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.24027",
-      "title": "Sol-Attn: Accelerating Video Generation Inference via On-the-Fly Attention Sparsification",
-      "url": "https://huggingface.co/papers/2607.24027",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-26T20:00:00.000Z",
-      "abstract": "Diffusion transformers are essential for high-fidelity video generation, but long token sequences make attention a dominant inference bottleneck. Training-free dynamic sparse attention alleviates this",
-      "authors": [
-        "Haopeng Li",
-        "Yitong Li",
-        "Junsong Chen",
-        "Tian Ye",
-        "Haozhe Liu"
-      ],
-      "tags": [
-        "inference"
       ],
       "score": 6,
       "priority": "MEDIUM",
