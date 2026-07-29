@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-07-29T10:59:35.058Z",
+  "generatedAt": "2026-07-29T13:01:26.089Z",
   "date": "26-07-2026",
-  "count": 6,
+  "count": 8,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2607.22135",
+      "title": "GLI-AL: A Multi-Modal Glioma MRI Label Resource with Unified Anatomy-Lesion Labels",
+      "url": "https://huggingface.co/papers/2607.22135",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-26T20:00:00.000Z",
+      "abstract": "Existing BraTS-GLI datasets provide a widely used benchmark for adult glioma MRI segmentation, but their task definition focuses on tumor subregions and does not systematically represent coexisting wh",
+      "authors": [
+        "Xingyu Xiang",
+        "Shuang Hao",
+        "Fan Wang",
+        "Jianhua Ma",
+        "Chunfeng Lian"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2607.24176",
       "title": "Where Quality Breaks in Compressed Short-Text Generation: Staged Bottleneck Localization",
@@ -141,22 +167,39 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2607.25091",
-      "title": "Towards Robust Reinforcement Learning for Small-Scale Language Model Agents",
-      "url": "https://huggingface.co/papers/2607.25091",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Black Forest Labs Releases FLUX 3: A Multimodal Flow Model for Image, Video, Audio and Robot Action Prediction",
+      "url": "https://www.marktechpost.com/2026/07/26/black-forest-labs-releases-flux-3-a-multimodal-flow-model-for-image-video-audio-and-robot-action-prediction/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
       "type": "research",
-      "timestamp": "2026-07-26T20:00:00.000Z",
-      "abstract": "The alignment of Small Language Models (SLMs) in the 70--500M parameter range using reinforcement learning is often considered unstable, though the underlying failure mechanisms have not been systemat",
-      "authors": [
-        "Md Rezwanul Haque",
-        "Md. Milon Islam",
-        "Fakhri Karray"
-      ],
+      "timestamp": "2026-07-26T17:50:23.000Z",
+      "abstract": "Black Forest Labs (BFL) has released FLUX 3, a multimodal foundation model that learns from images, videos and audio inside a single architecture. It is also the first FLUX model to ship video, audio",
+      "authors": [],
       "tags": [
-        "agent",
-        "reinforcement learning"
+        "multimodal"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "KwaiKAT Team Releases KAT-Coder-V2.5: An Agentic Coding Model Trained on 100,000+ Verifiable Repository Environments",
+      "url": "https://www.marktechpost.com/2026/07/26/kwaikat-team-releases-kat-coder-v2-5-an-agentic-coding-model-trained-on-100000-verifiable-repository-environments/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-07-26T10:46:19.000Z",
+      "abstract": "The KwaiKAT Team at Kuaishou has published the KAT-Coder-V2.5 technical report, arguing that agentic coding capability is bottlenecked by training infrastructure rather than model scale. AutoBuilder r",
+      "authors": [],
+      "tags": [
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
