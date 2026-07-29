@@ -1,25 +1,29 @@
 {
-  "generatedAt": "2026-07-29T19:49:47.409Z",
+  "generatedAt": "2026-07-29T20:42:33.112Z",
   "date": "21-07-2026",
   "count": 3,
   "summary": null,
   "items": [
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fintro",
-      "title": "Introducing the ChatGPT for small business program",
-      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-07-21T17:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "gpt"
+      "id": "hf_paper_2607.19712",
+      "title": "How Fast Can Reward Models Score? A Systems Study of C++ and PyTorch Inference Runtimes for RLHF",
+      "url": "https://huggingface.co/papers/2607.19712",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-21T20:00:00.000Z",
+      "abstract": "In RLHF pipelines, reward scoring blocks policy updates. Slow scoring bottlenecks the entire loop, since no update runs until every rollout gets a score. And yet most setups just default to PyTorch ea",
+      "authors": [
+        "Venkata Naga Sai Vishnu Rohit Pulipaka",
+        "Anish Katta",
+        "Deva Rohit Reddy Peddireddy"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "tags": [
+        "inference"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
