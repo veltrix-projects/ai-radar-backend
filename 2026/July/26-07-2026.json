@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-30T01:27:31.359Z",
+  "generatedAt": "2026-07-30T04:30:46.973Z",
   "date": "26-07-2026",
-  "count": 6,
+  "count": 4,
   "summary": null,
   "items": [
     {
@@ -75,58 +75,6 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.24176",
-      "title": "Where Quality Breaks in Compressed Short-Text Generation: Staged Bottleneck Localization",
-      "url": "https://huggingface.co/papers/2607.24176",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-26T20:00:00.000Z",
-      "abstract": "Compressed short-text generators can fail in two different places: the codec may discard information before generation starts, or the latent generator may produce weak codes. Without separating these",
-      "authors": [
-        "Alexey Gavrilov",
-        "Alan-Barsag Gazzaev",
-        "Sergey Muravyov"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.24904",
-      "title": "Mage-VL: An Efficient Codec-Native Streaming Multimodal Foundation Model",
-      "url": "https://huggingface.co/papers/2607.24904",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-26T20:00:00.000Z",
-      "abstract": "Standard vision-language models (VLMs) suffer from Moravec's paradox: they excel at complex offline visual reasoning but struggle with simple streaming perception tasks and process them inefficiently.",
-      "authors": [
-        "Senqiao Yang",
-        "Kaichen Zhang",
-        "Zhaoyang Jia",
-        "Jinghao Guo",
-        "Yifei Shen"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
