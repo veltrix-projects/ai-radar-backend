@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-30T04:30:46.972Z",
+  "generatedAt": "2026-07-30T07:27:37.133Z",
   "date": "27-07-2026",
-  "count": 28,
+  "count": 29,
   "summary": null,
   "items": [
     {
@@ -51,7 +51,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 147269,
+      "stars": 147285,
       "votes": 0,
       "points": 0
     },
@@ -71,6 +71,60 @@
         "training",
         "reinforcement learning"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.25294",
+      "title": "CLBench-V: Evaluating Multimodal Context Learning from Grounding to Knowledge Acquisition",
+      "url": "https://huggingface.co/papers/2607.25294",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-27T20:00:00.000Z",
+      "abstract": "Real-world tasks often require models to learn from task-specific context rather than relying only on pre-trained knowledge. While recent work has highlighted this capability as context learning, exis",
+      "authors": [
+        "Lai Wei",
+        "Chengqi Li",
+        "Jiapeng Li",
+        "Ruina Hu",
+        "Yue Wang"
+      ],
+      "tags": [
+        "multimodal"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.25659",
+      "title": "CoRT: Counterfactual Replay for Token-Level Rubric-Guided Policy Optimization",
+      "url": "https://huggingface.co/papers/2607.25659",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-27T20:00:00.000Z",
+      "abstract": "Rubric-based reinforcement learning enriches language model training by evaluating model outputs against explicit criteria. Yet in GRPO-style pipelines, these structured judgments are reduced to a sca",
+      "authors": [
+        "Bo-Wen Zhang",
+        "Junwei He",
+        "Wen Wang",
+        "Song-Lin Lv",
+        "Wentao Ma"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -255,34 +309,6 @@
       ],
       "tags": [
         "reinforcement learning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.25431",
-      "title": "CodeNib: A Multi-View Data System for Serving Repository Context to Coding Agents",
-      "url": "https://huggingface.co/papers/2607.25431",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-27T20:00:00.000Z",
-      "abstract": "Coding agents repeatedly search, navigate, and retain context from evolving repositories, but disconnected indexes, language servers, and task-local histories force repeated discovery and obscure life",
-      "authors": [
-        "Zhongming Yu",
-        "Hengjia Yu",
-        "Boqin Yuan",
-        "Shuting Zhao",
-        "Yizhao Chen"
-      ],
-      "tags": [
-        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
