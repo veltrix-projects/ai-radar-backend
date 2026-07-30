@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-30T09:57:58.580Z",
+  "generatedAt": "2026-07-30T11:49:45.624Z",
   "date": "26-07-2026",
-  "count": 3,
+  "count": 1,
   "summary": null,
   "items": [
     {
@@ -15,57 +15,6 @@
       "abstract": "Modern multi-agent knowledge systems increasingly accumulate knowledge through chains of autonomous transformations rather than direct retrieval. Existing provenance work records what happened - execu",
       "authors": [
         "Ali Zahid Raja"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.25108",
-      "title": "OPERA: Offline Policy-guided Expert Routing and Adaptation for Universal Biomedical Image Analysis",
-      "url": "https://huggingface.co/papers/2607.25108",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-26T20:00:00.000Z",
-      "abstract": "Biomedical image analysis spans diverse modalities and tasks, yet real-world deployment is hindered by severe distribution shifts across scanners, protocols, and patient populations. High-performing m",
-      "authors": [
-        "Zihan Li",
-        "Feiyang Liu",
-        "Dandan Shan",
-        "Ruibo Wang",
-        "Qingqi Hong"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.24882",
-      "title": "Agent Retrieval Bench: Evaluating Repository Context Retrieval for Coding Agents",
-      "url": "https://huggingface.co/papers/2607.24882",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-26T20:00:00.000Z",
-      "abstract": "Modern coding agents are usually evaluated by whether they eventually produce a correct patch, but patch generation depends on an earlier context-acquisition stage: finding the repository files needed",
-      "authors": [
-        "Bowen Qin",
-        "Yi Xie"
       ],
       "tags": [
         "agent"

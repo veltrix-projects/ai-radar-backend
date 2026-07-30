@@ -1,22 +1,27 @@
 {
-  "generatedAt": "2026-07-29T08:01:45.747Z",
+  "generatedAt": "2026-07-30T11:49:45.627Z",
   "date": "17-07-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
-      "title": "The risk of weather data sabotage is rising",
-      "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
-      "source": "MIT Tech Review",
-      "sourceIcon": "🏛️",
+      "id": "hf_paper_2607.16955",
+      "title": "CADENCE: Closing the Reasoning Gap via Coverage-Adaptive On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2607.16955",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-07-17T08:57:32.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
+      "timestamp": "2026-07-17T20:00:00.000Z",
+      "abstract": "On-policy knowledge distillation transfers reasoning from large teachers to compact students, but existing approaches suffer three compounding failure modes: (i) cold-start collapse, where a fresh stu",
+      "authors": [
+        "Satyam Kumar",
+        "Saurabh Jha"
+      ],
+      "tags": [
+        "rag"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
