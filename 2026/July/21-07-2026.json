@@ -1,35 +1,9 @@
 {
-  "generatedAt": "2026-07-30T17:01:39.368Z",
+  "generatedAt": "2026-07-30T18:52:27.033Z",
   "date": "21-07-2026",
-  "count": 3,
+  "count": 2,
   "summary": null,
   "items": [
-    {
-      "id": "hf_paper_2607.19712",
-      "title": "How Fast Can Reward Models Score? A Systems Study of C++ and PyTorch Inference Runtimes for RLHF",
-      "url": "https://huggingface.co/papers/2607.19712",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-21T20:00:00.000Z",
-      "abstract": "In RLHF pipelines, reward scoring blocks policy updates. Slow scoring bottlenecks the entire loop, since no update runs until every rollout gets a score. And yet most setups just default to PyTorch ea",
-      "authors": [
-        "Venkata Naga Sai Vishnu Rohit Pulipaka",
-        "Anish Katta",
-        "Deva Rohit Reddy Peddireddy"
-      ],
-      "tags": [
-        "inference"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "google_deepmind_https%3A%2F%2Fdeepmind.google%2Fblog%2Fi",
       "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
