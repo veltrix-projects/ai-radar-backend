@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-03T04:57:10.451Z",
+  "generatedAt": "2026-08-03T11:53:02.626Z",
   "date": "28-07-2026",
-  "count": 10,
+  "count": 8,
   "summary": null,
   "items": [
     {
@@ -27,52 +27,23 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2607.26769",
-      "title": "See2Think: Do Multimodal Models Really Use Intermediate Visual States?",
-      "url": "https://huggingface.co/papers/2607.26769",
+      "id": "hf_paper_2607.26611",
+      "title": "Fewer Clarifications, Better Code: Benchmarking Cross-Session Personalized Ambiguity Adaptation in Coding Assistants",
+      "url": "https://huggingface.co/papers/2607.26611",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-07-28T20:00:00.000Z",
-      "abstract": "Multimodal large language models increasingly use sketches, annotations, tools, and intermediate images during reasoning, but it remains unclear whether they truly rely on these visual states. Existin",
+      "abstract": "AI-assisted coding increasingly translates informal user intent into executable software, yet coding requests often contain ambiguities that recur in user-specific ways across tasks and sessions. Exis",
       "authors": [
-        "Siyu Yan",
-        "Zhuoran Yan",
-        "Haiying Xu",
-        "Panhao Zhou",
-        "Jingyu Chen"
+        "Zijian Xu",
+        "Wenshuo Zhang",
+        "Zisen Qin",
+        "Rui Sheng",
+        "Yushi Sun"
       ],
       "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.26637",
-      "title": "Filesystem-Based Memory for LLM Agents: Organization, Evolution, and Sustainability",
-      "url": "https://huggingface.co/papers/2607.26637",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-28T20:00:00.000Z",
-      "abstract": "Deployed LLM agents increasingly keep their long-term memory as a filesystem: a directory tree of markdown files that the agent itself reads, writes, and reorganizes through generic file tools. Yet re",
-      "authors": [
-        "Sizhe Zhou",
-        "Sheldon Yu",
-        "Hui Wei",
-        "Junda Wu",
-        "Siru Ouyang"
-      ],
-      "tags": [
-        "llm",
-        "agent"
+        "benchmark"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -84,46 +55,17 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2607.27372",
-      "title": "Explorative Modeling: Unlocking a Third Pretraining Axis and End-to-End Generation",
-      "url": "https://huggingface.co/papers/2607.27372",
+      "id": "hf_paper_2607.27201",
+      "title": "Mental World Modeling",
+      "url": "https://huggingface.co/papers/2607.27201",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-07-28T20:00:00.000Z",
-      "abstract": "The deep learning revolution, kicked off by AlexNet, taught us that end-to-end training beats decomposing a problem into hand-designed stages. Generative modeling, however, has remained the exception-",
+      "abstract": "World models enable a predictive substrate for planning and action, yet existing formulations merely answer a physical question: what/where it is, and how will it evolve. Human behavior, however, is d",
       "authors": [
-        "Alexi Gladstone",
-        "Heng Ji",
-        "Yilun Du"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.26627",
-      "title": "Revisiting Lossy Verification in Speculative Decoding: Mechanisms, Trade-offs, and Failure Modes",
-      "url": "https://huggingface.co/papers/2607.26627",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-28T20:00:00.000Z",
-      "abstract": "Speculative Decoding (SD) accelerates large language model inference by allowing a lightweight draft model to propose tokens that are subsequently verified in parallel by a larger target model. Recent",
-      "authors": [
-        "Tianyu Wang",
-        "Yuxuan Zhou",
-        "Wenbin Wang",
-        "Heng Li",
-        "Zikai Xiao"
+        "Hao Fei",
+        "Yiran Zhao"
       ],
       "tags": [],
       "score": 6,
@@ -245,7 +187,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 157474,
+      "stars": 157491,
       "votes": 0,
       "points": 0
     }
