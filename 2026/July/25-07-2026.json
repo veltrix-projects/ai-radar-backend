@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-08-04T02:45:05.847Z",
+  "generatedAt": "2026-08-04T15:42:42.068Z",
   "date": "25-07-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2607.23783",
-      "title": "N_0-TWAM: Scaling Tactile-Native World-Action Model for Contact-Rich Manipulation",
-      "url": "https://huggingface.co/papers/2607.23783",
+      "id": "hf_paper_2607.23693",
+      "title": "Compute Globally, Materialize Locally: The Memory Contract of Sparse Event-KV",
+      "url": "https://huggingface.co/papers/2607.23693",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-07-25T20:00:00.000Z",
-      "abstract": "We present N_0-TWAM, a tactile-native world-action model for contact-rich manipulation that predicts both future vision and future contact. To our knowledge, it is the first tactile world-action model",
+      "abstract": "Long-horizon agents increasingly reuse their KV cache as memory: a serving system keeps a subset of cached entries and drops the rest. Eviction and episodic-memory schemes therefore rest on a premise",
       "authors": [
-        "NeoteAI Team",
-        "Fudan TEAI Team"
+        "Zefeng Cai",
+        "Zerui Cai"
       ],
       "tags": [],
       "score": 6,
