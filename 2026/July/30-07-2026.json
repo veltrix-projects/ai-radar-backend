@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-04T08:21:02.027Z",
+  "generatedAt": "2026-08-04T11:00:36.060Z",
   "date": "30-07-2026",
-  "count": 20,
+  "count": 18,
   "summary": null,
   "items": [
     {
@@ -64,7 +64,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 138410,
+      "stars": 138437,
       "votes": 0,
       "points": 0
     },
@@ -80,6 +80,34 @@
       "authors": [],
       "tags": [
         "autonomous"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.29241",
+      "title": "RecHarness: A Bandit-Routed Agentic Harness for Self-Evolving Recommender Systems",
+      "url": "https://huggingface.co/papers/2607.29241",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-30T20:00:00.000Z",
+      "abstract": "Optimizing modern recommender models still depends heavily on engineers manually iterating over architectural, objective, and training-strategy changes. While LLM-based agents can automate this trial-",
+      "authors": [
+        "Haoran Ling",
+        "Yuecheng Li",
+        "Zeyu Song",
+        "Jing Yao",
+        "Shuwen Kang"
+      ],
+      "tags": [
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -108,34 +136,6 @@
       ],
       "tags": [
         "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.29613",
-      "title": "WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2607.29613",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-30T20:00:00.000Z",
-      "abstract": "Reinforcement learning (RL) post-training of Vision-Language-Action (VLA) models has shown strong promise for robotic manipulation. Among RL methods, critic-based approaches rely on a value estimator",
-      "authors": [
-        "Senyu Fei",
-        "Xiaopeng Yu",
-        "Siyin Wang",
-        "Xianzhong Zhao",
-        "Jingjing Gong"
-      ],
-      "tags": [
-        "reinforcement learning"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -326,46 +326,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "Zuckerberg details Meta&#8217;s personal AI superintelligence strategy",
-      "url": "https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-07-30T11:12:11.000Z",
-      "abstract": "Mark Zuckerberg has published a WSJ op-ed that argues superintelligence must reach individuals, not just a handful of institutions. The Meta chief published the piece as a statement of company philoso",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "How AI is Changing Linux VPS Security for Businesses",
-      "url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-07-30T10:41:02.000Z",
-      "abstract": "Cybersecurity wasn&#8217;t really something small and mid-sized businesses worried about too much a few years back. That&#8217;s changed fast. Once your customer data, your apps, your internal tools a",
-      "authors": [],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
