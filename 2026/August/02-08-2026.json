@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T17:29:02.378Z",
+  "generatedAt": "2026-08-04T19:06:50.940Z",
   "date": "02-08-2026",
   "count": 9,
   "summary": null,
@@ -17,6 +17,34 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.01862",
+      "title": "Wnuan: Staged Post-Training for Question Answering over Proprietary Enterprise Knowledge",
+      "url": "https://huggingface.co/papers/2608.01862",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-02T20:00:00.000Z",
+      "abstract": "Enterprise question answering requires models to acquire proprietary knowledge without discarding general capabilities. We present Wnuan, a three-stage pipeline that constructs task-oriented supervisi",
+      "authors": [
+        "Xiaofeng Shi",
+        "Xiaosong Qiu",
+        "Wenxin Ma",
+        "Qian Kou",
+        "Yiming Pan"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -150,34 +178,6 @@
         "Shixiang Tang"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.01964",
-      "title": "LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks",
-      "url": "https://huggingface.co/papers/2608.01964",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-02T20:00:00.000Z",
-      "abstract": "Large language model (LLM) agents increasingly undertake long-horizon tasks that require sustained reasoning, tool use, and revision across many interdependent steps. However, existing agent harnesses",
-      "authors": [
-        "Ziyu Ma",
-        "Hailang Huang",
-        "Shun Zou",
-        "Yong Wang",
-        "Shidong Yang"
-      ],
-      "tags": [
-        "agent"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

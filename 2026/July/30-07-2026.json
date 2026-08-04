@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-04T17:29:02.380Z",
+  "generatedAt": "2026-08-04T19:06:50.942Z",
   "date": "30-07-2026",
-  "count": 18,
+  "count": 16,
   "summary": null,
   "items": [
     {
@@ -64,7 +64,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 138490,
+      "stars": 138506,
       "votes": 0,
       "points": 0
     },
@@ -165,34 +165,6 @@
       ],
       "tags": [
         "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.00146",
-      "title": "DiffusionGemma Technical Report",
-      "url": "https://huggingface.co/papers/2608.00146",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-30T20:00:00.000Z",
-      "abstract": "We introduce DiffusionGemma, an experimental open-weight language model that uses discrete diffusion to generate text at exceptionally high speed. Rather than decoding one token at a time, DiffusionGe",
-      "authors": [
-        "DiffusionGemma Team",
-        "Adrien Ali Taïga",
-        "James Assiene",
-        "Daniele Calandriello",
-        "Rahma Chaabouni"
-      ],
-      "tags": [
-        "diffusion"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -384,29 +356,6 @@
       "authors": [],
       "tags": [
         "gpt"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Favata",
-      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-      "url": "https://openai.com/index/avatarin",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-07-30T00:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "gpt",
-        "agent"
       ],
       "score": 8,
       "priority": "HIGH",
