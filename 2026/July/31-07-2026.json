@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T23:59:34.386Z",
+  "generatedAt": "2026-08-04T02:45:05.843Z",
   "date": "31-07-2026",
   "count": 34,
   "summary": null,
@@ -112,6 +112,34 @@
       "tags": [
         "llm",
         "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2607.29677v1",
+      "title": "ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction",
+      "url": "https://arxiv.org/abs/2607.29677v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-07-31T17:55:58Z",
+      "abstract": "Enterprise workflows increasingly rely on agents for \\emph{schema-guided extraction}: given a document and a user-defined schema, the agent faithfully follows the schema to produce the correct output",
+      "authors": [
+        "Boyang Zhang",
+        "Adrian Lyjak",
+        "Eli Stewart",
+        "Zhaoqi Li",
+        "Simon Suo"
+      ],
+      "tags": [
+        "benchmark"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -437,7 +465,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 142540,
+      "stars": 142541,
       "votes": 0,
       "points": 0
     },
@@ -564,28 +592,6 @@
       "abstract": "The demand for high-quality video continues to accelerate across industries, powering everything from immersive streaming experiences to remote collaboration,...]]>",
       "authors": [],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "OpenAI aligns safety practices with EU AI Act&#8217;s GPAI Code",
-      "url": "https://www.artificialintelligence-news.com/news/openai-aligns-safety-practices-with-eu-ai-act-gpai-code/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-07-31T15:04:25.000Z",
-      "abstract": "OpenAI has outlined how it aligns safety, security, and transparency work with the EU AI Act&#8217;s GPAI Code as enforcement approaches. The company has contributed to and endorsed the EU&#8217;s Gen",
-      "authors": [],
-      "tags": [
-        "safety"
-      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
