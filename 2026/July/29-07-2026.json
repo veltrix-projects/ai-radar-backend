@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-04T02:45:05.845Z",
+  "generatedAt": "2026-08-04T05:39:10.405Z",
   "date": "29-07-2026",
-  "count": 22,
+  "count": 19,
   "summary": null,
   "items": [
     {
@@ -109,6 +109,34 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2607.28590",
+      "title": "VAD: Attributing Visual Evidence for Target Reconstruction in Multimodal On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2607.28590",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-29T20:00:00.000Z",
+      "abstract": "Multimodal on-policy distillation (OPD) transfers fine-grained visual knowledge by supervising student-generated trajectories with a privileged-view teacher. Yet its next-token corrections are source-",
+      "authors": [
+        "Kangning Zhang",
+        "Yixing Li",
+        "Shuai Shao",
+        "Qingyao Li",
+        "Zhengxi Lu"
+      ],
+      "tags": [
+        "multimodal"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2607.27851",
       "title": "Beyond Feeling Better: Capability-Sustaining Emotional Dialogue as a Longitudinal Research Paradigm",
       "url": "https://huggingface.co/papers/2607.27851",
@@ -175,110 +203,6 @@
         "ZiJian Wang"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.28443",
-      "title": "One Future, Every Robot: Label-Efficient Collective-State Prediction with Decentralized JEPA",
-      "url": "https://huggingface.co/papers/2607.28443",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-29T20:00:00.000Z",
-      "abstract": "Can every robot in a swarm predict the same future collective state from only local observations and bandwidth-limited messages? We formulate this as decentralized shared-state prediction and introduc",
-      "authors": [
-        "Alan-Barsag Gazzaev",
-        "Alexey Garvilov",
-        "Sergey Muravyov"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.27924",
-      "title": "ODEWorld: A Continuous Predictive Architecture via Physical-Time Flow",
-      "url": "https://huggingface.co/papers/2607.27924",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-29T20:00:00.000Z",
-      "abstract": "In the physical world we inhabit, space and time are fundamentally continuous. However, existing machine learning paradigms for world modeling are largely confined to discrete-time prediction, thereby",
-      "authors": [
-        "Dongxiu Liu",
-        "Haoyi Niu",
-        "Peng Cheng",
-        "Yuan Gao",
-        "Xirui Kang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.28478",
-      "title": "Would You Walk to the Car Wash? Revealing the Salience Bias of Large Language Models in Commonsense Reasoning",
-      "url": "https://huggingface.co/papers/2607.28478",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-29T20:00:00.000Z",
-      "abstract": "As large language models (LLMs) continue to advance in complex reasoning tasks, they have learned to heavily prioritize explicit conditions provided in the input. However, in everyday commonsense reas",
-      "authors": [
-        "Zheng Wu",
-        "Chenhao Xue",
-        "Shijie Zheng",
-        "Yijie Lu",
-        "Cheng Yang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.27951",
-      "title": "Safeguards Based on Copyable Context Cannot Provide Reliable Safety for LLMs",
-      "url": "https://huggingface.co/papers/2607.27951",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-29T20:00:00.000Z",
-      "abstract": "Large language model safeguards decide whether to answer before seeing how an answer will be used. This creates a basic problem for dual-use tasks: the same answer can help an authorized professional",
-      "authors": [
-        "Pingyu Wu",
-        "Lingyao Zhu",
-        "Weiming Zhang",
-        "Nenghai Yu"
-      ],
-      "tags": [
-        "llm",
-        "safety"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

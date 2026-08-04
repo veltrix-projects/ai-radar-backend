@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-04T02:45:05.845Z",
+  "generatedAt": "2026-08-04T05:39:10.404Z",
   "date": "30-07-2026",
-  "count": 21,
+  "count": 19,
   "summary": null,
   "items": [
     {
@@ -64,7 +64,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 138359,
+      "stars": 138387,
       "votes": 0,
       "points": 0
     },
@@ -91,6 +91,34 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2607.29613",
+      "title": "WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2607.29613",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-30T20:00:00.000Z",
+      "abstract": "Reinforcement learning (RL) post-training of Vision-Language-Action (VLA) models has shown strong promise for robotic manipulation. Among RL methods, critic-based approaches rely on a value estimator",
+      "authors": [
+        "Senyu Fei",
+        "Xiaopeng Yu",
+        "Siyin Wang",
+        "Xianzhong Zhao",
+        "Jingjing Gong"
+      ],
+      "tags": [
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2607.29209",
       "title": "SAF-OPD: Stable Advantage Fusion for On-Policy Distillation",
       "url": "https://huggingface.co/papers/2607.29209",
@@ -105,86 +133,6 @@
         "Yoshua Y. Li",
         "Ziheng Li",
         "Yuquan Lu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.29684",
-      "title": "Toward Robust and 3D-Aware RGB-NIR Imaging in the Dark",
-      "url": "https://huggingface.co/papers/2607.29684",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-30T20:00:00.000Z",
-      "abstract": "Robust low-light imaging remains challenging for the community. Recent studies have explored fusing Near-Infrared (NIR) with noisy RGB to achieve improved enhancement, yet most methods depend on caref",
-      "authors": [
-        "Muyao Niu",
-        "Mingze Ma",
-        "Yifan Zhan",
-        "Qingtian Zhu",
-        "Zhihang Zhong"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.28996",
-      "title": "SULAND v2: A Refined RGB Dataset and Deep Learning Object Detection Benchmark for UAV/UGV-Based SUrface LANDmine Detection Under Domain Shift",
-      "url": "https://huggingface.co/papers/2607.28996",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-30T20:00:00.000Z",
-      "abstract": "RGB imagery offers a practical, low-cost option for Unmanned Aerial/Ground Vehicle (UAV/UGV) survey support in surface-landmine detection, but object detectors remain underexplored in this safety-crit",
-      "authors": [
-        "Sagar Lekhak",
-        "Prasanna Reddy Pulakurthi",
-        "Lalit Joshi",
-        "Ramesh Bhatta",
-        "Emmett J. Ientilucci"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.29025",
-      "title": "Evaluation-Verification Reward for Consistent Multi-Reference Image Editing",
-      "url": "https://huggingface.co/papers/2607.29025",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-30T20:00:00.000Z",
-      "abstract": "While recent image editing models have made rapid progress, multi-reference editing remains challenging, particularly in maintaining visual consistency across references and ensuring overall visual ha",
-      "authors": [
-        "Yingmao Miao",
-        "Pengfei Zhang",
-        "Xiaochen Lv",
-        "Meng Yu",
-        "Lei Sun"
       ],
       "tags": [],
       "score": 6,
