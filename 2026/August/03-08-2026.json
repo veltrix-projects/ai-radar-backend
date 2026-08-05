@@ -1,31 +1,9 @@
 {
-  "generatedAt": "2026-08-05T07:34:00.976Z",
+  "generatedAt": "2026-08-05T10:25:26.006Z",
   "date": "03-08-2026",
-  "count": 27,
+  "count": 23,
   "summary": null,
   "items": [
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Evaluating Multimodal Vision Models with Moonshot PerceptionBench Using Robust Data Loading and Automated Judging",
-      "url": "https://www.marktechpost.com/2026/08/03/evaluating-multimodal-vision-models-with-moonshot-perceptionbench-using-robust-data-loading-and-automated-judging/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-08-03T22:26:32.000Z",
-      "abstract": "In this tutorial, we design an end-to-end evaluation workflow for PerceptionBench. This multimodal benchmark measures fine-grained visual perception capabilities across tasks such as OCR, counting, lo",
-      "authors": [],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "ars_technica_https%3A%2F%2Farstechnica.com%2Fai%2F202",
       "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
@@ -67,15 +45,21 @@
       "points": 0
     },
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "How to Secure AI Agents, MCP Servers, and LLM Apps in Production",
-      "url": "https://www.marktechpost.com/2026/08/03/how-to-secure-ai-agents-mcp-servers-and-llm-apps-in-production/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
+      "id": "hf_paper_2608.03874",
+      "title": "ContinualSkillBench: Can LLM Agents Truly Evolve Their Capabilities?",
+      "url": "https://huggingface.co/papers/2608.03874",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-08-03T20:16:56.000Z",
-      "abstract": "AI agents, MCP servers, and LLM apps break the core AppSec assumption that applications do what their code says. This guide walks through a practical see-fix-protect framework: a five-layer agentic AI",
-      "authors": [],
+      "timestamp": "2026-08-03T20:00:00.000Z",
+      "abstract": "Modern agent frameworks equip large language models with external skill libraries to solve complex tasks. However, it remains unclear whether these systems can effectively evolve their skills and whet",
+      "authors": [
+        "Tianyi Guan",
+        "Yiding Wang",
+        "Haotong Yang",
+        "Siyuan Cao",
+        "Shirui Liu"
+      ],
       "tags": [
         "llm",
         "agent"
@@ -275,60 +259,6 @@
       "tags": [
         "diffusion"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.03509",
-      "title": "SkillJack: Persistent Skill Backdoors in Self-Evolving Agents",
-      "url": "https://huggingface.co/papers/2608.03509",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-03T20:00:00.000Z",
-      "abstract": "Self-evolving agents increasingly convert interaction histories into reusable skills that persist beyond individual tasks. While prior work studies memory and retrieval poisoning, such attacks only af",
-      "authors": [
-        "Zonghao Ying",
-        "Xiangfan Wu",
-        "Huiyu Wu",
-        "Xing Zheng",
-        "Huangsheng Cheng"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.03971",
-      "title": "UniWorld-Design: From Pixel Generation to Layer-Native Design",
-      "url": "https://huggingface.co/papers/2608.03971",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-03T20:00:00.000Z",
-      "abstract": "We introduce UniWorld-Design, a framework that redefines image generation from flat pixel synthesis to structured visual composition, with semantic RGBA layers as the atomic units of generation, under",
-      "authors": [
-        "Zongjian Li",
-        "Zhiyuan Yan",
-        "Chenxu Bai",
-        "Chen Chen",
-        "Haoxiang Sun"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -564,28 +494,6 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Alibaba Qwen Releases Qwen3.8-Max: A 2.4 Trillion Parameter MoE Model and the Most Capable One in the Qwen Family to Date",
-      "url": "https://www.marktechpost.com/2026/08/03/alibaba-qwen-releases-qwen3-8-max/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-08-03T08:24:16.000Z",
-      "abstract": "Alibaba's Qwen team moved Qwen3.8-Max from preview to general availability, with published per-token pricing and open weights due next week. The 2.4T parameter MoE model accepts text, image and video",
-      "authors": [],
-      "tags": [
-        "qwen"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
