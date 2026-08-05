@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-05T12:21:36.606Z",
+  "generatedAt": "2026-08-05T14:42:55.259Z",
   "date": "04-08-2026",
-  "count": 57,
+  "count": 56,
   "summary": null,
   "items": [
     {
@@ -368,6 +368,32 @@
       "points": 0
     },
     {
+      "id": "arxiv_2608.04007v1",
+      "title": "TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning",
+      "url": "https://arxiv.org/abs/2608.04007v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-08-04T17:59:21Z",
+      "abstract": "Tool-Integrated Reasoning (TIR) enables LLMs to solve complex tasks through iterative tool interactions. However, existing reinforcement learning methods often rely on trajectory-level supervision, li",
+      "authors": [
+        "Changle Qu",
+        "Sunhao Dai",
+        "Hengyi Cai",
+        "Yuqi Zhou",
+        "Xinran Chen"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "arxiv_2605.28818v2",
       "title": "Do VLMs Align Better with Humans than LLMs during Natural Reading?",
       "url": "https://arxiv.org/abs/2605.28818v2",
@@ -516,32 +542,6 @@
         "Mingyang Zhou",
         "Isha Slavin",
         "Hsuan Su"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2608.03994v1",
-      "title": "When Attention Goes Blind: Numerical Failure in ALiBi Positional Encodings",
-      "url": "https://arxiv.org/abs/2608.03994v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-08-04T17:54:01Z",
-      "abstract": "We identify a previously overlooked failure mode of ALiBi positional encoding: its linear bias scaling underflows floating-point precision, which zeroes out a large fraction of attention weights and r",
-      "authors": [
-        "Christopher Schröder",
-        "Lukas Gienapp",
-        "Ferdinand Schlatt",
-        "Martin Potthast",
-        "Gerhard Heyer"
       ],
       "tags": [],
       "score": 4,
@@ -1065,26 +1065,6 @@
       "points": 0
     },
     {
-      "id": "techcrunch_ai_https%3A%2F%2Ftechcrunch.com%2F2026%2F08",
-      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-      "source": "TechCrunch AI",
-      "sourceIcon": "💚",
-      "type": "news",
-      "timestamp": "2026-08-04T14:03:01.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fthe-sec-",
       "title": "The SEC Bought Airline Data to Monitor Flights Worldwide",
       "url": "https://www.404media.co/the-sec-bought-airline-data-to-monitor-flights-worldwide/",
@@ -1213,7 +1193,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 157538,
+      "stars": 157541,
       "votes": 0,
       "points": 0
     },
