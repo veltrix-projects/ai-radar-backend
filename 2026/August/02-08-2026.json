@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-08-05T04:56:13.869Z",
+  "generatedAt": "2026-08-05T07:34:00.977Z",
   "date": "02-08-2026",
-  "count": 10,
+  "count": 8,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2608.02218",
+      "title": "PosterMELD: Multi-Agent Paper-to-Poster Generation for Controllable Design Diversity with Editable Print-Ready Outputs",
+      "url": "https://huggingface.co/papers/2608.02218",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-02T20:00:00.000Z",
+      "abstract": "Scientific poster construction compresses a long multimodal paper into a readable, editable canvas. Existing systems hide request-level failures by scoring only completed outputs; direct image generat",
+      "authors": [
+        "Haojie Hu",
+        "Chenhao Dang",
+        "Yaojia Liu",
+        "Hengrui Kang",
+        "Conghui He"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2608.02713",
       "title": "Quo Vadis, World Modeling?",
@@ -159,86 +187,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.02392",
-      "title": "GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience",
-      "url": "https://huggingface.co/papers/2608.02392",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-02T20:00:00.000Z",
-      "abstract": "A wearable assistant should both answer questions about its visual history and recognize when that history is useful to the present situation. Existing video-memory systems primarily support question-",
-      "authors": [
-        "Sitong Gong",
-        "Caixin Kang",
-        "Tianyu Yan",
-        "Guo Chen",
-        "Bo Zheng"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.02437",
-      "title": "InfiniSplat: Implicit Gaussian Decoding for Large-Baseline Monocular View Synthesis",
-      "url": "https://huggingface.co/papers/2608.02437",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-02T20:00:00.000Z",
-      "abstract": "Single-image feed-forward 3D Gaussian Splatting (3DGS) aims to directly generate a renderable 3D scene representation from one input image, avoiding the cost of multi-view capture and per-scene optimi",
-      "authors": [
-        "Jiawei Wang",
-        "Hao Yu",
-        "Yongzhen Hu",
-        "Xinyi Yang",
-        "Tao Ni"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.01862",
-      "title": "Wnuan: Staged Post-Training for Question Answering over Proprietary Enterprise Knowledge",
-      "url": "https://huggingface.co/papers/2608.01862",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-02T20:00:00.000Z",
-      "abstract": "Enterprise question answering requires models to acquire proprietary knowledge without discarding general capabilities. We present Wnuan, a three-stage pipeline that constructs task-oriented supervisi",
-      "authors": [
-        "Xiaofeng Shi",
-        "Xiaosong Qiu",
-        "Wenxin Ma",
-        "Qian Kou",
-        "Yiming Pan"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

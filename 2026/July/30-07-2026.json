@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T04:56:13.871Z",
+  "generatedAt": "2026-08-05T07:34:00.978Z",
   "date": "30-07-2026",
   "count": 13,
   "summary": null,
@@ -64,7 +64,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 138605,
+      "stars": 138632,
       "votes": 0,
       "points": 0
     },
@@ -81,6 +81,32 @@
       "tags": [
         "autonomous"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.28993",
+      "title": "ST-WAM: Semantic-Temporal World Action Model for Robust Manipulation under Visual Distribution Shifts",
+      "url": "https://huggingface.co/papers/2607.28993",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-30T20:00:00.000Z",
+      "abstract": "World Action Models (WAMs) have emerged as a promising paradigm by jointly modeling robot actions and future visual dynamics. However, their reliance on pixel-generative future supervision can entangl",
+      "authors": [
+        "Mingxin Wang",
+        "Bin Hu",
+        "Bin Qian",
+        "Kaitao Jiang",
+        "Haoning Wu"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -110,35 +136,6 @@
         "llm",
         "agent",
         "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.00155",
-      "title": "AgentStream: How Well Do Self-Evolving LLM Agents Perform Under Streaming Tasks?",
-      "url": "https://huggingface.co/papers/2608.00155",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-30T20:00:00.000Z",
-      "abstract": "Large language model (LLM) agents can self-evolve by continually improving from their own accumulated experience. However, existing studies predominantly adopt independent evaluation. Consequently, th",
-      "authors": [
-        "Dong Yan",
-        "Jian Liang",
-        "Dapeng Hu",
-        "Ran He",
-        "Nicholas Jing Yuan"
-      ],
-      "tags": [
-        "llm",
-        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
