@@ -1,49 +1,26 @@
 {
-  "generatedAt": "2026-08-05T01:43:31.977Z",
+  "generatedAt": "2026-08-05T04:56:13.873Z",
   "date": "28-07-2026",
-  "count": 4,
+  "count": 3,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2607.26848",
-      "title": "ICDAR 2026 Competition on Information Extraction from Atomic Layer Deposition/Etching (ALD/E) Scientific Figures",
-      "url": "https://huggingface.co/papers/2607.26848",
+      "id": "hf_paper_2607.26451",
+      "title": "ExplainBench: Evaluating Code Explanations from Agents",
+      "url": "https://huggingface.co/papers/2607.26451",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-07-28T20:00:00.000Z",
-      "abstract": "Scientific figure comprehension and reasoning using multimodal AI requires integrating visual perception with domain-specific reasoning to extract meaningful knowledge, often not presented in the text",
+      "abstract": "Large Language Model (LLM) agents have seen rapid adoption in software engineering. As agents take a greater role in the actual generation of code, they are making larger changes, spanning tens to hun",
       "authors": [
-        "Fahad Ahmed",
-        "Sören Auer",
-        "Jennifer D'Souza"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.27042",
-      "title": "GPTQ-2D: Cubic-Time Two-Sided Adaptive Rounding",
-      "url": "https://huggingface.co/papers/2607.27042",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-28T20:00:00.000Z",
-      "abstract": "Adaptive rounding methods such as GPTQ, or equivalently Babai's nearest plane algorithm, round a real matrix to integers under a quadratic metric. They process the entries in a fixed order, one at a t",
-      "authors": [
-        "Jiale Chen",
-        "Torsten Hoefler",
-        "Dan Alistarh"
+        "Zhiyuan Pan",
+        "Sungmin Kang",
+        "Imam Nur Bani Yusuf",
+        "Abhik Roychoudhury"
       ],
       "tags": [
-        "gpt"
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",

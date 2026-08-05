@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-05T01:43:31.976Z",
+  "generatedAt": "2026-08-05T04:56:13.871Z",
   "date": "30-07-2026",
-  "count": 15,
+  "count": 13,
   "summary": null,
   "items": [
     {
@@ -64,7 +64,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 138532,
+      "stars": 138605,
       "votes": 0,
       "points": 0
     },
@@ -91,80 +91,25 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2607.29377",
-      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
-      "url": "https://huggingface.co/papers/2607.29377",
+      "id": "hf_paper_2607.28956",
+      "title": "MerchantBench: Benchmarking LLM Agents for Long-Term Coherence in E-Commerce Operations",
+      "url": "https://huggingface.co/papers/2607.28956",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-07-30T20:00:00.000Z",
-      "abstract": "LLM agents need memory to act consistently over long interactions, yet many systems use additional LLM calls to operate that memory. Generating intermediate records and mediating their retrieval adds",
+      "abstract": "Large language model agents are increasingly evaluated as autonomous tool users, yet most benchmarks focus on bounded tasks with immediate success criteria. Real-world deployments often require Long-T",
       "authors": [
-        "Yilin Xiao",
-        "Zhehan Zhu",
-        "Yujing Zhang",
-        "Jin Chen",
-        "Zijin Hong"
+        "Qiming Shi",
+        "Yulong Tao",
+        "Linbo Jin",
+        "Zhaolu Kang",
+        "Yibo Dou"
       ],
       "tags": [
         "llm",
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.29122",
-      "title": "A Frozen Pixel-Space Diffusion Model Can Guide Itself with Its Own Samples",
-      "url": "https://huggingface.co/papers/2607.29122",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-30T20:00:00.000Z",
-      "abstract": "Pixel-space diffusion models aim to learn an end-to-end generator directly over raw pixels. This is challenging because a single model must capture both global structure and local texture in the same",
-      "authors": [
-        "Zixuan Fu",
-        "Chong Wang",
-        "Lanqing Guo",
-        "Kailai Zhou",
-        "Jiahao Nie"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.29241",
-      "title": "RecHarness: A Bandit-Routed Agentic Harness for Self-Evolving Recommender Systems",
-      "url": "https://huggingface.co/papers/2607.29241",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-30T20:00:00.000Z",
-      "abstract": "Optimizing modern recommender models still depends heavily on engineers manually iterating over architectural, objective, and training-strategy changes. While LLM-based agents can automate this trial-",
-      "authors": [
-        "Haoran Ling",
-        "Yuecheng Li",
-        "Zeyu Song",
-        "Jing Yao",
-        "Shuwen Kang"
-      ],
-      "tags": [
-        "agent"
+        "agent",
+        "benchmark"
       ],
       "score": 6,
       "priority": "MEDIUM",
