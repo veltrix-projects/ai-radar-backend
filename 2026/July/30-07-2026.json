@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-04T23:30:32.496Z",
+  "generatedAt": "2026-08-05T01:43:31.976Z",
   "date": "30-07-2026",
-  "count": 14,
+  "count": 15,
   "summary": null,
   "items": [
     {
@@ -64,7 +64,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 138527,
+      "stars": 138532,
       "votes": 0,
       "points": 0
     },
@@ -164,6 +164,35 @@
         "Shuwen Kang"
       ],
       "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.00155",
+      "title": "AgentStream: How Well Do Self-Evolving LLM Agents Perform Under Streaming Tasks?",
+      "url": "https://huggingface.co/papers/2608.00155",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-30T20:00:00.000Z",
+      "abstract": "Large language model (LLM) agents can self-evolve by continually improving from their own accumulated experience. However, existing studies predominantly adopt independent evaluation. Consequently, th",
+      "authors": [
+        "Dong Yan",
+        "Jian Liang",
+        "Dapeng Hu",
+        "Ran He",
+        "Nicholas Jing Yuan"
+      ],
+      "tags": [
+        "llm",
         "agent"
       ],
       "score": 6,
