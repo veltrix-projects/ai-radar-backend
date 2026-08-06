@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-06T01:43:28.990Z",
+  "generatedAt": "2026-08-06T04:56:30.002Z",
   "date": "31-07-2026",
-  "count": 11,
+  "count": 10,
   "summary": null,
   "items": [
     {
@@ -27,46 +27,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2608.00371",
-      "title": "Decoding Children's Gait Behavior",
-      "url": "https://huggingface.co/papers/2608.00371",
+      "id": "hf_paper_2608.00782",
+      "title": "Distill Where You Fail: Recovering Learning Signals of Negative RL-Groups from Adaptive Teacher Guidance",
+      "url": "https://huggingface.co/papers/2608.00782",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-07-31T20:00:00.000Z",
-      "abstract": "We introduce a new problem domain for human action recognition: the fine-grained analysis of children's gait behaviors from standard RGB video. We specifically target the ambulatory patterns of childr",
+      "abstract": "Reinforcement learning with verifiable rewards (RLVR) has become a standard paradigm for post-training large language models (LLMs). While Group Relative Policy Optimization (GRPO) is widely adopted,",
       "authors": [
-        "Yifan Shen",
-        "Boyi Li",
-        "Meihuan Huang",
-        "Yuanzhe Liu",
-        "Xu Cao"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.00730",
-      "title": "Push-Wiper: Toward General-Purpose Robotic Cleaning across Varied Stains and Surfaces with Segmented Pushing Trajectories",
-      "url": "https://huggingface.co/papers/2608.00730",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-07-31T20:00:00.000Z",
-      "abstract": "Viscous stains, characterized by high viscosity and complex rheological properties, remain a major challenge for robotic surface cleaning. Conventional wiping often spreads the stain, while scrubbing",
-      "authors": [
-        "Renhao Lu",
-        "Mingxin Wang",
-        "Chenyang Cao",
-        "Yang Yang",
-        "Guoping Pan"
+        "Zhuowen Han",
+        "Jinwei Xiao",
+        "Zhengxi Lu",
+        "Renren Jin",
+        "Zhiyuan Yao"
       ],
       "tags": [],
       "score": 6,
@@ -127,7 +101,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 142600,
+      "stars": 142603,
       "votes": 0,
       "points": 0
     },
