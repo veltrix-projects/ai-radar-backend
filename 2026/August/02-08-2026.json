@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-08-06T12:25:11.099Z",
+  "generatedAt": "2026-08-06T14:42:56.942Z",
   "date": "02-08-2026",
-  "count": 1,
+  "count": 2,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2608.02162",
+      "title": "Lossless Tensor Compression as Program Synthesis",
+      "url": "https://huggingface.co/papers/2608.02162",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-02T20:00:00.000Z",
+      "abstract": "Model checkpoints are growing in both number and size, which makes archival, transfer, and deployment increasingly costly. General-purpose compressors can reduce storage requirements but ignore tensor",
+      "authors": [
+        "Jieke Shi",
+        "Junda He",
+        "Wenjia Jiang",
+        "Weifeng Sun",
+        "Shidong Pan"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2608.02580",
       "title": "Ego2Robot: Scalable Robot Data Synthesis from Egocentric Human Data",
