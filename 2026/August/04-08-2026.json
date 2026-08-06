@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-06T10:28:05.593Z",
+  "generatedAt": "2026-08-06T12:25:11.096Z",
   "date": "04-08-2026",
-  "count": 33,
+  "count": 36,
   "summary": null,
   "items": [
     {
@@ -35,6 +35,28 @@
       "abstract": "Shares in Space Exploration Technologies Corp. fell more than 8% in late trading today after the newly public company beat Wall Street on revenue and earnings in its second quarter and disclosed capit",
       "authors": [],
       "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Pixel-Native RAG: A Practical Guide to Visual Document Indexing",
+      "url": "https://www.marktechpost.com/2026/08/04/pixel-native-rag-a-practical-guide-to-visual-document-indexing/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-08-04T22:27:38.000Z",
+      "abstract": "Move beyond traditional text-based parsing with PixelRAG, an end-to-end system that treats web pages and PDFs as images. This tutorial explores the complete pipeline—from rendering and tiling to multi",
+      "authors": [],
+      "tags": [
+        "rag"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -383,34 +405,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2608.04701",
-      "title": "UniWorld-View: Large-Baseline View Synthesis via Video Diffusion Models",
-      "url": "https://huggingface.co/papers/2608.04701",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-04T20:00:00.000Z",
-      "abstract": "The abundance of casually captured monocular videos and images on social media provides a valuable source for immersive content creation, where generating novel views from such sparse observations can",
-      "authors": [
-        "Haiyang Zhou",
-        "Wangbo Yu",
-        "Chaoran Feng",
-        "Xunyu Zhou",
-        "Yonghong Tian"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fthird",
       "title": "Third-party cyber evaluations involving OpenAI models",
       "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
@@ -443,6 +437,28 @@
       "tags": [],
       "score": 6,
       "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Cursor Open-Sources Mixture-of-Kittens (MoK): A Deterministic MoE Training Megakernel for GB300 NVL72 Racks",
+      "url": "https://www.marktechpost.com/2026/08/04/cursor-open-sources-mixture-of-kittens-mok-a-deterministic-moe-training-megakernel-for-gb300-nvl72-racks/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-08-04T18:38:41.000Z",
+      "abstract": "Cursor Research has open-sourced Mixture-of-Kittens (MoK), the MoE training megakernel behind its Composer models. MoK fuses all mixture-of-experts communication and computation into a single determin",
+      "authors": [],
+      "tags": [
+        "training"
+      ],
+      "score": 4,
+      "priority": "LOW",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -748,7 +764,49 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 157570,
+      "stars": 157572,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Reflex Open Sources XY: A Rust-Backed Super-Fast Python Charting Library That Keeps 100 Million Point Charts Interactive",
+      "url": "https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-08-04T09:45:40.000Z",
+      "abstract": "Reflex has released XY, an Apache-2.0 Python charting library that moves rendering work into a native Rust core and a WebGL2 client. It holds roughly 0.08 seconds render time from 10,000 to 100 millio",
+      "authors": [],
+      "tags": [
+        "open source"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Building an Advanced AI Skill Security Auditing Pipeline with NVIDIA SkillSpector, LangGraph, YARA Rules, SARIF, and CI Policy Gates",
+      "url": "https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-08-04T08:12:36.000Z",
+      "abstract": "Learn how to build an end-to-end security assessment pipeline for AI agent skills using NVIDIA SkillSpector and LangGraph. In this tutorial, we construct a synthetic skill marketplace, scan for malici",
+      "authors": [],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
       "votes": 0,
       "points": 0
     },
