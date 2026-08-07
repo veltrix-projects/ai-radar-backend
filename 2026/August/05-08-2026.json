@@ -1,51 +1,9 @@
 {
-  "generatedAt": "2026-08-07T12:04:54.055Z",
+  "generatedAt": "2026-08-07T13:45:25.527Z",
   "date": "05-08-2026",
-  "count": 25,
+  "count": 20,
   "summary": null,
   "items": [
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "End-to-End Bayesian Marketing Mix Modeling with Google Meridian: Media Measurement, ROI Analysis, and Budget Optimization",
-      "url": "https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-marketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-budget-optimization/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-08-05T21:56:03.000Z",
-      "abstract": "In this tutorial, we build a complete Bayesian marketing mix modeling workflow using Google Meridian. We begin by installing the required libraries, verifying GPU availability, and exploring a geo-lev",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Meta AI Releases Muse Code (Beta): A Terminal Coding Agent Powered by the New Muse Spark 1.2 Model",
-      "url": "https://www.marktechpost.com/2026/08/05/meta-superintelligence-labs-releases-muse-code/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-08-05T20:07:32.000Z",
-      "abstract": "Meta Superintelligence Labs has released Muse Code, a terminal coding agent in beta, powered by the new Muse Spark 1.2 model. Muse Code plans changes, writes code, and validates results across large r",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "hf_paper_2608.05850",
       "title": "MameLoshnLM: Yiddish Language Model and Evaluation Benchmark",
@@ -366,34 +324,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2608.06060",
-      "title": "Learning from Failures: Retrieval-Centric CoT via Hard Negatives for Unified Multimodal Retrieval",
-      "url": "https://huggingface.co/papers/2608.06060",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-05T20:00:00.000Z",
-      "abstract": "Unified multimodal retrieval aims to identify candidates that satisfy complex user intent expressed through heterogeneous inputs. Although Large Vision-Language Model (LVLM)-based retrievers are effic",
-      "authors": [
-        "Zelong Sun",
-        "Jun Wang",
-        "Kaicheng Yang",
-        "Tiancheng Gu",
-        "Ziyong Feng"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
       "title": "How LendingTree built a multi-agent mortgage assistant on Amazon Bedrock",
       "url": "https://aws.amazon.com/blogs/machine-learning/how-lendingtree-built-a-multi-agent-mortgage-assistant-on-amazon-bedrock/",
@@ -510,51 +440,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "NVIDIA Releases Alpamayo 2 Super: A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1",
-      "url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-08-05T08:25:11.000Z",
-      "abstract": "NVIDIA released Alpamayo 2 Super, a 34B vision-language-action model for autonomous driving, under OpenMDW-1.1 — a permissive license covering fine-tuning, derivatives and commercial redistribution. I",
-      "authors": [],
-      "tags": [
-        "autonomous"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "CopilotKit Open Sources Channels SDK: An MIT Licensed Library That Runs Any AG-UI Agent Inside Slack And Microsoft Teams",
-      "url": "https://www.marktechpost.com/2026/08/04/copilotkit-open-sources-channels-sdk/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-08-05T04:43:17.000Z",
-      "abstract": "CopilotKit has published the Channels SDK, an MIT licensed library that runs an existing AG-UI agent inside Slack and Microsoft Teams. Version 0.5.0 ships five platform adapters and a documented runti",
-      "authors": [],
-      "tags": [
-        "agent",
-        "open source"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
