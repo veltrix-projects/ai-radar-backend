@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-06T14:42:56.949Z",
+  "generatedAt": "2026-08-07T00:20:43.482Z",
   "date": "22-07-2026",
-  "count": 3,
+  "count": 4,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,28 @@
       "tags": [
         "agent"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.21735",
+      "title": "What AI Red-Team Evaluations Can and Cannot Prove",
+      "url": "https://huggingface.co/papers/2607.21735",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-22T20:00:00.000Z",
+      "abstract": "Red-team evaluations of AI models support some claims and not others, and the boundary between the two is calculable rather than merely a matter of judgment. We define the evidential ceiling of an eva",
+      "authors": [
+        "Bandana Kaur"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
