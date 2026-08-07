@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T00:20:43.475Z",
+  "generatedAt": "2026-08-07T05:10:03.459Z",
   "date": "04-08-2026",
   "count": 23,
   "summary": null,
@@ -45,24 +45,17 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2608.05102",
-      "title": "ABSeeker: Training Long-Horizon Search Agents via Answer-Backtracked Credit Assignment",
-      "url": "https://huggingface.co/papers/2608.05102",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Pixel-Native RAG: A Practical Guide to Visual Document Indexing",
+      "url": "https://www.marktechpost.com/2026/08/04/pixel-native-rag-a-practical-guide-to-visual-document-indexing/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
       "type": "research",
-      "timestamp": "2026-08-04T20:00:00.000Z",
-      "abstract": "Long-horizon search agents must make multiple sequential actions (steps) to search, retrieve, verify, and integrate evidence to reach a final answer. However, existing methods for training these agent",
-      "authors": [
-        "Yijun Lu",
-        "Rui Ye",
-        "Jiajun Wang",
-        "Yuwen Du",
-        "Tian Jin"
-      ],
+      "timestamp": "2026-08-04T22:27:38.000Z",
+      "abstract": "Move beyond traditional text-based parsing with PixelRAG, an end-to-end system that treats web pages and PDFs as images. This tutorial explores the complete pipeline—from rendering and tiling to multi",
+      "authors": [],
       "tags": [
-        "agent",
-        "training"
+        "rag"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -74,25 +67,25 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2608.04530",
-      "title": "FocusMem: Factorizing Content, Readout, and Trust in Latent GUI Memory",
-      "url": "https://huggingface.co/papers/2608.04530",
+      "id": "hf_paper_2608.05369",
+      "title": "World-to-Wrist: Task-Conditioned Future Wrist Modeling for Fine-Grained Robot Manipulation",
+      "url": "https://huggingface.co/papers/2608.05369",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-08-04T20:00:00.000Z",
-      "abstract": "GUI agents must remember both useful experience from earlier tasks and unfinished progress in the current interaction. Latent memory offers a compact solution by compressing multimodal trajectories in",
+      "abstract": "Vision-language-action (VLA) models often treat main-view and wrist-view observations as parallel visual inputs, overlooking their distinct roles in robot manipulation. Fine-grained manipulation, howe",
       "authors": [
-        "Zhuoran Zhang",
-        "Bowen Li",
-        "Jingcheng Ju",
-        "Yang Shi",
-        "Qixun Wang"
+        "Yuhao Pan",
+        "Haosong Peng",
+        "Zhengshen Zhang",
+        "Zhengyang Yan",
+        "Yalun Dai"
       ],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -100,19 +93,45 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2608.05108",
-      "title": "Agent Against Agent: An Agentic System for Automatic Prompt Injection Red Teaming",
-      "url": "https://huggingface.co/papers/2608.05108",
+      "id": "hf_paper_2608.05137",
+      "title": "SmartMage: Dynamic Modality Orchestration for 3D Scene Understanding",
+      "url": "https://huggingface.co/papers/2608.05137",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-08-04T20:00:00.000Z",
-      "abstract": "Prompt injection poses significant security risks to LLM agents. Efficient and effective red-teaming is therefore critical, both for evaluating these risks and for collecting training data to improve",
+      "abstract": "Understanding 3D scenes is fundamental to embodied intelligence, requiring joint reasoning over heterogeneous information from multiple modalities, including visual and geometric cues. However, the re",
       "authors": [
-        "Yanting Wang",
-        "Chenlong Yin",
-        "Runpeng Geng",
-        "Jinyuan Jia"
+        "Yue Zhang",
+        "Yingzhao Jian",
+        "Yunqiu Xu",
+        "Xiaoxiao Sun",
+        "Hehe Fan"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.05248",
+      "title": "WorldClaw: Agentic 3D Open-World Generation at Scale",
+      "url": "https://huggingface.co/papers/2608.05248",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-04T20:00:00.000Z",
+      "abstract": "Generating large-scale, freely explorable 3D worlds from open-ended text remains challenging because a system must jointly maintain global spatial coherence, rich local content, and explicit assets su",
+      "authors": [
+        "Chunchao Guo",
+        "Jinpeng Li",
+        "Yang Li",
+        "Zilong Huang"
       ],
       "tags": [
         "agent"
@@ -127,20 +146,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2608.04926",
-      "title": "Consistency-Driven Co-Evolution for Self-Supervised Cross-Representation Learning",
-      "url": "https://huggingface.co/papers/2608.04926",
+      "id": "hf_paper_2608.05466",
+      "title": "Recursive Synthesis for Long-Horizon Terminal Tasks",
+      "url": "https://huggingface.co/papers/2608.05466",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-08-04T20:00:00.000Z",
-      "abstract": "As chart images, tabular data, and visualization code play increasingly important roles across diverse domains, cross-representation understanding across these modalities poses fundamental challenges",
+      "abstract": "High-quality long-horizon training data for terminal agents is expensive to produce, often costing hundreds to thousands of dollars per task, because each task must keep the instruction, environment,",
       "authors": [
-        "Xuehang Guo",
-        "Pengyuan Li",
-        "Tom Hope",
-        "Tirthankar Ghosal",
-        "Manling Li"
+        "Zhongzhi Li",
+        "Yucheng Shi",
+        "Zongxia Li",
+        "Ruhan Wang",
+        "Anhao Li"
       ],
       "tags": [],
       "score": 6,
@@ -153,75 +172,19 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2608.04505",
-      "title": "K-EXAONE 2.0 Technical Report",
-      "url": "https://huggingface.co/papers/2608.04505",
+      "id": "hf_paper_2608.04378",
+      "title": "Helping Music Co-Creation Agents 'Listen' Well: Hierarchical Self-Supervised World Models for Understanding and Generation",
+      "url": "https://huggingface.co/papers/2608.04378",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-08-04T20:00:00.000Z",
-      "abstract": "This technical report presents K-EXAONE 2.0, an open-weight multilingual foundation model developed by LG AI Research as a step in our effort toward global frontier-scale foundation models. Rather tha",
+      "abstract": "Collaborative music agents need internal representations rich enough to support both understanding and generation, yet flexible enough for a workflow where the human retains agency. We present a hiera",
       "authors": [
-        "Eunbi Choi",
-        "Kibong Choi",
-        "Sehyun Chun",
-        "Seokhee Hong",
-        "Junwon Hwang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.05042",
-      "title": "BridgeVLA++: A Data-Efficient, Generalizable, and Memory-Augmented Vision-Language-Action Framework for 3D Manipulation",
-      "url": "https://huggingface.co/papers/2608.05042",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-04T20:00:00.000Z",
-      "abstract": "Leveraging pre-trained vision-language models (VLMs) to construct vision-language-action (VLA) models has emerged as a promising paradigm for 3D robot manipulation. However, existing 3D VLA methods re",
-      "authors": [
-        "Peiyan Li",
-        "Yuze Zhu",
-        "Yixiang Chen",
-        "Qisen Ma",
-        "Yuan Xu"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.04964",
-      "title": "WorldCycle: Self-Verifiable Reinforcement Learning for Long-Horizon Video World Models",
-      "url": "https://huggingface.co/papers/2608.04964",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-04T20:00:00.000Z",
-      "abstract": "Interactive video world models are essential for long-horizon planning and exploration, yet they suffer from compounding errors. Post-training methods such as reinforcement learning (RL) can improve t",
-      "authors": [
-        "Bohai Gu",
-        "Yueyang Yuan",
-        "Taiyi Wu",
-        "Dazhao Du",
-        "Jian Liu"
+        "Scott H. Hawley"
       ],
       "tags": [
-        "reinforcement learning"
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -246,6 +209,28 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Cursor Open-Sources Mixture-of-Kittens (MoK): A Deterministic MoE Training Megakernel for GB300 NVL72 Racks",
+      "url": "https://www.marktechpost.com/2026/08/04/cursor-open-sources-mixture-of-kittens-mok-a-deterministic-moe-training-megakernel-for-gb300-nvl72-racks/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-08-04T18:38:41.000Z",
+      "abstract": "Cursor Research has open-sourced Mixture-of-Kittens (MoK), the MoE training megakernel behind its Composer models. MoK fuses all mixture-of-experts communication and computation into a single determin",
+      "authors": [],
+      "tags": [
+        "training"
+      ],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

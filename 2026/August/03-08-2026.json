@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-07T00:20:43.477Z",
+  "generatedAt": "2026-08-07T05:10:03.460Z",
   "date": "03-08-2026",
-  "count": 15,
+  "count": 11,
   "summary": null,
   "items": [
     {
@@ -87,116 +87,6 @@
       "authors": [
         "Hoseong Tae",
         "Jong-Seok Lee"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.03392",
-      "title": "Self-Evolving Coding Agents",
-      "url": "https://huggingface.co/papers/2608.03392",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-03T20:00:00.000Z",
-      "abstract": "Large language models are increasingly embedded in software engineering workflows as coding agents that can inspect repositories, invoke tools, execute tests, debug failures, and generate patches. Yet",
-      "authors": [
-        "Hao Zhou",
-        "Haichuan Hu",
-        "Ye Shang",
-        "Quanjun Zhang"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.03764",
-      "title": "GDPevo: Evaluating Agent Self-Evolution on Real Business Tasks",
-      "url": "https://huggingface.co/papers/2608.03764",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-03T20:00:00.000Z",
-      "abstract": "Agent self-evolution updates an agent's persistent state from prior experience and reuses it to solve related tasks more effectively. Evaluating self-evolution is difficult: existing benchmarks provid",
-      "authors": [
-        "Leijun Zhou",
-        "Zhihao Liu",
-        "Xiang Qu",
-        "Chenxu Liu",
-        "Yifei Liu"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.05013",
-      "title": "OneDayAgent: Towards a Long-Horizon Harness for Autonomous Agents",
-      "url": "https://huggingface.co/papers/2608.05013",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-03T20:00:00.000Z",
-      "abstract": "LLM agents are increasingly applied to open-ended everyday requests that span work, study, and life. These tasks are long-horizon, cross-environment, and multimodal, forcing the agent to preserve goal",
-      "authors": [
-        "Jingsheng Zheng",
-        "Xinyuan Fang",
-        "Jintian Zhang",
-        "Zhengke Gui",
-        "Huajun Chen"
-      ],
-      "tags": [
-        "agent",
-        "autonomous"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.03632",
-      "title": "When Teachers Mislead: Spurious-Signal-Aware On-Policy Distillation",
-      "url": "https://huggingface.co/papers/2608.03632",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-03T20:00:00.000Z",
-      "abstract": "On-Policy distillation (OPD) transfers teacher capabilities by supervising student-sampled trajectories with dense token-level teacher signals. Recent selective OPD methods improve this process by pri",
-      "authors": [
-        "Yinuo Jiang",
-        "Yongjie Ye",
-        "Zhou Tao",
-        "Xiang Zhuang",
-        "Qiang Zhang"
       ],
       "tags": [],
       "score": 6,
