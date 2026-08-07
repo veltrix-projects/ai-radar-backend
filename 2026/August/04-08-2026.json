@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T06:41:05.762Z",
+  "generatedAt": "2026-08-07T08:06:34.282Z",
   "date": "04-08-2026",
   "count": 22,
   "summary": null,
@@ -34,6 +34,32 @@
       "timestamp": "2026-08-04T22:36:16.000Z",
       "abstract": "Shares in Space Exploration Technologies Corp. fell more than 8% in late trading today after the newly public company beat Wall Street on revenue and earnings in its second quarter and disclosed capit",
       "authors": [],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.04956",
+      "title": "ContextMaster: Interactive Multi-Shot Video Creation via Fixed-Budget Sparse Context Routing",
+      "url": "https://huggingface.co/papers/2608.04956",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-04T20:00:00.000Z",
+      "abstract": "Recent video models increasingly support generation, reference conditioning, and editing within a single model, yet typically expose them as separate operations over fixed inputs. Practical creation u",
+      "authors": [
+        "Xu Guo",
+        "Zhengxuan Wei",
+        "Xinghui Li",
+        "Hanzhuo Huang",
+        "Xinyu Liu"
+      ],
       "tags": [],
       "score": 6,
       "priority": "MEDIUM",
@@ -166,30 +192,6 @@
         "Anhao Li"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.04378",
-      "title": "Helping Music Co-Creation Agents 'Listen' Well: Hierarchical Self-Supervised World Models for Understanding and Generation",
-      "url": "https://huggingface.co/papers/2608.04378",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-04T20:00:00.000Z",
-      "abstract": "Collaborative music agents need internal representations rich enough to support both understanding and generation, yet flexible enough for a workflow where the human retains agency. We present a hiera",
-      "authors": [
-        "Scott H. Hawley"
-      ],
-      "tags": [
-        "agent"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
