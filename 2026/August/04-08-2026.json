@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-10T21:08:47.363Z",
+  "generatedAt": "2026-08-10T22:04:21.855Z",
   "date": "04-08-2026",
-  "count": 13,
+  "count": 14,
   "summary": null,
   "items": [
     {
@@ -35,6 +35,33 @@
       "abstract": "Shares in Space Exploration Technologies Corp. fell more than 8% in late trading today after the newly public company beat Wall Street on revenue and earnings in its second quarter and disclosed capit",
       "authors": [],
       "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.04302",
+      "title": "CLIP-CC-Bench: Evaluating Paragraph-Level Video Descriptions in Video-Language Models",
+      "url": "https://huggingface.co/papers/2608.04302",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-04T20:00:00.000Z",
+      "abstract": "Benchmarking video-language models has largely focused on short clips and single-sentence metrics, leaving open whether current systems can generate accurate long-form, paragraph-level descriptions. W",
+      "authors": [
+        "Mukhtiar Ali",
+        "Harsh Dubey",
+        "Sugam Mishra",
+        "Chulwoo Pack"
+      ],
+      "tags": [
+        "rag"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
