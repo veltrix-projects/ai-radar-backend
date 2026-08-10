@@ -1,9 +1,66 @@
 {
-  "generatedAt": "2026-08-10T06:48:36.035Z",
+  "generatedAt": "2026-08-10T08:20:44.709Z",
   "date": "05-08-2026",
-  "count": 12,
+  "count": 15,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2608.03571",
+      "title": "Beyond Simply Environment Scaling: Designing Effective Environment Distributions for Multimodal Agent Learning",
+      "url": "https://huggingface.co/papers/2608.03571",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-05T20:00:00.000Z",
+      "abstract": "Recent works train agents by constructing large-scale multimodal environment pools. However, we find that simply increasing the number of multimodal environments does not always benefit. We further an",
+      "authors": [
+        "Kejian Zhu",
+        "Zhuoran Jin",
+        "Dongqi Huang",
+        "Hongbang Yuan",
+        "Yupu Hao"
+      ],
+      "tags": [
+        "multimodal",
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.03573",
+      "title": "SFT Conflicts, RL Coexists: A Theoretical and Empirical Analysis of Multi-Task Learning for LLMs",
+      "url": "https://huggingface.co/papers/2608.03573",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-05T20:00:00.000Z",
+      "abstract": "Supervised Fine-Tuning (SFT) and Reinforcement Learning (RL) exhibit fundamentally different behaviors in enhancing multi-task reasoning for large language models (LLMs). Our preliminary experiments r",
+      "authors": [
+        "Kejian Zhu",
+        "Zhuoran Jin",
+        "Shangqing Tu",
+        "Hongbang Yuan",
+        "Yushi Bai"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2608.06501",
       "title": "Can MLLMs Decode the Creative Leap? Introducing C4 for Cross-Concept Understanding",
@@ -172,27 +229,19 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2608.05798",
-      "title": "KVAE: Family of Tokenizers for Multimodal Generative Models",
-      "url": "https://huggingface.co/papers/2608.05798",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-05T20:00:00.000Z",
-      "abstract": "Latent diffusion modeling (LDM), a prominent paradigm, utilizes tokenizers to map input signal to compressed representation. This dependency positions tokenizer as an integral part of generation proce",
-      "authors": [
-        "Andrey Shutkin",
-        "Denis Parkhomenko",
-        "Ivan Kirillov",
-        "Kirill Chernyshev",
-        "Kirill Malakhov"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "PRISM2 model uses clinical dialogue to interpret pathology slides",
+      "url": "https://www.artificialintelligence-news.com/news/prism2-model-clinical-dialogue-interpret-pathology-slides/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-08-05T15:26:20.000Z",
+      "abstract": "Built by Paige and Microsoft, PRISM2 reads whole-slide images through a perceiver-based encoder trained jointly on tissue tiles and clinical dialogue drawn from pathology reports. The model aggregates",
+      "authors": [],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -253,6 +302,28 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "Alibaba, DeepSeek push China’s AI model race towards lower costs",
+      "url": "https://www.artificialintelligence-news.com/news/china-ai-model-race-alibaba-deepseek-costs/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-08-05T10:00:00.000Z",
+      "abstract": "Alibaba has launched Qwen3.8-Max, its largest AI model to date, as DeepSeek’s latest V4-Flash model draws attention for inference pricing that is lower than several competing systems. Qwen3.8-Max has",
+      "authors": [],
+      "tags": [
+        "deepseek"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

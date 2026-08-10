@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-10T06:48:36.034Z",
+  "generatedAt": "2026-08-10T08:20:44.708Z",
   "date": "06-08-2026",
-  "count": 26,
+  "count": 28,
   "summary": null,
   "items": [
     {
@@ -31,7 +31,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 142695,
+      "stars": 142699,
       "votes": 0,
       "points": 0
     },
@@ -49,6 +49,33 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.07341",
+      "title": "Zero Gap Is Not Restoration: Stratified Per-Question Probability Evaluation and Step-wise Mitigation of Benchmark Contamination",
+      "url": "https://huggingface.co/papers/2608.07341",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-06T20:00:00.000Z",
+      "abstract": "Test data from public benchmarks inevitably leaks into pretraining corpora, inflating evaluation scores once memorized. Contamination mitigation evaluation intervenes in the decoding process to suppre",
+      "authors": [
+        "Ruijie Hou",
+        "Yueyang Jiao",
+        "Zhao Wang",
+        "Yingming Li"
+      ],
+      "tags": [
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -453,6 +480,26 @@
       "points": 0
     },
     {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "Why health AI interfaces must adapt to user expertise",
+      "url": "https://www.artificialintelligence-news.com/news/why-health-ai-interfaces-must-adapt-to-user-expertise/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-08-06T15:55:37.000Z",
+      "abstract": "MIT researchers and collaborators found that AI explainability tools in the health sector can produce sharply different results depending on who uses them. When applied to skin disease diagnosis, non-",
+      "authors": [],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "google_deepmind_https%3A%2F%2Fdeepmind.google%2Fblog%2Fw",
       "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
       "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
@@ -510,7 +557,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 141079,
+      "stars": 141178,
       "votes": 0,
       "points": 0
     },
