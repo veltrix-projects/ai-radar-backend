@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-10T03:21:44.615Z",
+  "generatedAt": "2026-08-10T05:02:06.987Z",
   "date": "06-08-2026",
-  "count": 25,
+  "count": 27,
   "summary": null,
   "items": [
     {
@@ -31,7 +31,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 142686,
+      "stars": 142691,
       "votes": 0,
       "points": 0
     },
@@ -49,6 +49,62 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.07051",
+      "title": "YOLO-PEFT: Parameter-Efficient Fine-Tuning on YOLO Family",
+      "url": "https://huggingface.co/papers/2608.07051",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-06T20:00:00.000Z",
+      "abstract": "Generic parameter-efficient fine-tuning (PEFT) methods transferred from language models can fail silently on real-time detectors, whose heterogeneous operators and detection-specific components impose",
+      "authors": [
+        "Xu Lin",
+        "WenJie Nie",
+        "Jinlong Peng",
+        "Weifu Fu",
+        "YueXiao Ma"
+      ],
+      "tags": [
+        "fine-tuning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.07468",
+      "title": "SimWAM: A Simple World Action Model for End-to-End Autonomous Driving",
+      "url": "https://huggingface.co/papers/2608.07468",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-06T20:00:00.000Z",
+      "abstract": "World-Action Models (WAMs) improve end-to-end autonomous driving by transferring video dynamics priors to action prediction, but existing methods require costly future generation at inference. We pres",
+      "authors": [
+        "Zongchuang Zhao",
+        "Xin Zhou",
+        "Tianyang Xu",
+        "Zhengyang Sun",
+        "Kaixuan Zhou"
+      ],
+      "tags": [
+        "autonomous"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -474,7 +530,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 140878,
+      "stars": 141025,
       "votes": 0,
       "points": 0
     },

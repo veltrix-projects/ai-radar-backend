@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T03:21:44.616Z",
+  "generatedAt": "2026-08-10T05:02:06.988Z",
   "date": "04-08-2026",
   "count": 14,
   "summary": null,
@@ -45,22 +45,26 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2608.05138",
-      "title": "Teaching Nemotron Greek: Mining a Corpus, Adapting Retrieval, and Grounding Generation for Modern Greek across Specialist Domains",
-      "url": "https://huggingface.co/papers/2608.05138",
+      "id": "hf_paper_2608.05219",
+      "title": "When Privileged Guidance Misaligns: State-Matched Routing and Contextualized Self-Distillation for Multi-Turn Agents",
+      "url": "https://huggingface.co/papers/2608.05219",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-08-04T20:00:00.000Z",
-      "abstract": "Modern Greek is absent from NVIDIA's Nemotron retrieval models and from major multilingual retrieval benchmarks, despite being important for retrieval-augmented generation (RAG) in legal, energy, fina",
+      "abstract": "Privileged on-policy distillation provides dense supervision for multi-turn agents by allowing a synchronized teacher to re-score the student's response at every turn with access to training-only refe",
       "authors": [
-        "Ayoub Kirouane",
-        "Christos Petrocheilos"
+        "Junzhuo Liu",
+        "Weiwei Li",
+        "Jun Ling",
+        "Peng Wang"
       ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
