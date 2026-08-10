@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-10T16:22:14.626Z",
+  "generatedAt": "2026-08-10T17:21:45.031Z",
   "date": "06-08-2026",
-  "count": 22,
+  "count": 20,
   "summary": null,
   "items": [
     {
@@ -49,6 +49,34 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.06865",
+      "title": "Multi-Agent Forensic Reasoning for Generalizable Deepfake Video Detection",
+      "url": "https://huggingface.co/papers/2608.06865",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-06T20:00:00.000Z",
+      "abstract": "The malicious use of generative artificial intelligence to create highly realistic deepfake videos raises serious ethical concerns and poses substantial challenges to AI safety. However, existing deep",
+      "authors": [
+        "Xuechao Zou",
+        "Shun Zhang",
+        "Kai Li",
+        "Yi Zhou",
+        "Xinyu Sun"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -126,34 +154,6 @@
       ],
       "tags": [
         "fine-tuning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.07468",
-      "title": "SimWAM: A Simple World Action Model for End-to-End Autonomous Driving",
-      "url": "https://huggingface.co/papers/2608.07468",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-06T20:00:00.000Z",
-      "abstract": "World-Action Models (WAMs) improve end-to-end autonomous driving by transferring video dynamics priors to action prediction, but existing methods require costly future generation at inference. We pres",
-      "authors": [
-        "Zongchuang Zhao",
-        "Xin Zhou",
-        "Tianyang Xu",
-        "Zhengyang Sun",
-        "Kaixuan Zhou"
-      ],
-      "tags": [
-        "autonomous"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -313,50 +313,6 @@
       "points": 0
     },
     {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Building an agentic app deployer with Amazon Bedrock and AWS Lambda",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-app-deployer-with-amazon-bedrock-and-aws-lambda/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-08-06T16:11:13.000Z",
-      "abstract": "PDI Technologies built PDI Brew, an agentic platform on AWS where non-technical employees describe a tool in plain English and receive a fully provisioned, multi-tenant web application in seconds. See",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "LLM optimization integration for Amazon SageMaker Python SDK",
-      "url": "https://aws.amazon.com/blogs/machine-learning/llm-optimization-integration-for-amazon-sagemaker-python-sdk/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-08-06T16:08:12.000Z",
-      "abstract": "The Amazon SageMaker Python SDK v3 now exposes generative AI inference recommendations in Amazon SageMaker AI directly in your notebook. Benchmark an endpoint, generate data-driven deployment recommen",
-      "authors": [],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
       "title": "Why health AI interfaces must adapt to user expertise",
       "url": "https://www.artificialintelligence-news.com/news/why-health-ai-interfaces-must-adapt-to-user-expertise/",
@@ -414,7 +370,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 141569,
+      "stars": 141608,
       "votes": 0,
       "points": 0
     },
