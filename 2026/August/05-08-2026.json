@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-08-10T23:03:27.967Z",
+  "generatedAt": "2026-08-10T23:57:42.970Z",
   "date": "05-08-2026",
   "count": 10,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2607.26657",
+      "title": "Enfold: Folding World Model Imagination into Predictive Representations for Ultra-Efficient Embodied Control",
+      "url": "https://huggingface.co/papers/2607.26657",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-05T20:00:00.000Z",
+      "abstract": "World generative models are typically used through what they produce: a rendered future, a video-conditioned action, or latent context computed by a costly generative branch. We argue that their more",
+      "authors": [
+        "Weili Zeng",
+        "Yitong Xing",
+        "Fulong Liu",
+        "Chengqun Yang",
+        "Antao Xiang"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2608.06113",
       "title": "DCAS: Decoupling CLI Agent Scaffolding to Internalize Planning across Scaffolds",
@@ -133,36 +159,6 @@
       ],
       "tags": [
         "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.06485",
-      "title": "Do AI Personas Grow? Analyzing and Benchmarking Personality Evolution in LLM Agents After Life Events",
-      "url": "https://huggingface.co/papers/2608.06485",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-05T20:00:00.000Z",
-      "abstract": "Personality-conditioned LLM agents (PC-Agents) are increasingly used in emotional support, social simulation, and role-playing, motivating the development of lifelong agents that remain coherent over",
-      "authors": [
-        "Ming Wang",
-        "Peidong Wang",
-        "Xiaocui Yang",
-        "Daling Wang",
-        "Shi Feng"
-      ],
-      "tags": [
-        "llm",
-        "agent",
-        "benchmark"
       ],
       "score": 6,
       "priority": "MEDIUM",
