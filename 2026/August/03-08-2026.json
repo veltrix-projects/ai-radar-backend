@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-10T08:20:44.710Z",
+  "generatedAt": "2026-08-10T09:54:31.478Z",
   "date": "03-08-2026",
-  "count": 11,
+  "count": 12,
   "summary": null,
   "items": [
     {
@@ -18,6 +18,31 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.18846",
+      "title": "Towards Interpretable Foundation Models for Retinal Fundus Images",
+      "url": "https://huggingface.co/papers/2603.18846",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-03T20:00:00.000Z",
+      "abstract": "Foundation models are used to extract transferable representations from large amounts of unlabeled data, typically via self-supervised learning (SSL). However, many of these models rely on architectur",
+      "authors": [
+        "Samuel Ofosu Mensah",
+        "Camila Roa",
+        "Kerol Djoumessi",
+        "Philipp Berens"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
