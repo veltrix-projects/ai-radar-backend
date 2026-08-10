@@ -1,9 +1,63 @@
 {
-  "generatedAt": "2026-08-10T01:06:46.704Z",
+  "generatedAt": "2026-08-10T03:21:44.615Z",
   "date": "05-08-2026",
-  "count": 17,
+  "count": 16,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2608.05703",
+      "title": "StreamArena: Toward Continuous, Interactive, and Long-Horizon Agentic Streaming Video Understanding",
+      "url": "https://huggingface.co/papers/2608.05703",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-05T20:00:00.000Z",
+      "abstract": "Deploying autonomous multimodal agents in continuous, real-world environments requires them to ingest unbounded audio-visual streams and maintain hour-scale memory. However, current evaluations predom",
+      "authors": [
+        "Xichen Zhang",
+        "Guankai Li",
+        "Yinghao Zhu",
+        "Shijian Wang",
+        "Sitong Wu"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.06640",
+      "title": "Characterizing the Quality Profile of AI-Generated C++ in Production",
+      "url": "https://huggingface.co/papers/2608.06640",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-05T20:00:00.000Z",
+      "abstract": "The widespread integration of AI coding assistants offers undeniable boosts to engineering velocity. Yet, recent studies point to a growing trade-off, revealing persistent challenges with code quality",
+      "authors": [
+        "Michael Tran",
+        "Fred Lewis",
+        "Kun Yang",
+        "Saksham Thakur",
+        "Aditya Kini"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2608.05798",
       "title": "KVAE: Family of Tokenizers for Multimodal Generative Models",
@@ -179,87 +233,6 @@
         "Yunheng Liu"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.05565",
-      "title": "EffectLearner: World-Aware Object-Effect Reasoning for Real-World Video Object Removal",
-      "url": "https://huggingface.co/papers/2608.05565",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-05T20:00:00.000Z",
-      "abstract": "Video object removal must eliminate not only the target object but also its induced effects while maintaining high-fidelity and spatiotemporally coherent restoration. Existing methods mainly learn obj",
-      "authors": [
-        "Feier Wu",
-        "Wanke Xia",
-        "Xu He",
-        "Zilang Zhou",
-        "Si Chen"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.06146",
-      "title": "PaDoc: Layout-Grounded Parallel Decoding for Document Parsing",
-      "url": "https://huggingface.co/papers/2608.06146",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-05T20:00:00.000Z",
-      "abstract": "End-to-end document parsers provide a unified interface, but serialize page layouts and regional contents into one autoregressive sequence. This formulation forces independent regions onto a decoding",
-      "authors": [
-        "Hao Yu",
-        "Jiabo Zhan",
-        "Kang Liu",
-        "Linnan Zhao",
-        "Dongxu Yue"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.06197",
-      "title": "EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2608.06197",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-05T20:00:00.000Z",
-      "abstract": "Training large language model agents for long-horizon tool use typically relies on interactions with real or synthesized executable environments, whose construction and verification are costly, or on",
-      "authors": [
-        "Zishan Xu",
-        "Zhiyuan Yao",
-        "Yuxin Chen",
-        "Yifu Guo",
-        "Zhengxi Lu"
-      ],
-      "tags": [
-        "agent",
-        "reinforcement learning"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
