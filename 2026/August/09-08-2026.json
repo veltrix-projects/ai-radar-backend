@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-11T09:26:49.713Z",
+  "generatedAt": "2026-08-11T10:23:13.974Z",
   "date": "09-08-2026",
-  "count": 17,
+  "count": 19,
   "summary": null,
   "items": [
     {
@@ -89,6 +89,34 @@
       ],
       "tags": [
         "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.07346",
+      "title": "A^2E : An End-to-End Agent Auditing Engine",
+      "url": "https://huggingface.co/papers/2608.07346",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-09T20:00:00.000Z",
+      "abstract": "With the rapid advancement of large language models (LLMs), harnesses have become essential infrastructure for deploying agents across a wide range of domains. The fast-evolving harness ecosystem has",
+      "authors": [
+        "Haoning Wang",
+        "Mingxun Zhang",
+        "Chenyue Yu",
+        "Yingjun Shang",
+        "Xia Hu"
+      ],
+      "tags": [
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -277,6 +305,35 @@
         "Yilun Zhao"
       ],
       "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.02508",
+      "title": "RoMeRL: Balancing Feedback Coverage and the Memory-Reward Trap in Self-Evolving Agent Memory via Reduced-Order Utility States",
+      "url": "https://huggingface.co/papers/2608.02508",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-09T20:00:00.000Z",
+      "abstract": "Learning-based memory systems for self-evolving LLM agents face two tightly coupled challenges. First, trajectory-indexed utilities grow with the interaction history, thereby dispersing limited feedba",
+      "authors": [
+        "Yi Yang",
+        "Zhennan Chen",
+        "Yihong Zhuang",
+        "Tiehan Fan",
+        "Yinan Chen"
+      ],
+      "tags": [
+        "rag",
+        "agent"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

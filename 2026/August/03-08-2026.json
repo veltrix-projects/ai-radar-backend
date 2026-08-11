@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-08-11T09:26:49.715Z",
+  "generatedAt": "2026-08-11T10:23:13.978Z",
   "date": "03-08-2026",
   "count": 6,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2608.02508",
-      "title": "RoMeRL: Balancing Feedback Coverage and the Memory-Reward Trap in Self-Evolving Agent Memory via Reduced-Order Utility States",
-      "url": "https://huggingface.co/papers/2608.02508",
+      "id": "hf_paper_2608.03499",
+      "title": "WeClawArena: An Auditable Sandbox and Benchmark for Cross-User Agents Collaboration and Security in Human-Centered Agent Networks",
+      "url": "https://huggingface.co/papers/2608.03499",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-08-03T20:00:00.000Z",
-      "abstract": "Learning-based memory systems for self-evolving LLM agents face two tightly coupled challenges. First, trajectory-indexed utilities grow with the interaction history, thereby dispersing limited feedba",
+      "abstract": "Recent advances in persistent personal-agent frameworks are making human-centered agent networks realistic deployment targets: each user can be served by an AI agent that acts on the user's behalf, ma",
       "authors": [
-        "Yi Yang",
-        "Zhennan Chen",
-        "Yihong Zhuang",
-        "Tiehan Fan",
-        "Yinan Chen"
+        "Prince Zizhuang Wang",
+        "Aojie Yuan",
+        "Haiyue Zhang",
+        "Xiyang Hu",
+        "Yue Zhao"
       ],
       "tags": [
-        "rag",
-        "agent"
+        "agent",
+        "benchmark"
       ],
       "score": 6,
       "priority": "MEDIUM",

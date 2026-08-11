@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T09:26:49.714Z",
+  "generatedAt": "2026-08-11T10:23:13.976Z",
   "date": "07-08-2026",
   "count": 19,
   "summary": null,
@@ -17,6 +17,34 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.08285",
+      "title": "Ego-OSCAR: Egocentric Open source Stereo CAptuRe System",
+      "url": "https://huggingface.co/papers/2608.08285",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-07T20:00:00.000Z",
+      "abstract": "We present Ego-OSCAR, an open-hardware, low-cost, head-mounted stereo-inertial capture device for egocentric data collection in the wild. EgoOSCAR pairs a hardware-synchronized global-shutter stereo c",
+      "authors": [
+        "Gunjan Paul",
+        "Senthil Palanisamy",
+        "Satpal Singh Rathore",
+        "Pratyush Kumar Patnaik",
+        "Shubhanshu Khatana"
+      ],
+      "tags": [
+        "open source"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -94,32 +122,6 @@
       "tags": [
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.08021",
-      "title": "Evidence-RL: Towards Evidence-intensive Visual Reasoning",
-      "url": "https://huggingface.co/papers/2608.08021",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-07T20:00:00.000Z",
-      "abstract": "Vision-Language Models (VLMs) should answer from concrete image evidence rather than language priors, dataset shortcuts, or irrelevant visual context. Existing perception-aware post-training methods e",
-      "authors": [
-        "Haojie Huang",
-        "Xinlei Yu",
-        "Chengming Xu",
-        "Zhangquan Chen",
-        "Cheng Yang"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
