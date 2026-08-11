@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-11T20:34:08.189Z",
+  "generatedAt": "2026-08-11T21:35:47.944Z",
   "date": "07-08-2026",
-  "count": 11,
+  "count": 10,
   "summary": null,
   "items": [
     {
@@ -70,32 +70,6 @@
         "Ziqi Gao",
         "Luke Zettlemoyer",
         "Ranjay Krishna"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.08097",
-      "title": "OasisKV: Scaling In-Decode KV Cache Beyond HBM with Lookahead Sparse Prefetching",
-      "url": "https://huggingface.co/papers/2608.08097",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-07T20:00:00.000Z",
-      "abstract": "Large language model (LLM) inference serving is increasingly constrained by memory rather than compute. As long-context and long-form reasoning workloads become more prevalent, the key-value (KV) cach",
-      "authors": [
-        "Can Xiao",
-        "Sukmin Cho",
-        "Junbong We",
-        "Zhixiong Niu",
-        "Jianyi Cheng"
       ],
       "tags": [],
       "score": 6,
