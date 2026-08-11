@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T18:47:39.325Z",
+  "generatedAt": "2026-08-11T19:54:32.282Z",
   "date": "09-08-2026",
   "count": 9,
   "summary": null,
@@ -20,6 +20,34 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.09766",
+      "title": "Cultivar: A Contrastive and Locale-Oriented Translation Benchmark for Investigating Contamination and Localisation Robustness",
+      "url": "https://huggingface.co/papers/2608.09766",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-09T20:00:00.000Z",
+      "abstract": "Multilingual translation benchmarks are typically sourced in English and translated into other languages, treating language pairs as the unit of evaluation---a design that is prone to contamination ov",
+      "authors": [
+        "Pinzhen Chen",
+        "Koel Dutta Chowdhury",
+        "Xiaoya Xu",
+        "David Tan",
+        "Doreen Osmelak"
+      ],
+      "tags": [
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -147,32 +175,6 @@
       "tags": [
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.09853",
-      "title": "RynnValue: Scaling Robotic Value Foundation Models with Temporal Distance",
-      "url": "https://huggingface.co/papers/2608.09853",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-09T20:00:00.000Z",
-      "abstract": "General-purpose reward models are increasingly the bottleneck for scaling robot learning, yet the recipe for learning value-related capabilities from large-scale heterogeneous corpora remains underexp",
-      "authors": [
-        "Dongchi Huang",
-        "Hongyin Zhang",
-        "Bohan Hou",
-        "Siteng Huang",
-        "Zhian Su"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
