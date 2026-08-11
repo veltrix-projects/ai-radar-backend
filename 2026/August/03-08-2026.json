@@ -1,9 +1,34 @@
 {
-  "generatedAt": "2026-08-11T16:47:04.452Z",
+  "generatedAt": "2026-08-11T17:49:27.180Z",
   "date": "03-08-2026",
-  "count": 6,
+  "count": 7,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2608.03887",
+      "title": "Omega-S: A Functional Resilience Index for LLM Fine-Tuning",
+      "url": "https://huggingface.co/papers/2608.03887",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-03T20:00:00.000Z",
+      "abstract": "Fine-tuning a large language model on new data degrades what it previously learned. We present Omega-S, a drop-in penalty computed from the weight matrix alone: it needs no previous-task data, no Fish",
+      "authors": [
+        "Alberto Acedo"
+      ],
+      "tags": [
+        "llm",
+        "fine-tuning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2608.03499",
       "title": "WeClawArena: An Auditable Sandbox and Benchmark for Cross-User Agents Collaboration and Security in Human-Centered Agent Networks",
