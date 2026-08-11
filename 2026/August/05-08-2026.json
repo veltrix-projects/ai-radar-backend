@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-08-11T05:47:27.435Z",
+  "generatedAt": "2026-08-11T06:49:01.502Z",
   "date": "05-08-2026",
   "count": 5,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2608.07594",
+      "title": "Scaling Inherently Interpretable Language Models",
+      "url": "https://huggingface.co/papers/2608.07594",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-05T20:00:00.000Z",
+      "abstract": "Interpretability is often treated as a tax on capability: language models are trained as opaque systems, then explained after the fact, with methods whose reliability is difficult to establish. In thi",
+      "authors": [
+        "Guide Labs Team",
+        "Andreas Madsen",
+        "Aya Abdelsalam Ismail",
+        "Giang Nguyen",
+        "Isaac Plant"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2608.06614",
       "title": "Factorized Hypothesis Search for Evidence-to-Taxonomy Retrieval",
@@ -50,32 +76,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.06113",
-      "title": "DCAS: Decoupling CLI Agent Scaffolding to Internalize Planning across Scaffolds",
-      "url": "https://huggingface.co/papers/2608.06113",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-05T20:00:00.000Z",
-      "abstract": "CLI-based software-engineering agents have matured rapidly, yet the open ecosystem has converged on a single training environment: trajectory datasets used to fine-tune open models are collected almos",
-      "authors": [
-        "Kishanthan Thangarajah",
-        "Boyuan Chen",
-        "Ahmed E. Hassan"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
