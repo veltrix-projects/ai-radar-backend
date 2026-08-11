@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-11T04:46:34.617Z",
+  "generatedAt": "2026-08-11T05:47:27.436Z",
   "date": "04-08-2026",
-  "count": 15,
+  "count": 12,
   "summary": null,
   "items": [
     {
@@ -88,81 +88,6 @@
       "tags": [
         "rag"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.04569",
-      "title": "Relevant but Incomplete: Referential Dangling as a Paradigm-Level Failure Mode in Hard Prompt Compression",
-      "url": "https://huggingface.co/papers/2608.04569",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-04T20:00:00.000Z",
-      "abstract": "Hard prompt compression reduces long-context inference cost by independently scoring tokens, sentences, or chunks and retaining the highest-scoring units under a budget. We identify a structural failu",
-      "authors": [
-        "Zhengpei Hu",
-        "Kai Li",
-        "Dapeng Fu",
-        "Xuechao Zou",
-        "Yuanhao Tang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.05224",
-      "title": "Small Foundation Models of Human Cognition and Behaviour",
-      "url": "https://huggingface.co/papers/2608.05224",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-04T20:00:00.000Z",
-      "abstract": "Large language models fine-tuned on human behavioural data have emerged as general-purpose cognitive proxies, but the scale this requires, and whether these models process task structure or exploit st",
-      "authors": [
-        "Nick Oh",
-        "Fernand Gobet"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.04314",
-      "title": "Adversarial Attacks for Good: A Survey of Proactive Protection across the Visual Content Lifecycle",
-      "url": "https://huggingface.co/papers/2608.04314",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-04T20:00:00.000Z",
-      "abstract": "Once visual content enters an AI pipeline, its owner often retains little technical control over how it is used. Legal and regulatory remedies can address misuse, but many technical interventions must",
-      "authors": [
-        "Jiaming Zhang",
-        "Boyang Chen",
-        "Zherui Li",
-        "Fuyao Zhang",
-        "Xinyu Yan"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
