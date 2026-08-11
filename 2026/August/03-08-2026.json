@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-11T03:16:06.450Z",
+  "generatedAt": "2026-08-11T04:46:34.619Z",
   "date": "03-08-2026",
-  "count": 8,
+  "count": 7,
   "summary": null,
   "items": [
     {
@@ -51,34 +51,6 @@
       ],
       "tags": [
         "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.03796",
-      "title": "Efficient Knowledge Distillation for LLMs: Offline Top-K Logits and a Fused Chunked KL Loss",
-      "url": "https://huggingface.co/papers/2608.03796",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-03T20:00:00.000Z",
-      "abstract": "Small language models are often the only option for deployment under tight latency, cost, and on-premises constraints, but they are rarely trained from scratch: a compressed model is usually recovered",
-      "authors": [
-        "Bakbergen Ryskulov",
-        "Iker García-Ferrero",
-        "David Montero",
-        "David Jansen",
-        "Ali Hashemi"
-      ],
-      "tags": [
-        "llm"
       ],
       "score": 6,
       "priority": "MEDIUM",
