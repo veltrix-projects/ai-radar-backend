@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-11T13:50:06.115Z",
+  "generatedAt": "2026-08-11T14:50:02.300Z",
   "date": "08-08-2026",
-  "count": 7,
+  "count": 9,
   "summary": null,
   "items": [
     {
@@ -16,6 +16,59 @@
       "authors": [],
       "tags": [
         "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.08722",
+      "title": "Gaming Without an Attacker: Benchmark Fingerprinting in LLM-Driven Search Under Selection Pressure",
+      "url": "https://huggingface.co/papers/2608.08722",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-08T20:00:00.000Z",
+      "abstract": "Benchmarks for systems that are optimized against the evaluation signal measure something different from what they claim. We document this concretely in two GPU-kernel-optimization suites with held-ou",
+      "authors": [
+        "Víctor Gallego"
+      ],
+      "tags": [
+        "llm",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.08786",
+      "title": "SymDiag: Explainable Diagnosis for LLM Reasoning via Neuro-Symbolic Verification",
+      "url": "https://huggingface.co/papers/2608.08786",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-08T20:00:00.000Z",
+      "abstract": "Large language models (LLMs) increasingly serve as data-driven reasoners, yet their chains-of-thought (CoT) can be unfaithful even when final answers are correct. Most existing ``verification'' signal",
+      "authors": [
+        "Wenyao Cui",
+        "Huaping Zhang",
+        "Yongyi Huang",
+        "Qiuchi Li",
+        "Jian Xu"
+      ],
+      "tags": [
+        "llm"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -135,7 +188,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 157697,
+      "stars": 157700,
       "votes": 0,
       "points": 0
     },
@@ -165,7 +218,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 270550,
+      "stars": 270611,
       "votes": 0,
       "points": 0
     }
