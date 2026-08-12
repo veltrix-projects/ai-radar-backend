@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T09:36:17.863Z",
+  "generatedAt": "2026-08-12T10:51:47.812Z",
   "date": "09-08-2026",
   "count": 5,
   "summary": null,
@@ -20,6 +20,30 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.10288",
+      "title": "Power law graph attention: exact generalization of scaled dot-product attention, empirical collapse at inference",
+      "url": "https://huggingface.co/papers/2608.10288",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-09T20:00:00.000Z",
+      "abstract": "The Large Language Model from Power Law Decoder Representations (PLDR-LLM) and its attention, Power Law Graph Attention (PLGA), replace the fixed bilinear form of scaled dot-product attention (SDPA) w",
+      "authors": [
+        "Burc Gokden"
+      ],
+      "tags": [
+        "inference"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -72,30 +96,6 @@
       ],
       "tags": [
         "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.10288",
-      "title": "Power law graph attention: exact generalization of scaled dot-product attention, empirical collapse at inference",
-      "url": "https://huggingface.co/papers/2608.10288",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-09T20:00:00.000Z",
-      "abstract": "The Large Language Model from Power Law Decoder Representations (PLDR-LLM) and its attention, Power Law Graph Attention (PLGA), replace the fixed bilinear form of scaled dot-product attention (SDPA) w",
-      "authors": [
-        "Burc Gokden"
-      ],
-      "tags": [
-        "inference"
       ],
       "score": 6,
       "priority": "MEDIUM",

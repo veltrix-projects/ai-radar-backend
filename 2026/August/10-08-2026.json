@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T09:36:17.863Z",
+  "generatedAt": "2026-08-12T10:51:47.810Z",
   "date": "10-08-2026",
   "count": 31,
   "summary": null,
@@ -37,6 +37,34 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.10628",
+      "title": "InSight-doc: Agentic Visual Perception for Long-Document Understanding",
+      "url": "https://huggingface.co/papers/2608.10628",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-10T20:00:00.000Z",
+      "abstract": "Long-document understanding often requires reasoning over many visually rich pages, making inference costly and prone to context rot. In this work, we propose InSight-doc, an agentic visual perception",
+      "authors": [
+        "Kaican Li",
+        "Weiyan Xie",
+        "Lewei Yao",
+        "Jiannan Wu",
+        "Lanqing Hong"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -273,32 +301,6 @@
       "tags": [
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.10744",
-      "title": "Beyond Pixels: From Video Priors to 4D Worlds",
-      "url": "https://huggingface.co/papers/2608.10744",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-10T20:00:00.000Z",
-      "abstract": "4D generation synthesizes dynamic 3D scenes from conditions such as text or images. Existing methods either reconstruct generated RGB videos with a separate 4D model or adapt a particular video genera",
-      "authors": [
-        "Zihao Liu",
-        "Xiaolong Shen",
-        "Zhenglin Zhou",
-        "Ruijie Quan",
-        "Yi Yang"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
