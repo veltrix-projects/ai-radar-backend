@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T06:50:27.892Z",
+  "generatedAt": "2026-08-12T09:36:17.863Z",
   "date": "09-08-2026",
   "count": 5,
   "summary": null,
@@ -20,6 +20,34 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.09900",
+      "title": "Decoding-Level Taboo: A Diagnostic Stress Test for LLM Robustness",
+      "url": "https://huggingface.co/papers/2608.09900",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-09T20:00:00.000Z",
+      "abstract": "Large language model evaluations typically focus on performance under nominal conditions, creating an illusion of capability where models comfortably walk a narrow, highly optimized generation corrido",
+      "authors": [
+        "Tadanobu Chuyo Kamijo",
+        "Ori Rottenstreich",
+        "Javier Conde",
+        "Gonzalo Martínez",
+        "Pedro Reviriego"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -55,23 +83,19 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2608.09766",
-      "title": "Cultivar: A Contrastive and Locale-Oriented Translation Benchmark for Investigating Contamination and Localisation Robustness",
-      "url": "https://huggingface.co/papers/2608.09766",
+      "id": "hf_paper_2608.10288",
+      "title": "Power law graph attention: exact generalization of scaled dot-product attention, empirical collapse at inference",
+      "url": "https://huggingface.co/papers/2608.10288",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-08-09T20:00:00.000Z",
-      "abstract": "Multilingual translation benchmarks are typically sourced in English and translated into other languages, treating language pairs as the unit of evaluation---a design that is prone to contamination ov",
+      "abstract": "The Large Language Model from Power Law Decoder Representations (PLDR-LLM) and its attention, Power Law Graph Attention (PLGA), replace the fixed bilinear form of scaled dot-product attention (SDPA) w",
       "authors": [
-        "Pinzhen Chen",
-        "Koel Dutta Chowdhury",
-        "Xiaoya Xu",
-        "David Tan",
-        "Doreen Osmelak"
+        "Burc Gokden"
       ],
       "tags": [
-        "benchmark"
+        "inference"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -95,26 +119,6 @@
       "tags": [
         "llm"
       ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "IMDb Sentiment Analysis with DistilBERT LoRA, TF-IDF Baselines, Calibration, Interpretability, Robustness Testing, and Semi-Supervised Learning",
-      "url": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-08-09T07:17:35.000Z",
-      "abstract": "This tutorial provides a comprehensive guide to building a robust sentiment analysis workflow. By combining classical TF-IDF baselines with modern parameter-efficient fine-tuning (DistilBERT + LoRA),",
-      "authors": [],
-      "tags": [],
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",

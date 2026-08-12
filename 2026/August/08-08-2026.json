@@ -1,9 +1,64 @@
 {
-  "generatedAt": "2026-08-12T06:50:27.892Z",
+  "generatedAt": "2026-08-12T09:36:17.864Z",
   "date": "08-08-2026",
   "count": 5,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2608.08814",
+      "title": "360CityArena: A Realistic Virtual Urban Navigation Benchmark for Embodied Agents",
+      "url": "https://huggingface.co/papers/2608.08814",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-08T20:00:00.000Z",
+      "abstract": "We present 360CityArena, a benchmark for evaluating the urban exploration capabilities of embodied agents within a photorealistic environment constructed from 360-degree videos. Existing outdoor bench",
+      "authors": [
+        "Kenta Watanabe",
+        "Atsuyuki Miyai",
+        "Mizuki Takenawa",
+        "Kiyoharu Aizawa",
+        "Toshihiko Yamasaki"
+      ],
+      "tags": [
+        "agent",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.08627",
+      "title": "UniMoMo: Expert Merging-Based MoE Acceleration for Large Recommendation Models",
+      "url": "https://huggingface.co/papers/2608.08627",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-08T20:00:00.000Z",
+      "abstract": "Sparse mixture-of-experts (MoE) layers expand recommendation capacity through conditional computation, yet a trained checkpoint still stores and routes over its full expert bank. We study a deployment",
+      "authors": [
+        "Lei Xin",
+        "Bin Gu",
+        "Peize Li",
+        "Zitong Wang",
+        "Jianbo Zhao"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2608.08389",
       "title": "Not Worth Another Token: Marginal Value Estimation for Efficient Deep Research Agents",
@@ -23,54 +78,6 @@
       "tags": [
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.08477",
-      "title": "VectraYX-Vision-1B: A Sub-2B Spanish/LATAM Cybersecurity Vision-Language Model with Structured Visual Reasoning and Native Tool Use",
-      "url": "https://huggingface.co/papers/2608.08477",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-08T20:00:00.000Z",
-      "abstract": "We present VectraYX-Vision-1B, a sub-2B vision-language model (VLM) for Spanish/LATAM cybersecurity imagery, coupling a frozen SigLIP-so400m encoder to a 1.04B Spanish/LATAM security decoder via an ML",
-      "authors": [
-        "Juan S. Santillana"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.06296",
-      "title": "On-Policy Self-Distillation without Any Supervision",
-      "url": "https://huggingface.co/papers/2608.06296",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-08T20:00:00.000Z",
-      "abstract": "On-policy (Self-)Distillation (OPD / OPSD) has shown strong potential for post-training large language models (LLMs). However, existing methods still rely heavily on external supervision, including gr",
-      "authors": [
-        "Yijiang Li",
-        "Bingyang Wang",
-        "Yijun Liang",
-        "Yunjie Tian",
-        "Di Fu"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -127,7 +134,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 157710,
+      "stars": 157716,
       "votes": 0,
       "points": 0
     }
