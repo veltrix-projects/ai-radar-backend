@@ -1,19 +1,25 @@
 {
-  "generatedAt": "2026-08-12T05:11:32.837Z",
+  "generatedAt": "2026-08-12T06:50:27.892Z",
   "date": "08-08-2026",
-  "count": 9,
+  "count": 5,
   "summary": null,
   "items": [
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Meet Shepherd: An Open-Source Python Substrate That Lets Meta-Agents Fork, Replay, and Revert Any Agent Run",
-      "url": "https://www.marktechpost.com/2026/08/08/meet-shepherd-an-open-source-python-substrate-that-lets-meta-agents-fork-replay-and-revert-any-agent-run/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
+      "id": "hf_paper_2608.08389",
+      "title": "Not Worth Another Token: Marginal Value Estimation for Efficient Deep Research Agents",
+      "url": "https://huggingface.co/papers/2608.08389",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-08-08T20:54:49.000Z",
-      "abstract": "Long agent runs accumulate state that no transcript records — edited files, a live dev server, installed packages, a warm prompt cache. When an agent misreads a traceback at step 10 and rewrites a cor",
-      "authors": [],
+      "timestamp": "2026-08-08T20:00:00.000Z",
+      "abstract": "Long-horizon research agents solve open-ended tasks through iterative retrieval, aggregation, and synthesis, but context grows rapidly while the marginal value of additional evidence often declines. T",
+      "authors": [
+        "Harshitha Kolukuluru",
+        "Reshma Ashok",
+        "Kirat Arora",
+        "Evan William Ciccarelli",
+        "Nischal Ashok Kumar"
+      ],
       "tags": [
         "agent"
       ],
@@ -75,89 +81,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2608.08621",
-      "title": "Business Arena: Benchmarking LLM Agents in a Realistic Marketplace",
-      "url": "https://huggingface.co/papers/2608.08621",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-08T20:00:00.000Z",
-      "abstract": "Running a business is a challenging form of intelligent work. Operators must infer opportunities from partial signals, commit capital under uncertainty, adapt to delayed outcomes in a changing market,",
-      "authors": [
-        "Yijun Pan",
-        "Yukun Lian",
-        "Kunyu Shi",
-        "Junbo Li",
-        "Hongwei Xue"
-      ],
-      "tags": [
-        "llm",
-        "agent",
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.08722",
-      "title": "Gaming Without an Attacker: Benchmark Fingerprinting in LLM-Driven Search Under Selection Pressure",
-      "url": "https://huggingface.co/papers/2608.08722",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-08T20:00:00.000Z",
-      "abstract": "Benchmarks for systems that are optimized against the evaluation signal measure something different from what they claim. We document this concretely in two GPU-kernel-optimization suites with held-ou",
-      "authors": [
-        "Víctor Gallego"
-      ],
-      "tags": [
-        "llm",
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.08786",
-      "title": "SymDiag: Explainable Diagnosis for LLM Reasoning via Neuro-Symbolic Verification",
-      "url": "https://huggingface.co/papers/2608.08786",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-08T20:00:00.000Z",
-      "abstract": "Large language models (LLMs) increasingly serve as data-driven reasoners, yet their chains-of-thought (CoT) can be unfaithful even when final answers are correct. Most existing ``verification'' signal",
-      "authors": [
-        "Wenyao Cui",
-        "Huaping Zhang",
-        "Yongyi Huang",
-        "Qiuchi Li",
-        "Jian Xu"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fcrab-ody",
       "title": "Crab Odyssey: Crustacean Wandered the Seas in a Bottle for Months, Scientists Find",
       "url": "https://www.404media.co/crab-odyssey-crustacean-wandered-the-seas-in-a-bottle-for-months-scientists-find/",
@@ -204,37 +127,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 157708,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "gh_1073224795",
-      "title": "obra/superpowers — An agentic skills framework & software development methodology that works.",
-      "url": "https://github.com/obra/superpowers",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-08-08T01:45:49Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "ai",
-        "brainstorming",
-        "coding",
-        "obra",
-        "sdlc",
-        "skills",
-        "subagent-driven-development",
-        "superpowers",
-        "Shell"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 270826,
+      "stars": 157710,
       "votes": 0,
       "points": 0
     }

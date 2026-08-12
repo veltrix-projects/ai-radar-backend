@@ -1,9 +1,38 @@
 {
-  "generatedAt": "2026-08-12T05:11:32.945Z",
+  "generatedAt": "2026-08-12T06:50:27.893Z",
   "date": "06-08-2026",
   "count": 6,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2608.03216",
+      "title": "iFAN: Inference-Aware Learning for Plain Mask Transformers",
+      "url": "https://huggingface.co/papers/2608.03216",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-06T20:00:00.000Z",
+      "abstract": "Query-based mask transformers assemble segmentation outputs through pixel-wise competition among query predictions of the final layer, yet this inference process is not explicitly optimized during tra",
+      "authors": [
+        "Fang Li",
+        "Yu He",
+        "Haoyang Tong",
+        "Lichen Ma",
+        "Jingling Fu"
+      ],
+      "tags": [
+        "transformer",
+        "inference"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2608.07645",
       "title": "Mendel Gödel Machine: Recursive Self-Improving Coding Agents via Comparative Evolution",
@@ -49,33 +78,6 @@
         "Thao Nguyen"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.07463",
-      "title": "MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation",
-      "url": "https://huggingface.co/papers/2608.07463",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-06T20:00:00.000Z",
-      "abstract": "Recent advances in video diffusion models (VDMs) have enabled high-fidelity video synthesis. However, generating mirror reflections remains challenging because the content within a mirror must remain",
-      "authors": [
-        "Youjun Zhao",
-        "Alex Warren",
-        "Gary K. L. Tam",
-        "Rynson W. H. Lau"
-      ],
-      "tags": [
-        "diffusion"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -143,7 +145,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 143497,
+      "stars": 143632,
       "votes": 0,
       "points": 0
     }
