@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T09:37:33.986Z",
+  "generatedAt": "2026-08-13T10:53:00.076Z",
   "date": "10-08-2026",
   "count": 19,
   "summary": null,
@@ -96,34 +96,6 @@
         "Jihyong Oh"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.11274",
-      "title": "Agent Safety Should Be a Runtime Contract",
-      "url": "https://huggingface.co/papers/2608.11274",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-10T20:00:00.000Z",
-      "abstract": "The dominant paradigm treats AI safety as a property to be instilled during model training via RLHF, DPO, or Constitutional AI. We argue this is structurally insufficient for autonomous agents that ex",
-      "authors": [
-        "Albus W. Ng",
-        "Yi Han",
-        "Jusheng Zhang",
-        "Wenhao Wang"
-      ],
-      "tags": [
-        "agent",
-        "safety"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -251,6 +223,30 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.09805",
+      "title": "Parameter Exploration for RLVR via Variational Learning",
+      "url": "https://huggingface.co/papers/2608.09805",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-10T12:28:07.000Z",
+      "abstract": "Exploration has been a focus of reinforcement learning research for a long time. Recently, there has been growing evidence that it is also an important ingredient in LLM reinforcement learning recipes",
+      "authors": [
+        "Vatsal Venkatkrishna",
+        "Nico Daheim",
+        "Iryna Gurevych"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
