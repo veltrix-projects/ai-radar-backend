@@ -1,24 +1,26 @@
 {
-  "generatedAt": "2026-08-13T08:11:15.100Z",
+  "generatedAt": "2026-08-13T19:31:42.739Z",
   "date": "09-08-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2608.10288",
-      "title": "Power law graph attention: exact generalization of scaled dot-product attention, empirical collapse at inference",
-      "url": "https://huggingface.co/papers/2608.10288",
+      "id": "hf_paper_2608.09926",
+      "title": "Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning",
+      "url": "https://huggingface.co/papers/2608.09926",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-08-09T20:00:00.000Z",
-      "abstract": "The Large Language Model from Power Law Decoder Representations (PLDR-LLM) and its attention, Power Law Graph Attention (PLGA), replace the fixed bilinear form of scaled dot-product attention (SDPA) w",
+      "abstract": "The world evolves following its dynamics, i.e., its laws of motion. However, leading video diffusion models largely fit the pixels without modeling how the pixels transit over time. Thus, they render",
       "authors": [
-        "Burc Gokden"
+        "Haodong Li",
+        "Shaoteng Liu",
+        "Tianyu Wang",
+        "Chongjian Ge",
+        "Sihui Ji"
       ],
-      "tags": [
-        "inference"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
