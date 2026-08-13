@@ -1,28 +1,61 @@
 {
-  "generatedAt": "2026-08-13T01:08:31.040Z",
+  "generatedAt": "2026-08-13T05:27:09.736Z",
   "date": "07-08-2026",
-  "count": 4,
+  "count": 5,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2608.08119",
-      "title": "TSDS-Toolbox: A Toolbox for Measuring Time-Series Dataset Similarity",
-      "url": "https://huggingface.co/papers/2608.08119",
+      "id": "hf_paper_2608.08160",
+      "title": "Can LLM Agents Stick to the Script? A Benchmark for Long-Horizon Consistency in Interactive Narratives",
+      "url": "https://huggingface.co/papers/2608.08160",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-08-07T20:00:00.000Z",
-      "abstract": "The rapid advancement of artificial intelligence (AI) has significantly accelerated research in time-series analysis, particularly in forecasting, classification, and generation tasks. Recent models,",
+      "abstract": "The rapid advancement of Large Language Models (LLMs) is revolutionizing AI for Games by enabling open-ended and fluid interactive storytelling. However, existing research has largely overlooked the c",
       "authors": [
-        "Yen-Ku Liu",
-        "Hongjie Chen",
-        "Ryan A. Rossi",
-        "Franck Dernoncourt"
+        "Yingpeng Ma",
+        "Jianhao Yan",
+        "Bei Shi",
+        "Ka Hou Kam",
+        "Runnan Wang"
       ],
-      "tags": [],
+      "tags": [
+        "llm",
+        "agent",
+        "benchmark"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.08107",
+      "title": "NeuPAT: Neuron-aware Plasticity Allocation Tuning for Language-Preserving MLLMs",
+      "url": "https://huggingface.co/papers/2608.08107",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-07T20:00:00.000Z",
+      "abstract": "Multimodal expansion of large language models (LLMs) enables new perceptual capabilities but often compromises the language intelligence acquired during pretraining. In this work, we investigate this",
+      "authors": [
+        "Jiayue Jin",
+        "Jingwei Zhang",
+        "Chen Wang",
+        "Jing Liu",
+        "Longteng Guo"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

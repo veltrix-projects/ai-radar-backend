@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T01:08:31.041Z",
+  "generatedAt": "2026-08-13T05:27:09.737Z",
   "date": "06-08-2026",
   "count": 5,
   "summary": null,
@@ -31,25 +31,22 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2608.03216",
-      "title": "iFAN: Inference-Aware Learning for Plain Mask Transformers",
-      "url": "https://huggingface.co/papers/2608.03216",
+      "id": "hf_paper_2608.06729",
+      "title": "AtlasVLA: Persistent World-Ego State Modeling for Vision-Language-Action Models",
+      "url": "https://huggingface.co/papers/2608.06729",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-08-06T20:00:00.000Z",
-      "abstract": "Query-based mask transformers assemble segmentation outputs through pixel-wise competition among query predictions of the final layer, yet this inference process is not explicitly optimized during tra",
+      "abstract": "While Vision-Language-Action (VLA) models have advanced embodied AI, their fundamentally reactive paradigm severely limits performance in partially observable and long-horizon tasks. When restricted t",
       "authors": [
-        "Fang Li",
-        "Yu He",
-        "Haoyang Tong",
-        "Lichen Ma",
-        "Jingling Fu"
+        "Guiyu Zhao",
+        "Longteng Guo",
+        "Yanghong Mei",
+        "Zilin Zhu",
+        "Yu Zhang"
       ],
-      "tags": [
-        "transformer",
-        "inference"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -117,7 +114,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 144543,
+      "stars": 144670,
       "votes": 0,
       "points": 0
     }
