@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-14T03:33:47.340Z",
+  "generatedAt": "2026-08-14T05:24:30.189Z",
   "date": "30-07-2026",
-  "count": 3,
+  "count": 4,
   "summary": null,
   "items": [
     {
@@ -16,6 +16,34 @@
       "authors": [],
       "tags": [
         "autonomous"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.07545",
+      "title": "DarwinX: Evolving Agent Harnesses Through Natural Selection",
+      "url": "https://huggingface.co/papers/2608.07545",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-30T20:00:00.000Z",
+      "abstract": "An LLM agent's capability depends not only on model weights but on its harness: prompts, tools, skills, and control flow. Self-improvement loops already edit harnesses, yet single-lineage search is pa",
+      "authors": [
+        "Yifan Zhang",
+        "Yutong Dai",
+        "Juntao Tan",
+        "Luyu Yang",
+        "Rishi Mullur"
+      ],
+      "tags": [
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",

@@ -1,20 +1,28 @@
 {
-  "generatedAt": "2026-08-14T03:33:47.338Z",
+  "generatedAt": "2026-08-14T05:24:30.187Z",
   "date": "06-08-2026",
   "count": 3,
   "summary": null,
   "items": [
     {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "Why health AI interfaces must adapt to user expertise",
-      "url": "https://www.artificialintelligence-news.com/news/why-health-ai-interfaces-must-adapt-to-user-expertise/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-08-06T15:55:37.000Z",
-      "abstract": "MIT researchers and collaborators found that AI explainability tools in the health sector can produce sharply different results depending on who uses them. When applied to skin disease diagnosis, non-",
-      "authors": [],
-      "tags": [],
+      "id": "hf_paper_2608.06867",
+      "title": "LLMRouter: Unified Infrastructure for Developing, Evaluating, and Deploying LLM Routers",
+      "url": "https://huggingface.co/papers/2608.06867",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-06T20:00:00.000Z",
+      "abstract": "No single large language model (LLM) is optimal across all queries and budget constraints, making model routing essential for cost-effective deployment. Existing routers adopt diverse formulations and",
+      "authors": [
+        "Tao Feng",
+        "Fangxu Yu",
+        "Haozhen Zhang",
+        "Zhongjie Dai",
+        "Liangqi Yuan"
+      ],
+      "tags": [
+        "llm"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -62,7 +70,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 145222,
+      "stars": 145265,
       "votes": 0,
       "points": 0
     }
