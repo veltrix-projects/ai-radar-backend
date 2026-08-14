@@ -1,26 +1,28 @@
 {
-  "generatedAt": "2026-08-14T08:06:42.553Z",
+  "generatedAt": "2026-08-14T16:11:30.464Z",
   "date": "09-08-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2608.08975",
-      "title": "How Can Rhetoric Reward-Hack AI Reviewers? Dissecting Rhetorical Sensitivity in AI-Based Peer Review",
-      "url": "https://huggingface.co/papers/2608.08975",
+      "id": "hf_paper_2608.09158",
+      "title": "From Inaudible Inputs to Model Failures: Low-Frequency Safety Risks in LALMs",
+      "url": "https://huggingface.co/papers/2608.09158",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-08-09T20:00:00.000Z",
-      "abstract": "As large language models increasingly participate in scientific evaluation, we investigate a potential form of reward hacking: how rhetorical choices shape AI-review judgments when reported scientific",
+      "abstract": "Large audio-language models (LALMs) have demonstrated strong capabilities in understanding diverse audio inputs. This diversity includes low-frequency signals that are inaudible to humans but can stil",
       "authors": [
-        "Ming Li",
-        "Chenguang Wang",
-        "Xirui Li",
-        "Xinyue Zeng",
-        "Dianqi Li"
+        "Yuanhe Zhang",
+        "Weiliu Wang",
+        "Jie Ren",
+        "Liang Lin",
+        "Zhenhong Zhou"
       ],
-      "tags": [],
+      "tags": [
+        "safety"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
