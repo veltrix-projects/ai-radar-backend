@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-14T06:50:44.227Z",
+  "generatedAt": "2026-08-14T08:06:42.555Z",
   "date": "30-07-2026",
-  "count": 4,
+  "count": 5,
   "summary": null,
   "items": [
     {
@@ -16,6 +16,35 @@
       "authors": [],
       "tags": [
         "autonomous"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.29211",
+      "title": "Knowing When to Quit: Diagnosing and Training LLMs to Abort Futile Reasoning",
+      "url": "https://huggingface.co/papers/2607.29211",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-30T20:00:00.000Z",
+      "abstract": "Large language models generate computationally expensive yet semantically void reasoning on beyond-capability tasks, creating risks where plausible-sounding but incorrect derivations mislead users. We",
+      "authors": [
+        "Xinyan Guan",
+        "Jiali Zeng",
+        "Chunlei Xin",
+        "Yaojie Lu",
+        "Hongyu Lin"
+      ],
+      "tags": [
+        "llm",
+        "training"
       ],
       "score": 6,
       "priority": "MEDIUM",
