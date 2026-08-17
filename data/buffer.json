@@ -4449,5 +4449,91 @@
     "stars": 0,
     "votes": 0,
     "points": 0
+  },
+  {
+    "id": "hf_paper_2608.14106",
+    "title": "Forecast Collapse in Time-Series Foundation Models",
+    "url": "https://huggingface.co/papers/2608.14106",
+    "source": "HuggingFace Papers",
+    "sourceIcon": "🤗",
+    "type": "research",
+    "timestamp": "2026-08-13T20:00:00.000Z",
+    "abstract": "When forecasting hourly returns for 1,000 US equities, we observe an unexpected phenomenon: predictions become nearly flat and show poor stock ranking, as measured by cross-sectional correlation. We c",
+    "authors": [
+      "Shu Wan",
+      "Miles Ma",
+      "Hank Zhu",
+      "Guangqi Liu",
+      "Stephen Wang"
+    ],
+    "tags": [],
+    "score": 6,
+    "priority": "MEDIUM",
+    "sentiment": "neutral",
+    "downloads": 0,
+    "likes": 0,
+    "stars": 0,
+    "votes": 0,
+    "points": 0
+  },
+  {
+    "id": "hf_paper_2608.13667",
+    "title": "Second Thought: Reasoning in Parallel as LLM Agents Act and Observe",
+    "url": "https://huggingface.co/papers/2608.13667",
+    "source": "HuggingFace Papers",
+    "sourceIcon": "🤗",
+    "type": "research",
+    "timestamp": "2026-08-13T14:04:53.000Z",
+    "abstract": "LLM agents in the ReAct paradigm alternate between reasoning, acting, and observing, but deliberate reasoning is confined to the Thought phase: while the agent serializes an action and waits for the e",
+    "authors": [
+      "Zhensu Sun",
+      "Chengran Yang",
+      "Yunbo Lyu",
+      "Jieke Shi",
+      "David Lo"
+    ],
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "score": 6,
+    "priority": "MEDIUM",
+    "sentiment": "neutral",
+    "downloads": 0,
+    "likes": 0,
+    "stars": 0,
+    "votes": 0,
+    "points": 0
+  },
+  {
+    "id": "hf_model_AEON-7/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16",
+    "title": "AEON-7/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16",
+    "url": "https://huggingface.co/AEON-7/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16",
+    "source": "HuggingFace Models",
+    "sourceIcon": "🤗",
+    "type": "model",
+    "timestamp": "2026-08-17T05:42:58.000Z",
+    "abstract": "",
+    "authors": [],
+    "tags": [
+      "text-generation",
+      "transformers",
+      "safetensors",
+      "qwen3_5",
+      "image-text-to-text",
+      "27b",
+      "abliterated",
+      "abliterix",
+      "aeon",
+      "aeon-7"
+    ],
+    "score": 8,
+    "priority": "HIGH",
+    "sentiment": "positive",
+    "downloads": 508,
+    "likes": 104,
+    "stars": 0,
+    "votes": 0,
+    "points": 0
   }
 ]
