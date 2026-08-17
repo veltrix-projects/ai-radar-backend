@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-17T11:16:24.216Z",
+  "generatedAt": "2026-08-17T11:47:09.161Z",
   "date": "04-08-2026",
-  "count": 2,
+  "count": 3,
   "summary": null,
   "items": [
     {
@@ -38,6 +38,35 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.03744",
+      "title": "Agents Catching Agents: Shortcut Cascades and Benchmark Gaming in Clinical Multi-Agent Systems",
+      "url": "https://huggingface.co/papers/2608.03744",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-04T10:37:16.000Z",
+      "abstract": "Clinical decision support is moving toward committees of language-model agents deliberating on a shared workspace. We ask whether such committees can be gamed by shortcuts, cues a benchmark rewards bu",
+      "authors": [
+        "Sebastián Andrés Cajas Ordóñez",
+        "Agastya Munnangi",
+        "Aldo Marzullo",
+        "Felipe Ocampo Osorio",
+        "Quang Bui"
+      ],
+      "tags": [
+        "agent",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
