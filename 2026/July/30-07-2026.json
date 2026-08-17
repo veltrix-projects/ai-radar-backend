@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T03:24:45.557Z",
+  "generatedAt": "2026-08-17T04:08:47.392Z",
   "date": "30-07-2026",
   "count": 4,
   "summary": null,
@@ -27,25 +27,22 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2607.29211",
-      "title": "Knowing When to Quit: Diagnosing and Training LLMs to Abort Futile Reasoning",
-      "url": "https://huggingface.co/papers/2607.29211",
+      "id": "hf_paper_2608.00220",
+      "title": "Verifier-Induced Support Reshaping in On-Policy Optimization",
+      "url": "https://huggingface.co/papers/2608.00220",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-07-30T20:00:00.000Z",
-      "abstract": "Large language models generate computationally expensive yet semantically void reasoning on beyond-capability tasks, creating risks where plausible-sounding but incorrect derivations mislead users. We",
+      "abstract": "We show that on-policy reinforcement learning with verifiable rewards (RLVR) can improve the current objective while making successful behaviors for later objectives too rare to sample and reinforce.",
       "authors": [
-        "Xinyan Guan",
-        "Jiali Zeng",
-        "Chunlei Xin",
-        "Yaojie Lu",
-        "Hongyu Lin"
+        "Shaohang Wei",
+        "Zikun Su",
+        "Feifan Song",
+        "Wen Luo",
+        "Wei Li"
       ],
-      "tags": [
-        "llm",
-        "training"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

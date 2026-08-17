@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-17T03:24:45.554Z",
+  "generatedAt": "2026-08-17T04:08:47.388Z",
   "date": "12-08-2026",
-  "count": 31,
+  "count": 30,
   "summary": null,
   "items": [
     {
@@ -131,6 +131,34 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2608.13555",
+      "title": "HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark",
+      "url": "https://huggingface.co/papers/2608.13555",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-12T20:00:00.000Z",
+      "abstract": "Humanoid motion tracking is central to teleoperation and whole-body imitation, yet evaluation often disagrees with what people perceive in videos. Kinematic errors average per-frame pose differences b",
+      "authors": [
+        "Dairu Liu",
+        "Zekun Qi",
+        "Jiayu Zeng",
+        "Ruixi Yu",
+        "Yu Guan"
+      ],
+      "tags": [
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2608.13417",
       "title": "Beyond Final Scores: A Systematic Evaluation of Agents for Long-Horizon AI Research and Development",
       "url": "https://huggingface.co/papers/2608.13417",
@@ -195,30 +223,6 @@
       "abstract": "Score Distillation Sampling (SDS) enables text-to-3D generation by optimizing rendered images with a pretrained diffusion prior, but latent SDS often produces structured color artifacts and high-frequ",
       "authors": [
         "Vsevolod Skorokhodov"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.13430",
-      "title": "Are You Sure You're Sure? On the Impact of Instruction Tuning on Confidence and Lexical Diversity",
-      "url": "https://huggingface.co/papers/2608.13430",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-12T20:00:00.000Z",
-      "abstract": "Instruction-tuned language models achieve strong performance across a range of generation tasks, but have also recently been shown to exhibit verbalized overconfidence. In question answering, verbaliz",
-      "authors": [
-        "Irina Proskurina",
-        "Mayank Kumar",
-        "Oyindolapo O. Komolafe"
       ],
       "tags": [],
       "score": 6,
@@ -392,26 +396,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "Google tests AMIE for clinical video consultations",
-      "url": "https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-08-12T14:56:18.000Z",
-      "abstract": "Google’s research medical AI system, AMIE (Video), conducted synchronous video consultations with professional patient actors and received clinical evaluator ratings on par with primary care physician",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
