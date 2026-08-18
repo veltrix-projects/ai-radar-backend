@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-18T07:59:54.821Z",
+  "generatedAt": "2026-08-18T09:22:40.568Z",
   "date": "13-08-2026",
-  "count": 17,
+  "count": 18,
   "summary": null,
   "items": [
     {
@@ -41,6 +41,34 @@
       ],
       "tags": [
         "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.14905",
+      "title": "How Do Agents Fail on AutoResearch: End-to-End Diagnostic Evaluation on 100 Real-World Frontier Research Tasks",
+      "url": "https://huggingface.co/papers/2608.14905",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-13T20:00:00.000Z",
+      "abstract": "AI has long assisted scientific research, but the rapid advance of LLMs and agentic scaffolds is reshaping the landscape; a single system can now carry whole-stage research from an initial hypothesis",
+      "authors": [
+        "Yanlin Fei",
+        "Nazhou Liu",
+        "Xinmiao Yu",
+        "Shaolong Chen",
+        "Lei Li"
+      ],
+      "tags": [
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -376,7 +404,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 273361,
+      "stars": 273401,
       "votes": 0,
       "points": 0
     }

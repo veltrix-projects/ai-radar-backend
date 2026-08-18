@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-18T07:59:54.818Z",
+  "generatedAt": "2026-08-18T09:22:40.566Z",
   "date": "16-08-2026",
-  "count": 18,
+  "count": 17,
   "summary": null,
   "items": [
     {
@@ -58,6 +58,31 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.16765",
+      "title": "TRACE-Bench: Decomposing and Diagnosing Multi-Reference Image Generation",
+      "url": "https://huggingface.co/papers/2608.16765",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-16T20:00:00.000Z",
+      "abstract": "Despite recent advances in unified multimodal models for multi-reference image generation, existing benchmarks remain organized around predefined task types (e.g., \"subject composition\"), which are il",
+      "authors": [
+        "Haoran Wang",
+        "Chaofan Ma",
+        "Ran Yi",
+        "Lizhuang Ma"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -278,80 +303,22 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2608.16391",
-      "title": "Ventor-QTest: Threat-Model-Driven Verification of Vendor-Hosted LLM APIs",
-      "url": "https://huggingface.co/papers/2608.16391",
+      "id": "hf_paper_2608.15984",
+      "title": "A Plug-and-Play 2D Motion Interface for Real-World Motion Language Models",
+      "url": "https://huggingface.co/papers/2608.15984",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-08-16T20:00:00.000Z",
-      "abstract": "As large language models become increasingly widespread, third-party providers that deploy open-weight models have become an important part of the ecosystem. Auditing the quality of their inference AP",
+      "abstract": "Motion Language Models (MoLMs) typically understand human motions by tokenizing 3D motion and processing the resulting tokens using a language model. However, obtaining accurate 3D motions from monocu",
       "authors": [
-        "Xiangfan Wu",
-        "Zonghao Ying",
-        "Huiyu Wu",
-        "Xing Zheng",
-        "Huangsheng Cheng"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.16798",
-      "title": "ClawGym II: Exploring Black-Box RL on Agent Harness",
-      "url": "https://huggingface.co/papers/2608.16798",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-16T20:00:00.000Z",
-      "abstract": "Agent harnesses have substantially improved performance on long-horizon tasks by coordinating agent interactions with the environment. However, reinforcement learning through complex harnesses remains",
-      "authors": [
-        "Huatong Song",
-        "Fei Bai",
-        "Ming Yang",
-        "Renyuan Li",
-        "Jia Deng"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.16765",
-      "title": "TRACE-Bench: Decomposing and Diagnosing Multi-Reference Image Generation",
-      "url": "https://huggingface.co/papers/2608.16765",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-16T20:00:00.000Z",
-      "abstract": "Despite recent advances in unified multimodal models for multi-reference image generation, existing benchmarks remain organized around predefined task types (e.g., \"subject composition\"), which are il",
-      "authors": [
-        "Haoran Wang",
-        "Chaofan Ma",
-        "Ran Yi",
-        "Lizhuang Ma"
+        "Kaname Yokoyama",
+        "Norimichi Ukita"
       ],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -405,7 +372,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 178841,
+      "stars": 178852,
       "votes": 0,
       "points": 0
     },
