@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-18T03:13:45.600Z",
+  "generatedAt": "2026-08-18T04:03:49.310Z",
   "date": "15-08-2026",
-  "count": 4,
+  "count": 6,
   "summary": null,
   "items": [
     {
@@ -38,6 +38,62 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.15930",
+      "title": "UI-Mate: Advancing Open-Weight Foundation GUI Agents with In-Context Demonstrations",
+      "url": "https://huggingface.co/papers/2608.15930",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-15T20:00:00.000Z",
+      "abstract": "Foundation GUI agents can automate complex digital tasks, but deployment is hindered by scarce and biased training data, ambiguous prompts, and unreliable execution. Routine workflows rely on user-spe",
+      "authors": [
+        "Zihan Ding",
+        "Longxu Dou",
+        "Qi Gao",
+        "Xiangwu Guo",
+        "Shengchao Hu"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.15698",
+      "title": "ConceptFormer: Learning Adaptive Latent Concepts for Query-Document Alignment in Visual Document Retrieval",
+      "url": "https://huggingface.co/papers/2608.15698",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-15T20:00:00.000Z",
+      "abstract": "Visual document retrieval is a critical component of multimodal retrieval-augmented generation, aiming to identify query-relevant pages from document collections where evidence is distributed across t",
+      "authors": [
+        "Peng Chunyi",
+        "Xu Zhipeng",
+        "Yan Yukun",
+        "Liu Zhenghao",
+        "Yu Shi"
+      ],
+      "tags": [
+        "alignment"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
