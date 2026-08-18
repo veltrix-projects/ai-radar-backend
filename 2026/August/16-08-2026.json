@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-18T16:19:42.034Z",
+  "generatedAt": "2026-08-18T16:54:57.406Z",
   "date": "16-08-2026",
-  "count": 17,
+  "count": 15,
   "summary": null,
   "items": [
     {
@@ -25,16 +25,24 @@
       "points": 0
     },
     {
-      "id": "techcrunch_ai_https%3A%2F%2Ftechcrunch.com%2F2026%2F08",
-      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-      "source": "TechCrunch AI",
-      "sourceIcon": "💚",
-      "type": "news",
-      "timestamp": "2026-08-16T20:57:04.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
+      "id": "hf_paper_2608.16320",
+      "title": "StreamOPD: A Post-Training Recipe with Spatio-Temporal Cue Gating for Streaming Video Understanding",
+      "url": "https://huggingface.co/papers/2608.16320",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-16T20:00:00.000Z",
+      "abstract": "Streaming video understanding demands direct responses from the causally observed prefix of an unfolding video. Existing systems add inference-time memory, retrieval, and compression, yet a training-f",
+      "authors": [
+        "Keming Wu",
+        "Baoyi Wang",
+        "Kaichen Zhang",
+        "Xiang An",
+        "Zuhao Yang"
+      ],
+      "tags": [
+        "training"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -302,64 +310,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2608.16887",
-      "title": "An Empirical Study of Training Pixel-Space Text-to-Image Diffusion Models",
-      "url": "https://huggingface.co/papers/2608.16887",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-16T20:00:00.000Z",
-      "abstract": "This paper investigates an increasingly important topic in generative modeling: pixel-space diffusion models. Although numerous studies have explored this topic, most focus on small-scale or class-con",
-      "authors": [
-        "Dengyang Jiang",
-        "Ruoyi Du",
-        "Zhennan Chen",
-        "Dongyang Liu",
-        "Zanyi Wang"
-      ],
-      "tags": [
-        "diffusion",
-        "training",
-        "text-to-image"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.16320",
-      "title": "StreamOPD: A Post-Training Recipe with Spatio-Temporal Cue Gating for Streaming Video Understanding",
-      "url": "https://huggingface.co/papers/2608.16320",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-16T20:00:00.000Z",
-      "abstract": "Streaming video understanding demands direct responses from the causally observed prefix of an unfolding video. Existing systems add inference-time memory, retrieval, and compression, yet a training-f",
-      "authors": [
-        "Keming Wu",
-        "Baoyi Wang",
-        "Kaichen Zhang",
-        "Xiang An",
-        "Zuhao Yang"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "gh_658928958",
       "title": "ollama/ollama — Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models",
       "url": "https://github.com/ollama/ollama",
@@ -386,7 +336,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 178872,
+      "stars": 178876,
       "votes": 0,
       "points": 0
     },
