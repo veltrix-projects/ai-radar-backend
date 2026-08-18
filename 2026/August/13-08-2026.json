@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-18T04:03:49.311Z",
+  "generatedAt": "2026-08-18T04:59:29.218Z",
   "date": "13-08-2026",
-  "count": 20,
+  "count": 19,
   "summary": null,
   "items": [
     {
@@ -93,30 +93,6 @@
       ],
       "tags": [
         "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.13987",
-      "title": "Nanbeige4.2-3B on Apple Silicon: Fixing Deployment Bugs and Decreasing Looped Transformer Memory Overhead",
-      "url": "https://huggingface.co/papers/2608.13987",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-13T20:00:00.000Z",
-      "abstract": "Nanbeige4.2-3B is a 3B-parameter agentic model built around a Looped Transformer (LT) that reuses one stack of layers for a second forward pass, adding effective depth without additional parameters. E",
-      "authors": [
-        "John T. Halloran"
-      ],
-      "tags": [
-        "transformer"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -452,7 +428,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 273278,
+      "stars": 273288,
       "votes": 0,
       "points": 0
     }
