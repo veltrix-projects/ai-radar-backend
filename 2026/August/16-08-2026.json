@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-18T09:22:40.566Z",
+  "generatedAt": "2026-08-18T09:55:24.740Z",
   "date": "16-08-2026",
-  "count": 17,
+  "count": 18,
   "summary": null,
   "items": [
     {
@@ -57,6 +57,55 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.16328",
+      "title": "GRNEdit: Efficient General Video Editing from a New Binary-Evidence Perspective in Generative Refinement Networks",
+      "url": "https://huggingface.co/papers/2608.16328",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-16T20:00:00.000Z",
+      "abstract": "Instruction-based general video editing seeks to unify diverse editing operations within a single, intuitive interface. Existing approaches often rely on resource-intensive conditioning, using either",
+      "authors": [
+        "Feng Xie",
+        "Jiagao Hu",
+        "Fuhao Li",
+        "Zepeng Wang",
+        "Yuxuan Chen"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.15984",
+      "title": "A Plug-and-Play 2D Motion Interface for Real-World Motion Language Models",
+      "url": "https://huggingface.co/papers/2608.15984",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-16T20:00:00.000Z",
+      "abstract": "Motion Language Models (MoLMs) typically understand human motions by tokenizing 3D motion and processing the resulting tokens using a language model. However, obtaining accurate 3D motions from monocu",
+      "authors": [
+        "Kaname Yokoyama",
+        "Norimichi Ukita"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -303,29 +352,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2608.15984",
-      "title": "A Plug-and-Play 2D Motion Interface for Real-World Motion Language Models",
-      "url": "https://huggingface.co/papers/2608.15984",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-16T20:00:00.000Z",
-      "abstract": "Motion Language Models (MoLMs) typically understand human motions by tokenizing 3D motion and processing the resulting tokens using a language model. However, obtaining accurate 3D motions from monocu",
-      "authors": [
-        "Kaname Yokoyama",
-        "Norimichi Ukita"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "techcrunch_ai_https%3A%2F%2Ftechcrunch.com%2F2026%2F08",
       "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
       "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
@@ -372,7 +398,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 178852,
+      "stars": 178854,
       "votes": 0,
       "points": 0
     },
