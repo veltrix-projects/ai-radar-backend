@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-18T15:31:45.083Z",
+  "generatedAt": "2026-08-18T16:19:42.034Z",
   "date": "16-08-2026",
-  "count": 16,
+  "count": 17,
   "summary": null,
   "items": [
     {
@@ -332,6 +332,34 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2608.16320",
+      "title": "StreamOPD: A Post-Training Recipe with Spatio-Temporal Cue Gating for Streaming Video Understanding",
+      "url": "https://huggingface.co/papers/2608.16320",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-16T20:00:00.000Z",
+      "abstract": "Streaming video understanding demands direct responses from the causally observed prefix of an unfolding video. Existing systems add inference-time memory, retrieval, and compression, yet a training-f",
+      "authors": [
+        "Keming Wu",
+        "Baoyi Wang",
+        "Kaichen Zhang",
+        "Xiang An",
+        "Zuhao Yang"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "gh_658928958",
       "title": "ollama/ollama — Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models",
       "url": "https://github.com/ollama/ollama",
@@ -358,7 +386,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 178870,
+      "stars": 178872,
       "votes": 0,
       "points": 0
     },
