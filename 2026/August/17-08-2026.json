@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-19T16:53:21.363Z",
+  "generatedAt": "2026-08-19T17:18:13.104Z",
   "date": "17-08-2026",
-  "count": 25,
+  "count": 24,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,35 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.17393",
+      "title": "LEGO-RL: Harness-Native Reinforcement Learning for Coding Agents",
+      "url": "https://huggingface.co/papers/2608.17393",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-17T20:00:00.000Z",
+      "abstract": "Reinforcement learning for coding agents increasingly relies on long-running agent harnesses to manage tool integration, repository contexts, and execution feedback. However, the native execution envi",
+      "authors": [
+        "Yiming Du",
+        "Yuxin Jiang",
+        "Tao Yuan",
+        "Jianbo Dai",
+        "Shaowei Wang"
+      ],
+      "tags": [
+        "agent",
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -204,32 +233,6 @@
         "Xuanyu Liu",
         "Miao Pan",
         "Yangfan Xie"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.18076",
-      "title": "From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation",
-      "url": "https://huggingface.co/papers/2608.18076",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-17T20:00:00.000Z",
-      "abstract": "Large-scale image generation has benefited from advances in data scale, quality, rebalancing, and recaptioning, yet conventional pipelines typically optimize task-specific datasets in isolation. A cen",
-      "authors": [
-        "Xingjian Wang",
-        "Zhao Wang",
-        "Taihang Hu",
-        "Jun Zheng",
-        "Qing Jin"
       ],
       "tags": [],
       "score": 6,
@@ -443,28 +446,6 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fai-arti",
-      "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-      "source": "The Verge AI",
-      "sourceIcon": "🔺",
-      "type": "news",
-      "timestamp": "2026-08-17T10:57:13.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "claude"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
