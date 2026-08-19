@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-19T06:26:25.784Z",
+  "generatedAt": "2026-08-19T07:59:42.117Z",
   "date": "16-08-2026",
-  "count": 4,
+  "count": 5,
   "summary": null,
   "items": [
     {
@@ -96,6 +96,31 @@
         "llm",
         "agent"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.17050",
+      "title": "Cross-Model Memory Transfer via Target-Side Reader Adaptation",
+      "url": "https://huggingface.co/papers/2608.17050",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-16T20:00:00.000Z",
+      "abstract": "Methods for improving knowledge use in large language models typically fall into two regimes. Non-parametric retrieval offers flexible access to external knowledge, but adds retrieval latency, context",
+      "authors": [
+        "Mingyuan Li",
+        "Guangsheng Yu",
+        "Xu Wang",
+        "Shaoxiong Ji"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
