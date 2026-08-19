@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-19T05:31:11.210Z",
+  "generatedAt": "2026-08-19T06:26:25.784Z",
   "date": "17-08-2026",
-  "count": 32,
+  "count": 33,
   "summary": null,
   "items": [
     {
@@ -361,6 +361,32 @@
         "agent",
         "fine-tuning"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.17566",
+      "title": "CoinVE-200K: A Large-Scale High-Quality Dataset for Compositional Instruction-Guided Video Editing",
+      "url": "https://huggingface.co/papers/2608.17566",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-17T20:00:00.000Z",
+      "abstract": "The quality and diversity of instruction-based video editing datasets are steadily improving, yet existing datasets mainly focus on single editing operations and fall short in supporting compositional",
+      "authors": [
+        "Fuchen Long",
+        "Cong Wang",
+        "Zitao Gao",
+        "Wenhao Zhong",
+        "Yu Cheng"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
