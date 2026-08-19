@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T04:59:13.809Z",
+  "generatedAt": "2026-08-19T05:31:11.210Z",
   "date": "17-08-2026",
   "count": 32,
   "summary": null,
@@ -57,6 +57,64 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.17528",
+      "title": "Agent Lightning v1.0: Towards Harnessed Agentic RL",
+      "url": "https://huggingface.co/papers/2608.17528",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-17T20:00:00.000Z",
+      "abstract": "Modern agents operate inside agent harnesses that manage tools, context, and control flow, making the harness a critical part of the agent system. Our original Agent Lightning introduced a disaggregat",
+      "authors": [
+        "Zhiyuan He",
+        "Siwei Zhang",
+        "Zhiwen Zhou",
+        "Yuqing Yang",
+        "Yu Kang"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.17597",
+      "title": "HarnessRisk: A Lifecycle-Oriented Benchmark for Agent Harness Safety",
+      "url": "https://huggingface.co/papers/2608.17597",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-17T20:00:00.000Z",
+      "abstract": "Large language models are increasingly deployed through agent harnesses that manage tools, extensions, persistent state, permissions, and external actions. Existing safety benchmarks mainly target ind",
+      "authors": [
+        "Yajing Bai",
+        "Jinhao Duan",
+        "Jie Peng",
+        "Xianfeng Wu",
+        "Sijia Liu"
+      ],
+      "tags": [
+        "agent",
+        "benchmark",
+        "safety"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -302,64 +360,6 @@
         "llm",
         "agent",
         "fine-tuning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.17528",
-      "title": "Agent Lightning v1.0: Towards Harnessed Agentic RL",
-      "url": "https://huggingface.co/papers/2608.17528",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-17T20:00:00.000Z",
-      "abstract": "Modern agents operate inside agent harnesses that manage tools, context, and control flow, making the harness a critical part of the agent system. Our original Agent Lightning introduced a disaggregat",
-      "authors": [
-        "Zhiyuan He",
-        "Siwei Zhang",
-        "Zhiwen Zhou",
-        "Yuqing Yang",
-        "Yu Kang"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.17597",
-      "title": "HarnessRisk: A Lifecycle-Oriented Benchmark for Agent Harness Safety",
-      "url": "https://huggingface.co/papers/2608.17597",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-17T20:00:00.000Z",
-      "abstract": "Large language models are increasingly deployed through agent harnesses that manage tools, extensions, persistent state, permissions, and external actions. Existing safety benchmarks mainly target ind",
-      "authors": [
-        "Yajing Bai",
-        "Jinhao Duan",
-        "Jie Peng",
-        "Xianfeng Wu",
-        "Sijia Liu"
-      ],
-      "tags": [
-        "agent",
-        "benchmark",
-        "safety"
       ],
       "score": 6,
       "priority": "MEDIUM",
