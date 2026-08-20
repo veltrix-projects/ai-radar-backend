@@ -1,34 +1,9 @@
 {
-  "generatedAt": "2026-08-20T05:00:44.483Z",
+  "generatedAt": "2026-08-20T05:53:15.933Z",
   "date": "13-08-2026",
-  "count": 6,
+  "count": 5,
   "summary": null,
   "items": [
-    {
-      "id": "hf_paper_2608.14929",
-      "title": "Training Leaves Traces: Centered Residual Signatures for Language Model Lineage Verification",
-      "url": "https://huggingface.co/papers/2608.14929",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-13T20:00:00.000Z",
-      "abstract": "Open-weight language models are fine-tuned, quantized, pruned, and merged, yet their provenance is often undocumented. We study data-free white-box lineage verification: can weights alone reveal wheth",
-      "authors": [
-        "Aman Singh Thakur",
-        "Rayan Khoury"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "hf_paper_2608.13947",
       "title": "Scaling Creative Writing Beyond Story-Centric Data with Attribute-Guided Genre Expansion",
@@ -46,6 +21,31 @@
         "Jinsik Lee"
       ],
       "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.14929",
+      "title": "Training Leaves Traces: Centered Residual Signatures for Language Model Lineage Verification",
+      "url": "https://huggingface.co/papers/2608.14929",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-13T20:00:00.000Z",
+      "abstract": "Open-weight language models are fine-tuned, quantized, pruned, and merged, yet their provenance is often undocumented. We study data-free white-box lineage verification: can weights alone reveal wheth",
+      "authors": [
+        "Aman Singh Thakur",
+        "Rayan Khoury"
+      ],
+      "tags": [
+        "training"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -90,28 +90,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "Okta targets AI agent token costs with MCP scoping",
-      "url": "https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-08-13T09:22:06.000Z",
-      "abstract": "Okta says identity-scoped Model Context Protocol (MCP) tool lists can reduce AI agent token costs. Each model call made by an AI agent can include schemas, names, descriptions and parameters for every",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
