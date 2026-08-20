@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-07-15T17:17:16.698Z",
+  "generatedAt": "2026-08-20T07:22:16.678Z",
   "date": "29-06-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
-      "title": "AI agents are not your &#8220;coworkers&#8221;",
-      "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
-      "source": "MIT Tech Review",
-      "sourceIcon": "🏛️",
+      "id": "hf_paper_2608.18115",
+      "title": "Temporal Multi-Signal Fusion for Token-Level Hallucination Detection",
+      "url": "https://huggingface.co/papers/2608.18115",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-06-29T18:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "agent"
+      "timestamp": "2026-06-29T20:00:00.000Z",
+      "abstract": "Token-level hallucination detectors score each token independently from a single signal, and fail exactly when the generating model is confidently wrong. This paper instead treats hallucination as a t",
+      "authors": [
+        "Igor Itkin"
       ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
