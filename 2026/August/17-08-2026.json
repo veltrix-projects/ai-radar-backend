@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-20T04:04:14.741Z",
+  "generatedAt": "2026-08-20T05:00:44.481Z",
   "date": "17-08-2026",
-  "count": 17,
+  "count": 15,
   "summary": null,
   "items": [
     {
@@ -101,58 +101,6 @@
         "llm",
         "benchmark"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.17402",
-      "title": "MoE-ViE: Mixture of Experts Vision Encoder for Efficient Image and Video Understanding",
-      "url": "https://huggingface.co/papers/2608.17402",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-17T20:00:00.000Z",
-      "abstract": "Vision encoders are a critical component of vision-language models, and scaling their capacity effectively improves performance. However, dense scaling increases compute cost and inference latency. Mi",
-      "authors": [
-        "Bonan Zhang",
-        "Shiyu Dong",
-        "Quan Hung Tran",
-        "Katharina Gschwind",
-        "Shuqi Yang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.18063",
-      "title": "EDITBRIDGE: Towards Faithful and Efficient Ultra-High-Resolution Image Editing",
-      "url": "https://huggingface.co/papers/2608.18063",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-17T20:00:00.000Z",
-      "abstract": "High-resolution image editing is increasingly demanded in professional workflows, yet existing diffusion-based models remain constrained to resolutions below 1K due to quadratic attention complexity a",
-      "authors": [
-        "Jiayi Song",
-        "Shijie Huang",
-        "Fangtai Wu",
-        "Yubo Huang",
-        "Zhenxiong Tan"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
