@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-21T23:13:57.265Z",
+  "generatedAt": "2026-08-21T23:44:38.675Z",
   "date": "19-08-2026",
-  "count": 24,
+  "count": 25,
   "summary": null,
   "items": [
     {
@@ -39,6 +39,34 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2607.21596",
+      "title": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
+      "url": "https://huggingface.co/papers/2607.21596",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-19T20:00:00.000Z",
+      "abstract": "Large language model agents can adapt to complex tasks by constructing workflows at inference time, but procedures discovered in one episode are usually discarded after execution. Existing skill libra",
+      "authors": [
+        "Zeyu Ren",
+        "Ling Yue",
+        "Ran Li",
+        "Yishu Wang",
+        "Shengxiang Xu"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -395,7 +423,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 275631,
+      "stars": 275639,
       "votes": 0,
       "points": 0
     },
