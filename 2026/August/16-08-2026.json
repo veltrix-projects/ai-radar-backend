@@ -1,22 +1,24 @@
 {
-  "generatedAt": "2026-08-21T12:26:44.098Z",
+  "generatedAt": "2026-08-21T16:21:50.562Z",
   "date": "16-08-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2608.16490",
-      "title": "Towards Real-Time and Adaptable LiDAR Scene Completion",
-      "url": "https://huggingface.co/papers/2608.16490",
+      "id": "hf_paper_2608.16885",
+      "title": "τ_0-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation",
+      "url": "https://huggingface.co/papers/2608.16885",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-08-16T20:00:00.000Z",
-      "abstract": "LiDAR scene completion is a key component of 3D perception in autonomous driving, where the scene must be completed in real time to be usable in downstream tasks. Existing approaches typically follow",
+      "abstract": "Long-horizon robot manipulation requires a robot to both execute individual skills reliably and sequence them coherently over extended tasks. Most hierarchical vision-language-action (VLA) models make",
       "authors": [
-        "Azhar Hussian",
-        "Martin Vossiek",
-        "Vasileios Belagiannis"
+        "Xiaowei Cai",
+        "Yunuo Cai",
+        "Bingao Chen",
+        "Jingxiao Chen",
+        "Zhi Chen"
       ],
       "tags": [],
       "score": 6,
