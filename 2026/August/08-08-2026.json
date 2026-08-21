@@ -1,23 +1,24 @@
 {
-  "generatedAt": "2026-08-17T04:08:47.390Z",
+  "generatedAt": "2026-08-21T14:04:31.249Z",
   "date": "08-08-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2608.08606",
-      "title": "Mitigating Gender Bias in English to Romanian Machine Translation",
-      "url": "https://huggingface.co/papers/2608.08606",
+      "id": "hf_paper_2608.08466",
+      "title": "Hierarchical Self-Improvement: A Framework for Task-Specific Evolvable Agent Harnesses",
+      "url": "https://huggingface.co/papers/2608.08466",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-08-08T20:00:00.000Z",
-      "abstract": "Machine translation (MT) systems often fail to correctly translate gender, especially when converting from a gender-neutral language like English to a gendered target language such as Romanian. This b",
+      "abstract": "Modern LLM agents are often improved by modifying prompts, tools, or workflows manually, while the executable scaffold surrounding the model---the harness---is typically treated as a fixed artifact af",
       "authors": [
-        "Ioana Grigore",
-        "Sergiu Nisioi"
+        "Tailin Zhou"
       ],
-      "tags": [],
+      "tags": [
+        "agent"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
