@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-21T05:54:36.029Z",
+  "generatedAt": "2026-08-21T06:29:09.636Z",
   "date": "19-08-2026",
-  "count": 26,
+  "count": 28,
   "summary": null,
   "items": [
     {
@@ -101,6 +101,62 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.19936",
+      "title": "Towards Quantifying Benchmark Optimization in ASR Models",
+      "url": "https://huggingface.co/papers/2608.19936",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-19T20:00:00.000Z",
+      "abstract": "Public benchmarks are important measures of Automatic Speech Recognition (ASR) model capabilities. However, by nature of being public, there is risk of models being optimized for these benchmarks in w",
+      "authors": [
+        "Theo Lebryk",
+        "David Ayllon",
+        "Alice Baird",
+        "Jakub Piotr Cłapa",
+        "Jens Madsen"
+      ],
+      "tags": [
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.19799",
+      "title": "SWE-bench Science: Can Coding Agents Resolve Engineering Tasks in Science?",
+      "url": "https://huggingface.co/papers/2608.19799",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-19T20:00:00.000Z",
+      "abstract": "Software increasingly functions as part of the scientific instrument itself, making failures in scientific code capable of compromising not only program behavior but also the evidence underlying scien",
+      "authors": [
+        "Zhipeng Xu",
+        "Jiahao Lu",
+        "Yining Zheng",
+        "Yuxin Wang",
+        "Xipeng Qiu"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -433,7 +489,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 275095,
+      "stars": 275117,
       "votes": 0,
       "points": 0
     },

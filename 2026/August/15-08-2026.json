@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-21T05:54:36.031Z",
+  "generatedAt": "2026-08-21T06:29:09.639Z",
   "date": "15-08-2026",
-  "count": 2,
+  "count": 1,
   "summary": null,
   "items": [
     {
@@ -22,30 +22,6 @@
       ],
       "tags": [
         "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.15888",
-      "title": "Bounded Agents: Delegation Security for Multi-Agent AI Systems",
-      "url": "https://huggingface.co/papers/2608.15888",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-15T20:00:00.000Z",
-      "abstract": "LLM-based agents can act on behalf of a user to access cloud services, call tools, or invoke agents. At session start, the agent's permissions are set but remain static, and each request is evaluated",
-      "authors": [
-        "Xabier Muruaga"
-      ],
-      "tags": [
-        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
