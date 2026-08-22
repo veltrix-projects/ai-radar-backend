@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-22T18:15:23.958Z",
+  "generatedAt": "2026-08-22T18:54:35.600Z",
   "date": "18-08-2026",
-  "count": 12,
+  "count": 17,
   "summary": null,
   "items": [
     {
@@ -16,6 +16,28 @@
       "authors": [],
       "tags": [
         "gpt"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "NVIDIA Releases TensorRT Model Connect in Public Preview: Hugging Face Checkpoint to Native C++ Inference in Two Commands",
+      "url": "https://www.marktechpost.com/2026/08/18/nvidia-releases-tensorrt-model-connect-in-public-preview-hugging-face-checkpoint-to-native-c-inference-in-two-commands/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-08-18T21:49:04.000Z",
+      "abstract": "NVIDIA has released TensorRT Model Connect (TRTMC) in public preview, an Apache-2.0 project that takes a supported Hugging Face or local checkpoint to end-to-end TensorRT inference in two commands, wi",
+      "authors": [],
+      "tags": [
+        "inference"
       ],
       "score": 8,
       "priority": "HIGH",
@@ -89,6 +111,48 @@
       "points": 0
     },
     {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "OpenAI president urges enterprises to hasten AI security defences",
+      "url": "https://www.artificialintelligence-news.com/news/openai-president-urges-enterprises-hasten-ai-security-defences/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-08-18T14:58:27.000Z",
+      "abstract": "OpenAI president and co-founder Greg Brockman warns that enterprise security teams face a compressed timeline to adopt AI defences. Brockman has published an account of what the company calls the “Ope",
+      "authors": [],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Meet SAM (Sovereign Agent Mesh): A Zero-Config, Zero-Trust P2P Network for AI Agents",
+      "url": "https://www.marktechpost.com/2026/08/18/meet-sam-sovereign-agent-mesh-a-zero-config-zero-trust-p2p-network-for-ai-agents/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-08-18T13:29:10.000Z",
+      "abstract": "Google has open-sourced SAM (Sovereign Agent Mesh) under Apache-2.0 — and it has nothing to do with Segment Anything. SAM is a zero-config, zero-trust P2P overlay that lets autonomous agents discover",
+      "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fxs-algor",
       "title": "X's Algorithm Feeds Off Ragebait and Impacts Democrats More, Study Finds",
       "url": "https://www.404media.co/xs-algorithm-feeds-off-ragebait-and-impacts-democrats-more-study-finds/",
@@ -104,6 +168,28 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "Alvys launches AI agents for freight TMS workflows",
+      "url": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-08-18T12:00:00.000Z",
+      "abstract": "Freight software provider Alvys has launched an agentic AI platform that allows carriers and brokers to automate operational tasks directly within its transportation management system (TMS). Called Al",
+      "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -185,6 +271,26 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "Reading Zhipu&#8217;s GLM-5.3 results past the headline number",
+      "url": "https://www.artificialintelligence-news.com/news/zhipu-glm-5-3-benchmarks-explained/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-08-18T10:00:00.000Z",
+      "abstract": "Zhipu&#8217;s&#160;release note&#160;for GLM-5.3 contains a sentence that did not make it into most of the coverage. Describing its own cybersecurity results, the Beijing company writes that capabilit",
+      "authors": [],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
