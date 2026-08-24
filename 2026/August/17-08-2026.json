@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-24T11:30:56.540Z",
+  "generatedAt": "2026-08-24T12:27:29.256Z",
   "date": "17-08-2026",
-  "count": 4,
+  "count": 5,
   "summary": null,
   "items": [
     {
@@ -84,6 +84,32 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.16425",
+      "title": "ParaTempo: Efficient Parallel Reasoning via Temporal Confidence",
+      "url": "https://huggingface.co/papers/2608.16425",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-17T07:24:46.000Z",
+      "abstract": "Parallel reasoning improves the accuracy and robustness of large reasoning models by exploring multiple solution paths, but its computational cost grows with reasoning depth and branch count. Existing",
+      "authors": [
+        "Xuteng Zhang",
+        "Wenhao Zeng",
+        "Xiaodong Gu",
+        "Chao Hu",
+        "Haotian Lin"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
