@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-24T10:59:52.282Z",
+  "generatedAt": "2026-08-24T11:30:56.539Z",
   "date": "19-08-2026",
-  "count": 17,
+  "count": 18,
   "summary": null,
   "items": [
     {
@@ -39,6 +39,29 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.20574",
+      "title": "FlavourBench: Ranking Frontier Language Models with Executable Culinary Ground Truth",
+      "url": "https://huggingface.co/papers/2608.20574",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-19T20:00:00.000Z",
+      "abstract": "Open-ended language-model benchmarks usually inherit a judge: a human preference panel, another model, or a brittle exact-match key. We introduce FlavourBench, an automated benchmark in which a versio",
+      "authors": [
+        "Josef Chen",
+        "Erim Hayretci"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -208,7 +231,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 276869,
+      "stars": 276883,
       "votes": 0,
       "points": 0
     },
