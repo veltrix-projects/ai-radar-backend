@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-24T02:16:49.398Z",
+  "generatedAt": "2026-08-24T03:28:28.026Z",
   "date": "20-08-2026",
-  "count": 32,
+  "count": 33,
   "summary": null,
   "items": [
     {
@@ -178,6 +178,61 @@
       "abstract": "London-based artificial intelligence startup Callosum Ltd. today announced that it has raised $100 million in funding. Atomico led the seed investment with participation from Plural, DCVC, and the U.K",
       "authors": [],
       "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.20707",
+      "title": "Towards Faithful Simulation of Human Shopping Behavior",
+      "url": "https://huggingface.co/papers/2608.20707",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-20T20:00:00.000Z",
+      "abstract": "Simulating realistic user shopping behavior underpins offline evaluation and reinforcement learning in e-commerce scenarios. While recent LLM- and VLM-based simulators have made encouraging progress,",
+      "authors": [
+        "Jiakai Tang",
+        "Yan Mi",
+        "Jing Yu",
+        "Yang Zhang",
+        "See-Kiong Ng"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.21156",
+      "title": "Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence",
+      "url": "https://huggingface.co/papers/2608.21156",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-20T20:00:00.000Z",
+      "abstract": "LLMs have evolved from language generators to autonomous agents capable of complex, long-horizon tasks. This evolution has produced paradigms including Prompt Engineering to elicit model capabilities,",
+      "authors": [
+        "Yuyuan Feng",
+        "Zhishang Xiang",
+        "Chaobin Yang",
+        "Qichao Ma",
+        "Zerui Chen"
+      ],
+      "tags": [
+        "llm",
+        "agent"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -635,34 +690,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.19758",
-      "title": "FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving",
-      "url": "https://huggingface.co/papers/2608.19758",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-20T04:02:55.000Z",
-      "abstract": "Long-context modeling is a pivotal capability for Large Language Models, yet the quadratic complexity of attention remains a critical bottleneck, particularly during the compute-intensive prefilling p",
-      "authors": [
-        "Qihang Fan",
-        "Huaibo Huang",
-        "Zhiying Wu",
-        "Bingning Wang",
-        "Ran He"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
