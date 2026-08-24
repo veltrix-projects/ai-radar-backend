@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-24T07:03:13.934Z",
+  "generatedAt": "2026-08-24T08:09:23.797Z",
   "date": "19-08-2026",
-  "count": 17,
+  "count": 18,
   "summary": null,
   "items": [
     {
@@ -39,6 +39,30 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.20210",
+      "title": "Daedalus-150M: A Convolution-Attention Hybrid Designed for CPU Inference",
+      "url": "https://huggingface.co/papers/2608.20210",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-19T20:00:00.000Z",
+      "abstract": "Small language models are usually built like large ones and then squeezed onto a CPU afterwards. We did the opposite: we fixed the target first, one user, one token at a time, 4-bit weights, ordinary",
+      "authors": [
+        "Christos Koutsiaris"
+      ],
+      "tags": [
+        "inference"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -88,31 +112,6 @@
         "Boris Meden",
         "Mathieu Grossard",
         "Liming Chen"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.19776",
-      "title": "CoToGrasp: Contact-Topology-Conditioned Dexterous Grasp Synthesis via Canonical Workspace Learning",
-      "url": "https://huggingface.co/papers/2608.19776",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-19T20:00:00.000Z",
-      "abstract": "Current dexterous grasp planners primarily optimize for physical stability, focusing on whether an object can be grasped rather than how it should be grasped to support downstream functional tasks. Ho",
-      "authors": [
-        "Julien Merand",
-        "Boris Meden",
-        "Liming Chen",
-        "Mathieu Grossard"
       ],
       "tags": [],
       "score": 6,
@@ -205,6 +204,36 @@
       "downloads": 0,
       "likes": 0,
       "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "gh_1073224795",
+      "title": "obra/superpowers — An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "source": "GitHub",
+      "sourceIcon": "⭐",
+      "type": "tool",
+      "timestamp": "2026-08-19T17:33:23Z",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "ai",
+        "brainstorming",
+        "coding",
+        "obra",
+        "sdlc",
+        "skills",
+        "subagent-driven-development",
+        "superpowers",
+        "Shell"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 276804,
       "votes": 0,
       "points": 0
     },
