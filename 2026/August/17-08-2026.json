@@ -1,9 +1,38 @@
 {
-  "generatedAt": "2026-08-25T02:12:27.011Z",
+  "generatedAt": "2026-08-25T03:23:53.717Z",
   "date": "17-08-2026",
-  "count": 6,
+  "count": 7,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2608.17336",
+      "title": "TileMix: Tile-Centric Mixed-Precision Attention for LLM Inference Acceleration",
+      "url": "https://huggingface.co/papers/2608.17336",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-17T20:00:00.000Z",
+      "abstract": "Long-context prefill in large language models (LLMs) incurs substantial computation and memory traffic because dense self-attention computes quadratic query-key scores. Existing methods either use a u",
+      "authors": [
+        "Hanzhi Zhang",
+        "Qiao Zhang",
+        "Qinglei Cao",
+        "Heng Fan",
+        "Yan Huang"
+      ],
+      "tags": [
+        "llm",
+        "inference"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2608.21439",
       "title": "WorldMind: Decoupled Game World Model for State-Aware NPC Behavior",

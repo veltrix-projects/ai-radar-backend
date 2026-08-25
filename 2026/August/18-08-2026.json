@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T02:12:27.011Z",
+  "generatedAt": "2026-08-25T03:23:53.717Z",
   "date": "18-08-2026",
-  "count": 12,
+  "count": 13,
   "summary": null,
   "items": [
     {
@@ -20,6 +20,32 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.19408",
+      "title": "Beyond Imitation: Filtering On-Policy Distillation by Reasoning Progress",
+      "url": "https://huggingface.co/papers/2608.19408",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-18T20:00:00.000Z",
+      "abstract": "On-policy distillation (OPD) has emerged as an effective framework for post-training language models by pairing student-generated trajectories with dense token-level supervision from a teacher. Howeve",
+      "authors": [
+        "Chen Yang",
+        "Haiyuan Wan",
+        "Rengrong Xiong",
+        "Yize Chen",
+        "Danny H. K. Tsang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
