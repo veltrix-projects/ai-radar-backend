@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T11:30:33.442Z",
+  "generatedAt": "2026-08-25T12:27:59.395Z",
   "date": "20-08-2026",
-  "count": 20,
+  "count": 21,
   "summary": null,
   "items": [
     {
@@ -41,6 +41,34 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.20953",
+      "title": "Quantization-Aware Healing: A Practical Recipe for Recovering Compressed, 4-Bit LLMs",
+      "url": "https://huggingface.co/papers/2608.20953",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-20T20:00:00.000Z",
+      "abstract": "Serving large language models cheaply increasingly means shipping models that are both structurally compressed to a fraction of their parameters and quantized to 4 bits. Together these steps degrade r",
+      "authors": [
+        "Bakbergen Ryskulov",
+        "Iker García-Ferrero",
+        "David Montero",
+        "David Jansen",
+        "Ali Hashemi"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

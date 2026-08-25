@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T11:30:33.441Z",
+  "generatedAt": "2026-08-25T12:27:59.391Z",
   "date": "22-08-2026",
-  "count": 4,
+  "count": 5,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,32 @@
       "tags": [
         "safety"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.17906",
+      "title": "AutoResearch: Insight In, Hallucination Out",
+      "url": "https://huggingface.co/papers/2608.17906",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-22T20:00:00.000Z",
+      "abstract": "Autonomous research systems are increasingly capable of executing long research workflows, yet automation alone does not ensure that the resulting process remains scientifically grounded. We introduce",
+      "authors": [
+        "Yiming Ren",
+        "Xiang Liu",
+        "Qumeng Sun",
+        "Xiao Zhang",
+        "Jiahao Li"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
