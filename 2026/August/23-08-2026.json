@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T04:05:49.135Z",
+  "generatedAt": "2026-08-25T05:01:14.405Z",
   "date": "23-08-2026",
-  "count": 13,
+  "count": 14,
   "summary": null,
   "items": [
     {
@@ -57,6 +57,30 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.20169",
+      "title": "Task-CoEvolve: Efficient Harness Optimization via Adaptive Validation Task Selection",
+      "url": "https://huggingface.co/papers/2608.20169",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-23T20:00:00.000Z",
+      "abstract": "We present a novel approach to efficient LLM harness optimization through adaptive validation task selection. Harness optimization iteratively rewrites the harness code based on validation performance",
+      "authors": [
+        "Atsuyuki Miyai",
+        "Kiyoharu Aizawa",
+        "Toshihiko Yamasaki"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
