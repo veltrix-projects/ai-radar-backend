@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T05:54:48.402Z",
+  "generatedAt": "2026-08-25T07:24:56.365Z",
   "date": "19-08-2026",
   "count": 14,
   "summary": null,
@@ -17,6 +17,34 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.19567",
+      "title": "Block3D: Efficient Text-to-3D Generation via Block-Wise Diffusion",
+      "url": "https://huggingface.co/papers/2608.19567",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-19T20:00:00.000Z",
+      "abstract": "While text-to-3D generation has advanced rapidly, achieving high geometric fidelity at low inference cost remains challenging. Existing text-to-3D methods either decode discrete shape tokens autoregre",
+      "authors": [
+        "Bowen Cui",
+        "Weijie Wang",
+        "Zeyu Zhang",
+        "Yefei He",
+        "Mingda Lin"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -67,29 +95,6 @@
         "llm",
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.20574",
-      "title": "FlavourBench: Ranking Frontier Language Models with Executable Culinary Ground Truth",
-      "url": "https://huggingface.co/papers/2608.20574",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-19T20:00:00.000Z",
-      "abstract": "Open-ended language-model benchmarks usually inherit a judge: a human preference panel, another model, or a brittle exact-match key. We introduce FlavourBench, an automated benchmark in which a versio",
-      "authors": [
-        "Josef Chen",
-        "Erim Hayretci"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -187,7 +192,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 277187,
+      "stars": 277207,
       "votes": 0,
       "points": 0
     },
