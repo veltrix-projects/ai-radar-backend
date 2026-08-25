@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T05:01:14.405Z",
+  "generatedAt": "2026-08-25T05:54:48.399Z",
   "date": "23-08-2026",
-  "count": 14,
+  "count": 15,
   "summary": null,
   "items": [
     {
@@ -185,6 +185,30 @@
       ],
       "tags": [
         "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.22872",
+      "title": "Better Retrieval, Worse Robustness:How Multi-hop RAG Amplifies Upstream ASR Errors",
+      "url": "https://huggingface.co/papers/2608.22872",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-23T20:00:00.000Z",
+      "abstract": "Speech-based applications pass spoken queries through automatic speech recognition (ASR) before any retrieval module, so ASR errors enter the pipeline as a fixed upstream constraint. We empirically te",
+      "authors": [
+        "Zhenghua Bao"
+      ],
+      "tags": [
+        "rag"
       ],
       "score": 6,
       "priority": "MEDIUM",
