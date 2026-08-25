@@ -1,21 +1,24 @@
 {
-  "generatedAt": "2026-08-25T16:05:42.674Z",
+  "generatedAt": "2026-08-25T17:02:53.077Z",
   "date": "22-08-2026",
   "count": 4,
   "summary": null,
   "items": [
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety",
-      "url": "https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
+      "id": "hf_paper_2608.22510",
+      "title": "ClawProBench: Trace-Aware Evaluation of AI Agents with Runtime Coverage and Frozen Workplace-Style Holdouts",
+      "url": "https://huggingface.co/papers/2608.22510",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-08-22T23:49:38.000Z",
-      "abstract": "In this tutorial, we explore how to design production-grade safety for LLM-based applications using the NeMo Guardrails framework. We move beyond simple prompt filtering to implement a layered archite",
-      "authors": [],
+      "timestamp": "2026-08-22T20:00:00.000Z",
+      "abstract": "Agent benchmarks often evaluate only final answers even when agents run on stateful runtimes. We argue this under-specifies what is being evaluated: the proper unit is a declared model-plus-runtime co",
+      "authors": [
+        "YuanHang Xiao"
+      ],
       "tags": [
-        "safety"
+        "rag",
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
