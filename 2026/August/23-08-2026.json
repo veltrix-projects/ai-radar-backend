@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-26T13:44:59.715Z",
+  "generatedAt": "2026-08-26T14:34:38.308Z",
   "date": "23-08-2026",
-  "count": 4,
+  "count": 3,
   "summary": null,
   "items": [
     {
@@ -49,32 +49,6 @@
       "tags": [
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.22876",
-      "title": "The Mask Is Not the Model: Auditing Prefix Invariance in Attention, State-Space, and Hybrid Sequence Models",
-      "url": "https://huggingface.co/papers/2608.22876",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-23T20:00:00.000Z",
-      "abstract": "We formalize prefix invariance: representations at position t must not depend on future inputs. We give a lightweight audit, two forward passes, no training or gradients, that localizes exactly where",
-      "authors": [
-        "Taebong Kim",
-        "Youngsik Hong",
-        "Minsik Kim",
-        "Sunyoung Choi",
-        "Jaewon Jang"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
