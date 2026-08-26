@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-26T16:09:48.304Z",
+  "generatedAt": "2026-08-26T18:09:26.976Z",
   "date": "20-08-2026",
-  "count": 13,
+  "count": 14,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,31 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.21500",
+      "title": "SecOPD: Mitigating Adaptive Prompt Injections by On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2608.21500",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-20T20:00:00.000Z",
+      "abstract": "Prompt injection is listed as the \\#1 threat to AI agents. When an agent accesses external data from websites, files, or emails, an attacker may inject a prompt into the data, saying, \"Ignore all prio",
+      "authors": [
+        "Yibo Peng",
+        "Long Lian",
+        "David Wagner",
+        "Sizhe Chen"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

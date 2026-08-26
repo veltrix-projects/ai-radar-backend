@@ -1,9 +1,62 @@
 {
-  "generatedAt": "2026-08-26T16:09:48.302Z",
+  "generatedAt": "2026-08-26T18:09:26.975Z",
   "date": "23-08-2026",
-  "count": 2,
+  "count": 4,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2608.23740",
+      "title": "AgentRoom: Concurrent Multi-Agent Coding in a CRDT-Backed Shared Workspace",
+      "url": "https://huggingface.co/papers/2608.23740",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-23T20:00:00.000Z",
+      "abstract": "Concurrent multi-agent coding promises division of labor across modules, robustness through redundancy, and parallel exploration at the natural granularity of multi-file projects. Realtime collaborati",
+      "authors": [
+        "Seonglae Cho",
+        "Donghyun Lee"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.23670",
+      "title": "Automata from Agent Traces: Failure and Next-Step Prediction",
+      "url": "https://huggingface.co/papers/2608.23670",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-23T20:00:00.000Z",
+      "abstract": "LLM-based agents execute multi-step tasks, but their behavioral structure remains opaque: long unstructured traces resist the safety auditing and runtime monitoring that deployment requires. Existing",
+      "authors": [
+        "Seonglae Cho",
+        "Franklin Cardenoso Fernandez",
+        "Umar Mohammed",
+        "Zekun Wu",
+        "Kleyton Da Costa"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2608.23181",
       "title": "CyberFactory: Scaling Cyber Security Capabilities with Instances from the Wild",
