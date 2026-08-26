@@ -1,27 +1,27 @@
 {
-  "generatedAt": "2026-08-21T23:13:57.268Z",
+  "generatedAt": "2026-08-26T02:18:52.587Z",
   "date": "14-08-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2608.14022",
-      "title": "ForgeWM: Progressive Causal Training for Few-Step Action-Conditioned Video World Models",
-      "url": "https://huggingface.co/papers/2608.14022",
+      "id": "hf_paper_2608.15242",
+      "title": "LongRCA Bench: Diagnosing Responsible Roles and Root Causes in Long-Horizon Agent Failures",
+      "url": "https://huggingface.co/papers/2608.15242",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-08-14T03:13:34.000Z",
-      "abstract": "Action-conditioned video world models require low-latency causal generation and reliable responses to game-native controls. Although causal distillation enables one- or few-step video synthesis, exten",
+      "timestamp": "2026-08-14T20:00:00.000Z",
+      "abstract": "When a long-horizon agent execution fails, outcome-level evaluation reveals the unsuccessful result but not where the decisive error entered the trajectory. Developers must then inspect the full execu",
       "authors": [
-        "Xinye Li",
-        "Lingshuai Lin",
-        "Lei Wang",
-        "Liuzhou Zhang",
-        "Jialin Cui"
+        "Yunfei Zhang",
+        "Boyu Feng",
+        "Changhua Pei",
+        "Zexin Wang",
+        "Zhihuang Peng"
       ],
       "tags": [
-        "training"
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
