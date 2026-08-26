@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-26T10:24:24.267Z",
+  "generatedAt": "2026-08-26T11:29:12.102Z",
   "date": "22-08-2026",
-  "count": 4,
+  "count": 3,
   "summary": null,
   "items": [
     {
@@ -49,31 +49,6 @@
       ],
       "tags": [
         "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.22510",
-      "title": "ClawProBench: Trace-Aware Evaluation of AI Agents with Runtime Coverage and Frozen Workplace-Style Holdouts",
-      "url": "https://huggingface.co/papers/2608.22510",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-22T20:00:00.000Z",
-      "abstract": "Agent benchmarks often evaluate only final answers even when agents run on stateful runtimes. We argue this under-specifies what is being evaluated: the proper unit is a declared model-plus-runtime co",
-      "authors": [
-        "YuanHang Xiao"
-      ],
-      "tags": [
-        "rag",
-        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
