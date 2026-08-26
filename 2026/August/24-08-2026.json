@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-26T09:30:59.430Z",
+  "generatedAt": "2026-08-26T10:24:24.265Z",
   "date": "24-08-2026",
-  "count": 33,
+  "count": 34,
   "summary": null,
   "items": [
     {
@@ -14,6 +14,32 @@
       "timestamp": "2026-08-24T22:21:22.000Z",
       "abstract": "Fastino released GLiNER2.5, replacing span enumeration with boundary prediction so entity width no longer costs compute. Three Apache 2.0 checkpoints ship at 74M, 194M, and 287M parameters, all CPU-ru",
       "authors": [],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.24882",
+      "title": "Latent Action as Intention Enables Efficient Future Imagination for World Action Models",
+      "url": "https://huggingface.co/papers/2608.24882",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-24T20:00:00.000Z",
+      "abstract": "World action models (WAMs) improve robot control by modeling how observations evolve, but generating future observations at test time incurs substantial latency. Fast-WAM removes this process for effi",
+      "authors": [
+        "Xiang Li",
+        "Yupeng Zheng",
+        "Songen Gu",
+        "Huailiang Ma",
+        "Feng Yu"
+      ],
       "tags": [],
       "score": 8,
       "priority": "HIGH",
@@ -691,7 +717,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 158045,
+      "stars": 158044,
       "votes": 0,
       "points": 0
     },
