@@ -1,26 +1,28 @@
 {
-  "generatedAt": "2026-08-26T23:51:49.482Z",
+  "generatedAt": "2026-08-27T05:50:01.964Z",
   "date": "23-08-2026",
-  "count": 5,
+  "count": 2,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2608.23691",
-      "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-      "url": "https://huggingface.co/papers/2608.23691",
+      "id": "hf_paper_2608.23318",
+      "title": "Agent-G^2: Gaussian Guidance for Agentic Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2608.23318",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-08-23T20:00:00.000Z",
-      "abstract": "We study autonomous mathematical discovery in the Station, an open-world multi-agent environment in which AI agents from different model families pursue a shared research goal without a central coordi",
+      "abstract": "Hint-based reinforcement learning addresses reward sparsity in long-horizon agentic tasks by retaining a prefix of an expert trajectory before each rollout, letting the policy explore from a state clo",
       "authors": [
-        "Stephen Chung",
-        "Wenyu Du",
-        "William J. Wesley"
+        "Zixuan Wang",
+        "Yanrui Miao",
+        "Zhengxi Lu",
+        "Teng Pan",
+        "Yiwen Qiu"
       ],
       "tags": [
         "agent",
-        "autonomous"
+        "reinforcement learning"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -32,102 +34,21 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2608.23740",
-      "title": "AgentRoom: Concurrent Multi-Agent Coding in a CRDT-Backed Shared Workspace",
-      "url": "https://huggingface.co/papers/2608.23740",
+      "id": "hf_paper_2608.23918",
+      "title": "MARS: Multi-Specialist LLM Relay System for Competitive Programming",
+      "url": "https://huggingface.co/papers/2608.23918",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-08-23T20:00:00.000Z",
-      "abstract": "Concurrent multi-agent coding promises division of labor across modules, robustness through redundancy, and parallel exploration at the natural granularity of multi-file projects. Realtime collaborati",
+      "abstract": "Large Language Models excel at code generation, yet competitive programming exposes a persistent failure mode: existing multi-agent pipelines distribute work over generic planner, coder, and debugger",
       "authors": [
-        "Seonglae Cho",
-        "Donghyun Lee"
+        "Andrei Mikhailov",
+        "Mikhail Burtsev",
+        "Alsu Sagirova"
       ],
       "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.23670",
-      "title": "Automata from Agent Traces: Failure and Next-Step Prediction",
-      "url": "https://huggingface.co/papers/2608.23670",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-23T20:00:00.000Z",
-      "abstract": "LLM-based agents execute multi-step tasks, but their behavioral structure remains opaque: long unstructured traces resist the safety auditing and runtime monitoring that deployment requires. Existing",
-      "authors": [
-        "Seonglae Cho",
-        "Franklin Cardenoso Fernandez",
-        "Umar Mohammed",
-        "Zekun Wu",
-        "Kleyton Da Costa"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.23181",
-      "title": "CyberFactory: Scaling Cyber Security Capabilities with Instances from the Wild",
-      "url": "https://huggingface.co/papers/2608.23181",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-23T20:00:00.000Z",
-      "abstract": "As large language models (LLMs) continue to advance in coding capabilities, their potential in cybersecurity has drawn increasing research attention, with closed-source LLMs (e.g., Mythos) delivering",
-      "authors": [
-        "Jian Yang",
-        "Haau-Sing Li",
-        "Shawn Guo",
-        "Zixi Zhao",
-        "Yibo Tan"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.23041",
-      "title": "AutoSaddler: Automatic Harness Optimization with Durable Updates from Agent Execution Traces",
-      "url": "https://huggingface.co/papers/2608.23041",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-23T20:00:00.000Z",
-      "abstract": "LLM agents remain unreliable on long-horizon tasks, where small local failures can compound over extended interactions and lead to overall task failure. Although external harnesses can substantially i",
-      "authors": [
-        "Sungho Park",
-        "Wonjoong Kim",
-        "Rongyuan Tan",
-        "Jue Zhang",
-        "Wook-Shin Han"
-      ],
-      "tags": [
-        "agent"
+        "llm"
       ],
       "score": 6,
       "priority": "MEDIUM",
