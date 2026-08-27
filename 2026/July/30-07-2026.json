@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-27T05:50:01.971Z",
+  "generatedAt": "2026-08-27T17:06:41.560Z",
   "date": "30-07-2026",
-  "count": 2,
+  "count": 3,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,32 @@
       "tags": [
         "autonomous"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.14652",
+      "title": "Pushing the Limits of High-Resolution Weather Forecasting through Data Scaling",
+      "url": "https://huggingface.co/papers/2608.14652",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-07-30T20:00:00.000Z",
+      "abstract": "The development of 0.1^{circ} global weather forecasting models based on machine learning (ML) is constrained by the limited availability of high-resolution data, as decades of reanalysis are only ava",
+      "authors": [
+        "Yang Zhao",
+        "Peisong Niu",
+        "Tian Zhou",
+        "Ziqing Ma",
+        "Guanlong Ma"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

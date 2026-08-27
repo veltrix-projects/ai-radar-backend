@@ -1,28 +1,27 @@
 {
-  "generatedAt": "2026-08-27T05:50:01.964Z",
+  "generatedAt": "2026-08-27T17:06:41.555Z",
   "date": "23-08-2026",
-  "count": 2,
+  "count": 3,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2608.23318",
-      "title": "Agent-G^2: Gaussian Guidance for Agentic Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2608.23318",
+      "id": "hf_paper_2608.23564",
+      "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
+      "url": "https://huggingface.co/papers/2608.23564",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-08-23T20:00:00.000Z",
-      "abstract": "Hint-based reinforcement learning addresses reward sparsity in long-horizon agentic tasks by retaining a prefix of an expert trajectory before each rollout, letting the policy explore from a state clo",
+      "abstract": "Modern software systems accumulate technical debt over decades of development, which makes migration expensive and largely manual. As coding agents become increasingly capable at bug fixing, can they",
       "authors": [
-        "Zixuan Wang",
-        "Yanrui Miao",
-        "Zhengxi Lu",
-        "Teng Pan",
-        "Yiwen Qiu"
+        "Deyao Hong",
+        "Yizhe Chi",
+        "Wenyi Li",
+        "Xiaoqiu Wang",
+        "Mingju Gao"
       ],
       "tags": [
-        "agent",
-        "reinforcement learning"
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -34,22 +33,50 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2608.23918",
-      "title": "MARS: Multi-Specialist LLM Relay System for Competitive Programming",
-      "url": "https://huggingface.co/papers/2608.23918",
+      "id": "hf_paper_2608.23256",
+      "title": "Is Next-Chunk Reasoning RL Really Better than SFT? Revisiting Training Strategies under no-CoT Data",
+      "url": "https://huggingface.co/papers/2608.23256",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-08-23T20:00:00.000Z",
-      "abstract": "Large Language Models excel at code generation, yet competitive programming exposes a persistent failure mode: existing multi-agent pipelines distribute work over generic planner, coder, and debugger",
+      "abstract": "Recent work proposes next-chunk reasoning RL for leveraging no-CoT data---corpora such as worked solutions and textbook derivations that contain reasoning-rich content but lack explicit chain-of-thoug",
       "authors": [
-        "Andrei Mikhailov",
-        "Mikhail Burtsev",
-        "Alsu Sagirova"
+        "Yinhao Tang",
+        "Youqing Fang",
+        "Yanan Sun",
+        "Jiangning Liu",
+        "Ziyi Wang"
       ],
       "tags": [
-        "llm"
+        "training"
       ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.23383",
+      "title": "Long-Horizon Audio-Visual Generation for Persistent Stories and Interactive Worlds",
+      "url": "https://huggingface.co/papers/2608.23383",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-23T20:00:00.000Z",
+      "abstract": "Video generation is progressing beyond isolated clips toward long-form narratives and interactive worlds, requiring models to preserve identities, follow user controls, and remain stable over extended",
+      "authors": [
+        "Nan Duan",
+        "Haoyang Huang",
+        "Weiyang Jin",
+        "Haoran Li",
+        "Yaowei Li"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
