@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-08-28T13:33:51.822Z",
+  "generatedAt": "2026-08-28T23:18:05.618Z",
   "date": "24-08-2026",
   "count": 9,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2608.19269",
+      "title": "What Does an Evaluation License? A Commit-Bound Census of Claim-Relative Inference in Inspect Evals",
+      "url": "https://huggingface.co/papers/2608.19269",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-24T20:00:00.000Z",
+      "abstract": "Evaluation artifacts specify a forward computation: a task, scorer, and reported metric. They do not necessarily license the claim attached to that metric because the historical evidence and alternati",
+      "authors": [
+        "Xi Qin"
+      ],
+      "tags": [
+        "inference"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2608.26200",
       "title": "GameWAM: A World Action Model for Video Games",
@@ -120,28 +144,6 @@
       "type": "tool",
       "timestamp": "2026-08-24T15:00:00.000Z",
       "abstract": "Traditional cloud infrastructure was designed for predictable, general-purpose workloads and standard interfaces. Agentic AI factories connect diverse users,...]]>",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
-      "title": "Solving Agentic AI Fleet Challenges with NVIDIA Vera CPU",
-      "url": "https://developer.nvidia.com/blog/solving-agentic-ai-fleet-challenges-with-nvidia-vera-cpu/",
-      "source": "NVIDIA Blog",
-      "sourceIcon": "🟩",
-      "type": "tool",
-      "timestamp": "2026-08-24T15:00:00.000Z",
-      "abstract": "AI factories are interconnected systems where fleet economics depend on how efficiently the entire stack converts power and capital into completed agent tasks....]]>",
       "authors": [],
       "tags": [
         "agent"

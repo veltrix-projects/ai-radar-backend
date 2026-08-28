@@ -1,31 +1,9 @@
 {
-  "generatedAt": "2026-08-28T13:33:51.822Z",
+  "generatedAt": "2026-08-28T23:18:05.618Z",
   "date": "25-08-2026",
-  "count": 14,
+  "count": 13,
   "summary": null,
   "items": [
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Liquid AI Open-Sources Pipette: A Reproducible Benchmarking Suite That Measures On-Device Models, Quantization, Runtime and Hardware Together",
-      "url": "https://www.marktechpost.com/2026/08/25/liquid-ai-open-sources-pipette-a-reproducible-benchmarking-suite-that-measures-on-device-models-quantization-runtime-and-hardware-together/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-08-25T23:48:08.000Z",
-      "abstract": "Model cards report quality under server-class, full-precision conditions. Those numbers rarely predict how the same model behaves on a phone. This week, Liquid AI released Pipette. It is an open-sourc",
-      "authors": [],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "Restore LLM Inference Capacity in Seconds with Shadow Engine Recovery in NVIDIA Dynamo",
@@ -43,6 +21,32 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.25798",
+      "title": "TacForcing: Streaming Action Generation with Execution-Time Tactile Feedback",
+      "url": "https://huggingface.co/papers/2608.25798",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-25T20:00:00.000Z",
+      "abstract": "Contact-rich manipulation requires adapting to contact states that can evolve substantially within an action horizon. However, chunk-based vision-language-action models predict complete action chunks",
+      "authors": [
+        "Jianbo Zhou",
+        "Boyuan Zhao",
+        "Yuzheng Zhang",
+        "Yiyang Chen",
+        "Wenxin Chen"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -150,34 +154,6 @@
         "Yujie Zhao"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.25832",
-      "title": "Skill Issue: Are Skills Language-Invariant in LLMs?",
-      "url": "https://huggingface.co/papers/2608.25832",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-25T20:00:00.000Z",
-      "abstract": "Large language models access knowledge inconsistently across languages, but to what extent do they differ in their skill sets when interacting with different languages? This work quantifies cross-ling",
-      "authors": [
-        "Bobby Cheng",
-        "Adam Gaber",
-        "Zhengyuan Liu",
-        "Catherine Arnett",
-        "Omer Goldman"
-      ],
-      "tags": [
-        "llm"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
