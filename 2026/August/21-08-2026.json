@@ -1,9 +1,38 @@
 {
-  "generatedAt": "2026-08-28T01:34:07.931Z",
+  "generatedAt": "2026-08-28T13:33:51.823Z",
   "date": "21-08-2026",
-  "count": 7,
+  "count": 6,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2608.15763",
+      "title": "Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report",
+      "url": "https://huggingface.co/papers/2608.15763",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-21T20:00:00.000Z",
+      "abstract": "AI-powered digital avatar streamers must answer product questions, engage viewers, and execute marketing strategies in real time, demanding low latency, frequent strategy updates, and accurate yet eff",
+      "authors": [
+        "TaoLive AIGC LLM Team",
+        "Yuhan Sun",
+        "Wenhao Lin",
+        "Yongdong Luo",
+        "Yibo Hu"
+      ],
+      "tags": [
+        "agent",
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2608.21832",
       "title": "GUI-Primitives: Diagnosing Spatial Reasoning Failures in Vision-Language GUI Grounding",
@@ -18,62 +47,6 @@
         "Md Rizwan Parvez"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.22071",
-      "title": "Real-TurnTurk: A Multimodal Turkish Corpus for Turn-Taking Prediction",
-      "url": "https://huggingface.co/papers/2608.22071",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-21T20:00:00.000Z",
-      "abstract": "Turn-taking is a basic organizational feature of human conversation and remains difficult to model in natural, synchronous dialog systems. While existing research has explored multimodal approaches an",
-      "authors": [
-        "Ahmet Tuğrul Bayrak",
-        "Fatma Nur Korkmaz",
-        "Bekir Berker Türker",
-        "Mustafa Sertaç Türkel",
-        "Alper Kaplan"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.21839",
-      "title": "FIRM-Video: Check Before You Score for Reliable Text-to-Video Reward Modeling",
-      "url": "https://huggingface.co/papers/2608.21839",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-21T20:00:00.000Z",
-      "abstract": "Reliable reward models are essential for text-to-video evaluation and alignment. However, the trade-off between evaluation accuracy and inference efficiency places high demands on the quality of train",
-      "authors": [
-        "Peiyuan Zhang",
-        "Xiangyu Zhao",
-        "Hongbo Liu",
-        "Xiaoxing Hu",
-        "Mingxin Liu"
-      ],
-      "tags": [
-        "text-to-video"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

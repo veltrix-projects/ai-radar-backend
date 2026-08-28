@@ -1,85 +1,31 @@
 {
-  "generatedAt": "2026-08-28T01:34:07.930Z",
+  "generatedAt": "2026-08-28T13:33:51.823Z",
   "date": "23-08-2026",
-  "count": 3,
+  "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2608.23564",
-      "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
-      "url": "https://huggingface.co/papers/2608.23564",
+      "id": "hf_paper_2608.23172",
+      "title": "CaRGo-T: Causal Reasoning Graph-of-Thought improves Multimodal Humor Comprehension",
+      "url": "https://huggingface.co/papers/2608.23172",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-08-23T20:00:00.000Z",
-      "abstract": "Modern software systems accumulate technical debt over decades of development, which makes migration expensive and largely manual. As coding agents become increasingly capable at bug fixing, can they",
+      "abstract": "Large-scale vision-language models (VLMs) have demonstrated remarkable versatility across a wide range of multimodal tasks. However, understanding humor remains challenging because humorous content of",
       "authors": [
-        "Deyao Hong",
-        "Yizhe Chi",
-        "Wenyi Li",
-        "Xiaoqiu Wang",
-        "Mingju Gao"
+        "Abhilash Nandy",
+        "Rahul Seetharaman",
+        "Aman Bansal",
+        "Rounak Saha",
+        "Manav Nitin Kapadnis"
       ],
       "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.23256",
-      "title": "Is Next-Chunk Reasoning RL Really Better than SFT? Revisiting Training Strategies under no-CoT Data",
-      "url": "https://huggingface.co/papers/2608.23256",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-23T20:00:00.000Z",
-      "abstract": "Recent work proposes next-chunk reasoning RL for leveraging no-CoT data---corpora such as worked solutions and textbook derivations that contain reasoning-rich content but lack explicit chain-of-thoug",
-      "authors": [
-        "Yinhao Tang",
-        "Youqing Fang",
-        "Yanan Sun",
-        "Jiangning Liu",
-        "Ziyi Wang"
-      ],
-      "tags": [
-        "training"
+        "multimodal"
       ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.23383",
-      "title": "Long-Horizon Audio-Visual Generation for Persistent Stories and Interactive Worlds",
-      "url": "https://huggingface.co/papers/2608.23383",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-23T20:00:00.000Z",
-      "abstract": "Video generation is progressing beyond isolated clips toward long-form narratives and interactive worlds, requiring models to preserve identities, follow user controls, and remain stable over extended",
-      "authors": [
-        "Nan Duan",
-        "Haoyang Huang",
-        "Weiyang Jin",
-        "Haoran Li",
-        "Yaowei Li"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

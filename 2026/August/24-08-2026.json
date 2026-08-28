@@ -1,106 +1,23 @@
 {
-  "generatedAt": "2026-08-28T01:34:07.930Z",
+  "generatedAt": "2026-08-28T13:33:51.822Z",
   "date": "24-08-2026",
-  "count": 12,
+  "count": 9,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2608.25204",
-      "title": "LibriBrain100: One Hundred Hours of Broad and Deep MEG Data for Neural Speech Decoding at Scale",
-      "url": "https://huggingface.co/papers/2608.25204",
+      "id": "hf_paper_2608.26200",
+      "title": "GameWAM: A World Action Model for Video Games",
+      "url": "https://huggingface.co/papers/2608.26200",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-08-24T20:00:00.000Z",
-      "abstract": "We introduce LibriBrain100, a large-scale MEG dataset for speech decoding designed from the ground up for reproducible, standardised evaluation. LibriBrain100 more than doubles the size of the origina",
+      "abstract": "Modern video games combine first-person perception, rapid visual changes, persistent world state, and heterogeneous native controls. Existing game agents map visual and task context directly to action",
       "authors": [
-        "Francesco Mantegna",
-        "Dulhan Jayalath",
-        "Gereon Elvers",
-        "Tasha Kim",
-        "Benjamin Ballyk"
-      ],
-      "tags": [
-        "speech"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.24358",
-      "title": "The Handoff Tax: Continuing Non-Native Trajectories in LLM Agents",
-      "url": "https://huggingface.co/papers/2608.24358",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-24T20:00:00.000Z",
-      "abstract": "Coding agents perform long-running tasks spanning dozens of model calls, tool uses, and code edits. As these runs unfold, users face a practical cost-quality trade-off: escalating to a stronger model",
-      "authors": [
-        "Roy Ganz",
-        "Mor Shpigel Nacson",
-        "Adi Kalyanpur",
-        "Ron Litman"
-      ],
-      "tags": [
-        "llm",
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.24138",
-      "title": "Rubrics as Visual-Repair Context for Self-Evolving UI-to-Code Generation",
-      "url": "https://huggingface.co/papers/2608.24138",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-24T20:00:00.000Z",
-      "abstract": "Large vision-language models have shown strong progress in UI-to-code generation, yet their test-time self-evolution remains unstable. We first identify a fundamental obstacle, termed visual repair co",
-      "authors": [
-        "Tianyi Xiong",
-        "Zhengyuan Yang",
-        "Xiaofei Wang",
-        "Chung-Ching Lin",
-        "Ruichun Ma"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.24479",
-      "title": "WarpSAC: Towards the Pinnacle of Scalable Off-policy RL by Rethinking Exploration and Exploitation",
-      "url": "https://huggingface.co/papers/2608.24479",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-24T20:00:00.000Z",
-      "abstract": "Massively parallel simulation changes the data regime in which off-policy reinforcement learning (RL) is trained, challenging stabilizers designed for data-limited replay. Through controlled experimen",
-      "authors": [
-        "Zihao Wu",
-        "Hongyao Tang",
-        "Yi Ma",
-        "Huizhong Song",
-        "Pengyi Li"
+        "Yuncheng Guo",
+        "Zhanqiu Zhang",
+        "Yiwen Guo",
+        "Weijia Li"
       ],
       "tags": [],
       "score": 6,
