@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-28T23:18:05.617Z",
+  "generatedAt": "2026-08-29T04:13:43.923Z",
   "date": "26-08-2026",
-  "count": 38,
+  "count": 33,
   "summary": null,
   "items": [
     {
@@ -35,28 +35,6 @@
       "abstract": "",
       "authors": [],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Z.ai Releases GLM-5.3-Flash: A 320B-A18B Natively Multimodal MoE With a 1M-Token Context",
-      "url": "https://www.marktechpost.com/2026/08/26/z-ai-releases-glm-5-3-flash-a-320b-a18b-natively-multimodal-moe-with-a-1m-token-context/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-08-26T21:33:23.000Z",
-      "abstract": "Z.ai has released GLM-5.3-Flash, the first natively multimodal model in the GLM-5 series — a 320B-total / 18B-active MoE with a 1,048,576-token context window, MIT-licensed weights on Hugging Face, an",
-      "authors": [],
-      "tags": [
-        "multimodal"
-      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
@@ -379,35 +357,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2608.27351",
-      "title": "Understanding Evolution Strategies for LLM Reasoning: Broader Reasoning Coverage than GRPO",
-      "url": "https://huggingface.co/papers/2608.27351",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-26T20:00:00.000Z",
-      "abstract": "Evolution Strategies (ES) have recently emerged as a memory-efficient post-training paradigm for LLM reasoning. However, the optimization behavior of ES remains understudied, making it hard to define",
-      "authors": [
-        "Yunpeng Ba",
-        "Zhi Zheng",
-        "Yue Xie",
-        "Jiaqing Li",
-        "Xialiang Tong"
-      ],
-      "tags": [
-        "llm",
-        "rag"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fa-studen",
       "title": "A Student Said He Was a Hobby Plane Spotter. He Was Allegedly Taking Photos for the Chinese Government",
       "url": "https://www.404media.co/a-student-said-he-was-a-hobby-plane-spotter-he-was-allegedly-taking-photos-for-the-chinese-government/",
@@ -465,6 +414,26 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Fg",
+      "title": "GlucoFM: Foundation model for continuous glucose monitoring",
+      "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/",
+      "source": "Google Research",
+      "sourceIcon": "🔍",
+      "type": "research",
+      "timestamp": "2026-08-26T18:42:43.000Z",
+      "abstract": "Health &amp; Bioscience",
+      "authors": [],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -579,29 +548,6 @@
       "points": 0
     },
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Alibaba&#8217;s Qwen Team Releases Qwen3.8-Flash-Next: A 125B Multimodal MoE With 6B Active Parameters Previewing the Qwen4 Architecture",
-      "url": "https://www.marktechpost.com/2026/08/26/alibabas-qwen-team-releases-qwen3-8-flash-next-a-125b-multimodal-moe-with-6b-active-parameters-previewing-the-qwen4-architecture/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-08-26T15:20:00.000Z",
-      "abstract": "We look at Qwen3.8-Flash-Next, Alibaba's open-weight multimodal Mixture-of-Experts model and an early preview of the Qwen4 architecture. We break down where the 180B parameters actually sit: a 125B ba",
-      "authors": [],
-      "tags": [
-        "qwen",
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "gh_1075372545",
       "title": "msitarzewski/agency-agents — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whi",
       "url": "https://github.com/msitarzewski/agency-agents",
@@ -619,7 +565,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 148624,
+      "stars": 148653,
       "votes": 0,
       "points": 0
     },
@@ -632,28 +578,6 @@
       "type": "news",
       "timestamp": "2026-08-26T14:30:00.000Z",
       "abstract": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of t",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "What Would Have to Be True for Agentic Coding to Replace Junior Engineers",
-      "url": "https://www.marktechpost.com/2026/08/26/what-would-have-to-be-true-for-agentic-coding-to-replace-junior-engineers/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-08-26T14:20:35.000Z",
-      "abstract": "Four falsifiable conditions for agentic coding replacing juniors, tested against METR, OpenAI, DORA and Stanford primary source evidence\nThe post What Would Have to Be True for Agentic Coding to Repla",
       "authors": [],
       "tags": [
         "agent"
@@ -720,48 +644,6 @@
       "tags": [
         "gpt"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "Gatik raises $200M to scale AI-powered autonomous freight",
-      "url": "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-08-26T10:00:00.000Z",
-      "abstract": "Autonomous trucking company Gatik has raised $200 million in Series D funding to expand its driverless freight operations across North America. The round was led by Qatar Investment Authority and Koch",
-      "authors": [],
-      "tags": [
-        "autonomous"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
-      "url": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-08-26T09:08:11.000Z",
-      "abstract": "NVIDIA has unveiled the Jetson Orin Nano 2, an edge robotics computer aimed at bringing physical AI to drones, robots, and vision systems. The company is positioning the new board as an entry-level op",
-      "authors": [],
-      "tags": [],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
