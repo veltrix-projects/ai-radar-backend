@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-31T02:25:16.761Z",
+  "generatedAt": "2026-08-31T08:45:52.767Z",
   "date": "27-08-2026",
-  "count": 39,
+  "count": 31,
   "summary": null,
   "items": [
     {
@@ -110,6 +110,116 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2608.27906",
+      "title": "Rubric-to-Code Credit Assignment for Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2608.27906",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-27T20:00:00.000Z",
+      "abstract": "Interactive web application generation requires models to produce usable HTML, CSS, and JavaScript applications from natural language requests. Unlike conventional code generation, application quality",
+      "authors": [
+        "Rui Jin",
+        "Jikai Chen",
+        "Yihan Chen",
+        "Hao Zhou",
+        "Demin Zhu"
+      ],
+      "tags": [
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.28549",
+      "title": "Video Generative Models as Geometry Learner",
+      "url": "https://huggingface.co/papers/2608.28549",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-27T20:00:00.000Z",
+      "abstract": "Recent generative approaches to geometry estimation adapt pretrained image diffusion models and treat the task as image-conditioned generation. Leveraging off-the-shelf image diffusion models, they ei",
+      "authors": [
+        "Haosen Yang",
+        "Jifei Song",
+        "Zhensong Zhang",
+        "Xiatian Zhu",
+        "Jiankang Deng"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.28478",
+      "title": "Blind Men and the Elephant: Probing the Epistemic Myopia of LLMs under Long-Tail Divergent Knowledge",
+      "url": "https://huggingface.co/papers/2608.28478",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-27T20:00:00.000Z",
+      "abstract": "Factual question answering (QA) typically assumes a single canonical answer, obscuring whether large language models (LLMs) retain divergent accounts of long-tail facts. To address this gap, we introd",
+      "authors": [
+        "Zhuoshi Pan",
+        "Junru Lu",
+        "Yan Qian",
+        "H. Vicky Zhao",
+        "Di Yin"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.28476",
+      "title": "ContextPilot: Teaching Agents for Proactive Context Management via Fine-grained RL",
+      "url": "https://huggingface.co/papers/2608.28476",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-27T20:00:00.000Z",
+      "abstract": "Long-horizon agentic tasks require large language models (LLMs) to iteratively retrieve, integrate, and maintain dispersed information across multi-turn interactions, but preserving all interaction hi",
+      "authors": [
+        "Zhuoshi Pan",
+        "Qizhi Pei",
+        "Junru Lu",
+        "Honglin Lin",
+        "H. Vicky Zhao"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Ftech%2F",
       "title": "Google’s AI note-taking app now allows you to interact with books",
       "url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
@@ -159,320 +269,6 @@
       "timestamp": "2026-08-27T18:14:29.000Z",
       "abstract": "",
       "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2608.27449v1",
-      "title": "SWE-Prime: Fewer Trajectories, Better Performance",
-      "url": "https://arxiv.org/abs/2608.27449v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-08-27T17:58:10Z",
-      "abstract": "To improve large language models' ability to resolve real-world software issues, prior work has focused on constructing large-scale agent trajectory datasets and performing supervised fine-tuning (SFT",
-      "authors": [
-        "Dewu Zheng",
-        "Ruizhe Ye",
-        "Yanlin Wang",
-        "Yang Ye",
-        "Hongyu Zhang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2608.27442v1",
-      "title": "From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench",
-      "url": "https://arxiv.org/abs/2608.27442v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-08-27T17:56:24Z",
-      "abstract": "In real-world software development, code review typically involves iterative interactions between developers and reviewers to improve software quality, making the process costly and time-consuming. Al",
-      "authors": [
-        "Dewu Zheng",
-        "Yanlin Wang",
-        "Xiwen Wang",
-        "Kefeng Duan",
-        "Hongyu Zhang"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2607.19326v2",
-      "title": "Selective State-Space Adaptation and Retrieval for Language Model Reasoning",
-      "url": "https://arxiv.org/abs/2607.19326v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-08-27T17:55:34Z",
-      "abstract": "Low-rank adaptation introduces a static learned update applied identically to every input. The update provides task-level adaptation but does not explicitly represent token-level or instance-level sta",
-      "authors": [
-        "Atahan Dokme",
-        "Larry Heck"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2608.27439v1",
-      "title": "RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution",
-      "url": "https://arxiv.org/abs/2608.27439v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-08-27T17:55:33Z",
-      "abstract": "LLM-based agents are increasingly deployed in product-level execution harnesses, where jailbreaks can trigger harmful tool use and persistent state changes, creating greater risks than unsafe text gen",
-      "authors": [
-        "Junjie Zhang",
-        "Hui Liu",
-        "Kecheng Chen",
-        "Xianbo Mo",
-        "Changsheng Chen"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2608.27429v1",
-      "title": "Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation",
-      "url": "https://arxiv.org/abs/2608.27429v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-08-27T17:50:44Z",
-      "abstract": "Chemical reactions are fundamentally transformations in electron space, yet most machine learning approaches model them either through \\textit{de novo} generation of product molecules or through heuri",
-      "authors": [
-        "Nguyen Xuan-Vu",
-        "Octavian Susanu",
-        "Daniel Armstrong",
-        "Philippe Schwaller"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2608.27428v1",
-      "title": "Stochastic Estimation of Transduced Language Models",
-      "url": "https://arxiv.org/abs/2608.27428v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-08-27T17:50:21Z",
-      "abstract": "Transduced language models (TLMs) compose a pretrained \\emph{source} language model with a functional finite-state transducer to induce a language model over \\emph{target} strings. Computing the proba",
-      "authors": [
-        "Vésteinn Snæbjarnarson",
-        "Samuel Kiegeland",
-        "Manuel de Prada Corral",
-        "Ryan Cotterell",
-        "Tim Vieira"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2608.27427v1",
-      "title": "Persona-Execution Separation: An Architecture Pattern for Evolving LLM Agents under Execution Audit",
-      "url": "https://arxiv.org/abs/2608.27427v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-08-27T17:50:07Z",
-      "abstract": "Large language model (LLM) agents in governed organizations must let the persona (instructions, tone, self-presentation) evolve freely, while keeping execution (stateful, audited work) traceable. A si",
-      "authors": [
-        "Yisen Xi"
-      ],
-      "tags": [
-        "llm",
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2608.27424v1",
-      "title": "Beyond F1: Evaluating Coverage and Failure Recovery in AI Model Security Scanners",
-      "url": "https://arxiv.org/abs/2608.27424v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-08-27T17:49:28Z",
-      "abstract": "Static scanners are increasingly used to identify executable or otherwise unsafe content in machine- learning artifacts, yet conventional evaluation metrics characterize only cases where a scanner yie",
-      "authors": [
-        "Qianlong Lan",
-        "Vinothini Pandurangan",
-        "Anuj Kaul",
-        "Indranil Sanyal"
-      ],
-      "tags": [
-        "rag"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2608.27421v1",
-      "title": "Learning a Continuous Sepsis Severity Score Without Hour-by-Hour Supervision: A Two-Site Retrospective Study",
-      "url": "https://arxiv.org/abs/2608.27421v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-08-27T17:46:21Z",
-      "abstract": "Currently used sepsis severity indices rely on fixed variables and weights established decades ago, which are coarsely discretized and calibrated to a cohort that no longer reflects contemporary criti",
-      "authors": [
-        "Kevin Zhu",
-        "Ryan Zhang",
-        "Baraa Abed",
-        "Tilendra Choudhary",
-        "Malvern Madondo"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2608.27420v1",
-      "title": "Boosting LLM Exploration via Weak-Model Guidance in RLVR",
-      "url": "https://arxiv.org/abs/2608.27420v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-08-27T17:45:50Z",
-      "abstract": "Reinforcement Learning with Verifiable Rewards (RLVR) significantly improves LLM reasoning but often causes a drop in policy entropy, leading to narrowed reasoning coverage and degraded pass@$k$ for l",
-      "authors": [
-        "Xingyu Shen",
-        "Huishuai Zhang",
-        "Peng Li",
-        "Yinchun Wang",
-        "Dongyan Zhao"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2608.27413v1",
-      "title": "Scaling Graph Neural Networks for Friend Recommendation: Multi-Hash User Embeddings and Temporal Neighbor Sampling",
-      "url": "https://arxiv.org/abs/2608.27413v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-08-27T17:41:33Z",
-      "abstract": "Friend recommendation is inherently graph-structured: the relevance of a potential connection depends on multi-hop social context rather than user attributes alone. However, deploying message-passing",
-      "authors": [
-        "Maksim Utushkin",
-        "Andrei Ovsiannikov",
-        "Alexander D'yakonov"
-      ],
-      "tags": [
-        "embeddings"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2608.27409v1",
-      "title": "Consolidating RLVR Capabilities Across Domains: A Deep Dive into Fusion Paradigms",
-      "url": "https://arxiv.org/abs/2608.27409v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-08-27T17:38:04Z",
-      "abstract": "Reinforcement learning with verifiable rewards (RLVR) improves specific capabilities of large language models, but covering multiple capabilities often involves training separate domain experts and su",
-      "authors": [
-        "Siye Wu",
-        "Kai Yang",
-        "Yuchen Cai",
-        "Xin Xu",
-        "Peng-Yuan Wang"
-      ],
       "tags": [],
       "score": 4,
       "priority": "LOW",

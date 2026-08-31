@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-31T02:25:16.764Z",
+  "generatedAt": "2026-08-31T08:45:52.768Z",
   "date": "25-08-2026",
-  "count": 12,
+  "count": 10,
   "summary": null,
   "items": [
     {
@@ -28,6 +28,64 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2608.25417",
+      "title": "Paint What You See: Benchmarking Dexterous Visual Tool Use in Multimodal Agents",
+      "url": "https://huggingface.co/papers/2608.25417",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-25T20:00:00.000Z",
+      "abstract": "Evaluation is shifting from static QA toward agentic settings where models act through external tools. We identify a critical yet underexplored capability within this space - dexterous visual tool use",
+      "authors": [
+        "Shudong Liu",
+        "Dongyang Chen",
+        "Enci Zhang",
+        "Jinwei Liang",
+        "Zheng Ma"
+      ],
+      "tags": [
+        "multimodal",
+        "agent",
+        "benchmark"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.25697",
+      "title": "LMSM: LLM Security Framework Inspired by Linux Security Modules",
+      "url": "https://huggingface.co/papers/2608.25697",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-25T20:00:00.000Z",
+      "abstract": "Large language models (LLMs) are increasingly deployed with layered defenses, yet malicious prompts can still bypass them. Interpretability methods can expose model-internal signals along the generati",
+      "authors": [
+        "XiuYu Zhang",
+        "Bonan Ruan",
+        "Junfeng Fang",
+        "An Zhang",
+        "Tat-Seng Chua"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2608.25798",
       "title": "TacForcing: Streaming Action Generation with Execution-Time Tactile Feedback",
       "url": "https://huggingface.co/papers/2608.25798",
@@ -42,116 +100,6 @@
         "Yuzheng Zhang",
         "Yiyang Chen",
         "Wenxin Chen"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.25518",
-      "title": "Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models",
-      "url": "https://huggingface.co/papers/2608.25518",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-25T20:00:00.000Z",
-      "abstract": "A common strategy for scaling world models is to train on more crawled video with more compute. We argue that this strategy is inefficient: scaling world models also requires a recursive data engine t",
-      "authors": [
-        "Pengfei Zhou",
-        "Hexin Wang",
-        "Zhengfeiyang Zhang",
-        "Yixing Ma",
-        "Zhenglin Wan"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.26238",
-      "title": "Procedura: Agentic 3D Modeling with Procedural Control",
-      "url": "https://huggingface.co/papers/2608.26238",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-25T20:00:00.000Z",
-      "abstract": "Native 3D generators now recover impressive mesh geometry from a single image. However, a dense mesh stays soft where a machined object should be sharp, it carries no part decomposition, and it expose",
-      "authors": [
-        "Youtian Lin",
-        "Yikang Yang",
-        "Zhanpeng Hu",
-        "Mengqi Zhou",
-        "Feihu Zhang"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.25500",
-      "title": "CaSKG: Counterfactual-Causal Skill Graphs for Scalable Agent Skill Retrieval",
-      "url": "https://huggingface.co/papers/2608.25500",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-25T20:00:00.000Z",
-      "abstract": "Reusable skill libraries allow large language model (LLM) agents to reuse procedural knowledge across tasks, but they also turn memory access into a challenging retrieval problem. Full-library prompti",
-      "authors": [
-        "Zhiyuan Li",
-        "Linyuan Gao",
-        "Xuechun Ding",
-        "Hongwei Chen",
-        "Yuan Wu"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.26103",
-      "title": "Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization",
-      "url": "https://huggingface.co/papers/2608.26103",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-25T20:00:00.000Z",
-      "abstract": "Zero-shot cross-task generalization, where a policy must execute manipulation tasks never seen during training, remains a central challenge in robot learning. In large language models, a novel task ca",
-      "authors": [
-        "Jiaming Zhou",
-        "Qihang Zhang",
-        "Gangwei Xu",
-        "Cunxin Fan",
-        "Yujie Zhao"
       ],
       "tags": [],
       "score": 6,
