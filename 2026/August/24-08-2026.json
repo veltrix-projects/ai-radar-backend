@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-31T08:45:52.768Z",
+  "generatedAt": "2026-08-31T16:31:36.592Z",
   "date": "24-08-2026",
-  "count": 12,
+  "count": 10,
   "summary": null,
   "items": [
     {
@@ -48,84 +48,6 @@
       ],
       "tags": [
         "safety"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.24115",
-      "title": "PonderPounce: A Pretrained MLLM as an Episode Context Engine for Robot Control",
-      "url": "https://huggingface.co/papers/2608.24115",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-24T20:00:00.000Z",
-      "abstract": "Multimodal large language models (MLLMs) can integrate long visual histories, reason under partial observability, and infer behavior from a few examples. Yet vision-language-action (VLA) models genera",
-      "authors": [
-        "Suhwan Choi",
-        "Jaeyoon Jung",
-        "Sungkyung Kim",
-        "Yunsung Lee",
-        "Youngjae Yu"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.23943",
-      "title": "Luce: Relightable Gaussians for 3D Asset Generation",
-      "url": "https://huggingface.co/papers/2608.23943",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-24T20:00:00.000Z",
-      "abstract": "High-fidelity image-to-3D generation requires a 3D representation that captures both geometry and appearance. To support relighting and integration into standard rendering pipelines, the representatio",
-      "authors": [
-        "Mayank Singh",
-        "Michele Stoppa",
-        "Alvise Memo",
-        "Rui Yu",
-        "Harsha Kalli"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.19269",
-      "title": "What Does an Evaluation License? A Commit-Bound Census of Claim-Relative Inference in Inspect Evals",
-      "url": "https://huggingface.co/papers/2608.19269",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-24T20:00:00.000Z",
-      "abstract": "Evaluation artifacts specify a forward computation: a task, scorer, and reported metric. They do not necessarily license the claim attached to that metric because the historical evidence and alternati",
-      "authors": [
-        "Xi Qin"
-      ],
-      "tags": [
-        "inference"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -275,6 +197,33 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.23149",
+      "title": "Language Chain in Alignment: Cross-lingual Ranking Preference Optimization",
+      "url": "https://huggingface.co/papers/2608.23149",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-24T07:54:36.000Z",
+      "abstract": "The alignment of Large Language Models heavily relies on English-centric high-quality preference data, which often leads to suboptimal performance in other languages. In this paper, we propose Cross-l",
+      "authors": [
+        "Seungyoon Lee",
+        "Minhyuk Kim",
+        "Jungseob Lee",
+        "Heuiseok Lim"
+      ],
+      "tags": [
+        "alignment"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
