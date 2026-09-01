@@ -1,9 +1,61 @@
 {
-  "generatedAt": "2026-09-01T05:52:36.607Z",
+  "generatedAt": "2026-09-01T10:47:36.675Z",
   "date": "28-08-2026",
-  "count": 11,
+  "count": 13,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2608.29252",
+      "title": "Dynamic Important Example Mining for Reinforcement Finetuning",
+      "url": "https://huggingface.co/papers/2608.29252",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-28T20:00:00.000Z",
+      "abstract": "Reinforcement fine-tuning (RFT) is increasingly used to strengthen the reasoning abilities of large models, yet its effectiveness is bound by how training data are selected and used. Most data-centric",
+      "authors": [
+        "Haoru Tan",
+        "Sitong Wu",
+        "Yanfeng Chen",
+        "Shizhen Zhao",
+        "Yang-Tian Sun"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.29335",
+      "title": "GenFirst: Generation Before Reconstruction for Stable End-to-End Latent Generative Modeling",
+      "url": "https://huggingface.co/papers/2608.29335",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-28T20:00:00.000Z",
+      "abstract": "Latent generative models typically follow a two-stage pipeline, training a variational autoencoder for reconstruction and then a generative model on the frozen latent space. Since reconstruction-optim",
+      "authors": [
+        "Guangting Zheng",
+        "Yiyuan Zhang",
+        "Tao Yang",
+        "Yunpeng Chen",
+        "Rui Zhu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
       "title": "Batch write and discover records in Amazon SageMaker Feature Store",
@@ -175,7 +227,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 158153,
+      "stars": 158174,
       "votes": 0,
       "points": 0
     },

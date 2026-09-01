@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-01T05:52:36.608Z",
+  "generatedAt": "2026-09-01T10:47:36.675Z",
   "date": "26-08-2026",
-  "count": 23,
+  "count": 17,
   "summary": null,
   "items": [
     {
@@ -47,128 +47,27 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2608.26737",
-      "title": "Generative Semantic Scene Completion",
-      "url": "https://huggingface.co/papers/2608.26737",
+      "id": "hf_paper_2608.28695",
+      "title": "Weaving Visual Narratives: Agentic Image Bundle Composition Beyond Atomic Visual Matching",
+      "url": "https://huggingface.co/papers/2608.28695",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-08-26T20:00:00.000Z",
-      "abstract": "Outdoor LiDAR semantic scene completion (SSC) recovers a dense semantic voxel grid from a scan observing 1% of the target volume, under class imbalance beyond 7,000x. We recast SSC as generative seman",
+      "abstract": "Image retrieval has traditionally been formulated as a point-wise matching problem, where each candidate image is scored in isolation. However, this atomic paradigm fails to capture the complexity of",
       "authors": [
-        "Shi Chen",
-        "Weifeng Ge"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.27763",
-      "title": "Fast Weight Attention for Continual Learning",
-      "url": "https://huggingface.co/papers/2608.27763",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-26T20:00:00.000Z",
-      "abstract": "Recurrent fast-weight memories and selective state-space models compress an expanding context into a fixed-size recurrent state, making the state transition an online learning rule. We study this rule",
-      "authors": [
-        "Yifan Zhang",
-        "Steve Ta",
-        "Jasper Zhang",
-        "Jichen Feng",
-        "Shuzhen Li"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.26794",
-      "title": "Ring Forcing: Towards Precise Long-Term Memory for Autoregressive Video Diffusion",
-      "url": "https://huggingface.co/papers/2608.26794",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-26T20:00:00.000Z",
-      "abstract": "Scaling video generation to long durations reveals a critical bottleneck: current models lack robust long-term memory. This deficiency can be studied along two critical aspects: object permanence, the",
-      "authors": [
-        "Bowen Xue",
-        "Brandon Y. Feng",
-        "Chenguo Lin",
-        "Yuchen Lin",
-        "Yujia Zeng"
+        "Rong Shan",
+        "Tianyi Xu",
+        "Congmin Zheng",
+        "Wenteng Chen",
+        "Jiachen Zhu"
       ],
       "tags": [
-        "diffusion"
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.27370",
-      "title": "Puro-2B: Poor Lab's Qwen2-1.5B Trained on RTX 5090 within $5090",
-      "url": "https://huggingface.co/papers/2608.27370",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-26T20:00:00.000Z",
-      "abstract": "Language model pretraining has become almost synonymous with prohibitive cost, placing it out of reach for much of the academic and open-source communities. Although strong open-source efforts already",
-      "authors": [
-        "Kairong Luo",
-        "Jiarui Cui",
-        "Yaorui Yin",
-        "Shengqi Chen",
-        "Yiming Yang"
-      ],
-      "tags": [
-        "qwen"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.26582",
-      "title": "J-Zero: Unified Challenger--Solver--Judge Co-Evolution from Zero Data",
-      "url": "https://huggingface.co/papers/2608.26582",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-26T20:00:00.000Z",
-      "abstract": "Self-evolving language models have recently emerged as a promising path toward superintelligence, with the advantage of reducing the cost of human supervision. While considerable progress has been mad",
-      "authors": [
-        "Gyouk Chu",
-        "Myeongho Jeon",
-        "Eunho Yang"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -280,7 +179,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 149311,
+      "stars": 149359,
       "votes": 0,
       "points": 0
     },
@@ -307,26 +206,6 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Flearn",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "url": "https://openai.com/index/learning-never-stops",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-08-26T10:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fbring",
       "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
       "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
@@ -339,6 +218,26 @@
       "tags": [
         "gpt"
       ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Flearn",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "url": "https://openai.com/index/learning-never-stops",
+      "source": "OpenAI Blog",
+      "sourceIcon": "🟢",
+      "type": "news",
+      "timestamp": "2026-08-26T10:00:00.000Z",
+      "abstract": "",
+      "authors": [],
+      "tags": [],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
@@ -451,56 +350,9 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2608.25375",
-      "title": "GGSS: Geodesic-Gated Spherical Steering for Inference-Time Debiasing of Generative Vision-Language Models",
-      "url": "https://huggingface.co/papers/2608.25375",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-26T00:58:40.000Z",
-      "abstract": "Generative vision-language models (VLMs) are increasingly used in human-centered settings, yet they can produce demographically biased outputs even when images differ only in controlled attributes suc",
-      "authors": [
-        "Yiqun Sun",
-        "Junyu Chen",
-        "Pengfei Wei",
-        "Lawrence B. Hsieh"
-      ],
-      "tags": [
-        "inference"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fhuggi",
       "title": "The Hugging Face incident and the road ahead",
       "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-08-26T00:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Floveh",
-      "title": "How loveholidays is making everyone a builder with Codex",
-      "url": "https://openai.com/index/loveholidays",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
