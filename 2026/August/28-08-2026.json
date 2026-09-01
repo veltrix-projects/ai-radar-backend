@@ -1,9 +1,146 @@
 {
-  "generatedAt": "2026-09-01T10:47:36.675Z",
+  "generatedAt": "2026-09-01T15:18:34.260Z",
   "date": "28-08-2026",
-  "count": 13,
+  "count": 17,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2608.29464",
+      "title": "Chain-of-Thought Faithfulness of Reasoning Models Varies with Where and How Preference Cues Are Delivered",
+      "url": "https://huggingface.co/papers/2608.29464",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-28T20:00:00.000Z",
+      "abstract": "Chain-of-thought (CoT) monitoring assumes that reasoning traces faithfully record the information that shapes a model's answer. Existing faithfulness tests often place explicit bias cues in the user m",
+      "authors": [
+        "Aryo Pradipta Gema",
+        "Neel Rajani",
+        "Rohit Saxena",
+        "Wai-Chung Kwan",
+        "Pasquale Minervini"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.29387",
+      "title": "EvoGenUI-Bench: Evaluating LLMs as Multi-Turn Generative UI Assistants",
+      "url": "https://huggingface.co/papers/2608.29387",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-28T20:00:00.000Z",
+      "abstract": "Large language models can generate interactive web interfaces, but reliable generative UI requires maintaining an executable artifact as user requests evolve. We introduce EvoGenUI-Bench, a benchmark",
+      "authors": [
+        "Yue Peng",
+        "Lanke Xia",
+        "Zihan Wang",
+        "Jiahao Ye",
+        "Ke Ning"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.29137",
+      "title": "Chat-Edit-3D++: Interactive 3D and 4D Scene Editing via Large Language Models",
+      "url": "https://huggingface.co/papers/2608.29137",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-28T20:00:00.000Z",
+      "abstract": "Recent work on image content manipulation based on vision-language pre-training models has been effectively extended to text-driven 3D scene editing. However, existing schemes for 3D scene editing sti",
+      "authors": [
+        "Shuangkang Fang",
+        "Yufeng Wang",
+        "Yi-Hsuan Tsai",
+        "Wenrui Ding",
+        "Yi Yang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.29310",
+      "title": "Super Library Agent: Joint Generation and Maintenance of Multiple Applications Beyond the Single Codebase",
+      "url": "https://huggingface.co/papers/2608.29310",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-28T20:00:00.000Z",
+      "abstract": "Organizations often develop and maintain portfolios of related applications: independently deployable codebases that share substantial domain logic, interface patterns, or operational conventions. As",
+      "authors": [
+        "Daegyu Sung",
+        "Yukyeong Lee",
+        "Geon Park",
+        "Yumin Choi",
+        "Sung Ju Hwang"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.29098",
+      "title": "SafeAtlas-VL: Beyond Binary Multimodal Safety with Large-Scale Data and Guard Models",
+      "url": "https://huggingface.co/papers/2608.29098",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-28T20:00:00.000Z",
+      "abstract": "Multimodal safety moderation requires distinguishing risks arising from visual content, user intent, and assistant behavior. Existing safeguards, however, are typically trained for a single judgment t",
+      "authors": [
+        "Zongrui Wang",
+        "Xiangyang Zhu",
+        "Sicheng Wang",
+        "Han Wang",
+        "Dingyi Rong"
+      ],
+      "tags": [
+        "multimodal",
+        "safety"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2608.29252",
       "title": "Dynamic Important Example Mining for Reinforcement Finetuning",
@@ -19,32 +156,6 @@
         "Yanfeng Chen",
         "Shizhen Zhao",
         "Yang-Tian Sun"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.29335",
-      "title": "GenFirst: Generation Before Reconstruction for Stable End-to-End Latent Generative Modeling",
-      "url": "https://huggingface.co/papers/2608.29335",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-28T20:00:00.000Z",
-      "abstract": "Latent generative models typically follow a two-stage pipeline, training a variational autoencoder for reconstruction and then a generative model on the frozen latent space. Since reconstruction-optim",
-      "authors": [
-        "Guangting Zheng",
-        "Yiyuan Zhang",
-        "Tao Yang",
-        "Yunpeng Chen",
-        "Rui Zhu"
       ],
       "tags": [],
       "score": 6,
@@ -227,7 +338,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 158174,
+      "stars": 158183,
       "votes": 0,
       "points": 0
     },
