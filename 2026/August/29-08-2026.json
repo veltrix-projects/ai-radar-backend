@@ -1,26 +1,78 @@
 {
-  "generatedAt": "2026-09-01T15:18:34.260Z",
+  "generatedAt": "2026-09-01T18:39:58.330Z",
   "date": "29-08-2026",
-  "count": 6,
+  "count": 7,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2608.29910",
-      "title": "Matrix-Game 3.5: Enhancing Real-Time Streaming Interactive World Models with Patch Memory",
-      "url": "https://huggingface.co/papers/2608.29910",
+      "id": "hf_paper_2608.29681",
+      "title": "MMMMM: A Unified Taxonomy for Investigating the Mechanisms of Multilingual MultiModal Misinformation",
+      "url": "https://huggingface.co/papers/2608.29681",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-08-29T20:00:00.000Z",
-      "abstract": "Interactive world models extend video generation from offline clip synthesis toward persistent simulation of interactive virtual worlds, enabling applications in games, robotics, embodied agents, and",
+      "abstract": "Multimodal misinformation on social media is highly prevalent, potent, and harmful, yet difficult to detect and counter, and still poorly understood compared to its text-only counterpart. Research on",
       "authors": [
-        "Runjia Qian",
-        "Zile Wang",
-        "Jihai Zhang",
-        "Kai Zou",
-        "Wei Yu"
+        "Nadav Borenstein",
+        "Greta Warren",
+        "Desmond Elliott",
+        "Isabelle Augenstein"
+      ],
+      "tags": [
+        "multimodal"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.29974",
+      "title": "SpanCalib-VLM: Calibrated Hallucination Span Detection in Vision-Language Models",
+      "url": "https://huggingface.co/papers/2608.29974",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-29T20:00:00.000Z",
+      "abstract": "Detecting hallucinations in Large Vision-Language Models (LVLMs) requires both accurate span localization and well-calibrated confidence scores. Fine-tuned generative VLMs excel at identifying halluci",
+      "authors": [
+        "Amanuel Gizachew Abebe",
+        "Yasmin Moslem"
       ],
       "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.29847",
+      "title": "ContextBias: Controlled Evaluation of Bias Persistence Under Context Shift in Text-to-Image Models",
+      "url": "https://huggingface.co/papers/2608.29847",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-29T20:00:00.000Z",
+      "abstract": "Text-to-image models learn associations between concepts - in the case of this paper, people's professions, which we refer to as roles - and visual attributes. These associations can underpin many obs",
+      "authors": [
+        "Shaghayegh Kolli",
+        "Sina Emami",
+        "Moreno D&#39;Incà",
+        "Pouyan Nejadi",
+        "Nicu Sebe"
+      ],
+      "tags": [
+        "text-to-image"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -61,28 +113,6 @@
       "abstract": "",
       "authors": [],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling",
-      "url": "https://www.marktechpost.com/2026/08/29/google-ai-releases-gemini-omni-1-1-flash-40-second-scene-extension-first-last-frame-control-and-4k-upscaling/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-08-29T14:30:44.000Z",
-      "abstract": "We look at Gemini Omni 1.1 Flash, Google's production update to its native multimodal video generation and editing model. We break down what changed: scene extension now reads up to 10 seconds of prio",
-      "authors": [],
-      "tags": [
-        "gemini"
-      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
