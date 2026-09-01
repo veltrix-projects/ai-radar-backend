@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-09-01T18:39:58.449Z",
+  "generatedAt": "2026-09-01T21:29:50.319Z",
   "date": "28-08-2026",
   "count": 12,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2608.28958",
+      "title": "CoVA-SFT: A Large-Scale Dataset for Chain of Visual Abstractions",
+      "url": "https://huggingface.co/papers/2608.28958",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-28T20:00:00.000Z",
+      "abstract": "Chain-of-thought (CoT) reasoning has dramatically improved large language models (LLMs) by allowing them to decompose problems into intermediate steps. While CoT is widely effective for linguistic tas",
+      "authors": [
+        "Tsung-Han Wu",
+        "Heekyung Lee",
+        "Anya Ji",
+        "Haoming Chen",
+        "Trevor Darrell"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2608.29464",
       "title": "Chain-of-Thought Faithfulness of Reasoning Models Varies with Where and How Preference Cues Are Delivered",
@@ -142,32 +168,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2608.29252",
-      "title": "Dynamic Important Example Mining for Reinforcement Finetuning",
-      "url": "https://huggingface.co/papers/2608.29252",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-28T20:00:00.000Z",
-      "abstract": "Reinforcement fine-tuning (RFT) is increasingly used to strengthen the reasoning abilities of large models, yet its effectiveness is bound by how training data are selected and used. Most data-centric",
-      "authors": [
-        "Haoru Tan",
-        "Sitong Wu",
-        "Yanfeng Chen",
-        "Shizhen Zhao",
-        "Yang-Tian Sun"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "Deploy an Open Model from Checkpoint to Inference in Two Commands with NVIDIA TensorRT Model Connect",
       "url": "https://developer.nvidia.com/blog/deploy-an-open-model-from-checkpoint-to-inference-in-two-commands-with-nvidia-tensorrt-model-connect/",
@@ -256,7 +256,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 158189,
+      "stars": 158192,
       "votes": 0,
       "points": 0
     },
