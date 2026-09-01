@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-31T21:41:39.933Z",
+  "generatedAt": "2026-09-01T00:54:13.753Z",
   "date": "27-08-2026",
-  "count": 26,
+  "count": 23,
   "summary": null,
   "items": [
     {
@@ -17,26 +17,6 @@
       "tags": [
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "siliconangle_ai_https%3A%2F%2Fsiliconangle.com%2F2026%2F",
-      "title": "Consumer-focused AI assistant startup Instinct reportedly raising $250M",
-      "url": "https://siliconangle.com/2026/08/27/consumer-focused-ai-assistant-startup-instinct-reportedly-raising-250m/",
-      "source": "SiliconANGLE AI",
-      "sourceIcon": "📐",
-      "type": "news",
-      "timestamp": "2026-08-27T22:27:46.000Z",
-      "abstract": "Instinct, the developer of an artificial intelligence assistant popular among Silicon Valley tech workers, is reportedly raising $250 million in funding. The company told the Wall Street Journal on We",
-      "authors": [],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -324,48 +304,6 @@
       "authors": [],
       "tags": [
         "gemini"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Deepgram deepens Amazon SageMaker AI observability with Enhanced Metrics",
-      "url": "https://aws.amazon.com/blogs/machine-learning/deepgram-deepens-amazon-sagemaker-ai-observability-with-enhanced-metrics/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-08-27T16:11:27.000Z",
-      "abstract": "Self-hosted speech AI carries an observability trade-off: the numbers that drive capacity planning and cost management stay locked inside the vendor container. Deepgram closes that gap on Amazon SageM",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Reduce ASR inference costs by 75% with NVIDIA MPS on Amazon EC2",
-      "url": "https://aws.amazon.com/blogs/machine-learning/reduce-asr-inference-costs-by-75-with-nvidia-mps-on-amazon-ec2/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-08-27T16:05:10.000Z",
-      "abstract": "Serving automatic speech recognition (ASR) models at scale is costly when each request uses only a fraction of a GPU. Learn how NVIDIA CUDA Multi-Process Service (MPS) with NVIDIA Triton Inference Ser",
-      "authors": [],
-      "tags": [
-        "inference"
       ],
       "score": 8,
       "priority": "HIGH",
