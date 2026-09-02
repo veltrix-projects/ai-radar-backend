@@ -1,77 +1,28 @@
 {
-  "generatedAt": "2026-09-02T01:13:38.871Z",
+  "generatedAt": "2026-09-02T06:02:29.798Z",
   "date": "29-08-2026",
-  "count": 4,
+  "count": 2,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2608.29681",
-      "title": "MMMMM: A Unified Taxonomy for Investigating the Mechanisms of Multilingual MultiModal Misinformation",
-      "url": "https://huggingface.co/papers/2608.29681",
+      "id": "hf_paper_2609.00048",
+      "title": "GUI-CC: Benchmarking Contextual Consistency of GUI World Models as Agent Environments",
+      "url": "https://huggingface.co/papers/2609.00048",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-08-29T20:00:00.000Z",
-      "abstract": "Multimodal misinformation on social media is highly prevalent, potent, and harmful, yet difficult to detect and counter, and still poorly understood compared to its text-only counterpart. Research on",
+      "abstract": "GUI world models are increasingly evaluated as one-step next-screen predictors, yet their intended use is often as multi-step environments for GUI agents. This mismatch leaves a key requirement under-",
       "authors": [
-        "Nadav Borenstein",
-        "Greta Warren",
-        "Desmond Elliott",
-        "Isabelle Augenstein"
+        "Lin Fu",
+        "Zheyuan Yang",
+        "Tianhui Zhang",
+        "Jinbiao Wei",
+        "Guo Gan"
       ],
       "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.29974",
-      "title": "SpanCalib-VLM: Calibrated Hallucination Span Detection in Vision-Language Models",
-      "url": "https://huggingface.co/papers/2608.29974",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-29T20:00:00.000Z",
-      "abstract": "Detecting hallucinations in Large Vision-Language Models (LVLMs) requires both accurate span localization and well-calibrated confidence scores. Fine-tuned generative VLMs excel at identifying halluci",
-      "authors": [
-        "Amanuel Gizachew Abebe",
-        "Yasmin Moslem"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.29847",
-      "title": "ContextBias: Controlled Evaluation of Bias Persistence Under Context Shift in Text-to-Image Models",
-      "url": "https://huggingface.co/papers/2608.29847",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-29T20:00:00.000Z",
-      "abstract": "Text-to-image models learn associations between concepts - in the case of this paper, people's professions, which we refer to as roles - and visual attributes. These associations can underpin many obs",
-      "authors": [
-        "Shaghayegh Kolli",
-        "Sina Emami",
-        "Moreno D&#39;Incà",
-        "Pouyan Nejadi",
-        "Nicu Sebe"
-      ],
-      "tags": [
-        "text-to-image"
+        "agent",
+        "benchmark"
       ],
       "score": 6,
       "priority": "MEDIUM",

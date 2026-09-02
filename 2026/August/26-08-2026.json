@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-02T01:13:38.874Z",
+  "generatedAt": "2026-09-02T06:02:29.799Z",
   "date": "26-08-2026",
-  "count": 13,
+  "count": 12,
   "summary": null,
   "items": [
     {
@@ -47,51 +47,25 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2608.26671",
-      "title": "RECAP-Forcing: Retaining Content Appearances for Long Video Generation",
-      "url": "https://huggingface.co/papers/2608.26671",
+      "id": "hf_paper_2609.00028",
+      "title": "UI-Venus-2 Technical Report",
+      "url": "https://huggingface.co/papers/2609.00028",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-08-26T20:00:00.000Z",
-      "abstract": "Long autoregressive video generation faces a fundamental memory challenge: with a finite attention window, a model must decide which information from an ever-expanding history to retain. Existing meth",
+      "abstract": "Multimodal GUI agents have emerged as a promising paradigm for digital task automation, yet transitioning from benchmark-oriented models to dependable real-world applications remains challenging due t",
       "authors": [
-        "Haiyang Xu",
-        "Zheng Ding",
-        "Zhuowen Tu"
+        "Venus Team",
+        "Zhuohan Cai",
+        "Haoxing Chen",
+        "Jiaxuan Chen",
+        "Weizhi Chen"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.28695",
-      "title": "Weaving Visual Narratives: Agentic Image Bundle Composition Beyond Atomic Visual Matching",
-      "url": "https://huggingface.co/papers/2608.28695",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-26T20:00:00.000Z",
-      "abstract": "Image retrieval has traditionally been formulated as a point-wise matching problem, where each candidate image is scored in isolation. However, this atomic paradigm fails to capture the complexity of",
-      "authors": [
-        "Rong Shan",
-        "Tianyi Xu",
-        "Congmin Zheng",
-        "Wenteng Chen",
-        "Jiachen Zhu"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -203,7 +177,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 149515,
+      "stars": 149560,
       "votes": 0,
       "points": 0
     },

@@ -1,26 +1,29 @@
 {
-  "generatedAt": "2026-08-04T02:45:05.848Z",
+  "generatedAt": "2026-09-02T06:02:29.806Z",
   "date": "20-07-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2607.18082",
-      "title": "Enhancing Rubric-based RL via Self-Distillation",
-      "url": "https://huggingface.co/papers/2607.18082",
+      "id": "hf_paper_2608.28612",
+      "title": "InternReviewer & InternAdvocate: Objective Reward and Evaluation for Agentic Reinforcement Learning in Peer Review and Rebuttal",
+      "url": "https://huggingface.co/papers/2608.28612",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-07-20T20:00:00.000Z",
-      "abstract": "Rubric-based RL has recently shown promise in improving LLMs on open-ended tasks. A widely recognized limitation of rubric-based RL is limited exploration: criteria that no rollout manages to satisfy",
+      "abstract": "Generating professional scholarly content, such as peer reviews and rebuttals, requires an intricate synergy between domain reasoning and factual grounding. This work presents a comprehensive framewor",
       "authors": [
-        "Mingxuan Xia",
-        "Yuhang Yang",
-        "Chao Ye",
-        "Shuai Zhu",
-        "Shenzhi Yang"
+        "Xuerui Su",
+        "Liya Guo",
+        "Qizhi Pei",
+        "Qipeng Guo",
+        "Zhongbo Tian"
       ],
-      "tags": [],
+      "tags": [
+        "agent",
+        "reinforcement learning"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
