@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-02T06:02:29.797Z",
+  "generatedAt": "2026-09-02T11:32:13.452Z",
   "date": "30-08-2026",
-  "count": 11,
+  "count": 10,
   "summary": null,
   "items": [
     {
@@ -29,22 +29,49 @@
       "points": 0
     },
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Google AI Introduces EnvHarness: A Programmable Layer That Turns Static Agent Environments Into Adaptive Training Worlds",
-      "url": "https://www.marktechpost.com/2026/08/30/google-ai-introduces-envharness-a-programmable-layer-that-turns-static-agent-environments-into-adaptive-training-worlds/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
+      "id": "hf_paper_2609.00137",
+      "title": "Recursive Criticality of AI Self-Improvement",
+      "url": "https://huggingface.co/papers/2609.00137",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-08-30T20:23:46.000Z",
-      "abstract": "Google Cloud AI Research, with Washington University in St. Louis and UNC Chapel Hill, has released EnvHarness, an Apache-2.0 layer that turns a static agent benchmark into one that adapts to the poli",
-      "authors": [],
-      "tags": [
-        "agent",
-        "training"
+      "timestamp": "2026-08-30T20:00:00.000Z",
+      "abstract": "AI is increasingly used in the R\\&D process that produces future AI systems. We study the conditions under which this feedback becomes self-amplifying. Our model describes how the rate of AI capabilit",
+      "authors": [
+        "Mikhail Burtsev"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.30478",
+      "title": "Agents in the Large: Perception-Centered Architecture for Persistent Agents",
+      "url": "https://huggingface.co/papers/2608.30478",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-30T20:00:00.000Z",
+      "abstract": "Cognitive language agents have achieved substantial progress by equipping language models with memory, tools, and decision-making procedures, enabling agents to reason and act in interactive environme",
+      "authors": [
+        "Shihan Dou",
+        "Haoxiang Jia",
+        "Shichun Liu",
+        "Feng Chen",
+        "Chenhao Huang"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -225,50 +252,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for  AI Agents to Safely Operate Physical Devices",
-      "url": "https://www.marktechpost.com/2026/08/29/anthropic-opens-a-research-preview-of-the-model-hardware-standard-mhs-a-shared-specification-for-ai-agents-to-safely-operate-physical-devices/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-08-30T06:12:21.000Z",
-      "abstract": "Anthropic has opened a research preview of the Model Hardware Standard (MHS), a shared driver specification that lets AI agents discover and safely operate physical devices. Instrument integration tha",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Meet &#8216;Code-as-World&#8217;: An Agentic Loop That Rewrites Real Videos Into Executable MuJoCo Physics Programs",
-      "url": "https://www.marktechpost.com/2026/08/29/mirros-code-as-world-executable-world-representations/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-08-30T01:35:02.000Z",
-      "abstract": "Code-as-World recovers editable MuJoCo scene code from real video, then uses those verified worlds to train physical reasoning.\nThe post Meet &#8216;Code-as-World&#8217;: An Agentic Loop That Rewrites",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
