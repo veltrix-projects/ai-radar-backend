@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T11:32:13.452Z",
+  "generatedAt": "2026-09-02T15:38:20.423Z",
   "date": "30-08-2026",
   "count": 10,
   "summary": null,
@@ -22,6 +22,34 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.30457",
+      "title": "Learning Where Outcomes Change:Credit-Addressable Reasoning for Multimodal Geometry",
+      "url": "https://huggingface.co/papers/2608.30457",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-30T20:00:00.000Z",
+      "abstract": "Multimodal geometry reasoning requires VLMs to extract precise visual relations and preserve them through multi-step deduction. Existing free-form traces obscure the decisions that determine the answe",
+      "authors": [
+        "Jiani Guo",
+        "Junjie Wang",
+        "Jie Wu",
+        "Pengxiang Zhao",
+        "Dongdong Zhang"
+      ],
+      "tags": [
+        "multimodal"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -206,28 +234,6 @@
         "Jueun Kim",
         "Sungho Park",
         "Wook-Shin Han"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.27509",
-      "title": "The Mechanics of Democratic Dominance: A System Dynamics Paradigm for Dynamic Consent Engineering",
-      "url": "https://huggingface.co/papers/2608.27509",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-30T20:00:00.000Z",
-      "abstract": "Traditional frameworks of political communication operate under linear, event-driven assumptions that treat voter persuasion as a static, transactional function. This paper introduces Dynamic Consent",
-      "authors": [
-        "Muhammad Sukri Bin Ramli"
       ],
       "tags": [],
       "score": 6,
