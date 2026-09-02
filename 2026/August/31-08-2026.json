@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-02T19:06:03.060Z",
+  "generatedAt": "2026-09-02T21:54:12.006Z",
   "date": "31-08-2026",
-  "count": 24,
+  "count": 19,
   "summary": null,
   "items": [
     {
@@ -16,28 +16,6 @@
       "authors": [],
       "tags": [
         "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Connect an AgentCore Runtime hosted MCP server to Amazon Quick",
-      "url": "https://aws.amazon.com/blogs/machine-learning/connect-an-agentcore-runtime-hosted-mcp-server-to-amazon-quick/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-08-31T22:47:53.000Z",
-      "abstract": "In this post, you will learn how to deploy and host your MCP server in AgentCore Runtime and integrate it with Amazon Quick, along with the prerequisites. With this pattern, you promote reusability an",
-      "authors": [],
-      "tags": [
-        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -322,76 +300,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.01607",
-      "title": "Uncovering Understanding-Generation Synergy in Native Unified Multimodal Models: From Representation, Task to System",
-      "url": "https://huggingface.co/papers/2609.01607",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-31T20:00:00.000Z",
-      "abstract": "While unified multimodal models (UMMs) jointly perform visual understanding and generation within a single model, functional unification does not guarantee learning synergy: the two objectives may rei",
-      "authors": [
-        "Penghao Wu",
-        "Haiwen Diao",
-        "Weichen Fan",
-        "Lewei Lu",
-        "Dahua Lin"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "AWS recognized as a Leader in The Forrester Wave: AI Infrastructure Solutions, Q4 2025",
-      "url": "https://aws.amazon.com/blogs/machine-learning/aws-recognized-as-a-leader-in-the-forrester-wave-ai-infrastructure-solutions-q4-2025/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-08-31T19:50:12.000Z",
-      "abstract": "We're excited to share that AWS has been recognized as a Leader in The Forrester Wave: AI Infrastructure Solutions, Q4 2025. In this evaluation of 13 providers, AWS received the highest score in the S",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Manage agents, tools and skills at scale with AWS Agent Registry",
-      "url": "https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-08-31T19:18:09.000Z",
-      "abstract": "AWS Agent Registry is now generally available: a single, searchable, governed catalog for the agents, tools, skills, and custom resources across your organization. This post explains what Registry is",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
       "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
       "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
@@ -437,7 +345,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 280769,
+      "stars": 280795,
       "votes": 0,
       "points": 0
     },
@@ -534,26 +442,6 @@
       "type": "news",
       "timestamp": "2026-08-31T07:00:00.000Z",
       "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "OpenClaw Releases OpenClaw 2.0: Guided Model Setup, 575 ms Control UI Startup, and One Trust Boundary Per Gateway",
-      "url": "https://www.marktechpost.com/2026/08/30/openclaw-releases-openclaw-2-0-guided-model-setup-575-ms-control-ui-startup-and-one-trust-boundary-per-gateway/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-08-31T05:04:10.000Z",
-      "abstract": "The OpenClaw Foundation has released v2026.8.1, which the project calls OpenClaw 2.0: 933 contributors, 569 first-timers, and more than 16,000 pull requests, roughly half of every PR ever merged into",
       "authors": [],
       "tags": [],
       "score": 8,

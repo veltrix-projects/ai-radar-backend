@@ -1,23 +1,25 @@
 {
-  "generatedAt": "2026-09-02T19:06:03.061Z",
+  "generatedAt": "2026-09-02T21:54:12.006Z",
   "date": "30-08-2026",
-  "count": 11,
+  "count": 10,
   "summary": null,
   "items": [
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Lowest-Latency Inference APIs for Voice and Realtime Agents: A Time to First Token TTFT-First Benchmark",
-      "url": "https://www.marktechpost.com/2026/08/30/lowest-latency-inference-apis-for-voice-and-realtime-agents-a-time-to-first-token-ttft-first-benchmark/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
+      "id": "hf_paper_2608.31082",
+      "title": "Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured Data",
+      "url": "https://huggingface.co/papers/2608.31082",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-08-30T21:24:38.000Z",
-      "abstract": "Voice agents fail on latency long before they fail on intelligence. Time to first token is the metric most teams use to choose an inference API, and it is the right starting point and the wrong stoppi",
-      "authors": [],
+      "timestamp": "2026-08-30T20:00:00.000Z",
+      "abstract": "Valuable data remains embedded in unstructured sources: web pages, reports, contracts, filings, earnings calls, and PDFs. The big bet in enterprise AI is deploying LLM agents that reason over this dat",
+      "authors": [
+        "Milad Rezaei Hajidehi",
+        "Qitong Wang",
+        "Stratos Idreos"
+      ],
       "tags": [
-        "agent",
-        "benchmark",
-        "inference"
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -235,30 +237,6 @@
         "agent",
         "autonomous"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.30468",
-      "title": "Hi-Q: Hierarchical Evidence-guided Query Refinement for Multi-Hop Question Answering",
-      "url": "https://huggingface.co/papers/2608.30468",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-30T20:00:00.000Z",
-      "abstract": "A central bottleneck in multi-hop Question Answering (QA) is that the granularity at which a question is expressed often differs from the granularity at which corpus evidence is retrievable. Existing",
-      "authors": [
-        "Jueun Kim",
-        "Sungho Park",
-        "Wook-Shin Han"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
