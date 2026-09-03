@@ -1,22 +1,102 @@
 {
-  "generatedAt": "2026-09-03T07:16:32.311Z",
+  "generatedAt": "2026-09-03T12:10:19.065Z",
   "date": "31-08-2026",
   "count": 17,
   "summary": null,
   "items": [
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Keenable AI Open-Sources NEEDLE: A Live Search Benchmark That Rebuilds Its Query Set Every Hour",
-      "url": "https://www.marktechpost.com/2026/08/31/keenable-ai-open-sources-needle-a-live-search-benchmark-that-rebuilds-its-query-set-every-hour/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
+      "id": "hf_paper_2608.30751",
+      "title": "Autoregressive Mosaics: Probing 2D Spatial Reasoning in Text-Only Language Models",
+      "url": "https://huggingface.co/papers/2608.30751",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-08-31T23:43:26.000Z",
-      "abstract": "How do you benchmark a web search API when the thing being tested can read the answer key? A search agent has a fetch tool. If the gold labels sit in a public dataset, the agent can download them mid-",
-      "authors": [],
-      "tags": [
-        "benchmark"
+      "timestamp": "2026-08-31T20:00:00.000Z",
+      "abstract": "Large language models (LLMs) trained only on text and code can sometimes generate programs that draw recognizable images. However, it is unclear whether this reflects an internal representation of 2D",
+      "authors": [
+        "Ashwin Nedungadi",
+        "Stefan Oehmcke",
+        "Stefan Lüdtke"
       ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.01740",
+      "title": "ZipTok3D: High-Fidelity 3D Tokenization with Compact Token Prefixes",
+      "url": "https://huggingface.co/papers/2609.01740",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-31T20:00:00.000Z",
+      "abstract": "Compact token sequences are essential for efficient 3D generation. However, existing 3D tokenizers typically organize latent representations either over spatial regions or as fixed-size sets of global",
+      "authors": [
+        "Mingda Lin",
+        "Weijie Wang",
+        "Zeyu Zhang",
+        "Bowen Cui",
+        "Yefei He"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.00591",
+      "title": "A Glance Is All You Need: Single-Pass Fine-Grained Image Captioning with SimLoss",
+      "url": "https://huggingface.co/papers/2609.00591",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-31T20:00:00.000Z",
+      "abstract": "An image may be worth a thousand words, but most captioning models describe it in only a few. Modern vision-language models produce fluent high-level captions, yet routinely miss the attributes, count",
+      "authors": [
+        "Suryaansh Jain",
+        "Rahasya Barkur",
+        "Vishal G",
+        "Ryan Rossi",
+        "Franck Dernoncourt"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.01925",
+      "title": "CRISP: Cliff-awaRe Input-adaptive Sparse Prefilling with Structural-Mass-Motivated Routing",
+      "url": "https://huggingface.co/papers/2609.01925",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-31T20:00:00.000Z",
+      "abstract": "The attention prefilling phase of long-context LLM inference scales quadratically, making self-attention a severe computational bottleneck. Traditional sparse attention methods mitigate this through f",
+      "authors": [
+        "Huu Huy Nguyen",
+        "Chien Van Nguyen",
+        "Franck Dernoncourt",
+        "Ryan A. Rossi",
+        "Linh Ngo Van"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -131,83 +211,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.00638",
-      "title": "It Takes Two to Match: Co-Evolving Generative Retriever with Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2609.00638",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-31T20:00:00.000Z",
-      "abstract": "Retrieval is the first stage of modern search and advertising systems, selecting a candidate set from a large item universe for downstream ranking and auction. Recent work increasingly leverages LLMs",
-      "authors": [
-        "Runpeng Dai",
-        "Kaili Huang",
-        "Changsung Kang",
-        "Ciya Liao"
-      ],
-      "tags": [
-        "reinforcement learning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.01836",
-      "title": "Agent Memory Is a Surface for Endogenous Authorization Laundering",
-      "url": "https://huggingface.co/papers/2609.01836",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-31T20:00:00.000Z",
-      "abstract": "Long-running LLM agents rely on persistent memory to carry state across interactions, including permissions, restrictions, and revocations. When memory misrepresents this evolving authorization state,",
-      "authors": [
-        "Tommaso Cerruti",
-        "Mika Okamoto",
-        "Ansel Kaplan Erol"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.01453",
-      "title": "Does Imitation Learning Preserve Temporal Robustness in Dexterous Manipulation? An Expert-Learner Comparison Across Task Execution Speeds",
-      "url": "https://huggingface.co/papers/2609.01453",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-31T20:00:00.000Z",
-      "abstract": "Dexterous manipulation policies learned by imitation are typically evaluated for robustness to variation in scenes, objects, or instructions, but their performance across task execution speeds is less",
-      "authors": [
-        "Clinton Enwerem",
-        "John S. Baras",
-        "Calin Belta"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
       "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
       "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
@@ -273,7 +276,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 280903,
+      "stars": 281022,
       "votes": 0,
       "points": 0
     },

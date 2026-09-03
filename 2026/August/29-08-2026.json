@@ -1,29 +1,32 @@
 {
-  "generatedAt": "2026-09-03T07:16:32.313Z",
+  "generatedAt": "2026-09-03T12:10:19.067Z",
   "date": "29-08-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2608.29846",
-      "title": "Influence-Directed Distillation: Solving the Diversity Bottleneck in Sampled-Token On-Policy Distillation",
-      "url": "https://huggingface.co/papers/2608.29846",
+      "id": "hf_paper_2608.29607",
+      "title": "SnapBench: Benchmarking Snap-and-Ask Multimodal Retrieval for Mobile Interactions",
+      "url": "https://huggingface.co/papers/2608.29607",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-08-29T20:00:00.000Z",
-      "abstract": "Sampled-token on-policy distillation (OPD) efficiently transfers capabilities from teacher to student using student-generated tokens, requiring teacher probabilities only for sampled tokens. Yet it fr",
+      "abstract": "Mobile AI acts as a visual oracle, empowering users to snap a picture of something and ask for information. Snap-and-ask retrieval is now one of the most common entry points for mobile AI, yet photos",
       "authors": [
-        "Run Yang",
-        "Runpeng Dai",
-        "Jie Sun",
-        "Jielei Zhang",
-        "Fan Zhou"
+        "Zirong Chen",
+        "Fuda Ye",
+        "Kuan Zhang",
+        "Enjun Du",
+        "Junfu Pu"
       ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "tags": [
+        "multimodal",
+        "benchmark"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

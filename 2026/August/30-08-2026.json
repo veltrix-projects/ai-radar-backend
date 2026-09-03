@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-03T07:16:32.312Z",
+  "generatedAt": "2026-09-03T12:10:19.066Z",
   "date": "30-08-2026",
-  "count": 5,
+  "count": 3,
   "summary": null,
   "items": [
     {
@@ -48,60 +48,6 @@
       ],
       "tags": [
         "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.30949",
-      "title": "MULTI3IR: A Benchmark for Multi-perspective Multi-domain Multi-modal Information Retrieval",
-      "url": "https://huggingface.co/papers/2608.30949",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-30T20:00:00.000Z",
-      "abstract": "Information retrieval (IR) increasingly targets open-ended queries that admit diverse perspectives. Existing IR benchmarks, however, focus primarily on closed-ended queries, while even open-ended benc",
-      "authors": [
-        "Seokwon Song",
-        "Sohyeon Kim",
-        "Gunhee Kim"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.27831",
-      "title": "RealSWE: A Compositional Evaluation of Coding Agents under Realistic User Requests",
-      "url": "https://huggingface.co/papers/2608.27831",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-30T20:00:00.000Z",
-      "abstract": "Coding agents are now commonly evaluated on the SWE-bench family of benchmarks, whose tasks are built from curated GitHub issues: long, structured, and information-rich. Real user requests, however, a",
-      "authors": [
-        "Gyuhyeong Kim",
-        "Hyojung Gwon",
-        "Jeonghyeon Kim",
-        "Kyuhong Shim",
-        "Sunjae Lee"
-      ],
-      "tags": [
-        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
