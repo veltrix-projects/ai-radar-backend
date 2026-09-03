@@ -1,31 +1,9 @@
 {
-  "generatedAt": "2026-09-03T12:10:19.064Z",
+  "generatedAt": "2026-09-03T16:34:23.829Z",
   "date": "01-09-2026",
-  "count": 26,
+  "count": 22,
   "summary": null,
   "items": [
-    {
-      "id": "siliconangle_ai_https%3A%2F%2Fsiliconangle.com%2F2026%2F",
-      "title": "When agents move at machine speed, security teams lose their lag time",
-      "url": "https://siliconangle.com/2026/09/01/agentic-ai-attack-surface-shifts-security-machine-speed-falcon/",
-      "source": "SiliconANGLE AI",
-      "sourceIcon": "📐",
-      "type": "news",
-      "timestamp": "2026-09-01T23:18:45.000Z",
-      "abstract": "The agentic AI attack surface is less a matter of new territory than of new velocity, as autonomous software now reads, writes and moves corporate content faster than any human adversary could. That s",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Ftech%2F",
       "title": "Google needs Hollywood more than the studios need AI",
@@ -70,19 +48,54 @@
       "points": 0
     },
     {
-      "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fai-arti",
-      "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
-      "source": "The Verge AI",
-      "sourceIcon": "🔺",
-      "type": "news",
-      "timestamp": "2026-09-01T20:45:49.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "id": "hf_paper_2609.02496",
+      "title": "Debias-SparseGPT: Bias-Aware Pruning for Large Language Models",
+      "url": "https://huggingface.co/papers/2609.02496",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-01T20:00:00.000Z",
+      "abstract": "Model compression techniques such as pruning and quantization facilitate the efficient deployment and acceleration of Large Language Models (LLMs). However, recent studies show that weight sparsificat",
+      "authors": [
+        "Irina Proskurina",
+        "Guillaume Metzler",
+        "Antoine Gourru",
+        "Julien Velcin"
+      ],
+      "tags": [
+        "gpt"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.00474",
+      "title": "Exploring Collaboration between a language and a non-language agent",
+      "url": "https://huggingface.co/papers/2609.00474",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-01T20:00:00.000Z",
+      "abstract": "LLMs are increasingly deployed as orchestrators that coordinate specialized subagents to solve complex tasks through natural language. However, in many important domains like game playing and robotics",
+      "authors": [
+        "Harini S I",
+        "Somesh Singh",
+        "Yaman K Singla",
+        "Rajiv Ratn Shah",
+        "David Doermann"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -160,110 +173,6 @@
       "tags": [
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.02737",
-      "title": "Language Models Can Control Their Own Attention",
-      "url": "https://huggingface.co/papers/2609.02737",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-01T20:00:00.000Z",
-      "abstract": "Language models spend most of their attention on a small fraction of context, yet they read the entire KV cache to find the few tokens that matter. If the user asks about a previous detail in a 1M-tok",
-      "authors": [
-        "Namgyu Ho",
-        "Huzama Ahmad",
-        "Woosung Koh",
-        "Se-Young Yun",
-        "Tal Schuster"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.02849",
-      "title": "Post-Training Language Models for Gold-Medal Performance in Coding Competitions",
-      "url": "https://huggingface.co/papers/2609.02849",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-01T20:00:00.000Z",
-      "abstract": "Competitive programming has become a key test of large language model reasoning, with international competitions such as IOI and ICPC representing its most challenging settings. We present an end-to-e",
-      "authors": [
-        "Aleksander Ficek",
-        "Sean Narenthiran",
-        "Mehrzad Samadi",
-        "Somshubra Majumdar",
-        "Boris Ginsburg"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.02817",
-      "title": "Cliff: Learning Process Rewards from the First Mistake",
-      "url": "https://huggingface.co/papers/2609.02817",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-01T20:00:00.000Z",
-      "abstract": "Reinforcement learning with verifiable rewards (RLVR) has emerged as a powerful paradigm for large language model (LLM) post-training, but its reliance on coarse outcome rewards leads to limited guida",
-      "authors": [
-        "Peixuan Han",
-        "Runhui Wang",
-        "Ketan Ramaneti",
-        "Jie Hao",
-        "Gerald Friedland"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.02272",
-      "title": "PaperCompiler: Faithful Paper-to-Code Generation via Repository-Level Specification Compilation",
-      "url": "https://huggingface.co/papers/2609.02272",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-01T20:00:00.000Z",
-      "abstract": "Faithfully translating research papers into repository-level implementations remains challenging because papers often describe methods at a high level, leave implementation assumptions implicit, and r",
-      "authors": [
-        "Yunhao Liu",
-        "Hong Phuc Pham",
-        "Jaehong Yoon"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
