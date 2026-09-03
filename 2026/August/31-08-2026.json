@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-03T02:07:16.113Z",
+  "generatedAt": "2026-09-03T07:16:32.311Z",
   "date": "31-08-2026",
-  "count": 19,
+  "count": 17,
   "summary": null,
   "items": [
     {
@@ -27,6 +27,163 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2609.01437",
+      "title": "HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?",
+      "url": "https://huggingface.co/papers/2609.01437",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-31T20:00:00.000Z",
+      "abstract": "As agents move from research prototypes to deployed tools, their capability increasingly depends on model-external execution infrastructure, commonly termed the agent harness. Changing this harness wh",
+      "authors": [
+        "Yuhao Wu",
+        "Jingyuan Zhang",
+        "Jiajun Shi",
+        "Xinping Lei",
+        "Qingshui Gu"
+      ],
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.01147",
+      "title": "On the Design Fundamentals of Pixel Text Representation Learning",
+      "url": "https://huggingface.co/papers/2609.01147",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-31T20:00:00.000Z",
+      "abstract": "Text-rich visual inputs require models that can read, retrieve, and compress language directly in pixel space, yet existing pixel-text encoders struggle with fixed resolution pretraining, visual short",
+      "authors": [
+        "Chaohao Yuan",
+        "Ruifeng Yuan",
+        "Zhuoxu Huang",
+        "Yu Rong",
+        "Hong Cheng"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.01823",
+      "title": "Kirin: Animal Motion Generation from In-the-Wild Video",
+      "url": "https://huggingface.co/papers/2609.01823",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-31T20:00:00.000Z",
+      "abstract": "Understanding animal motion is fundamental to modeling animal behavior and biomechanics, yet progress in this area lags far behind human motion research due to the scarcity of high-quality motion data",
+      "authors": [
+        "Brian Nlong Zhao",
+        "Zhuoyang Pan",
+        "James M. Rehg",
+        "Jiajun Wu",
+        "Shangzhe Wu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.01865",
+      "title": "ExecRetrieval: Measuring the Functional-Correctness Gap in Code-Embedding Retrieval",
+      "url": "https://huggingface.co/papers/2609.01865",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-31T20:00:00.000Z",
+      "abstract": "Embedding-based code retrieval is a core component of coding agents and retrieval-augmented code generation, where retrieving correct code matters more than retrieving lexically similar code. Existing",
+      "authors": [
+        "Aaryan Kapoor",
+        "Md Abdullah Al Hafiz Khan"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.00638",
+      "title": "It Takes Two to Match: Co-Evolving Generative Retriever with Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2609.00638",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-31T20:00:00.000Z",
+      "abstract": "Retrieval is the first stage of modern search and advertising systems, selecting a candidate set from a large item universe for downstream ranking and auction. Recent work increasingly leverages LLMs",
+      "authors": [
+        "Runpeng Dai",
+        "Kaili Huang",
+        "Changsung Kang",
+        "Ciya Liao"
+      ],
+      "tags": [
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.01836",
+      "title": "Agent Memory Is a Surface for Endogenous Authorization Laundering",
+      "url": "https://huggingface.co/papers/2609.01836",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-31T20:00:00.000Z",
+      "abstract": "Long-running LLM agents rely on persistent memory to carry state across interactions, including permissions, restrictions, and revocations. When memory misrepresents this evolving authorization state,",
+      "authors": [
+        "Tommaso Cerruti",
+        "Mika Okamoto",
+        "Ansel Kaplan Erol"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2609.01453",
       "title": "Does Imitation Learning Preserve Temporal Robustness in Dexterous Manipulation? An Expert-Learner Comparison Across Task Execution Speeds",
       "url": "https://huggingface.co/papers/2609.01453",
@@ -41,228 +198,6 @@
         "Calin Belta"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.01532",
-      "title": "Knowledge Distillation During Mid-Training Favors Reasoning over Factual Recall",
-      "url": "https://huggingface.co/papers/2609.01532",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-31T20:00:00.000Z",
-      "abstract": "Logit-based knowledge distillation (KD) is used to train smaller language models (LMs) via supervision from stronger teachers, but whether its benefits are consistent across training stages remains un",
-      "authors": [
-        "Jacqueline He",
-        "Howard Yen",
-        "Shuyue Stella Li",
-        "Margaret Li",
-        "Hanqing Zeng"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.00646",
-      "title": "DramaChain Bench: An End-to-End Benchmark for Short-Drama Generation",
-      "url": "https://huggingface.co/papers/2609.00646",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-31T20:00:00.000Z",
-      "abstract": "Commercial short-drama production follows a multi-stage chain: script, storyboard, keyframe imagery, shot-level video, and the finished short drama. Most existing benchmarks evaluate solely the video-",
-      "authors": [
-        "Haoyuan Shi",
-        "Mingtao Chen",
-        "Shuo Jiang",
-        "Ziyan Chen",
-        "Xuyi Sheng"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.01572",
-      "title": "From Production Traffic to Post-Training: Building a Self-Hosted LLM That Covers the Corporate Request Mix",
-      "url": "https://huggingface.co/papers/2609.01572",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-31T20:00:00.000Z",
-      "abstract": "Data-residency constraints force enterprises to self-host LLMs, but continuous adoption of newer models without decommissioning their predecessors expands the serving fleet, fragmenting a finite GPU p",
-      "authors": [
-        "Olga Tsymboi",
-        "Dmitrii Stoianov",
-        "Ramil Latypov",
-        "Danil Taranets",
-        "Daniil Dryabin"
-      ],
-      "tags": [
-        "llm",
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.00768",
-      "title": "DiagEvo: Diagnosis-Guided Self-Evolution via Hierarchical Error Memory",
-      "url": "https://huggingface.co/papers/2609.00768",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-31T20:00:00.000Z",
-      "abstract": "Self-play is an effective paradigm for language-model self-evolution, but without guidance, solver performance can plateau or decline across rounds. Unguided methods steer question generation with sig",
-      "authors": [
-        "Xincheng Wei",
-        "Yifan Ding",
-        "Yoshua Li",
-        "Dongsheng Ma",
-        "Rongxiang Weng"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.01343",
-      "title": "SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers",
-      "url": "https://huggingface.co/papers/2609.01343",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-31T20:00:00.000Z",
-      "abstract": "Looped Transformers increase effective depth by iterating a shared block of layers, but most evaluations compare at fixed model size, conflating architectural advantage with extra FLOPs. We study loop",
-      "authors": [
-        "Shaowen Wang",
-        "Ge Zhang",
-        "Kairong Luo",
-        "Yuhao Wu",
-        "Shaofan Liu"
-      ],
-      "tags": [
-        "transformer"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.01481",
-      "title": "Harness-of-Harness: Multi-Day Autonomous Software Development with Continual Improvement",
-      "url": "https://huggingface.co/papers/2609.01481",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-31T20:00:00.000Z",
-      "abstract": "This paper studies autonomous software development, in which LLM-based coding agents transform high-level requirements into complete, functional, and usable software systems without human intervention",
-      "authors": [
-        "Haoyang Yan",
-        "Min-le Su",
-        "Hangfan Zhang",
-        "Zhanhao Li",
-        "Chen Zhang"
-      ],
-      "tags": [
-        "autonomous"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.01560",
-      "title": "H3-World: Turning Language Understanding into World Control",
-      "url": "https://huggingface.co/papers/2609.01560",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-31T20:00:00.000Z",
-      "abstract": "We present H3-World, an efficient framework that turns the 33B MiniMax-H3 video generator into an interactive world model. Our key finding is that, as large video generators become more capable, langu",
-      "authors": [
-        "Danze Chen",
-        "Zeqing Wang",
-        "Ziyue Lin",
-        "Xingyi Yang",
-        "Yeying Jin"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.01591",
-      "title": "StudentSim: Training LLM-based Student Simulators",
-      "url": "https://huggingface.co/papers/2609.01591",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-31T20:00:00.000Z",
-      "abstract": "AI tutors are most useful when they adapt to each student's strengths, weaknesses, and preferred guidance, but evidence about which guidance works for which student is sparse, slow, and costly to coll",
-      "authors": [
-        "Ke Yang",
-        "Chenglong Wang",
-        "Michel Galley",
-        "Chandan Singh",
-        "Jeevana Priya Inala"
-      ],
-      "tags": [
-        "llm",
-        "training"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -338,7 +273,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 280830,
+      "stars": 280903,
       "votes": 0,
       "points": 0
     },

@@ -1,47 +1,24 @@
 {
-  "generatedAt": "2026-09-03T02:07:16.114Z",
+  "generatedAt": "2026-09-03T07:16:32.312Z",
   "date": "30-08-2026",
-  "count": 10,
+  "count": 5,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2608.31082",
-      "title": "Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured Data",
-      "url": "https://huggingface.co/papers/2608.31082",
+      "id": "hf_paper_2608.31111",
+      "title": "Aspire: Can Models Self-Evolve from Vague Goals?",
+      "url": "https://huggingface.co/papers/2608.31111",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-08-30T20:00:00.000Z",
-      "abstract": "Valuable data remains embedded in unstructured sources: web pages, reports, contracts, filings, earnings calls, and PDFs. The big bet in enterprise AI is deploying LLM agents that reason over this dat",
+      "abstract": "Many important forms of human learning begin with a vague goal, such as \"become a better physicist\" or \"improve at research.\" Learners must interpret the goal, identify capability gaps, decide how to",
       "authors": [
-        "Milad Rezaei Hajidehi",
-        "Qitong Wang",
-        "Stratos Idreos"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.00374",
-      "title": "Adapting Without Gradients: Affine Statistics Transport and What Its Certificate Can Tell You",
-      "url": "https://huggingface.co/papers/2609.00374",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-30T20:00:00.000Z",
-      "abstract": "Test-time adaptation (TTA) typically assumes that model parameters can be updated at inference time. This assumption is restrictive for inference-only accelerators, frozen or third-party models, and m",
-      "authors": [
-        "Salim Khazem",
-        "Ibrahim Mohamed Serouis"
+        "Yuhao Wu",
+        "Jingyuan Zhang",
+        "Jiajun Shi",
+        "Yuxuan Zhang",
+        "Xinping Lei"
       ],
       "tags": [],
       "score": 6,
@@ -54,46 +31,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2608.30457",
-      "title": "Learning Where Outcomes Change:Credit-Addressable Reasoning for Multimodal Geometry",
-      "url": "https://huggingface.co/papers/2608.30457",
+      "id": "hf_paper_2608.31100",
+      "title": "S3Gym: Can LLMs Turn Self-Testing and Self-Judging into Self-Improvement?",
+      "url": "https://huggingface.co/papers/2608.31100",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-08-30T20:00:00.000Z",
-      "abstract": "Multimodal geometry reasoning requires VLMs to extract precise visual relations and preserve them through multi-step deduction. Existing free-form traces obscure the decisions that determine the answe",
+      "abstract": "Large language models (LLMs) increasingly interact with external environments and accumulate substantial behavioral experience, yet existing agent benchmarks largely evaluate them as fixed policies. I",
       "authors": [
-        "Jiani Guo",
-        "Junjie Wang",
-        "Jie Wu",
-        "Pengxiang Zhao",
-        "Dongdong Zhang"
+        "Jiajun Shi",
+        "Siyuan Tao",
+        "Yuhao Wu",
+        "Zexuan Wang",
+        "Jingyuan Zhang"
       ],
       "tags": [
-        "multimodal"
+        "llm"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.00137",
-      "title": "Recursive Criticality of AI Self-Improvement",
-      "url": "https://huggingface.co/papers/2609.00137",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-30T20:00:00.000Z",
-      "abstract": "AI is increasingly used in the R\\&D process that produces future AI systems. We study the conditions under which this feedback becomes self-amplifying. Our model describes how the rate of AI capabilit",
-      "authors": [
-        "Mikhail Burtsev"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -104,138 +59,49 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2608.30478",
-      "title": "Agents in the Large: Perception-Centered Architecture for Persistent Agents",
-      "url": "https://huggingface.co/papers/2608.30478",
+      "id": "hf_paper_2608.30949",
+      "title": "MULTI3IR: A Benchmark for Multi-perspective Multi-domain Multi-modal Information Retrieval",
+      "url": "https://huggingface.co/papers/2608.30949",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-08-30T20:00:00.000Z",
-      "abstract": "Cognitive language agents have achieved substantial progress by equipping language models with memory, tools, and decision-making procedures, enabling agents to reason and act in interactive environme",
+      "abstract": "Information retrieval (IR) increasingly targets open-ended queries that admit diverse perspectives. Existing IR benchmarks, however, focus primarily on closed-ended queries, while even open-ended benc",
       "authors": [
-        "Shihan Dou",
-        "Haoxiang Jia",
-        "Shichun Liu",
-        "Feng Chen",
-        "Chenhao Huang"
+        "Seokwon Song",
+        "Sohyeon Kim",
+        "Gunhee Kim"
+      ],
+      "tags": [
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.27831",
+      "title": "RealSWE: A Compositional Evaluation of Coding Agents under Realistic User Requests",
+      "url": "https://huggingface.co/papers/2608.27831",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-30T20:00:00.000Z",
+      "abstract": "Coding agents are now commonly evaluated on the SWE-bench family of benchmarks, whose tasks are built from curated GitHub issues: long, structured, and information-rich. Real user requests, however, a",
+      "authors": [
+        "Gyuhyeong Kim",
+        "Hyojung Gwon",
+        "Jeonghyeon Kim",
+        "Kyuhong Shim",
+        "Sunjae Lee"
       ],
       "tags": [
         "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.00092",
-      "title": "Safin-1: Safety from Within through Memory-Native State Evolution",
-      "url": "https://huggingface.co/papers/2609.00092",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-30T20:00:00.000Z",
-      "abstract": "Long-horizon complex tasks require foundation models to accumulate information, maintain internal states, and adapt over extended interactions. Safety should be an intrinsic property of the model itse",
-      "authors": [
-        "Ming Zhang",
-        "Kaisen Yang",
-        "Shu Yu",
-        "Ermo Hua",
-        "Zhekai Chen"
-      ],
-      "tags": [
-        "safety"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.00111",
-      "title": "Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving",
-      "url": "https://huggingface.co/papers/2609.00111",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-30T20:00:00.000Z",
-      "abstract": "We present Qwen-Drive-1.0, an initial step towards a vision-language foundation model for autonomous driving. Qwen-Drive-1.0 retains the architecture of the pretrained vision-language model (VLM) and",
-      "authors": [
-        "Xin Zhou",
-        "Zongchuang Zhao",
-        "Zhibo Yang",
-        "Mingsheng Li",
-        "Humen Zhong"
-      ],
-      "tags": [
-        "qwen",
-        "autonomous"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.00188",
-      "title": "ZimaBlue: Evolving Generalizable World Action Models through Scalable Video Pre-training",
-      "url": "https://huggingface.co/papers/2609.00188",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-30T20:00:00.000Z",
-      "abstract": "Robotic manipulation faces a fundamental scaling challenge: robust generalization demands broad physical experience, yet action-labeled robot trajectories are expensive to collect and inherently limit",
-      "authors": [
-        "Xionghao Wu",
-        "Yijun Yang",
-        "Shiyang Zhou",
-        "Haoze Sun",
-        "Jianhui Liu"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.30730",
-      "title": "E-Commerce Bench: Evaluating LLM Agents on Long-Horizon Autonomous Business Operation",
-      "url": "https://huggingface.co/papers/2608.30730",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-30T20:00:00.000Z",
-      "abstract": "Long-horizon agentic tasks go beyond chaining short tasks over more interaction turns. Their evolving dynamic environments and long-range dependencies require Large Language Models (LLMs) to continual",
-      "authors": [
-        "Wei Fan",
-        "Xinjie Shen",
-        "Xudong Guo",
-        "Jianhong Tu",
-        "Yang Su"
-      ],
-      "tags": [
-        "llm",
-        "agent",
-        "autonomous"
       ],
       "score": 6,
       "priority": "MEDIUM",
