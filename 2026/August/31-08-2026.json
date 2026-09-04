@@ -1,84 +1,9 @@
 {
-  "generatedAt": "2026-09-04T07:20:13.544Z",
+  "generatedAt": "2026-09-04T12:11:16.215Z",
   "date": "31-08-2026",
-  "count": 9,
+  "count": 6,
   "summary": null,
   "items": [
-    {
-      "id": "hf_paper_2609.01507",
-      "title": "LatentPress: Context Compression Beyond Text and Vision",
-      "url": "https://huggingface.co/papers/2609.01507",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-31T20:00:00.000Z",
-      "abstract": "Compressed context is usually carried as human-readable text or as rendered images that must be decoded, even when its consumer is a language model. We introduce LatentPress, which writes conversation",
-      "authors": [
-        "Zhengze Zhou",
-        "Hejian Sang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.00834",
-      "title": "Replacing Training with Memory: Listwise Selection for Text-to-SQL",
-      "url": "https://huggingface.co/papers/2609.00834",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-31T20:00:00.000Z",
-      "abstract": "Modern Text-to-SQL systems often follow generate-execute-select pipelines, generating multiple candidate queries then selecting the best one. Listwise selection, by jointly comparing multiple candidat",
-      "authors": [
-        "Yeonseok Jeong",
-        "Soyoung Yoon",
-        "Seongjun Lee",
-        "Seung-won Hwang"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.01936",
-      "title": "Sparse Readout Prism: Explaining Logit-Lens Scores in Features Instead of Tokens",
-      "url": "https://huggingface.co/papers/2609.01936",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-31T20:00:00.000Z",
-      "abstract": "A language model's prediction of its next token develops across layers, and lens methods track this process by decoding intermediate hidden states into tokens. But a lens reading reflects both the hid",
-      "authors": [
-        "Matteo He",
-        "William F. Shen",
-        "Xinchi Qiu",
-        "Nicholas D. Lane"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
       "title": "The Hugging Face hack could indicate cultural issues at OpenAI",

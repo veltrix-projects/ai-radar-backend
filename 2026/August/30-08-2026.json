@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-09-04T07:20:13.545Z",
+  "generatedAt": "2026-09-04T12:11:16.215Z",
   "date": "30-08-2026",
   "count": 2,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2608.30391",
+      "title": "Using Grounded Theory for Agent Behavior Analysis at Scale",
+      "url": "https://huggingface.co/papers/2608.30391",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-30T20:00:00.000Z",
+      "abstract": "Understanding agent behavior requires methods that scale to thousands of trajectories and surface new patterns in long, often unfamiliar tasks where pre-built classifiers fall short. We propose to bri",
+      "authors": [
+        "Zhuoran Lu",
+        "Yangyang Yu",
+        "Zhuoyan Li",
+        "Yibo Meng",
+        "Nan Jiang"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2608.27831",
       "title": "RealSWE: A Compositional Evaluation of Coding Agents under Realistic User Requests",
@@ -23,32 +51,6 @@
       "tags": [
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.00196",
-      "title": "WHALE: A Simple Recipe for Joint Harness-Weight Optimization",
-      "url": "https://huggingface.co/papers/2609.00196",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-08-30T20:00:00.000Z",
-      "abstract": "Agent performance depends jointly on the model parameters and the executable harness code that manages context and control flow. Optimizing either component in isolation can leave the system bottlenec",
-      "authors": [
-        "Haechan Kim",
-        "Yoonho Lee",
-        "Gisang Lee",
-        "Chelsea Finn",
-        "Kangwook Lee"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
