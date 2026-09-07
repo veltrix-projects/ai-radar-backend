@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-09-07T05:05:13.611Z",
+  "generatedAt": "2026-09-07T10:33:26.991Z",
   "date": "02-09-2026",
-  "count": 21,
+  "count": 20,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2609.03586",
+      "title": "The Attention Triangle in Audio-Video Models",
+      "url": "https://huggingface.co/papers/2609.03586",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-02T20:00:00.000Z",
+      "abstract": "Audio-video diffusion models rely on cross-modal attention to coordinate text, sound, and visual content, yet this same mechanism can introduce subtle and systematic semantic leakage. We study these m",
+      "authors": [
+        "Sagi Polaczek",
+        "Noa Kraicer",
+        "Gal Metzer",
+        "Zhuo Ning",
+        "Ali Mahdavi-Amiri"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2609.04369",
       "title": "AdaptVPR: Route-Aware Hard Positive Generation for Robust Visual Place Recognition",
@@ -125,86 +151,6 @@
         "Jiachen Liang"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.04094",
-      "title": "DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training",
-      "url": "https://huggingface.co/papers/2609.04094",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-02T20:00:00.000Z",
-      "abstract": "Reinforcement Learning from Verifiable Rewards works well when a task has a programmatic checker, but most long-horizon agent domains have none. We work in the outcome-blind setting, where ground-trut",
-      "authors": [
-        "Shubham Gandhi",
-        "Saurabh Goyal",
-        "Kiran Kate",
-        "Yara Rizk"
-      ],
-      "tags": [
-        "agent",
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.04173",
-      "title": "Last Translation Benchmark",
-      "url": "https://huggingface.co/papers/2609.04173",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-02T20:00:00.000Z",
-      "abstract": "For scientific progress, we need benchmarks that test the limits of state-of-the-art models, and evaluation methods that inform us about failure cases. As models get stronger, standard benchmarks for",
-      "authors": [
-        "Vilém Zouhar",
-        "Niyati Bafna",
-        "Mukund Choudhary",
-        "Maike Züfle",
-        "Sara Rajaee"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.03820",
-      "title": "Select, Compress, Reinvest: A Controlled Study of Visual-Token Allocation in Long-Video MLLMs",
-      "url": "https://huggingface.co/papers/2609.03820",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-02T20:00:00.000Z",
-      "abstract": "Long-video language models cannot look at every frame: an hour sampled once per second is 3,600 images, and a system keeps only a small fixed slice of that pool. Which frames survive that slice is usu",
-      "authors": [
-        "Prakhar Khatri"
-      ],
-      "tags": [
-        "llm"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -348,6 +294,26 @@
       "type": "news",
       "timestamp": "2026-09-02T15:57:29.000Z",
       "abstract": "",
+      "authors": [],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "Motional and MIT AI explains self-driving car decisions",
+      "url": "https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-09-02T15:25:12.000Z",
+      "abstract": "Motional and MIT researchers have built a system that lets self-driving cars explain their decisions in real-time, tackling the black-box problem in autonomous vehicle AI. The work, published in Natur",
       "authors": [],
       "tags": [],
       "score": 6,
