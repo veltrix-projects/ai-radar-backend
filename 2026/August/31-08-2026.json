@@ -1,26 +1,29 @@
 {
-  "generatedAt": "2026-09-08T05:27:34.883Z",
+  "generatedAt": "2026-09-08T09:55:19.924Z",
   "date": "31-08-2026",
   "count": 5,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2609.00581",
-      "title": "Enoki: Efficient Multi-Level Hallucination Detection",
-      "url": "https://huggingface.co/papers/2609.00581",
+      "id": "hf_paper_2609.01281",
+      "title": "EmbodiedSkills: A Unified Framework for Orchestrating, Training, and Deploying VLA Agents",
+      "url": "https://huggingface.co/papers/2609.01281",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-08-31T22:21:28.000Z",
-      "abstract": "Ensuring factuality remains a critical challenge for deploying LLMs in high-stakes settings. Existing hallucination detectors usually operate at a single level: claim-level methods provide interpretab",
+      "timestamp": "2026-08-31T20:00:00.000Z",
+      "abstract": "Vision-language-action (VLA) models map visual observations and language instructions directly to robot actions, but long-horizon tasks require more than action prediction. An agent must coordinate pe",
       "authors": [
-        "Elisei Rykov",
-        "Timur Ionov",
-        "Nikolay Ivanov",
-        "Maksim Savkin",
-        "Maksim Makarenko"
+        "Wei Wang",
+        "Wenqiao Zhang",
+        "Yutong Lin",
+        "Yuqian Yuan",
+        "Tianwei Lin"
       ],
-      "tags": [],
+      "tags": [
+        "agent",
+        "training"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

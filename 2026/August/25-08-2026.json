@@ -1,9 +1,32 @@
 {
-  "generatedAt": "2026-09-08T05:27:34.885Z",
+  "generatedAt": "2026-09-08T09:55:19.926Z",
   "date": "25-08-2026",
-  "count": 2,
+  "count": 3,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2608.25936",
+      "title": "One Symptom, Three Levers: A Critical Review of On-Policy Self-Distillation",
+      "url": "https://huggingface.co/papers/2608.25936",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-25T20:00:00.000Z",
+      "abstract": "On-policy distillation trains a language model on its own generations while a teacher scores them token by token. It combines the dense supervision of imitation learning with the on-policy sampling of",
+      "authors": [
+        "Justin Robert",
+        "Raheel Qader"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Fa",
       "title": "AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR",
