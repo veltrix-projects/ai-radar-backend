@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-08T00:48:48.867Z",
+  "generatedAt": "2026-09-08T05:27:34.827Z",
   "date": "04-09-2026",
-  "count": 52,
+  "count": 37,
   "summary": null,
   "items": [
     {
@@ -72,7 +72,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 282833,
+      "stars": 282912,
       "votes": 0,
       "points": 0
     },
@@ -308,58 +308,6 @@
       "points": 0
     },
     {
-      "id": "arxiv_2609.05405v1",
-      "title": "WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data",
-      "url": "https://arxiv.org/abs/2609.05405v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-09-04T17:52:37Z",
-      "abstract": "Recent advances in wearable sensing enable continuous monitoring of physiological and behavioral signals, yet existing benchmarks rarely evaluate whether AI systems can reason over a real user's longi",
-      "authors": [
-        "Ji Soo Lee",
-        "Xilun Chen",
-        "Pierce Chuang",
-        "Ashish Shenoy",
-        "Jason Wei"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2609.05404v1",
-      "title": "Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction",
-      "url": "https://arxiv.org/abs/2609.05404v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-09-04T17:51:48Z",
-      "abstract": "Diffusion TV is an interactive AI art installation that offers a tangible and embodied experience of diffusion models through a modified CRT TV. By physically manipulating the TV's antenna, audiences",
-      "authors": [
-        "Sihwa Park"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fai-arti",
       "title": "Roland is getting into generative AI music with Melody Flip",
       "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
@@ -380,141 +328,6 @@
       "points": 0
     },
     {
-      "id": "arxiv_2609.05403v1",
-      "title": "RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments",
-      "url": "https://arxiv.org/abs/2609.05403v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-09-04T17:50:10Z",
-      "abstract": "Retail search systems serve diverse geographic regions with distinct query patterns, vocabularies, and product preferences, creating significant data heterogeneity that challenges both privacy-preserv",
-      "authors": [
-        "Quoc H. Nguyen",
-        "Ali Lafzi",
-        "Abhijeet Phatak",
-        "Siddharth Pratap Singh",
-        "Rohit Upadhyay"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2609.05401v1",
-      "title": "Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models",
-      "url": "https://arxiv.org/abs/2609.05401v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-09-04T17:47:58Z",
-      "abstract": "Vision-language models are increasingly used as reward functions for robotic learning, but this role requires paraphrase invariance: the same trajectory should receive the same reward under semantical",
-      "authors": [
-        "Wonje Jeung",
-        "Sangyeon Yoon",
-        "Hyesoo Hong",
-        "Yoonjun Cho",
-        "Dongjae Jeon"
-      ],
-      "tags": [
-        "rag"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2609.05396v1",
-      "title": "A Deep Generative Model for Synthesizing Labeled Wireless Signals",
-      "url": "https://arxiv.org/abs/2609.05396v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-09-04T17:44:54Z",
-      "abstract": "Wireless signals with position-related labels are pivotal for both performance evaluation and model training in the realm of wireless sensing. However, acquiring real-world datasets is often challenge",
-      "authors": [
-        "Yuxiao Li",
-        "Keke Hu",
-        "Santiago Mazuelas",
-        "Yuan Shen"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2609.05395v1",
-      "title": "Multi-Step Tool-Calling over Korean Open Public APIs: A Benchmark and a Data-Synthesis Recipe",
-      "url": "https://arxiv.org/abs/2609.05395v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-09-04T17:44:52Z",
-      "abstract": "Data-sovereignty regulations increasingly require public institutions to deploy open-source, on-premise LLM agents that chain multiple tool-calls across live government APIs. However, open-source mode",
-      "authors": [
-        "Dain Kim",
-        "Eungi Cho",
-        "Kyumin Kim",
-        "Shinyeong Noh",
-        "Kyuseong Lim"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2609.05385v1",
-      "title": "Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence",
-      "url": "https://arxiv.org/abs/2609.05385v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-09-04T17:37:17Z",
-      "abstract": "LLM decision components that can operate within agent workflows often produce action-relevant recommendations or judgements together with explanations. Operators may use the named factors to monitor a",
-      "authors": [
-        "Urja Pawar",
-        "Rajitha Ramanayake",
-        "Nabeel Kemal",
-        "Ashwin Kandath",
-        "Owen O'Neill"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "ars_technica_https%3A%2F%2Farstechnica.com%2Finformat",
       "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
       "url": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
@@ -527,137 +340,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2609.05382v1",
-      "title": "Reflection-aware Generative Novel View Synthesis",
-      "url": "https://arxiv.org/abs/2609.05382v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-09-04T17:33:45Z",
-      "abstract": "We propose Ref-GeNVS, a training-free, reflection-aware method for generative novel view synthesis (NVS) in mirror scenes. Existing multi-view diffusion models often fail to recognize the mirror in th",
-      "authors": [
-        "GeonU Kim",
-        "Shin Dong-Yeon",
-        "Tae-Hyun Oh"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2609.05381v1",
-      "title": "Molecular Déjà Vu: Digit-Level Retrieval of Published Values in Frontier Language Models",
-      "url": "https://arxiv.org/abs/2609.05381v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-09-04T17:32:48Z",
-      "abstract": "Large language models (LLMs) are increasingly evaluated on molecular property benchmarks, but accuracy cannot distinguish a model that predicts a property from one that retrieves a published number. W",
-      "authors": [
-        "Matthias Busch",
-        "Marius Tacke",
-        "Sviatlana V. Lamaka",
-        "Mikhail L. Zheludkevich",
-        "Christian J. Cyron"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2609.00184v2",
-      "title": "Synthetic Worlds for Temporal Evaluation and Knowledge Updating in LLMs",
-      "url": "https://arxiv.org/abs/2609.00184v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-09-04T17:29:17Z",
-      "abstract": "Large language models (LLMs) rely on static pretraining corpora, causing their knowledge to become outdated over time. Existing approaches for evaluating knowledge edits either suffer from rapid conta",
-      "authors": [
-        "Jonathan Zheng",
-        "Zirui Shao",
-        "Alan Ritter",
-        "Wei Xu"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2609.05376v1",
-      "title": "What Matters, When? Diagnosing and Improving Conditional Visual Grounding in Visuomotor Imitation Policies",
-      "url": "https://arxiv.org/abs/2609.05376v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-09-04T17:27:35Z",
-      "abstract": "Visuomotor imitation policies can achieve high performance under in-distribution visual conditions yet fail when visually similar objects or receptacles are introduced. We study this behavior as a pro",
-      "authors": [
-        "Vivek Chavan",
-        "Pengtao Xie",
-        "Yahuan Shi",
-        "Oliver Heimann",
-        "Kevin Haninger"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2609.05374v1",
-      "title": "CUA-Universe: A Scalable and Dynamic Environment for Hybrid GUI+CLI Agents",
-      "url": "https://arxiv.org/abs/2609.05374v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-09-04T17:26:18Z",
-      "abstract": "Computer-use agents have advanced on benchmarks like OSWorld and AndroidWorld, but still act mostly through the GUI, often producing inefficient trajectories. Real-world computer work is hybrid, combi",
-      "authors": [
-        "Haoting Shi",
-        "Wenhao Wang",
-        "Weicheng Fang",
-        "Yaozhong Liang",
-        "Tian Jin"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -688,32 +370,6 @@
       "points": 0
     },
     {
-      "id": "arxiv_2609.01807v2",
-      "title": "SPD: Single Pass Decoding for Generative Reranking",
-      "url": "https://arxiv.org/abs/2609.01807v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-09-04T17:18:00Z",
-      "abstract": "Large language models (LLMs) achieve state-of-the-art generative ranking quality, but the ranking they produce must be decoded, and autoregressive decoding spends one sequential forward pass per emitt",
-      "authors": [
-        "Emil Laftchiev",
-        "Prachi Agrawal",
-        "Moe Kayali",
-        "Bixing Yan",
-        "Qi Xu"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "techcrunch_ai_https%3A%2F%2Ftechcrunch.com%2Fvideo%2Fw",
       "title": "What will Apple&#8217;s John Ternus era look like?",
       "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
@@ -723,32 +379,6 @@
       "timestamp": "2026-09-04T17:18:00.000Z",
       "abstract": "",
       "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2412.05641v2",
-      "title": "Hyperedge Anomaly Detection with Hypergraph Neural Network",
-      "url": "https://arxiv.org/abs/2412.05641v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-09-04T17:17:17Z",
-      "abstract": "Hypergraph is a data structure that enables us to model higher-order associations among data entities. Conventional graph-structured data can represent pairwise relationships only, whereas hypergraph",
-      "authors": [
-        "Md. Tanvir Alam",
-        "Md. Mahmudur Rahman",
-        "Md. Fahim Arefin",
-        "Chowdhury Farhan Ahmed",
-        "Zisan Mahmud"
-      ],
       "tags": [],
       "score": 4,
       "priority": "LOW",
@@ -1151,29 +781,7 @@
       "likes": 0,
       "stars": 0,
       "votes": 0,
-      "points": 216
-    },
-    {
-      "id": "siliconangle_ai_https%3A%2F%2Fsiliconangle.com%2F2026%2F",
-      "title": "Nvidia PAIR makes it easy to create a household data center for running agentic AI tasks",
-      "url": "https://siliconangle.com/2026/09/03/nvidia-pair-makes-it-easy-to-create-a-household-data-center-for-running-agentic-ai-tasks/",
-      "source": "SiliconANGLE AI",
-      "sourceIcon": "📐",
-      "type": "news",
-      "timestamp": "2026-09-04T01:38:14.000Z",
-      "abstract": "Nvidia Corp. is targeting artificial intelligence agent enthusiasts with a new local distributed clustering tool called the Personal AI Router. It enables them to use any idle Mac computers or PCs lyi",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
+      "points": 218
     }
   ]
 }

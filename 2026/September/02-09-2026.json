@@ -1,9 +1,57 @@
 {
-  "generatedAt": "2026-09-08T00:48:48.870Z",
+  "generatedAt": "2026-09-08T05:27:34.828Z",
   "date": "02-09-2026",
   "count": 20,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2609.03254",
+      "title": "What Else Needs Fixing? Exploring Cost-Effective Test-Time Compute for Revision Propagation in Artifacts Generated Through Conversation",
+      "url": "https://huggingface.co/papers/2609.03254",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-02T20:00:00.000Z",
+      "abstract": "Large Language Models (LLMs) often help users generate artifacts through iterative cycles of generation and revision in conversation. A challenge here is that, when users specify only a local change d",
+      "authors": [
+        "Daisuke Kikuta"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.03729",
+      "title": "Unfold The World: Factorize 4D Properties in Reinforcing Spatial Reasoning",
+      "url": "https://huggingface.co/papers/2609.03729",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-02T20:00:00.000Z",
+      "abstract": "Despite the remarkable prowess of Vision-Language Models (VLMs) in general multimodal tasks, they remain fundamentally ``flat'' when reasoning about the physical world. We argue that this spatial bott",
+      "authors": [
+        "Yijun Yang",
+        "Shenghe Zheng",
+        "Wenbo Li",
+        "Jianhui Liu",
+        "Haoze Sun"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2609.04444",
       "title": "HarvestBench: Measuring Whether LLM Agents Will Pay to Avoid Killing Animals",
@@ -130,58 +178,6 @@
         "Yukun Song"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.04061",
-      "title": "When Models Edit Too Much: On the Fidelity of Minimal Code Edits",
-      "url": "https://huggingface.co/papers/2609.04061",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-02T20:00:00.000Z",
-      "abstract": "Large language models (LLMs) are increasingly used to edit existing code, but correctness alone is not enough: useful repairs should also be minimal, reviewable, and faithful to the original implement",
-      "authors": [
-        "Tongyao Zhu",
-        "Wei Hern Lim",
-        "Min-Yen Kan"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.04523",
-      "title": "MaxKernel: Agentic Kernel Generation for TPUs",
-      "url": "https://huggingface.co/papers/2609.04523",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-02T20:00:00.000Z",
-      "abstract": "Designing and authoring high-performance custom kernels for accelerators is a complex task that requires deep hardware-level expertise. Large Language Models (LLM) can be leveraged together with real-",
-      "authors": [
-        "Shangkun Wang",
-        "Nina Cai",
-        "Charles Hoong",
-        "Julian Walker",
-        "Gerson Kroiz"
-      ],
-      "tags": [
-        "agent"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
