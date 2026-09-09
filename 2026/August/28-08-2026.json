@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-09-08T09:55:19.924Z",
+  "generatedAt": "2026-09-09T10:24:54.402Z",
   "date": "28-08-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2608.05879",
-      "title": "To See a World in a Living Context: Unified Indoor-Outdoor Urban World Generation",
-      "url": "https://huggingface.co/papers/2608.05879",
+      "id": "hf_paper_2608.29109",
+      "title": "Recognition-Refusal Misalignment in LLMs: Why Models Answer Structurally Unanswerable Questions",
+      "url": "https://huggingface.co/papers/2608.29109",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-08-28T20:00:00.000Z",
-      "abstract": "Text-driven 3D generation has advanced rapidly in creating large-scale outdoor environments and detailed indoor scenes, but these domains are usually synthesized independently, lacking the corresponde",
+      "abstract": "Large language models often answer structurally unanswerable questions, such as computing cot(-540°) or evaluating (1).startswith(\"1\"), instead of abstaining. We ask whether this failure reflects miss",
       "authors": [
-        "Xiaobin Huang",
-        "Zilong Huang",
-        "Yang Luo",
-        "Hongchao Fan",
-        "Yiping Chen"
+        "Yucheng Du",
+        "Xiyang Hu"
       ],
-      "tags": [],
+      "tags": [
+        "llm",
+        "alignment"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

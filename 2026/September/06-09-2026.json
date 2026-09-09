@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-09T05:33:51.319Z",
+  "generatedAt": "2026-09-09T10:24:54.398Z",
   "date": "06-09-2026",
-  "count": 10,
+  "count": 15,
   "summary": null,
   "items": [
     {
@@ -25,18 +25,17 @@
       "points": 0
     },
     {
-      "id": "siliconangle_ai_https%3A%2F%2Fsiliconangle.com%2F2026%2F",
-      "title": "OpenAI to set misalignment disclosure rules after agents took over a wiki",
-      "url": "https://siliconangle.com/2026/09/06/openai-to-set-misalignment-disclosure-rules-after-agents-took-over-a-wiki/",
-      "source": "SiliconANGLE AI",
-      "sourceIcon": "📐",
-      "type": "news",
-      "timestamp": "2026-09-06T22:33:26.000Z",
-      "abstract": "OpenAI Group PBC acknowledged Saturday that it did not publicly disclose an episode in which its artificial intelligence agents wrote to outside websites and said it will publish a framework in the co",
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "H Company Releases NeoMME: A Family of 260M and 800M Single-Tower Multimodal Encoders That Drop the Vision Tower and Causal Decoder",
+      "url": "https://www.marktechpost.com/2026/09/06/h-company-releases-neomme-a-family-of-260m-and-800m-single-tower-multimodal-encoders-that-drop-the-vision-tower-and-causal-decoder/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-09-06T21:06:41.000Z",
+      "abstract": "We look at NeoMME, a family of 260M and 800M bidirectional encoders from H Company. Unlike ColPali-style retrievers, it processes multilingual text tokens and raw 32×32 image patches in a single Trans",
       "authors": [],
       "tags": [
-        "agent",
-        "alignment"
+        "multimodal"
       ],
       "score": 8,
       "priority": "HIGH",
@@ -70,21 +69,15 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.07498",
-      "title": "CosmoH2G: A Hand-to-Gripper Transfer Dataset and Baseline Method for Object Manipulation with Complex Spatial Movements",
-      "url": "https://huggingface.co/papers/2609.07498",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Meta FAIR Introduces AI Research Preference Models (RPMs): Ranking ML Experiments Before Spending GPU Hours",
+      "url": "https://www.marktechpost.com/2026/09/06/meta-fair-introduces-ai-research-preference-models-rpms-ranking-ml-experiments-before-spending-gpu-hours/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
       "type": "research",
-      "timestamp": "2026-09-06T20:00:00.000Z",
-      "abstract": "Transferring human hand demonstrations to robotic grippers has recently emerged as a cost-effective solution for robot learning. However, existing methods are largely confined to simple, planar tasks",
-      "authors": [
-        "Hongxiang Zhao",
-        "Mutian Xu",
-        "Zeyu Jin",
-        "Yiming Hao",
-        "Shuguang Cui"
-      ],
+      "timestamp": "2026-09-06T20:25:17.000Z",
+      "abstract": "AI research agents can propose far more experiments than they can afford to run. Meta FAIR, Oxford and UCL introduce AI Research Preference Models — frozen LLM judges that rank 15 unexecuted candidate",
+      "authors": [],
       "tags": [],
       "score": 6,
       "priority": "MEDIUM",
@@ -96,20 +89,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.07108",
-      "title": "Online Draft Co-Training for Speculative Decoding in Large-Scale, Long-Context RL Post-Training",
-      "url": "https://huggingface.co/papers/2609.07108",
+      "id": "hf_paper_2609.07398",
+      "title": "OpenWAM: An Open, Modular Exploration Towards Systematic World-Action Model Pretraining",
+      "url": "https://huggingface.co/papers/2609.07398",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-06T20:00:00.000Z",
-      "abstract": "Speculative decoding accelerates rollout generation, which dominates the cost of reinforcement learning (RL) post-training. Online co-training can further increase the draft's accuracy, yielding great",
+      "abstract": "World-Action Models inherit world knowledge from video-generative priors, and channel it into executable control signals through embodied experience. Existing systems, however, are monolithic: the gen",
       "authors": [
-        "Zili Wang",
-        "Zhaopeng Qiu",
-        "Yuekai Zhang",
-        "Shuang Yu",
-        "Junjie Lai"
+        "Yuran Wang",
+        "Siqiao Huang",
+        "Mingleyang Li",
+        "Chenhao Zhang",
+        "Jiaqi Liang"
       ],
       "tags": [
         "training"
@@ -124,18 +117,148 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.07816",
-      "title": "Kalman Delta Networks: Uncertainty-aware Associative Memory",
-      "url": "https://huggingface.co/papers/2609.07816",
+      "id": "hf_paper_2609.07414",
+      "title": "RelightFormer: Feed-forward Generative Transformer for Multiview Object Relighting",
+      "url": "https://huggingface.co/papers/2609.07414",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-06T20:00:00.000Z",
-      "abstract": "Linear attention is increasingly used in frontier language models for efficient long-context inference and constant-memory decoding. Its fixed-size recurrent memory, however, requires an online decisi",
+      "abstract": "Image relighting is traditionally tackled via complex inverse rendering pipelines, which suffer from ill-posed optimization, or single-image generative models that ignore crucial multi-view cues neces",
       "authors": [
-        "Ngoc Bui",
-        "Tinglin Huang",
-        "Rex Ying"
+        "Hejun Wang",
+        "Jinxi Li",
+        "Junwei Jiang",
+        "Shiwei Mao",
+        "Hu Cheng"
+      ],
+      "tags": [
+        "transformer"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.07670",
+      "title": "Harnessing CLIP and DINO: An Uncertainty-Aware Cascaded Fusion Network for Generalizable Deepfake Image Detection",
+      "url": "https://huggingface.co/papers/2609.07670",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-06T20:00:00.000Z",
+      "abstract": "The growing realism and accessibility of manipulated and generated faces threaten the trustworthiness of digital media. To detect such forgeries, deepfake detectors based on vision foundation models h",
+      "authors": [
+        "Xuechao Zou",
+        "Yi Zhou",
+        "Kai Li",
+        "Shun Zhang",
+        "Yuhui Chen"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.07139",
+      "title": "Encoded Early, Used Late: Where Transformers Begin to Act on an Inferred Partner's Expertise",
+      "url": "https://huggingface.co/papers/2609.07139",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-06T20:00:00.000Z",
+      "abstract": "A transformer can make an attribute linearly decodable in its residual stream at a depth where that attribute does not yet influence the output. This gap between where information is readable and wher",
+      "authors": [
+        "Mika Okamoto",
+        "Gabriele Sarti"
+      ],
+      "tags": [
+        "transformer"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.07470",
+      "title": "Measuring Language Transfer in Robot Policies: Adding Greek to a Cosmos3 Vision-Language-Action Policy",
+      "url": "https://huggingface.co/papers/2609.07470",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-06T20:00:00.000Z",
+      "abstract": "Robot foundation models are trained and evaluated predominantly in English, and robot demonstration corpora do not exist for most languages. We study the addition of Greek to an open vision-language-a",
+      "authors": [
+        "Ayoub Kirouane",
+        "Georgios Giaples",
+        "Christos Petrocheilos"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2510.08999",
+      "title": "SQS: Bayesian DNN Compression through Sparse Quantized Sub-distributions",
+      "url": "https://huggingface.co/papers/2510.08999",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-06T20:00:00.000Z",
+      "abstract": "Compressing large-scale neural networks is essential for deploying models on resource-constrained devices. Most existing methods adopt weight pruning or low-bit quantization individually, often result",
+      "authors": [
+        "Ziyi Wang",
+        "Nan Jiang",
+        "Guang Lin",
+        "Qifan Song"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.07941",
+      "title": "ReactVAU: A Slow-Fast Decoupled Framework for Streaming Video Anomaly Understanding",
+      "url": "https://huggingface.co/papers/2609.07941",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-06T20:00:00.000Z",
+      "abstract": "In this paper, we propose ReactVAU, a Slow-Fast Decoupled Framework for real-time streaming Video Anomaly Understanding (VAU). Existing VAU methods rely on offline inference with global temporal sampl",
+      "authors": [
+        "Chia-Hui Chen",
+        "Shih-Ying Yeh",
+        "Fu-En Yang",
+        "Min-Hung Chen",
+        "Shang-Hong Lai"
       ],
       "tags": [],
       "score": 6,
@@ -234,7 +357,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 169734,
+      "stars": 169753,
       "votes": 0,
       "points": 0
     }

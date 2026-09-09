@@ -1,108 +1,24 @@
 {
-  "generatedAt": "2026-09-09T05:33:51.332Z",
+  "generatedAt": "2026-09-09T10:24:54.399Z",
   "date": "05-09-2026",
-  "count": 8,
+  "count": 4,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2609.06746",
-      "title": "Reason Through the Latent! Making Latent Visual Reasoning Necessary",
-      "url": "https://huggingface.co/papers/2609.06746",
+      "id": "hf_paper_2609.06665",
+      "title": "TransNormal-2: Geometry-Grounded Rectified Flow with Edge-Aware Decoding for Precise Normal Estimation",
+      "url": "https://huggingface.co/papers/2609.06665",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-05T20:00:00.000Z",
-      "abstract": "Latent visual reasoning aims to perform multimodal reasoning through hidden-state computation rather than explicit textual chains of thought. However, visual information being present in a latent stat",
+      "abstract": "Diffusion-based models enable monocular geometry estimation, yet their pixel-space precision is limited by a shared, under-studied error source: VAE reconstruction degradation. The 8x spatial compress",
       "authors": [
-        "Suhyeong Park",
-        "Junha Jung",
-        "Jaewoo Kang"
+        "Mingwei Li",
+        "Yi Yang",
+        "Hehe Fan"
       ],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.06373",
-      "title": "Multi-Grid Post-Training for Long-Form Multi-Shot Video Generation",
-      "url": "https://huggingface.co/papers/2609.06373",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-05T20:00:00.000Z",
-      "abstract": "Generating long-form multi-shot videos requires coherent within-shot motion and visually consistent narratives across shots. Existing video generators favor continuous motion and struggle to present c",
-      "authors": [
-        "Jiawei Mao",
-        "Haoqin Tu",
-        "Hardy Chen",
-        "Yuhan Wang",
-        "Keyang Xu"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.06758",
-      "title": "Agentic Visual Generation: From Generative Models to Agentic Control",
-      "url": "https://huggingface.co/papers/2609.06758",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-05T20:00:00.000Z",
-      "abstract": "Visual generation is evolving from generative models used through a single invocation into agentic control processes that can plan, select tools, inspect intermediate synthesized outputs, revise failu",
-      "authors": [
-        "Yinming Huang",
-        "Shuyuan Tu",
-        "Xi Yan",
-        "Jiahao Zhan",
-        "Zihan Yang"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.06652",
-      "title": "VidaForge: Open Research Infrastructure for Video Pretraining Data Recipes",
-      "url": "https://huggingface.co/papers/2609.06652",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-05T20:00:00.000Z",
-      "abstract": "Video foundation models increasingly rely on large-scale pretraining data, yet the end-to-end data pipelines behind them remain largely closed and difficult to inspect or reuse. Researchers seeking to",
-      "authors": [
-        "Yan Ma",
-        "Jiadi Su",
-        "Zhulin Hu",
-        "Ethan Chern",
-        "Linhao Zhang"
-      ],
-      "tags": [
-        "training"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -159,7 +75,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 158380,
+      "stars": 158394,
       "votes": 0,
       "points": 0
     },
@@ -174,28 +90,6 @@
       "abstract": "",
       "authors": [],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "siliconangle_ai_https%3A%2F%2Fsiliconangle.com%2F2026%2F",
-      "title": "Anthropic uses Claude to formalize proof of Fermat’s Last Theorem",
-      "url": "https://siliconangle.com/2026/09/04/anthropic-uses-claude-to-formalize-proof-of-fermats-last-theorem/",
-      "source": "SiliconANGLE AI",
-      "sourceIcon": "📐",
-      "type": "news",
-      "timestamp": "2026-09-05T00:41:41.000Z",
-      "abstract": "Anthropic PBC has used Claude to create a computer-verifiable version of a famous, highly complicated mathematical proof. The company detailed the project in a blog post published today. A proof is a",
-      "authors": [],
-      "tags": [
-        "claude"
-      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
