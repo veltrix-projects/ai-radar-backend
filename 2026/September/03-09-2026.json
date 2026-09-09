@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T21:02:46.397Z",
+  "generatedAt": "2026-09-09T23:23:22.444Z",
   "date": "03-09-2026",
   "count": 9,
   "summary": null,
@@ -18,6 +18,32 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.05738",
+      "title": "RenderFormer-V2: Neural Rendering with Heterogeneous Scene Primitives",
+      "url": "https://huggingface.co/papers/2609.05738",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-03T20:00:00.000Z",
+      "abstract": "We present 'RenderFormer-V2', a unified learned transformer-based neural rendering model, complementary to modern physics-based rendering systems, that can handle diverse light-transport effects such",
+      "authors": [
+        "Chong Zeng",
+        "Yue Dong",
+        "Pieter Peers",
+        "Lvmin Zhang",
+        "Maneesh Agrawala"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -69,32 +95,6 @@
       "tags": [
         "speech"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.05324",
-      "title": "RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?",
-      "url": "https://huggingface.co/papers/2609.05324",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-03T20:00:00.000Z",
-      "abstract": "Vision-Language-Action (VLA) models have shown promising progress in language-conditioned robotic manipulation. However, existing datasets and benchmarks mainly evaluate task completion under predefin",
-      "authors": [
-        "Zhenxuan Fan",
-        "Bo Zhang",
-        "Yutong Lin",
-        "Yuqian Yuan",
-        "Juekai Lin"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
