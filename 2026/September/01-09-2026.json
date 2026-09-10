@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-09-10T11:34:46.401Z",
+  "generatedAt": "2026-09-10T21:18:33.192Z",
   "date": "01-09-2026",
-  "count": 2,
+  "count": 3,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2609.02771",
+      "title": "From Reweighting to Rewriting: Unlocking the Intervention Effects of Influential Samples in Training Data Attribution",
+      "url": "https://huggingface.co/papers/2609.02771",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-01T20:00:00.000Z",
+      "abstract": "Training data attribution (TDA) aims to identify training examples that shape model behavior, but its intervention value depends on both which examples are selected and how they are modified. Influenc",
+      "authors": [
+        "Yuzhang Luo",
+        "Chenpeng Wang",
+        "Jianhui Chen",
+        "Liangming Pan"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Fm",
       "title": "Mapping global methane emissions from space with deep learning",
