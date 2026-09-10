@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-09-10T06:11:16.453Z",
+  "generatedAt": "2026-09-10T11:34:46.399Z",
   "date": "05-09-2026",
-  "count": 2,
+  "count": 3,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2609.06806",
+      "title": "Train Smarter, Not Harder: Switching Signal-Guided Training in Active Learning",
+      "url": "https://huggingface.co/papers/2609.06806",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-05T20:00:00.000Z",
+      "abstract": "Training strategy, namely whether to retrain from scratch or fine-tune from the previous checkpoint, is an overlooked decision variable in active learning. We show that this choice has exploitable str",
+      "authors": [
+        "Nagham Omar",
+        "Maya Rozenshtein",
+        "Evgeny Mishlyakov",
+        "Avigdor Gal"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2609.06703",
       "title": "DianShi-RxnDB: A Large-Scale, Fine-Grained Organic Reaction Data Platform Built via a Fully Automated Pipeline for Researchers and AI Agents",
@@ -59,7 +86,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 158409,
+      "stars": 158421,
       "votes": 0,
       "points": 0
     }

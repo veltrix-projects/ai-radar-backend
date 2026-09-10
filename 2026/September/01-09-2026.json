@@ -1,33 +1,9 @@
 {
-  "generatedAt": "2026-09-10T06:11:16.455Z",
+  "generatedAt": "2026-09-10T11:34:46.401Z",
   "date": "01-09-2026",
-  "count": 4,
+  "count": 2,
   "summary": null,
   "items": [
-    {
-      "id": "hf_paper_2609.02881",
-      "title": "Graph Machine: Towards Better Pretraining via Edges",
-      "url": "https://huggingface.co/papers/2609.02881",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-01T20:00:00.000Z",
-      "abstract": "We introduce the Graph Machine (GM), an architecture that maintains an O(n)-sized state and accesses it through sparse, dynamic routing. Unlike methods with fixed-size states or sparse but static rout",
-      "authors": [
-        "Lintai Hou"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Fm",
       "title": "Mapping global methane emissions from space with deep learning",
@@ -60,28 +36,6 @@
       "authors": [],
       "tags": [
         "gemini",
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
-      "title": "Building an Adaptive Agentic Cybersecurity System with NVIDIA Nemotron",
-      "url": "https://developer.nvidia.com/blog/building-an-adaptive-agentic-cybersecurity-system-with-nvidia-nemotron/",
-      "source": "NVIDIA Blog",
-      "sourceIcon": "🟩",
-      "type": "tool",
-      "timestamp": "2026-09-01T17:00:04.000Z",
-      "abstract": "AI is changing the pace of cybersecurity. Agentic systems can coordinate work and pursue complex objectives over long horizons. Security teams are beginning to...]]>",
-      "authors": [],
-      "tags": [
         "agent"
       ],
       "score": 8,
