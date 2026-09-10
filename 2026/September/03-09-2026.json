@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-10T01:13:45.375Z",
+  "generatedAt": "2026-09-10T06:11:16.454Z",
   "date": "03-09-2026",
-  "count": 9,
+  "count": 8,
   "summary": null,
   "items": [
     {
@@ -25,6 +25,34 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2609.05405",
+      "title": "WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data",
+      "url": "https://huggingface.co/papers/2609.05405",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-03T20:00:00.000Z",
+      "abstract": "Recent advances in wearable sensing enable continuous monitoring of physiological and behavioral signals, yet existing benchmarks rarely evaluate whether AI systems can reason over a real user's longi",
+      "authors": [
+        "Ji Soo Lee",
+        "Xilun Chen",
+        "Pierce Chuang",
+        "Ashish Shenoy",
+        "Jason Wei"
+      ],
+      "tags": [
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2609.05738",
       "title": "RenderFormer-V2: Neural Rendering with Heterogeneous Scene Primitives",
       "url": "https://huggingface.co/papers/2609.05738",
@@ -41,60 +69,6 @@
         "Maneesh Agrawala"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.04942",
-      "title": "Learning 3D Editing without Paired Supervision via Generative Prior Distillation",
-      "url": "https://huggingface.co/papers/2609.04942",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-03T20:00:00.000Z",
-      "abstract": "Instruction-guided 3D editing is essential for interactive content creation, yet it faces a significant bottleneck: the severe scarcity of high-quality paired training data. Existing approaches attemp",
-      "authors": [
-        "Hao Wen",
-        "Weibin Yun",
-        "Hongxing Fan",
-        "Haotian Lu",
-        "Rui Chen"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.05592",
-      "title": "What Did I Just Say? Self-Listening for Full-Duplex Speech Models",
-      "url": "https://huggingface.co/papers/2609.05592",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-03T20:00:00.000Z",
-      "abstract": "Full-duplex spoken language models can listen and speak simultaneously, enabling them to handle interruptions and backchannels in human conversation. However, text generation, speech synthesis, and au",
-      "authors": [
-        "Xuanning Zhou",
-        "Junyi Ao",
-        "Xiaotong Liu",
-        "Tom Ko",
-        "Benyou Wang"
-      ],
-      "tags": [
-        "speech"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

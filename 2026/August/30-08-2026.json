@@ -1,26 +1,56 @@
 {
-  "generatedAt": "2026-09-08T22:53:44.755Z",
+  "generatedAt": "2026-09-10T06:11:16.456Z",
   "date": "30-08-2026",
-  "count": 1,
+  "count": 2,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2609.00365",
-      "title": "Dr. Claw: An AI Scientist Workspace for Vibe Research",
-      "url": "https://huggingface.co/papers/2609.00365",
+      "id": "hf_paper_2609.00369",
+      "title": "Puppeteer: Object-Grounded Posture-Aware Co-Speech Gesture Generation",
+      "url": "https://huggingface.co/papers/2609.00369",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-08-30T20:00:00.000Z",
-      "abstract": "Command-line coding agents (e.g., Claude Code, Gemini CLI) can already read and write files and sustain long sessions, yet end-to-end research still fragments across chat tools, IDEs, terminals, and w",
+      "abstract": "Generating co-speech gestures that are temporally coherent, semantically aligned with speech, and grounded with surrounding objects remains challenging. Prior speech-driven gesture models emphasize au",
       "authors": [
-        "Dingjie Song",
-        "Hanrong Zhang",
-        "Dawei Liu",
-        "Yixin Liu",
-        "Zongxia Li"
+        "Vida Adeli",
+        "Soroush Mehraban",
+        "Jacob Rommann",
+        "Harrison Sanborn",
+        "Cole Clifford"
       ],
-      "tags": [],
+      "tags": [
+        "speech"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.09187",
+      "title": "AgenticGen: Reward-Guided Agentic Video Generation for Advertising",
+      "url": "https://huggingface.co/papers/2609.09187",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-30T20:00:00.000Z",
+      "abstract": "Advertising video generation is not only a video synthesis task, but also a product-conditioned reasoning problem whose success is measured by online business metrics. Recent video foundation models c",
+      "authors": [
+        "Xingyuan Bu",
+        "Chengru Song",
+        "Hao Zhou",
+        "Tao Zhou",
+        "Dong Li"
+      ],
+      "tags": [
+        "agent"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

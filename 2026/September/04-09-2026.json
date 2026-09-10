@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-09-10T01:13:45.375Z",
+  "generatedAt": "2026-09-10T06:11:16.454Z",
   "date": "04-09-2026",
-  "count": 10,
+  "count": 9,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2609.05779",
+      "title": "Diffs vs. Whole Files: An Empirical Comparison of Iterative Edit-Based and Direct Generation for Flutter/Dart Code Models",
+      "url": "https://huggingface.co/papers/2609.05779",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-04T20:00:00.000Z",
+      "abstract": "Large language models used for code editing can be trained and deployed in at least two output regimes: direct generation, where the model emits the entire modified file in one shot, and iterative dif",
+      "authors": [
+        "Andrej Andrejev"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2609.06245",
       "title": "VDiff-Bench: A Challenging Benchmark for Fine-Grained Image Difference Identification",
@@ -24,52 +46,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.06140",
-      "title": "Counter-Swarm Doctrine: Containing Coordinated Agent Intrusions",
-      "url": "https://huggingface.co/papers/2609.06140",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-04T20:00:00.000Z",
-      "abstract": "Agents can turn shared infrastructure into a channel for coordinated intrusion. The Hugging Face incident and a separate public-wiki investigation show why a security assessment may need evidence from",
-      "authors": [
-        "Gregory N Frank"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.06008",
-      "title": "Cadence: Error-Bounded Lossy Compression of Demand Time Series with a Time-Series Foundation Model",
-      "url": "https://huggingface.co/papers/2609.06008",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-04T20:00:00.000Z",
-      "abstract": "We present Cadence, an error-bounded lossy compressor for numeric time series pairing a 330M-parameter time-series foundation model (Google TimesFM-3) with an adaptive arithmetic coder, guaranteeing |",
-      "authors": [
-        "Roberto Tacconelli"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
