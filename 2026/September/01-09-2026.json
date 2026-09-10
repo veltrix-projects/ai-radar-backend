@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-09-09T23:23:22.445Z",
+  "generatedAt": "2026-09-10T01:13:45.376Z",
   "date": "01-09-2026",
-  "count": 4,
+  "count": 5,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2609.02881",
+      "title": "Graph Machine: Towards Better Pretraining via Edges",
+      "url": "https://huggingface.co/papers/2609.02881",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-01T20:00:00.000Z",
+      "abstract": "We introduce the Graph Machine (GM), an architecture that maintains an O(n)-sized state and accesses it through sparse, dynamic routing. Unlike methods with fixed-size states or sparse but static rout",
+      "authors": [
+        "Lintai Hou"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2609.03209",
       "title": "MasterControl Seventeen Every Time",
