@@ -1,22 +1,28 @@
 {
-  "generatedAt": "2026-09-11T01:15:25.482Z",
+  "generatedAt": "2026-09-11T06:14:44.435Z",
   "date": "04-09-2026",
   "count": 7,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2609.05779",
-      "title": "Diffs vs. Whole Files: An Empirical Comparison of Iterative Edit-Based and Direct Generation for Flutter/Dart Code Models",
-      "url": "https://huggingface.co/papers/2609.05779",
+      "id": "hf_paper_2609.05903",
+      "title": "EvoSafeHarness: Evolving Model- and Domain-Specific Harnesses for Securing Agents",
+      "url": "https://huggingface.co/papers/2609.05903",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-04T20:00:00.000Z",
-      "abstract": "Large language models used for code editing can be trained and deployed in at least two output regimes: direct generation, where the model emits the entire modified file in one shot, and iterative dif",
+      "abstract": "Large Language Model (LLM) agents are turning language into real-world effects, making safety necessary against both indirect prompt injections and direct harmful requests. System-level safety harness",
       "authors": [
-        "Andrej Andrejev"
+        "Nanxi Li",
+        "Yingzi Ma",
+        "Yulong Cao",
+        "Edward Suh",
+        "Bo Li"
       ],
-      "tags": [],
+      "tags": [
+        "agent"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

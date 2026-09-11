@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-09-11T01:15:25.484Z",
+  "generatedAt": "2026-09-11T06:14:44.436Z",
   "date": "27-08-2026",
-  "count": 3,
+  "count": 4,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2608.27875",
+      "title": "HyQuant: Hybrid-Precision Quantization for LLM Attention",
+      "url": "https://huggingface.co/papers/2608.27875",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-08-27T20:00:00.000Z",
+      "abstract": "Quantization has been widely adopted in LLM training and inference to reduce cost and improve efficiency. However, low-bit quantization of the attention module often introduces large errors at very lo",
+      "authors": [
+        "Jiatong Ding",
+        "Bingxin Xing",
+        "Yu Zhang",
+        "Dian Ding",
+        "Xiaodong Yi"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Fp",
       "title": "Planetary prediction engine: Automating global models via Earth AI",

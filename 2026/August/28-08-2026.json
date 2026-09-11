@@ -1,25 +1,27 @@
 {
-  "generatedAt": "2026-09-09T23:23:22.446Z",
+  "generatedAt": "2026-09-11T06:14:44.436Z",
   "date": "28-08-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2608.29109",
-      "title": "Recognition-Refusal Misalignment in LLMs: Why Models Answer Structurally Unanswerable Questions",
-      "url": "https://huggingface.co/papers/2608.29109",
+      "id": "hf_paper_2608.12564",
+      "title": "Scaling Automatic Research Agents via World Models",
+      "url": "https://huggingface.co/papers/2608.12564",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-08-28T20:00:00.000Z",
-      "abstract": "Large language models often answer structurally unanswerable questions, such as computing cot(-540°) or evaluating (1).startswith(\"1\"), instead of abstaining. We ask whether this failure reflects miss",
+      "abstract": "Automating empirical research is a long-standing direction of AI. Recent automatic research (AutoResearch) agents bring this goal within reach, as modern LLMs show the capability to independently impl",
       "authors": [
-        "Yucheng Du",
-        "Xiyang Hu"
+        "Xiyuan Yang",
+        "Sheikh Sarwar",
+        "Jingru Cheng",
+        "Zhan Shi",
+        "Duanshun Li"
       ],
       "tags": [
-        "llm",
-        "alignment"
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
