@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-09-14T19:52:49.744Z",
+  "generatedAt": "2026-09-14T22:51:20.661Z",
   "date": "08-09-2026",
   "count": 7,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2609.10728",
+      "title": "Towards a Deterministic Math Solver for Clinical Language Models",
+      "url": "https://huggingface.co/papers/2609.10728",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-08T20:00:00.000Z",
+      "abstract": "Large language models are unreliable at arithmetic, which is a problem for clinical calculators where a single numerical error changes the recommendation. The standard response is to hardcode each cal",
+      "authors": [
+        "Felipe Ocampo Osorio",
+        "Sebastián Andrés Cajas Ordoñez",
+        "Maximin Lange",
+        "Rafi Al Attrach",
+        "Sahil Kapadia"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2609.10824",
       "title": "Studying Without a Syllabus: Task-Agnostic Environment Preprocessing",
@@ -52,30 +78,6 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.10745",
-      "title": "Think Before You Link: Rarity, Reasoning, and Retrieval in Multilingual Entity Linking",
-      "url": "https://huggingface.co/papers/2609.10745",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-08T20:00:00.000Z",
-      "abstract": "Multimodal entity linking grounds entity mentions in text and images to knowledge-base entries. These systems degrade on rare entities, but prior work measures rarity primarily through popularity-base",
-      "authors": [
-        "Parinthapat Pengpun",
-        "Simran Khanuja",
-        "Graham Neubig"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

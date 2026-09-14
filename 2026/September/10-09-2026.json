@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-14T19:52:49.743Z",
+  "generatedAt": "2026-09-14T22:51:20.660Z",
   "date": "10-09-2026",
-  "count": 21,
+  "count": 18,
   "summary": null,
   "items": [
     {
@@ -60,26 +60,6 @@
       "tags": [
         "inference"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Video and image search in Amazon Bedrock Knowledge Base using Marengo 3.0",
-      "url": "https://aws.amazon.com/blogs/machine-learning/video-and-image-search-in-amazon-bedrock-knowledge-base-using-marengo-3-0/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-09-10T21:15:39.000Z",
-      "abstract": "TwelveLabs Marengo Embed 3.0 is now generally available as an embedding model in Amazon Bedrock Knowledge Bases, bringing fully managed natural language search to video, image, and audio content. This",
-      "authors": [],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -162,52 +142,6 @@
       "tags": [],
       "score": 6,
       "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.13141",
-      "title": "SAS: Simple Attention Sparsification via End-to-End Optimization of Context Ranking",
-      "url": "https://huggingface.co/papers/2609.13141",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-10T20:00:00.000Z",
-      "abstract": "Post-training attention sparsification reduces the quadratic cumulative attention cost of pretrained Transformers by selecting a small set of context units (tokens or blocks) for each query. Existing",
-      "authors": [
-        "Zhiwei Li",
-        "Lei Zhu",
-        "Hao Gu",
-        "Xiang Hu",
-        "Yan Wang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Amazon Quick is now generally available on desktop",
-      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-is-now-generally-available-on-desktop/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-09-10T18:16:37.000Z",
-      "abstract": "Your teams get an AI assistant that handles real work while your data stays in your environment and your conversations stay private Today, the Amazon Quick desktop application is generally available o",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -425,8 +359,8 @@
     },
     {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fintro",
-      "title": "Introducing the Agents API",
-      "url": "https://openai.com/index/introducing-the-agents-api",
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
@@ -434,7 +368,7 @@
       "abstract": "",
       "authors": [],
       "tags": [
-        "agent"
+        "gpt"
       ],
       "score": 8,
       "priority": "HIGH",
@@ -447,8 +381,8 @@
     },
     {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fintro",
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "title": "Introducing the Agents API",
+      "url": "https://openai.com/index/introducing-the-agents-api",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
@@ -456,7 +390,7 @@
       "abstract": "",
       "authors": [],
       "tags": [
-        "gpt"
+        "agent"
       ],
       "score": 8,
       "priority": "HIGH",
