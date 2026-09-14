@@ -1,9 +1,59 @@
 {
-  "generatedAt": "2026-09-14T08:01:12.299Z",
+  "generatedAt": "2026-09-14T15:06:53.265Z",
   "date": "02-09-2026",
-  "count": 4,
+  "count": 6,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2609.03502",
+      "title": "Building and Evaluating Fixed-Voice Thai TTS from Synthetic Speech",
+      "url": "https://huggingface.co/papers/2609.03502",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-02T20:00:00.000Z",
+      "abstract": "In low-resource settings, deploying TTS typically requires choosing between a large voice-cloning model with costly inference or a compact fixed-voice system that requires a speaker-specific corpus. W",
+      "authors": [
+        "Kunat Pipatanakul",
+        "Potsawee Manakul",
+        "Warit Sirichotedumrong",
+        "Sittipong Sripaisarnmongkol",
+        "Pakorn Nathong"
+      ],
+      "tags": [
+        "speech"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.03595",
+      "title": "How Far Can Synthetic Data Take Thai OCR?",
+      "url": "https://huggingface.co/papers/2609.03595",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-02T20:00:00.000Z",
+      "abstract": "We investigate what makes synthetic OCR supervision transfer to real Thai documents and use the resulting insights to build Wayu-Paxa-OCR-Zero, a Thai OCR model adapted without OCR labels from real Th",
+      "authors": [
+        "Kunat Pipatanakul"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "google_deepmind_https%3A%2F%2Fdeepmind.google%2Fblog%2Fp",
       "title": "Proactive cyber defense for governments and enterprises",

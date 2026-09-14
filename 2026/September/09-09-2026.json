@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-14T08:01:12.295Z",
+  "generatedAt": "2026-09-14T15:06:53.262Z",
   "date": "09-09-2026",
-  "count": 21,
+  "count": 16,
   "summary": null,
   "items": [
     {
@@ -139,138 +139,6 @@
         "Xiaoxue Han"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.11561",
-      "title": "Memory as Plans: World-Action Modeling with Memory-Grounded Planning",
-      "url": "https://huggingface.co/papers/2609.11561",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-09T20:00:00.000Z",
-      "abstract": "Mainstream robotic policies often adopt a Markovian formulation, but many complex real-world manipulation tasks are inherently non-Markovian, requiring long-horizon memory beyond the current observati",
-      "authors": [
-        "Sizhe Zhao",
-        "Haozhe Xie",
-        "Weiyu Zhao",
-        "Chenchu Zhang",
-        "Huan Wang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.11699",
-      "title": "Negative Self-Distillation: Learning to Reason by Avoiding Flaws",
-      "url": "https://huggingface.co/papers/2609.11699",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-09T20:00:00.000Z",
-      "abstract": "On-Policy Self-Distillation (OPSD) has emerged as a popular paradigm for large language model (LLM) self-improvement, allowing models to act as their own teachers by leveraging privileged information",
-      "authors": [
-        "Rongcan Pei",
-        "Zhepei Wei",
-        "Shuyao Xu",
-        "Xinyu Zhu",
-        "Wei-Lin Chen"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.11486",
-      "title": "FreeFlow: A Bias-free Hierarchical Transformer for Optical Flow Estimation",
-      "url": "https://huggingface.co/papers/2609.11486",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-09T20:00:00.000Z",
-      "abstract": "Optical flow methods typically rely on task-specific inductive biases, such as correlation volumes, feature warping, and iterative refinement, among others, to reach high accuracy. While effective, su",
-      "authors": [
-        "Vladislav Bargatin",
-        "Alexander Yakovenko",
-        "Khaled Abud",
-        "Dmitriy Vatolin"
-      ],
-      "tags": [
-        "transformer"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.11317",
-      "title": "Mi-Ripple: Restoring Images Degraded by Iterative AI Editing",
-      "url": "https://huggingface.co/papers/2609.11317",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-09T20:00:00.000Z",
-      "abstract": "Iterative reference-conditioned image editing can introduce grid-like and granular textures, commonly described as digital ripple. We present Mi-Ripple, a diagnosis-guided restoration workflow that su",
-      "authors": [
-        "Jiayin Chen",
-        "Yicheng Xu",
-        "Muting Wang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.11155",
-      "title": "DRG-MAPPO: Hierarchical Dynamic Role-Graph Multi-Agent Reinforcement Learning for Cooperative Air Combat",
-      "url": "https://huggingface.co/papers/2609.11155",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-09T20:00:00.000Z",
-      "abstract": "Multi-Agent Reinforcement Learning (MARL) has emerged as a pivotal paradigm for complex decision-making in autonomous systems and air combat. While MARL has demonstrated significant potential in air c",
-      "authors": [
-        "Junlin Liu",
-        "Chengwei Li",
-        "Yang Gao",
-        "Hui Chang",
-        "Xinchen Zhang"
-      ],
-      "tags": [
-        "agent",
-        "reinforcement learning"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -447,7 +315,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 170284,
+      "stars": 170305,
       "votes": 0,
       "points": 0
     },

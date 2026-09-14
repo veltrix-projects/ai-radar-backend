@@ -1,9 +1,92 @@
 {
-  "generatedAt": "2026-09-14T08:01:12.298Z",
+  "generatedAt": "2026-09-14T15:06:53.264Z",
   "date": "04-09-2026",
-  "count": 5,
+  "count": 8,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2609.06107",
+      "title": "DataFlex-RL: An Evaluation Platform for RLVR Data Policies",
+      "url": "https://huggingface.co/papers/2609.06107",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-04T20:00:00.000Z",
+      "abstract": "Data policies for reinforcement learning with verifiable rewards (RLVR) determine which rollouts are used, how strongly they are weighted, and which domains contribute to subsequent training batches.",
+      "authors": [
+        "Hao Liang",
+        "Mingrui Chen",
+        "Hengyi Feng",
+        "Meiyi Qiang",
+        "Wentao Zhang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.05824",
+      "title": "Beyond Top-k Skill Retrieval: Diversity-Aware Skill Routing for LLM Agents",
+      "url": "https://huggingface.co/papers/2609.05824",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-04T20:00:00.000Z",
+      "abstract": "Large language model (LLM) agents increasingly rely on external skills, but routing user requests over large skill registries is difficult because many skills are functionally redundant while complex",
+      "authors": [
+        "Wang Wei",
+        "Tiankai Yang",
+        "Samyadeep Basu",
+        "Hongjie Chen",
+        "Yue Zhao"
+      ],
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.05820",
+      "title": "Online Learning with LLM Experts from Limited Feedback",
+      "url": "https://huggingface.co/papers/2609.05820",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-04T20:00:00.000Z",
+      "abstract": "We study adaptive routing of prompts to large language model (LLM) experts to maximize response quality in an online setting with limited feedback. We formulate it as a bandit problem with K actions t",
+      "authors": [
+        "Wang Wei",
+        "Soumyabrata Pal",
+        "Koyel Mukherjee",
+        "Franck Dernoncourt",
+        "Ryan A. Rossi"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
       "title": "Architecting memory and storage in the AI era",
