@@ -1,23 +1,29 @@
 {
-  "generatedAt": "2026-09-15T11:56:02.600Z",
+  "generatedAt": "2026-09-15T16:00:03.714Z",
   "date": "31-08-2026",
   "count": 2,
   "summary": null,
   "items": [
     {
-      "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
-      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-      "source": "MIT Tech Review",
-      "sourceIcon": "🏛️",
+      "id": "hf_paper_2609.01430",
+      "title": "Learning Sparse Decision Trees via Transformer Variational Auto-Encoders",
+      "url": "https://huggingface.co/papers/2609.01430",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-08-31T18:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "timestamp": "2026-08-31T20:00:00.000Z",
+      "abstract": "Decision trees are among the most widely used models in machine learning, largely due to their transparent decision logic, making them well-suited for high-stakes decision-making contexts. However, mo",
+      "authors": [
+        "Giacomo Fidone",
+        "Alessio Cascione",
+        "Riccardo Guidotti"
+      ],
+      "tags": [
+        "transformer"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
