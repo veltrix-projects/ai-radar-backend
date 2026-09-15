@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-15T16:00:03.709Z",
+  "generatedAt": "2026-09-15T19:34:55.447Z",
   "date": "10-09-2026",
-  "count": 18,
+  "count": 17,
   "summary": null,
   "items": [
     {
@@ -25,40 +25,23 @@
       "points": 0
     },
     {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference",
-      "url": "https://aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-09-10T21:58:09.000Z",
-      "abstract": "Amazon SageMaker Inference now offers prefix-aware routing, a routing strategy that sends requests sharing the same prompt prefix to the same instance so the KV cache stays warm. In benchmarks on Llam",
-      "authors": [],
-      "tags": [
-        "llm",
-        "inference"
+      "id": "hf_paper_2609.13463",
+      "title": "Root-Cause Attribution Is a Search Problem: Continual Search for Long-Horizon Agent Failures",
+      "url": "https://huggingface.co/papers/2609.13463",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-10T20:00:00.000Z",
+      "abstract": "The increasing deployment of AI agents in long-horizon tasks yields massive execution logs. Diagnosing failures within these records is crucial for reliability, as it transforms outcome-level signals",
+      "authors": [
+        "Harsh Raj",
+        "David Lee",
+        "Anas Mahmoud",
+        "Renxiong Wang",
+        "Razvan-Gabriel Dumitru"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Reduce inference cold starts on Amazon SageMaker HyperPod with model caching",
-      "url": "https://aws.amazon.com/blogs/machine-learning/reduce-inference-cold-starts-on-amazon-sagemaker-hyperpod-with-model-caching/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-09-10T21:37:49.000Z",
-      "abstract": "Amazon SageMaker HyperPod now supports model caching for inference, which pre-loads model weights and container images onto cluster nodes so pods read from local NVMe storage instead of downloading ov",
-      "authors": [],
       "tags": [
-        "inference"
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
