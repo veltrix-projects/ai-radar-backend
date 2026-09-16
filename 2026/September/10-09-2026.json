@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-16T10:12:04.330Z",
+  "generatedAt": "2026-09-16T15:04:55.163Z",
   "date": "10-09-2026",
-  "count": 16,
+  "count": 13,
   "summary": null,
   "items": [
     {
@@ -41,61 +41,6 @@
         "Boyang Wang"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.13443",
-      "title": "Learning to Solve Hard Problems in RL for LLMs by Never Giving Up",
-      "url": "https://huggingface.co/papers/2609.13443",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-10T20:00:00.000Z",
-      "abstract": "We demonstrate that training LLMs with RL does not improve performance equally across a dataset. RL shows large improvements on easy problems that an LLM is already good at solving, but small improvem",
-      "authors": [
-        "Michael Noukhovitch",
-        "Hamish Ivison",
-        "Nathan Lambert",
-        "Aaron Courville"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.13463",
-      "title": "Root-Cause Attribution Is a Search Problem: Continual Search for Long-Horizon Agent Failures",
-      "url": "https://huggingface.co/papers/2609.13463",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-10T20:00:00.000Z",
-      "abstract": "The increasing deployment of AI agents in long-horizon tasks yields massive execution logs. Diagnosing failures within these records is crucial for reliability, as it transforms outcome-level signals",
-      "authors": [
-        "Harsh Raj",
-        "David Lee",
-        "Anas Mahmoud",
-        "Renxiong Wang",
-        "Razvan-Gabriel Dumitru"
-      ],
-      "tags": [
-        "agent"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -304,28 +249,6 @@
       "abstract": "",
       "authors": [],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fintro",
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-09-10T00:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "gpt"
-      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
