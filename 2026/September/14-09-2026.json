@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-16T15:04:55.162Z",
+  "generatedAt": "2026-09-16T18:58:17.210Z",
   "date": "14-09-2026",
-  "count": 33,
+  "count": 30,
   "summary": null,
   "items": [
     {
@@ -153,19 +153,25 @@
       "points": 0
     },
     {
-      "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Ftech%2F",
-      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
-      "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
-      "source": "The Verge AI",
-      "sourceIcon": "🔺",
-      "type": "news",
-      "timestamp": "2026-09-14T20:03:37.000Z",
-      "abstract": "",
-      "authors": [],
+      "id": "hf_paper_2609.16591",
+      "title": "FLAT: Resampling Image and Text into 1D Flexible-Length Aligned Transmodal Tokens for Retrieval and Generation",
+      "url": "https://huggingface.co/papers/2609.16591",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-14T20:00:00.000Z",
+      "abstract": "Traditional multimodal representation learning and generation are two stages: a contrastive or self-supervised visual encoder is trained first, followed by a separate downstream generative model. This",
+      "authors": [
+        "Guangyu Sun",
+        "Shlok Kumar Mishra",
+        "Wentao Bao",
+        "Robert Zhenheng Yang",
+        "Xiao Wang"
+      ],
       "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -277,60 +283,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.16679",
-      "title": "AI for Games in the Foundation Model Era",
-      "url": "https://huggingface.co/papers/2609.16679",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-14T20:00:00.000Z",
-      "abstract": "Foundation models, alongside advances in learned game-world models, are reshaping AI across the game lifecycle. Beyond playing games, recent systems model players and game dynamics, support design and",
-      "authors": [
-        "Meng Luo",
-        "Yanlin Li",
-        "Hao Li",
-        "Hongzhan Lin",
-        "Pengfei Zhou"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.17523",
-      "title": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
-      "url": "https://huggingface.co/papers/2609.17523",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-14T20:00:00.000Z",
-      "abstract": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows. ScienceBuddy supports rese",
-      "authors": [
-        "Shuhan Xue",
-        "Jianyuan Zhong",
-        "Ziyuan Nan",
-        "Wenbin Li",
-        "Zhaochen Yu"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "gh_1073224795",
       "title": "obra/superpowers — An agentic skills framework & software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
@@ -356,7 +308,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 287492,
+      "stars": 287560,
       "votes": 0,
       "points": 0
     },
@@ -577,28 +529,6 @@
       "authors": [],
       "tags": [
         "gpt"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fnews%2F",
-      "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
-      "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
-      "source": "The Verge AI",
-      "sourceIcon": "🔺",
-      "type": "news",
-      "timestamp": "2026-09-14T13:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "safety"
       ],
       "score": 4,
       "priority": "LOW",
