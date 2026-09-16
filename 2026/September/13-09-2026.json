@@ -1,9 +1,64 @@
 {
-  "generatedAt": "2026-09-16T05:29:08.552Z",
+  "generatedAt": "2026-09-16T10:12:04.328Z",
   "date": "13-09-2026",
   "count": 6,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2609.15195",
+      "title": "HarnessVLN: Unifying Training-Free Embodied Navigation through an Agent Harness",
+      "url": "https://huggingface.co/papers/2609.15195",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-13T20:00:00.000Z",
+      "abstract": "Embodied navigation requires agents to interpret visual observations, accumulate spatial knowledge, and execute actions to follow instructions or locate objects. Training-based methods face generaliza",
+      "authors": [
+        "Yang Chen",
+        "Lirong Che",
+        "Zhenyu Huang",
+        "Wenbo Fu",
+        "Chuang Wang"
+      ],
+      "tags": [
+        "agent",
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.16204",
+      "title": "Decoy Direction Optimization: A Post-Hoc Defense Against LLM Abliteration",
+      "url": "https://huggingface.co/papers/2609.16204",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-13T20:00:00.000Z",
+      "abstract": "Safety guardrails in open-weight language models can be readily bypassed using Refusal Feature Ablation (RFA), a technique that identifies and projects out a linear refusal direction from the residual",
+      "authors": [
+        "Aashiq Muhamed",
+        "Mona T. Diab",
+        "Virginia Smith"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2609.15972",
       "title": "Mind2Dialogue: Training Human-Aware Language Models by Simulating User Mental States",
@@ -77,56 +132,6 @@
       "tags": [
         "llm"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.15504",
-      "title": "How Lossless Is Lossless Speculative Decoding? The Role of Numerical Precision in Orthrus",
-      "url": "https://huggingface.co/papers/2609.15504",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-13T20:00:00.000Z",
-      "abstract": "Orthrus is a hybrid autoregressive-diffusion architecture that accelerates autoregressive language-model inference by generating multiple tokens in parallel while using a frozen autoregressive backbon",
-      "authors": [
-        "Ilya Koziev",
-        "Leonid Sinev",
-        "Ivan Oseledets"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.15635",
-      "title": "ModaLens: Measuring Image Sensitivity in Report-Conditioned Medical VLMs",
-      "url": "https://huggingface.co/papers/2609.15635",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-13T20:00:00.000Z",
-      "abstract": "A radiology report can already answer a clinical question, so it is hard to tell whether a vision-language model also uses the image. ModaLens, a paired image-swap audit, measures how report availabil",
-      "authors": [
-        "Sebastián Andrés Cajas Ordóñez",
-        "Maximin Lange",
-        "Quang Bui",
-        "Anqi Peter Li",
-        "Felipe Ocampo Osorio"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
