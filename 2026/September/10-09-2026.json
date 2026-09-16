@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-15T22:32:49.266Z",
+  "generatedAt": "2026-09-16T05:29:08.554Z",
   "date": "10-09-2026",
-  "count": 20,
+  "count": 13,
   "summary": null,
   "items": [
     {
@@ -80,145 +80,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.13053",
-      "title": "Dynin-Robotics: Omnimodal Unified Diffusion Vision-Language-Action Model",
-      "url": "https://huggingface.co/papers/2609.13053",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-10T20:00:00.000Z",
-      "abstract": "Visual goal and dynamics prediction can provide language-conditioned robot policies with both a target outcome and a representation of action-dependent scene changes. We bring these predictions into a",
-      "authors": [
-        "Hoeun Lee",
-        "Jaeik Kim",
-        "Jusang Oh",
-        "Jinhyeok Kim",
-        "Geon Choi"
-      ],
-      "tags": [
-        "diffusion",
-        "robotics"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.13058",
-      "title": "Expert-Space Exploration in MoE Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2609.13058",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-10T20:00:00.000Z",
-      "abstract": "Reinforcement learning (RL) has become central to post-training of large language models. Recent advances in RL for Mixture-of-Experts (MoE) models have primarily focused on improving optimization sta",
-      "authors": [
-        "Hongyi He",
-        "Zhenghao Lin",
-        "Xiao Liu",
-        "Peng Cheng",
-        "Yan Lu"
-      ],
-      "tags": [
-        "reinforcement learning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.12419",
-      "title": "MInTRL: Off-policy Intervention can boost On-policy RL",
-      "url": "https://huggingface.co/papers/2609.12419",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-10T20:00:00.000Z",
-      "abstract": "Reinforcement learning with verifiable rewards is typically performed on-policy, keeping training data close to the current policy but limiting learning to trajectories that the policy can discover it",
-      "authors": [
-        "Mingyu Chen",
-        "Yefan Tao",
-        "Gerald Friedland",
-        "Xuezhou Zhang",
-        "Chris Kong"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.13498",
-      "title": "Building a Production Greek-English Speech Recognizer",
-      "url": "https://huggingface.co/papers/2609.13498",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-10T20:00:00.000Z",
-      "abstract": "We report a multi-month engineering program to build Sophea, a production bilingual Greek-English automatic speech recognition system. We evaluate the system against nine production gates covering Gre",
-      "authors": [
-        "Christos Petrocheilos",
-        "Cleopatra Papadopoulou",
-        "Chris Porikis",
-        "Ioakeim Perros",
-        "Ayoub Kirouane"
-      ],
-      "tags": [
-        "speech"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.12541",
-      "title": "Agent as Policy for Robotic Manipulation",
-      "url": "https://huggingface.co/papers/2609.12541",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-10T20:00:00.000Z",
-      "abstract": "We demonstrate that a general-purpose agent can directly drive a physical robot throughout task execution without any task-specific or environment-specific training. We introduce Agent as Policy (AGP)",
-      "authors": [
-        "Mengzhao Jia",
-        "Yang Lin",
-        "Xixin Zhang",
-        "Zhihan Zhang",
-        "Xiaobai Liu"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "How Full-Stack NIM Optimizations Deliver 2.5x More Users on Nemotron 3 Ultra",
       "url": "https://developer.nvidia.com/blog/how-full-stack-nim-optimizations-deliver-2-5x-more-users-on-nemotron-3-ultra/",
@@ -232,28 +93,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "Supply chains detect fast, act slow: How AI agents fix it",
-      "url": "https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-09-10T16:34:43.000Z",
-      "abstract": "Supply chain disruption cost businesses about $184 billion in 2025, according to the J.S. Held Global Risk Report, and most of that bill still buys faster detection, not faster action. That figure is",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -337,26 +176,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "JD.com expands physical AI in logistics with 3 million robots",
-      "url": "https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-09-10T10:00:00.000Z",
-      "abstract": "JD.com is expanding AI and robotics across its logistics network under a new Physical AI Acceleration Plan, while reiterating a five-year target to procure 3 million robots, 1 million autonomous vehic",
-      "authors": [],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
