@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-09-17T09:01:12.660Z",
+  "generatedAt": "2026-09-17T14:21:29.158Z",
   "date": "12-09-2026",
   "count": 3,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2609.14306",
+      "title": "Flattening Every Memory Peak in Long-Context Mixture-of-Experts Training",
+      "url": "https://huggingface.co/papers/2609.14306",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-12T20:00:00.000Z",
+      "abstract": "Training a Mixture-of-Experts (MoE) model at long context or large batch size fails as soon as any one component's peak allocation exceeds device memory, so the target is every peak at once, not the a",
+      "authors": [
+        "Shrey Pandit",
+        "Xuan-Phi Nguyen",
+        "Yiran Zhao",
+        "Shafiq Joty"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2609.14320",
       "title": "SpectralShift: Effective Context Window Extension of Gated DeltaNet via Spectral Reparameterization",
@@ -31,32 +58,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.16057",
-      "title": "OmniHarness: Harnessing Generalizable Visual Generation via Symbolic Policy Learning",
-      "url": "https://huggingface.co/papers/2609.16057",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-12T20:00:00.000Z",
-      "abstract": "Unified multimodal large language models (MLLMs) and multi-agent systems have advanced visual generation. However, three limitations remain. (1) Existing methods often distill task-specific experience",
-      "authors": [
-        "Xu Xu",
-        "Jinxiu Liu",
-        "Zhangbo Qiao",
-        "Jiaxing Lu",
-        "Xiangyu Zhang"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "gh_1075372545",
       "title": "msitarzewski/agency-agents — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whi",
       "url": "https://github.com/msitarzewski/agency-agents",
@@ -74,7 +75,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 152976,
+      "stars": 153049,
       "votes": 0,
       "points": 0
     }

@@ -1,9 +1,34 @@
 {
-  "generatedAt": "2026-09-17T09:01:12.660Z",
+  "generatedAt": "2026-09-17T14:21:29.157Z",
   "date": "13-09-2026",
   "count": 3,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2609.15524",
+      "title": "Assessing nnU-Net Generalization across Brain Tumor Populations in BraTS-GoAT 2026",
+      "url": "https://huggingface.co/papers/2609.15524",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-13T20:00:00.000Z",
+      "abstract": "BraTS-GoAT evaluates tumor segmentation across heterogeneous populations. We trained a conventional 3D nnU-Net on 1,351 labeled cases using five-fold cross-validation and 1,000 epochs per fold. The fi",
+      "authors": [
+        "Tristan Kirscher",
+        "Vivian Metzger",
+        "Philippe Meyer",
+        "Xavier Coubez"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2609.15938",
       "title": "HypoEvolve: Genetic Algorithms Enable Multi-Agent LLMs to Discover Scientific Hypotheses",
@@ -53,34 +78,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.16372",
-      "title": "Register Tokens for Bounded-State Reasoning in Diffusion Language Models",
-      "url": "https://huggingface.co/papers/2609.16372",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-13T20:00:00.000Z",
-      "abstract": "Masked diffusion language models (dLLMs) generate text by iteratively denoising masked tokens with bidirectional attention. Extending reasoning across generation chunks normally requires keeping earli",
-      "authors": [
-        "Albert Ge",
-        "Chandan Singh",
-        "Yufan Zhuang",
-        "Xiaodong Liu",
-        "Jianfeng Gao"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
