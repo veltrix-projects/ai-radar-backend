@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-09-16T21:52:52.115Z",
+  "generatedAt": "2026-09-17T09:01:12.660Z",
   "date": "12-09-2026",
   "count": 3,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2609.14320",
+      "title": "SpectralShift: Effective Context Window Extension of Gated DeltaNet via Spectral Reparameterization",
+      "url": "https://huggingface.co/papers/2609.14320",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-12T20:00:00.000Z",
+      "abstract": "Recently, linear attention layers have been increasingly adopted to replace softmax attention at scale for long-context modeling. However, existing context extension approaches typically apply continu",
+      "authors": [
+        "Zian Liu",
+        "Yiwen Hu",
+        "Zican Dong",
+        "Tian Xie",
+        "Wayne Xin Zhao"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2609.16057",
       "title": "OmniHarness: Harnessing Generalizable Visual Generation via Symbolic Policy Learning",
@@ -19,28 +45,6 @@
         "Zhangbo Qiao",
         "Jiaxing Lu",
         "Xiangyu Zhang"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.14803",
-      "title": "Another Blueprint In The Wall: How to Ask Frontier AI Like a Kid?",
-      "url": "https://huggingface.co/papers/2609.14803",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-12T20:00:00.000Z",
-      "abstract": "This paper reports experiments across six frontier model types from OpenAI, Anthropic, xAI, and Google DeepMind. Ten independent sessions per model type used the same three stage prompt sequence, prog",
-      "authors": [
-        "Afshin Khadangi"
       ],
       "tags": [],
       "score": 8,
@@ -70,7 +74,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 152873,
+      "stars": 152976,
       "votes": 0,
       "points": 0
     }

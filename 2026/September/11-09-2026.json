@@ -1,117 +1,9 @@
 {
-  "generatedAt": "2026-09-16T21:52:52.115Z",
+  "generatedAt": "2026-09-17T09:01:12.660Z",
   "date": "11-09-2026",
-  "count": 7,
+  "count": 2,
   "summary": null,
   "items": [
-    {
-      "id": "hf_paper_2609.14011",
-      "title": "Convergent Emergence of In-Context Learning Across Modalities",
-      "url": "https://huggingface.co/papers/2609.14011",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-11T20:00:00.000Z",
-      "abstract": "Few-shot in-context learning (ICL), the capacity of a model to infer abstract patterns from input-output examples provided in its prompt and apply them to new inputs, has been extensively studied in l",
-      "authors": [
-        "Nathan Breslow",
-        "Seungwook Han",
-        "Daniel Hyunsoo Lee",
-        "Aayush Mishra",
-        "Anqi Liu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.14005",
-      "title": "StepAudio 3 Realtime Technical Report",
-      "url": "https://huggingface.co/papers/2609.14005",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-11T20:00:00.000Z",
-      "abstract": "Realtime spoken interaction demands deep reasoning, prompt responses, and fluid turn-taking. We present StepAudio 3 Realtime, an audio-language foundation model organized around a continuous listen-co",
-      "authors": [
-        "Bin Lin",
-        "Bo Zhao",
-        "Boyang Zhang",
-        "Boyong Wu",
-        "Chao Yan"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.13680",
-      "title": "Drift-Constrained Optimization: Only Direction Matters in Fine-Tuning Instruct Models",
-      "url": "https://huggingface.co/papers/2609.13680",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-11T20:00:00.000Z",
-      "abstract": "Fine-tuning instruct models often improves target performance while inducing behavioral drift from the reference model, which can degrade existing capabilities. Rather than treating this drift as an u",
-      "authors": [
-        "Fei Yuan",
-        "Changjiang Gao",
-        "Yilei Tu",
-        "Yifeng Liu",
-        "Shujian Huang"
-      ],
-      "tags": [
-        "fine-tuning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.13770",
-      "title": "Training Specialist Models without Reasoning Trajectories for Domain Expert Distillation",
-      "url": "https://huggingface.co/papers/2609.13770",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-11T20:00:00.000Z",
-      "abstract": "Specialist distillation effectively transfers domain expertise to student models via teacher-generated reasoning trajectories. However, when these specialists are trained solely on question--answer pa",
-      "authors": [
-        "Yilei Tu",
-        "Zihao Li",
-        "Shaoxiong Ji",
-        "Jörg Tiedemann",
-        "Fei Yuan"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fcogni",
       "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
@@ -125,26 +17,6 @@
       "tags": [
         "gpt"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
-      "url": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-09-11T12:00:18.000Z",
-      "abstract": "NVIDIA is using Palantir Foundry and cuOpt to automate its hardware supply chain allocation decisions across global manufacturing sites. The company measures operational delivery from wafer-out to fir",
-      "authors": [],
-      "tags": [],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",

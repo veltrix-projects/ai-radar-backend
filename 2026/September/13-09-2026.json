@@ -1,29 +1,58 @@
 {
-  "generatedAt": "2026-09-16T21:52:52.114Z",
+  "generatedAt": "2026-09-17T09:01:12.660Z",
   "date": "13-09-2026",
-  "count": 5,
+  "count": 3,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2609.14857",
-      "title": "ModularRSI: Modular and Generalizable Recursive Harness Self-Improvement",
-      "url": "https://huggingface.co/papers/2609.14857",
+      "id": "hf_paper_2609.15938",
+      "title": "HypoEvolve: Genetic Algorithms Enable Multi-Agent LLMs to Discover Scientific Hypotheses",
+      "url": "https://huggingface.co/papers/2609.15938",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-13T20:00:00.000Z",
-      "abstract": "Recent work extends recursive self-improvement (RSI) to agent harnesses for long-horizon coding and terminal tasks, enabling agents to improve execution mechanisms from experience. However, generaliza",
+      "abstract": "Scientific agents contribute to hypothesis discovery by synthesizing evidence, assessing proposals, and developing new explanations. Recent systems combine scientific agents with evolutionary search t",
       "authors": [
-        "Siwei Wu",
-        "Jincheng Ren",
-        "Yizhi Li",
-        "Haau-Sing Li",
-        "Chengran Yang"
+        "Jieyuan Liu",
+        "Mengzhou Hu",
+        "Jefferson Chen",
+        "JungHo Kong",
+        "Pratibha Jagannatha"
+      ],
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.15810",
+      "title": "VC-Attention: Value Smoothing and Softmax Casting for Low-bit Attention",
+      "url": "https://huggingface.co/papers/2609.15810",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-13T20:00:00.000Z",
+      "abstract": "Diffusion Transformers deliver state-of-the-art video generation, but their long spatiotemporal sequences make attention the dominant deployment cost, and a deployable low-bit kernel must be accurate",
+      "authors": [
+        "Xingyang Li",
+        "Dongyun Zou",
+        "Shining Zhang",
+        "Jiacheng Chen",
+        "Haocheng Xi"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -31,104 +60,23 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.15195",
-      "title": "HarnessVLN: Unifying Training-Free Embodied Navigation through an Agent Harness",
-      "url": "https://huggingface.co/papers/2609.15195",
+      "id": "hf_paper_2609.16372",
+      "title": "Register Tokens for Bounded-State Reasoning in Diffusion Language Models",
+      "url": "https://huggingface.co/papers/2609.16372",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-13T20:00:00.000Z",
-      "abstract": "Embodied navigation requires agents to interpret visual observations, accumulate spatial knowledge, and execute actions to follow instructions or locate objects. Training-based methods face generaliza",
+      "abstract": "Masked diffusion language models (dLLMs) generate text by iteratively denoising masked tokens with bidirectional attention. Extending reasoning across generation chunks normally requires keeping earli",
       "authors": [
-        "Yang Chen",
-        "Lirong Che",
-        "Zhenyu Huang",
-        "Wenbo Fu",
-        "Chuang Wang"
+        "Albert Ge",
+        "Chandan Singh",
+        "Yufan Zhuang",
+        "Xiaodong Liu",
+        "Jianfeng Gao"
       ],
       "tags": [
-        "agent",
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.16204",
-      "title": "Decoy Direction Optimization: A Post-Hoc Defense Against LLM Abliteration",
-      "url": "https://huggingface.co/papers/2609.16204",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-13T20:00:00.000Z",
-      "abstract": "Safety guardrails in open-weight language models can be readily bypassed using Refusal Feature Ablation (RFA), a technique that identifies and projects out a linear refusal direction from the residual",
-      "authors": [
-        "Aashiq Muhamed",
-        "Mona T. Diab",
-        "Virginia Smith"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.15972",
-      "title": "Mind2Dialogue: Training Human-Aware Language Models by Simulating User Mental States",
-      "url": "https://huggingface.co/papers/2609.15972",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-13T20:00:00.000Z",
-      "abstract": "As language models become more capable, long-term collaboration in learning, reasoning, and decision-making calls for a deeper understanding of the people they serve. Yet training such human-aware lan",
-      "authors": [
-        "Zixuan Wang",
-        "Yufan Zhou",
-        "Jinzhou Tang",
-        "Xinle Yu",
-        "Chengjun Wu"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.15975",
-      "title": "Disentangling Representation Evolution in Transformers through Directional Decomposition",
-      "url": "https://huggingface.co/papers/2609.15975",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-13T20:00:00.000Z",
-      "abstract": "Transformer representations evolve through learned additive transformations that either preserve their current direction or redirect it. We study this evolution as a functional geometry, decomposing l",
-      "authors": [
-        "Shwai He",
-        "Haichao Zhang",
-        "Shen Yan"
-      ],
-      "tags": [
-        "transformer"
+        "diffusion"
       ],
       "score": 6,
       "priority": "MEDIUM",
