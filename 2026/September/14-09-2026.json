@@ -1,9 +1,66 @@
 {
-  "generatedAt": "2026-09-18T02:15:33.235Z",
+  "generatedAt": "2026-09-18T07:30:19.415Z",
   "date": "14-09-2026",
-  "count": 15,
+  "count": 13,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2609.17653",
+      "title": "Reflect, Revise, Reuse: Training-Free Skill Evolution for GUI Agents",
+      "url": "https://huggingface.co/papers/2609.17653",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-14T20:00:00.000Z",
+      "abstract": "GUI agents execute long-horizon tasks on dynamic graphical user interfaces, where pop-ups, delayed loads, and relocated widgets routinely invalidate plans fixed before execution. Recent agent-skill fr",
+      "authors": [
+        "Bofan Chen",
+        "Boxuan Zhang",
+        "Fei Tang",
+        "Zhengxi Lu",
+        "Yong Du"
+      ],
+      "tags": [
+        "agent",
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.16900",
+      "title": "RiskChainBench: A Benchmark for Obfuscated Platform Message Restoration and Evidence-Grounded Web Investigation",
+      "url": "https://huggingface.co/papers/2609.16900",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-14T20:00:00.000Z",
+      "abstract": "Platform abuse campaigns conceal redirection instructions with emojis, homophones, character decomposition, and redundant symbols, then route users through disguised links to services associated with",
+      "authors": [
+        "ZhuoXin Liu",
+        "Zhiming Ma",
+        "Ying Zhang",
+        "Mengzheng Yang",
+        "Yifan Wang"
+      ],
+      "tags": [
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2609.17172",
       "title": "Fingers as Legs: Learning Self-Supported Locomotion and Manipulation with an Anthropomorphic Hand",
@@ -43,114 +100,6 @@
         "Vivek Kalyanarangan"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.17488",
-      "title": "LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence",
-      "url": "https://huggingface.co/papers/2609.17488",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-14T20:00:00.000Z",
-      "abstract": "We introduce LimiX-2, a new model in the LimiX family, developed through model and data scaling guided by our previously established scaling laws. LimiX-2 adopts the Contextual Mechanism Networks (CMN",
-      "authors": [
-        "Xingxuan Zhang",
-        "Gang Ren",
-        "Hao Yuan",
-        "Hao Zou",
-        "Hongze Tan"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.17708",
-      "title": "Confidence Comes from Experience: Experiential Confidence Estimation from Reasoning to Agents",
-      "url": "https://huggingface.co/papers/2609.17708",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-14T20:00:00.000Z",
-      "abstract": "Reliable confidence estimation is increasingly central to the trustworthy deployment of language models: a calibrated estimate of the probability that an output is correct decides what to ship, what t",
-      "authors": [
-        "Caiqi Zhang",
-        "Xiaochen Zhu",
-        "Chengzu Li",
-        "Yulong Chen",
-        "Dharshan Kumaran"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.17909",
-      "title": "Zing-0.5: Toward Playable Worlds with Real-Time Joint Action and Text Control",
-      "url": "https://huggingface.co/papers/2609.17909",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-14T20:00:00.000Z",
-      "abstract": "We introduce Zing-0.5, a 5B autoregressive world model designed for playability: users can explore generated worlds, influence unfolding events, and respond to the resulting feedback through joint key",
-      "authors": [
-        "Mingyang Chen",
-        "Shengdong Chen",
-        "Xiaoxiao Fu",
-        "Bosheng Gong",
-        "Haoyuan Guo"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.17632",
-      "title": "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents",
-      "url": "https://huggingface.co/papers/2609.17632",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-14T20:00:00.000Z",
-      "abstract": "Large language model (LLM) trading agents can combine market data, news, and executable analysis, but their behavior is often controlled by static hand-written tool-use policies that are fixed before",
-      "authors": [
-        "Sehee Kim",
-        "Yumin Choi",
-        "Minki Kang",
-        "Sung Ju Hwang"
-      ],
-      "tags": [
-        "llm",
-        "agent"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
