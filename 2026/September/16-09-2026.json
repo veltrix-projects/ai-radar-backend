@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-21T00:20:17.438Z",
+  "generatedAt": "2026-09-21T10:53:34.139Z",
   "date": "16-09-2026",
-  "count": 25,
+  "count": 21,
   "summary": null,
   "items": [
     {
@@ -51,46 +51,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.19656",
-      "title": "Self-Evolving Search Index",
-      "url": "https://huggingface.co/papers/2609.19656",
+      "id": "hf_paper_2609.18748",
+      "title": "TeleAntiFraud 2.0: A Refreshable, Profile-Grounded, and Audio-Based Benchmark for Telecom Fraud Detection",
+      "url": "https://huggingface.co/papers/2609.18748",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-16T20:00:00.000Z",
-      "abstract": "Information retrieval is increasingly important as LLM agents tackle complex tasks involving diverse information needs. Because retrieval relies on an index that represents each document through index",
+      "abstract": "Telecom fraud scripts evolve rapidly and are often designed to resemble routine service conversations, creating two key requirements for audio-based telecom-fraud evaluation. First, benchmarks must in",
       "authors": [
-        "Sangam Lee",
-        "Wonjae Lee",
-        "Sunghwan Kim",
-        "Deogyong Kim",
-        "Jaehoon Kim"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.19879",
-      "title": "VākQA: A Benchmark and Evaluation Study for Telugu Spoken Factoid Question Answering",
-      "url": "https://huggingface.co/papers/2609.19879",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-16T20:00:00.000Z",
-      "abstract": "Question answering has advanced rapidly with large language models, but predominantly for high-resource languages, in both text and spoken settings. Spoken question answering (SQA) benchmark for Telug",
-      "authors": [
-        "Bhavana Akkiraju",
-        "Ravi Sastry Kolluru",
-        "Sri Charan D",
-        "Srihari Bandarupalli",
-        "Santosh Kesiraju"
+        "Huiyuan Liu",
+        "Zhiming Ma",
+        "Yanxing Liu",
+        "Shun Zhang",
+        "Qifan Wang"
       ],
       "tags": [
         "benchmark"
@@ -105,23 +79,22 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.20715",
-      "title": "Don't Mask the Environment: Observation Supervision Changes How Agents Explore Under RL",
-      "url": "https://huggingface.co/papers/2609.20715",
+      "id": "hf_paper_2609.19122",
+      "title": "Training-Adaptive Convolutional Sparse Coding via Information Bottleneck for Robust Visual Representation",
+      "url": "https://huggingface.co/papers/2609.19122",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-16T20:00:00.000Z",
-      "abstract": "Agent trajectories record what an agent does and what happens next. Yet standard supervised fine-tuning (SFT) applies loss only to agent-authored action tokens, using environment observations as conte",
+      "abstract": "Visual signals require compact yet sufficient representations for robust downstream prediction. Convolutional sparse coding (CSC) provides an explicit mechanism for suppressing redundant components wh",
       "authors": [
-        "Juzheng Zhang",
-        "Disha Makhija",
-        "Manoj Ghuhan Arivazhagan",
-        "Vinayshekhar Bannihatti Kumar",
-        "Rashmi Gangadharaiah"
+        "Meng&#39;en Qin",
+        "Yinchen Liu",
+        "Mingxuan Cui",
+        "Youlu Xing"
       ],
       "tags": [
-        "agent"
+        "training"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -133,20 +106,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.20817",
-      "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
-      "url": "https://huggingface.co/papers/2609.20817",
+      "id": "hf_paper_2609.20816",
+      "title": "Paint-Anything: Unified Any-Color Control for Image Generation and Editing",
+      "url": "https://huggingface.co/papers/2609.20816",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-16T20:00:00.000Z",
-      "abstract": "Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence. Most feed-forward methods infer articulation from a",
+      "abstract": "Professional design requires any-color control: the ability to specify an object's target color with any 24-bit hex value for image generation and editing. Prior work has explored color generation, ed",
       "authors": [
-        "Kevin Qu",
-        "Tao Sun",
-        "Massimiliano Viola",
-        "Liyuan Zhu",
-        "Zhizhuo Zhou"
+        "Ji Xie",
+        "Dewei Zhou",
+        "Xinyu Huang",
+        "Zhennan Chen",
+        "Xun Wang"
       ],
       "tags": [],
       "score": 6,
@@ -159,20 +132,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.20511",
-      "title": "When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation",
-      "url": "https://huggingface.co/papers/2609.20511",
+      "id": "hf_paper_2609.18620",
+      "title": "DeformSmith: Physics Harness-Guided Hierarchical Generation of Deformable Assets for Robot Manipulation",
+      "url": "https://huggingface.co/papers/2609.18620",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-16T20:00:00.000Z",
-      "abstract": "We study length inflation in on-policy distillation (OPD), where student responses can become excessively long and even exhaust the generation budget. We identify termination-token mismatch between ba",
+      "abstract": "Creating deformable assets for robot manipulation requires jointly specifying their geometry, appearance, and physical properties. This is especially challenging for deformable objects, since text and",
       "authors": [
-        "Yuxiao Yang",
-        "Tianrun Yu",
-        "Shangzhe Li",
-        "Kaixiang Zhao",
-        "Xuchao Zhang"
+        "Can Li",
+        "Jie Gu",
+        "Zishun Deng",
+        "Jingmin Chen",
+        "Lei Sun"
       ],
       "tags": [],
       "score": 6,
@@ -185,102 +158,18 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.20423",
-      "title": "WeVisDoc: From Coverage to Capability for Robust End-to-End Document Parsing",
-      "url": "https://huggingface.co/papers/2609.20423",
+      "id": "hf_paper_2609.20942",
+      "title": "When AI Reviews Train AI Reviewers: Scientific-Judgment Collapse and Mitigation",
+      "url": "https://huggingface.co/papers/2609.20942",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-16T20:00:00.000Z",
-      "abstract": "Document parsing converts document images into structured content and requires reliable performance across diverse layouts and acquisition conditions. Yet training corpora are biased toward common doc",
+      "abstract": "Large language models (LLMs) increasingly participate in scientific evaluation, both as automated reviewers and as assistants to human reviewers. As model-generated reviews enter public data and futur",
       "authors": [
-        "Hao Yu",
-        "Kang Liu",
-        "Linnan Zhao",
-        "Jiabo Zhan",
-        "Chong Sun"
-      ],
-      "tags": [
-        "rag"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.20784",
-      "title": "RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2609.20784",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-16T20:00:00.000Z",
-      "abstract": "Multi-turn agents trained with reinforcement learning (RL) receive a single scalar reward per trajectory, which motivates self on-policy distillation (OPD) to supply dense token-level supervision from",
-      "authors": [
-        "Yan Yu",
-        "Zhengxi Lu",
-        "Yizhou Liu",
-        "Yichen Pan",
-        "Aozhe Wang"
-      ],
-      "tags": [
-        "agent",
-        "reinforcement learning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.19671",
-      "title": "When2Think: Learning Difficulty-Aware Length Control for Efficient Hybrid Reasoning Models",
-      "url": "https://huggingface.co/papers/2609.19671",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-16T20:00:00.000Z",
-      "abstract": "Large Reasoning Models (LRMs) achieve strong performance on complex tasks but exhibit systematic inefficiency: they often overthink easy problems and underthink hard ones. Existing approaches based on",
-      "authors": [
-        "Jaejun Shim",
-        "HyunJin Kim",
-        "Young Jin Kim",
-        "JinYeong Bak"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.20612",
-      "title": "What Does Privileged Information Add to On-Policy Self-Distillation?",
-      "url": "https://huggingface.co/papers/2609.20612",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-16T20:00:00.000Z",
-      "abstract": "On-policy self-distillation (OPSD) lets a language model learn from a frozen copy of itself that sees an answer or a worked solution. Giving the teacher this extra information seems to offer the stude",
-      "authors": [
-        "XiuYu Zhang",
-        "Wei Chow",
-        "Junfeng Fang",
-        "Zhenkai Liang",
-        "Tat-Seng Chua"
+        "Sy-Tuyen Ho",
+        "Minghui Liu",
+        "Furong Huang"
       ],
       "tags": [],
       "score": 6,
@@ -293,51 +182,23 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.19969",
-      "title": "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression",
-      "url": "https://huggingface.co/papers/2609.19969",
+      "id": "hf_paper_2609.20669",
+      "title": "Learning Foresight without Explicit Trajectories for 3D Diffusion Policies",
+      "url": "https://huggingface.co/papers/2609.20669",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-16T20:00:00.000Z",
-      "abstract": "The widespread adoption of long-horizon agents has made model workloads increasingly input-heavy. Although prior work has substantially reduced the cost of long-context computation, prefill remains co",
+      "abstract": "3D diffusion policies are strong at generating geometrically grounded actions from current observations, but successful manipulation requires not only knowing what motion is feasible now, but also ant",
       "authors": [
-        "DeepSeek-AI",
-        "Anyi Xu",
-        "B. Li",
-        "Bangcai Lin",
-        "Bing Xue"
+        "Zhongbo Zhang",
+        "Zaibin Zhang",
+        "Yifan Wang",
+        "Changbo Yan",
+        "Lijun Wang"
       ],
       "tags": [
-        "deepseek"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.12397",
-      "title": "UFO: Chain-of-Evaluation for Omni-Condition Alignment in Multi-Modal Image Generation",
-      "url": "https://huggingface.co/papers/2609.12397",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-16T20:00:00.000Z",
-      "abstract": "Multi-modal image generation, particularly subject-driven customization, has garnered growing attention in recent years. Despite the rapid advancement of generative models, their evaluation remains la",
-      "authors": [
-        "Danning Zhang",
-        "Yijing Lin",
-        "Shuhan Zhuang",
-        "Mengqi Huang",
-        "Shaojin Wu"
-      ],
-      "tags": [
-        "alignment"
+        "diffusion"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -349,46 +210,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.20744",
-      "title": "Video DeltaNet: A Video-Native Hybrid Attention for Livestream Video Generation",
-      "url": "https://huggingface.co/papers/2609.20744",
+      "id": "hf_paper_2609.19656",
+      "title": "Self-Evolving Search Index",
+      "url": "https://huggingface.co/papers/2609.19656",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-16T20:00:00.000Z",
-      "abstract": "Video diffusion models repeatedly process long spatiotemporal token sequences during denoising, making attention a major computational bottleneck. Linear attention offers an appealing alternative and",
+      "abstract": "Information retrieval is increasingly important as LLM agents tackle complex tasks involving diverse information needs. Because retrieval relies on an index that represents each document through index",
       "authors": [
-        "Haocheng Xi",
-        "Yiming Xie",
-        "Hexu Zhao",
-        "Yiwen Zhang",
-        "Michael Liu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.20800",
-      "title": "JEPA-Anything: Learning Predictive Models across Different Worlds",
-      "url": "https://huggingface.co/papers/2609.20800",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-16T20:00:00.000Z",
-      "abstract": "World modeling enables intelligence to anticipate consequences, guide interventions, and learn from interaction. Yet predictive models remain domain-specific: can a common learning principle support w",
-      "authors": [
-        "Taoyong Cui",
-        "Zhongyao Wang",
-        "Xinyue Xu",
-        "Weiyang Liu",
-        "Zhaochen Yu"
+        "Sangam Lee",
+        "Wonjae Lee",
+        "Sunghwan Kim",
+        "Deogyong Kim",
+        "Jaehoon Kim"
       ],
       "tags": [],
       "score": 6,
@@ -453,6 +288,26 @@
       "type": "news",
       "timestamp": "2026-09-16T16:00:00.000Z",
       "abstract": "",
+      "authors": [],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "Microsoft AI CEO criticises Anthropic over model ‘rights’",
+      "url": "https://www.artificialintelligence-news.com/news/microsoft-ai-ceo-criticises-anthropic-over-model-rights/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-09-16T14:47:32.000Z",
+      "abstract": "Microsoft AI CEO Mustafa Suleyman warned that Anthropic risks AI alignment failures by training Claude to view itself as a conscious entity deserving of legal rights. Suleyman targeted Anthropic&#8217",
       "authors": [],
       "tags": [],
       "score": 8,
@@ -559,6 +414,28 @@
       "abstract": "",
       "authors": [],
       "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
+      "title": "ChatGPT pioneer launches Jev model for programmatic logic",
+      "url": "https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/",
+      "source": "AI News",
+      "sourceIcon": "🤖",
+      "type": "news",
+      "timestamp": "2026-09-16T10:31:09.000Z",
+      "abstract": "TypeSafe, founded by a ChatGPT co-inventor, has left stealth and is launching its Jev model to automate programmatic decisions with parallel sampling architecture. Software systems requiring automated",
+      "authors": [],
+      "tags": [
+        "gpt"
+      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
