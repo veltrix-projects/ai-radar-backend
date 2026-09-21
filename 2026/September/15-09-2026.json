@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-09-21T10:53:34.139Z",
+  "generatedAt": "2026-09-21T16:42:16.207Z",
   "date": "15-09-2026",
   "count": 12,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2609.19315",
+      "title": "GAVEL: Graph World Models for Verified and Efficient Long-Horizon LLM Task Planning",
+      "url": "https://huggingface.co/papers/2609.19315",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-15T20:00:00.000Z",
+      "abstract": "Large language models (LLMs) provide a flexible interface for long-horizon robot planning, but generated plans often fail to respect embodiment constraints, recover from planning errors, or reason eff",
+      "authors": [
+        "Ruiyang Wang",
+        "Hao-Lun Hsu",
+        "Swarajh Mehta",
+        "Jiwoo Kim",
+        "Zhihao Dou"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2609.18766",
       "title": "FRAUDSkill: Structured Frozen-Weight Skill Optimization for Audio Anti-Fraud Detection",
@@ -21,31 +49,6 @@
         "Shun Zhang"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.19499",
-      "title": "Sample Count Is Not Enough: Candidate-Generation Strategy Shapes the Energy and Performance of LLM Test-Time Scaling",
-      "url": "https://huggingface.co/papers/2609.19499",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-15T20:00:00.000Z",
-      "abstract": "Test-time scaling can improve large language model reasoning by generating and combining multiple candidate responses. In sampling-based methods, the inference budget is often described by the number",
-      "authors": [
-        "Mobina Kashaniyan",
-        "Ali Jannesari"
-      ],
-      "tags": [
-        "llm"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

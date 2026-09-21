@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-21T10:53:34.139Z",
+  "generatedAt": "2026-09-21T16:42:16.206Z",
   "date": "16-09-2026",
-  "count": 21,
+  "count": 20,
   "summary": null,
   "items": [
     {
@@ -44,6 +44,83 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.20633",
+      "title": "Refinement Is Inherently Editable: Training-Free Prompt-to-Prompt Image Editing with Generative Refinement Network",
+      "url": "https://huggingface.co/papers/2609.20633",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-16T20:00:00.000Z",
+      "abstract": "Text-guided image editing must introduce the requested changes while preserving unrelated source content. Diffusion-based editors rely on spatial controls whose inaccuracies can leave edits incomplete",
+      "authors": [
+        "Yulong Chen",
+        "Ziqian Zhang",
+        "Haoyu Zhang",
+        "Ao He",
+        "Senmao Li"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.21038",
+      "title": "Retention-Constrained Post-Training Quantization of Cellpose-SAM for Stem Cell Microscopy",
+      "url": "https://huggingface.co/papers/2609.21038",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-16T20:00:00.000Z",
+      "abstract": "Induced pluripotent stem cell (iPSC) culture increasingly relies on segmentation foundation models, yet deployment on laboratory CPUs and edge hardware requires compression schemes that are both effic",
+      "authors": [
+        "Sebastián A. Cruz Romero"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.21094",
+      "title": "Geometry of Values: Task Vector Composition for Ethical Preference Alignment in Language Models",
+      "url": "https://huggingface.co/papers/2609.21094",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-16T20:00:00.000Z",
+      "abstract": "Large Language Models (LLMs) are increasingly deployed in applications that must weigh clashing moral values, yet even strong models exhibit hidden biases and brittle instruction-following across lang",
+      "authors": [
+        "Utkarsh Agarwal",
+        "Monojit Choudhury"
+      ],
+      "tags": [
+        "alignment"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -146,84 +223,6 @@
         "Zishun Deng",
         "Jingmin Chen",
         "Lei Sun"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.20942",
-      "title": "When AI Reviews Train AI Reviewers: Scientific-Judgment Collapse and Mitigation",
-      "url": "https://huggingface.co/papers/2609.20942",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-16T20:00:00.000Z",
-      "abstract": "Large language models (LLMs) increasingly participate in scientific evaluation, both as automated reviewers and as assistants to human reviewers. As model-generated reviews enter public data and futur",
-      "authors": [
-        "Sy-Tuyen Ho",
-        "Minghui Liu",
-        "Furong Huang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.20669",
-      "title": "Learning Foresight without Explicit Trajectories for 3D Diffusion Policies",
-      "url": "https://huggingface.co/papers/2609.20669",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-16T20:00:00.000Z",
-      "abstract": "3D diffusion policies are strong at generating geometrically grounded actions from current observations, but successful manipulation requires not only knowing what motion is feasible now, but also ant",
-      "authors": [
-        "Zhongbo Zhang",
-        "Zaibin Zhang",
-        "Yifan Wang",
-        "Changbo Yan",
-        "Lijun Wang"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.19656",
-      "title": "Self-Evolving Search Index",
-      "url": "https://huggingface.co/papers/2609.19656",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-16T20:00:00.000Z",
-      "abstract": "Information retrieval is increasingly important as LLM agents tackle complex tasks involving diverse information needs. Because retrieval relies on an index that represents each document through index",
-      "authors": [
-        "Sangam Lee",
-        "Wonjae Lee",
-        "Sunghwan Kim",
-        "Deogyong Kim",
-        "Jaehoon Kim"
       ],
       "tags": [],
       "score": 6,
@@ -439,26 +438,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fhackers-",
-      "title": "Hackers Stole Flock’s Camera Software, Revealing How the Company Tracks Cars and People",
-      "url": "https://www.404media.co/hackers-stole-flocks-camera-software-revealing-how-the-company-tracks-cars-and-people-2/",
-      "source": "404 Media",
-      "sourceIcon": "📡",
-      "type": "news",
-      "timestamp": "2026-09-16T10:30:35.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
