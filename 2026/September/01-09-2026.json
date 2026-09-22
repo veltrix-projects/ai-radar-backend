@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-09-22T02:28:27.975Z",
+  "generatedAt": "2026-09-22T07:52:15.229Z",
   "date": "01-09-2026",
-  "count": 2,
+  "count": 3,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2609.22220",
+      "title": "Measuring the Checker: Mutation Analysis for GPU-Kernel Benchmark Oracles",
+      "url": "https://huggingface.co/papers/2609.22220",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-01T20:00:00.000Z",
+      "abstract": "Benchmarks for LLM-generated GPU kernels decide correctness with a few random inputs and a loose floating-point tolerance, and their verdicts now feed leaderboards and reinforcement-learning rewards.",
+      "authors": [
+        "Mingzhe Du",
+        "Anh Tuan Luu",
+        "Dong Huang",
+        "See-Kiong Ng"
+      ],
+      "tags": [
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Fm",
       "title": "Mapping global methane emissions from space with deep learning",
