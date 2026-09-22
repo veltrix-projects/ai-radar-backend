@@ -1,41 +1,24 @@
 {
-  "generatedAt": "2026-09-22T07:52:15.225Z",
+  "generatedAt": "2026-09-22T17:28:39.907Z",
   "date": "14-09-2026",
-  "count": 3,
+  "count": 2,
   "summary": null,
   "items": [
     {
-      "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
-      "title": "The AI industry has taken a doomer turn. What now?",
-      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-      "source": "MIT Tech Review",
-      "sourceIcon": "🏛️",
+      "id": "hf_paper_2609.20869",
+      "title": "TAPe+ML: A Compact Structured Representation for Multi-Task Computer Vision",
+      "url": "https://huggingface.co/papers/2609.20869",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-09-14T17:54:22.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
-      "title": "AI agents blew the whistle on their cheating colleagues",
-      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-      "source": "MIT Tech Review",
-      "sourceIcon": "🏛️",
-      "type": "research",
-      "timestamp": "2026-09-14T16:00:00.000Z",
-      "abstract": "",
-      "authors": [],
+      "timestamp": "2026-09-14T20:00:00.000Z",
+      "abstract": "We present TAPe+ML v3, a compact computer vision system based on TAPe (Theory of Active Perception), a structured representation that encodes relations among perceptual elements before recognition. In",
+      "authors": [
+        "Sergey Kurinov",
+        "Alexey Upatov"
+      ],
       "tags": [
-        "agent"
+        "computer vision"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -73,7 +56,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 143905,
+      "stars": 144259,
       "votes": 0,
       "points": 0
     }
