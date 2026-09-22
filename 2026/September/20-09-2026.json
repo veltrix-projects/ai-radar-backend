@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T17:28:39.905Z",
+  "generatedAt": "2026-09-22T20:22:29.064Z",
   "date": "20-09-2026",
   "count": 13,
   "summary": null,
@@ -36,6 +36,35 @@
       "authors": [],
       "tags": [
         "gemini"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.23989",
+      "title": "ACLArena: Agent Continue Learning in Multi-stage Post-training",
+      "url": "https://huggingface.co/papers/2609.23989",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-20T20:00:00.000Z",
+      "abstract": "Building general-purpose agents for industrial deployment requires integrating multiple capabilities, each typically acquired at a distinct stage of training. Yet there is currently no well-establishe",
+      "authors": [
+        "Haixin Wang",
+        "Xiaoxuan Wang",
+        "Junkai Zhang",
+        "Han Zhang",
+        "Renliang Sun"
+      ],
+      "tags": [
+        "agent",
+        "training"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -279,36 +308,6 @@
       "downloads": 0,
       "likes": 0,
       "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "gh_1073224795",
-      "title": "obra/superpowers — An agentic skills framework & software development methodology that works.",
-      "url": "https://github.com/obra/superpowers",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-09-20T17:43:04Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "ai",
-        "brainstorming",
-        "coding",
-        "obra",
-        "sdlc",
-        "skills",
-        "subagent-driven-development",
-        "superpowers",
-        "Shell"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 290104,
       "votes": 0,
       "points": 0
     },
