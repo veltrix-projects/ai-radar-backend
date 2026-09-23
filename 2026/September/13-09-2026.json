@@ -1,53 +1,26 @@
 {
-  "generatedAt": "2026-09-22T02:28:27.972Z",
+  "generatedAt": "2026-09-23T06:59:41.688Z",
   "date": "13-09-2026",
-  "count": 2,
+  "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2609.16251",
-      "title": "CADWorld: Computer-Use Benchmark for Long-Horizon Computer-Aided Design",
-      "url": "https://huggingface.co/papers/2609.16251",
+      "id": "hf_paper_2609.15987",
+      "title": "Bellman Policy Optimization",
+      "url": "https://huggingface.co/papers/2609.15987",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-13T20:00:00.000Z",
-      "abstract": "Computer-use agents are increasingly evaluated in realistic desktop environments, but existing benchmarks provide limited coverage of professional engineering workflows whose outputs are persistent, s",
+      "abstract": "Reinforcement learning with verifiable rewards (RLVR) improves the reasoning capabilities of large language models (LLMs). We introduce Bellman Policy Optimization (BPO), a critic-free method derived",
       "authors": [
-        "Zihan Dong",
-        "Yuanzhe Liu",
-        "Zhiyuan Ma",
-        "Qishi Zhan",
-        "Dehan Kong"
+        "Zhuoqing Song",
+        "Haotian Xu",
+        "Xikun Zhang",
+        "Lidong Bing"
       ],
       "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.15126",
-      "title": "MoME: Mixture-of-Memory Embeddings for Context-Aware Sparse Lookup",
-      "url": "https://huggingface.co/papers/2609.15126",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-13T20:00:00.000Z",
-      "abstract": "Scaling large language models efficiently has motivated sparse capacity mechanisms such as Mixture-of-Experts and, more recently, conditional memory: token-indexed embedding tables that augment the ba",
-      "authors": [
-        "Muchen Li",
-        "Leonid Sigal",
-        "Renjie Liao"
-      ],
-      "tags": [
-        "embeddings"
+        "llm"
       ],
       "score": 6,
       "priority": "MEDIUM",
