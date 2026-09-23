@@ -1,9 +1,62 @@
 {
-  "generatedAt": "2026-09-23T06:59:41.614Z",
+  "generatedAt": "2026-09-23T12:37:46.378Z",
   "date": "20-09-2026",
-  "count": 9,
+  "count": 10,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2609.25267",
+      "title": "ImIR: Image-Instruction Tuning for All-in-One Image Restoration",
+      "url": "https://huggingface.co/papers/2609.25267",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-20T20:00:00.000Z",
+      "abstract": "Degradations vary widely across images, so a practical restoration system has to handle many degradation types with one model. A recent and effective recipe adapts a large pretrained image-editing mod",
+      "authors": [
+        "Süleyman Aslan",
+        "Görkay Aydemir",
+        "Mısra Yavuz",
+        "Yunus Bilge Kurt",
+        "Nasrin Rahimi"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.24967",
+      "title": "Emergent Collusion in Long-Horizon LLM Agent Interaction",
+      "url": "https://huggingface.co/papers/2609.24967",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-20T20:00:00.000Z",
+      "abstract": "LLM agents are increasingly deployed in collaborative settings, yet long-term interaction may give rise to undesirable coordination. We study the emergence of collusion in a long-horizon multi-agent e",
+      "authors": [
+        "Xinrui Shi",
+        "Yanzhe Zhang",
+        "Diyi Yang"
+      ],
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2609.25199",
       "title": "Lean Pool: An AI-Maintained Archive of Formalized Mathematics",
@@ -195,35 +248,6 @@
         "Han Peng"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.23989",
-      "title": "ACLArena: Agent Continue Learning in Multi-stage Post-training",
-      "url": "https://huggingface.co/papers/2609.23989",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-20T20:00:00.000Z",
-      "abstract": "Building general-purpose agents for industrial deployment requires integrating multiple capabilities, each typically acquired at a distinct stage of training. Yet there is currently no well-establishe",
-      "authors": [
-        "Haixin Wang",
-        "Xiaoxuan Wang",
-        "Junkai Zhang",
-        "Han Zhang",
-        "Renliang Sun"
-      ],
-      "tags": [
-        "agent",
-        "training"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
