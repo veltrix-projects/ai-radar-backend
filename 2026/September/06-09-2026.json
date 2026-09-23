@@ -1,28 +1,25 @@
 {
-  "generatedAt": "2026-09-16T15:04:55.165Z",
+  "generatedAt": "2026-09-23T17:35:28.405Z",
   "date": "06-09-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2609.06986",
-      "title": "Continual Learning Mechanisms Compose for Long-Horizon Memorization",
-      "url": "https://huggingface.co/papers/2609.06986",
+      "id": "hf_paper_2609.25053",
+      "title": "LatentPort: Beyond KV Cache - Cross-Model Transfer of Recurrent Memory in Hybrid Language Models: A 4B-to-9B Hybrid-State Handoff Without Target Prefix Replay",
+      "url": "https://huggingface.co/papers/2609.25053",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-06T20:00:00.000Z",
-      "abstract": "Language models may need to internalize information that arrives over time and retain it through many subsequent updates. To study this challenge, we introduce long-horizon memorization, a setting in",
+      "abstract": "Can one language model hand its live memory to another without the receiver rereading the context? We demonstrate useful persistent hybrid-state transfer across one architecture-matched Qwen3.5 4B-to-",
       "authors": [
-        "Zheyuan Zhang",
-        "Alvin Zhang",
-        "Daniel Khashabi",
-        "Tianmin Shu"
+        "Simon P. Villani"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
