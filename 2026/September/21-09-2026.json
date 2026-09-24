@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-24T01:32:01.516Z",
+  "generatedAt": "2026-09-24T17:27:19.750Z",
   "date": "21-09-2026",
-  "count": 17,
+  "count": 16,
   "summary": null,
   "items": [
     {
@@ -25,91 +25,18 @@
       "points": 0
     },
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "AWS Strands Agents Team Releases Strands Harness: An Open-Source Agent Harness With 28% Lower Token Cost at Comparable Accuracy",
-      "url": "https://www.marktechpost.com/2026/09/21/aws-strands-agents-team-releases-strands-harness/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-09-21T21:42:14.000Z",
-      "abstract": "Many developers find that an agent idea works inside Claude Code or Codex, then struggles once they rebuild it with their own loop. The Strands Agents team at AWS is targeting that gap with Strands ha",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
-      "title": "How to Evaluate AI Agents From Tool Calls to Task Completion",
-      "url": "https://developer.nvidia.com/blog/how-to-evaluate-ai-agents-from-tool-calls-to-task-completion/",
-      "source": "NVIDIA Blog",
-      "sourceIcon": "🟩",
-      "type": "tool",
-      "timestamp": "2026-09-21T21:05:28.000Z",
-      "abstract": "When you ship an AI agent, the key question is whether it can execute a chain of work across dozens of sequential tool calls against a live environment, and...]]>",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.26781",
-      "title": "Agensh: Scaling Organizational Intelligence to 1,024 Agents",
-      "url": "https://huggingface.co/papers/2609.26781",
+      "id": "hf_paper_2609.27158",
+      "title": "The Linear Representation Hypothesis Needs a Group Action",
+      "url": "https://huggingface.co/papers/2609.27158",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-21T20:00:00.000Z",
-      "abstract": "A multi-agent system can reduce latency on complex tasks by executing work concurrently. Several pioneering harness frameworks support multi-agent systems. However, the scalability of current multi-ag",
+      "abstract": "To make claims about representations that generalize beyond a particular trained model, we need to specify when two representations should count as equivalent. The Linear Representation Hypothesis is",
       "authors": [
-        "Zhihao Zhan",
-        "Ting Song",
-        "Li Dong",
-        "Shaohan Huang",
-        "Jianxun Lian"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.26550",
-      "title": "JEV-as-a-Judge: Accept When Confident, Escalate When Unsure",
-      "url": "https://huggingface.co/papers/2609.26550",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-21T20:00:00.000Z",
-      "abstract": "LLM-as-a-judge enables evaluation across diverse tasks, but inference cost and confidence reliability become critical at scale. We study whether a decision-only judge can provide an economical first p",
-      "authors": [
-        "Yubo Li",
-        "Yidi Miao",
-        "Ramayya Krishnan",
-        "Rema Padman"
+        "Louie Hong Yao",
+        "Yuhao Li",
+        "Shengchao Liu"
       ],
       "tags": [],
       "score": 6,
@@ -122,48 +49,17 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.25636",
-      "title": "RoboFollow: Unveiling the Instruction Following Mirage in Embodied Agents",
-      "url": "https://huggingface.co/papers/2609.25636",
+      "id": "hf_paper_2609.26634",
+      "title": "Knowledge Pull Requests for Continual Document Authoring",
+      "url": "https://huggingface.co/papers/2609.26634",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-21T20:00:00.000Z",
-      "abstract": "Modern embodied agents achieve impressive success rates, yet their actual instruction-following ability is far weaker than these numbers suggest. We trace this illusion to a structural property we ter",
+      "abstract": "We introduce Knowledge Pull Requests (KPRs), a framework for continual document authoring that makes each change interpretable. Documents require ongoing revision as new knowledge surfaces from other",
       "authors": [
-        "Chang Guo",
-        "Yukun Xie",
-        "Bohan Tan",
-        "Zheng Chang",
-        "Zhaokai Yin"
-      ],
-      "tags": [
-        "rag",
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.26346",
-      "title": "Blaming Across the Aisle: Political Contrasting and Blame Attribution in the Danish Parliament",
-      "url": "https://huggingface.co/papers/2609.26346",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-21T20:00:00.000Z",
-      "abstract": "Political discourse is widely perceived to be growing more hostile, yet robust evidence remains scarce. This study examines blame attribution in the Danish Parliament from 1997 to 2026, combining a pu",
-      "authors": [
-        "Markus Lundsfryd Jensen",
-        "Rune Egeskov Trust",
-        "Kenneth Christian Enevoldsen",
-        "Sara Kolding"
+        "Alexander Martin",
+        "Benjamin Van Durme"
       ],
       "tags": [],
       "score": 6,
@@ -176,23 +72,46 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.25804",
-      "title": "The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks",
-      "url": "https://huggingface.co/papers/2609.25804",
+      "id": "hf_paper_2609.26637",
+      "title": "Capable yet Parsimonious: Extracting and Characterizing Hidden Chain-of-Thought in Frontier Models",
+      "url": "https://huggingface.co/papers/2609.26637",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-21T20:00:00.000Z",
-      "abstract": "LLM agents increasingly work on long-horizon tasks, and the decisions they make along the way, such as which hypothesis to test or which implementation to build on, determine the outcome of the whole",
+      "abstract": "The rapid capability gains of frontier language models are widely attributed to improved reasoning abilities, yet this cannot be verified as raw CoT traces in closed-source systems are hidden. By regi",
       "authors": [
-        "Wenbo Pan",
-        "Zhichao Liu",
-        "Shujie Liu",
-        "Jingying Zeng",
-        "Chin-Yew Lin"
+        "Xiaoyu Luo",
+        "Tao Ren",
+        "Wenrui Yu",
+        "Xiao Li",
+        "Qiongxiu Li"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.26489",
+      "title": "Calibration as a First-Class Criterion in LLM Evaluation",
+      "url": "https://huggingface.co/papers/2609.26489",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-21T20:00:00.000Z",
+      "abstract": "Calibration of language models -- the alignment between expressed or implicit confidence and empirical correctness -- is a well-studied subfield within NLP. Methods to measure it already exist. The pr",
+      "authors": [
+        "Mario Sanz-Guerrero",
+        "Katharina von der Wense"
       ],
       "tags": [
-        "agent"
+        "llm"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -204,24 +123,75 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.26774",
-      "title": "StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training",
-      "url": "https://huggingface.co/papers/2609.26774",
+      "id": "hf_paper_2609.25963",
+      "title": "GeoPair: Geometry-Preserving Cross-Layer Factorization for Training-Free Transformer Compression",
+      "url": "https://huggingface.co/papers/2609.25963",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-21T20:00:00.000Z",
-      "abstract": "Vector Quantization (VQ) is fundamental to discrete visual tokenizers that power modern autoregressive and masked image generation models. While recent shared-projection codebook methods have substant",
+      "abstract": "Transformer architectures exhibit cross-layer redundancies, yet post-training compression pipelines typically optimize layers in isolation or rely on heuristic grouping strategies that disregard layer",
       "authors": [
-        "Bao Tang",
-        "Jiahao Guo",
-        "Haoxiang Cao",
-        "Wenyu Liu",
-        "Changqian Yu"
+        "Baher Mohammad",
+        "Ammar Ali",
+        "Stamatios Lefkimmiatis"
       ],
       "tags": [
+        "transformer",
         "training"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.25853",
+      "title": "MemoryAthena: Adaptive Routing over Latent and Generated Memories",
+      "url": "https://huggingface.co/papers/2609.25853",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-21T20:00:00.000Z",
+      "abstract": "Learned-memory methods store information in an explicit table and consume it through a separate reader, allowing addressing, storage, and reading to be modified independently. We study whether useful",
+      "authors": [
+        "Mingyuan Li",
+        "Guangsheng Yu",
+        "Juyuan Zhang",
+        "Xu Wang",
+        "Zhibo Man"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.26780",
+      "title": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",
+      "url": "https://huggingface.co/papers/2609.26780",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-21T20:00:00.000Z",
+      "abstract": "Long-term conversational memory in multi-party settings requires more than retrieving relevant content from long-term conversations: it must distinguish who said what, whom each statement concerns, ho",
+      "authors": [
+        "Haobo Zheng",
+        "Tan Tang",
+        "Yan Chen",
+        "Weijie Wang",
+        "Yingcai Wu"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
