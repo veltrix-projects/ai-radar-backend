@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-09-24T23:40:57.963Z",
+  "generatedAt": "2026-09-25T08:20:35.121Z",
   "date": "18-09-2026",
   "count": 6,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2609.23087",
+      "title": "Neural Spectral Capacity: Measuring and Designing Architectures from Network Specification Alone",
+      "url": "https://huggingface.co/papers/2609.23087",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-18T20:00:00.000Z",
+      "abstract": "Modern Transformer design and compression both reduce to allocating capacity under a budget. The standard scalars for these decisions, #Params and #FLOPs, capture size and compute but not architectura",
+      "authors": [
+        "Chenyu Zhu",
+        "Ruoyu Zhao",
+        "Zhichao Lu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2609.22682",
       "title": "Self-Organizing Agent Teams Learn to Reason Together",
@@ -23,32 +47,6 @@
       "tags": [
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.23038",
-      "title": "Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World",
-      "url": "https://huggingface.co/papers/2609.23038",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-18T20:00:00.000Z",
-      "abstract": "Spatial reasoning is essential for vision-language models (VLMs) to understand and act in the physical world. Reasoning in dynamic environments requires VLMs to perceive local state transitions caused",
-      "authors": [
-        "Kaixiang Yao",
-        "Xu Wang",
-        "Miao Pan",
-        "Hu Xiyue",
-        "Weishi Wang"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-24T23:40:57.961Z",
+  "generatedAt": "2026-09-25T08:20:35.120Z",
   "date": "21-09-2026",
-  "count": 14,
+  "count": 12,
   "summary": null,
   "items": [
     {
@@ -113,59 +113,6 @@
       "tags": [
         "llm"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.25963",
-      "title": "GeoPair: Geometry-Preserving Cross-Layer Factorization for Training-Free Transformer Compression",
-      "url": "https://huggingface.co/papers/2609.25963",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-21T20:00:00.000Z",
-      "abstract": "Transformer architectures exhibit cross-layer redundancies, yet post-training compression pipelines typically optimize layers in isolation or rely on heuristic grouping strategies that disregard layer",
-      "authors": [
-        "Baher Mohammad",
-        "Ammar Ali",
-        "Stamatios Lefkimmiatis"
-      ],
-      "tags": [
-        "transformer",
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.25853",
-      "title": "MemoryAthena: Adaptive Routing over Latent and Generated Memories",
-      "url": "https://huggingface.co/papers/2609.25853",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-21T20:00:00.000Z",
-      "abstract": "Learned-memory methods store information in an explicit table and consume it through a separate reader, allowing addressing, storage, and reading to be modified independently. We study whether useful",
-      "authors": [
-        "Mingyuan Li",
-        "Guangsheng Yu",
-        "Juyuan Zhang",
-        "Xu Wang",
-        "Zhibo Man"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

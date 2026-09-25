@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-09-11T06:14:44.436Z",
+  "generatedAt": "2026-09-25T08:20:35.130Z",
   "date": "28-08-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2608.12564",
-      "title": "Scaling Automatic Research Agents via World Models",
-      "url": "https://huggingface.co/papers/2608.12564",
+      "id": "hf_paper_2609.29647",
+      "title": "AgentKernel: The Trust-Native Agentic Operating System",
+      "url": "https://huggingface.co/papers/2609.29647",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-08-28T20:00:00.000Z",
-      "abstract": "Automating empirical research is a long-standing direction of AI. Recent automatic research (AutoResearch) agents bring this goal within reach, as modern LLMs show the capability to independently impl",
+      "abstract": "Modern AI agents routinely cross trust boundaries: they ingest untrusted content, combine it with privileged instructions, persist intermediate beliefs in long-term memory, and invoke privileged tools",
       "authors": [
-        "Xiyuan Yang",
-        "Sheikh Sarwar",
-        "Jingru Cheng",
-        "Zhan Shi",
-        "Duanshun Li"
+        "Zhenhua Zou",
+        "Sheng Guo",
+        "Qiuyang Zhan",
+        "Lepeng Zhao",
+        "Shuo Li"
       ],
       "tags": [
         "agent"
