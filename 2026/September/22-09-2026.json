@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-09-25T08:20:35.119Z",
+  "generatedAt": "2026-09-25T13:59:18.561Z",
   "date": "22-09-2026",
   "count": 20,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2609.28811",
+      "title": "DeltaWAM: Delta World Action Models for Bimanual Manipulation",
+      "url": "https://huggingface.co/papers/2609.28811",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-22T20:00:00.000Z",
+      "abstract": "World-action models (WAMs) transfer visual and motion priors from pretrained video generators to robot control by jointly modeling visual dynamics and actions. Existing WAMs, however, predict dense fu",
+      "authors": [
+        "Han Yan",
+        "Zishang Xiang",
+        "Haokai Jiang",
+        "Zeyu Zhang",
+        "Qilin Wang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2609.28654",
       "title": "Training Object Permanence in World Models",
@@ -52,29 +78,6 @@
         "llm",
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.27657",
-      "title": "FLEET: From Logits Entropy to Enhanced Trajectories in Text Generation",
-      "url": "https://huggingface.co/papers/2609.27657",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-22T20:00:00.000Z",
-      "abstract": "Solutions based on large language models (LLMs) often rely on temperature sampling to improve accuracy and stability by aggregating multiple samples from the completion distribution. However, this mem",
-      "authors": [
-        "Oleksii Streltsov",
-        "Oleksandra Vitko"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -429,7 +432,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 158863,
+      "stars": 158869,
       "votes": 0,
       "points": 0
     },
@@ -451,7 +454,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 154547,
+      "stars": 154573,
       "votes": 0,
       "points": 0
     }
