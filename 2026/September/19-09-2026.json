@@ -1,27 +1,101 @@
 {
-  "generatedAt": "2026-09-28T01:54:11.293Z",
+  "generatedAt": "2026-09-28T16:31:13.550Z",
   "date": "19-09-2026",
-  "count": 1,
+  "count": 4,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2609.23407",
-      "title": "OmniEcho: Spatial Audio Understanding for Embodied Agents",
-      "url": "https://huggingface.co/papers/2609.23407",
+      "id": "hf_paper_2604.02103",
+      "title": "BoundInk: Boundary-Aware Online Handwriting Generation",
+      "url": "https://huggingface.co/papers/2604.02103",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-19T20:00:00.000Z",
-      "abstract": "Humans can effortlessly localize the direction of a sound source and integrate it with visual cues for reasoning, yet this remains challenging for embodied agents. In particular, it is still unclear h",
+      "abstract": "Realistic online handwriting depends not only on individual character shapes, but also on how a writer connects, spaces, and aligns adjacent characters. Existing methods rely primarily on long-range s",
       "authors": [
-        "Ruixun Liu",
-        "Yuxuan Wang",
-        "Jiacheng Xie",
-        "Yuhuan You",
-        "Donghua Cai"
+        "Jinsu Shin",
+        "Sungeun Hong",
+        "JinYeong Bak"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.23551",
+      "title": "Paragraph Boundaries Are Not White Space:Compression Depth as the Signature of Hierarchical Structure",
+      "url": "https://huggingface.co/papers/2609.23551",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-19T20:00:00.000Z",
+      "abstract": "Standard positional encodings represent position as a one-dimensional reading-order coordinate, but reading order alone does not determine hierarchical textual structure. We use a hierarchical rotary",
+      "authors": [
+        "Shuyang Xiang"
       ],
       "tags": [
-        "agent"
+        "rag"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2601.06352",
+      "title": "CARD: Cluster-level Adaptation with Reward-guided Decoding for Personalized Text Generation",
+      "url": "https://huggingface.co/papers/2601.06352",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-19T20:00:00.000Z",
+      "abstract": "Adapting large language models to individual users remains challenging due to the tension between fine-grained personalization and scalable deployment. We present CARD, a hierarchical framework that a",
+      "authors": [
+        "Yutong Song",
+        "Jiang Wu",
+        "Weijia Zhang",
+        "Chengze Shen",
+        "Shaofan Yuan"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2601.06362",
+      "title": "Do Implicit Personalization and Explicit Styles Conflict? PsPLUG: A Lightweight Plug-in for Balancing Personalization and Style in Customized LLMs",
+      "url": "https://huggingface.co/papers/2601.06362",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-19T20:00:00.000Z",
+      "abstract": "Personalized large language models are often expected to follow explicit style instructions, yet we find that such instructions can undermine the user-specific characteristics that personalization met",
+      "authors": [
+        "Yutong Song",
+        "Jiang Wu",
+        "Shaofan Yuan",
+        "Chengze Shen",
+        "Jian Wang"
+      ],
+      "tags": [
+        "llm"
       ],
       "score": 6,
       "priority": "MEDIUM",

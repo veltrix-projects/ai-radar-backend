@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-09-28T01:54:11.295Z",
+  "generatedAt": "2026-09-28T16:31:13.552Z",
   "date": "15-09-2026",
-  "count": 2,
+  "count": 3,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2609.18703",
+      "title": "RayOrch: Programming and Executing Lineage-Controlled Multi-Grain Dataflows for Foundation-Model Data Preparation",
+      "url": "https://huggingface.co/papers/2609.18703",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-15T20:00:00.000Z",
+      "abstract": "Preparing high quality training data for foundation models requires scalable pipelines that transform heterogeneous documents and videos into structured records. Such pipelines expand each parent item",
+      "authors": [
+        "Xiaochen Ma",
+        "Zimo Meng",
+        "Junzhu Liang",
+        "Youhe Jiang",
+        "Yue Cheng"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Fb",
       "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
