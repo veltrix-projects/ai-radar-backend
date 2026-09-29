@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-29T08:47:23.110Z",
+  "generatedAt": "2026-09-29T15:13:57.920Z",
   "date": "25-09-2026",
-  "count": 10,
+  "count": 14,
   "summary": null,
   "items": [
     {
@@ -25,23 +25,133 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.32241",
-      "title": "Residual Transferability in Neural Image Watermarking",
-      "url": "https://huggingface.co/papers/2609.32241",
+      "id": "hf_paper_2609.32146",
+      "title": "Playing to Par: Reinforcement Learning for Provably Optimal Quadrilateral Block Decompositions",
+      "url": "https://huggingface.co/papers/2609.32146",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-25T20:00:00.000Z",
-      "abstract": "Neural image watermarks can be forged by extracting watermark-bearing residuals from released images and transferring them to unrelated content. While prior work has demonstrated this vulnerability, w",
+      "abstract": "A quadrilateral block decomposition of a planar domain is judged by whether it is complete, whether its elements are well shaped, and how many of its vertices are irregular. The last has a provable fl",
       "authors": [
-        "Ziping Dong",
-        "Qi Li",
-        "Xinchao Wang"
+        "Arjun Narayanan",
+        "Per-Olof Persson"
       ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "tags": [
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.32577",
+      "title": "Groupwise Agentic Grading and Advantage Redistribution for Code Agent RL",
+      "url": "https://huggingface.co/papers/2609.32577",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-25T20:00:00.000Z",
+      "abstract": "Reinforcement learning (RL) for code agents often uses executable tests to provide binary rewards. With these rewards, Group Relative Policy Optimization (GRPO) assigns identical advantages to test-pa",
+      "authors": [
+        "Jinhao Dong",
+        "Liang Zhao",
+        "Zihao Yue",
+        "Wenhan Ma",
+        "Linghao Zhang"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.32965",
+      "title": "Relic: From Multi-Agent Collaboration to Persistent Organizational Capability",
+      "url": "https://huggingface.co/papers/2609.32965",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-25T20:00:00.000Z",
+      "abstract": "Multiple agents may often conflict in an organization: for example, one coding agent changes an interface in a repository, but another continues to develop on the old version where existing tests beco",
+      "authors": [
+        "Hongyi Du",
+        "Tianyi Zhang",
+        "Weijia Zhang",
+        "Yi Yang",
+        "Haofei Yu"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.32814",
+      "title": "Change the Product, Keep the Parameters: Associative Algebra Layers for Transformers",
+      "url": "https://huggingface.co/papers/2609.32814",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-25T20:00:00.000Z",
+      "abstract": "Fast matrix multiplication algorithms keep the product fixed and search for a cheaper way to evaluate it. We instead ask whether a Transformer's learned projections can use a different, cheaper produc",
+      "authors": [
+        "Ilya Koziev",
+        "Ivan Oseledets"
+      ],
+      "tags": [
+        "transformer"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.32540",
+      "title": "In-Flight KV Cache with Clean Anchors for Faster Autoregressive Video Diffusion",
+      "url": "https://huggingface.co/papers/2609.32540",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-25T20:00:00.000Z",
+      "abstract": "Few-step autoregressive video diffusion generates a long video by splitting the video into temporal chunks and generating chunk-by-chunk, each through a short sequence of denoising stages. To memorize",
+      "authors": [
+        "Yikai Wang",
+        "Xiao Han",
+        "Mengmeng Xu",
+        "Juan Camilo Perez",
+        "Yiannis Douratsos"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

@@ -1,27 +1,22 @@
 {
-  "generatedAt": "2026-09-24T01:32:01.521Z",
+  "generatedAt": "2026-09-29T15:13:57.925Z",
   "date": "13-09-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2609.15987",
-      "title": "Bellman Policy Optimization",
-      "url": "https://huggingface.co/papers/2609.15987",
+      "id": "hf_paper_2609.16145",
+      "title": "Safe Error Correction for Language Models: Frozen-Base Adjustment with Capability Preservation",
+      "url": "https://huggingface.co/papers/2609.16145",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-13T20:00:00.000Z",
-      "abstract": "Reinforcement learning with verifiable rewards (RLVR) improves the reasoning capabilities of large language models (LLMs). We introduce Bellman Policy Optimization (BPO), a critic-free method derived",
+      "abstract": "We study a practical question: can a small correction module fix errors in a frozen language model's outputs without degrading its base capabilities? We propose CRN v2, a lightweight logit-level corre",
       "authors": [
-        "Zhuoqing Song",
-        "Haotian Xu",
-        "Xikun Zhang",
-        "Lidong Bing"
+        "Gautam Kishore"
       ],
-      "tags": [
-        "llm"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
