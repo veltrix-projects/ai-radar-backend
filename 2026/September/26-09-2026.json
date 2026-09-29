@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-29T15:13:57.919Z",
+  "generatedAt": "2026-09-29T20:04:41.063Z",
   "date": "26-09-2026",
-  "count": 6,
+  "count": 4,
   "summary": null,
   "items": [
     {
@@ -25,20 +25,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.33485",
-      "title": "DISCO: Distributed Long Context Scaling with Grounding-Reasoning Disaggregation",
-      "url": "https://huggingface.co/papers/2609.33485",
+      "id": "hf_paper_2609.33325",
+      "title": "VisionHOPE: Visual Backbones as Self-Modifying Learning Systems",
+      "url": "https://huggingface.co/papers/2609.33325",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-26T20:00:00.000Z",
-      "abstract": "While Large Language Models (LLMs) advertise million-token context windows, reasoning quality often collapses as inputs grow -- a phenomenon termed context rot. This failure stems from a structural en",
+      "abstract": "Visual backbones have evolved from Convolutional Neural Networks (CNNs) with local aggregation to Vision Transformers (ViTs) with global interactions, State-Space Models (SSMs) with input-dependent st",
       "authors": [
-        "Guanzheng Chen",
-        "Viet Dac Lai",
-        "Subhojyoti Mukherjee",
-        "Branislav Kveton",
-        "Seunghyun Yoon"
+        "Siran Peng",
+        "Tianshuo Zhang",
+        "Tianyu Fu",
+        "Weisong Zhao",
+        "Haoyuan Zhang"
       ],
       "tags": [],
       "score": 6,
@@ -51,48 +51,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.33378",
-      "title": "Recursive Harness Distillation across Agents for Robot Manipulation",
-      "url": "https://huggingface.co/papers/2609.33378",
+      "id": "hf_paper_2609.33645",
+      "title": "Pruned CTC for Memory-Efficient Large-Vocabulary ASR Training",
+      "url": "https://huggingface.co/papers/2609.33645",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-26T20:00:00.000Z",
-      "abstract": "A central goal in robotics is to enable manipulation across changing tasks and environments. Vision-language-action (VLA) models provide broad manipulation capabilities but can struggle when execution",
+      "abstract": "Connectionist temporal classification (CTC) naturally supports offline and streaming speech recognition with utterance-level supervision, but conventional implementations materialize frame-by-vocabula",
       "authors": [
-        "Seungyeon Kim",
-        "Junhoo Lee",
-        "Minkyu Kim",
-        "Baekseung Kim",
-        "Nojun Kwak"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.33437",
-      "title": "SMAT: Simple and Efficient Merge-Aware Training",
-      "url": "https://huggingface.co/papers/2609.33437",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-26T20:00:00.000Z",
-      "abstract": "Model merging integrates the capabilities of multiple experts without joint retraining, but standard expert training optimizes task loss alone and does not guarantee good performance after merging. Me",
-      "authors": [
-        "Yanggan Gu",
-        "Yuanyi Wang",
-        "Zhen Li",
-        "Shuo Cai",
-        "Yuhang Liu"
+        "Yifan Yang",
+        "Xiaoyu Yang",
+        "Zengrui Jin",
+        "Xian Shi",
+        "Yuxuan Wang"
       ],
       "tags": [
         "training"
@@ -107,46 +79,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.33487",
-      "title": "What masking geometry works best for EEG foundation models?",
-      "url": "https://huggingface.co/papers/2609.33487",
+      "id": "hf_paper_2609.33485",
+      "title": "DISCO: Distributed Long Context Scaling with Grounding-Reasoning Disaggregation",
+      "url": "https://huggingface.co/papers/2609.33485",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-26T20:00:00.000Z",
-      "abstract": "EEG foundation models hold promise for scalable brain-signal decoding across clinical and cognitive neuroscience applications, yet their pre-training pipelines remain poorly understood. Among design c",
+      "abstract": "While Large Language Models (LLMs) advertise million-token context windows, reasoning quality often collapses as inputs grow -- a phenomenon termed context rot. This failure stems from a structural en",
       "authors": [
-        "Pierre Guetschel",
-        "Bruno Aristimunha",
-        "Yassine El Ouahidi",
-        "Arnaud Delorme",
-        "Thomas Moreau"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.33074",
-      "title": "KernelZero: Co-Evolving Proposer and Coder for Continuously Improved GPU Kernel Generation",
-      "url": "https://huggingface.co/papers/2609.33074",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-26T20:00:00.000Z",
-      "abstract": "High-performance GPU kernels are essential to modern machine learning systems, yet automatically generating kernels that are both correct and efficient remains challenging. Existing LLM-based approach",
-      "authors": [
-        "Changxin Ke",
-        "Rui Zhang",
-        "Zixiang Fang",
-        "Zhenghong Li",
-        "Yuanbo Wen"
+        "Guanzheng Chen",
+        "Viet Dac Lai",
+        "Subhojyoti Mukherjee",
+        "Branislav Kveton",
+        "Seunghyun Yoon"
       ],
       "tags": [],
       "score": 6,

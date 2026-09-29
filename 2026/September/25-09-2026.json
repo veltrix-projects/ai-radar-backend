@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-29T15:13:57.920Z",
+  "generatedAt": "2026-09-29T20:04:41.063Z",
   "date": "25-09-2026",
-  "count": 14,
+  "count": 9,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,57 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.32630",
+      "title": "ExpVoyager: Direct Experience Navigation for Dynamic Agent Skill Synthesis",
+      "url": "https://huggingface.co/papers/2609.32630",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-25T20:00:00.000Z",
+      "abstract": "Learning from experience in LLM agents has become a key paradigm for developing self-evolving agents that continuously learn and expand their capabilities. Within this paradigm, synthesizing the agent",
+      "authors": [
+        "Kwangwook Seo",
+        "Dongha Lee"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.32913",
+      "title": "Allspark: Weak to Strong Transfer via Alternating Chain of Thought",
+      "url": "https://huggingface.co/papers/2609.32913",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-25T20:00:00.000Z",
+      "abstract": "Recent progress in frontier models has renewed interest in large-scale reinforcement learning (RL), but the cost of generating large-model rollouts makes even testing RL recipes expensive. We ask whet",
+      "authors": [
+        "Kaizhao Liang",
+        "Junxiong Wang",
+        "Chen Liang",
+        "Zhendong Wang",
+        "Qiang Liu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -106,59 +157,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.32814",
-      "title": "Change the Product, Keep the Parameters: Associative Algebra Layers for Transformers",
-      "url": "https://huggingface.co/papers/2609.32814",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-25T20:00:00.000Z",
-      "abstract": "Fast matrix multiplication algorithms keep the product fixed and search for a cheaper way to evaluate it. We instead ask whether a Transformer's learned projections can use a different, cheaper produc",
-      "authors": [
-        "Ilya Koziev",
-        "Ivan Oseledets"
-      ],
-      "tags": [
-        "transformer"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.32540",
-      "title": "In-Flight KV Cache with Clean Anchors for Faster Autoregressive Video Diffusion",
-      "url": "https://huggingface.co/papers/2609.32540",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-25T20:00:00.000Z",
-      "abstract": "Few-step autoregressive video diffusion generates a long video by splitting the video into temporal chunks and generating chunk-by-chunk, each through a short sequence of denoising stages. To memorize",
-      "authors": [
-        "Yikai Wang",
-        "Xiao Han",
-        "Mengmeng Xu",
-        "Juan Camilo Perez",
-        "Yiannis Douratsos"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fproac",
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
       "url": "https://openai.com/index/proaction",
@@ -169,96 +167,6 @@
       "abstract": "",
       "authors": [],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput",
-      "url": "https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-09-25T16:29:50.000Z",
-      "abstract": "Learn how to scale Mixture-of-Experts (MoE) reinforcement learning on Amazon EKS using Elastic Fabric Adapter (EFA) and DeepEP. This post presents an architecture that combines Amazon EKS, EFA, and Am",
-      "authors": [],
-      "tags": [
-        "reinforcement learning"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod",
-      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-09-25T16:18:07.000Z",
-      "abstract": "Learn how to run SkyRL, an open-source reinforcement learning framework, on Amazon SageMaker HyperPod to post-train a Qwen3-VL-8B vision-language model with GRPO. This walkthrough covers building the",
-      "authors": [],
-      "tags": [
-        "multimodal",
-        "training"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "NarrateAI: production-ready LLM quality assurance on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-09-25T16:15:22.000Z",
-      "abstract": "NarrateAI delivers production-ready LLM quality assurance on Amazon Bedrock. This post details five techniques—adaptive pipeline orchestration, cross-account multi-model failover, real-time streaming",
-      "authors": [],
-      "tags": [
-        "llm"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Deploying real-time personalized speech with Qwen3-TTS on Amazon SageMaker AI",
-      "url": "https://aws.amazon.com/blogs/machine-learning/deploying-real-time-personalized-speech-with-qwen3-tts-on-amazon-sagemaker-ai/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-09-25T16:09:46.000Z",
-      "abstract": "Deploy the publicly available Qwen3-TTS-12Hz-1.7B-Base text-to-speech model from Amazon SageMaker JumpStart to a fully managed, real-time endpoint, and clone a voice from a short reference clip. Cross",
-      "authors": [],
-      "tags": [
-        "qwen",
-        "speech"
-      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
@@ -282,26 +190,6 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fpodcast-",
-      "title": "Podcast: OpenAI Admits AI is Killing the Internet",
-      "url": "https://www.404media.co/podcast-openai-admits-ai-is-killing-the-internet/",
-      "source": "404 Media",
-      "sourceIcon": "📡",
-      "type": "news",
-      "timestamp": "2026-09-25T15:04:37.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

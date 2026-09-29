@@ -1,9 +1,165 @@
 {
-  "generatedAt": "2026-09-29T15:13:57.918Z",
+  "generatedAt": "2026-09-29T20:04:41.062Z",
   "date": "27-09-2026",
-  "count": 9,
+  "count": 12,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2609.34479",
+      "title": "SentZero: An Enhanced Sentence-Centric Vision-Language Pretraining for Multi-Task Zero-Shot Chest X-Ray Analysis",
+      "url": "https://huggingface.co/papers/2609.34479",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-27T20:00:00.000Z",
+      "abstract": "Vision-language (VL) pretraining using paired chest X-ray (CXR) images and radiology reports has shown strong potential for medical image understanding. However, existing methods often remain dependen",
+      "authors": [
+        "Hangyul Yoon",
+        "Hyungyung Lee",
+        "Edward Choi",
+        "Eunho Yang"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.34065",
+      "title": "Who Gets a Token, and What Does It Carry? Unequal Name Support and Concept Access in Large Language Models",
+      "url": "https://huggingface.co/papers/2609.34065",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-27T20:00:00.000Z",
+      "abstract": "Names are personal identifiers, but they also carry social meaning and are widely used to evaluate how language models treat different people. Such evaluations typically assume that matched names are",
+      "authors": [
+        "Mir Tafseer Nayeem",
+        "Davood Rafiei"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.35706",
+      "title": "Reinforcing Agentic Creativity in Scientific Ideation with Night Science",
+      "url": "https://huggingface.co/papers/2609.35706",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-27T20:00:00.000Z",
+      "abstract": "Large language models (LLMs) excel at structured, verifiable tasks, but their low-entropy bias can produce homogeneous and predictable outputs, limiting their utility for open-ended scientific ideatio",
+      "authors": [
+        "Priyanka Kargupta",
+        "Silviu Cucerzan",
+        "Shweti Mahajan",
+        "Allen Herring",
+        "Jiawei Han"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.34722",
+      "title": "Geometry as Address: Routing Attention to Visual Memory for Long-Horizon Camera-Controlled Video Generation",
+      "url": "https://huggingface.co/papers/2609.34722",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-27T20:00:00.000Z",
+      "abstract": "Long-horizon camera-controlled video generation requires recovering previously observed content from an ever-growing visual history. Existing approaches either search historical context implicitly or",
+      "authors": [
+        "Zesong Yang",
+        "Weikai Chen",
+        "Liyuan Cui",
+        "Lutao Jiang",
+        "Runze Zhang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.34044",
+      "title": "SCOPD: Sparse-Context On-Policy Self-Distillation for Efficient Vision-Language Models",
+      "url": "https://huggingface.co/papers/2609.34044",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-27T20:00:00.000Z",
+      "abstract": "Reasoning vision-language models (VLMs) process images and videos as long sequences of visual tokens, making inference expensive. Training-free token pruning reduces this cost, but aggressive compress",
+      "authors": [
+        "Ahmadreza Jeddi",
+        "Enming Zhang",
+        "Jasper Gerigk",
+        "Hakki Karaimer",
+        "Mozhgan Nasr Azadani"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.35247",
+      "title": "AnswerMap: Faithful Spatial Interpretability of VLMs from Answer Posteriors",
+      "url": "https://huggingface.co/papers/2609.35247",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-27T20:00:00.000Z",
+      "abstract": "When a VLM answers a visual query, current interpretability tools rely on text rationales, which use a mismatched modality, or on internal read-outs, which originate too early to reflect the final out",
+      "authors": [
+        "Mohamed Eltahir",
+        "Fardows Adam",
+        "Duaa M. Tahir",
+        "Lama Alamoudi",
+        "Sana Ammar"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2609.35699",
       "title": "Distillation Defenses Easily Break After Reinforcement Learning",
@@ -142,78 +298,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.35505",
-      "title": "An RL View of OPD: Least Square Policy Distillation for Sample-Efficient LLM Reasoning",
-      "url": "https://huggingface.co/papers/2609.35505",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-27T20:00:00.000Z",
-      "abstract": "We study on-policy distillation (OPD) through the lens of reinforcement learning, establishing a connection between the reverse-KL objective in OPD and KL-regularized policy optimization. Building on",
-      "authors": [
-        "Shangzhe Li",
-        "Yuxiao Yang",
-        "Tianrun Yu",
-        "Kaixiang Zhao",
-        "Xiaoyun Wang"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "AI Coding Agents for Enterprise: IP Indemnity, Data Residency and 500-Seat Cost Compared",
-      "url": "https://www.marktechpost.com/2026/09/26/ai-coding-agents-for-enterprise-ip-indemnity-data-residency-and-500-seat-cost-compared/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-09-27T05:57:51.000Z",
-      "abstract": "We read the contracts behind GitHub Copilot, AWS Kiro, Cursor, Devin and Windsurf. Copilot and Kiro offer uncapped indemnity on generated code. Cognition's standard terms exclude outputs entirely. Her",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "A Coding Guide to Google Research&#8217;s MSEB: Writing Sound Encoders to the Benchmark Contract and Scoring Them Across Classification, Clustering, Retrieval and Segmentation",
-      "url": "https://www.marktechpost.com/2026/09/26/a-coding-guide-to-google-researchs-mseb-writing-sound-encoders-to-the-benchmark-contract-and-scoring-them-across-classification-clustering-retrieval-and-segmentation/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-09-27T05:42:35.000Z",
-      "abstract": "A comprehensive coding tutorial on Google Research's Massive Sound Embedding Benchmark (MSEB), demonstrating how to implement custom sound encoders, drive classification, clustering, retrieval, and se",
-      "authors": [],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "gh_1073224795",
       "title": "obra/superpowers — An agentic skills framework & software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
@@ -239,7 +323,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 292731,
+      "stars": 292878,
       "votes": 0,
       "points": 0
     }
