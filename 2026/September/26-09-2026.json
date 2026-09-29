@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-29T20:04:41.063Z",
+  "generatedAt": "2026-09-29T23:49:39.436Z",
   "date": "26-09-2026",
-  "count": 4,
+  "count": 6,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,55 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.33791",
+      "title": "Do We Really Need KL Divergence for On-Policy Distillation of Large Language Models?",
+      "url": "https://huggingface.co/papers/2609.33791",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-26T20:00:00.000Z",
+      "abstract": "Since the advent of knowledge distillation, KL divergence has been the standard loss in distillation. Recently, on-policy distillation (OPD) has emerged as an efficient post-training paradigm for LLMs",
+      "authors": [
+        "Wenze Lin",
+        "Jiyuan Long",
+        "Jiale Zhao",
+        "Shenzhi Wang",
+        "Xitai Jiang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2608.18486",
+      "title": "WhiteMatter: All-to-All Cross-Layer Connections via KV Source Mixing",
+      "url": "https://huggingface.co/papers/2608.18486",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-26T20:00:00.000Z",
+      "abstract": "When generating text, a Transformer produces representations of past tokens at every layer, but each layer can normally use only representations from the same depth. This restriction prevents the mode",
+      "authors": [
+        "Wenbo Zhang",
+        "Xiang Ren"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

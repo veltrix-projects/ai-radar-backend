@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-09-29T20:04:41.062Z",
+  "generatedAt": "2026-09-29T23:49:39.435Z",
   "date": "27-09-2026",
-  "count": 12,
+  "count": 11,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2609.34848",
+      "title": "Can We Trust the Teacher? Decoupled Credit Direction-Magnitude for Self-Distillation",
+      "url": "https://huggingface.co/papers/2609.34848",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-27T20:00:00.000Z",
+      "abstract": "RLVR provides reliable trajectory-level credit, while OPSD offers dense supervision for token-level credit. This exposes a fundamental coupling when updating step-level credit direction and magnitude",
+      "authors": [
+        "Yugu Li",
+        "Zehong Cao",
+        "Peizhen Li",
+        "Yang Zhang",
+        "Siyi Hu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2609.34479",
       "title": "SentZero: An Enhanced Sentence-Centric Vision-Language Pretraining for Multi-Task Zero-Shot Chest X-Ray Analysis",
@@ -243,61 +269,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.34645",
-      "title": "Nereus: Adaptive Parallelism for LLM Post-Training",
-      "url": "https://huggingface.co/papers/2609.34645",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-27T20:00:00.000Z",
-      "abstract": "Reinforcement learning (RL) post-training for large language models (LLMs) coordinates multiple models across generation, inference, and training on GPU clusters. Several factors may change during a r",
-      "authors": [
-        "Songlin Jiang",
-        "Tuo Shi",
-        "Sitong Zhang",
-        "Zeke Wang",
-        "Mario Di Francesco"
-      ],
-      "tags": [
-        "llm",
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.35673",
-      "title": "FlowTool: Controlling Tool Parameter in Image Retouching via Flow Matching",
-      "url": "https://huggingface.co/papers/2609.35673",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-27T20:00:00.000Z",
-      "abstract": "Tool-based image editing (image retouching) is commonly formulated with autoregressive multimodal large language models (MLLMs) that sequentially generate reasoning, tool selections, and parameter val",
-      "authors": [
-        "Thanh-Long V. Le",
-        "Steven Walton",
-        "Seunghyun Yoon",
-        "Branislav Kveton",
-        "Trung Bui"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "gh_1073224795",
       "title": "obra/superpowers — An agentic skills framework & software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
@@ -323,7 +294,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 292878,
+      "stars": 292949,
       "votes": 0,
       "points": 0
     }
