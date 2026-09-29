@@ -1,9 +1,63 @@
 {
-  "generatedAt": "2026-09-28T16:31:13.548Z",
+  "generatedAt": "2026-09-29T02:06:57.733Z",
   "date": "22-09-2026",
-  "count": 5,
+  "count": 6,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2609.28845",
+      "title": "LastOPD: Taming Collapse in Latent On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2609.28845",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-22T20:00:00.000Z",
+      "abstract": "On-policy distillation (OPD) corrects a student on the responses it writes, but its signal is the teacher's next-token distribution: it tells the student what the teacher says but misses how it thinks",
+      "authors": [
+        "Jie Yang",
+        "Zhengyu Fang",
+        "Zelin Xu",
+        "Jiarui Sun",
+        "Xiran Fan"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.27277",
+      "title": "TimeEvo: Failure-Driven Self-Evolution of a Time Series Agent",
+      "url": "https://huggingface.co/papers/2609.27277",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-22T20:00:00.000Z",
+      "abstract": "Time series agents answer analytical questions by calling external tools, and which tools they carry is decided by people before the agent runs. However, we identify two failures in this setup. Human-",
+      "authors": [
+        "Jie Yang",
+        "Yan Zheng",
+        "Jiarui Sun",
+        "Xiran Fan",
+        "Junpeng Wang"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "Enabling Private High-Performance Production AI Inference with NVIDIA Confidential Computing",
@@ -40,26 +94,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-      "source": "MIT Tech Review",
-      "sourceIcon": "🏛️",
-      "type": "research",
-      "timestamp": "2026-09-22T13:42:05.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -113,7 +147,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 158935,
+      "stars": 158939,
       "votes": 0,
       "points": 0
     }

@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-09-28T16:31:13.555Z",
+  "generatedAt": "2026-09-29T02:06:57.743Z",
   "date": "02-09-2026",
-  "count": 3,
+  "count": 4,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2609.22237",
+      "title": "Not All Ranks Are Equal: Budget-Aware LoRA Merging Across Tasks",
+      "url": "https://huggingface.co/papers/2609.22237",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-02T20:00:00.000Z",
+      "abstract": "Merging low-rank adapters (LoRAs) promises to eliminate the overhead of swapping task-specific weights at inference time. However, existing merging methods assume every layer needs the same rank budge",
+      "authors": [
+        "Avinash Amballa",
+        "Yashas Malur Saidutta",
+        "Wenbo Li",
+        "Lazar Valkov",
+        "Srinivas Chappidi"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "google_deepmind_https%3A%2F%2Fdeepmind.google%2Fblog%2Fp",
       "title": "Proactive cyber defense for governments and enterprises",
