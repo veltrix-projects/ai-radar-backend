@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-29T02:06:57.731Z",
+  "generatedAt": "2026-09-29T08:47:23.110Z",
   "date": "26-09-2026",
-  "count": 1,
+  "count": 7,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,172 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.33848",
+      "title": "QwenGyre: An Elastic Reinforcement Learning Framework for Training xLong-Horizon Agents",
+      "url": "https://huggingface.co/papers/2609.33848",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-26T20:00:00.000Z",
+      "abstract": "Large language model (LLM) agents increasingly undertake extreme-long (xlong) horizon tasks, where a single execution can span hours, hundreds of model--environment interactions, and nearly 1M tokens",
+      "authors": [
+        "Weiqi Wang",
+        "Yuxin Zhou",
+        "Mouxiang Chen",
+        "Siyuan Zhang",
+        "Yi Zhang"
+      ],
+      "tags": [
+        "qwen",
+        "agent",
+        "training",
+        "reinforcement learning"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.33203",
+      "title": "Structured Residual Connectivity Matters for Diffusion Transformers",
+      "url": "https://huggingface.co/papers/2609.33203",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-26T20:00:00.000Z",
+      "abstract": "Diffusion Transformers (DiTs) have established themselves as a scalable backbone for high-fidelity image synthesis. However, unlike U-Net based diffusion models that rely on rigid, hand-crafted skip c",
+      "authors": [
+        "Yuhe Liu",
+        "Xinyin Ma",
+        "Gongfan Fang",
+        "Songhua Liu",
+        "Xinchao Wang"
+      ],
+      "tags": [
+        "transformer",
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.33312",
+      "title": "When Privacy Moves ML-Mediated Decisions On Device: Information and Incentive Misalignment in Auctions",
+      "url": "https://huggingface.co/papers/2609.33312",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-26T20:00:00.000Z",
+      "abstract": "Moving ML-mediated decision making onto privacy-preserving clients decentralises the economic decision along with the inference. Shared budget constraints then depend on information that cannot be glo",
+      "authors": [
+        "Dipankar Sarkar"
+      ],
+      "tags": [
+        "alignment"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.33382",
+      "title": "WideSWE: Can Coding Agents Coordinate Changes Across Repositories?",
+      "url": "https://huggingface.co/papers/2609.33382",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-26T20:00:00.000Z",
+      "abstract": "Coding-agent evaluation has progressed from resolving individual issues to carrying out long-horizon development, yet task completion is still largely assessed within a single codebase. In software ec",
+      "authors": [
+        "Baoyi Wang",
+        "Xingliang Wang",
+        "Jinyang Wu",
+        "Keming Wu",
+        "Chen Zhi"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.33419",
+      "title": "TT-VidT: Decoupling the Temporal Axis for Efficient Motion-Centric Video Pretraining",
+      "url": "https://huggingface.co/papers/2609.33419",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-26T20:00:00.000Z",
+      "abstract": "Comparisons in video self-supervised learning often evaluate complete training recipes rather than isolating the method itself: architecture, objective, data exposure, schedule, scale, and decoder cap",
+      "authors": [
+        "Shih-Ying Yeh",
+        "Daniel Z. Kaplan",
+        "Xuehai Wang",
+        "Fu-En Yang",
+        "Min-Hung Chen"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.33148",
+      "title": "DroneWAM: Efficient World Action Model for Drone Visual Navigation",
+      "url": "https://huggingface.co/papers/2609.33148",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-26T20:00:00.000Z",
+      "abstract": "World-action models give visual navigation agents a way to anticipate how candidate actions will change future observations and to act from the predicted consequences. For drones, this capability must",
+      "authors": [
+        "Liang Yao",
+        "Fan Liu",
+        "Hongbo Lu",
+        "Wei Xu",
+        "Jianyu Jiang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-29T02:06:57.733Z",
+  "generatedAt": "2026-09-29T08:47:23.112Z",
   "date": "23-09-2026",
-  "count": 18,
+  "count": 14,
   "summary": null,
   "items": [
     {
@@ -45,98 +45,47 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.28327",
-      "title": "LightMIS: Ultra-Lightweight Medical Image Segmentation Without a Stage-Wise Decoder",
-      "url": "https://huggingface.co/papers/2609.28327",
+      "id": "hf_paper_2609.30074",
+      "title": "How Reproducible Are Evaluation Conclusions? A Self-Audit of LLM-Inferred Prompt Structure",
+      "url": "https://huggingface.co/papers/2609.30074",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-23T20:00:00.000Z",
-      "abstract": "We present LightMIS, a scalable family of ultra-lightweight convolutional networks for 2D binary medical image segmentation without a learned stage-wise decoder. LightMIS aligns the outputs of a five-",
+      "abstract": "Evaluations of LLM systems routinely average over small prompt sets and report models as a ranked table. We ask how much confidence such a table deserves, using LLM-based prompt-structure inference as",
       "authors": [
-        "Andrei Arhire",
-        "Mihaela-Elena Breabăn",
-        "Radu Timofte"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.30192",
-      "title": "SAGE: Mitigating Long-Horizon Reasoning Biases via Topological Guidance",
-      "url": "https://huggingface.co/papers/2609.30192",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-23T20:00:00.000Z",
-      "abstract": "Long-horizon reasoning remains a central challenge for large language models (LLMs) under sparse-reward regimes. We argue that this brittleness arises from two biases induced by complex reasoning spac",
-      "authors": [
-        "Xinyue Zeng",
-        "Jiawei Zhang",
-        "Yujun Yan",
-        "Dawei Zhou"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.29474",
-      "title": "CodeGraph: Open-Taxonomy Knowledge Graph for Source Code with Wikidata Grounding",
-      "url": "https://huggingface.co/papers/2609.29474",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-23T20:00:00.000Z",
-      "abstract": "Public software repositories, like GitHub and Software Heritage Archive, store billions of files, yet extracting their implicit engineering knowledge ---i.e., the algorithms they implement, the paradi",
-      "authors": [
-        "Federico Pennino",
-        "Andrea Gurioli",
-        "Stefano Zacchiroli",
-        "Maurizio Gabbrielli",
-        "Paolo Ferragina"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.29167",
-      "title": "IndicBankBench: Evaluating Safety and Reliability of Language Model Assistants in Indian Retail Banking",
-      "url": "https://huggingface.co/papers/2609.29167",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-23T20:00:00.000Z",
-      "abstract": "Banking assistants must use account-specific information to answer requests and, in many cases, take actions through tools. Evaluating only the final response misses important errors. An assistant may",
-      "authors": [
-        "Suvradip Paul",
-        "Chandra Bhushan",
-        "Harsh Sharma",
-        "Nitin Kukreja",
-        "Yatharth Dedhia"
+        "Dipankar Sarkar"
       ],
       "tags": [
-        "safety"
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.29233",
+      "title": "Post-Training Leaves Behavioral Shadows on Unrelated Decisions",
+      "url": "https://huggingface.co/papers/2609.29233",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-23T20:00:00.000Z",
+      "abstract": "We find that language models can transfer capabilities through task-unrelated text. Post-training typically improves language models using task-specific data. Prior work on subliminal learning shows t",
+      "authors": [
+        "Ziyang Zhang",
+        "Yubin Jing",
+        "Yuanhao Zeng",
+        "Yuyao Li",
+        "Haofan Wang"
+      ],
+      "tags": [
+        "training"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -291,51 +240,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fsam-a",
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-09-23T12:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fharve",
       "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
       "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-09-23T12:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "gpt"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Finvid",
-      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",

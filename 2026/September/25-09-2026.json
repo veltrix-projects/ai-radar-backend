@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-29T02:06:57.731Z",
+  "generatedAt": "2026-09-29T08:47:23.110Z",
   "date": "25-09-2026",
-  "count": 24,
+  "count": 10,
   "summary": null,
   "items": [
     {
@@ -25,6 +25,30 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2609.32241",
+      "title": "Residual Transferability in Neural Image Watermarking",
+      "url": "https://huggingface.co/papers/2609.32241",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-25T20:00:00.000Z",
+      "abstract": "Neural image watermarks can be forged by extracting watermark-bearing residuals from released images and transferring them to unrelated content. While prior work has demonstrated this vulnerability, w",
+      "authors": [
+        "Ziping Dong",
+        "Qi Li",
+        "Xinchao Wang"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fproac",
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
       "url": "https://openai.com/index/proaction",
@@ -38,388 +62,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2609.31619v1",
-      "title": "Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency",
-      "url": "https://arxiv.org/abs/2609.31619v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-09-25T17:59:52Z",
-      "abstract": "Reasoning models often generate very long reasoning traces, making inference computationally expensive. Existing approaches typically improve efficiency either through inference-time early-stopping me",
-      "authors": [
-        "Parsa Hosseini",
-        "Akasha Tigalappanavara",
-        "Sumit Nawathe",
-        "Chenrui Fan",
-        "Sourya Basu"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2608.10375v2",
-      "title": "Beyond Forecasting: Recasting Volatility Control as a Routing Problem",
-      "url": "https://arxiv.org/abs/2608.10375v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-09-25T17:59:50Z",
-      "abstract": "Volatility control converts risk estimates into portfolio exposure, yet existing approaches often rely on a fixed volatility estimator or a pre-defined control rule that may not adapt to changing mark",
-      "authors": [
-        "Hongji Pu",
-        "Leyang Zhou"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2606.11891v3",
-      "title": "Critic Architecture Matters: Dual vs. Unified Critics for Humanoid Loco-Manipulation",
-      "url": "https://arxiv.org/abs/2606.11891v3",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-09-25T17:59:39Z",
-      "abstract": "Multi-objective reinforcement learning for humanoid robots must coordinate locomotion and manipulation within one policy. A natural design choice is between a single (unified) critic that estimates th",
-      "authors": [
-        "Mehmet Turan Yardımcı"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2609.31614v1",
-      "title": "Gap-free Differentially Private PCA for Gaussian Data",
-      "url": "https://arxiv.org/abs/2609.31614v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-09-25T17:58:38Z",
-      "abstract": "We give a gap-free differentially private algorithm for the principal component analysis (PCA) problem with Gaussian data.",
-      "authors": [
-        "Alina Ene",
-        "Huy L. Nguyen"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2609.31612v1",
-      "title": "First-Order Stationarity of Reverse Diffusions",
-      "url": "https://arxiv.org/abs/2609.31612v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-09-25T17:57:43Z",
-      "abstract": "Recent literature has shown a strong connection between optimization and sampling. We develop the corresponding first-order theory for diffusion models. First, the SDE-based reverse-time flows of over",
-      "authors": [
-        "Zhifeng Chen",
-        "Chenyang Jiang",
-        "Yazhen Wang"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2609.31607v1",
-      "title": "Statistical attribute alignment for black-box generative AI via output post-processing",
-      "url": "https://arxiv.org/abs/2609.31607v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-09-25T17:55:49Z",
-      "abstract": "Generative AI systems are increasingly used, but aligning their outputs with user requirements poses a continuing challenge. Here, we aim to ensure that the distribution of an attribute of an AI-gener",
-      "authors": [
-        "Kevin Jiang",
-        "Morgane Austern",
-        "Edgar Dobriban",
-        "Jason M. Klusowski"
-      ],
-      "tags": [
-        "alignment"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2609.31603v1",
-      "title": "User Model Extraction via Belief Self-Distillation",
-      "url": "https://arxiv.org/abs/2609.31603v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-09-25T17:54:32Z",
-      "abstract": "Large language models (LLMs) implicitly infer attributes of their users and adapt their behavior accordingly, yet these beliefs remain difficult to inspect and causally manipulate. We introduce Belief",
-      "authors": [
-        "Ali Holmov",
-        "Yiran Huang",
-        "Kirill Bykov",
-        "Zeynep Akata"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2609.31600v1",
-      "title": "New LoRA Skills Should Read but Never Write",
-      "url": "https://arxiv.org/abs/2609.31600v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-09-25T17:54:01Z",
-      "abstract": "Low-rank adapters (LoRA) make it cheap to fine-tune a large language model once per task, but combining several independently trained adapters into one model remains difficult: merging the updates in",
-      "authors": [
-        "Zeyan Li",
-        "Panqi Yang",
-        "Qirong Guo",
-        "Shengda Zhuo",
-        "SIyuan Qiu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2603.04736v2",
-      "title": "Distribution-Conditioned Transport",
-      "url": "https://arxiv.org/abs/2603.04736v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-09-25T17:52:29Z",
-      "abstract": "Learning a transport model that maps a source distribution to a target distribution is a canonical problem in machine learning, but scientific applications increasingly require models that can general",
-      "authors": [
-        "Nic Fishman",
-        "Gokul Gowri",
-        "Paolo L. B. Fischer",
-        "Marinka Zitnik",
-        "Omar Abudayyeh"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2609.04672v2",
-      "title": "WEECFP-SuRGE: A Position-Aware Substructure Encoding Method for Molecular Property Prediction",
-      "url": "https://arxiv.org/abs/2609.04672v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-09-25T17:52:02Z",
-      "abstract": "Computational molecular property prediction requires representations that capture local chemistry, long-range interactions, and molecular topology. Conventional fingerprints provide efficient local su",
-      "authors": [
-        "Robert Epps"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2602.06042v2",
-      "title": "Pseudo-Invertible Neural Networks",
-      "url": "https://arxiv.org/abs/2602.06042v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-09-25T17:49:03Z",
-      "abstract": "The Moore-Penrose Pseudo-inverse (PInv) serves as the fundamental solution for linear systems. In this paper, we propose a natural generalization of PInv to the nonlinear regime in general and to neur",
-      "authors": [
-        "Yamit Ehrlich",
-        "Nimrod Berman",
-        "Assaf Shocher"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2605.06642v2",
-      "title": "StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction",
-      "url": "https://arxiv.org/abs/2605.06642v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-09-25T17:48:02Z",
-      "abstract": "Large language models (LLMs) are increasingly used as interactive agents, but optimizing them for long-horizon decision making remains difficult because current methods are largely purely reactive, wh",
-      "authors": [
-        "Xiangyuan Xue",
-        "Yifan Zhou",
-        "Zidong Wang",
-        "Shengji Tang",
-        "Philip Torr"
-      ],
-      "tags": [
-        "agent",
-        "reinforcement learning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2609.31589v1",
-      "title": "Common-Mode Collapse and Recovery in Direct Feedback Alignment",
-      "url": "https://arxiv.org/abs/2609.31589v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-09-25T17:43:40Z",
-      "abstract": "Direct feedback alignment (DFA) trains hidden layers through fixed random projections of output error. With tanh hidden units and independent sigmoid outputs, plain stochastic gradient descent can sta",
-      "authors": [
-        "Varun Reddy",
-        "Bernardo L. Sabatini",
-        "Houman Safaai"
-      ],
-      "tags": [
-        "alignment"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2505.16326v3",
-      "title": "ChemMLLM: Chemical Multimodal Large Language Model",
-      "url": "https://arxiv.org/abs/2505.16326v3",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-09-25T17:42:44Z",
-      "abstract": "Recent years have seen rapid progress in multimodal large language models (MLLMs) in the field of chemistry. However, chemical MLLMs that can handle cross-modal understanding and generation remain und",
-      "authors": [
-        "Qian Tan",
-        "Di Zhang",
-        "Ben Gao",
-        "Peng Xia",
-        "Wanhao Liu"
-      ],
-      "tags": [
-        "llm",
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2609.31587v1",
-      "title": "Compact Documentation for Coding Agents: A Benchmark, an Optimizer, and Why It Does Not Transfer",
-      "url": "https://arxiv.org/abs/2609.31587v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-09-25T17:42:22Z",
-      "abstract": "We investigate whether natural-language documentation helps coding agents resolve software issues, and we build the tools to construct and evaluate it. We introduce a roundtrip benchmark that scores c",
-      "authors": [
-        "Md Shohel Arman",
-        "Igor Molybog"
-      ],
-      "tags": [
-        "agent",
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

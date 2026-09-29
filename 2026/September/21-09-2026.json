@@ -1,37 +1,9 @@
 {
-  "generatedAt": "2026-09-29T02:06:57.734Z",
+  "generatedAt": "2026-09-29T08:47:23.113Z",
   "date": "21-09-2026",
-  "count": 6,
+  "count": 4,
   "summary": null,
   "items": [
-    {
-      "id": "hf_paper_2609.26333",
-      "title": "Disaggregated Quantization: Specializing LLM Prefill and Decode",
-      "url": "https://huggingface.co/papers/2609.26333",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-21T20:00:00.000Z",
-      "abstract": "Prefill and decode reward different approaches to quantization: low-precision arithmetic accelerates prompt processing, while compact weights reduce memory traffic during generation. We propose \"disag",
-      "authors": [
-        "Andrei Panferov",
-        "Maximilian Kleinegger",
-        "Sweta Priyadarshi",
-        "Tijmen Blankevoort",
-        "Dan Alistarh"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
       "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
@@ -105,32 +77,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.24749",
-      "title": "D-JEPA: A Decision-Aligned Latent World Model",
-      "url": "https://huggingface.co/papers/2609.24749",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-21T11:17:32.000Z",
-      "abstract": "Latent world models predict the consequences of actions, but accurate prediction does not guarantee that latent distance reflects which candidate will execute successfully. We identify a decision-loca",
-      "authors": [
-        "Shuaijun Liu",
-        "Chengyu Wu",
-        "Qifu Wen",
-        "Feiyang You",
-        "Chenglong Zhang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
