@@ -1,9 +1,89 @@
 {
-  "generatedAt": "2026-09-30T16:09:45.787Z",
+  "generatedAt": "2026-09-30T20:54:04.613Z",
   "date": "27-09-2026",
-  "count": 7,
+  "count": 8,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2609.36314",
+      "title": "Fractional State Space Transition for Long Sequence Modeling",
+      "url": "https://huggingface.co/papers/2609.36314",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-27T20:00:00.000Z",
+      "abstract": "State Space Models (SSMs) compress sequence history into a bounded recurrent state, making the resulting memory law a central architectural choice for long-context performance. Most modern SSMs rely o",
+      "authors": [
+        "Ivan Kobyzev",
+        "Abbas Ghaddar",
+        "Ali Nasiri-Sarvi",
+        "Lifeng Shang",
+        "Yufei Cui"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.36322",
+      "title": "Periodic Weak Spots: Phase Sensitivity from Chunked KV-Cache Compression",
+      "url": "https://huggingface.co/papers/2609.36322",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-27T20:00:00.000Z",
+      "abstract": "Chunked KV-cache compression reduces the memory and attention costs of long-context inference by compressing windows of consecutive tokens into fewer cache entries at a fixed stride. Such compression",
+      "authors": [
+        "Xingyu Zhu",
+        "Pu",
+        "Yi",
+        "Ziheng Cheng",
+        "Ang Lv"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.34392",
+      "title": "Org-Agent: Beyond Personal Assistants Towards Organizational Agents",
+      "url": "https://huggingface.co/papers/2609.34392",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-27T20:00:00.000Z",
+      "abstract": "Language model agents serving organizations must coordinate requests from multiple users while using knowledge distributed across their interactions. We identify two complementary capabilities for thi",
+      "authors": [
+        "Luyao Zhuang",
+        "Yujing Zhang",
+        "Zijin Hong",
+        "Yilin Xiao",
+        "Xiao Huang"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2609.34605",
       "title": "PMOPD: Task Ordering, Cycling, and Parameter-Update Subspace Protection in Multi-Teacher On-Policy Distillation",
@@ -116,55 +196,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.34518",
-      "title": "SEAD: A State-Based Perspective on Attack and Defense in Tool-Using Agents",
-      "url": "https://huggingface.co/papers/2609.34518",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-27T20:00:00.000Z",
-      "abstract": "Language-model agents increasingly use tools to act on external systems. Earlier actions can alter files, permissions, database records, or other state, making a later routine-looking action harmful.",
-      "authors": [
-        "Xinjie Shen",
-        "Junran Wang",
-        "Rongzhe Wei",
-        "Pan Li"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.35342",
-      "title": "Jev thinks \"I don't know'', but doesn't say it: Introducing Sys1Cal-v1 Dataset for Probability Calibration",
-      "url": "https://huggingface.co/papers/2609.35342",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-27T20:00:00.000Z",
-      "abstract": "The appearance of Jev marked the era of System One Models, foundation models that return structured decisions with probability distributions rather than text. Aside from low cost and great speed, Jev'",
-      "authors": [
-        "Riccardo Porcedda"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "gh_1073224795",
       "title": "obra/superpowers — An agentic skills framework & software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
@@ -190,7 +221,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 293305,
+      "stars": 293413,
       "votes": 0,
       "points": 0
     }
