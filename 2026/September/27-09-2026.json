@@ -1,50 +1,24 @@
 {
-  "generatedAt": "2026-09-30T03:03:33.300Z",
+  "generatedAt": "2026-09-30T16:09:45.787Z",
   "date": "27-09-2026",
-  "count": 8,
+  "count": 7,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2609.34606",
-      "title": "WorldAttention: An Efficient Attention Architecture for Interactive Video World Models",
-      "url": "https://huggingface.co/papers/2609.34606",
+      "id": "hf_paper_2609.34605",
+      "title": "PMOPD: Task Ordering, Cycling, and Parameter-Update Subspace Protection in Multi-Teacher On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2609.34605",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-27T20:00:00.000Z",
-      "abstract": "Leveraging the paradigm of autoregressive diffusion, text-conditioned interactive video world models aim to simulate temporally coherent environments guided by textual instructions. While enabling low",
+      "abstract": "Multi-teacher on-policy distillation (MOPD) has emerged as a popular post-training paradigm for integrating specialized capabilities in frontier language models. Existing OPD research has primarily fo",
       "authors": [
-        "Zeyu Zhang",
-        "Jinyuan Mao",
-        "Dakai An",
-        "Wangbo Zhao",
-        "Hanfeng Lu"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.35134",
-      "title": "VideoPhysEdit: Physical Counterfactual Video Editing via Rigid-Body Physical Scene Reconstruction",
-      "url": "https://huggingface.co/papers/2609.35134",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-27T20:00:00.000Z",
-      "abstract": "Video editing has advanced substantially in recent years, with methods increasingly accounting for the visual consequences of edits, such as changes to shadows and occlusions. However, the physical co",
-      "authors": [
-        "Conghan Yue",
-        "Yuanjie Chen",
-        "Yue Han",
-        "Ya Gao",
-        "Yunyan Xiao"
+        "Youzhi Liu",
+        "Ruobing Zheng",
+        "Boyuan Tong",
+        "Tianqi Li",
+        "Pingqi Li"
       ],
       "tags": [],
       "score": 6,
@@ -57,21 +31,23 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.36218",
-      "title": "CineSubBench: Evaluating LLMs on Long-Form Narrative and Cultural Understanding from Multilingual Movie Subtitles",
-      "url": "https://huggingface.co/papers/2609.36218",
+      "id": "hf_paper_2609.35530",
+      "title": "AutoRef: Harness Optimization for Agentic Multi-Reference Image Generation",
+      "url": "https://huggingface.co/papers/2609.35530",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-27T20:00:00.000Z",
-      "abstract": "Large language models are increasingly evaluated in specialized domains such as law, medicine, software engineering, and cybersecurity, yet film remains comparatively underexplored despite requiring l",
+      "abstract": "Recent image generation models can take multiple reference images as input and combine them into a new image. However, multi-reference image generation remains challenging: models may omit or duplicat",
       "authors": [
-        "Mir Tafseer Nayeem",
-        "Susmoy Chakraborty",
-        "Davood Rafiei"
+        "Yuta Oshima",
+        "Ku Onoda",
+        "Yusuke Iwasawa",
+        "Masahiro Suzuki",
+        "Yutaka Matsuo"
       ],
       "tags": [
-        "llm"
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -83,101 +59,102 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.36219",
-      "title": "LeRF: Learning Reference Coordinate Frames for Perspective Taking Reasoning",
-      "url": "https://huggingface.co/papers/2609.36219",
+      "id": "hf_paper_2609.35427",
+      "title": "LLMs are General Asynchronous Agents",
+      "url": "https://huggingface.co/papers/2609.35427",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-27T20:00:00.000Z",
-      "abstract": "Perspective taking is a fundamental component of spatial intelligence, requiring models interpret spatial relations from a specified viewpoint, such as that of another entity or an imagined observer.",
+      "abstract": "Modern LLMs are increasingly capable as autonomous agents, but they follow sequential interaction cycles: read, think, reply or call tools, repeat. Many real-world use cases are not sequential: voice",
       "authors": [
-        "Bang Xiao",
-        "Wenqi Jia",
-        "Ozgur Kara",
-        "Tiancheng Shen",
-        "Yibo Yang"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.36246",
-      "title": "Learning from Teacher Continuations at Student States",
-      "url": "https://huggingface.co/papers/2609.36246",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-27T20:00:00.000Z",
-      "abstract": "We present OLIVE (OnLine InterVEntion). At each iteration, the evolving student policy generates a new prefix, the teacher continues it autoregressively, and the student is updated using cross-entropy",
-      "authors": [
-        "Haojin Wang",
-        "Dylan Zhang",
-        "Huaibo Chen",
-        "Suhao Yu",
-        "Yihang Sun"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.34848",
-      "title": "Can We Trust the Teacher? Decoupled Credit Direction-Magnitude for Self-Distillation",
-      "url": "https://huggingface.co/papers/2609.34848",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-27T20:00:00.000Z",
-      "abstract": "RLVR provides reliable trajectory-level credit, while OPSD offers dense supervision for token-level credit. This exposes a fundamental coupling when updating step-level credit direction and magnitude",
-      "authors": [
-        "Yugu Li",
-        "Zehong Cao",
-        "Peizhen Li",
-        "Yang Zhang",
-        "Siyi Hu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.34479",
-      "title": "SentZero: An Enhanced Sentence-Centric Vision-Language Pretraining for Multi-Task Zero-Shot Chest X-Ray Analysis",
-      "url": "https://huggingface.co/papers/2609.34479",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-27T20:00:00.000Z",
-      "abstract": "Vision-language (VL) pretraining using paired chest X-ray (CXR) images and radiology reports has shown strong potential for medical image understanding. However, existing methods often remain dependen",
-      "authors": [
-        "Hangyul Yoon",
-        "Hyungyung Lee",
-        "Edward Choi",
-        "Eunho Yang"
+        "George Yakushev",
+        "Denis Mazur",
+        "Vladimir Bartenev",
+        "Vyacheslav Zhdanovskiy",
+        "Timofey Byzov"
       ],
       "tags": [
-        "training"
+        "llm",
+        "agent"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.36014",
+      "title": "Persistence Forcing: Exploiting Feature Specialization in Pixel-Space Diffusion",
+      "url": "https://huggingface.co/papers/2609.36014",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-27T20:00:00.000Z",
+      "abstract": "Pixel-space diffusion Transformers (DiTs) directly operate on high-dimensional visual data, yet their hidden representations typically undergo uniform refinement across depth. Natural images, however,",
+      "authors": [
+        "Chong Wang",
+        "Zixuan Fu",
+        "Shiqi Huang",
+        "Siyuan Yang",
+        "Hao Cheng"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.34518",
+      "title": "SEAD: A State-Based Perspective on Attack and Defense in Tool-Using Agents",
+      "url": "https://huggingface.co/papers/2609.34518",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-27T20:00:00.000Z",
+      "abstract": "Language-model agents increasingly use tools to act on external systems. Earlier actions can alter files, permissions, database records, or other state, making a later routine-looking action harmful.",
+      "authors": [
+        "Xinjie Shen",
+        "Junran Wang",
+        "Rongzhe Wei",
+        "Pan Li"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.35342",
+      "title": "Jev thinks \"I don't know'', but doesn't say it: Introducing Sys1Cal-v1 Dataset for Probability Calibration",
+      "url": "https://huggingface.co/papers/2609.35342",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-27T20:00:00.000Z",
+      "abstract": "The appearance of Jev marked the era of System One Models, foundation models that return structured decisions with probability distributions rather than text. Aside from low cost and great speed, Jev'",
+      "authors": [
+        "Riccardo Porcedda"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -213,7 +190,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 293001,
+      "stars": 293305,
       "votes": 0,
       "points": 0
     }
