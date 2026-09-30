@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T23:49:39.436Z",
+  "generatedAt": "2026-09-30T03:03:33.301Z",
   "date": "26-09-2026",
   "count": 6,
   "summary": null,
@@ -18,6 +18,85 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.33589",
+      "title": "TGRL: Temperature-Grouped Reinforcement Learning for Efficient Exploration in LLMs",
+      "url": "https://huggingface.co/papers/2609.33589",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-26T20:00:00.000Z",
+      "abstract": "Efficient exploration often remains a central bottleneck in reinforcement learning with verifiable rewards (RLVR). Although temperature control and test-time scaling strategies can increase rollout di",
+      "authors": [
+        "Zihan Lin",
+        "Xiaohan Wang",
+        "Jie Cao",
+        "Jiajun Chai",
+        "Wei Lin"
+      ],
+      "tags": [
+        "llm",
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.33586",
+      "title": "Approximating Softmax in Pretrained LLMs: Model Sensitivity and Kernel Acceleration",
+      "url": "https://huggingface.co/papers/2609.33586",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-26T20:00:00.000Z",
+      "abstract": "On NVIDIA Blackwell B200, tensor-core throughput outpaces special-function exponential throughput by more than two orders of magnitude, exposing exponential evaluation in fused attention kernels. A pr",
+      "authors": [
+        "Shangzhen Zhu",
+        "Muyan Hu",
+        "Tomasz Kozlowski"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.33780",
+      "title": "Selecting Diverse SFT Traces Improves Post-RL Generalization",
+      "url": "https://huggingface.co/papers/2609.33780",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-26T20:00:00.000Z",
+      "abstract": "Verified solutions are not equally useful for preparing reasoning models for reinforcement learning (RL). We present a comprehensive study of route diversity, the variation in the sequences of reasoni",
+      "authors": [
+        "Dylan Zhang",
+        "Mingyuan Wu",
+        "Jinning Li"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -62,86 +141,6 @@
       "authors": [
         "Wenbo Zhang",
         "Xiang Ren"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.33325",
-      "title": "VisionHOPE: Visual Backbones as Self-Modifying Learning Systems",
-      "url": "https://huggingface.co/papers/2609.33325",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-26T20:00:00.000Z",
-      "abstract": "Visual backbones have evolved from Convolutional Neural Networks (CNNs) with local aggregation to Vision Transformers (ViTs) with global interactions, State-Space Models (SSMs) with input-dependent st",
-      "authors": [
-        "Siran Peng",
-        "Tianshuo Zhang",
-        "Tianyu Fu",
-        "Weisong Zhao",
-        "Haoyuan Zhang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.33645",
-      "title": "Pruned CTC for Memory-Efficient Large-Vocabulary ASR Training",
-      "url": "https://huggingface.co/papers/2609.33645",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-26T20:00:00.000Z",
-      "abstract": "Connectionist temporal classification (CTC) naturally supports offline and streaming speech recognition with utterance-level supervision, but conventional implementations materialize frame-by-vocabula",
-      "authors": [
-        "Yifan Yang",
-        "Xiaoyu Yang",
-        "Zengrui Jin",
-        "Xian Shi",
-        "Yuxuan Wang"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.33485",
-      "title": "DISCO: Distributed Long Context Scaling with Grounding-Reasoning Disaggregation",
-      "url": "https://huggingface.co/papers/2609.33485",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-26T20:00:00.000Z",
-      "abstract": "While Large Language Models (LLMs) advertise million-token context windows, reasoning quality often collapses as inputs grow -- a phenomenon termed context rot. This failure stems from a structural en",
-      "authors": [
-        "Guanzheng Chen",
-        "Viet Dac Lai",
-        "Subhojyoti Mukherjee",
-        "Branislav Kveton",
-        "Seunghyun Yoon"
       ],
       "tags": [],
       "score": 6,
