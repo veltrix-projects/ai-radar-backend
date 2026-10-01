@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-10-01T13:37:23.630Z",
+  "generatedAt": "2026-10-01T23:17:04.719Z",
   "date": "24-09-2026",
   "count": 3,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2609.30840",
+      "title": "Aligning One-Step Generative Models with Reward-Weighted Transport Distillation",
+      "url": "https://huggingface.co/papers/2609.30840",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-24T20:00:00.000Z",
+      "abstract": "One-step generators enable high-quality visual generation with a single network evaluation, but their post-training is difficult: general implicit generators provide neither tractable likelihoods nor",
+      "authors": [
+        "Austin Wang",
+        "Ziheng Cheng",
+        "Lexing Ying"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Fc",
       "title": "Automating coherent long-form video generation",
@@ -36,28 +60,6 @@
       "authors": [],
       "tags": [
         "gemini"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
-      "title": "Efficient MoE Training for Biological Foundation Models",
-      "url": "https://developer.nvidia.com/blog/efficient-moe-training-for-biological-foundation-models/",
-      "source": "NVIDIA Blog",
-      "sourceIcon": "🟩",
-      "type": "tool",
-      "timestamp": "2026-09-24T15:00:00.000Z",
-      "abstract": "As language models grow, scaling dense architectures becomes increasingly expensive. In a dense transformer, every token passes through every layer, so adding...]]>",
-      "authors": [],
-      "tags": [
-        "training"
       ],
       "score": 8,
       "priority": "HIGH",

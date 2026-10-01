@@ -1,80 +1,24 @@
 {
-  "generatedAt": "2026-10-01T13:37:23.628Z",
+  "generatedAt": "2026-10-01T23:17:04.682Z",
   "date": "27-09-2026",
-  "count": 4,
+  "count": 7,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2609.34599",
-      "title": "The Low-Rank Structure of VLA Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2609.34599",
+      "id": "hf_paper_2609.34274",
+      "title": "BIABench: Evaluating AI agents on real-world bioimage analysis tasks",
+      "url": "https://huggingface.co/papers/2609.34274",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-27T20:00:00.000Z",
-      "abstract": "Reinforcement learning (RL) is increasingly used to post-train vision-language-action (VLA) models, yet how RL reshapes these policies remains poorly understood. We find that RL across widely used flo",
+      "abstract": "Artificial-intelligence (AI) agents hold promise for automating bioimage analysis, yet no benchmark evaluates whether they can carry out real-world analyses end to end. Such analyses are hard for agen",
       "authors": [
-        "Minjae Oh",
-        "Yoonah Park",
-        "Jongwon Lim",
-        "Yohan Jo"
-      ],
-      "tags": [
-        "reinforcement learning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.34162",
-      "title": "SlideDP: Scaling Host-Resident LLM Fine-Tuning Across Multiple GPUs",
-      "url": "https://huggingface.co/papers/2609.34162",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-27T20:00:00.000Z",
-      "abstract": "Host-resident layer streaming enables full-parameter LLM fine-tuning beyond GPU memory, but data-parallel ranks compete for shared host resources. Replicated transfers amplify traffic, while strong sc",
-      "authors": [
-        "Ruijia Yang",
-        "Shiyuan Lin",
-        "Yulong Ao",
-        "Zhiyu Li",
-        "Yingli Zhao"
-      ],
-      "tags": [
-        "llm",
-        "fine-tuning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.36308",
-      "title": "CheatBench: Measuring Reward Gaming in AI Agents",
-      "url": "https://huggingface.co/papers/2609.36308",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-27T20:00:00.000Z",
-      "abstract": "Reinforcement learning has helped AI agents solve increasingly difficult tasks, but high rewards do not always reflect the work users intended. In recent incidents and controlled evaluations across th",
-      "authors": [
-        "Long Phan",
-        "Stephen K. Yang",
-        "Jason J. Lim",
-        "Mantas Mazeika",
-        "Wenyu Zhang"
+        "Zixuan Pan",
+        "Davide Panzeri",
+        "Lukas Johanns",
+        "Marilin Moor",
+        "Yu Zhou"
       ],
       "tags": [
         "agent"
@@ -82,6 +26,137 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.35928",
+      "title": "Prompted Identity Degrades Cooperation in Multi-Agent LLM Systems",
+      "url": "https://huggingface.co/papers/2609.35928",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-27T20:00:00.000Z",
+      "abstract": "Multi-agent LLM systems increasingly mix models from several providers, yet exposing each agent's underlying model identity to its peers significantly impairs cooperation. We show that when agents are",
+      "authors": [
+        "Xavier Del Giudice",
+        "Alessio Palma",
+        "Matteo Migliarini",
+        "Fabio Galasso",
+        "Indro Spinelli"
+      ],
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.35646",
+      "title": "Rubric Rewards from Item Response Theory",
+      "url": "https://huggingface.co/papers/2609.35646",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-27T20:00:00.000Z",
+      "abstract": "Many language tasks have no single answer that can be checked automatically. Rubrics provide criteria for judging responses to these tasks. For reinforcement learning, the resulting verdicts must be c",
+      "authors": [
+        "Milad Yazdani",
+        "Yaser Souri",
+        "Xiren Zhou",
+        "Pranit Chawla",
+        "Dena Shahriari"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.34736",
+      "title": "SeLMRoute: Probabilistic Semantic Evidence for Large Language Model Routing",
+      "url": "https://huggingface.co/papers/2609.34736",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-27T20:00:00.000Z",
+      "abstract": "Large language model (LLM) routing aims to select the most suitable model for each incoming query. Most existing routers learn this decision directly from query embeddings, model representations, pref",
+      "authors": [
+        "Vasilis Perifanis",
+        "Nikolaos Pavlidis",
+        "Symeon Symeonidis"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.34563",
+      "title": "Rethinking Latent Visual Reasoning: Grounding Latent Reasoning in Visual Evidence",
+      "url": "https://huggingface.co/papers/2609.34563",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-27T20:00:00.000Z",
+      "abstract": "Latent visual reasoning (LVR) enables multimodal large language models (MLLMs) to perform intermediate computation in continuous latent tokens rather than expressing every reasoning step in words. How",
+      "authors": [
+        "Xi Xiao",
+        "Tianchen Zhao",
+        "Youngeun Kim",
+        "Zhuowei Li",
+        "Linghan Xu"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.34276",
+      "title": "NavHarness: Towards Lifelong Embodied Navigation",
+      "url": "https://huggingface.co/papers/2609.34276",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-27T20:00:00.000Z",
+      "abstract": "Frontier models can now perform well on individual embodied navigation tasks through multi-round multimodal reasoning with simple tools. Across successive tasks, however, an agent must also rely on an",
+      "authors": [
+        "Xunyi Zhao",
+        "Jian Zhou",
+        "Sihao Lin",
+        "Gengze Zhou",
+        "Zerui Li"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -114,7 +189,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 293611,
+      "stars": 293907,
       "votes": 0,
       "points": 0
     }

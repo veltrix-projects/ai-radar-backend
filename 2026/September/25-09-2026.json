@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-10-01T13:37:23.629Z",
+  "generatedAt": "2026-10-01T23:17:04.718Z",
   "date": "25-09-2026",
   "count": 2,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2609.32264",
-      "title": "LANTERN: Illuminating Hidden Mathematical Knowledge in Language Models",
-      "url": "https://huggingface.co/papers/2609.32264",
+      "id": "hf_paper_2609.32720",
+      "title": "BiasReducer: Adaptive Bias Mitigation for Reward Models",
+      "url": "https://huggingface.co/papers/2609.32720",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-25T20:00:00.000Z",
-      "abstract": "Language models can now prove theorems, but people still decide which problems to pursue. We ask whether a model's internal representations can help identify promising mathematical connections. We dev",
+      "abstract": "Reward models score responses from large language models (LLMs) and guide LLM training toward human preferences. However, reward models can favor superficial attributes such as length or confidence, l",
       "authors": [
-        "Pavel Tikhonov",
-        "Elena Tutubalina",
-        "Ivan Oseledets",
-        "Dmitry I. Ignatov",
-        "Mikhail Seleznyov"
+        "Shuang Liu",
+        "Yongliang Miao",
+        "Yanguang Liu",
+        "Haoyi Xiong",
+        "Mengnan Du"
       ],
       "tags": [],
       "score": 6,
