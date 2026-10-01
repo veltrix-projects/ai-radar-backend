@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-09-30T20:54:04.614Z",
+  "generatedAt": "2026-10-01T00:15:41.378Z",
   "date": "25-09-2026",
-  "count": 2,
+  "count": 3,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2609.32915",
+      "title": "AgentTell: Behavioural Side-Channel Leakage in Browser-Use Agents",
+      "url": "https://huggingface.co/papers/2609.32915",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-25T20:00:00.000Z",
+      "abstract": "Browser-use agents often carry information in their context as they move between websites. While it may be necessary for task completion, it also creates a privacy risk, especially when the informatio",
+      "authors": [
+        "Asif Shahriar",
+        "Md Nafiu Rahman",
+        "Sadif Ahmed",
+        "Farig Sadeque",
+        "Md Rizwan Parvez"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2609.32722",
       "title": "Scaling Properties of Same-Family On-Policy Distillation",
