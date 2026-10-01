@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-10-01T06:14:07.503Z",
+  "generatedAt": "2026-10-01T13:37:23.628Z",
   "date": "26-09-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2609.33620",
-      "title": "Learning Dynamics of Continual Learning: A Unified View of Data Attribution, Forgetting, and Plasticity Loss",
-      "url": "https://huggingface.co/papers/2609.33620",
+      "id": "hf_paper_2609.33355",
+      "title": "Unmask the State: When Does State Adaptation Matter for Masked Diffusion Language Models",
+      "url": "https://huggingface.co/papers/2609.33355",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-26T20:00:00.000Z",
-      "abstract": "Modern language models are likely to be updated throughout their lifetime rather than trained once and frozen. Each update therefore participates in a recurring cycle: decide which experience to learn",
+      "abstract": "Masked diffusion language models (MDMs) admit flexible generation orders, making the unmasking strategy an inference decision. Existing methods vary in how they prioritize positions, control paralleli",
       "authors": [
-        "Yi Ren",
-        "Wenlong Deng",
-        "Guanzhe Hong",
-        "Clare Lyle",
-        "Yarin Gal"
+        "Injin Kong",
+        "Sunghwan Choi",
+        "Yohan Jo"
       ],
-      "tags": [],
+      "tags": [
+        "diffusion"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

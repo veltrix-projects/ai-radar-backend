@@ -1,46 +1,26 @@
 {
-  "generatedAt": "2026-10-01T06:14:07.503Z",
+  "generatedAt": "2026-10-01T13:37:23.628Z",
   "date": "27-09-2026",
-  "count": 6,
+  "count": 4,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2609.35922",
-      "title": "Almost Human, Except When It Matters: VoxParity and the Decisions a Voice Should Change",
-      "url": "https://huggingface.co/papers/2609.35922",
+      "id": "hf_paper_2609.34599",
+      "title": "The Low-Rank Structure of VLA Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2609.34599",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-27T20:00:00.000Z",
-      "abstract": "A voice agent can handle almost every call on the words alone and still fail the few its sector's rules were written for. Emergency-call standards, fraud guidance, radio phraseology and vulnerability",
+      "abstract": "Reinforcement learning (RL) is increasingly used to post-train vision-language-action (VLA) models, yet how RL reshapes these policies remains poorly understood. We find that RL across widely used flo",
       "authors": [
-        "Bhavik Mangla"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.36130",
-      "title": "Memory Is a Derivation: The Distributed-Evidence Paradox in Long-Term Agents",
-      "url": "https://huggingface.co/papers/2609.36130",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-27T20:00:00.000Z",
-      "abstract": "Long-running LLM agents compress past interactions into persistent memories that may be reused as premises for later tasks. This creates a distinct derivation problem: whether the memory actually foll",
-      "authors": [
-        "Hongjun Liu",
-        "Chen Zhao"
+        "Minjae Oh",
+        "Yoonah Park",
+        "Jongwon Lim",
+        "Yohan Jo"
       ],
       "tags": [
-        "agent"
+        "reinforcement learning"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -52,22 +32,25 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.36314",
-      "title": "Fractional State Space Transition for Long Sequence Modeling",
-      "url": "https://huggingface.co/papers/2609.36314",
+      "id": "hf_paper_2609.34162",
+      "title": "SlideDP: Scaling Host-Resident LLM Fine-Tuning Across Multiple GPUs",
+      "url": "https://huggingface.co/papers/2609.34162",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-27T20:00:00.000Z",
-      "abstract": "State Space Models (SSMs) compress sequence history into a bounded recurrent state, making the resulting memory law a central architectural choice for long-context performance. Most modern SSMs rely o",
+      "abstract": "Host-resident layer streaming enables full-parameter LLM fine-tuning beyond GPU memory, but data-parallel ranks compete for shared host resources. Replicated transfers amplify traffic, while strong sc",
       "authors": [
-        "Ivan Kobyzev",
-        "Abbas Ghaddar",
-        "Ali Nasiri-Sarvi",
-        "Lifeng Shang",
-        "Yufei Cui"
+        "Ruijia Yang",
+        "Shiyuan Lin",
+        "Yulong Ao",
+        "Zhiyu Li",
+        "Yingli Zhao"
       ],
-      "tags": [],
+      "tags": [
+        "llm",
+        "fine-tuning"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -78,46 +61,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.36322",
-      "title": "Periodic Weak Spots: Phase Sensitivity from Chunked KV-Cache Compression",
-      "url": "https://huggingface.co/papers/2609.36322",
+      "id": "hf_paper_2609.36308",
+      "title": "CheatBench: Measuring Reward Gaming in AI Agents",
+      "url": "https://huggingface.co/papers/2609.36308",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-27T20:00:00.000Z",
-      "abstract": "Chunked KV-cache compression reduces the memory and attention costs of long-context inference by compressing windows of consecutive tokens into fewer cache entries at a fixed stride. Such compression",
+      "abstract": "Reinforcement learning has helped AI agents solve increasingly difficult tasks, but high rewards do not always reflect the work users intended. In recent incidents and controlled evaluations across th",
       "authors": [
-        "Xingyu Zhu",
-        "Pu",
-        "Yi",
-        "Ziheng Cheng",
-        "Ang Lv"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.34392",
-      "title": "Org-Agent: Beyond Personal Assistants Towards Organizational Agents",
-      "url": "https://huggingface.co/papers/2609.34392",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-27T20:00:00.000Z",
-      "abstract": "Language model agents serving organizations must coordinate requests from multiple users while using knowledge distributed across their interactions. We identify two complementary capabilities for thi",
-      "authors": [
-        "Luyao Zhuang",
-        "Yujing Zhang",
-        "Zijin Hong",
-        "Yilin Xiao",
-        "Xiao Huang"
+        "Long Phan",
+        "Stephen K. Yang",
+        "Jason J. Lim",
+        "Mantas Mazeika",
+        "Wenyu Zhang"
       ],
       "tags": [
         "agent"
@@ -157,7 +114,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 293497,
+      "stars": 293611,
       "votes": 0,
       "points": 0
     }

@@ -1,52 +1,24 @@
 {
-  "generatedAt": "2026-10-01T06:14:07.504Z",
+  "generatedAt": "2026-10-01T13:37:23.629Z",
   "date": "25-09-2026",
-  "count": 3,
+  "count": 2,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2609.32915",
-      "title": "AgentTell: Behavioural Side-Channel Leakage in Browser-Use Agents",
-      "url": "https://huggingface.co/papers/2609.32915",
+      "id": "hf_paper_2609.32264",
+      "title": "LANTERN: Illuminating Hidden Mathematical Knowledge in Language Models",
+      "url": "https://huggingface.co/papers/2609.32264",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-25T20:00:00.000Z",
-      "abstract": "Browser-use agents often carry information in their context as they move between websites. While it may be necessary for task completion, it also creates a privacy risk, especially when the informatio",
+      "abstract": "Language models can now prove theorems, but people still decide which problems to pursue. We ask whether a model's internal representations can help identify promising mathematical connections. We dev",
       "authors": [
-        "Asif Shahriar",
-        "Md Nafiu Rahman",
-        "Sadif Ahmed",
-        "Farig Sadeque",
-        "Md Rizwan Parvez"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.32722",
-      "title": "Scaling Properties of Same-Family On-Policy Distillation",
-      "url": "https://huggingface.co/papers/2609.32722",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-25T20:00:00.000Z",
-      "abstract": "*Reinforcement learning (RL)* can induce substantial reasoning capabilities in large language models (LLMs), but how much of this capability transfers across model scales, and how quickly, remains unc",
-      "authors": [
-        "Yuntai Bao",
-        "Qinfeng Li",
-        "Guoqing Jiang",
-        "Liwei Chen",
-        "Zhiheng Qin"
+        "Pavel Tikhonov",
+        "Elena Tutubalina",
+        "Ivan Oseledets",
+        "Dmitry I. Ignatov",
+        "Mikhail Seleznyov"
       ],
       "tags": [],
       "score": 6,
