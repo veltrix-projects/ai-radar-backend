@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-02T02:22:06.757Z",
+  "generatedAt": "2026-10-02T08:43:51.488Z",
   "date": "28-09-2026",
-  "count": 11,
+  "count": 13,
   "summary": null,
   "items": [
     {
@@ -25,44 +25,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.38597",
-      "title": "PixelUMM: Encoder-Free Unified Image and Video Understanding and Generation",
-      "url": "https://huggingface.co/papers/2609.38597",
+      "id": "hf_paper_2609.38104",
+      "title": "Explore Broadly, Reason Sharply: Push Small Models toward the Frontier via Sampling",
+      "url": "https://huggingface.co/papers/2609.38104",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-28T20:00:00.000Z",
-      "abstract": "Unified Multimodal Models (UMMs) often rely on separate visual representations for understanding and generation, increasing visual context length and complicating integration with established vision-l",
+      "abstract": "Power-sharpened sampling is an inference-time alternative to reinforcement-learning (RL) post-training for enhancing reasoning in large language models (LLMs). High-probability sequences are amplified",
       "authors": [
-        "Cong Wei",
-        "Xuanchi Ren",
-        "Bryan Chu",
-        "Weiming Ren",
-        "Huan Ling"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.38658",
-      "title": "Tacit-TTS: From Autoregressive Decoding to Masked Prediction for Efficient Transcript-Free Voice Cloning",
-      "url": "https://huggingface.co/papers/2609.38658",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-28T20:00:00.000Z",
-      "abstract": "TTS systems with autoregressive semantic modeling have demonstrated strong zero-shot voice cloning performance and rich expressive variation, but their sequential decoding incurs substantial latency.",
-      "authors": [
-        "Jian Chen",
-        "You Zhang",
-        "Mark Vinton"
+        "Panagiotis Theodoropoulos",
+        "Nan Jiang",
+        "Xintong Duan",
+        "Ali Hasan",
+        "Yuriy Nevmyvaka"
       ],
       "tags": [],
       "score": 6,
@@ -75,22 +51,23 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.38349",
-      "title": "MILO: Automated Harness Discovery via Orchestrated Multi-Agent Evolution",
-      "url": "https://huggingface.co/papers/2609.38349",
+      "id": "hf_paper_2609.32259",
+      "title": "Prefill-Free Cross-Family KV Cache Transfer for Heterogeneous Multi-Agent LLMs",
+      "url": "https://huggingface.co/papers/2609.32259",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-28T20:00:00.000Z",
-      "abstract": "Modern agentic systems combine an AI model with a harness that controls execution and environmental interactions. Harness design strongly affects long-horizon performance, yet its combinatorial search",
+      "abstract": "Recent multi-agent LLM systems increasingly combine heterogeneous models for specialized agent roles. However, text-based communication requires each receiver to prefill shared context already process",
       "authors": [
-        "Prithwish Jana",
-        "Mononito Goswami",
-        "Hao Liu",
-        "Xinyu Li",
-        "Langlin Huang"
+        "Vincent-Daniel Yun",
+        "Woosang Lim",
+        "Haneul Yoo",
+        "Sungjoo Yoo",
+        "Murali Annavaram"
       ],
       "tags": [
+        "llm",
         "agent"
       ],
       "score": 6,
@@ -103,21 +80,103 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.38653",
-      "title": "TERRA: Terrain-Aware Reconstruction, Retargeting and Control for Musculoskeletal Locomotion",
-      "url": "https://huggingface.co/papers/2609.38653",
+      "id": "hf_paper_2609.38593",
+      "title": "Prompt2Skill: Unsupervised Skill Optimization From Natural Language Instructions",
+      "url": "https://huggingface.co/papers/2609.38593",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-28T20:00:00.000Z",
-      "abstract": "Recent advances in musculoskeletal modeling and reinforcement learning have enabled muscle-actuated agents to reproduce increasingly complex human motions. Yet these capabilities remain largely confin",
+      "abstract": "Skills are external artifacts that Large Language Models (LLMs) consume at inference time to improve their performance on specialized domains by incorporating relevant procedural and domain knowledge.",
       "authors": [
-        "Merkourios Simos",
-        "Chengkun Li",
-        "Bianca Ziliotto",
-        "Alexander Mathis"
+        "Bo Ni",
+        "Li Li",
+        "Ryan A. Rossi",
+        "Franck Dernoncourt",
+        "Tyler Derr"
       ],
       "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.38585",
+      "title": "FlexRouter: Learning Complementary Model Sets for Flexible LLM Routing",
+      "url": "https://huggingface.co/papers/2609.38585",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-28T20:00:00.000Z",
+      "abstract": "Existing Large Language Model (LLM) routing methods score LLMs independently to select top-k models. However, this ignores model correlations and enforces a rigid computational budget. Consequently, r",
+      "authors": [
+        "Wang Wei",
+        "Harry Yang",
+        "Tiankai Yang",
+        "Samyadeep Basu",
+        "Hongjie Chen"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.36956",
+      "title": "Controlled Decoding Attacks on Black-Box LLMs",
+      "url": "https://huggingface.co/papers/2609.36956",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-28T20:00:00.000Z",
+      "abstract": "Manipulating next-token probabilities during generation can bypass the safety alignment of large language models. Existing approaches, however, rely on access to model weights or numerical token proba",
+      "authors": [
+        "Jesson Wang",
+        "Shawn Li",
+        "Wei Yang",
+        "Franck Dernoncourt",
+        "Ryan A. Rossi"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.37362",
+      "title": "Pretrain Once, Route Anywhere: Towards a Foundation Model for LLM Routing",
+      "url": "https://huggingface.co/papers/2609.37362",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-28T20:00:00.000Z",
+      "abstract": "Large language model (LLM) routing aims to assign each query to the most suitable model from a heterogeneous candidate pool, improving the quality--efficiency trade-off of LLM inference. Existing rout",
+      "authors": [
+        "Guannan Lai",
+        "Han-Jia Ye"
+      ],
+      "tags": [
+        "llm"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

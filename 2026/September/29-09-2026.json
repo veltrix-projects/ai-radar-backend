@@ -1,47 +1,25 @@
 {
-  "generatedAt": "2026-10-02T02:22:06.757Z",
+  "generatedAt": "2026-10-02T08:43:51.487Z",
   "date": "29-09-2026",
-  "count": 18,
+  "count": 15,
   "summary": null,
   "items": [
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Liquid AI Releases d1: A Decision Model That Returns Calibrated Probabilities With Zero Output Tokens",
-      "url": "https://www.marktechpost.com/2026/09/29/liquid-ai-releases-d1-a-decision-model-that-returns-calibrated-probabilities-with-zero-output-tokens/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-09-29T21:47:09.000Z",
-      "abstract": "Liquid AI has released d1, a decision model built for structured choices instead of text generation. You give it context and a set of typed questions. It returns calibrated probabilities across a fixe",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.38792",
-      "title": "Training LLM Judges from Language Feedback via Position-Selective Self-Distillation",
-      "url": "https://huggingface.co/papers/2609.38792",
+      "id": "hf_paper_2610.00544",
+      "title": "Memorizon: Training World Models Beyond Their Context Window",
+      "url": "https://huggingface.co/papers/2610.00544",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-29T20:00:00.000Z",
-      "abstract": "We study training LLM judges from natural language feedback, especially for subjective tasks where the verdict depends strongly on which evaluation criteria the judge invokes and how it weighs them. T",
+      "abstract": "Streaming world models should render a place consistently across repeated visits. Directly supervising such revisits requires training samples that capture both visits, often spanning minutes. Yet den",
       "authors": [
-        "Ilgee Hong",
-        "Changlong Yu",
-        "Zhenghao Xu",
-        "Xin Liu",
-        "Yuwei Zhang"
+        "Tingting Liao",
+        "Xuezhi Liang",
+        "Hao Li",
+        "Guangyi Liu"
       ],
       "tags": [
-        "llm",
         "training"
       ],
       "score": 6,
@@ -54,21 +32,23 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.39154",
-      "title": "DAGent: Evaluate-then-Grow Planning for Deep Research Agents",
-      "url": "https://huggingface.co/papers/2609.39154",
+      "id": "hf_paper_2609.38886",
+      "title": "Benchmarking and Enhancing Skill-Level Memory for Partially Observable Robotic Manipulation",
+      "url": "https://huggingface.co/papers/2609.38886",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-29T20:00:00.000Z",
-      "abstract": "Deep research tasks require agents to navigate large knowledge spaces, synthesize evidence across many sources, and adapt their plans as findings emerge. Directed acyclic graph (DAG)-based multi-agent",
+      "abstract": "Recent advances in robot learning have enabled manipulation policies to perform increasingly diverse tasks and generalize across environments. However, reliable execution often depends on hidden task",
       "authors": [
-        "Hanwen Liu",
-        "Yuanfu Sun",
-        "Qiaoyu Tan"
+        "Yansong Shi",
+        "Jiange Yang",
+        "Xijie Yang",
+        "Shaowei Zhang",
+        "Yuhan Zhu"
       ],
       "tags": [
-        "agent"
+        "benchmark"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -80,44 +60,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.39344",
-      "title": "Who Said What, and Will It Be Remembered? Evaluating Persistent Speaker Attribution Across Meetings",
-      "url": "https://huggingface.co/papers/2609.39344",
+      "id": "hf_paper_2609.38987",
+      "title": "Smaller Models, Better Rejects: Preference Distillation Scaling",
+      "url": "https://huggingface.co/papers/2609.38987",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-29T20:00:00.000Z",
-      "abstract": "Speech transcripts used as long-term memory must preserve both words and stable speaker identities. Existing meeting-transcription metrics either ignore speakers or remap anonymous speakers independen",
+      "abstract": "Preference distillation typically treats a teacher response as preferred and the student's own response as rejected. This assumes that self-generated failures are the most informative negatives and th",
       "authors": [
-        "Shantanu Vispute",
-        "Aditya Mishra",
-        "Siddhartha Saxena"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.40195",
-      "title": "MemLife: Curating and Reasoning over Long-Term Egocentric Video Memories",
-      "url": "https://huggingface.co/papers/2609.40195",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-29T20:00:00.000Z",
-      "abstract": "Long-term egocentric video enables personalized AI assistants to reason about daily life. However, as video histories grow to hundreds of hours spanning months or years, reprocessing raw clips for eve",
-      "authors": [
-        "Guangzhi Xiong",
-        "Xinyuan Zhang",
-        "Xiao Yang",
-        "Hyokun Yun",
-        "Kai Zhang"
+        "Rui Cai",
+        "Wenhui Zhu",
+        "Xiwen Chen",
+        "Jincheng Cao",
+        "Han Yu"
       ],
       "tags": [],
       "score": 6,
@@ -130,20 +86,48 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.38716",
-      "title": "SpatialCORE: Confidence-Aware Grounded Spatial Reasoning in Large Vision--Language Models",
-      "url": "https://huggingface.co/papers/2609.38716",
+      "id": "hf_paper_2609.40362",
+      "title": "Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces",
+      "url": "https://huggingface.co/papers/2609.40362",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-29T20:00:00.000Z",
-      "abstract": "Large Vision-Language Models (LVLMs) have made remarkable progress across visual perception tasks, yet spatial reasoning remains a persistent weakness, especially for questions that require reasoning",
+      "abstract": "We present Multimodal Flow, a fully continuous generative model of language and vision. Most unified multimodal models either model both language and quantized images as discrete tokens or combine dis",
       "authors": [
-        "Rafi Ibn Sultan",
-        "Xiangyu Zhou",
-        "Md. Sajid Alam Chowdhury",
-        "Chengyin Li",
-        "Prashant Khanduri"
+        "Hongyuan Tao",
+        "Xinggang Wang",
+        "Lianghui Zhu",
+        "Yongkang Li",
+        "Yunchao Wei"
+      ],
+      "tags": [
+        "multimodal"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.00574",
+      "title": "Make Sparse Rewards Count: Density-Aware Reward Aggregation for Multi-Reward RL",
+      "url": "https://huggingface.co/papers/2610.00574",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-29T20:00:00.000Z",
+      "abstract": "Multi-reward reinforcement learning trains large language models to satisfy multiple behavioral objectives simultaneously. Reward-wise normalization, as used in GDPO, preserves reward-specific relativ",
+      "authors": [
+        "Tong Zheng",
+        "Skylar Zhai",
+        "Zhan Cheng",
+        "TianMing Sha",
+        "Youling Huang"
       ],
       "tags": [],
       "score": 6,
@@ -156,22 +140,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.38717",
-      "title": "Soft Spatial Reasoning",
-      "url": "https://huggingface.co/papers/2609.38717",
+      "id": "hf_paper_2609.39027",
+      "title": "A Missing Piece for Trustworthy AI Reviewers: From Benchmarking Rhetorical Robustness to SciCore Review",
+      "url": "https://huggingface.co/papers/2609.39027",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-29T20:00:00.000Z",
-      "abstract": "Large Vision-Language Models (LVLMs) commonly perform spatial reasoning through chain-of-thought (CoT), encoding intermediate reasoning as autoregressive sequences of discrete language tokens. Such ha",
+      "abstract": "AI reviewers can assign different judgments to manuscripts that report the same science in different wording, potentially rewarding rhetorical optimization over scientific improvement. We formulate Rh",
       "authors": [
-        "Rafi Ibn Sultan",
-        "Md. Sajid Alam Chowdhury",
-        "Saleh Zare Zade",
-        "Chengyin Li",
-        "Prashant Khanduri"
+        "Chenguang Wang",
+        "Ming Li",
+        "Chengrui Fan",
+        "Jianpeng Chen",
+        "Han Chen"
       ],
-      "tags": [],
+      "tags": [
+        "benchmark"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -182,71 +168,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.38854",
-      "title": "Mitigating the Length-Scaling Tax with Online Distillation",
-      "url": "https://huggingface.co/papers/2609.38854",
+      "id": "hf_paper_2610.00737",
+      "title": "Personalized Image Generation with Reasoning and Reflection",
+      "url": "https://huggingface.co/papers/2610.00737",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-29T20:00:00.000Z",
-      "abstract": "Length scaling during reinforcement-learning (RL) post-training is often viewed as a sign of improved reasoning ability, especially on difficult problems, but may also make responses to already-solved",
+      "abstract": "Personalized image generation has remained narrowly focused on conditional synthesis from curated visual exemplars, rather than capturing who a user is. In practice, however, a user's personal context",
       "authors": [
-        "Xu Wan",
-        "Wenyue Xu",
-        "Shengjie Zhao",
-        "Mingyang Sun"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.40295",
-      "title": "How Much Is an AI Token Worth? Scaling Laws for Wild AI-Generated Web Text",
-      "url": "https://huggingface.co/papers/2609.40295",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-29T20:00:00.000Z",
-      "abstract": "Web text makes up the majority of pretraining data and is increasingly AI-generated. After applying FineWeb quality filtering, we find that 27.5% of tokens from June 2026 web data are labeled as AI-ge",
-      "authors": [
-        "Jenna Russell",
-        "Ben Glickenhaus",
-        "Katherine Thai",
-        "John Wieting",
-        "Mohit Iyyer"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.39938",
-      "title": "LEAP: Learned Block-wise Evidence Retrieval for Long Audio-Video Perception",
-      "url": "https://huggingface.co/papers/2609.39938",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-29T20:00:00.000Z",
-      "abstract": "Hour-scale audio-visual question answering is constrained by a context dilemma: dense whole-recording encoding rapidly exhausts context limits, whereas uniform temporal compression severely dilutes fi",
-      "authors": [
-        "Juyi Lin",
-        "Zhiqiang Lao",
-        "Jiali Cui",
-        "Lin Zhao",
-        "Pu Zhao"
+        "Bo Ni",
+        "Ngoc N. Tran",
+        "Qinwen Ge",
+        "Franck Dernoncourt",
+        "Seunghyun Yoon"
       ],
       "tags": [],
       "score": 6,

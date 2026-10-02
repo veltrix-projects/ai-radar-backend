@@ -1,136 +1,31 @@
 {
-  "generatedAt": "2026-10-02T02:22:06.758Z",
+  "generatedAt": "2026-10-02T08:43:51.488Z",
   "date": "27-09-2026",
-  "count": 6,
+  "count": 2,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2609.34274",
-      "title": "BIABench: Evaluating AI agents on real-world bioimage analysis tasks",
-      "url": "https://huggingface.co/papers/2609.34274",
+      "id": "hf_paper_2609.34621",
+      "title": "Does Native 3D Texture Generation Necessarily Require 3D Assets for Training?",
+      "url": "https://huggingface.co/papers/2609.34621",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-27T20:00:00.000Z",
-      "abstract": "Artificial-intelligence (AI) agents hold promise for automating bioimage analysis, yet no benchmark evaluates whether they can carry out real-world analyses end to end. Such analyses are hard for agen",
+      "abstract": "Native 3D texture generation synthesizes colors directly in 3D space for a given geometry, conditioned on multi-view reference images. It is generally believed that training such models requires large",
       "authors": [
-        "Zixuan Pan",
-        "Davide Panzeri",
-        "Lukas Johanns",
-        "Marilin Moor",
-        "Yu Zhou"
+        "Jiangshan Wang",
+        "Zeqiang Lai",
+        "Jiayi Guo",
+        "Xin Yang",
+        "Xin Huang"
       ],
       "tags": [
-        "agent"
+        "training"
       ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.35928",
-      "title": "Prompted Identity Degrades Cooperation in Multi-Agent LLM Systems",
-      "url": "https://huggingface.co/papers/2609.35928",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-27T20:00:00.000Z",
-      "abstract": "Multi-agent LLM systems increasingly mix models from several providers, yet exposing each agent's underlying model identity to its peers significantly impairs cooperation. We show that when agents are",
-      "authors": [
-        "Xavier Del Giudice",
-        "Alessio Palma",
-        "Matteo Migliarini",
-        "Fabio Galasso",
-        "Indro Spinelli"
-      ],
-      "tags": [
-        "llm",
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.35646",
-      "title": "Rubric Rewards from Item Response Theory",
-      "url": "https://huggingface.co/papers/2609.35646",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-27T20:00:00.000Z",
-      "abstract": "Many language tasks have no single answer that can be checked automatically. Rubrics provide criteria for judging responses to these tasks. For reinforcement learning, the resulting verdicts must be c",
-      "authors": [
-        "Milad Yazdani",
-        "Yaser Souri",
-        "Xiren Zhou",
-        "Pranit Chawla",
-        "Dena Shahriari"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.34736",
-      "title": "SeLMRoute: Probabilistic Semantic Evidence for Large Language Model Routing",
-      "url": "https://huggingface.co/papers/2609.34736",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-27T20:00:00.000Z",
-      "abstract": "Large language model (LLM) routing aims to select the most suitable model for each incoming query. Most existing routers learn this decision directly from query embeddings, model representations, pref",
-      "authors": [
-        "Vasilis Perifanis",
-        "Nikolaos Pavlidis",
-        "Symeon Symeonidis"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.34563",
-      "title": "Rethinking Latent Visual Reasoning: Grounding Latent Reasoning in Visual Evidence",
-      "url": "https://huggingface.co/papers/2609.34563",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-27T20:00:00.000Z",
-      "abstract": "Latent visual reasoning (LVR) enables multimodal large language models (MLLMs) to perform intermediate computation in continuous latent tokens rather than expressing every reasoning step in words. How",
-      "authors": [
-        "Xi Xiao",
-        "Tianchen Zhao",
-        "Youngeun Kim",
-        "Zhuowei Li",
-        "Linghan Xu"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -163,7 +58,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 293975,
+      "stars": 294089,
       "votes": 0,
       "points": 0
     }
