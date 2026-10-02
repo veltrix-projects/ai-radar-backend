@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-02T20:00:58.101Z",
+  "generatedAt": "2026-10-02T23:53:34.609Z",
   "date": "28-09-2026",
-  "count": 8,
+  "count": 9,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,58 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.36435",
+      "title": "MemFold: Learning Compact Soft Memory for Long-Context Personalization via On-Policy Optimization",
+      "url": "https://huggingface.co/papers/2609.36435",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-28T20:00:00.000Z",
+      "abstract": "An assistant that serves the same user over a long horizon has to answer from what that user has revealed: which preferences still hold, which were revised, and which constraints apply now. Retaining",
+      "authors": [
+        "Jingxuan Wu",
+        "Yuzhe Yang",
+        "Yiqiao Huang",
+        "Chengzhi Liu",
+        "Qingni Wang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.36585",
+      "title": "Transformers Stop Thinking Too Early, and a Tiny LoRA Fixes It",
+      "url": "https://huggingface.co/papers/2609.36585",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-28T20:00:00.000Z",
+      "abstract": "Pretrained transformers use little of their depth to follow references in context. Thirteen base models reliably follow only 1.4-3.6 lines, and extra pretrained loops add little. A task-trained rank-8",
+      "authors": [
+        "Zehao Jin",
+        "Ruixuan Deng",
+        "Junran Wang"
+      ],
+      "tags": [
+        "transformer"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -69,32 +121,6 @@
         "Fabian Schramm"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.00348",
-      "title": "Removing the NEEDLE in the Haystack: Backdoor Removal in LLMs via Weight Orthogonalisation",
-      "url": "https://huggingface.co/papers/2610.00348",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-28T20:00:00.000Z",
-      "abstract": "Backdoor attacks can be implanted in Large Language Models (LLMs) during training, causing unwanted behaviour when a trigger appears in the input. Existing backdoor defences for LLMs attempt to remove",
-      "authors": [
-        "Minoo Kim",
-        "Vasileios Lampos",
-        "George Drayson"
-      ],
-      "tags": [
-        "llm"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
