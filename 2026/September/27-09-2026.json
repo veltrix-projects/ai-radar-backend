@@ -1,27 +1,24 @@
 {
-  "generatedAt": "2026-10-02T08:43:51.488Z",
+  "generatedAt": "2026-10-02T15:11:35.824Z",
   "date": "27-09-2026",
   "count": 2,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2609.34621",
-      "title": "Does Native 3D Texture Generation Necessarily Require 3D Assets for Training?",
-      "url": "https://huggingface.co/papers/2609.34621",
+      "id": "hf_paper_2609.36138",
+      "title": "When Does Correction Become Repair? Mechanistic Auditing of Internal Interventions in Tool-Using LLMs",
+      "url": "https://huggingface.co/papers/2609.36138",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-27T20:00:00.000Z",
-      "abstract": "Native 3D texture generation synthesizes colors directly in 3D space for a given geometry, conditioned on multi-view reference images. It is generally believed that training such models requires large",
+      "abstract": "Before invoking external tools, an agentic LLM must select among a K-way action space: executing a call, seeking clarification, answering directly, or declining. While internal activation steering can",
       "authors": [
-        "Jiangshan Wang",
-        "Zeqiang Lai",
-        "Jiayi Guo",
-        "Xin Yang",
-        "Xin Huang"
+        "Jiayi Li",
+        "Ruizhe Li"
       ],
       "tags": [
-        "training"
+        "llm"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -58,7 +55,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 294089,
+      "stars": 294225,
       "votes": 0,
       "points": 0
     }

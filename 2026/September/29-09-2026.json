@@ -1,26 +1,25 @@
 {
-  "generatedAt": "2026-10-02T08:43:51.487Z",
+  "generatedAt": "2026-10-02T15:11:35.821Z",
   "date": "29-09-2026",
-  "count": 15,
+  "count": 13,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.00544",
-      "title": "Memorizon: Training World Models Beyond Their Context Window",
-      "url": "https://huggingface.co/papers/2610.00544",
+      "id": "hf_paper_2610.00437",
+      "title": "JevSpawn: Adaptive Agentic Inference through Compositional Action Spaces",
+      "url": "https://huggingface.co/papers/2610.00437",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-29T20:00:00.000Z",
-      "abstract": "Streaming world models should render a place consistently across repeated visits. Directly supervising such revisits requires training samples that capture both visits, often spanning minutes. Yet den",
+      "abstract": "LLM agents generate intermediate reasoning and actions token by token, making extended interactions slow and computationally expensive. Jev-style models offer fast probabilistic predictions over finit",
       "authors": [
-        "Tingting Liao",
-        "Xuezhi Liang",
-        "Hao Li",
-        "Guangyi Liu"
+        "Haoyang Su",
+        "Weiran Huang"
       ],
       "tags": [
-        "training"
+        "agent",
+        "inference"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -32,48 +31,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.38886",
-      "title": "Benchmarking and Enhancing Skill-Level Memory for Partially Observable Robotic Manipulation",
-      "url": "https://huggingface.co/papers/2609.38886",
+      "id": "hf_paper_2606.10953",
+      "title": "Architect-Ant: Editable Automatic Furnishing of Architectural Floor Plans",
+      "url": "https://huggingface.co/papers/2606.10953",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-29T20:00:00.000Z",
-      "abstract": "Recent advances in robot learning have enabled manipulation policies to perform increasingly diverse tasks and generalize across environments. However, reliable execution often depends on hidden task",
+      "abstract": "Furnished floor plans support real-estate visualization, interior design, and architectural workflows, yet automatic furnishing remains challenged by limited real-world data and the need to satisfy in",
       "authors": [
-        "Yansong Shi",
-        "Jiange Yang",
-        "Xijie Yang",
-        "Shaowei Zhang",
-        "Yuhan Zhu"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.38987",
-      "title": "Smaller Models, Better Rejects: Preference Distillation Scaling",
-      "url": "https://huggingface.co/papers/2609.38987",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-29T20:00:00.000Z",
-      "abstract": "Preference distillation typically treats a teacher response as preferred and the student's own response as rejected. This assumes that self-generated failures are the most informative negatives and th",
-      "authors": [
-        "Rui Cai",
-        "Wenhui Zhu",
-        "Xiwen Chen",
-        "Jincheng Cao",
-        "Han Yu"
+        "Fedor Rodionov",
+        "Aleksandar Cvejic",
+        "Michael Birsak",
+        "John Femiani",
+        "Peter Wonka"
       ],
       "tags": [],
       "score": 6,
@@ -86,23 +57,23 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.40362",
-      "title": "Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces",
-      "url": "https://huggingface.co/papers/2609.40362",
+      "id": "hf_paper_2610.00559",
+      "title": "PhysVista: Benchmarking Physical Intelligence in VLMs via a Perception-Reasoning-Assessment Loop",
+      "url": "https://huggingface.co/papers/2610.00559",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-29T20:00:00.000Z",
-      "abstract": "We present Multimodal Flow, a fully continuous generative model of language and vision. Most unified multimodal models either model both language and quantized images as discrete tokens or combine dis",
+      "abstract": "Vision-Language Models (VLMs) have shown strong multimodal reasoning capabilities, yet whether they truly capture the physical consistency underlying real-world dynamics remains unclear. Existing benc",
       "authors": [
-        "Hongyuan Tao",
-        "Xinggang Wang",
-        "Lianghui Zhu",
-        "Yongkang Li",
-        "Yunchao Wei"
+        "Xinge Peng",
+        "Yiting Lu",
+        "Tianwu Zhi",
+        "Wen Wen",
+        "Jianzhao Liu"
       ],
       "tags": [
-        "multimodal"
+        "benchmark"
       ],
       "score": 8,
       "priority": "HIGH",
@@ -114,20 +85,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.00574",
-      "title": "Make Sparse Rewards Count: Density-Aware Reward Aggregation for Multi-Reward RL",
-      "url": "https://huggingface.co/papers/2610.00574",
+      "id": "hf_paper_2609.39378",
+      "title": "EgoTools: Towards Tool-Centric Reasoning in Real-World Egocentric Videos",
+      "url": "https://huggingface.co/papers/2609.39378",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-29T20:00:00.000Z",
-      "abstract": "Multi-reward reinforcement learning trains large language models to satisfy multiple behavioral objectives simultaneously. Reward-wise normalization, as used in GDPO, preserves reward-specific relativ",
+      "abstract": "Real-world embodied tasks, from everyday activities to professional procedures, require agents to act under physical constraints while tracking evolving object and task states. Tool use sits at the he",
       "authors": [
-        "Tong Zheng",
-        "Skylar Zhai",
-        "Zhan Cheng",
-        "TianMing Sha",
-        "Youling Huang"
+        "Shulin Tian",
+        "Junsu Kim",
+        "Shuai Liu",
+        "Hao Li",
+        "Yujiao Shen"
       ],
       "tags": [],
       "score": 6,
@@ -140,53 +111,25 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.39027",
-      "title": "A Missing Piece for Trustworthy AI Reviewers: From Benchmarking Rhetorical Robustness to SciCore Review",
-      "url": "https://huggingface.co/papers/2609.39027",
+      "id": "hf_paper_2609.39687",
+      "title": "Better Supervision Is Nearby: Neighborhood On-Policy Self-Distillation",
+      "url": "https://huggingface.co/papers/2609.39687",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-29T20:00:00.000Z",
-      "abstract": "AI reviewers can assign different judgments to manuscripts that report the same science in different wording, potentially rewarding rhetorical optimization over scientific improvement. We formulate Rh",
+      "abstract": "On-policy self-distillation (OPSD) trains mathematical reasoning models using a privileged teacher that sees a reference solution and supervises student-sampled prefixes. Standard OPSD uses one fixed",
       "authors": [
-        "Chenguang Wang",
-        "Ming Li",
-        "Chengrui Fan",
-        "Jianpeng Chen",
-        "Han Chen"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.00737",
-      "title": "Personalized Image Generation with Reasoning and Reflection",
-      "url": "https://huggingface.co/papers/2610.00737",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-29T20:00:00.000Z",
-      "abstract": "Personalized image generation has remained narrowly focused on conditional synthesis from curated visual exemplars, rather than capturing who a user is. In practice, however, a user's personal context",
-      "authors": [
-        "Bo Ni",
-        "Ngoc N. Tran",
-        "Qinwen Ge",
-        "Franck Dernoncourt",
-        "Seunghyun Yoon"
+        "Xincheng Wei",
+        "Yifan Ding",
+        "Yoshua Li",
+        "Yuquan Lu",
+        "Ziheng Li"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

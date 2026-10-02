@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-02T08:43:51.488Z",
+  "generatedAt": "2026-10-02T15:11:35.823Z",
   "date": "28-09-2026",
-  "count": 13,
+  "count": 11,
   "summary": null,
   "items": [
     {
@@ -25,20 +25,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.38104",
-      "title": "Explore Broadly, Reason Sharply: Push Small Models toward the Frontier via Sampling",
-      "url": "https://huggingface.co/papers/2609.38104",
+      "id": "hf_paper_2609.36602",
+      "title": "OTRetarget: Joint Robot and Object Motion Retargeting via Optimal Transport",
+      "url": "https://huggingface.co/papers/2609.36602",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-28T20:00:00.000Z",
-      "abstract": "Power-sharpened sampling is an inference-time alternative to reinforcement-learning (RL) post-training for enhancing reasoning in large language models (LLMs). High-probability sequences are amplified",
+      "abstract": "Transferring human motion to humanoid robots requires adapting the demonstrated motion to the robot morphology while preserving interactions with the environment. This is particularly challenging for",
       "authors": [
-        "Panagiotis Theodoropoulos",
-        "Nan Jiang",
-        "Xintong Duan",
-        "Ali Hasan",
-        "Yuriy Nevmyvaka"
+        "Guillaume Besset",
+        "Erwann Carn",
+        "Timothée Carecchio",
+        "Valentin Tordjman-Levavasseur",
+        "Fabian Schramm"
       ],
       "tags": [],
       "score": 6,
@@ -51,24 +51,21 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.32259",
-      "title": "Prefill-Free Cross-Family KV Cache Transfer for Heterogeneous Multi-Agent LLMs",
-      "url": "https://huggingface.co/papers/2609.32259",
+      "id": "hf_paper_2610.00348",
+      "title": "Removing the NEEDLE in the Haystack: Backdoor Removal in LLMs via Weight Orthogonalisation",
+      "url": "https://huggingface.co/papers/2610.00348",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-28T20:00:00.000Z",
-      "abstract": "Recent multi-agent LLM systems increasingly combine heterogeneous models for specialized agent roles. However, text-based communication requires each receiver to prefill shared context already process",
+      "abstract": "Backdoor attacks can be implanted in Large Language Models (LLMs) during training, causing unwanted behaviour when a trigger appears in the input. Existing backdoor defences for LLMs attempt to remove",
       "authors": [
-        "Vincent-Daniel Yun",
-        "Woosang Lim",
-        "Haneul Yoo",
-        "Sungjoo Yoo",
-        "Murali Annavaram"
+        "Minoo Kim",
+        "Vasileios Lampos",
+        "George Drayson"
       ],
       "tags": [
-        "llm",
-        "agent"
+        "llm"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -80,20 +77,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.38593",
-      "title": "Prompt2Skill: Unsupervised Skill Optimization From Natural Language Instructions",
-      "url": "https://huggingface.co/papers/2609.38593",
+      "id": "hf_paper_2609.36820",
+      "title": "CorrGRPO: Correlation-Normalized GRPO for Multi-Reward Learning",
+      "url": "https://huggingface.co/papers/2609.36820",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-28T20:00:00.000Z",
-      "abstract": "Skills are external artifacts that Large Language Models (LLMs) consume at inference time to improve their performance on specialized domains by incorporating relevant procedural and domain knowledge.",
+      "abstract": "Group Relative Policy Optimization (GRPO) is widely used to train reasoning language models, where it computes advantages by centering and normalizing rewards across rollouts of the same prompt. For m",
       "authors": [
-        "Bo Ni",
-        "Li Li",
-        "Ryan A. Rossi",
-        "Franck Dernoncourt",
-        "Tyler Derr"
+        "Wenbin Hu",
+        "Huihao Jing",
+        "Haochen Shi",
+        "Yuxuan Liu",
+        "Haoran Li"
       ],
       "tags": [],
       "score": 6,
@@ -106,76 +103,23 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.38585",
-      "title": "FlexRouter: Learning Complementary Model Sets for Flexible LLM Routing",
-      "url": "https://huggingface.co/papers/2609.38585",
+      "id": "hf_paper_2609.37533",
+      "title": "E-MoE: Enhanced Mixture-of-Experts for Non-Factorized Diffusion Language Models",
+      "url": "https://huggingface.co/papers/2609.37533",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-28T20:00:00.000Z",
-      "abstract": "Existing Large Language Model (LLM) routing methods score LLMs independently to select top-k models. However, this ignores model correlations and enforces a rigid computational budget. Consequently, r",
+      "abstract": "Masked diffusion models (MDMs) generate sequences by progressively unmasking several tokens per denoising step, but their reverse process is typically factorized over positions, limiting sample qualit",
       "authors": [
-        "Wang Wei",
-        "Harry Yang",
-        "Tiankai Yang",
-        "Samyadeep Basu",
-        "Hongjie Chen"
+        "Arseny Ivanov",
+        "Alexander Kolesov",
+        "Alexander Korotin",
+        "Ivan Oseledets",
+        "Mikhail Goncharov"
       ],
       "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.36956",
-      "title": "Controlled Decoding Attacks on Black-Box LLMs",
-      "url": "https://huggingface.co/papers/2609.36956",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-28T20:00:00.000Z",
-      "abstract": "Manipulating next-token probabilities during generation can bypass the safety alignment of large language models. Existing approaches, however, rely on access to model weights or numerical token proba",
-      "authors": [
-        "Jesson Wang",
-        "Shawn Li",
-        "Wei Yang",
-        "Franck Dernoncourt",
-        "Ryan A. Rossi"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.37362",
-      "title": "Pretrain Once, Route Anywhere: Towards a Foundation Model for LLM Routing",
-      "url": "https://huggingface.co/papers/2609.37362",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-28T20:00:00.000Z",
-      "abstract": "Large language model (LLM) routing aims to assign each query to the most suitable model from a heterogeneous candidate pool, improving the quality--efficiency trade-off of LLM inference. Existing rout",
-      "authors": [
-        "Guannan Lai",
-        "Han-Jia Ye"
-      ],
-      "tags": [
-        "llm"
+        "diffusion"
       ],
       "score": 6,
       "priority": "MEDIUM",
