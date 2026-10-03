@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-10-02T23:53:34.610Z",
+  "generatedAt": "2026-10-03T02:57:46.223Z",
   "date": "25-09-2026",
-  "count": 3,
+  "count": 4,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2609.22753",
+      "title": "Replacing Large Language Models with Jev Decision Models for Low-Latency Edge Service Orchestration",
+      "url": "https://huggingface.co/papers/2609.22753",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-25T20:00:00.000Z",
+      "abstract": "Natural-language service requests can require a language-model decision before execution starts, consuming part of the request's latency budget. We integrate Jev's decision-oriented application progra",
+      "authors": [
+        "Delong Li",
+        "Xu Wang",
+        "Haochen Gong",
+        "Rui Lang",
+        "Guangsheng Yu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2609.32993",
       "title": "X-Tree: Tokenizing Reusable Experience for Efficient Agent Generalization",
