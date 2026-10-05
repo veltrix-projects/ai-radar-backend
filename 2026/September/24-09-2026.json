@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-10-05T09:18:44.026Z",
+  "generatedAt": "2026-10-05T18:38:27.445Z",
   "date": "24-09-2026",
-  "count": 2,
+  "count": 3,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2609.32046",
+      "title": "Receiver-Conditioned Latent Communication gives 94% CacheBack",
+      "url": "https://huggingface.co/papers/2609.32046",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-24T20:00:00.000Z",
+      "abstract": "Multi-agent systems distribute large contexts across agents that communicate to solve a task. Text messages are compact but require decoding and may omit evidence the receiving agent needs. Recent lat",
+      "authors": [
+        "Maximillian Rossi",
+        "Prajwal Raghunath",
+        "Haoqing Xuan",
+        "Yusen Zhang",
+        "Eugene Wu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Fc",
       "title": "Automating coherent long-form video generation",

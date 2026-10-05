@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-05T09:18:44.023Z",
+  "generatedAt": "2026-10-05T18:38:27.442Z",
   "date": "01-10-2026",
-  "count": 21,
+  "count": 16,
   "summary": null,
   "items": [
     {
@@ -27,20 +27,18 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.03391",
-      "title": "Native Action-Prior Learning from Videos for World Action Models",
-      "url": "https://huggingface.co/papers/2610.03391",
+      "id": "hf_paper_2610.03695",
+      "title": "Language Models that Play Chess and Explain Their Moves",
+      "url": "https://huggingface.co/papers/2610.03695",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-01T20:00:00.000Z",
-      "abstract": "World action models integrate future visual dynamics with robot action prediction, but their scalability remains limited by the need for action-annotated robot trajectories. Observation-only videos co",
+      "abstract": "Modern chess engines are silent experts: they play at a superhuman level, but do not offer explanations for their play. On the other hand, language models (LMs) can generate plausible-sounding explana",
       "authors": [
-        "Zhaochong An",
-        "Fei Zhang",
-        "Menglin Jia",
-        "Duncan Frost",
-        "Zijian Zhou"
+        "Adithya Bhaskar",
+        "Jeffrey Cheng",
+        "Danqi Chen"
       ],
       "tags": [],
       "score": 6,
@@ -53,23 +51,23 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.03665",
-      "title": "Pivot-SD: Efficient Self-Distillation for Masked Diffusion Language Models",
-      "url": "https://huggingface.co/papers/2610.03665",
+      "id": "hf_paper_2610.03675",
+      "title": "FrugalEvo: Towards Cost-Aware LLM-Guided Program Evolution",
+      "url": "https://huggingface.co/papers/2610.03675",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-01T20:00:00.000Z",
-      "abstract": "Masked diffusion language models (dLMs) offer a promising parallel alternative to autoregressive models for complex reasoning. However, they face a distinct credit-assignment challenge, since a few co",
+      "abstract": "LLM-guided evolutionary methods, such as AlphaEvolve, have emerged as powerful approaches for challenging computational optimization problems, such as circle packing. However, prior work typically opt",
       "authors": [
-        "Seo Hyun Kim",
-        "Sunwoo Hong",
-        "Younwoo Choi",
-        "Chen-Hao Chao",
-        "Se-Young Yun"
+        "Hui Chen",
+        "Xuan Qi",
+        "James Xu Zhao",
+        "Zhaopeng Feng",
+        "Shilong Liu"
       ],
       "tags": [
-        "diffusion"
+        "llm"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -81,48 +79,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.03574",
-      "title": "HyperBrowseComp: A Multilingual and Multimodal Stress Test for Web-Browsing Agents",
-      "url": "https://huggingface.co/papers/2610.03574",
+      "id": "hf_paper_2610.03367",
+      "title": "Multilingual GSM-Symbolic: What determines capability transfer across languages?",
+      "url": "https://huggingface.co/papers/2610.03367",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-01T20:00:00.000Z",
-      "abstract": "We introduce HyperBrowseComp, a multilingual and multimodal browsing benchmark comprising 423 manually authored and human-validated questions across 13 languages, written by native or highly proficien",
+      "abstract": "We understand little about how capabilities acquired in one language carry over to another, or what governs this transfer: evaluations rely on incomparable, saturation-prone datasets and rarely examin",
       "authors": [
-        "Alham Fikri Aji",
-        "Faiz Rizki Ramadhan",
-        "Zayd M. K. Zuhri",
-        "Seung Hun Eddie Han",
-        "Ryandito Diandaru"
-      ],
-      "tags": [
-        "multimodal",
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.03664",
-      "title": "ProAR: Learning Prospective Reasoning with Autoregressive Video Models",
-      "url": "https://huggingface.co/papers/2610.03664",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-01T20:00:00.000Z",
-      "abstract": "Autoregressive (AR) video models excel at causal generation, but their reliance on next-chunk prediction confines them to a short-sighted, reactive paradigm. This limitation is particularly consequent",
-      "authors": [
-        "Linghui Shen",
-        "Tinghui Zhu",
-        "Sheng Zhang",
-        "Muhao Chen"
+        "Kenneth Enevoldsen",
+        "Riley Herchert",
+        "Sofie Mosegaard",
+        "Dan Saattrup Smart",
+        "Simon Enni"
       ],
       "tags": [],
       "score": 6,
@@ -135,21 +105,22 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.02824",
-      "title": "MetaRubric: Learning to Reward for Rubric-Based Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2610.02824",
+      "id": "hf_paper_2610.03240",
+      "title": "Collective Bias Mitigation via Model Routing and Collaboration",
+      "url": "https://huggingface.co/papers/2610.03240",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-01T20:00:00.000Z",
-      "abstract": "Rubric-based reinforcement learning extends reward-driven optimization to open-ended tasks by assigning partial credit to individual response requirements. However, rubric judges can assign a high cri",
+      "abstract": "Large language models (LLMs) are increasingly deployed in public health, finance, and governance, requiring both accuracy and societal value alignment. Despite recent advances, LLMs often perpetuate o",
       "authors": [
-        "Yuxuan Fan",
-        "Jaehong Yoon"
+        "Mingzhe Du",
+        "Luu Anh Tuan",
+        "Xiaobao Wu",
+        "Yichong Huang",
+        "Yue Liu"
       ],
-      "tags": [
-        "reinforcement learning"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -257,90 +228,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Uplifting conversion across the acquisition funnel with personalization using contextual bandits on AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/uplifting-conversion-across-the-acquisition-funnel-with-personalization-using-contextual-bandits-on-aws/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-10-01T16:51:04.000Z",
-      "abstract": "Generative AI makes it cheap to produce personalized content at scale, but which variation do you show each customer? Amazon Payments used a multi-objective contextual bandit on Amazon SageMaker AI to",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Building ambient agents with Amazon Bedrock AgentCore: From event-driven signals to human-in-the-loop workflows",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-ambient-agents-with-amazon-bedrock-agentcore-from-event-driven-signals-to-human-in-the-loop-workflows/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-10-01T16:40:24.000Z",
-      "abstract": "Ambient agents respond to events such as an Amazon S3 upload, a schedule, or an alert instead of waiting for a chat prompt. This post walks through building framework-agnostic ambient agents on Amazon",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Implementing Multi-Environment Access for Claude Platform on AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/implementing-multi-environment-access-for-claude-platform-on-aws/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-10-01T16:32:23.000Z",
-      "abstract": "Learn how to configure secure, multi-environment access to Claude Platform on AWS from a single subscription: cross-account SigV4 for AWS workloads, workspace-scoped API keys for developers, and OIDC",
-      "authors": [],
-      "tags": [
-        "claude"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Simplify dashboard drill-down with the Amazon Quick Sight hierarchy filter",
-      "url": "https://aws.amazon.com/blogs/machine-learning/simplify-dashboard-drill-down-with-the-amazon-quick-sight-hierarchy-filter/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-10-01T16:28:14.000Z",
-      "abstract": "Amazon Quick Sight is a fully managed, cloud-native business intelligence (BI) capability for building and publishing interactive dashboards. The new hierarchy filter gives dashboard authors rich, mul",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

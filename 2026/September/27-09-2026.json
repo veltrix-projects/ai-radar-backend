@@ -1,23 +1,24 @@
 {
-  "generatedAt": "2026-10-05T09:18:44.025Z",
+  "generatedAt": "2026-10-05T18:38:27.444Z",
   "date": "27-09-2026",
   "count": 2,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2609.34715",
-      "title": "PDE-JEPA: Predictive Representation Learning of Latent Dynamics Modeling for Parametric PDEs",
-      "url": "https://huggingface.co/papers/2609.34715",
+      "id": "hf_paper_2609.26425",
+      "title": "QuantWM: Temporally Consistent 2-Bit KV Cache Quantization for Video World Models",
+      "url": "https://huggingface.co/papers/2609.26425",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-27T20:00:00.000Z",
-      "abstract": "Physical trajectories contain more than snapshots of a system: they also reveal how its states evolve under governing conditions. However, representation learning for parametric partial differential e",
+      "abstract": "Video world models achieve long-range temporal consistency by storing KV cache during generation, but the growing cache makes KV cache memory a major deployment bottleneck, which motivates low-bit qua",
       "authors": [
-        "Zhentao Tan",
-        "Jianrong Zhang",
-        "Ruijie Quan",
-        "Yi Yang"
+        "Jiaqi Zhao",
+        "Xiaobin Hu",
+        "Bo Yin",
+        "Junpeng Jiang",
+        "Miao Zhang"
       ],
       "tags": [],
       "score": 6,
@@ -55,7 +56,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 295386,
+      "stars": 295558,
       "votes": 0,
       "points": 0
     }

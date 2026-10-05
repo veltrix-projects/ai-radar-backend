@@ -1,31 +1,9 @@
 {
-  "generatedAt": "2026-10-05T09:18:44.024Z",
+  "generatedAt": "2026-10-05T18:38:27.443Z",
   "date": "30-09-2026",
-  "count": 17,
+  "count": 12,
   "summary": null,
   "items": [
-    {
-      "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fsomeone-",
-      "title": "Someone ‘Torturing’ LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
-      "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/",
-      "source": "404 Media",
-      "sourceIcon": "📡",
-      "type": "news",
-      "timestamp": "2026-09-30T21:23:11.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "llm"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "Deploying an HSTU Generative Recommender with NVIDIA Dynamo-Triton",
@@ -69,98 +47,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.00972",
-      "title": "VeriHarness: Scaling Agentic Verification for Long-Horizon Tasks",
-      "url": "https://huggingface.co/papers/2610.00972",
+      "id": "hf_paper_2610.01780",
+      "title": "RealCompanion: Benchmarking Human Understanding from Reasoning over Longitudinal Real-World Conversations",
+      "url": "https://huggingface.co/papers/2610.01780",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-30T20:00:00.000Z",
-      "abstract": "As LLM agents undertake increasingly complex, long-horizon tasks, verifying their outputs becomes increasingly challenging. We study how verification capability can be strengthened with a fixed base m",
+      "abstract": "A companion that talks with a person for months should come to understand them. It should remember what they said, infer who they are, and know when the past bears on the message in front of it. Testi",
       "authors": [
-        "Caiqi Zhang",
-        "Rujun Han",
-        "Zifeng Wang",
-        "Zoey CuiZhu",
-        "Nigel Collier"
+        "Arman Behnam",
+        "Sunglyoung Kim",
+        "Liangwei Yang"
       ],
       "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.02486",
-      "title": "From Retrieval to Typed Decisions: Calibrated System One Models from Biomedical Sentence Encoders",
-      "url": "https://huggingface.co/papers/2610.02486",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-30T20:00:00.000Z",
-      "abstract": "Typed decision models answer schema-constrained questions about a text in one forward pass and return probabilities meant to be thresholded. We ask whether biomedical sentence encoders trained for ret",
-      "authors": [
-        "Pritam Deka"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.02126",
-      "title": "Local Support Learning",
-      "url": "https://huggingface.co/papers/2610.02126",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-30T20:00:00.000Z",
-      "abstract": "We explore catastrophic forgetting in the context of large pre-trained models. By considering forgetting as a geometric problem in the input space of each weight matrix, we uncover a natural retention",
-      "authors": [
-        "Assaf Ben-Kish",
-        "Akarsh Kumar",
-        "James Glass",
-        "Raja Giryes"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.02304",
-      "title": "SimuVerity: Benchmarking Agents for Engineering-Grade Simulink Model Generation",
-      "url": "https://huggingface.co/papers/2610.02304",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-30T20:00:00.000Z",
-      "abstract": "Existing Simulink benchmarks mainly evaluate whether generated models compile, execute, or resemble a reference model. These criteria do not establish whether a model satisfies its engineering require",
-      "authors": [
-        "Ruiqi Zhang",
-        "Jiahao Wang",
-        "Mingxuan Li",
-        "Haichen Luo",
-        "Chaoting Wang"
-      ],
-      "tags": [
-        "agent",
         "benchmark"
       ],
       "score": 6,
@@ -173,20 +73,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.01153",
-      "title": "Looping Beyond Twice: A Scalable Recipe for Looped Mixture-of-Experts",
-      "url": "https://huggingface.co/papers/2610.01153",
+      "id": "hf_paper_2610.02381",
+      "title": "Latent-MOPD: Latent Multi-Teacher On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2610.02381",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-30T20:00:00.000Z",
-      "abstract": "Looped Transformers introduce recurrent depth as a new scaling axis for LLMs: by repeatedly applying shared Transformer blocks, they increase effective depth without increasing parameter count. Howeve",
+      "abstract": "On-policy distillation (OPD) trains a student on the responses it generates. Existing LLM multi-teacher OPD transfers what specialists predict through their output distributions. We introduce Latent-M",
       "authors": [
-        "Di He",
-        "Pengxiang Li",
-        "Da Chang",
-        "Qingyan Meng",
-        "Lu Yin"
+        "Zhengyu Fang",
+        "Seoyeon Hong",
+        "Jie Yang",
+        "Muyang Li",
+        "Koyoshi Shindo"
       ],
       "tags": [],
       "score": 6,
@@ -199,24 +99,48 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.01257",
-      "title": "Science Utopia? Closed-Loop LLM Simulation of Academic Research Ecosystems",
-      "url": "https://huggingface.co/papers/2610.01257",
+      "id": "hf_paper_2610.02179",
+      "title": "From Gradients to Capabilities: Understanding Multi-Teacher On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2610.02179",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-30T20:00:00.000Z",
-      "abstract": "Scientific progress emerges from a longitudinal ecosystem in which researchers, institutions, funding agencies, collaboration networks, and the scientific literature co-evolve. As AI becomes increasin",
+      "abstract": "Multi-teacher on-policy distillation (MOPD) aims to combine the strengths of RL-trained teachers in a single student, but how teacher signals affect parameter changes remains underexplored. We study Q",
       "authors": [
-        "Yiqiao Jin",
-        "Yiyang Wang",
-        "Lucheng Fu",
-        "Bing He",
-        "Siheng Xiong"
+        "Siqi Zhu",
+        "Suozhi Huang",
+        "Kaixuan Zhang",
+        "Yuheng Yang",
+        "Zhanyang Jin"
       ],
-      "tags": [
-        "llm"
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.02508",
+      "title": "World Action Modeling with Progressive Visual Planning",
+      "url": "https://huggingface.co/papers/2610.02508",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-30T20:00:00.000Z",
+      "abstract": "World action models (WAMs) have emerged as a promising paradigm for robotic control by jointly predicting future visual dynamics and actions from an initial observation and instruction. However, exist",
+      "authors": [
+        "Fei Zhang",
+        "Zhaochong An",
+        "Duncan Frost",
+        "Yikai Wang",
+        "Pengfei Liu"
       ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -242,50 +166,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fchatgpt-",
-      "title": "Lawyer Cites ChatGPT-Invented Fake Witnesses in Murder Appeal",
-      "url": "https://www.404media.co/chatgpt-fake-witnesses-testimony-stephen-aarons-new-mexico/",
-      "source": "404 Media",
-      "sourceIcon": "📡",
-      "type": "news",
-      "timestamp": "2026-09-30T18:15:31.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "gpt"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fusps-to-",
-      "title": "USPS To Put Cameras in Trucks That Scan Roads for ‘Community Safety’",
-      "url": "https://www.404media.co/usps-to-put-cameras-in-trucks-that-scan-roads-for-community-safety/",
-      "source": "404 Media",
-      "sourceIcon": "📡",
-      "type": "news",
-      "timestamp": "2026-09-30T16:15:10.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "safety"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

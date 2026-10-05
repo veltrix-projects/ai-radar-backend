@@ -1,22 +1,29 @@
 {
-  "generatedAt": "2026-10-05T09:18:44.026Z",
+  "generatedAt": "2026-10-05T18:38:27.445Z",
   "date": "25-09-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
-      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-      "source": "MIT Tech Review",
-      "sourceIcon": "🏛️",
+      "id": "hf_paper_2608.26762",
+      "title": "Equal Ranking Quality, Different Decisions: Measuring and Reducing Order Dependence in LLM Scorers",
+      "url": "https://huggingface.co/papers/2608.26762",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-09-25T09:16:25.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
+      "timestamp": "2026-09-25T20:00:00.000Z",
+      "abstract": "In passage reranking, response ranking and multi-document question answering, LLMs can score several candidate documents or responses together in one prompt, each still receiving its own score. Such s",
+      "authors": [
+        "Markus Frohmann",
+        "Mahdiyar Ali Akbar Alavi",
+        "Elizabeth Lingg",
+        "Navid Rekabsaz"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
