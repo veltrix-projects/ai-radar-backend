@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-04T23:21:24.952Z",
+  "generatedAt": "2026-10-05T09:18:44.024Z",
   "date": "30-09-2026",
-  "count": 16,
+  "count": 17,
   "summary": null,
   "items": [
     {
@@ -69,70 +69,98 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.01092",
-      "title": "Ego2Act: Evaluating Goal-Directed Manipulation in Egocentric Video Generation",
-      "url": "https://huggingface.co/papers/2610.01092",
+      "id": "hf_paper_2610.00972",
+      "title": "VeriHarness: Scaling Agentic Verification for Long-Horizon Tasks",
+      "url": "https://huggingface.co/papers/2610.00972",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-30T20:00:00.000Z",
-      "abstract": "Video generation models are increasingly being explored as world simulators for embodied planning and learning. To do so effectively, these models must not only generate visually appealing frames, but",
+      "abstract": "As LLM agents undertake increasingly complex, long-horizon tasks, verifying their outputs becomes increasingly challenging. We study how verification capability can be strengthened with a fixed base m",
       "authors": [
-        "Patrick Amadeus Irawan",
-        "Iskandar Muda Rizky Parlambang",
-        "Rava Maulana",
-        "Qinrong Cui",
-        "Erland Hilman Fuadi"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.02142",
-      "title": "Keyword Harnesses Fail Open: A Cheap Diagnostic Ladder for Tool-Use Claims in Small Language Models",
-      "url": "https://huggingface.co/papers/2610.02142",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-30T20:00:00.000Z",
-      "abstract": "Keyword-matching benchmarks can credit small models for tool use they never perform. We document such a false positive in a matched-architecture pair of Spanish security language models and propose a",
-      "authors": [
-        "Juan S. Santillana"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.02202",
-      "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
-      "url": "https://huggingface.co/papers/2610.02202",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-30T20:00:00.000Z",
-      "abstract": "What makes great scientists great? Even as AI systems start to make progress on open problems, scientists remain far ahead of them at sensing which prior idea, buried in an ever-growing archive of res",
-      "authors": [
-        "Sohyeon Kim",
-        "Yoonho Lee",
-        "Bo Liu",
-        "Dayoon Ko",
-        "Rulin Shao"
+        "Caiqi Zhang",
+        "Rujun Han",
+        "Zifeng Wang",
+        "Zoey CuiZhu",
+        "Nigel Collier"
       ],
       "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.02486",
+      "title": "From Retrieval to Typed Decisions: Calibrated System One Models from Biomedical Sentence Encoders",
+      "url": "https://huggingface.co/papers/2610.02486",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-30T20:00:00.000Z",
+      "abstract": "Typed decision models answer schema-constrained questions about a text in one forward pass and return probabilities meant to be thresholded. We ask whether biomedical sentence encoders trained for ret",
+      "authors": [
+        "Pritam Deka"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.02126",
+      "title": "Local Support Learning",
+      "url": "https://huggingface.co/papers/2610.02126",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-30T20:00:00.000Z",
+      "abstract": "We explore catastrophic forgetting in the context of large pre-trained models. By considering forgetting as a geometric problem in the input space of each weight matrix, we uncover a natural retention",
+      "authors": [
+        "Assaf Ben-Kish",
+        "Akarsh Kumar",
+        "James Glass",
+        "Raja Giryes"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.02304",
+      "title": "SimuVerity: Benchmarking Agents for Engineering-Grade Simulink Model Generation",
+      "url": "https://huggingface.co/papers/2610.02304",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-30T20:00:00.000Z",
+      "abstract": "Existing Simulink benchmarks mainly evaluate whether generated models compile, execute, or resemble a reference model. These criteria do not establish whether a model satisfies its engineering require",
+      "authors": [
+        "Ruiqi Zhang",
+        "Jiahao Wang",
+        "Mingxuan Li",
+        "Haichen Luo",
+        "Chaoting Wang"
+      ],
+      "tags": [
+        "agent",
         "benchmark"
       ],
       "score": 6,
@@ -145,24 +173,22 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.02117",
-      "title": "Where-OPD: Spatially Guided On-Policy Self-Distillation of MLLMs with Synthetic Scenes",
-      "url": "https://huggingface.co/papers/2610.02117",
+      "id": "hf_paper_2610.01153",
+      "title": "Looping Beyond Twice: A Scalable Recipe for Looped Mixture-of-Experts",
+      "url": "https://huggingface.co/papers/2610.01153",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-30T20:00:00.000Z",
-      "abstract": "On-policy self-distillation has recently emerged as an effective approach for improving language-model reasoning by supervising students with a frozen or EMA version of themselves that receives privil",
+      "abstract": "Looped Transformers introduce recurrent depth as a new scaling axis for LLMs: by repeatedly applying shared Transformer blocks, they increase effective depth without increasing parameter count. Howeve",
       "authors": [
-        "Sophia Sirko-Galouchenko",
-        "Monika Wysoczanska",
-        "Andrei Bursuc",
-        "Nicolas Thome",
-        "Spyros Gidaris"
+        "Di He",
+        "Pengxiang Li",
+        "Da Chang",
+        "Qingyan Meng",
+        "Lu Yin"
       ],
-      "tags": [
-        "llm"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -173,23 +199,23 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.02185",
-      "title": "Decoding Looped Transformers Better for (Almost) Free",
-      "url": "https://huggingface.co/papers/2610.02185",
+      "id": "hf_paper_2610.01257",
+      "title": "Science Utopia? Closed-Loop LLM Simulation of Academic Research Ecosystems",
+      "url": "https://huggingface.co/papers/2610.01257",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-30T20:00:00.000Z",
-      "abstract": "Looped Transformers achieve parameter efficiency by repeatedly executing a shared block across recurrent loops. Each loop yields an intermediate representation decodable for the same next token, yet s",
+      "abstract": "Scientific progress emerges from a longitudinal ecosystem in which researchers, institutions, funding agencies, collaboration networks, and the scientific literature co-evolve. As AI becomes increasin",
       "authors": [
-        "Weihao Liu",
-        "Huangjie Zheng",
-        "Tianrong Chen",
-        "Rohit Dilip",
-        "Richard He Bai"
+        "Yiqiao Jin",
+        "Yiyang Wang",
+        "Lucheng Fu",
+        "Bing He",
+        "Siheng Xiong"
       ],
       "tags": [
-        "transformer"
+        "llm"
       ],
       "score": 6,
       "priority": "MEDIUM",

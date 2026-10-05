@@ -1,75 +1,25 @@
 {
-  "generatedAt": "2026-10-04T23:21:24.953Z",
+  "generatedAt": "2026-10-05T09:18:44.025Z",
   "date": "27-09-2026",
-  "count": 4,
+  "count": 2,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2609.36388",
-      "title": "Persona Dosing: Calibrated Activation Steering for Graded Trait Control",
-      "url": "https://huggingface.co/papers/2609.36388",
+      "id": "hf_paper_2609.34715",
+      "title": "PDE-JEPA: Predictive Representation Learning of Latent Dynamics Modeling for Parametric PDEs",
+      "url": "https://huggingface.co/papers/2609.34715",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-27T20:00:00.000Z",
-      "abstract": "An activation-steering coefficient sets intervention strength, but requesting a particular degree of persona expression requires a behavioral scale. We study persona dosing: controlling a language mod",
+      "abstract": "Physical trajectories contain more than snapshots of a system: they also reveal how its states evolve under governing conditions. However, representation learning for parametric partial differential e",
       "authors": [
-        "Zehao Jin",
-        "Junran Wang",
-        "Ruixuan Deng",
-        "Jiahao Chen",
-        "Jingyuan Zhang"
+        "Zhentao Tan",
+        "Jianrong Zhang",
+        "Ruijie Quan",
+        "Yi Yang"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.35259",
-      "title": "On-Policy or Off-Policy Learning? A Systematic Study of Distillation Dynamics",
-      "url": "https://huggingface.co/papers/2609.35259",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-27T20:00:00.000Z",
-      "abstract": "On-policy learning has been argued to reduce catastrophic forgetting, produce sparser parameter updates, and improve generalisation. However, existing comparisons between supervised fine-tuning and re",
-      "authors": [
-        "Julianna Piskorz",
-        "Antonin Berthon",
-        "Mihaela van der Schaar"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.36138",
-      "title": "When Does Correction Become Repair? Mechanistic Auditing of Internal Interventions in Tool-Using LLMs",
-      "url": "https://huggingface.co/papers/2609.36138",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-27T20:00:00.000Z",
-      "abstract": "Before invoking external tools, an agentic LLM must select among a K-way action space: executing a call, seeking clarification, answering directly, or declining. While internal activation steering can",
-      "authors": [
-        "Jiayi Li",
-        "Ruizhe Li"
-      ],
-      "tags": [
-        "llm"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -105,7 +55,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 295277,
+      "stars": 295386,
       "votes": 0,
       "points": 0
     }

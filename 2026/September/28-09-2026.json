@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T23:21:24.953Z",
+  "generatedAt": "2026-10-05T09:18:44.025Z",
   "date": "28-09-2026",
   "count": 9,
   "summary": null,
@@ -25,20 +25,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.36435",
-      "title": "MemFold: Learning Compact Soft Memory for Long-Context Personalization via On-Policy Optimization",
-      "url": "https://huggingface.co/papers/2609.36435",
+      "id": "hf_paper_2609.38123",
+      "title": "HelixWorld: A Real-time Interactive Audio-Visual World Model",
+      "url": "https://huggingface.co/papers/2609.38123",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-28T20:00:00.000Z",
-      "abstract": "An assistant that serves the same user over a long horizon has to answer from what that user has revealed: which preferences still hold, which were revised, and which constraints apply now. Retaining",
+      "abstract": "World simulation is inherently multisensory, demanding synchronized visual and acoustic dynamics in real time. Yet prevailing interactive world models remain strictly silent, focusing exclusively on v",
       "authors": [
-        "Jingxuan Wu",
-        "Yuzhe Yang",
-        "Yiqiao Huang",
-        "Chengzhi Liu",
-        "Qingni Wang"
+        "Lei Ke",
+        "Jiahao Pan",
+        "Zeyue Tian",
+        "Jiaming Wang",
+        "Haoyuan Huang"
       ],
       "tags": [],
       "score": 6,
@@ -51,76 +51,77 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.36585",
-      "title": "Transformers Stop Thinking Too Early, and a Tiny LoRA Fixes It",
-      "url": "https://huggingface.co/papers/2609.36585",
+      "id": "hf_paper_2609.38078",
+      "title": "MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation",
+      "url": "https://huggingface.co/papers/2609.38078",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-28T20:00:00.000Z",
-      "abstract": "Pretrained transformers use little of their depth to follow references in context. Thirteen base models reliably follow only 1.4-3.6 lines, and extra pretrained loops add little. A task-trained rank-8",
+      "abstract": "Vision-language-action (VLA) models have advanced robotic manipulation, but their zero-shot generalization in new tasks and environments remains limited, and their reliance on specialized training kee",
       "authors": [
-        "Zehao Jin",
-        "Ruixuan Deng",
-        "Junran Wang"
-      ],
-      "tags": [
-        "transformer"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.34210",
-      "title": "RLE-Bench: A Qualifying Exam for Coding Agents as Robot Learning Engineers",
-      "url": "https://huggingface.co/papers/2609.34210",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-28T20:00:00.000Z",
-      "abstract": "Coding agents are beginning to move beyond purely digital tasks to tackle physical-world challenges, particularly in robotics. Existing robotics benchmarks, however, primarily focus on the performance",
-      "authors": [
-        "Haitong Ma",
-        "Chenxiao Gao",
-        "Rushi Qiang",
-        "Bo Dai",
-        "Na Li"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.36602",
-      "title": "OTRetarget: Joint Robot and Object Motion Retargeting via Optimal Transport",
-      "url": "https://huggingface.co/papers/2609.36602",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-28T20:00:00.000Z",
-      "abstract": "Transferring human motion to humanoid robots requires adapting the demonstrated motion to the robot morphology while preserving interactions with the environment. This is particularly challenging for",
-      "authors": [
-        "Guillaume Besset",
-        "Erwann Carn",
-        "Timothée Carecchio",
-        "Valentin Tordjman-Levavasseur",
-        "Fabian Schramm"
+        "Bingxuan Li",
+        "Siqi Song",
+        "Yizhuo Wu",
+        "Jiarui Yao",
+        "Tong Zhang"
       ],
       "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.36529",
+      "title": "Triadic Linear Attention: Three-Dimensional Recurrent States for Long-Context Sequence Modeling",
+      "url": "https://huggingface.co/papers/2609.36529",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-28T20:00:00.000Z",
+      "abstract": "Recurrent neural networks (RNNs) compress the historical context into a memory state of fixed size, thus allowing for constant-time inference. The memory state size is a crucial factor in their perfor",
+      "authors": [
+        "Oliver Sieberling",
+        "Bharat Runwal",
+        "David Jin",
+        "Ryan Chin",
+        "Rameswar Panda"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.36659",
+      "title": "On-Policy Parameter Update Direction Underlies Generalization in LLM Post-Training",
+      "url": "https://huggingface.co/papers/2609.36659",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-28T20:00:00.000Z",
+      "abstract": "The strong generalization performance of on-policy post-training paradigms has motivated studies of their parameter update behaviors. However, these studies treat the observed behaviors only as byprod",
+      "authors": [
+        "Shufan Shen",
+        "Zhongni Hou",
+        "Junshu Sun",
+        "Yufei Zhang",
+        "Wei Lin"
+      ],
+      "tags": [
+        "llm",
+        "training"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
