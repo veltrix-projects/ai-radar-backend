@@ -1,19 +1,51 @@
 {
-  "generatedAt": "2026-10-06T00:29:13.817Z",
+  "generatedAt": "2026-10-06T06:43:00.578Z",
   "date": "01-10-2026",
   "count": 15,
   "summary": null,
   "items": [
     {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-10-01T22:06:14.000Z",
-      "abstract": "Learn how AWS Professional Services uses a multi-agent framework built on Amazon Bedrock AgentCore to automate enterprise cloud migrations end to end. Purpose-built AI agents handle discovery, infrast",
-      "authors": [],
+      "id": "hf_paper_2610.02840",
+      "title": "PointWAM: 3D World Action Modeling for Dexterous Robotic Manipulation",
+      "url": "https://huggingface.co/papers/2610.02840",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-01T20:00:00.000Z",
+      "abstract": "World action models jointly learn to forecast world dynamics and predict robot actions, such that the learned internal world dynamics guide accurate actions. Existing approaches typically represent th",
+      "authors": [
+        "Chunghyun Park",
+        "Beomjun Kim",
+        "Seungcheol Park",
+        "Heeseung Kwon",
+        "Yashu Shukla"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.04116",
+      "title": "CUAWright: A Minimal Unified Interface for Digital Agents",
+      "url": "https://huggingface.co/papers/2610.04116",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-01T20:00:00.000Z",
+      "abstract": "The prevailing approach to computer-use agents couples a model with a domain-specific harness: a browser or desktop environment equipped with human engineered tools that are fixed before task executio",
+      "authors": [
+        "Yadong Lu",
+        "Theodore Lee",
+        "Yifei Li",
+        "Lawrence Keunho Jang",
+        "Tianci Xue"
+      ],
       "tags": [
         "agent"
       ],
@@ -124,30 +156,6 @@
         "agent",
         "benchmark"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.03695",
-      "title": "Language Models that Play Chess and Explain Their Moves",
-      "url": "https://huggingface.co/papers/2610.03695",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-01T20:00:00.000Z",
-      "abstract": "Modern chess engines are silent experts: they play at a superhuman level, but do not offer explanations for their play. On the other hand, language models (LMs) can generate plausible-sounding explana",
-      "authors": [
-        "Adithya Bhaskar",
-        "Jeffrey Cheng",
-        "Danqi Chen"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

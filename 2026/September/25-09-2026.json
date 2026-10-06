@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-10-06T00:29:13.820Z",
+  "generatedAt": "2026-10-06T06:43:00.581Z",
   "date": "25-09-2026",
   "count": 3,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2609.32423",
+      "title": "PluginRSI: Recursive Improvement of Agent Harnesses with Reusable Plugins",
+      "url": "https://huggingface.co/papers/2609.32423",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-25T20:00:00.000Z",
+      "abstract": "The harness surrounding a language model is a central determinant of agent performance. Recent methods optimize harnesses by searching over complete programs, where individual mechanisms are difficult",
+      "authors": [
+        "Yaorui Shi",
+        "Yuchun Miao",
+        "Yuxin Chen",
+        "Jiayuan Zhang",
+        "Yueqing Sun"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2609.32759",
       "title": "The Extender: A Log-Structured Transformer",
@@ -45,33 +73,6 @@
         "Adi Zicher"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2608.26762",
-      "title": "Equal Ranking Quality, Different Decisions: Measuring and Reducing Order Dependence in LLM Scorers",
-      "url": "https://huggingface.co/papers/2608.26762",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-25T20:00:00.000Z",
-      "abstract": "In passage reranking, response ranking and multi-document question answering, LLMs can score several candidate documents or responses together in one prompt, each still receiving its own score. Such s",
-      "authors": [
-        "Markus Frohmann",
-        "Mahdiyar Ali Akbar Alavi",
-        "Elizabeth Lingg",
-        "Navid Rekabsaz"
-      ],
-      "tags": [
-        "llm"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

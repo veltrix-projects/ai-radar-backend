@@ -1,26 +1,28 @@
 {
-  "generatedAt": "2026-10-06T00:29:13.818Z",
+  "generatedAt": "2026-10-06T06:43:00.579Z",
   "date": "29-09-2026",
   "count": 6,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2609.39820",
-      "title": "Learning from Runtime Feedback through Failure-Bank Self-Evolution for Vision-Language-Action Models",
-      "url": "https://huggingface.co/papers/2609.39820",
+      "id": "hf_paper_2610.00722",
+      "title": "JEPA-TTT: Persistent Test-Time Training of Latent World Models for Planning under Dynamics Shifts",
+      "url": "https://huggingface.co/papers/2610.00722",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-29T20:00:00.000Z",
-      "abstract": "Vision-language-action (VLA) models generalize broadly across robotic manipulation tasks, but complex environments require balancing task success with unintended contact. Runtime shields can correct i",
+      "abstract": "World models enable agents to plan by predicting future states of the environment, but their predictions can become unreliable when test-time dynamics differ from those seen during training. We presen",
       "authors": [
-        "Mingyue Cui",
-        "Zheyuan Liu",
-        "Yihan Zhu",
         "Zheyuan Zhang",
-        "Meng Jiang"
+        "Suyu Ye",
+        "Nakul Agarwal",
+        "Hossein Nourkhiz Mahjoub",
+        "Ehsan Moradi Pari"
       ],
-      "tags": [],
+      "tags": [
+        "training"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

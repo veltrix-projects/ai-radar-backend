@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-06T00:29:13.817Z",
+  "generatedAt": "2026-10-06T06:43:00.578Z",
   "date": "30-09-2026",
-  "count": 11,
+  "count": 9,
   "summary": null,
   "items": [
     {
@@ -63,58 +63,6 @@
       "tags": [
         "benchmark"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.02381",
-      "title": "Latent-MOPD: Latent Multi-Teacher On-Policy Distillation",
-      "url": "https://huggingface.co/papers/2610.02381",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-30T20:00:00.000Z",
-      "abstract": "On-policy distillation (OPD) trains a student on the responses it generates. Existing LLM multi-teacher OPD transfers what specialists predict through their output distributions. We introduce Latent-M",
-      "authors": [
-        "Zhengyu Fang",
-        "Seoyeon Hong",
-        "Jie Yang",
-        "Muyang Li",
-        "Koyoshi Shindo"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.02179",
-      "title": "From Gradients to Capabilities: Understanding Multi-Teacher On-Policy Distillation",
-      "url": "https://huggingface.co/papers/2610.02179",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-30T20:00:00.000Z",
-      "abstract": "Multi-teacher on-policy distillation (MOPD) aims to combine the strengths of RL-trained teachers in a single student, but how teacher signals affect parameter changes remains underexplored. We study Q",
-      "authors": [
-        "Siqi Zhu",
-        "Suozhi Huang",
-        "Kaixuan Zhang",
-        "Yuheng Yang",
-        "Zhanyang Jin"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
