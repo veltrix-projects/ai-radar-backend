@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-05T18:38:27.444Z",
+  "generatedAt": "2026-10-06T00:29:13.819Z",
   "date": "28-09-2026",
-  "count": 8,
+  "count": 7,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,32 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.38096",
+      "title": "Tail-Influence Sampling for CVaR Policy Evaluation",
+      "url": "https://huggingface.co/papers/2609.38096",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-28T20:00:00.000Z",
+      "abstract": "Policies with similar mean returns can differ sharply in rare failures, yet estimating lower-tail conditional value-at-risk (CVaR) accurately can require many costly rollouts. When different condition",
+      "authors": [
+        "Pauline Bourigault",
+        "Xiaotong Ji",
+        "Matthieu Zimmer",
+        "Rasul Tutunov",
+        "Haitham Bou-Ammar"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -69,60 +95,6 @@
         "Hao Zhang"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.37925",
-      "title": "Rollout-Marginal Distillation for Long-Horizon Autoregressive Video Generation",
-      "url": "https://huggingface.co/papers/2609.37925",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-28T20:00:00.000Z",
-      "abstract": "Autoregressive (AR) video diffusion enables low-latency, streamable video generation, but prediction errors often accumulate over long rollouts. Training the generator on its own rollouts exposes it t",
-      "authors": [
-        "Chenjian Gao",
-        "Zhihao Hu",
-        "Jianqi Ma",
-        "Jun Zhang",
-        "Weidong Zhang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.34895",
-      "title": "LVMT: Video Mask Transformer for Long-term Video Segmentation",
-      "url": "https://huggingface.co/papers/2609.34895",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-28T20:00:00.000Z",
-      "abstract": "Existing online video segmentation methods struggle to track objects in long, complex videos with long-term occlusions. We hypothesize that this limitation is caused by (i) the inability of their temp",
-      "authors": [
-        "Narges Norouzi",
-        "Niccolò Cavagnero",
-        "Idil Esen Zulfikar",
-        "Bastian Leibe",
-        "Gijs Dubbelman"
-      ],
-      "tags": [
-        "transformer"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

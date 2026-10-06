@@ -1,9 +1,59 @@
 {
-  "generatedAt": "2026-10-05T18:38:27.445Z",
+  "generatedAt": "2026-10-06T00:29:13.820Z",
   "date": "25-09-2026",
-  "count": 1,
+  "count": 3,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2609.32759",
+      "title": "The Extender: A Log-Structured Transformer",
+      "url": "https://huggingface.co/papers/2609.32759",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-25T20:00:00.000Z",
+      "abstract": "We introduce the Extender, a log-structured variant of the standard Transformer architecture. In a standard Transformer, each layer communicates with subsequent layers exclusively via the residual h,",
+      "authors": [
+        "Jakob Eriksson"
+      ],
+      "tags": [
+        "transformer"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.32182",
+      "title": "KeyRec: Bounded Visual Memory for Streaming and Long-Video Understanding",
+      "url": "https://huggingface.co/papers/2609.32182",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-25T20:00:00.000Z",
+      "abstract": "Vision-language models are increasingly used to understand long videos and continuous streams. However, dense visual tokens accumulate with video duration, making long-context inference prohibitively",
+      "authors": [
+        "Zihan Chen",
+        "Xuejian Rong",
+        "Xiaojuan Wang",
+        "Boqing Gong",
+        "Adi Zicher"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2608.26762",
       "title": "Equal Ranking Quality, Different Decisions: Measuring and Reducing Order Dependence in LLM Scorers",
