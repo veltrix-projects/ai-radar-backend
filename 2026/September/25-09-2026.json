@@ -1,28 +1,23 @@
 {
-  "generatedAt": "2026-10-06T06:43:00.581Z",
+  "generatedAt": "2026-10-06T19:13:54.796Z",
   "date": "25-09-2026",
-  "count": 3,
+  "count": 2,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2609.32423",
-      "title": "PluginRSI: Recursive Improvement of Agent Harnesses with Reusable Plugins",
-      "url": "https://huggingface.co/papers/2609.32423",
+      "id": "hf_paper_2609.32510",
+      "title": "GeoCR: Learning a Generalist Cloud Removal Prior from Heterogeneous Observations",
+      "url": "https://huggingface.co/papers/2609.32510",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-25T20:00:00.000Z",
-      "abstract": "The harness surrounding a language model is a central determinant of agent performance. Recent methods optimize harnesses by searching over complete programs, where individual mechanisms are difficult",
+      "abstract": "Cloud removal methods are typically specialized to individual datasets and input configurations, limiting reuse across sensors, spectral bands, and observation settings. We introduce GeoCR, a generali",
       "authors": [
-        "Yaorui Shi",
-        "Yuchun Miao",
-        "Yuxin Chen",
-        "Jiayuan Zhang",
-        "Yueqing Sun"
+        "Jeonghyeok Do",
+        "Munchurl Kim"
       ],
-      "tags": [
-        "agent"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -33,44 +28,17 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.32759",
-      "title": "The Extender: A Log-Structured Transformer",
-      "url": "https://huggingface.co/papers/2609.32759",
+      "id": "hf_paper_2609.37496",
+      "title": "GeoSET: Generalist Foundation Model for SAR-to-EO Image Translation",
+      "url": "https://huggingface.co/papers/2609.37496",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-25T20:00:00.000Z",
-      "abstract": "We introduce the Extender, a log-structured variant of the standard Transformer architecture. In a standard Transformer, each layer communicates with subsequent layers exclusively via the residual h,",
+      "abstract": "Paired synthetic aperture radar (SAR) and electro-optical (EO) imagery is increasingly available across sensors, resolutions, and geographic regions. Yet existing SAR-to-EO image translation (SET) met",
       "authors": [
-        "Jakob Eriksson"
-      ],
-      "tags": [
-        "transformer"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.32182",
-      "title": "KeyRec: Bounded Visual Memory for Streaming and Long-Video Understanding",
-      "url": "https://huggingface.co/papers/2609.32182",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-25T20:00:00.000Z",
-      "abstract": "Vision-language models are increasingly used to understand long videos and continuous streams. However, dense visual tokens accumulate with video duration, making long-context inference prohibitively",
-      "authors": [
-        "Zihan Chen",
-        "Xuejian Rong",
-        "Xiaojuan Wang",
-        "Boqing Gong",
-        "Adi Zicher"
+        "Jeonghyeok Do",
+        "Munchurl Kim"
       ],
       "tags": [],
       "score": 6,

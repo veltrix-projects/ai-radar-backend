@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-06T06:43:00.579Z",
+  "generatedAt": "2026-10-06T19:13:54.795Z",
   "date": "28-09-2026",
-  "count": 5,
+  "count": 4,
   "summary": null,
   "items": [
     {
@@ -25,20 +25,46 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.38096",
-      "title": "Tail-Influence Sampling for CVaR Policy Evaluation",
-      "url": "https://huggingface.co/papers/2609.38096",
+      "id": "hf_paper_2609.36691",
+      "title": "Video2Skill: From Streaming Experience to Reusable Embodied Skills",
+      "url": "https://huggingface.co/papers/2609.36691",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-28T20:00:00.000Z",
-      "abstract": "Policies with similar mean returns can differ sharply in rare failures, yet estimating lower-tail conditional value-at-risk (CVaR) accurately can require many costly rollouts. When different condition",
+      "abstract": "Manipulation behaviors vary widely across objects and scenes, but they share a small set of reusable skills, and planning with these skills helps embodied agents generalize to new tasks. Yet an agent",
       "authors": [
-        "Pauline Bourigault",
-        "Xiaotong Ji",
-        "Matthieu Zimmer",
-        "Rasul Tutunov",
-        "Haitham Bou-Ammar"
+        "Jianshu Zhang",
+        "Ce Zhang",
+        "Xiyuan Yang",
+        "Chenwei Xu",
+        "Haoran Lu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.36684",
+      "title": "ProgressCompass: Embodied Progress Reward Models Are Lost Without the Right Context",
+      "url": "https://huggingface.co/papers/2609.36684",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-28T20:00:00.000Z",
+      "abstract": "Embodied agents now take on ever longer tasks. For long tasks, knowing only whether a task finally succeeds or fails says little; the steps along the way matter. Progress Reward Models (PRMs) score ho",
+      "authors": [
+        "Jianshu Zhang",
+        "Keliang Wu",
+        "Chengxuan Qian",
+        "Xiyuan Yang",
+        "Ce Zhang"
       ],
       "tags": [],
       "score": 6,
@@ -64,51 +90,6 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
-      "title": "NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
-      "url": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring/",
-      "source": "NVIDIA Blog",
-      "sourceIcon": "🟩",
-      "type": "tool",
-      "timestamp": "2026-09-28T08:56:55.000Z",
-      "abstract": "To understand where agentic AI stands today, consider the last seismic shift in technology: the rise of the internet in the 90s. It was new and full of...]]>",
-      "authors": [],
-      "tags": [
-        "agent",
-        "safety"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
-      "title": "Add Runtime Controls to AI Agents with NVIDIA OpenShell",
-      "url": "https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell/",
-      "source": "NVIDIA Blog",
-      "sourceIcon": "🟩",
-      "type": "tool",
-      "timestamp": "2026-09-28T08:55:00.000Z",
-      "abstract": "AI agents can be given a goal, write code, use tools, and keep working as new information becomes available. This opens the door to applications that...]]>",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

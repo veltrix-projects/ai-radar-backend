@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T06:43:00.577Z",
+  "generatedAt": "2026-10-06T19:13:54.791Z",
   "date": "03-10-2026",
   "count": 5,
   "summary": null,
@@ -31,26 +31,28 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 159036,
+      "stars": 159051,
       "votes": 0,
       "points": 0
     },
     {
-      "id": "hf_paper_2610.05303",
-      "title": "ASCENT: Online Test-Time Training of Long-Horizon Agents via Self-Distillation of Verified Experience",
-      "url": "https://huggingface.co/papers/2610.05303",
+      "id": "hf_paper_2610.05538",
+      "title": "LiFT: Loop Flow Transformers",
+      "url": "https://huggingface.co/papers/2610.05538",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-03T20:00:00.000Z",
-      "abstract": "A large language model (LLM) agent solves long-horizon tasks through many reasoning-action turns, with one verification signal at termination. Deployed agents face streams of related tasks, making the",
+      "abstract": "We introduce Loop Flow Transformers (LiFT), a family of looped generative models that scales computation by repeatedly applying a shared Diffusion Transformer (DiT) core, with only light changes to th",
       "authors": [
-        "Haodong Lu",
-        "Dong Gong"
+        "Mohammad Mahdi Derakhshani",
+        "Pedro M. P. Curvo",
+        "Gertjan J. Burghouts",
+        "Jan-Willem van de Meent",
+        "Cees G. M. Snoek"
       ],
       "tags": [
-        "agent",
-        "training"
+        "transformer"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -62,23 +64,22 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.05416",
-      "title": "Prism: Dynamic Sparse Attention for Native 2K Joint Video-Audio Generation Model Training",
-      "url": "https://huggingface.co/papers/2610.05416",
+      "id": "hf_paper_2610.05622",
+      "title": "UndoBench: Separating Task Competence from Recovery Capability in Tool-Using AI Agents",
+      "url": "https://huggingface.co/papers/2610.05622",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-03T20:00:00.000Z",
-      "abstract": "Natively training joint video-audio generation models at higher resolutions empowers them to learn richer visual details and sharper motion dynamics. However, full attention incurs quadratic cost and,",
+      "abstract": "Tool-using AI agents are increasingly deployed across enterprise software systems, yet widely used benchmarks primarily evaluate nominal task completion, conflating baseline planning competence with o",
       "authors": [
-        "Shuyuan Tu",
-        "Qi Tian",
-        "Yinming Huang",
-        "Yue Wu",
-        "Xintong Han"
+        "Dolly Sah",
+        "Tanmay Sah",
+        "Harshul Jain",
+        "Tanya Sah"
       ],
       "tags": [
-        "training"
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -136,7 +137,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 172096,
+      "stars": 172175,
       "votes": 0,
       "points": 0
     }
