@@ -1,78 +1,50 @@
 {
-  "generatedAt": "2026-10-07T02:32:18.190Z",
+  "generatedAt": "2026-10-07T17:05:50.548Z",
   "date": "01-10-2026",
-  "count": 8,
+  "count": 7,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.03252",
-      "title": "COSMI: COmpositional Synthesis of Multi-object Interactions",
-      "url": "https://huggingface.co/papers/2610.03252",
+      "id": "hf_paper_2610.01921",
+      "title": "Cross-Lingual Alignment for Decoder-Only Models using MoE Routers",
+      "url": "https://huggingface.co/papers/2610.01921",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-01T20:00:00.000Z",
-      "abstract": "Generative models of human-object interaction are bounded by the data that exists: everyday activities involve several objects, but most captured datasets record one at a time, as multi-object capture",
+      "abstract": "Cross-lingual contrastive learning has been a core component of multilingual encoder training, but the ability to explicitly align representations is not possible in decoder-only LLMs because of varyi",
       "authors": [
-        "Daniel Eskandar",
-        "Ilya A. Petrov",
-        "Gerard Pons-Moll"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.03978",
-      "title": "Learning Latent Protein Languages for Autoregressive Generation",
-      "url": "https://huggingface.co/papers/2610.03978",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-01T20:00:00.000Z",
-      "abstract": "Autoregressive transformers remain comparatively weak for protein sequence and structure generation. We study the role of target representation: amino acid tokens encode residue identities without exp",
-      "authors": [
-        "Mahdi Pourmirzaei",
-        "Farzaneh Esmaili",
-        "Amir Ziashahabi",
-        "Mohammadreza Pourmirzaei",
-        "Dong Xu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.03123",
-      "title": "Foresight: planning future perception in streaming VLMs without retraining",
-      "url": "https://huggingface.co/papers/2610.03123",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-01T20:00:00.000Z",
-      "abstract": "Existing streaming vision-language models (VLMs) continuously perceive and reason over visual streams, but their computational pathways remain fixed throughout inference. Consequently, they cannot ada",
-      "authors": [
-        "Ashok Prasad Neupane",
-        "Dipan Bartaula",
-        "Ankit Belbase",
-        "Saugat Adhikari",
-        "Samip Ghimire"
+        "Lucas Bandarkar",
+        "Clark Peng",
+        "Ahmed Haj Ahmed",
+        "Aditi Khandelwal",
+        "Nanyun Peng"
       ],
       "tags": [
-        "training"
+        "alignment"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.04002",
+      "title": "Do Language Models Need a Trainable Input Embedding Table? Fixed Minimal Token Codes at 1.7B-Class Scale",
+      "url": "https://huggingface.co/papers/2610.04002",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-01T20:00:00.000Z",
+      "abstract": "A trainable input embedding table assigns each vocabulary item an independently adjustable vector. We investigate whether this token-specific parameterization is required for substantial language-mode",
+      "authors": [
+        "A. Bochkov"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

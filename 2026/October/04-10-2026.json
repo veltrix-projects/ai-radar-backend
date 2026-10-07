@@ -1,23 +1,25 @@
 {
-  "generatedAt": "2026-10-07T02:32:18.188Z",
+  "generatedAt": "2026-10-07T17:05:50.546Z",
   "date": "04-10-2026",
   "count": 5,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.06679",
-      "title": "Closing the Context Gap: Activation Alignment for Tabular In-Context Learning",
-      "url": "https://huggingface.co/papers/2610.06679",
+      "id": "hf_paper_2610.06847",
+      "title": "S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation",
+      "url": "https://huggingface.co/papers/2610.06847",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-04T20:00:00.000Z",
-      "abstract": "Tabular foundation models perform in-context learning (ICL) by conditioning predictions on labeled training examples provided as context. Unlike traditional models that separate training from inferenc",
+      "abstract": "Bidirectional video diffusion models denoise entire videos in parallel, yet when trained on effectively unlimited in-distribution data from procedural generators, continue to violate physical laws and",
       "authors": [
-        "Yoel Zeldes"
+        "Jeffrey Hu",
+        "Daniel Olmeda Reino",
+        "Ayush Tewari"
       ],
       "tags": [
-        "alignment"
+        "diffusion"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -29,20 +31,48 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.06804",
-      "title": "Sharpen Without Search: On-Policy Distillation of Sequence-Level Power Distribution",
-      "url": "https://huggingface.co/papers/2610.06804",
+      "id": "hf_paper_2610.06104",
+      "title": "Conditional Trajectory Peaks: Single-Pass Multimodal Policies over Action Chunks",
+      "url": "https://huggingface.co/papers/2610.06104",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-04T20:00:00.000Z",
-      "abstract": "A language model can give a correct answer more probability than any single incorrect answer and still usually sample an incorrect one, because the incorrect answers together hold more probability. Th",
+      "abstract": "Multimodal imitation learning requires diverse executable futures under the same observation and consistent behavior across replanning cycles. We present Conditional Trajectory Peaks (CTP), a single-p",
       "authors": [
-        "Erfan Baghaei Potraghloo",
-        "Seyedarmin Azizi",
-        "Arya Fayyazi",
-        "Saeid Shokoufa",
-        "Mehdi Kamal"
+        "Di Wu",
+        "Rongtian Shen",
+        "Ping Liu",
+        "Xuhua Chen",
+        "He Zheng"
+      ],
+      "tags": [
+        "multimodal"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.06090",
+      "title": "Execution-Aligned Progressive Noise for Consistent Asynchronous Replanning in Generative Robot Policies",
+      "url": "https://huggingface.co/papers/2610.06090",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-04T20:00:00.000Z",
+      "abstract": "Continuous asynchronous replanning is essential for real-time generative robot policies, but independent stochastic initialization can cause mode switching and inconsistent continuation across action",
+      "authors": [
+        "Di Wu",
+        "Ping Liu",
+        "Xuhua Chen",
+        "He Zheng",
+        "Lingfeng Zhang"
       ],
       "tags": [],
       "score": 6,
@@ -55,23 +85,22 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.05898",
-      "title": "Collaborative Personalized Preference Alignment for LLMs under Data Deficiency",
-      "url": "https://huggingface.co/papers/2610.05898",
+      "id": "hf_paper_2610.07384",
+      "title": "WildMatch: Weakly Supervised Image Matcher Adaptation for Wildlife Re-Identification",
+      "url": "https://huggingface.co/papers/2610.07384",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-04T20:00:00.000Z",
-      "abstract": "Real-world users often exhibit highly heterogeneous preferences over multiple objectives for LLM responses. A lightweight aligner can tailor these responses to individual preferences, but scarce user-",
+      "abstract": "Individual animal re-identification from camera-trap imagery is an instance retrieval problem central to non-invasive wildlife monitoring: a query image must retrieve the correct individual from a ref",
       "authors": [
-        "Liyan Yang",
-        "Yige Yuan",
-        "Zhiqin Yang"
+        "Turhan Can Kargin",
+        "Piotr Kubaty",
+        "Ekaterina Rostovskaya",
+        "Izabela Wierzbowska",
+        "Bartosz Zieliński"
       ],
-      "tags": [
-        "llm",
-        "alignment"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -82,55 +111,28 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.05750",
-      "title": "Beyond Semantic Similarity: Performance and Costs of Agentic Retrieval for Complex Tasks",
-      "url": "https://huggingface.co/papers/2610.05750",
+      "id": "hf_paper_2610.06844",
+      "title": "Learning to Read the Contextual Tokens in Diffusion Transformers",
+      "url": "https://huggingface.co/papers/2610.06844",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-04T20:00:00.000Z",
-      "abstract": "Modern information systems, including many agentic workflows, use dense retrieval to explore large amounts of unstructured data. However, dense retrieval relies on surface-level semantic similarity, w",
+      "abstract": "Multimodal Diffusion Transformers (MM-DiTs) jointly process visual and textual representations throughout generation. These models repeatedly update the text tokens through multimodal attention, formi",
       "authors": [
-        "Reza Esfandiarpoor",
-        "Radek Osmulski",
-        "Yauhen Babakhin",
-        "Gabriel de Souza P. Moreira",
-        "Oliver Holworthy"
+        "Omer Dahary",
+        "Etai Sella",
+        "Hadar Averbuch-Elor",
+        "Daniel Cohen-Or",
+        "Or Patashnik"
       ],
       "tags": [
-        "agent"
+        "transformer",
+        "diffusion"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.05790",
-      "title": "FairRSFM: A Biome-Aware Benchmark and Debiasing Framework for Remote Sensing Foundation Models",
-      "url": "https://huggingface.co/papers/2610.05790",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-04T20:00:00.000Z",
-      "abstract": "Remote sensing foundation models (RSFMs) are commonly evaluated using aggregate metrics, which can hide systematic performance disparities across ecological regions. We introduce FairRSFM, a biome-awa",
-      "authors": [
-        "Md Aminur Hossain",
-        "Omkumar Vaghasiya",
-        "Rajeev Ranjan Dwivedi",
-        "Vinod Kurmi",
-        "Biplab Banerjee"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

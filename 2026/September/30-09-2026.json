@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-07T02:32:18.191Z",
+  "generatedAt": "2026-10-07T17:05:50.549Z",
   "date": "30-09-2026",
-  "count": 10,
+  "count": 7,
   "summary": null,
   "items": [
     {
@@ -47,103 +47,22 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.02586",
-      "title": "Labels Override Definitions in Jev-Style Typed Decision Models",
-      "url": "https://huggingface.co/papers/2610.02586",
+      "id": "hf_paper_2610.01218",
+      "title": "AGO AI Quality Gate: Evidence-First Release Decisions for Retrieval-Augmented Generation",
+      "url": "https://huggingface.co/papers/2610.01218",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-30T20:00:00.000Z",
-      "abstract": "A typed decision model answers a fixed question about an input by returning a probability for each of several caller-defined options. Each option carries a short label and a written definition, which",
+      "abstract": "Enterprises adopting retrieval-augmented generation (RAG) face a recurring operational decision: promote, revise, or block a system version. The evidence is incomplete and the metrics come from fallib",
       "authors": [
-        "Seyedarmin Azizi",
-        "Erfan Baghaei Potraghloo",
-        "Massoud Pedram"
+        "Giulio Zeloni",
+        "Enrico Lo Conte",
+        "Salvatore Rionero",
+        "Giuseppe Santoro",
+        "Alessandro Rastelli"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.02331",
-      "title": "World Editing: Intervening on Executable Worlds at Increasing Depth",
-      "url": "https://huggingface.co/papers/2610.02331",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-30T20:00:00.000Z",
-      "abstract": "Interactive world models are increasingly capable of generating environments and acting within them, yet deliberately editing an existing executable world remains underexplored. We formulate world edi",
-      "authors": [
-        "Max Ku",
-        "Nok-Kan Law",
-        "Yu-Chien Tang",
-        "Shih-Ying Yeh",
-        "Ping Nie"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.01789",
-      "title": "iADD: Improving Alignment and Diversity in Diffusion Policy Optimization",
-      "url": "https://huggingface.co/papers/2610.01789",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-30T20:00:00.000Z",
-      "abstract": "Reinforcement learning based post training of diffusion models, such as Denoising Diffusion Policy Optimization (DDPO), optimizes a reverse diffusion process under a reward function. However, current",
-      "authors": [
-        "Ashok Prasad Neupane",
-        "Saugat Adhikari",
-        "Pramish Paudel",
-        "Ajad Chhatkuli",
-        "Danda Pani Paudel"
-      ],
-      "tags": [
-        "diffusion",
-        "alignment"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.02320",
-      "title": "DeskForge: Dense Supervision from Desktop Environments for Computer-Use Agents",
-      "url": "https://huggingface.co/papers/2610.02320",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-30T20:00:00.000Z",
-      "abstract": "Computer-use agents need to reliably ground action targets in complex desktop scenes, where multiple applications, overlapping windows, and visually similar controls compete for attention. Existing tr",
-      "authors": [
-        "A. Said Gurbuz",
-        "Ahmed Nassar",
-        "Sunghwan Hong",
-        "Marc Pollefeys",
-        "Peter W. J. Staar"
-      ],
-      "tags": [
-        "agent"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
