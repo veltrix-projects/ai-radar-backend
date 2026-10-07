@@ -1,9 +1,91 @@
 {
-  "generatedAt": "2026-10-07T17:05:50.546Z",
+  "generatedAt": "2026-10-07T22:07:17.928Z",
   "date": "04-10-2026",
-  "count": 5,
+  "count": 6,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2609.39096",
+      "title": "DeCoPrune: Efficient KV-Cache Pruning for Autoregressive Video Diffusion via Denoising Consistency",
+      "url": "https://huggingface.co/papers/2609.39096",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-04T20:00:00.000Z",
+      "abstract": "Autoregressive video diffusion supports streaming generation and interactive control, but its KV cache grows continuously with the generated history. Existing compression strategies either discard his",
+      "authors": [
+        "Zeqi Xiao",
+        "Qingle Liu",
+        "Kaiwen Zhang",
+        "Yifan Zhou",
+        "Zihan Ding"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.07348",
+      "title": "Stepped MoE: Segment-Level Routing with Configurable Inference Complexity",
+      "url": "https://huggingface.co/papers/2610.07348",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-04T20:00:00.000Z",
+      "abstract": "Training large language models (LLMs) is resource-intensive, and adapting them for diverse deployment scenarios with varying computational constraints remains challenging. While elastic architectures",
+      "authors": [
+        "Arnav Kundu",
+        "Zhaoyang Xu",
+        "Bairu Hou",
+        "Chang Gao",
+        "Reed Li"
+      ],
+      "tags": [
+        "inference"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.07342",
+      "title": "Rationale-Guided Policy Optimization: Learning to Reason with Adaptive Rationale Scaffolding",
+      "url": "https://huggingface.co/papers/2610.07342",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-04T20:00:00.000Z",
+      "abstract": "On-policy reinforcement learning has become a central paradigm for improving the reasoning abilities of large language models. However, its effectiveness is often limited by reward sparsity: when a mo",
+      "authors": [
+        "Hoang Phan",
+        "Minh Pham",
+        "Chau Pham",
+        "Chinmay Hegde",
+        "Trung Le"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2610.06847",
       "title": "S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation",
@@ -78,61 +160,6 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.07384",
-      "title": "WildMatch: Weakly Supervised Image Matcher Adaptation for Wildlife Re-Identification",
-      "url": "https://huggingface.co/papers/2610.07384",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-04T20:00:00.000Z",
-      "abstract": "Individual animal re-identification from camera-trap imagery is an instance retrieval problem central to non-invasive wildlife monitoring: a query image must retrieve the correct individual from a ref",
-      "authors": [
-        "Turhan Can Kargin",
-        "Piotr Kubaty",
-        "Ekaterina Rostovskaya",
-        "Izabela Wierzbowska",
-        "Bartosz Zieliński"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.06844",
-      "title": "Learning to Read the Contextual Tokens in Diffusion Transformers",
-      "url": "https://huggingface.co/papers/2610.06844",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-04T20:00:00.000Z",
-      "abstract": "Multimodal Diffusion Transformers (MM-DiTs) jointly process visual and textual representations throughout generation. These models repeatedly update the text tokens through multimodal attention, formi",
-      "authors": [
-        "Omer Dahary",
-        "Etai Sella",
-        "Hadar Averbuch-Elor",
-        "Daniel Cohen-Or",
-        "Or Patashnik"
-      ],
-      "tags": [
-        "transformer",
-        "diffusion"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
