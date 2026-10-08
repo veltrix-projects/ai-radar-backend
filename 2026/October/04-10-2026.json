@@ -1,9 +1,66 @@
 {
-  "generatedAt": "2026-10-07T22:07:17.928Z",
+  "generatedAt": "2026-10-08T02:07:00.443Z",
   "date": "04-10-2026",
   "count": 6,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2610.07332",
+      "title": "Structuring MoE Expert Selection for Agentic Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2610.07332",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-04T20:00:00.000Z",
+      "abstract": "Long-horizon LLM agents are frequently implemented using sparse mixture-of-experts (MoE) models, yet the co-design of agentic behavior and MoE structures remains underexplored. In this work, we compre",
+      "authors": [
+        "Bolian Li",
+        "Ting-Yao Hu",
+        "Cheng-Yu Hsieh",
+        "Sanjoy Chowdhury",
+        "Oncel Tuzel"
+      ],
+      "tags": [
+        "agent",
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.07043",
+      "title": "TRIAGE: Direction-Aware Mismatch Stabilization of Native NVFP4 Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2610.07043",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-04T20:00:00.000Z",
+      "abstract": "Low-precision execution can substantially accelerate reinforcement learning (RL) for large language models, but discrepancies between learner and sampler execution can destabilize policy optimization.",
+      "authors": [
+        "Zhen Li",
+        "Shuai Zhang",
+        "Yanggan Gu",
+        "Yiming Zhang",
+        "Yang Yu"
+      ],
+      "tags": [
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2609.39096",
       "title": "DeCoPrune: Efficient KV-Cache Pruning for Autoregressive Video Diffusion via Denoising Consistency",
@@ -103,60 +160,6 @@
       "tags": [
         "diffusion"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.06104",
-      "title": "Conditional Trajectory Peaks: Single-Pass Multimodal Policies over Action Chunks",
-      "url": "https://huggingface.co/papers/2610.06104",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-04T20:00:00.000Z",
-      "abstract": "Multimodal imitation learning requires diverse executable futures under the same observation and consistent behavior across replanning cycles. We present Conditional Trajectory Peaks (CTP), a single-p",
-      "authors": [
-        "Di Wu",
-        "Rongtian Shen",
-        "Ping Liu",
-        "Xuhua Chen",
-        "He Zheng"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.06090",
-      "title": "Execution-Aligned Progressive Noise for Consistent Asynchronous Replanning in Generative Robot Policies",
-      "url": "https://huggingface.co/papers/2610.06090",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-04T20:00:00.000Z",
-      "abstract": "Continuous asynchronous replanning is essential for real-time generative robot policies, but independent stochastic initialization can cause mode switching and inconsistent continuation across action",
-      "authors": [
-        "Di Wu",
-        "Ping Liu",
-        "Xuhua Chen",
-        "He Zheng",
-        "Lingfeng Zhang"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
