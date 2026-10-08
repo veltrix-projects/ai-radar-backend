@@ -1,31 +1,9 @@
 {
-  "generatedAt": "2026-10-08T09:13:00.339Z",
+  "generatedAt": "2026-10-08T16:40:18.291Z",
   "date": "05-10-2026",
   "count": 16,
   "summary": null,
   "items": [
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode",
-      "url": "https://www.marktechpost.com/2026/10/05/meet-together-link-a-free-cli-that-runs-open-models-like-kimi-k3-and-glm-5-3-inside-claude-code-codex-and-opencode/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-10-05T22:51:05.000Z",
-      "abstract": "Together AI has released Together Link, a free, MIT-licensed CLI that connects Claude Code, Codex, OpenCode, Pi, and the Claude and ChatGPT desktop apps to open models like Kimi K3 and GLM 5.3. One in",
-      "authors": [],
-      "tags": [
-        "claude"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Fo",
       "title": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
@@ -39,6 +17,108 @@
       "tags": [
         "agent"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.09127",
+      "title": "CADFather: Autonomous CAD Reconstruction through Coordinated Tool Use",
+      "url": "https://huggingface.co/papers/2610.09127",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-05T20:00:00.000Z",
+      "abstract": "Reconstructing an editable CAD model from a 3D shape remains a challenging engineering task. Existing methods can propose CAD operations, but no single source of proposals works equally well across di",
+      "authors": [
+        "Gennadiy Savrasov",
+        "Maksim Elistratov",
+        "Nikita Gavrilov",
+        "Albert Garifullin",
+        "Oleg Pavlov"
+      ],
+      "tags": [
+        "autonomous"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.08884",
+      "title": "Task-Sufficient Contraction: Source Selection for Machine Information Interfaces",
+      "url": "https://huggingface.co/papers/2610.08884",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-05T20:00:00.000Z",
+      "abstract": "A declared task can sometimes certify a reduced source before a downstream encoder, codebook, rate, distortion target, or optimizer is chosen. This paper studies when one such reduction preserves the",
+      "authors": [
+        "Joss Armstrong"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.08995",
+      "title": "PhysEvo: Astra Can Act, Let It",
+      "url": "https://huggingface.co/papers/2610.08995",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-05T20:00:00.000Z",
+      "abstract": "Astra can act, yet reliable manipulation depends on the system through which it observes and controls the world. We introduce PhysEvo, a framework for physical recursive self-improvement (RSI) around",
+      "authors": [
+        "Wenqing Tian",
+        "Zeyu Zhang",
+        "Zhaocheng Liu",
+        "Fengwei Liu",
+        "Qiang Liu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.09228",
+      "title": "Co-Evolving Robot Orchestrators and Policies through Deployment",
+      "url": "https://huggingface.co/papers/2610.09228",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-05T20:00:00.000Z",
+      "abstract": "Vision-language-action (VLA) policies trained on large datasets are capable within their training domains, yet they still fail to generalize to the variety of situations a robot meets in real-world de",
+      "authors": [
+        "Xilun Zhang",
+        "Maggie Wang",
+        "Erik Bauer",
+        "Hong-Xing Yu",
+        "Huang Huang"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -65,84 +145,6 @@
         "Sangmin Lee"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.06505",
-      "title": "Improving Proactive AI Assistance with Hierarchical Procedural Understanding",
-      "url": "https://huggingface.co/papers/2610.06505",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-05T20:00:00.000Z",
-      "abstract": "Proactive AI assistants continuously observe a user's activity and decide whether to provide new guidance or remain silent. They should provide appropriate guidance for the task, determine when to pro",
-      "authors": [
-        "Jin-Seop Lee",
-        "TaeYeon Won",
-        "SeongJun Jung",
-        "JungHoon Kim",
-        "Boyang Albert Li"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.07874",
-      "title": "On-Policy Distillation with Negative-Policy Rollouts",
-      "url": "https://huggingface.co/papers/2610.07874",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-05T20:00:00.000Z",
-      "abstract": "On-policy distillation (OPD) has been widely studied as a post-training method in which a student model obtains token-level supervision from a stronger teacher on its own rollouts. Recent studies have",
-      "authors": [
-        "Jaehui Hwang",
-        "Dongyoon Han",
-        "Sangdoo Yun",
-        "Byeongho Heo"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.08621",
-      "title": "Recursive Game Creator: An Agentic Product-Level Experience-Oriented Game Harness",
-      "url": "https://huggingface.co/papers/2610.08621",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-05T20:00:00.000Z",
-      "abstract": "Recent game design agents have made substantial progress in generating playable games. However, program correctness does not ensure an enjoyable experience for players. We present Recursive Game Creat",
-      "authors": [
-        "Jiajun Chen",
-        "Haoyu Wu",
-        "Mingda Jia",
-        "Xihui Liu"
-      ],
-      "tags": [
-        "agent"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -342,7 +344,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 275011,
+      "stars": 275208,
       "votes": 0,
       "points": 0
     },

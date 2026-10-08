@@ -1,32 +1,32 @@
 {
-  "generatedAt": "2026-10-08T09:13:00.340Z",
+  "generatedAt": "2026-10-08T16:40:18.292Z",
   "date": "04-10-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.06293",
-      "title": "VepAgent: Bridging Causal-Transition via Tool-Augmented Reinforcement Learning for Video Event Prediction",
-      "url": "https://huggingface.co/papers/2610.06293",
+      "id": "hf_paper_2610.07250",
+      "title": "Internalizing Agent Experience into Diffusion Model Weights via On-Policy Context Distillation",
+      "url": "https://huggingface.co/papers/2610.07250",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-04T20:00:00.000Z",
-      "abstract": "Multimodal Large Language Models (MLLMs) have demonstrated remarkable potential in video understanding, yet their reliance on retrospective summarization and text-centric priors often limits their abi",
+      "abstract": "Wrapping an image generation model in an agentic harness can effectively boost Text-to-Image task performance: the harness can leverage memory, skills, workflow orchestration, result verification, and",
       "authors": [
-        "Qiutong Chen",
-        "Yuchan Guo",
-        "Zhenlong Yuan",
-        "Haobo Yang",
-        "Fangfang Lin"
+        "Wenxuan Wang",
+        "Zekai Liu",
+        "Weinan Zhang",
+        "Yu Cheng",
+        "Yang Yang"
       ],
       "tags": [
-        "agent",
-        "reinforcement learning"
+        "diffusion",
+        "agent"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

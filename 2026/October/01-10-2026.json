@@ -1,9 +1,63 @@
 {
-  "generatedAt": "2026-10-08T09:13:00.342Z",
+  "generatedAt": "2026-10-08T16:40:18.294Z",
   "date": "01-10-2026",
-  "count": 3,
+  "count": 5,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2610.02832",
+      "title": "FastOPD: On-Policy Distillation for Lightweight VLA Deployment",
+      "url": "https://huggingface.co/papers/2610.02832",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-01T20:00:00.000Z",
+      "abstract": "Vision-Language-Action (VLA) foundation models have scaled rapidly to enhance manipulation performance and generalizability, but this scaling incurs high computational costs that render real-world dep",
+      "authors": [
+        "Yoojin Oh",
+        "Jeongsol Kim",
+        "Yeonwoo Seo",
+        "Jangho Park",
+        "Seonghyun Jin"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.03185",
+      "title": "Gains and Collapse in On-Policy Distillation:A Reinforcement Learning Perspective",
+      "url": "https://huggingface.co/papers/2610.03185",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-01T20:00:00.000Z",
+      "abstract": "On-policy distillation (OPD) has become an important approach to language model post-training. However, despite its performance gains, OPD can also collapse into excessively long and repetitive genera",
+      "authors": [
+        "Han Cui",
+        "Jianhao Yan",
+        "Yun Luo",
+        "Hongbo Zhang",
+        "Zhizhang Fu"
+      ],
+      "tags": [
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "Build Applications on NVIDIA BlueField Faster with NVIDIA DOCA Agent Skills",

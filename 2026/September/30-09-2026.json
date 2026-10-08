@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-08T09:13:00.343Z",
+  "generatedAt": "2026-10-08T16:40:18.294Z",
   "date": "30-09-2026",
-  "count": 6,
+  "count": 5,
   "summary": null,
   "items": [
     {
@@ -27,6 +27,31 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2610.03799",
+      "title": "StepCAD: Mesh-to-CAD Code Generation via LLM Policy and Geometry-Guided Search",
+      "url": "https://huggingface.co/papers/2610.03799",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-30T20:00:00.000Z",
+      "abstract": "Recovering executable CAD programs from 3D meshes is challenging due to the compositional nature of CAD construction and the interaction between discrete modeling choices and continuous parameters. Ma",
+      "authors": [
+        "Ghadi Nehme",
+        "Faez Ahmed"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2610.02368",
       "title": "Rethinking World-Action Model for Compositional and In-Context Robotic Manipulation",
       "url": "https://huggingface.co/papers/2610.02368",
@@ -41,58 +66,6 @@
         "Yintianrun Zhang",
         "Ruopeng Cui",
         "Ye Huang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.02054",
-      "title": "UniWAM: Unified World-Action Model",
-      "url": "https://huggingface.co/papers/2610.02054",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-30T20:00:00.000Z",
-      "abstract": "Vision-language-action models benefit from the understanding and reasoning capabilities of pretrained vision-language models, but action-only supervision provides limited grounding in world dynamics.",
-      "authors": [
-        "Jiayi Chen",
-        "Wenxuan Song",
-        "Jingbo Wang",
-        "Shuai Zhou",
-        "Xicheng Gong"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.00994",
-      "title": "VIEScore2: Unified Image Evaluation with Spatially Grounded Explanations",
-      "url": "https://huggingface.co/papers/2610.00994",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-30T20:00:00.000Z",
-      "abstract": "Existing synthetic image evaluators typically provide only a scalar quality score and do not identify the image regions that support it. We introduce VIEScore2, a unified evaluator for image generatio",
-      "authors": [
-        "Xianda Du",
-        "Max Ku",
-        "Weiming Ren",
-        "Zhi Rui Tam",
-        "Chunlin Ren"
       ],
       "tags": [],
       "score": 6,
