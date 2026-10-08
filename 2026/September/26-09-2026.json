@@ -1,29 +1,32 @@
 {
-  "generatedAt": "2026-10-06T06:43:00.581Z",
+  "generatedAt": "2026-10-08T09:13:00.345Z",
   "date": "26-09-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2609.33804",
-      "title": "MinkowskiPE: Minkowski Positional Encoding for Spatiotemporal Perception",
-      "url": "https://huggingface.co/papers/2609.33804",
+      "id": "hf_paper_2609.33659",
+      "title": "Learning Multimodal Embeddings with Evidence-Aligned Readout",
+      "url": "https://huggingface.co/papers/2609.33659",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-26T20:00:00.000Z",
-      "abstract": "Modeling spatiotemporal coupling is a key challenge in building physical intelligence across scales, from microscopic to macroscopic. Existing models capture such structure broadly through physics-mot",
+      "abstract": "Multimodal large language models can expose task-relevant evidence through generation, but producing useful evidence does not by itself determine how it enters a retrieval embedding. We study whether",
       "authors": [
-        "Yuhao Li",
-        "Louie Hong Yao",
-        "Tianyi Shi",
-        "Hanqun Cao",
-        "Hongxia Hao"
+        "Zirong Chen",
+        "Fuda Ye",
+        "Enjun Du",
+        "Junfu Pu",
+        "Xinlei Wang"
       ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "tags": [
+        "multimodal",
+        "embeddings"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

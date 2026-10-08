@@ -1,85 +1,9 @@
 {
-  "generatedAt": "2026-10-08T02:07:00.445Z",
+  "generatedAt": "2026-10-08T09:13:00.342Z",
   "date": "01-10-2026",
-  "count": 6,
+  "count": 3,
   "summary": null,
   "items": [
-    {
-      "id": "hf_paper_2610.02781",
-      "title": "OPD Before RL: Warm-Starting Rubric-Based RL with On-Policy Distillation",
-      "url": "https://huggingface.co/papers/2610.02781",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-01T20:00:00.000Z",
-      "abstract": "Many useful language-model tasks cannot be evaluated by exact outcome verification. Rubric-based reinforcement learning (RL) addresses this issue by scoring open-ended responses against explicit crite",
-      "authors": [
-        "Xinpeng Wang",
-        "Wei Shi",
-        "Yu-Chia Chen",
-        "Maria Zontak",
-        "Yun He"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.01921",
-      "title": "Cross-Lingual Alignment for Decoder-Only Models using MoE Routers",
-      "url": "https://huggingface.co/papers/2610.01921",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-01T20:00:00.000Z",
-      "abstract": "Cross-lingual contrastive learning has been a core component of multilingual encoder training, but the ability to explicitly align representations is not possible in decoder-only LLMs because of varyi",
-      "authors": [
-        "Lucas Bandarkar",
-        "Clark Peng",
-        "Ahmed Haj Ahmed",
-        "Aditi Khandelwal",
-        "Nanyun Peng"
-      ],
-      "tags": [
-        "alignment"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.04002",
-      "title": "Do Language Models Need a Trainable Input Embedding Table? Fixed Minimal Token Codes at 1.7B-Class Scale",
-      "url": "https://huggingface.co/papers/2610.04002",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-01T20:00:00.000Z",
-      "abstract": "A trainable input embedding table assigns each vocabulary item an independently adjustable vector. We investigate whether this token-specific parameterization is required for substantial language-mode",
-      "authors": [
-        "A. Bochkov"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "Build Applications on NVIDIA BlueField Faster with NVIDIA DOCA Agent Skills",
