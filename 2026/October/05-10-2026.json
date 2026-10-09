@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-09T08:10:43.952Z",
+  "generatedAt": "2026-10-09T15:24:04.562Z",
   "date": "05-10-2026",
-  "count": 9,
+  "count": 11,
   "summary": null,
   "items": [
     {
@@ -27,18 +27,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.07730",
-      "title": "SanSi: A Looped Typed Decision Model for System 1.5 Thinking",
-      "url": "https://huggingface.co/papers/2610.07730",
+      "id": "hf_paper_2610.09059",
+      "title": "EDiS: Edge Disjoint Subgraph Sparsification Framework for Graph Neural Networks",
+      "url": "https://huggingface.co/papers/2610.09059",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-05T20:00:00.000Z",
-      "abstract": "Typed decision models answer a declared question without generating text: a decision head returns a probability for each of the declared options in a single forward pass. A single pass is fast, intuit",
+      "abstract": "Sparse GNN training reduces computation, but deciding which edges to keep can be costly. Reusing one sparse graph is cheap, but locks training to a fixed topology, while varying it across epochs can r",
       "authors": [
-        "Shuyu Gan",
-        "Young-Jun Lee",
-        "Dongyeop Kang"
+        "Sai Karthik Navuluru",
+        "Siddhartha Shankar Das",
+        "Franck Dernoncourt",
+        "S M Ferdous",
+        "Ryan A. Rossi"
       ],
       "tags": [],
       "score": 6,
@@ -51,20 +53,73 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.08077",
-      "title": "Self-Retrospection Distillation: Turning Post-hoc Experiences into Prior Foresight",
-      "url": "https://huggingface.co/papers/2610.08077",
+      "id": "hf_paper_2610.09087",
+      "title": "U-Space: Uncovering When and Why Uncertainty Arises in Language Models",
+      "url": "https://huggingface.co/papers/2610.09087",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-05T20:00:00.000Z",
-      "abstract": "Reinforcement learning with verifiable rewards (RLVR) turns agent experience into learning signals primarily through scalar outcome rewards after interaction. For group-relative objectives, however, t",
+      "abstract": "Large language models are informing decisions with ever-higher stakes. As the consequences of their errors grow, a central question becomes harder to ignore: how much can we trust an individual answer",
       "authors": [
-        "Haoxiang Zhang",
-        "Qinglin Chen",
-        "Hiroaki Hayashi",
-        "Zhuofeng Li",
-        "Siming Zhang"
+        "Tobias Braun",
+        "Nils Loose",
+        "Alexander Herzog",
+        "Virginia Ceccatelli",
+        "Marcus Rohrbach"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.08917",
+      "title": "CARE: Certifying Acceleration for Vision-Language-Action Inference",
+      "url": "https://huggingface.co/papers/2610.08917",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-05T20:00:00.000Z",
+      "abstract": "While vision-language-action (VLA) models have advanced rapidly, running them at every control step remains expensive. Prior work accelerates VLA inference using techniques like action chunking and vi",
+      "authors": [
+        "Rui Liu",
+        "Tong Zheng",
+        "Jindong Gu",
+        "Zhipeng Wang"
+      ],
+      "tags": [
+        "inference"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.08941",
+      "title": "SPW-Nav: A Streaming Panoramic World Model for Language-Guided Navigation",
+      "url": "https://huggingface.co/papers/2610.08941",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-05T20:00:00.000Z",
+      "abstract": "Language-guided panoramic video generation benefits various downstream applications, such as interactive 3D scene exploration, virtual reality experiences, and embodied agent training. Existing panora",
+      "authors": [
+        "Yunheng Liu",
+        "Ziqi Cai",
+        "Siqi Yang",
+        "Yimu Wang",
+        "Minggui Teng"
       ],
       "tags": [],
       "score": 6,
@@ -186,7 +241,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 275446,
+      "stars": 275604,
       "votes": 0,
       "points": 0
     },
