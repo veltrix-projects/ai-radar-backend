@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T01:33:49.203Z",
+  "generatedAt": "2026-10-09T08:10:43.952Z",
   "date": "05-10-2026",
   "count": 9,
   "summary": null,
@@ -27,24 +27,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.08902",
-      "title": "Agent Plasticity: Measuring Self-Improvement Through Experience",
-      "url": "https://huggingface.co/papers/2610.08902",
+      "id": "hf_paper_2610.07730",
+      "title": "SanSi: A Looped Typed Decision Model for System 1.5 Thinking",
+      "url": "https://huggingface.co/papers/2610.07730",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-05T20:00:00.000Z",
-      "abstract": "AI agents increasingly operate in environments where they can diagnose failures and improve through experience, yet existing evaluations largely measure what an agent can do at a fixed point in time r",
+      "abstract": "Typed decision models answer a declared question without generating text: a decision head returns a probability for each of the declared options in a single forward pass. A single pass is fast, intuit",
       "authors": [
-        "Harman Singh",
-        "Anton Bakhtin",
-        "Rulin Shao",
-        "Gabriel Synnaeve",
-        "Ilia Kulikov"
+        "Shuyu Gan",
+        "Young-Jun Lee",
+        "Dongyeop Kang"
       ],
-      "tags": [
-        "agent"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -55,24 +51,22 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.07862",
-      "title": "A self-learning scientific agent for X-ray diffraction",
-      "url": "https://huggingface.co/papers/2610.07862",
+      "id": "hf_paper_2610.08077",
+      "title": "Self-Retrospection Distillation: Turning Post-hoc Experiences into Prior Foresight",
+      "url": "https://huggingface.co/papers/2610.08077",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-05T20:00:00.000Z",
-      "abstract": "A central challenge for scientific agents is to turn analytical experience into reusable expertise grounded in physical evidence. Here we introduce Gan Jiang, a self-learning agent for powder X-ray di",
+      "abstract": "Reinforcement learning with verifiable rewards (RLVR) turns agent experience into learning signals primarily through scalar outcome rewards after interaction. For group-relative objectives, however, t",
       "authors": [
-        "Bin Cao",
-        "Huichi Zhou",
-        "Runyu Yang",
-        "Jingsong Li",
-        "Shuchen Sun"
+        "Haoxiang Zhang",
+        "Qinglin Chen",
+        "Hiroaki Hayashi",
+        "Zhuofeng Li",
+        "Siming Zhang"
       ],
-      "tags": [
-        "agent"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -192,7 +186,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 275356,
+      "stars": 275446,
       "votes": 0,
       "points": 0
     },

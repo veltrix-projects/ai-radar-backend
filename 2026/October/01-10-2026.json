@@ -1,46 +1,24 @@
 {
-  "generatedAt": "2026-10-09T01:33:49.206Z",
+  "generatedAt": "2026-10-09T08:10:43.955Z",
   "date": "01-10-2026",
-  "count": 2,
+  "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.04012",
-      "title": "Beyond the Parameter Monolith: Reconstructive Memories, Executable Skills, and Residual Assembly for Language Models",
-      "url": "https://huggingface.co/papers/2610.04012",
+      "id": "hf_paper_2610.03858",
+      "title": "Retrieval-Centric Deep Learning in Growing Nonparametric Neural Networks",
+      "url": "https://huggingface.co/papers/2610.03858",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-01T20:00:00.000Z",
-      "abstract": "Language-model systems can separate contextual computation, persistent storage, and exact execution instead of updating all capabilities through one shared parameter system. We investigate FEM-ASM, a",
+      "abstract": "We investigate a general-purpose layer for deep learning that, instead of compressing arbitrary-size training data into fixed-size weight matrices, stores a new pair of key-value representations for e",
       "authors": [
-        "A. Bochkov"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.02832",
-      "title": "FastOPD: On-Policy Distillation for Lightweight VLA Deployment",
-      "url": "https://huggingface.co/papers/2610.02832",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-01T20:00:00.000Z",
-      "abstract": "Vision-Language-Action (VLA) foundation models have scaled rapidly to enhance manipulation performance and generalizability, but this scaling incurs high computational costs that render real-world dep",
-      "authors": [
-        "Yoojin Oh",
-        "Jeongsol Kim",
-        "Yeonwoo Seo",
-        "Jangho Park",
-        "Seonghyun Jin"
+        "Maximilian Schlegel",
+        "Rajai Nasser",
+        "Seijin Kobayashi",
+        "Yanick Schimpf",
+        "Oliver Sieberling"
       ],
       "tags": [],
       "score": 6,

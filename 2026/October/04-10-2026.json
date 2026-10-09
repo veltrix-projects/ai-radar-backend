@@ -1,21 +1,24 @@
 {
-  "generatedAt": "2026-10-09T01:33:49.204Z",
+  "generatedAt": "2026-10-09T08:10:43.953Z",
   "date": "04-10-2026",
   "count": 2,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.07258",
-      "title": "Lineage-Aware Memory Governance: A Derivation-Gated Framework for Privacy-Preserving Column-Level Access Control in Enterprise AI Agents",
-      "url": "https://huggingface.co/papers/2610.07258",
+      "id": "hf_paper_2610.06406",
+      "title": "What Did the Agent Actually Do? Evidence-Grounded Oversight for Long-Horizon Agents",
+      "url": "https://huggingface.co/papers/2610.06406",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-04T20:00:00.000Z",
-      "abstract": "Enterprise AI agents that share a memory store face two unaddressed risks: sensitive data can leak through legitimately computed results the requester could not derive, and departments can silently co",
+      "abstract": "As agents take on long-horizon tasks, users shift from making individual decisions to overseeing autonomous execution. Yet the volume of agent activity and the fragmentation of supporting evidence mak",
       "authors": [
-        "Venkata M Sangaraju",
-        "Sudhir Vissa"
+        "Zhongxiang Sun",
+        "Jiahao Yan",
+        "Hongkang Zhao",
+        "Haojie Ding",
+        "Boheng Zhang"
       ],
       "tags": [
         "agent"
@@ -30,21 +33,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2605.09742",
-      "title": "TIDES: Implicit Time-Awareness in Selective State Space Models",
-      "url": "https://huggingface.co/papers/2605.09742",
+      "id": "hf_paper_2610.06100",
+      "title": "From Traces to Agentic Worlds: Agentic Language World Models for Interactive Environment Simulation",
+      "url": "https://huggingface.co/papers/2610.06100",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-04T20:00:00.000Z",
-      "abstract": "Selective state space models (SSMs), such as Mamba, achieve strong per-token expressivity by making the time discretization step TildeΔ a learned function of the input. However, in doing so, TildeΔ no",
+      "abstract": "Realistic environment replicas are increasingly valuable for training and evaluating LLM agents, yet the original systems may be inaccessible or impractical to reproduce. We explore agentic language w",
       "authors": [
-        "Taylan Soydan",
-        "Miguel A. Bessa",
-        "Dirk Mohr",
-        "Rui Barreira"
+        "Quanyu Long",
+        "Xiao Chen",
+        "Jianda Chen",
+        "Haozhen Zhang",
+        "Qisheng Hu"
       ],
-      "tags": [],
+      "tags": [
+        "agent"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
