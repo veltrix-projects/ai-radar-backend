@@ -1,56 +1,26 @@
 {
-  "generatedAt": "2026-10-09T08:10:43.953Z",
+  "generatedAt": "2026-10-09T20:10:26.799Z",
   "date": "04-10-2026",
-  "count": 2,
+  "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.06406",
-      "title": "What Did the Agent Actually Do? Evidence-Grounded Oversight for Long-Horizon Agents",
-      "url": "https://huggingface.co/papers/2610.06406",
+      "id": "hf_paper_2610.06496",
+      "title": "You Changed Your Mind, The Model Didn't: Demystifying Intent in Multi-Turn Dialogue",
+      "url": "https://huggingface.co/papers/2610.06496",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-04T20:00:00.000Z",
-      "abstract": "As agents take on long-horizon tasks, users shift from making individual decisions to overseeing autonomous execution. Yet the volume of agent activity and the fragmentation of supporting evidence mak",
+      "abstract": "When a large language model handles a multi-turn task and a user proposes a change but ultimately rejects it, the model should continue as if nothing changed. We find a surprising failure: merely ment",
       "authors": [
-        "Zhongxiang Sun",
-        "Jiahao Yan",
-        "Hongkang Zhao",
-        "Haojie Ding",
-        "Boheng Zhang"
+        "Junle Chen",
+        "Wei Chen",
+        "Zhengjun Huang",
+        "Zhoujin Tian",
+        "Yuxuan Liu"
       ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.06100",
-      "title": "From Traces to Agentic Worlds: Agentic Language World Models for Interactive Environment Simulation",
-      "url": "https://huggingface.co/papers/2610.06100",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-04T20:00:00.000Z",
-      "abstract": "Realistic environment replicas are increasingly valuable for training and evaluating LLM agents, yet the original systems may be inaccessible or impractical to reproduce. We explore agentic language w",
-      "authors": [
-        "Quanyu Long",
-        "Xiao Chen",
-        "Jianda Chen",
-        "Haozhen Zhang",
-        "Qisheng Hu"
-      ],
-      "tags": [
-        "agent"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

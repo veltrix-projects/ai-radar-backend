@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-10-09T08:10:43.955Z",
+  "generatedAt": "2026-10-09T20:10:26.801Z",
   "date": "01-10-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.03858",
-      "title": "Retrieval-Centric Deep Learning in Growing Nonparametric Neural Networks",
-      "url": "https://huggingface.co/papers/2610.03858",
+      "id": "hf_paper_2610.03136",
+      "title": "Investigating the Role of Reasoning-Language Alignment in Monolingual Retrieval-Augmented Generation",
+      "url": "https://huggingface.co/papers/2610.03136",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-01T20:00:00.000Z",
-      "abstract": "We investigate a general-purpose layer for deep learning that, instead of compressing arbitrary-size training data into fixed-size weight matrices, stores a new pair of key-value representations for e",
+      "abstract": "Reasoning traces improve large language models (LLMs), but current models are trained to reason mostly in English. It has been shown that forcing a model to reason in another language degrades accurac",
       "authors": [
-        "Maximilian Schlegel",
-        "Rajai Nasser",
-        "Seijin Kobayashi",
-        "Yanick Schimpf",
-        "Oliver Sieberling"
+        "Oliver Hauck",
+        "Mario Sanz-Guerrero",
+        "Katharina von der Wense"
       ],
-      "tags": [],
+      "tags": [
+        "alignment"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

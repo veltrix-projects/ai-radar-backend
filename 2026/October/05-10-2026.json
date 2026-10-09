@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T15:24:04.562Z",
+  "generatedAt": "2026-10-09T20:10:26.799Z",
   "date": "05-10-2026",
   "count": 11,
   "summary": null,
@@ -14,6 +14,59 @@
       "timestamp": "2026-10-05T21:08:00.000Z",
       "abstract": "Generative AI",
       "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.04875",
+      "title": "SpecFold: Folding Multi-Branch Redundancy for Faster Speculative Decoding in Diffusion Language Models",
+      "url": "https://huggingface.co/papers/2610.04875",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-05T20:00:00.000Z",
+      "abstract": "Diffusion large language models (DLLMs) generate text through iterative block denoising, and multi-branch speculative decoding accelerates this process by verifying a main branch together with multipl",
+      "authors": [
+        "Chung-En Ho",
+        "Weiyu Sun",
+        "Cheng-Jhih Shih",
+        "He Li",
+        "Yong Liu"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.08927",
+      "title": "Can AI Agents Make Open-Ended Scientific Discovery? Evidence from Station",
+      "url": "https://huggingface.co/papers/2610.08927",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-05T20:00:00.000Z",
+      "abstract": "Recent AI systems have made rapid progress in scientific discovery when given well-defined metrics, but whether they can autonomously undertake open-ended scientific discovery remains unclear. We inve",
+      "authors": [
+        "Wenyu Du",
+        "Stephen Chung"
+      ],
       "tags": [
         "agent"
       ],
@@ -106,32 +159,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.08941",
-      "title": "SPW-Nav: A Streaming Panoramic World Model for Language-Guided Navigation",
-      "url": "https://huggingface.co/papers/2610.08941",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-05T20:00:00.000Z",
-      "abstract": "Language-guided panoramic video generation benefits various downstream applications, such as interactive 3D scene exploration, virtual reality experiences, and embodied agent training. Existing panora",
-      "authors": [
-        "Yunheng Liu",
-        "Ziqi Cai",
-        "Siqi Yang",
-        "Yimu Wang",
-        "Minggui Teng"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
       "title": "Connecting AI agents to enterprise knowledge",
       "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
@@ -146,26 +173,6 @@
       ],
       "score": 6,
       "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fmuse-esc",
-      "title": "Muse escapes containment",
-      "url": "https://www.404media.co/muse-escapes-containment/",
-      "source": "404 Media",
-      "sourceIcon": "📡",
-      "type": "news",
-      "timestamp": "2026-10-05T15:38:35.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -241,7 +248,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 275604,
+      "stars": 275787,
       "votes": 0,
       "points": 0
     },

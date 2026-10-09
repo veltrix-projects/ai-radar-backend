@@ -1,23 +1,28 @@
 {
-  "generatedAt": "2026-10-09T15:24:04.562Z",
+  "generatedAt": "2026-10-09T20:10:26.798Z",
   "date": "06-10-2026",
-  "count": 13,
+  "count": 11,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.09639",
-      "title": "On-Policy Distillation Teaches New Skills but Not New Knowledge",
-      "url": "https://huggingface.co/papers/2610.09639",
+      "id": "hf_paper_2610.10355",
+      "title": "MIRA: A Musical Intent Refinement Agent for Aligning Text-to-Music Generation with User Intent",
+      "url": "https://huggingface.co/papers/2610.10355",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-06T20:00:00.000Z",
-      "abstract": "On-policy distillation (OPD) strengthens language-model reasoning, yet whether students acquire new factual knowledge or compositional skill for multi-step reasoning remains unknown. We separate these",
+      "abstract": "Text-to-music systems produce increasingly convincing audio, yet evaluation reveals little about whether the result matches user intent. A global text-audio relevance score can overlook the implicit i",
       "authors": [
-        "Yixuan Tang",
-        "Yi Yang"
+        "Zekai Liu",
+        "Zhilin Wang",
+        "Xuzheng He",
+        "Yu Cheng",
+        "Yang Yang"
       ],
-      "tags": [],
+      "tags": [
+        "agent"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -84,28 +89,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Building a context-aware AI assistant on AgentCore and OpenClaw",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-10-06T19:19:15.000Z",
-      "abstract": "Off-the-shelf AI assistants forget you between conversations. This post shows how to build a personal assistant that accumulates context using OpenClaw on Amazon Bedrock AgentCore runtime, with AgentC",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -206,28 +189,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "404_media_https%3A%2F%2Fwww.404media.co%2Flawmaker",
-      "title": "Lawmakers Introduce Multiple Laws to Curb Flock After 404 Media Coverage",
-      "url": "https://www.404media.co/lawmakers-introduce-multiple-laws-to-curb-flock-after-404-media-coverage/",
-      "source": "404 Media",
-      "sourceIcon": "📡",
-      "type": "news",
-      "timestamp": "2026-10-06T13:24:26.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "rag"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
