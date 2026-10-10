@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T20:10:26.799Z",
+  "generatedAt": "2026-10-10T00:07:40.282Z",
   "date": "05-10-2026",
   "count": 11,
   "summary": null,
@@ -20,6 +20,88 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2606.03335",
+      "title": "A GPU-Parallel Framework for Heterogeneous Multi-Task Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2606.03335",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-05T20:00:00.000Z",
+      "abstract": "GPU-parallel simulation provides abundant robot interaction, but existing benchmarks rarely combine this scale with heterogeneous manipulation tasks and standardized multi-task RL evaluation. We intro",
+      "authors": [
+        "Rui Zhang",
+        "Qiwei Wu",
+        "Zhengyu Zhang",
+        "Tao Li",
+        "Hongyu Zhou"
+      ],
+      "tags": [
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.08585",
+      "title": "Incidental information contaminates patient notes and disrupts clinical reasoning in large language models",
+      "url": "https://huggingface.co/papers/2610.08585",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-05T20:00:00.000Z",
+      "abstract": "Large language models (LLMs) are increasingly relied upon to support ambient documentation and clinical reasoning. Here we examine the impact of a failure mode shared between these two applications by",
+      "authors": [
+        "Krithik Vishwanath",
+        "Brandon Ye",
+        "Anton Alyakin",
+        "John E. Markert",
+        "Aaron Hsieh"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.09146",
+      "title": "Frozen Models, Evolving Expertise: Model-Agnostic Learning from Deployment Experience for Multimodal Medical AI",
+      "url": "https://huggingface.co/papers/2610.09146",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-05T20:00:00.000Z",
+      "abstract": "Large language models (LLMs) and vision-language models (VLMs) are usually frozen after deployment, so they do not learn from the cases they solve. This is especially concerning in medicine, where new",
+      "authors": [
+        "Yexiao He",
+        "Yucheng Tang",
+        "Pengfei Guo",
+        "Yufan He",
+        "Andriy Myronenko"
+      ],
+      "tags": [
+        "multimodal"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -106,59 +188,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.09087",
-      "title": "U-Space: Uncovering When and Why Uncertainty Arises in Language Models",
-      "url": "https://huggingface.co/papers/2610.09087",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-05T20:00:00.000Z",
-      "abstract": "Large language models are informing decisions with ever-higher stakes. As the consequences of their errors grow, a central question becomes harder to ignore: how much can we trust an individual answer",
-      "authors": [
-        "Tobias Braun",
-        "Nils Loose",
-        "Alexander Herzog",
-        "Virginia Ceccatelli",
-        "Marcus Rohrbach"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.08917",
-      "title": "CARE: Certifying Acceleration for Vision-Language-Action Inference",
-      "url": "https://huggingface.co/papers/2610.08917",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-05T20:00:00.000Z",
-      "abstract": "While vision-language-action (VLA) models have advanced rapidly, running them at every control step remains expensive. Prior work accelerates VLA inference using techniques like action chunking and vi",
-      "authors": [
-        "Rui Liu",
-        "Tong Zheng",
-        "Jindong Gu",
-        "Zhipeng Wang"
-      ],
-      "tags": [
-        "inference"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
       "title": "Connecting AI agents to enterprise knowledge",
       "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
@@ -219,36 +248,6 @@
       "downloads": 0,
       "likes": 0,
       "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "gh_1136590548",
-      "title": "affaan-m/ECC — The agent harness performance optimization system. Skills, instincts, memory, security, and research",
-      "url": "https://github.com/affaan-m/ECC",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-10-05T04:55:16Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "ai-agents",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "developer-tools",
-        "llm",
-        "mcp",
-        "productivity",
-        "JavaScript"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 275787,
       "votes": 0,
       "points": 0
     },
