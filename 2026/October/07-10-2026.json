@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T00:07:40.280Z",
+  "generatedAt": "2026-10-10T06:06:18.821Z",
   "date": "07-10-2026",
   "count": 26,
   "summary": null,
@@ -17,6 +17,30 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.11216",
+      "title": "The Lattice of Transition Laws",
+      "url": "https://huggingface.co/papers/2610.11216",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-07T20:00:00.000Z",
+      "abstract": "Diffusion and autoregression (AR) have long been seen as different categories of generative models, with diffusion specialising in continuous fields and AR specialising in discrete tokens. Recent work",
+      "authors": [
+        "T. Y. Tsui",
+        "Jiatao Gu",
+        "Lingjie Liu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -235,32 +259,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.12399",
-      "title": "SpaceFlow: Locally Controllable 3D Generation",
-      "url": "https://huggingface.co/papers/2610.12399",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-07T20:00:00.000Z",
-      "abstract": "Current 3D generation methods lack explicit local control: geometric adherence is often defined by a global control strength, and appearance cannot be specified locally. We present SpaceFlow, a traini",
-      "authors": [
-        "Neil De La Fuente",
-        "Joan Lafuente",
-        "Mukhammadali Sayfiddinov",
-        "Felicia Scharitzer",
-        "Marc Pollefeys"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
       "title": "Introducing Claude Haiku 5.5 on AWS",
       "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/",
@@ -362,7 +360,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 158505,
+      "stars": 158534,
       "votes": 0,
       "points": 0
     },

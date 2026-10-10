@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-10T00:07:40.282Z",
+  "generatedAt": "2026-10-10T06:06:18.823Z",
   "date": "05-10-2026",
-  "count": 11,
+  "count": 10,
   "summary": null,
   "items": [
     {
@@ -152,32 +152,6 @@
       "tags": [
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.09059",
-      "title": "EDiS: Edge Disjoint Subgraph Sparsification Framework for Graph Neural Networks",
-      "url": "https://huggingface.co/papers/2610.09059",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-05T20:00:00.000Z",
-      "abstract": "Sparse GNN training reduces computation, but deciding which edges to keep can be costly. Reusing one sparse graph is cheap, but locks training to a fixed topology, while varying it across epochs can r",
-      "authors": [
-        "Sai Karthik Navuluru",
-        "Siddhartha Shankar Das",
-        "Franck Dernoncourt",
-        "S M Ferdous",
-        "Ryan A. Rossi"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
