@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-12T06:14:06.787Z",
+  "generatedAt": "2026-10-12T22:39:24.887Z",
   "date": "07-10-2026",
-  "count": 26,
+  "count": 20,
   "summary": null,
   "items": [
     {
@@ -25,18 +25,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.11216",
-      "title": "The Lattice of Transition Laws",
-      "url": "https://huggingface.co/papers/2610.11216",
+      "id": "hf_paper_2610.12582",
+      "title": "One Model to Loop Them All: Elastic Latent Recurrence for Language Models",
+      "url": "https://huggingface.co/papers/2610.12582",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-07T20:00:00.000Z",
-      "abstract": "Diffusion and autoregression (AR) have long been seen as different categories of generative models, with diffusion specialising in continuous fields and AR specialising in discrete tokens. Recent work",
+      "abstract": "A latent recurrent language model applies a shared block of layers repeatedly, so one checkpoint can trade inference compute for accuracy by changing the loop count. At one loop, however, such models",
       "authors": [
-        "T. Y. Tsui",
-        "Jiatao Gu",
-        "Lingjie Liu"
+        "Faisal Ladhak",
+        "Shantanu Acharya",
+        "Santiago Akle Serano",
+        "Simeng Sun",
+        "Boris Ginsburg"
       ],
       "tags": [],
       "score": 6,
@@ -49,71 +51,18 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2609.33987",
-      "title": "Opera: A Verbal Critic Framework for Long-horizon Coding Agents",
-      "url": "https://huggingface.co/papers/2609.33987",
+      "id": "hf_paper_2610.12602",
+      "title": "Self-Preservation in Language Models",
+      "url": "https://huggingface.co/papers/2610.12602",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-07T20:00:00.000Z",
-      "abstract": "Long-horizon coding agents need timely corrections, yet feedback can be ineffective or even harmful when it misjudges ongoing work or fails to address the underlying problem. Existing critics focus on",
+      "abstract": "Continual learning (CL) seeks to adapt pretrained models while preserving prior capabilities. Yet the tasks supplied for preservation cover only part of what a model knows, while forgetting can extend",
       "authors": [
-        "Kai Mei",
-        "Zhiyuan Hu",
-        "Yutong Dai",
-        "Juntao Tan",
-        "Yifan Zhang"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.11169",
-      "title": "Skill Constellations: Tracing the Supply Chain of Agent Skills on GitHub",
-      "url": "https://huggingface.co/papers/2610.11169",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-07T20:00:00.000Z",
-      "abstract": "Agent skills are SKILL.md instructions and scripts that AI coding agents such as Claude Code and Codex run with the permissions of their user. Developers share skills by copying them between repositor",
-      "authors": [
-        "Fahd Seddik"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.11975",
-      "title": "Predicting Cable Dynamics with Physical Attention Bias",
-      "url": "https://huggingface.co/papers/2610.11975",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-07T20:00:00.000Z",
-      "abstract": "Learned simulators for deformable linear objects (DLOs) such as cables have to predict the motion of cables they were not trained on and stay stable over long rollouts. Most of their error occurs wher",
-      "authors": [
-        "Avihai Giuili",
-        "Rotem Atari",
-        "Avishai Sintov",
-        "Maya Bechler-Speicher"
+        "Dongkyu Cho",
+        "Rumi Chunara",
+        "Ali Behrouz"
       ],
       "tags": [],
       "score": 6,
@@ -126,45 +75,18 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.12423",
-      "title": "Pumpire: Unified Benchmark for Metric Distance Estimation",
-      "url": "https://huggingface.co/papers/2610.12423",
+      "id": "hf_paper_2610.12416",
+      "title": "MAMHOI: Factorizing Scene-Aware Human-Object Interaction through Affordances",
+      "url": "https://huggingface.co/papers/2610.12416",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-07T20:00:00.000Z",
-      "abstract": "We present Pumpire, a unified benchmark for evaluating metric point-pair distance estimation capability of both image- and video-level 3D foundation models, with or without depth priors. In contrast t",
+      "abstract": "Generating realistic human-object interactions (HOI) in complex 3D scenes requires two complementary capabilities: reasoning about interaction feasibility in the environment and synthesizing realistic",
       "authors": [
-        "Siyu Chen",
-        "Zehan Wang",
-        "Jiayang Xu",
-        "Yihan Wu",
-        "Jialei Wang"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.11566",
-      "title": "Incremental Open-Ended Deep Research with Structured Harness",
-      "url": "https://huggingface.co/papers/2610.11566",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-07T20:00:00.000Z",
-      "abstract": "Existing Open-Ended Deep Research (OEDR) systems primarily generate reports from scratch, making them inefficient for scenarios where research reports need to be continuously maintained as new informa",
-      "authors": [
-        "Meilin Chen",
-        "Hongyuan Bao"
+        "Mingyuan Lei",
+        "Yoonchang Sung",
+        "Tat-Jen Cham"
       ],
       "tags": [],
       "score": 6,
@@ -177,21 +99,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.12448",
-      "title": "One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts",
-      "url": "https://huggingface.co/papers/2610.12448",
+      "id": "hf_paper_2610.12114",
+      "title": "Universal Textual Teaching for LLMs",
+      "url": "https://huggingface.co/papers/2610.12114",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-07T20:00:00.000Z",
-      "abstract": "In this work, we show that a single Transformer block, applied recurrently, can match the accuracy of a full-depth vision encoder at comparable inference FLOPs without intermediate feature distillatio",
+      "abstract": "Knowledge distillation (KD) transfers knowledge from stronger Teacher models to weaker Student models, but most methods require training the Student parameters, thereby binding the distilled knowledge",
       "authors": [
-        "Adrian Bulat",
-        "Yassine Ouali",
-        "Georgios Tzimiropoulos"
+        "Zhanyi Lu",
+        "Huan Wang"
       ],
       "tags": [
-        "transformer"
+        "llm"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -203,55 +124,54 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.12183",
-      "title": "A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization",
-      "url": "https://huggingface.co/papers/2610.12183",
+      "id": "hf_paper_2610.12570",
+      "title": "Contextual Correction of Parallel Draftsfor Speculative Decoding",
+      "url": "https://huggingface.co/papers/2610.12570",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-07T20:00:00.000Z",
-      "abstract": "Black-box optimization (BBO) arises in many scientific and engineering problems where objective evaluations are expensive and limited. Recent large language model (LLM) agents offer a new way to appro",
+      "abstract": "Speculative decoding accelerates large language model inference by using a lightweight drafter to propose multiple tokens that are subsequently verified in parallel by the target model. Recent diffusi",
       "authors": [
-        "Ming Chen",
-        "Rong-Xi Tan",
-        "Ke Xue",
-        "Yu-Jie Zhou",
-        "Taiye Lu"
+        "Roy Eisenstadt",
+        "Harel Lidar",
+        "Tal Gonen",
+        "Omer Luxembourg",
+        "Itamar Zimerman"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.11993",
+      "title": "DataVista: Diagnosing Multimodal LLMs on Data Video Understanding",
+      "url": "https://huggingface.co/papers/2610.11993",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-07T20:00:00.000Z",
+      "abstract": "Data video is a media form that integrates data visualization with video narrative, widely adopted in news reporting and business analysis. Compared with general video understanding, data video unders",
+      "authors": [
+        "Yupeng Xie",
+        "Zhenyang Wang",
+        "Jiayi Zhu",
+        "Yinghao Tang",
+        "Zhouan Shen"
       ],
       "tags": [
         "llm",
-        "agent",
-        "benchmark"
+        "multimodal"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.11794",
-      "title": "Memento 3: Model-Based Recursive Self-Improvement through Reflective Rulebooks",
-      "url": "https://huggingface.co/papers/2610.11794",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-07T20:00:00.000Z",
-      "abstract": "Learning to act in unfamiliar environments requires agents to infer how the world works and revise that understanding as new evidence arrives. Yet limited observations can support multiple world model",
-      "authors": [
-        "Haoyu Zhao",
-        "Zhengxu Yu",
-        "Zhiyuan He",
-        "Meng Fang",
-        "Rasul Tutunov"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -360,7 +280,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 159121,
+      "stars": 159357,
       "votes": 0,
       "points": 0
     },
@@ -429,28 +349,6 @@
       "points": 0
     },
     {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Automate remediation post AWS DevOps Agent investigation",
-      "url": "https://aws.amazon.com/blogs/machine-learning/automate-remediation-post-aws-devops-agent-investigation/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-10-07T15:46:49.000Z",
-      "abstract": "AWS DevOps Agent can diagnose production incidents but is kept in observe-and-report mode so it does not change resources directly. This post shows how to use AWS Lambda Durable Functions, Amazon Even",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "Scaling Decision Optimization to 100 Million Variables and Beyond with mPDLP in NVIDIA cuOpt",
       "url": "https://developer.nvidia.com/blog/scaling-decision-optimization-to-100-million-variables-and-beyond-with-mpdlp-in-nvidia-cuopt/",
@@ -471,26 +369,6 @@
       "points": 0
     },
     {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Building AI builders: Playbook for closing the AI knowledge-capability gap",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-ai-builders-playbook-for-closing-the-ai-knowledge-capability-gap/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-10-07T15:44:27.000Z",
-      "abstract": "The biggest barrier to AI adoption isn't awareness. It's the gap between talking about AI and building with it. Here's the playbook we used to turn non-technical, customer-facing professionals into co",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "Faster Scientific Image Analysis with NVIDIA cuPhoton",
       "url": "https://developer.nvidia.com/blog/faster-scientific-image-analysis-with-nvidia-cuphoton/",
@@ -504,26 +382,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fundue-em",
-      "title": "'Undue emotional weight'",
-      "url": "https://www.404media.co/undue-emotional-weight/",
-      "source": "404 Media",
-      "sourceIcon": "📡",
-      "type": "news",
-      "timestamp": "2026-10-07T14:46:15.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

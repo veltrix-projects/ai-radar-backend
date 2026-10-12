@@ -1,20 +1,49 @@
 {
-  "generatedAt": "2026-10-12T06:14:06.788Z",
+  "generatedAt": "2026-10-12T22:39:24.887Z",
   "date": "06-10-2026",
   "count": 10,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.09280",
-      "title": "Evaluating the Transfer of Co-Evolved Communication from 2D to 3D Simulation",
-      "url": "https://huggingface.co/papers/2610.09280",
+      "id": "hf_paper_2610.09633",
+      "title": "Coding-Agent Benchmarks Should Match Their Users' Task Flows",
+      "url": "https://huggingface.co/papers/2610.09633",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-06T20:00:00.000Z",
-      "abstract": "This work examines the transfer of a co-evolved communication mechanism between two robotic agents from a discrete two-dimensional (2D) simulator to a three-dimensional simulator with real physics (3D",
+      "abstract": "The evaluation of coding agents generally strives to be as realistic as possible. In our study, we collect 4,782 agent sessions of real software engineers in JetBrains IDEs, which we call Production S",
       "authors": [
-        "Fernando Montes-Gonzalez"
+        "Igor Slinko",
+        "Yaroslav Golubev",
+        "Sergey Titov"
+      ],
+      "tags": [
+        "agent",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.10893",
+      "title": "Less from More: Reinforcing Sparse Video Reasoning from Dense References",
+      "url": "https://huggingface.co/papers/2610.10893",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-06T20:00:00.000Z",
+      "abstract": "Video-language models commonly assume that more temporal observations lead to more reliable reasoning. We question this assumption and argue that the key challenge is not merely processing more video",
+      "authors": [
+        "Wenfang Sun",
+        "Yingjun Du",
+        "Cees G. M. Snoek"
       ],
       "tags": [],
       "score": 6,
@@ -27,24 +56,22 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.10355",
-      "title": "MIRA: A Musical Intent Refinement Agent for Aligning Text-to-Music Generation with User Intent",
-      "url": "https://huggingface.co/papers/2610.10355",
+      "id": "hf_paper_2610.09607",
+      "title": "Which Language Should a Skeleton Speak? Language Choices in Multilingual Reasoning",
+      "url": "https://huggingface.co/papers/2610.09607",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-06T20:00:00.000Z",
-      "abstract": "Text-to-music systems produce increasingly convincing audio, yet evaluation reveals little about whether the result matches user intent. A global text-audio relevance score can overlook the implicit i",
+      "abstract": "Skeleton-based reasoning prompting is a promising training-free approach for structuring LLM reasoning, but prior work largely assumes an English-centric setting. We propose the Language-Aware Skeleto",
       "authors": [
-        "Zekai Liu",
-        "Zhilin Wang",
-        "Xuzheng He",
-        "Yu Cheng",
-        "Yang Yang"
+        "HyeonSeok Lim",
+        "SeungWoo Song",
+        "Inho Won",
+        "Hoyun Song",
+        "Jihyo Kim"
       ],
-      "tags": [
-        "agent"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -92,26 +119,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fher-ai-g",
-      "title": "Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'",
-      "url": "https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight/",
-      "source": "404 Media",
-      "sourceIcon": "📡",
-      "type": "news",
-      "timestamp": "2026-10-06T19:26:09.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

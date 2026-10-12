@@ -1,9 +1,61 @@
 {
-  "generatedAt": "2026-10-12T06:14:06.793Z",
+  "generatedAt": "2026-10-12T22:39:24.890Z",
   "date": "29-09-2026",
-  "count": 1,
+  "count": 4,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2609.39635",
+      "title": "SAGE: Salient Factor Discovery and Generation with Visual Foundation Representations",
+      "url": "https://huggingface.co/papers/2609.39635",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-29T20:00:00.000Z",
+      "abstract": "Given a target dataset, such as faces with eyeglasses, and a background dataset, such as faces without, contrastive analysis separates salient factors specific to the target from common content shared",
+      "authors": [
+        "Shuang Liang",
+        "Lejun Liao",
+        "Shiyuan Zhang",
+        "Max C. Zhang",
+        "Xiaolong Luo"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.36760",
+      "title": "QuantMLA: Function-Aligned Dual-Path Quantization for Low-Bit MLA KV Caching",
+      "url": "https://huggingface.co/papers/2609.36760",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-29T20:00:00.000Z",
+      "abstract": "Multi-Head Latent Attention (MLA) enables expressive multi-head attention with compact caches for its content and decoupled RoPE paths, yet cache memory still scales linearly with context length and b",
+      "authors": [
+        "Zunhai Su",
+        "Yuxuan Sun",
+        "Jianchao Tan",
+        "Tao Zhang",
+        "Ruihan Hu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Fh",
       "title": "How Diffusion Controller unifies and simplifies AI image generation",
@@ -19,6 +71,33 @@
       ],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.37359",
+      "title": "Encore: Few-Shot Agentic Discovery of Manipulation Strategies",
+      "url": "https://huggingface.co/papers/2609.37359",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-29T08:21:27.000Z",
+      "abstract": "Coding agents can now write, run, and debug programs with little human help. Robot tasks, however, are usually specified by a sentence that leaves out how to grasp, in what order to make contact, and",
+      "authors": [
+        "Yifan Kang",
+        "Zihan Wang",
+        "Zhiwen Fan",
+        "Bangya Liu"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
