@@ -1,32 +1,31 @@
 {
-  "generatedAt": "2026-10-08T09:13:00.345Z",
+  "generatedAt": "2026-10-13T03:16:26.787Z",
   "date": "26-09-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2609.33659",
-      "title": "Learning Multimodal Embeddings with Evidence-Aligned Readout",
-      "url": "https://huggingface.co/papers/2609.33659",
+      "id": "hf_paper_2609.33304",
+      "title": "Relevance Does Not Imply Applicability: Experience Activation for Personal GUI Agents",
+      "url": "https://huggingface.co/papers/2609.33304",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-26T20:00:00.000Z",
-      "abstract": "Multimodal large language models can expose task-relevant evidence through generation, but producing useful evidence does not by itself determine how it enters a retrieval embedding. We study whether",
+      "abstract": "Personal Graphical User Interface (GUI) agents rely on interaction history to infer what a user wants from ambiguous instructions and to anticipate recurring routines. Existing approaches retrieve tas",
       "authors": [
-        "Zirong Chen",
-        "Fuda Ye",
-        "Enjun Du",
-        "Junfu Pu",
-        "Xinlei Wang"
+        "Fuyao Zhang",
+        "Xuan Wang",
+        "Zherui Li",
+        "Jiaming Zhang",
+        "Longtao Huang"
       ],
       "tags": [
-        "multimodal",
-        "embeddings"
+        "agent"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

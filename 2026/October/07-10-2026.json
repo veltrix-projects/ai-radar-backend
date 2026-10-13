@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-12T22:39:24.887Z",
+  "generatedAt": "2026-10-13T03:16:26.781Z",
   "date": "07-10-2026",
-  "count": 20,
+  "count": 23,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,140 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.08966",
+      "title": "Humanity's Sixth Sense: Benchmarking Intuitive Visual Reasoning in Multimodal Models",
+      "url": "https://huggingface.co/papers/2610.08966",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-07T20:00:00.000Z",
+      "abstract": "Humans perceive far more in a scene than what is explicitly depicted: a single glance captures past causes and future trajectories; a quick peek determines if a vehicle can fit between two parked cars",
+      "authors": [
+        "Xingang Guo",
+        "Jing Gu",
+        "Brian Jang",
+        "Renxiong Wang",
+        "Utkarsh Tyagi"
+      ],
+      "tags": [
+        "multimodal",
+        "benchmark"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.12453",
+      "title": "Mental-Models for Multi-Agent Systems",
+      "url": "https://huggingface.co/papers/2610.12453",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-07T20:00:00.000Z",
+      "abstract": "Large foundation models have accelerated progress toward general-purpose agents that interact with humans and other agents through language and multimodal signals. However, robust multi-agent decision",
+      "authors": [
+        "Hanan Gani",
+        "Lulu Shao",
+        "Manmohan Chandraker"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.12307",
+      "title": "BudgetPix: Compute-Adaptive Tokenization for Pixel-Space Image Diffusion",
+      "url": "https://huggingface.co/papers/2610.12307",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-07T20:00:00.000Z",
+      "abstract": "Most image generation models rely on uniform tokenization, allocating the exact same computational budget to equally-sized image patches. This static paradigm cannot adapt to different resource constr",
+      "authors": [
+        "Ozgur Kara",
+        "Yujia Chen",
+        "Daniel Watson",
+        "David Forsyth",
+        "James Matthew Rehg"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.11069",
+      "title": "Clinician use of language models diverges from how the models are evaluated",
+      "url": "https://huggingface.co/papers/2610.11069",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-07T20:00:00.000Z",
+      "abstract": "Large language model (LLM) assistants are being deployed to clinicians across health systems, and judgments about their readiness rest largely on benchmark scores, most of them derived from examinatio",
+      "authors": [
+        "Krithik Vishwanath",
+        "Haitong Lin",
+        "Anton Alyakin",
+        "Jin Vivian Lee",
+        "D. Brock Hewitt"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.12102",
+      "title": "Few-Step Generation via Data-Space Iteration",
+      "url": "https://huggingface.co/papers/2610.12102",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-07T20:00:00.000Z",
+      "abstract": "Flow matching has emerged as a scalable paradigm for training high-quality generative models, but sampling from the learned probability flow requires many network evaluations. Distillation can reduce",
+      "authors": [
+        "Shanchuan Lin",
+        "Yansong Peng",
+        "Fu-Yun Wang",
+        "Haoqi Fan"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -124,54 +258,27 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.12570",
-      "title": "Contextual Correction of Parallel Draftsfor Speculative Decoding",
-      "url": "https://huggingface.co/papers/2610.12570",
+      "id": "hf_paper_2610.11765",
+      "title": "Thinking Inertia: LLMs Keep Thinking When Told Not To",
+      "url": "https://huggingface.co/papers/2610.11765",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-07T20:00:00.000Z",
-      "abstract": "Speculative decoding accelerates large language model inference by using a lightweight drafter to propose multiple tokens that are subsequently verified in parallel by the target model. Recent diffusi",
+      "abstract": "Large Language Models (LLMs) increasingly ship with explicit \"thinking modes\", yet their counterpart, \"no-thinking\", has received far less attention. We study LLMs' no-thinking behavior along two axes",
       "authors": [
-        "Roy Eisenstadt",
-        "Harel Lidar",
-        "Tal Gonen",
-        "Omer Luxembourg",
-        "Itamar Zimerman"
+        "Dianqiao Lei",
+        "Kevin Qinghong Lin",
+        "Pan Lu",
+        "Philip Torr",
+        "James Zou"
       ],
-      "tags": [],
+      "tags": [
+        "llm"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.11993",
-      "title": "DataVista: Diagnosing Multimodal LLMs on Data Video Understanding",
-      "url": "https://huggingface.co/papers/2610.11993",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-07T20:00:00.000Z",
-      "abstract": "Data video is a media form that integrates data visualization with video narrative, widely adopted in news reporting and business analysis. Compared with general video understanding, data video unders",
-      "authors": [
-        "Yupeng Xie",
-        "Zhenyang Wang",
-        "Jiayi Zhu",
-        "Yinghao Tang",
-        "Zhouan Shen"
-      ],
-      "tags": [
-        "llm",
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -280,7 +387,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 159357,
+      "stars": 159500,
       "votes": 0,
       "points": 0
     },
@@ -319,26 +426,6 @@
       "tags": [
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "How Qlik built grounded, enterprise-scale AI with Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-qlik-built-grounded-enterprise-scale-ai-with-amazon-bedrock/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-10-07T15:48:46.000Z",
-      "abstract": "Qlik built Qlik Answers on Amazon Bedrock to give its 40,000+ customers grounded, sourced answers across structured and unstructured enterprise data. Learn how a layered, multi-agent architecture with",
-      "authors": [],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

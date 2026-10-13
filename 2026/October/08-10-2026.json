@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T22:39:24.886Z",
+  "generatedAt": "2026-10-13T03:16:26.781Z",
   "date": "08-10-2026",
   "count": 17,
   "summary": null,
@@ -27,24 +27,48 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.13316",
-      "title": "ThinkDrag: Semantic Drag-Based Image Editing with Visual Reasoning",
-      "url": "https://huggingface.co/papers/2610.13316",
+      "id": "hf_paper_2610.13832",
+      "title": "SpatialASM: Internalizing Active Mentalization for Spatial Reasoning",
+      "url": "https://huggingface.co/papers/2610.13832",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-08T20:00:00.000Z",
-      "abstract": "Drag-based image editing provides an intuitive interface for spatially controlled image manipulation by allowing users to specify handle and target points. Existing methods have made substantial progr",
+      "abstract": "When solving complex spatial reasoning tasks, ordinary humans naturally revisit the scenes from task-relevant viewpoints and mentally reconstruct the spatial layouts from those viewpoints. But can Lar",
       "authors": [
-        "Armando Fortes",
-        "Tianyi Wei",
-        "Chindanai Trakantannarong",
-        "Shangchen Zhou",
-        "Xingang Pan"
+        "Yuhong Liu",
+        "Shenxi Wu",
+        "Junyi Chi",
+        "Beichen Zhang",
+        "Xuanlang Dai"
       ],
-      "tags": [
-        "rag"
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.13630",
+      "title": "Multi-Stream Attention Residuals",
+      "url": "https://huggingface.co/papers/2610.13630",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-08T20:00:00.000Z",
+      "abstract": "Attention Residuals (AttnRes) enables content-dependent retrieval over network depth, which can be viewed as single-stream softmax attention along the depth axis. Inspired by the success of multi-head",
+      "authors": [
+        "Xiaohan Qin",
+        "Xiangdong Zhang",
+        "Tuo Dai",
+        "Sunan Zou",
+        "Huaijin Wu"
       ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -222,32 +246,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.12470",
-      "title": "Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration",
-      "url": "https://huggingface.co/papers/2610.12470",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-08T13:59:58.000Z",
-      "abstract": "While learning dexterous manipulation from a single human video offers a promising alternative to costly robot demonstrations, many recent methods predominantly imitate demonstrated motions. Such stri",
-      "authors": [
-        "Jusuk Lee",
-        "Sungha Kim",
-        "Yeonsoo Park",
-        "Jonguk Cheon",
-        "Yoonkyo Jung"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fpollo",
       "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
       "url": "https://openai.com/index/pollo-ai",
@@ -332,22 +330,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.11291",
-      "title": "When Do We Need On-Policy Distillation? Distilling on Offline Student Rollouts Is Often Better",
-      "url": "https://huggingface.co/papers/2610.11291",
+      "id": "hf_paper_2610.11215",
+      "title": "GATOR: Generative and Agentic 3D Object Reconstruction From Casual Images",
+      "url": "https://huggingface.co/papers/2610.11215",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-10-08T01:54:03.000Z",
-      "abstract": "On-policy distillation (OPD) has become increasingly popular for transferring teacher capabilities to student models. In this work, we ask a critical research question: Is on-policy sampling always be",
+      "timestamp": "2026-10-08T00:13:04.000Z",
+      "abstract": "Reconstructing complete, scene-aligned 3D objects from casual images requires integrating sparse, uncertain observations and inferring surfaces hidden by occlusions. We present GATOR, a generative and",
       "authors": [
-        "Siyan Zhao",
-        "Yonggan Fu",
-        "Jindong Jiang",
-        "Shih-Yang Liu",
-        "Song Bian"
+        "Qirui Wu",
+        "Stan Birchfield",
+        "Hesam Rabeti",
+        "Angel X. Chang",
+        "Bowen Wen"
       ],
-      "tags": [],
+      "tags": [
+        "agent"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
