@@ -1,23 +1,58 @@
 {
-  "generatedAt": "2026-10-14T06:20:56.987Z",
+  "generatedAt": "2026-10-14T12:10:38.507Z",
   "date": "09-10-2026",
-  "count": 9,
+  "count": 10,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.14912",
-      "title": "Probable but Not Valid: A Psychometric Audit of Decision Models as Synthetic Survey Respondents",
-      "url": "https://huggingface.co/papers/2610.14912",
+      "id": "hf_paper_2610.15035",
+      "title": "What Really Works for Universal Multimodal Embeddings? A Controlled Study of Contrastive Training Strategies",
+      "url": "https://huggingface.co/papers/2610.15035",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-09T20:00:00.000Z",
-      "abstract": "Language models are increasingly used to create synthetic survey samples, also called silicon samples. Decision models are a new class of language models that return a probability for each point of a",
+      "abstract": "Contrastive learning has become the standard paradigm for multimodal representation learning, aligning semantically matched pairs while separating mismatched ones in a shared embedding space. Although",
       "authors": [
-        "Mantas Lukauskas",
-        "Viktorija Šarkauskaitė"
+        "Duo Li",
+        "Haojun Pan",
+        "Zuhao Yang",
+        "Xintong Wang",
+        "Chengfu Huo"
       ],
-      "tags": [],
+      "tags": [
+        "multimodal",
+        "training",
+        "embeddings"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.14609",
+      "title": "EviScene: Beyond \"Is It AI?\" for Agentic Image Factuality Assessment",
+      "url": "https://huggingface.co/papers/2610.14609",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-09T20:00:00.000Z",
+      "abstract": "Determining whether an image is AI-generated does not establish whether the situation it depicts is factually supported. We formulate Image Factuality Assessment: given an image and a generic verifica",
+      "authors": [
+        "ZiAn Wang",
+        "Ruiqi Liu",
+        "Zhengbo Zhang",
+        "Yi Han",
+        "Jialiang Shen"
+      ],
+      "tags": [
+        "agent"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -28,24 +63,22 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.15166",
-      "title": "ExeWorldBench: Benchmarking Code-Based Executable 3D World Modeling",
-      "url": "https://huggingface.co/papers/2610.15166",
+      "id": "hf_paper_2610.14726",
+      "title": "LightVAE: Towards Compact and Efficient Video Autoencoders",
+      "url": "https://huggingface.co/papers/2610.14726",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-09T20:00:00.000Z",
-      "abstract": "Coding agents are increasingly evolving beyond reproducing what a world looks like toward constructing executable worlds that capture how a world works. This shift calls for executable world modeling,",
+      "abstract": "Latent diffusion models enable high-quality video generation, but video VAE encoding and decoding remain computationally expensive. Existing methods use stage-specific lightweight operators, yet eithe",
       "authors": [
-        "Xinge Peng",
-        "Zhen Fang",
-        "Ruibing Wang",
-        "Yongxuan Lv",
-        "Haodong Li"
+        "Shiqiao Gu",
+        "Yang Yong",
+        "Fengjun Zhong",
+        "Ruihao Gong",
+        "Chengtao Lv"
       ],
-      "tags": [
-        "benchmark"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

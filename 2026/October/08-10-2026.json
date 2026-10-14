@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-14T06:20:56.988Z",
+  "generatedAt": "2026-10-14T12:10:38.508Z",
   "date": "08-10-2026",
-  "count": 9,
+  "count": 11,
   "summary": null,
   "items": [
     {
@@ -20,6 +20,59 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.12843",
+      "title": "APEX: Asynchronous Prefix Denoising for Extreme Compression",
+      "url": "https://huggingface.co/papers/2610.12843",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-08T20:00:00.000Z",
+      "abstract": "Fewer latent tokens promise cheaper diffusion. Yet aggressive latent compression creates a reconstruction-generation dilemma: adding channels improves reconstruction but makes generation harder. We in",
+      "authors": [
+        "David Dinkevich",
+        "Nisan Chiprut",
+        "Yoav HaCohen",
+        "Dani Lischinski"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.14228",
+      "title": "Latent World Action Model for GUI Agents",
+      "url": "https://huggingface.co/papers/2610.14228",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-08T20:00:00.000Z",
+      "abstract": "Pixel-space world models have recently emerged as a promising approach for GUI agents, predicting future screens prior to execution and subsequently re-perceiving them for action selection. However, t",
+      "authors": [
+        "Seungjun Yu",
+        "Hojun Choi",
+        "Seojeong Park",
+        "Jaeyo Shin",
+        "Hyunjung Shim"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

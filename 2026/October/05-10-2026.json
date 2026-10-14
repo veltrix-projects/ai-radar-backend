@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-14T06:20:56.990Z",
+  "generatedAt": "2026-10-14T12:10:38.511Z",
   "date": "05-10-2026",
-  "count": 5,
+  "count": 6,
   "summary": null,
   "items": [
     {
@@ -14,6 +14,34 @@
       "timestamp": "2026-10-05T21:08:00.000Z",
       "abstract": "Generative AI",
       "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.08432",
+      "title": "EMHO: EMbodied Agent Harness Optimization via Experience Traces",
+      "url": "https://huggingface.co/papers/2610.08432",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-05T20:00:00.000Z",
+      "abstract": "Improving embodied agents often focuses on optimizing the underlying model through training, while the surrounding agent harness that controls planning, context, and tool use is typically engineered.",
+      "authors": [
+        "Hyun Jung Lee",
+        "Jungtaek Kim",
+        "Jongwon Jeong",
+        "Tae-Eui Kam",
+        "Donghyun Kim"
+      ],
       "tags": [
         "agent"
       ],

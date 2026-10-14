@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-14T06:20:56.986Z",
+  "generatedAt": "2026-10-14T12:10:38.506Z",
   "date": "11-10-2026",
-  "count": 6,
+  "count": 5,
   "summary": null,
   "items": [
     {
@@ -27,17 +27,23 @@
       "points": 0
     },
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models",
-      "url": "https://www.marktechpost.com/2026/10/11/what-is-decision-3-0-vllm-semantic-routers-new-open-decision-models/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
+      "id": "hf_paper_2610.16172",
+      "title": "EventLens: Event-Structure Reinforcement Learning for Video Understanding",
+      "url": "https://huggingface.co/papers/2610.16172",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-10-11T21:43:41.000Z",
-      "abstract": "vLLM Semantic Router released Decision 3.0, 5 Apache-2.0 multimodal decision models from 0.8B to 27B. They answer choice, yes/no and score questions about text and images in one call, without generati",
-      "authors": [],
+      "timestamp": "2026-10-11T20:00:00.000Z",
+      "abstract": "Recent multimodal large language models (MLLMs) achieve strong results on video question answering, yet often fail to recover the temporal structure that makes a video coherent. They may merge neighbo",
+      "authors": [
+        "Guowen Zhang",
+        "Boshen Xu",
+        "Zihao Yue",
+        "Ziheng Wang",
+        "Xiaokun Liu"
+      ],
       "tags": [
-        "llm"
+        "reinforcement learning"
       ],
       "score": 8,
       "priority": "HIGH",
@@ -49,75 +55,23 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.17201",
-      "title": "Multics: Generative Multi-Player World Model with Hierarchical Communication",
-      "url": "https://huggingface.co/papers/2610.17201",
+      "id": "hf_paper_2602.05758",
+      "title": "LongR: Unleashing Long-Context Reasoning via Reinforcement Learning with Dense Utility Rewards",
+      "url": "https://huggingface.co/papers/2602.05758",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-11T20:00:00.000Z",
-      "abstract": "Multi-player interactive world models aim to simulate shared environments from multiple players' perspectives, but achieving robust generation while scaling to more players remains challenging. Existi",
+      "abstract": "Reinforcement Learning (RL) has emerged as a key driver for LLM reasoning. This capability is equally pivotal in long-context scenarios---such as long-dialogue understanding and structured data analys",
       "authors": [
-        "Kaiyi Huang",
-        "Wangbo Yu",
-        "Yukun Huang",
-        "Jiwen Yu",
-        "Kunhao Liu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.11850",
-      "title": "VEDJE: Video-Efficient Discriminative Joint Encoder for Scalable Video-Text Retrieval",
-      "url": "https://huggingface.co/papers/2610.11850",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-11T20:00:00.000Z",
-      "abstract": "Finding the right video often requires distinguishing similar scenes in which different events occur. Joint matching improves retrieval, but processing rich video representations for each query is cos",
-      "authors": [
-        "Shahaf Wagner",
-        "Gabriele Serussi",
-        "Dan Ben Ami",
-        "Tomer Galanti",
-        "Chaim Baskin"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.17227",
-      "title": "AReA: Adaptive Receptive-Field Attention for Efficient High-Resolution Diffusion Transformers",
-      "url": "https://huggingface.co/papers/2610.17227",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-11T20:00:00.000Z",
-      "abstract": "Generating images beyond the training resolution of Diffusion Transformers (DiTs) remains challenging, as the number of tokens grows rapidly with resolution, full attention becomes expensive, and outp",
-      "authors": [
-        "Javad Rajabi",
-        "Koorosh Roohi",
-        "David B. Lindell",
-        "Babak Taati"
+        "Qize Yu",
+        "Zijun Chen",
+        "Chen Wu",
+        "Yue Chen",
+        "Yiyao Yu"
       ],
       "tags": [
-        "transformer",
-        "diffusion"
+        "reinforcement learning"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -129,19 +83,49 @@
       "points": 0
     },
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context",
-      "url": "https://www.marktechpost.com/2026/10/10/orcarouter-releases-orcacyber-zero-1-5-cybersecurity-model-with-1m-context/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
+      "id": "hf_paper_2610.16354",
+      "title": "Self-Distillation with Verbal Regularization",
+      "url": "https://huggingface.co/papers/2610.16354",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-10-11T06:20:21.000Z",
-      "abstract": "OrcaRouter released OrcaCyber Zero 1.5, a gated cybersecurity model with a 1M-token context window. It reports 100% on Cybench and 95.8% on an evaluable CVE-Bench subset, priced at $3.00 / $7.50 per 1",
-      "authors": [],
+      "timestamp": "2026-10-11T20:00:00.000Z",
+      "abstract": "On-policy self-distillation (OPSD) trains a large language model using supervision from a teacher instantiated from the same model as the student. The teacher is conditioned on privileged information",
+      "authors": [
+        "Jiazheng Li",
+        "Yawei Li",
+        "Junru Lu",
+        "Zhenyi Shen",
+        "Di Yin"
+      ],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.16361",
+      "title": "HexaBee-4B: Six-Language Translation with Multilingual Answering and Bidirectional Supervision",
+      "url": "https://huggingface.co/papers/2610.16361",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-11T20:00:00.000Z",
+      "abstract": "Multilingual translation requires a model to preserve meaning while producing text in a requested language. We present HexaBee-4B, a translator adapted from Gemma 3 4B IT through three stages: Wikiped",
+      "authors": [
+        "Iman Barati",
+        "Mohammadmostafa Rostamkhani",
+        "Mohammad Badzohreh"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

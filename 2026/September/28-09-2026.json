@@ -1,53 +1,24 @@
 {
-  "generatedAt": "2026-10-14T01:17:22.197Z",
+  "generatedAt": "2026-10-14T12:10:38.513Z",
   "date": "28-09-2026",
-  "count": 2,
+  "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2609.36642",
-      "title": "PR-OPD: Privileged Representation On-policy Self-Distillation for Agentic Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2609.36642",
+      "id": "hf_paper_2609.37377",
+      "title": "Beyond Prompt Count: How Data Shapes Transfer in On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2609.37377",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-28T20:00:00.000Z",
-      "abstract": "Language-model agents are usually trained by reinforcement learning from one reward per episode, and privileged self-distillation enriches it by letting the same policy, given a skill, teach its skill",
+      "abstract": "On-policy distillation (OPD) trains students using teacher feedback on their own sampled responses, yet how prompt choice shapes transfer across teacher-student pairs remains poorly understood. We sys",
       "authors": [
-        "Muyang Li",
-        "Jie Yang",
-        "Zhengyu Fang",
-        "Junchao Zhu",
-        "Zhengkun Xiao"
-      ],
-      "tags": [
-        "agent",
-        "reinforcement learning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.36616",
-      "title": "CrossTimeEdit: A Decade-Spanning Cross-View Dataset and Reward-Guided Editing for Historical Street-View Generation",
-      "url": "https://huggingface.co/papers/2609.36616",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-28T20:00:00.000Z",
-      "abstract": "Historical street-view imagery records urban evolution, but uneven coverage leaves substantial gaps in historical records. Generating plausible past appearances requires restoring changed structures w",
-      "authors": [
-        "Hanwen Lu",
-        "Jun He",
-        "Mingjia Yang",
-        "Hao Wei",
-        "Jinhao Huang"
+        "Jiaxuan Wang",
+        "Jiafei Lyu",
+        "Yuchen Cai",
+        "Siye Wu",
+        "Pengyuan Wang"
       ],
       "tags": [],
       "score": 6,
