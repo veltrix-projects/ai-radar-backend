@@ -1,46 +1,28 @@
 {
-  "generatedAt": "2026-10-06T19:13:54.796Z",
+  "generatedAt": "2026-10-14T06:20:56.992Z",
   "date": "25-09-2026",
-  "count": 2,
+  "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2609.32510",
-      "title": "GeoCR: Learning a Generalist Cloud Removal Prior from Heterogeneous Observations",
-      "url": "https://huggingface.co/papers/2609.32510",
+      "id": "hf_paper_2610.13989",
+      "title": "PsyBer-Agent: A Psychology-Driven User Agent for Recommender Systems",
+      "url": "https://huggingface.co/papers/2610.13989",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-25T20:00:00.000Z",
-      "abstract": "Cloud removal methods are typically specialized to individual datasets and input configurations, limiting reuse across sensors, spectral bands, and observation settings. We introduce GeoCR, a generali",
+      "abstract": "Evaluating recommender systems before deployment requires simulators that remain realistic over long, closed-loop interaction cycles. Current LLM-based agents generally function as surface imitators t",
       "authors": [
-        "Jeonghyeok Do",
-        "Munchurl Kim"
+        "Chong Zhang",
+        "Qijie Shen",
+        "Haichao Zhang",
+        "Can Wang",
+        "Xiaobo Jin"
       ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.37496",
-      "title": "GeoSET: Generalist Foundation Model for SAR-to-EO Image Translation",
-      "url": "https://huggingface.co/papers/2609.37496",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-25T20:00:00.000Z",
-      "abstract": "Paired synthetic aperture radar (SAR) and electro-optical (EO) imagery is increasingly available across sensors, resolutions, and geographic regions. Yet existing SAR-to-EO image translation (SET) met",
-      "authors": [
-        "Jeonghyeok Do",
-        "Munchurl Kim"
+      "tags": [
+        "agent"
       ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

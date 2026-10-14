@@ -1,87 +1,9 @@
 {
-  "generatedAt": "2026-10-14T01:17:22.197Z",
+  "generatedAt": "2026-10-14T06:20:56.991Z",
   "date": "29-09-2026",
-  "count": 4,
+  "count": 1,
   "summary": null,
   "items": [
-    {
-      "id": "hf_paper_2610.00707",
-      "title": "Initialization Improves LLM-Driven Discovery",
-      "url": "https://huggingface.co/papers/2610.00707",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-29T20:00:00.000Z",
-      "abstract": "Large Language Models (LLMs) have been used for novel discovery of algorithms, theorems, drugs, and other tasks through the use of harnesses that prompt an LLM to iteratively optimize an objective. In",
-      "authors": [
-        "Mansi Sakarvadia",
-        "Marco Ciccone",
-        "Colin Raffel"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.39600",
-      "title": "GroundAnything: Reconciling Parallel Decoding with Precise Visual Grounding at Flash Speed",
-      "url": "https://huggingface.co/papers/2609.39600",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-29T20:00:00.000Z",
-      "abstract": "Autoregressive (AR) grounding models serialize spatial predictions, introducing sequential latency and imposing a causal order on output tokens. We view grounding as visual evidence extraction: object",
-      "authors": [
-        "Qize Yu",
-        "Lianrui Fan",
-        "Bowen Ping",
-        "Xini Ding",
-        "Zetian Song"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.39601",
-      "title": "GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives",
-      "url": "https://huggingface.co/papers/2609.39601",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-09-29T20:00:00.000Z",
-      "abstract": "Precise grounding matters. It specifies which object is the target and where that object is, even in clutter and for tiny objects, and it has to be fast enough for closed-loop control. Yet vision-lang",
-      "authors": [
-        "Qize Yu",
-        "Lianrui Fan",
-        "Boyu Chen",
-        "Jiaqi Liang",
-        "Xini Ding"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Fh",
       "title": "How Diffusion Controller unifies and simplifies AI image generation",

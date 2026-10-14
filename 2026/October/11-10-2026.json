@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-14T01:17:22.188Z",
+  "generatedAt": "2026-10-14T06:20:56.986Z",
   "date": "11-10-2026",
-  "count": 3,
+  "count": 6,
   "summary": null,
   "items": [
     {
@@ -42,6 +42,86 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.17201",
+      "title": "Multics: Generative Multi-Player World Model with Hierarchical Communication",
+      "url": "https://huggingface.co/papers/2610.17201",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-11T20:00:00.000Z",
+      "abstract": "Multi-player interactive world models aim to simulate shared environments from multiple players' perspectives, but achieving robust generation while scaling to more players remains challenging. Existi",
+      "authors": [
+        "Kaiyi Huang",
+        "Wangbo Yu",
+        "Yukun Huang",
+        "Jiwen Yu",
+        "Kunhao Liu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.11850",
+      "title": "VEDJE: Video-Efficient Discriminative Joint Encoder for Scalable Video-Text Retrieval",
+      "url": "https://huggingface.co/papers/2610.11850",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-11T20:00:00.000Z",
+      "abstract": "Finding the right video often requires distinguishing similar scenes in which different events occur. Joint matching improves retrieval, but processing rich video representations for each query is cos",
+      "authors": [
+        "Shahaf Wagner",
+        "Gabriele Serussi",
+        "Dan Ben Ami",
+        "Tomer Galanti",
+        "Chaim Baskin"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.17227",
+      "title": "AReA: Adaptive Receptive-Field Attention for Efficient High-Resolution Diffusion Transformers",
+      "url": "https://huggingface.co/papers/2610.17227",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-11T20:00:00.000Z",
+      "abstract": "Generating images beyond the training resolution of Diffusion Transformers (DiTs) remains challenging, as the number of tokens grows rapidly with resolution, full attention becomes expensive, and outp",
+      "authors": [
+        "Javad Rajabi",
+        "Koorosh Roohi",
+        "David B. Lindell",
+        "Babak Taati"
+      ],
+      "tags": [
+        "transformer",
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

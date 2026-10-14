@@ -1,21 +1,25 @@
 {
-  "generatedAt": "2026-10-14T01:17:22.188Z",
+  "generatedAt": "2026-10-14T06:20:56.986Z",
   "date": "10-10-2026",
   "count": 3,
   "summary": null,
   "items": [
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors",
-      "url": "https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
+      "id": "hf_paper_2610.15765",
+      "title": "A Decade in a Day: Synthesizing Agent-Native Interfaces from Human-Oriented Software Evolution",
+      "url": "https://huggingface.co/papers/2610.15765",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-10-10T22:02:18.000Z",
-      "abstract": "Sakana AI’s TMLR paper introduces Multi-Layered Review, a 3-agent Claude-based reviewer, and a 1,164-error Contradiction Benchmark. MLR caught 73.43% of core-claim errors, versus 14.81% for the best p",
-      "authors": [],
+      "timestamp": "2026-10-10T20:00:00.000Z",
+      "abstract": "Large language model agents are emerging as an important new class of users of desktop applications. However, existing desktop interfaces were designed for human end users or application developers, l",
+      "authors": [
+        "Alan Wu",
+        "Wei Tao",
+        "Yiwen Guo"
+      ],
       "tags": [
-        "llm"
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -72,7 +76,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 298678,
+      "stars": 298780,
       "votes": 0,
       "points": 0
     }
