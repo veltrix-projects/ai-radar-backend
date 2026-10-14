@@ -1,57 +1,27 @@
 {
-  "generatedAt": "2026-10-14T12:10:38.507Z",
+  "generatedAt": "2026-10-14T20:49:17.974Z",
   "date": "09-10-2026",
-  "count": 10,
+  "count": 8,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.15035",
-      "title": "What Really Works for Universal Multimodal Embeddings? A Controlled Study of Contrastive Training Strategies",
-      "url": "https://huggingface.co/papers/2610.15035",
+      "id": "hf_paper_2610.14530",
+      "title": "Who to Trust in Multi-Robot Systems: Joint Robot and Object Hypothesis Trust Inference via Neural-Symbolic Cross-Validation",
+      "url": "https://huggingface.co/papers/2610.14530",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-09T20:00:00.000Z",
-      "abstract": "Contrastive learning has become the standard paradigm for multimodal representation learning, aligning semantically matched pairs while separating mismatched ones in a shared embedding space. Although",
+      "abstract": "Multi-robot systems (MRS) offer significant advantages over single-robot platforms by enabling information sharing and coordination for different tasks in complex environments. However, reliable coope",
       "authors": [
-        "Duo Li",
-        "Haojun Pan",
-        "Zuhao Yang",
-        "Xintong Wang",
-        "Chengfu Huo"
+        "Ruiyang Wang",
+        "Hao-Lun Hsu",
+        "Haocheng Meng",
+        "Songqiao Xie",
+        "Miroslav Pajic"
       ],
       "tags": [
-        "multimodal",
-        "training",
-        "embeddings"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.14609",
-      "title": "EviScene: Beyond \"Is It AI?\" for Agentic Image Factuality Assessment",
-      "url": "https://huggingface.co/papers/2610.14609",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-09T20:00:00.000Z",
-      "abstract": "Determining whether an image is AI-generated does not establish whether the situation it depicts is factually supported. We formulate Image Factuality Assessment: given an image and a generic verifica",
-      "authors": [
-        "ZiAn Wang",
-        "Ruiqi Liu",
-        "Zhengbo Zhang",
-        "Yi Han",
-        "Jialiang Shen"
-      ],
-      "tags": [
-        "agent"
+        "inference"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -63,22 +33,53 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.14726",
-      "title": "LightVAE: Towards Compact and Efficient Video Autoencoders",
-      "url": "https://huggingface.co/papers/2610.14726",
+      "id": "hf_paper_2610.15228",
+      "title": "Words to World: Benchmarking LLMs in Interactive Physical Environments",
+      "url": "https://huggingface.co/papers/2610.15228",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-09T20:00:00.000Z",
-      "abstract": "Latent diffusion models enable high-quality video generation, but video VAE encoding and decoding remain computationally expensive. Existing methods use stage-specific lightweight operators, yet eithe",
+      "abstract": "Words are increasingly becoming an interface for action: large language models (LLMs) can now invoke tools, operate devices, and make decisions that affect the physical world. However, current benchma",
       "authors": [
-        "Shiqiao Gu",
-        "Yang Yong",
-        "Fengjun Zhong",
-        "Ruihao Gong",
-        "Chengtao Lv"
+        "Xinnan Dai",
+        "Kaiqi Yang",
+        "Yaxin Li",
+        "Cheng Luo",
+        "Wanli Li"
       ],
-      "tags": [],
+      "tags": [
+        "llm",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.14766",
+      "title": "Last Secure Code Benchmark: Is the Code You Vibe Secure?",
+      "url": "https://huggingface.co/papers/2610.14766",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-09T20:00:00.000Z",
+      "abstract": "AI coding agents now write much of the code that ships, yet whether that code is secure remains unclear. We introduce the Last Secure Code Benchmark, a comprehensive evaluation of secure code generati",
+      "authors": [
+        "Tianyi Wu",
+        "Chao Ge",
+        "Peng Chen",
+        "Fengji Zhang",
+        "Yongxing Wu"
+      ],
+      "tags": [
+        "benchmark"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -109,46 +110,6 @@
       "points": 0
     },
     {
-      "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fbehind-t",
-      "title": "Behind the Blog: What Would the Pope Do?",
-      "url": "https://www.404media.co/behind-the-blog-what-would-the-pope-do/",
-      "source": "404 Media",
-      "sourceIcon": "📡",
-      "type": "news",
-      "timestamp": "2026-10-09T15:44:32.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "ICYMI: What landed for AI builders in September 2026",
-      "url": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-10-09T15:38:39.000Z",
-      "abstract": "A monthly recap of the latest Amazon Bedrock, Amazon Bedrock AgentCore, and Strands updates from September 2026: broader model choice, faster serverless agents with built-in evaluation, and automated",
-      "authors": [],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
       "title": "We’re putting too much faith in AI’s ability to say no",
       "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
@@ -169,26 +130,6 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fsopho",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-10-09T07:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fasana",
       "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
       "url": "https://openai.com/index/asana-browser-agent",
@@ -201,6 +142,26 @@
       "tags": [
         "gpt"
       ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fsopho",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "source": "OpenAI Blog",
+      "sourceIcon": "🟢",
+      "type": "news",
+      "timestamp": "2026-10-09T07:00:00.000Z",
+      "abstract": "",
+      "authors": [],
+      "tags": [],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",

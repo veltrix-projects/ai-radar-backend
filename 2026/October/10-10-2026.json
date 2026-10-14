@@ -1,26 +1,24 @@
 {
-  "generatedAt": "2026-10-14T12:10:38.507Z",
+  "generatedAt": "2026-10-14T20:49:17.953Z",
   "date": "10-10-2026",
   "count": 3,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.15782",
-      "title": "Data-Centric Recursive Self-Improvement for Navigation via Policy-Synchronized Language-Action Dual Bootstrapping",
-      "url": "https://huggingface.co/papers/2610.15782",
+      "id": "hf_paper_2610.15965",
+      "title": "Scaling Repeated-Data Pretraining: Batch Size, Regularization, and GPU-Time Tradeoffs",
+      "url": "https://huggingface.co/papers/2610.15965",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-10T20:00:00.000Z",
-      "abstract": "Vision-language navigation requires agents to follow natural-language instructions to reach target locations, making high-quality language supervision essential. Since human annotation is costly, prio",
+      "abstract": "We study pretraining when compute is abundant but unique training data are finite, requiring repeated training on the same data. We first revisit infinite-compute pretraining (Kim et al. 2026) and sho",
       "authors": [
-        "Songze Li",
-        "Haoming Gu",
-        "Ziyang Gong",
-        "Zhitong Wang",
-        "Gengze Zhou"
+        "Sewon Min"
       ],
-      "tags": [],
+      "tags": [
+        "training"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -76,7 +74,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 298904,
+      "stars": 299100,
       "votes": 0,
       "points": 0
     }
