@@ -1,9 +1,38 @@
 {
-  "generatedAt": "2026-10-13T22:05:37.181Z",
+  "generatedAt": "2026-10-14T01:17:22.197Z",
   "date": "28-09-2026",
-  "count": 1,
+  "count": 2,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2609.36642",
+      "title": "PR-OPD: Privileged Representation On-policy Self-Distillation for Agentic Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2609.36642",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-09-28T20:00:00.000Z",
+      "abstract": "Language-model agents are usually trained by reinforcement learning from one reward per episode, and privileged self-distillation enriches it by letting the same policy, given a skill, teach its skill",
+      "authors": [
+        "Muyang Li",
+        "Jie Yang",
+        "Zhengyu Fang",
+        "Junchao Zhu",
+        "Zhengkun Xiao"
+      ],
+      "tags": [
+        "agent",
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2609.36616",
       "title": "CrossTimeEdit: A Decade-Spanning Cross-View Dataset and Reward-Guided Editing for Historical Street-View Generation",

@@ -1,50 +1,28 @@
 {
-  "generatedAt": "2026-10-13T03:16:26.783Z",
+  "generatedAt": "2026-10-14T01:17:22.194Z",
   "date": "04-10-2026",
-  "count": 2,
+  "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.07207",
-      "title": "Distributionally Robust Mixture-of-Experts Training",
-      "url": "https://huggingface.co/papers/2610.07207",
+      "id": "hf_paper_2610.05637",
+      "title": "Visual Grounding Safety in Vision-Language Models",
+      "url": "https://huggingface.co/papers/2610.05637",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-04T20:00:00.000Z",
-      "abstract": "Mixture-of-Experts (MoE) transformers scale capacity by activating only a few experts per token, but this sparsity creates a hidden reliability problem: when routing is imperfect, load-balanced models",
+      "abstract": "Vision-language models (VLMs) are increasingly trained to generate structured outputs like points and bounding boxes that downstream interfaces, agents, and robots can act on, yet safety alignment of",
       "authors": [
-        "Xin Teng",
-        "Muxiao Li",
-        "Hongyi Wen"
+        "Erfan Shayegani",
+        "Kundan Krishna",
+        "Yue Dong",
+        "Nael Abu-Ghazaleh",
+        "Leon Gatys"
       ],
       "tags": [
-        "training"
+        "safety"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.00423",
-      "title": "The Life Cycle of a Massive Activation: Stochastic Birth, Weight-Decay-Driven Growth, and Competitive Consolidation",
-      "url": "https://huggingface.co/papers/2610.00423",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-04T20:00:00.000Z",
-      "abstract": "Massive activations, residual-stream coordinates with magnitudes far larger than typical activations, are associated with attention sinks in transformers, but how their scale is regulated during train",
-      "authors": [
-        "S. Aaron McClendon",
-        "Jorge Gallego-Feliciano",
-        "Antonios Saravanos"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

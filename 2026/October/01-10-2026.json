@@ -1,9 +1,63 @@
 {
-  "generatedAt": "2026-10-13T22:05:37.179Z",
+  "generatedAt": "2026-10-14T01:17:22.195Z",
   "date": "01-10-2026",
-  "count": 2,
+  "count": 4,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2610.03039",
+      "title": "HyperThink: Text-to-Parameter Hypernetworks for Efficient Reasoning",
+      "url": "https://huggingface.co/papers/2610.03039",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-01T20:00:00.000Z",
+      "abstract": "Long-form thinking traces can substantially improve the multi-step reasoning performance of large language models (LLMs), but they introduce high inference-time overhead, with latency dominated by seq",
+      "authors": [
+        "Donggyun Kim",
+        "Jack Lu",
+        "Chanwoo Kim",
+        "Mengye Ren",
+        "Seunghoon Hong"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.02740",
+      "title": "Prospective Hindsight: Self-Calibrating Reinforcement Learning via Prediction-Reality Gaps",
+      "url": "https://huggingface.co/papers/2610.02740",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-01T20:00:00.000Z",
+      "abstract": "Reinforcement learning for long-horizon agents relies on purely retrospective training signals: credit is assigned only after observing environmental consequences, leaving the agent's belief at action",
+      "authors": [
+        "Jiaxin Zhang",
+        "Xiangyu Peng",
+        "Qinglin Chen",
+        "Yu Li",
+        "Hiroaki Hayashi"
+      ],
+      "tags": [
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2610.03825",
       "title": "Same Output, Different Gold: Measuring How Reference Choice Moves a Multilingual Benchmark Score",

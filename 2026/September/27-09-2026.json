@@ -1,29 +1,32 @@
 {
-  "generatedAt": "2026-10-09T20:10:26.803Z",
+  "generatedAt": "2026-10-14T01:17:22.198Z",
   "date": "27-09-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2609.34344",
-      "title": "Learning to Steer, Steering to See: Unveiling the Geometry of RLVR in Large Language Models via Trainable Vectors",
-      "url": "https://huggingface.co/papers/2609.34344",
+      "id": "hf_paper_2609.35291",
+      "title": "Narrow Multimodal Fine-Tuning Can Induce Emergent Misalignment",
+      "url": "https://huggingface.co/papers/2609.35291",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-27T20:00:00.000Z",
-      "abstract": "Reinforcement learning (RL) has become a key paradigm for enhancing the reasoning of large language models, yet the high dimensionality of parameter updates makes its training dynamics hard to analyze",
+      "abstract": "Modern AI models are aligned through post-training to adapt them to downstream tasks. Recent work shows that fine-tuning language models on narrow tasks can induce emergent misalignment (EM), causing",
       "authors": [
-        "Yuchen Cai",
-        "Ding Cao",
-        "Qixiang Yin",
-        "Xin Xu",
-        "Kai Yang"
+        "Shunchang Liu",
+        "Lukas Fluri",
+        "Xin Chen",
+        "Francesco Croce"
       ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "tags": [
+        "multimodal",
+        "fine-tuning",
+        "alignment"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
