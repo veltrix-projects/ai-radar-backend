@@ -1,106 +1,29 @@
 {
-  "generatedAt": "2026-10-14T01:17:22.195Z",
+  "generatedAt": "2026-10-15T02:24:56.127Z",
   "date": "01-10-2026",
-  "count": 4,
+  "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.03039",
-      "title": "HyperThink: Text-to-Parameter Hypernetworks for Efficient Reasoning",
-      "url": "https://huggingface.co/papers/2610.03039",
+      "id": "hf_paper_2610.02638",
+      "title": "Batched Speech Decisions Without Decoding: Single-Token Supervision Lets a Frozen LLM Hear Beyond the Transcript",
+      "url": "https://huggingface.co/papers/2610.02638",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-01T20:00:00.000Z",
-      "abstract": "Long-form thinking traces can substantially improve the multi-step reasoning performance of large language models (LLMs), but they introduce high inference-time overhead, with latency dominated by seq",
+      "abstract": "Full-duplex voice agents make many small, closed decisions, which current systems answer by slow autoregressive decoding. We propose DuplexJev, which feeds ASR-encoder hidden states through a small co",
       "authors": [
-        "Donggyun Kim",
-        "Jack Lu",
-        "Chanwoo Kim",
-        "Mengye Ren",
-        "Seunghoon Hong"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.02740",
-      "title": "Prospective Hindsight: Self-Calibrating Reinforcement Learning via Prediction-Reality Gaps",
-      "url": "https://huggingface.co/papers/2610.02740",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-01T20:00:00.000Z",
-      "abstract": "Reinforcement learning for long-horizon agents relies on purely retrospective training signals: credit is assigned only after observing environmental consequences, leaving the agent's belief at action",
-      "authors": [
-        "Jiaxin Zhang",
-        "Xiangyu Peng",
-        "Qinglin Chen",
-        "Yu Li",
-        "Hiroaki Hayashi"
+        "Jie Jin",
+        "Ziyin Ma",
+        "Min Yin",
+        "Jinyu Chen",
+        "Haigang Song"
       ],
       "tags": [
-        "reinforcement learning"
+        "llm",
+        "speech"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.03825",
-      "title": "Same Output, Different Gold: Measuring How Reference Choice Moves a Multilingual Benchmark Score",
-      "url": "https://huggingface.co/papers/2610.03825",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-01T20:00:00.000Z",
-      "abstract": "A benchmark score compares a system output against a reference, and methodological attention falls almost entirely on the first term. We measure the second. The retained annotation record of a six-lan",
-      "authors": [
-        "Parth Kulshreshtha",
-        "Shivali Dalmia",
-        "Abhishek Mukherji"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.03308",
-      "title": "T3lescope: Arbitrary-Resolution High-Fidelity Generative Surface Reconstruction from Images",
-      "url": "https://huggingface.co/papers/2610.03308",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-01T20:00:00.000Z",
-      "abstract": "We reconstruct high-fidelity 3D scene meshes from posed multi-view images without per-scene optimization, across scales ranging from single objects to large outdoor scenes. Per-scene optimization meth",
-      "authors": [
-        "Atsuhiro Noguchi",
-        "Tianhan Xu",
-        "Yiming Liang",
-        "Yuta Kikuchi",
-        "Masahiro Ishiyama"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
