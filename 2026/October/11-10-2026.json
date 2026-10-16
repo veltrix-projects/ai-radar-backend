@@ -1,27 +1,26 @@
 {
-  "generatedAt": "2026-10-16T06:34:03.714Z",
+  "generatedAt": "2026-10-16T16:20:25.793Z",
   "date": "11-10-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.16397",
-      "title": "Recursive Environment Scaling for General Long-Horizon Agents",
-      "url": "https://huggingface.co/papers/2610.16397",
+      "id": "hf_paper_2610.16105",
+      "title": "Beyond Policy Rollouts: Embedding-Space Directional Exploration with Anchored Noise for LLM RLVR",
+      "url": "https://huggingface.co/papers/2610.16105",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-11T20:00:00.000Z",
-      "abstract": "We study environment scaling as a way to increase agent-benchmark difficulty while holding core task objectives fixed. Our framework, Recursive Environment Scaling (RES), transforms existing benchmark",
+      "abstract": "Reinforcement learning with verifiable rewards (RLVR) typically uses small rollout groups per prompt, where repeated sampling from the same policy can yield highly similar trajectories, reducing withi",
       "authors": [
-        "Lingxiao Jing",
-        "Zhengbo Jiao",
-        "Yichen Xiang",
-        "Bofan Zhu",
-        "Lingbei Meng"
+        "Daijiao Liu",
+        "Huiyi Wang",
+        "Lina Yao",
+        "Dong Gong"
       ],
       "tags": [
-        "agent"
+        "llm"
       ],
       "score": 6,
       "priority": "MEDIUM",

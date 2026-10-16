@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-16T12:00:03.836Z",
+  "generatedAt": "2026-10-16T16:20:25.796Z",
   "date": "05-10-2026",
-  "count": 5,
+  "count": 6,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,30 @@
       "tags": [
         "agent"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.09016",
+      "title": "PAIR: Bridging Perception and Action in Vision-Language-Action Models",
+      "url": "https://huggingface.co/papers/2610.09016",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-05T20:00:00.000Z",
+      "abstract": "Vision-language-action (VLA) models map visual observations and language instructions to continuous robot actions. This task requires a transition from representations that describe the scene and inst",
+      "authors": [
+        "Kaixi Feng",
+        "Guoheng Sun",
+        "Ang Li"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
