@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-16T06:34:03.713Z",
+  "generatedAt": "2026-10-16T12:00:03.832Z",
   "date": "13-10-2026",
-  "count": 19,
+  "count": 15,
   "summary": null,
   "items": [
     {
@@ -69,49 +69,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.20731",
-      "title": "WorldCast: Exploring Intelligent Visual Generation in World State Prediction",
-      "url": "https://huggingface.co/papers/2610.20731",
+      "id": "hf_paper_2610.20939",
+      "title": "MAI-Gym: An Open All-in-One Platform for GUI Agent Evaluation and RL Training across Mobile and Computer Environments",
+      "url": "https://huggingface.co/papers/2610.20939",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-13T20:00:00.000Z",
-      "abstract": "Humans interpret multimodal observations of the world and forecast how it will evolve. Recent multimodal generative systems have demonstrated similar capabilities: they can integrate multimodal contex",
+      "abstract": "Online reinforcement learning (RL) with verifiable rewards has driven rapid progress in mathematics, coding, and tool use, but scaling this success to GUI agents remains challenging due to the high co",
       "authors": [
-        "Wenhao Yan",
-        "Haodong Li",
-        "Xiaotong Li",
-        "Yaxin Luo",
-        "Zhengrong Yue"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.20509",
-      "title": "VascuSR: Iterative Anatomy-Aware Diffusion for CT Super-Resolution",
-      "url": "https://huggingface.co/papers/2610.20509",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-13T20:00:00.000Z",
-      "abstract": "Generative super-resolution (SR) can recover sharp detail in computed tomography (CT) images from severely downsampled observations, but the missing high-frequency content is not uniquely determined b",
-      "authors": [
-        "Hairong Ni",
-        "Jiahe Huang",
-        "Minghao Guo",
-        "Wojciech Matusik",
-        "Rose Yu"
+        "Panrong Tong",
+        "Quyu Kong",
+        "Pengxiang Li",
+        "Tianyu Xia",
+        "Hanzhang Zhou"
       ],
       "tags": [
-        "diffusion"
+        "agent",
+        "training"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -123,103 +98,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.17665",
-      "title": "RoTA-Bench: Evaluating 3D Spatial Reasoning through Interactive Projection Alignment",
-      "url": "https://huggingface.co/papers/2610.17665",
+      "id": "hf_paper_2610.19397",
+      "title": "SERO: Learning from Executable Oracle Continuations for Long-Horizon Agentic Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2610.19397",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-13T20:00:00.000Z",
-      "abstract": "Can vision-language models turn 2D observations into 3D understanding that supports precise action? This requires inferring object geometry, anticipating the effects of rotation, and refining actions",
+      "abstract": "Long-horizon agentic RL is constrained by the futures visited by the current policy. When rollouts fail to reach useful behaviors, improved credit assignment cannot provide supervision for states and",
       "authors": [
-        "Qingchuan Ma",
-        "Yuexiao Ma",
-        "Xiang Meng",
-        "Yixuan Zou",
-        "Tianyu Xie"
+        "Dingyi Rong",
+        "Yue Shi",
+        "Chaofan Ma",
+        "Zongrui Wang",
+        "Jiezhang Cao"
       ],
       "tags": [
-        "alignment"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.20341",
-      "title": "InfiniSplat v2: Analyzing and Improving Feed-Forward 3DGS from Any Views",
-      "url": "https://huggingface.co/papers/2610.20341",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-13T20:00:00.000Z",
-      "abstract": "Feed-forward Gaussian reconstruction builds 3D scenes directly from input images for novel view rendering, but learning Gaussian attributes from predicted geometry for high-quality rendering under lar",
-      "authors": [
-        "Yongzhen Hu",
-        "Hao Yu",
-        "Jiawei Wang",
-        "Xianming Zeng",
-        "Jianyun Xu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.20603",
-      "title": "CommerceGen-Studio: An End-to-End Framework for Commercial-Grade Main-Image Generation",
-      "url": "https://huggingface.co/papers/2610.20603",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-13T20:00:00.000Z",
-      "abstract": "We present CommerceGen-Studio, an end-to-end framework for generating commercial-grade main images for e-commerce Stock Keeping Units (SKUs). Our framework is organized along a three-stage pipeline of",
-      "authors": [
-        "Xiaoli Xu",
-        "Zhengtao Wu",
-        "Zhengze Xu",
-        "Tao Liu",
-        "Yongchao Du"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.19849",
-      "title": "DeltaStreamer: Towards Human-Like Agentic Streaming Video Understanding",
-      "url": "https://huggingface.co/papers/2610.19849",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-13T20:00:00.000Z",
-      "abstract": "We propose DeltaStreamer, a novel agentic framework for streaming video understanding inspired by how humans observe, remember, and investigate. Streaming video understanding requires a system to reta",
-      "authors": [
-        "Boyuan Sun",
-        "Deshui Miao",
-        "Wenzhao Gao",
-        "Shaoyong Jia",
-        "Shaohui Jiao"
-      ],
-      "tags": [
-        "agent"
+        "agent",
+        "reinforcement learning"
       ],
       "score": 6,
       "priority": "MEDIUM",

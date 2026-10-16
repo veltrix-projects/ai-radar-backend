@@ -1,28 +1,26 @@
 {
-  "generatedAt": "2026-10-16T06:34:03.713Z",
+  "generatedAt": "2026-10-16T12:00:03.832Z",
   "date": "12-10-2026",
-  "count": 3,
+  "count": 5,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.18813",
-      "title": "Self-Evolving Agent Harness",
-      "url": "https://huggingface.co/papers/2610.18813",
+      "id": "hf_paper_2610.17959",
+      "title": "Virtual Head Attention",
+      "url": "https://huggingface.co/papers/2610.17959",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-12T20:00:00.000Z",
-      "abstract": "Harness self-evolution revises an agent's software scaffolding, including prompts, memory, workflows, and executable components, while keeping model weights fixed. We formalize a feedback-driven proce",
+      "abstract": "The design of attention mechanisms in long-context large language models faces an ``impossible triangle'' among KV cache size, training and prefill FLOPs, and model quality. GQA achieves strong qualit",
       "authors": [
-        "Chuyang Wei",
-        "Haoxiang Guan",
-        "Minghang Zhu",
-        "Kexin Zhou",
-        "Jiyan He"
+        "Xibo Ding",
+        "Guoxia Wang",
+        "Jinle Zeng",
+        "Jiabin Yang",
+        "Sirui Tao"
       ],
-      "tags": [
-        "agent"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -33,24 +31,72 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.19063",
-      "title": "WorldMemBench: A Comprehensive Benchmark for Memory of Video World Models",
-      "url": "https://huggingface.co/papers/2610.19063",
+      "id": "hf_paper_2610.17901",
+      "title": "FlashMask-3: Efficient and Expressive Mask-Aware Distributed Attention",
+      "url": "https://huggingface.co/papers/2610.17901",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-12T20:00:00.000Z",
-      "abstract": "As video models enable longer and more realistic interactive experiences, maintaining a world consistent with its history becomes essential. This requires both preserving previously observed content a",
+      "abstract": "Long-context training of large language and multimodal models couples structured attention masks (document, prefix-LM, share-question, sliding-window, block-sparse) with multi-node context parallelism",
       "authors": [
-        "Nan Zhou",
-        "Jianxiong Gao",
-        "Qiuyu Wang",
-        "Wen Wang",
-        "Jiahao Wang"
+        "Guoxia Wang",
+        "Qianyue He",
+        "Siming Wu",
+        "Haoyang Xie",
+        "Qiwen Bao"
       ],
-      "tags": [
-        "benchmark"
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.17670",
+      "title": "Cowork-Gym: Synthesizing Interactive Work Environments at Scale",
+      "url": "https://huggingface.co/papers/2610.17670",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-12T20:00:00.000Z",
+      "abstract": "Cowork agents navigate dependencies across tools and files while adapting to changing user requirements and edits to shared workspaces. Scaling such environments requires maintaining consistency among",
+      "authors": [
+        "Anni Zou",
+        "Cheng Chen",
+        "Jiaji Deng",
+        "Weikang Zhou",
+        "Xinji Mai"
       ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.18125",
+      "title": "H-DDCM: Hadamard Codebooks for Fast Generative Image and Video Compression",
+      "url": "https://huggingface.co/papers/2610.18125",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-12T20:00:00.000Z",
+      "abstract": "Training-free diffusion-based compression methods repurpose the generative priors of a diffusion or a flow model to compress data without retraining them as task-specific codecs. Recent codebook-based",
+      "authors": [
+        "Or Ronai",
+        "Vladimir Kulikov",
+        "Tomer Michaeli"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

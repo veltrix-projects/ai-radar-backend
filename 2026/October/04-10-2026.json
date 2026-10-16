@@ -1,29 +1,26 @@
 {
-  "generatedAt": "2026-10-16T06:34:03.717Z",
+  "generatedAt": "2026-10-16T12:00:03.836Z",
   "date": "04-10-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.06829",
-      "title": "CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling",
-      "url": "https://huggingface.co/papers/2610.06829",
+      "id": "hf_paper_2610.06598",
+      "title": "SimForcing: Distilling Simulation Motion Priors into Real-Domain Robot World Models",
+      "url": "https://huggingface.co/papers/2610.06598",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-04T20:00:00.000Z",
-      "abstract": "Open-source web agents are now strong enough to execute realistic browser tasks, but training them with reinforcement learning still depends on weak supervision: binary task success is too sparse for",
+      "abstract": "Action-conditioned robot world models must respond precisely to robot trajectories while preserving realistic visual dynamics, yet learning both from heterogeneous robot videos remains challenging. Si",
       "authors": [
-        "Yifan Zhang",
-        "Yutong Dai",
-        "Viraj Prabhu",
-        "Zhiyuan Hu",
-        "Ran Xu"
+        "Xiaodong Wang",
+        "Tianle Li",
+        "Chuanxin Song",
+        "Junliang Xie",
+        "Zhanmi Zhong"
       ],
-      "tags": [
-        "agent",
-        "training"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
