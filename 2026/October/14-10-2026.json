@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-16T01:32:08.527Z",
+  "generatedAt": "2026-10-16T06:34:03.712Z",
   "date": "14-10-2026",
-  "count": 37,
+  "count": 29,
   "summary": null,
   "items": [
     {
@@ -71,72 +71,20 @@
       "points": 0
     },
     {
-      "id": "arxiv_2610.20606v1",
-      "title": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
-      "url": "https://arxiv.org/abs/2610.20606v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
+      "id": "hf_paper_2610.22322",
+      "title": "Learning Self-Orchestration in Decentralized Agent Swarms",
+      "url": "https://huggingface.co/papers/2610.22322",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-10-14T17:59:52Z",
-      "abstract": "Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained thr",
+      "timestamp": "2026-10-14T20:00:00.000Z",
+      "abstract": "The capabilities of an agent swarm depend on both its individual members and how they coordinate. Yet existing multi-agent systems often train agents within fixed orchestration structures, separating",
       "authors": [
-        "Huixuan Cheng",
-        "Bike Zhang",
-        "Shankar Sastry",
-        "Koushil Sreenath"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2610.20607v1",
-      "title": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
-      "url": "https://arxiv.org/abs/2610.20607v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-10-14T17:59:52Z",
-      "abstract": "Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet real-world fine-tuning remains a formidable challenge because of high-dimensional action spaces and intricate coupling be",
-      "authors": [
-        "Zhefei Gong",
-        "Hefeifei Jiang",
-        "Zehao Wang",
-        "Jiachen Li"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2610.20597v1",
-      "title": "Co-Evolving Acting and Forecasting for Language Agents",
-      "url": "https://arxiv.org/abs/2610.20597v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-10-14T17:59:28Z",
-      "abstract": "Training language agents is bottlenecked by the high cost of long-horizon rollouts, yet standard agentic reinforcement learning (RL) learns only from a terminal scalar reward, leaving the supervision",
-      "authors": [
-        "Haofei Yu",
-        "Yixing Chen",
-        "Yining Zhao",
-        "Xuyan Ye",
-        "Yuxiang Liu"
+        "Guowei Xu",
+        "Zhenting Qi",
+        "Amani Kiruga",
+        "Himabindu Lakkaraju",
+        "Yilun Du"
       ],
       "tags": [
         "agent"
@@ -151,254 +99,24 @@
       "points": 0
     },
     {
-      "id": "arxiv_2610.18651v2",
-      "title": "Does Pretraining Teach Chemical Language Models Chemistry?",
-      "url": "https://arxiv.org/abs/2610.18651v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
+      "id": "hf_paper_2610.22174",
+      "title": "Mosaic: Multi-Session Agentic Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2610.22174",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-10-14T17:58:29Z",
-      "abstract": "Chemical language models (CLMs) are pretrained on large corpora of molecules with the aim of learning representations that transfer to diverse downstream tasks. Here, we systematically study the effec",
+      "timestamp": "2026-10-14T20:00:00.000Z",
+      "abstract": "Most existing agentic reinforcement learning methods assume single-session trajectories, where interaction proceeds within one continuously accumulated context. However, agentic techniques such as con",
       "authors": [
-        "Leif Sieben",
-        "Yoel Zimmermann"
+        "Yilong Xu",
+        "Minrui Xu",
+        "Xinyu Zhou",
+        "Xiang Long",
+        "Haochen Tan"
       ],
       "tags": [
-        "training"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2610.13928v2",
-      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
-      "url": "https://arxiv.org/abs/2610.13928v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-10-14T17:58:11Z",
-      "abstract": "Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption doe",
-      "authors": [
-        "Andis Draguns",
-        "Sumeet Ramesh Motwani",
-        "Raymond Douglas",
-        "Christian Schroeder de Witt"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2610.20588v1",
-      "title": "Your Transformer Is Secretly Elastic",
-      "url": "https://arxiv.org/abs/2610.20588v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-10-14T17:58:08Z",
-      "abstract": "Scaling up transformers has produced models with broad capabilities, deployed across heterogeneous hardware and fluctuating workloads. Yet, model families offer only a few fixed sizes (e.g., S, B, L),",
-      "authors": [
-        "Walter Simoncini",
-        "Dheeraj Varghese",
-        "Gertjan J. Burghouts",
-        "Cees G. M. Snoek"
-      ],
-      "tags": [
-        "transformer"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2610.20587v1",
-      "title": "Price of Anarchy of First-Price Auctions in Agentic Markets",
-      "url": "https://arxiv.org/abs/2610.20587v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-10-14T17:57:57Z",
-      "abstract": "An agentic market is a decentralized serving-time market where AI agents bid to claim each user prompt. An agent's bid is based on its expected value for the prompt, which is the expectation of the re",
-      "authors": [
-        "Shubhendu Trivedi",
-        "Jacob Eisenstein",
-        "Alekh Agarwal",
-        "Ian Gemp",
-        "Michael Kaisers"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2610.20586v1",
-      "title": "Continuum Attention",
-      "url": "https://arxiv.org/abs/2610.20586v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-10-14T17:57:40Z",
-      "abstract": "We introduce Continuum Attention (CA), a causal Transformer attention operator that replaces discrete key and value lookup with integration over a continuous, piecewise linear memory curve. Each query",
-      "authors": [
-        "Afshin Khadangi"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2607.05381v2",
-      "title": "What Does a Discrete Diffusion Model Learn? One Reverse Process in Three Coordinates",
-      "url": "https://arxiv.org/abs/2607.05381v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-10-14T17:57:33Z",
-      "abstract": "What does a discrete diffusion model actually learn? The literature trains denoisers, bridge plug-ins, and concrete scores, each deriving its own ELBO objective under different conventions. This fragm",
-      "authors": [
-        "Rodrigo Casado Noguerales",
-        "Bernhard Schölkopf",
-        "Thomas Hofmann",
-        "Aran Raoufi"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2610.20585v1",
-      "title": "Learnable Hodge-Laplacian Driven Mixture of Experts for Steady-PDE Surrogates on Coarse Unstructured Meshes",
-      "url": "https://arxiv.org/abs/2610.20585v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-10-14T17:57:24Z",
-      "abstract": "Current approaches for steady partial differential equations surrogate models on unstructured meshes apply a single mixing mechanism to the whole solution. This paper proposes an architecture that par",
-      "authors": [
-        "Stavros Nousias",
-        "Akis Nousias",
-        "Konstantinos Gkrispanis"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2610.20584v1",
-      "title": "Player-1: Learning to Play from Synthetic Experience",
-      "url": "https://arxiv.org/abs/2610.20584v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-10-14T17:57:12Z",
-      "abstract": "Computer-use agents have demonstrated strong capabilities in interpreting screens and executing keyboard and mouse actions. However, games, with their visually rich worlds and diverse mechanics, remai",
-      "authors": [
-        "Mingyu Ouyang",
-        "Yiran Wang",
-        "Siyuan Hu",
-        "Xingyilang Yin",
-        "Huiqiang Sun"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2610.20582v1",
-      "title": "Latent Compaction with Test-Time Training",
-      "url": "https://arxiv.org/abs/2610.20582v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-10-14T17:57:01Z",
-      "abstract": "Long contexts enlarge key--value (KV) caches, increasing memory use and attention costs during generation. Compressing these caches must preserve information for unseen questions. We introduce **Laten",
-      "authors": [
-        "Yingfa Chen",
-        "Xingyu Shen",
-        "Chaojun Xiao",
-        "Xu Han"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2610.20576v1",
-      "title": "One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves LLM Agent Robustness",
-      "url": "https://arxiv.org/abs/2610.20576v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-10-14T17:56:06Z",
-      "abstract": "Post-training binds the competence of an LLM agent to the interface it was trained on. Semantics-preserving perturbations of that interface, such as renaming an action or changing the notation, leave",
-      "authors": [
-        "Artin Tajdini",
-        "Manpreet Kaur",
-        "Peng Qi"
-      ],
-      "tags": [
-        "llm",
         "agent",
-        "training"
+        "reinforcement learning"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -410,20 +128,48 @@
       "points": 0
     },
     {
-      "id": "arxiv_2610.20573v1",
-      "title": "Beyond LLM Judge: Mechanical Verification for Agentic Autoformalization",
-      "url": "https://arxiv.org/abs/2610.20573v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
+      "id": "hf_paper_2610.21453",
+      "title": "CarryOn: A Dual-Loop Harness for Personalized and Reliable Robot Assistance",
+      "url": "https://huggingface.co/papers/2610.21453",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-10-14T17:54:48Z",
-      "abstract": "We introduce a novel method for verifying Lean formalizations that goes beyond LLM-judged faithfulness. Unlike most verification methods, which rely on LLMs or trained models, our method combines LLM-",
+      "timestamp": "2026-10-14T20:00:00.000Z",
+      "abstract": "While generalist vision-language-action (VLA) models have enabled diverse open-world manipulation, real-world robotic assistance requires two critical capabilities they currently lack: personalization",
       "authors": [
-        "Anna Mei",
-        "Michael R. Douglas"
+        "Zixuan Wang",
+        "Yuqi Liu",
+        "Yuxin Chen",
+        "Sengqiao Yang",
+        "Jinhui Ye"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.21463",
+      "title": "Trajectory-Level Speculation with Semantic Verification for Tool-Using Agents",
+      "url": "https://huggingface.co/papers/2610.21463",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-14T20:00:00.000Z",
+      "abstract": "Large language model agents solve tasks through long sequences of tool calls, and the prevailing design has a single strong model generate every step, although many steps are routine enough for a much",
+      "authors": [
+        "Zilin Wang",
+        "Yinhong Liu",
+        "Chao Chen",
+        "Qun Liu",
+        "Zhijiang Guo"
       ],
       "tags": [
-        "llm",
         "agent"
       ],
       "score": 6,
@@ -436,24 +182,105 @@
       "points": 0
     },
     {
-      "id": "arxiv_2610.20572v1",
-      "title": "Recovering Reliable Supervision via Critique-Guided On-Policy Distillation",
-      "url": "https://arxiv.org/abs/2610.20572v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
+      "id": "hf_paper_2610.22186",
+      "title": "EVA-Cap: Optimizing Audiovisual Video Captioning via Event-Centric Alignment",
+      "url": "https://huggingface.co/papers/2610.22186",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-10-14T17:54:34Z",
-      "abstract": "On-policy distillation (OPD) trains a student model on its own rollouts with token-level supervision from a teacher, assuming that the teacher can reach a correct answer from any prefix the student wr",
+      "timestamp": "2026-10-14T20:00:00.000Z",
+      "abstract": "Recent advances in Omni Language Models (OLMs) provide a unified solution for audiovisual video captioning. Nevertheless, existing approaches predominantly treat captioning as an unstructured text gen",
       "authors": [
-        "Kaixiang Zhao",
-        "Tianrun Yu",
-        "Shangzhe Li",
-        "Yuxiao Yang",
-        "Amanda Hughes"
+        "Jiapeng Shi",
+        "Qiuxia Hou",
+        "Jiaqi Leng",
+        "Junke Wang",
+        "Yanhao Zhang"
+      ],
+      "tags": [
+        "alignment"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.22217",
+      "title": "Skill-Decoupled On-Policy Expert Distillation for Unified Vision-Language Models",
+      "url": "https://huggingface.co/papers/2610.22217",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-14T20:00:00.000Z",
+      "abstract": "Reinforcement learning (RL) can elicit specialized visual capabilities in vision-language models (VLMs), yet jointly optimizing heterogeneous objectives often introduces cross-capability gradient conf",
+      "authors": [
+        "Yuqi Xiong",
+        "Chunyi Peng",
+        "Zhipeng Xu",
+        "Qing Yang",
+        "Zhenghao Liu"
       ],
       "tags": [],
-      "score": 4,
-      "priority": "LOW",
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.22282",
+      "title": "Routing Policy Optimization for Online Diffusion Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2610.22282",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-14T20:00:00.000Z",
+      "abstract": "Reinforcement learning can align visual generators with reward signals beyond their pretraining objectives, but existing score-function methods typically introduce stochasticity by perturbing the reve",
+      "authors": [
+        "Qiuhong Shen",
+        "Yiding Yang",
+        "Yuxin Zhang",
+        "Xinwei Huang",
+        "Minxuan Lin"
+      ],
+      "tags": [
+        "diffusion",
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.22311",
+      "title": "Velox: Spatial Memory Makes World Models Efficient",
+      "url": "https://huggingface.co/papers/2610.22311",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-14T20:00:00.000Z",
+      "abstract": "Video world models turn actions and camera motion into long visual rollouts, making video a natural interface for interactive simulation. Such interaction requires responsive generation, yet coherent",
+      "authors": [
+        "Qiuhong Shen",
+        "Shizun Wang",
+        "Xinchao Wang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -791,28 +618,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Google Releases Gemini 4 Argon API With 1M Token Output Limit",
-      "url": "https://www.marktechpost.com/2026/10/13/google-gemini-4-argon-api-release/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-10-14T05:03:34.000Z",
-      "abstract": "Google has made Gemini 4 Argon generally available on the Gemini API, AI Studio and the Gemini app. The sparse MoE model writes up to 1M output tokens and leads the Vals Index at 68.90%.\nThe post Goog",
-      "authors": [],
-      "tags": [
-        "gemini"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

@@ -1,27 +1,28 @@
 {
-  "generatedAt": "2026-10-14T01:17:22.194Z",
+  "generatedAt": "2026-10-16T06:34:03.717Z",
   "date": "04-10-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.05637",
-      "title": "Visual Grounding Safety in Vision-Language Models",
-      "url": "https://huggingface.co/papers/2610.05637",
+      "id": "hf_paper_2610.06829",
+      "title": "CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling",
+      "url": "https://huggingface.co/papers/2610.06829",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-04T20:00:00.000Z",
-      "abstract": "Vision-language models (VLMs) are increasingly trained to generate structured outputs like points and bounding boxes that downstream interfaces, agents, and robots can act on, yet safety alignment of",
+      "abstract": "Open-source web agents are now strong enough to execute realistic browser tasks, but training them with reinforcement learning still depends on weak supervision: binary task success is too sparse for",
       "authors": [
-        "Erfan Shayegani",
-        "Kundan Krishna",
-        "Yue Dong",
-        "Nael Abu-Ghazaleh",
-        "Leon Gatys"
+        "Yifan Zhang",
+        "Yutong Dai",
+        "Viraj Prabhu",
+        "Zhiyuan Hu",
+        "Ran Xu"
       ],
       "tags": [
-        "safety"
+        "agent",
+        "training"
       ],
       "score": 6,
       "priority": "MEDIUM",

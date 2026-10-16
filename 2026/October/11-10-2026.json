@@ -1,49 +1,28 @@
 {
-  "generatedAt": "2026-10-16T01:32:08.528Z",
+  "generatedAt": "2026-10-16T06:34:03.714Z",
   "date": "11-10-2026",
-  "count": 2,
+  "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.17191",
-      "title": "FreeSolo: Linear-time Sparse Attention with Zero-Shot Length Extrapolation",
-      "url": "https://huggingface.co/papers/2610.17191",
+      "id": "hf_paper_2610.16397",
+      "title": "Recursive Environment Scaling for General Long-Horizon Agents",
+      "url": "https://huggingface.co/papers/2610.16397",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-11T20:00:00.000Z",
-      "abstract": "Linear-time sequence models typically store long-context information in a recurrent state. A fixed-size state limits how much information can be stored, while hybrid architectures that add full attent",
+      "abstract": "We study environment scaling as a way to increase agent-benchmark difficulty while holding core task objectives fixed. Our framework, Recursive Environment Scaling (RES), transforms existing benchmark",
       "authors": [
-        "Zekun Shi",
-        "Alastair James Arthur Price"
+        "Lingxiao Jing",
+        "Zhengbo Jiao",
+        "Yichen Xiang",
+        "Bofan Zhu",
+        "Lingbei Meng"
       ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.17242",
-      "title": "When Left Is Right? Camera-Motion Understanding beyond Screen",
-      "url": "https://huggingface.co/papers/2610.17242",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-11T20:00:00.000Z",
-      "abstract": "Can a vision-language model tell left from right? Modern VLMs solve visual puzzles and follow hour-long videos, yet when asked whether the camera moved left or right, most do no better than a coin fli",
-      "authors": [
-        "Chong Cheng",
-        "Ran Zhang",
-        "Xinyuan Li",
-        "Alan Zhao",
-        "Hao Wang"
+      "tags": [
+        "agent"
       ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

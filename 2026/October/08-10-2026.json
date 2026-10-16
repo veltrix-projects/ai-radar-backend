@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-16T01:32:08.530Z",
+  "generatedAt": "2026-10-16T06:34:03.715Z",
   "date": "08-10-2026",
-  "count": 7,
+  "count": 4,
   "summary": null,
   "items": [
     {
@@ -20,85 +20,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.14162",
-      "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
-      "url": "https://huggingface.co/papers/2610.14162",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-08T20:00:00.000Z",
-      "abstract": "Diffusion language models (DLMs) offer parallel sampling for faster generation than autoregressive models, an increasingly important advantage as inference becomes a dominant computational workload. H",
-      "authors": [
-        "Hermann Kumbong",
-        "Ishan S. Khare",
-        "Iddah Mlauzi",
-        "Andrew Woen",
-        "Charles Ding"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.14216",
-      "title": "Cortex: Measurement-Gated Evolution and Pruning of Coding-Agent Skills and Rules",
-      "url": "https://huggingface.co/papers/2610.14216",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-08T20:00:00.000Z",
-      "abstract": "Coding agents such as Claude Code also follow text files that developers write for them: a project file, skills the agent may choose to open, and rules that load automatically when the agent reads mat",
-      "authors": [
-        "Samuele Giampieri"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.13623",
-      "title": "APEX-Harm: Evaluating Agent Safety in Shared Professional Workspaces",
-      "url": "https://huggingface.co/papers/2610.13623",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-08T20:00:00.000Z",
-      "abstract": "Professional agents increasingly work through command-line interfaces and multiple tools over shared workspaces containing files, messages, and business applications. These environments create safety",
-      "authors": [
-        "Ziyi Yang",
-        "Adel Bibi",
-        "Guohao Li",
-        "Bernard Ghanem",
-        "Carlos Hinojosa"
-      ],
-      "tags": [
-        "agent",
-        "safety"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

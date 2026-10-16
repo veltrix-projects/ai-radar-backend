@@ -1,107 +1,55 @@
 {
-  "generatedAt": "2026-10-16T01:32:08.528Z",
+  "generatedAt": "2026-10-16T06:34:03.713Z",
   "date": "12-10-2026",
-  "count": 6,
+  "count": 3,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.19121",
-      "title": "Unlocking Structured Pruning for Reasoning Language Models via Attention-Preserving MLP Trimming",
-      "url": "https://huggingface.co/papers/2610.19121",
+      "id": "hf_paper_2610.18813",
+      "title": "Self-Evolving Agent Harness",
+      "url": "https://huggingface.co/papers/2610.18813",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-12T20:00:00.000Z",
-      "abstract": "Structured pruning reduces LLM inference costs by removing model components to produce smaller dense models. However, existing methods can cause reasoning performance to collapse on long-form reasonin",
+      "abstract": "Harness self-evolution revises an agent's software scaffolding, including prompts, memory, workflows, and executable components, while keeping model weights fixed. We formalize a feedback-driven proce",
       "authors": [
-        "Woosang Lim",
-        "Haneul Yoo",
-        "Vincent-Daniel Yun",
-        "Sungjoo Yoo"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.18755",
-      "title": "PreciseCoder: Faithful and Generalizable Debugging Beyond Unit-Test Rewards",
-      "url": "https://huggingface.co/papers/2610.18755",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-12T20:00:00.000Z",
-      "abstract": "Reinforcement learning (RL) from unit tests is the common recipe for post-training code models, but a unit test only asks whether the final program passes. We analyze what this unit-test-only reward t",
-      "authors": [
-        "Yunkai Zhan",
-        "Miaosen Chai",
-        "Shangshang Wang",
-        "Jike Zhong",
-        "Yuqing Yang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.19128",
-      "title": "CLASHarness: Benchmarking Multi-Agent Conflict in Computer Use via a Controllable and Verifiable Generation Pipeline",
-      "url": "https://huggingface.co/papers/2610.19128",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-12T20:00:00.000Z",
-      "abstract": "Vision-language models (VLMs) are increasingly deployed in multi-agent systems to automate complex computer-use workflows, yet existing benchmarks mostly assume consistent, cooperative environments. I",
-      "authors": [
-        "Yuxiang Lai",
-        "Jike Zhong",
-        "Chengzhi Liu",
-        "Ming Li",
-        "Haonan Wang"
+        "Chuyang Wei",
+        "Haoxiang Guan",
+        "Minghang Zhu",
+        "Kexin Zhou",
+        "Jiyan He"
       ],
       "tags": [
-        "agent",
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.18354",
-      "title": "Choosing LLMs for Strategic Agent Interactions",
-      "url": "https://huggingface.co/papers/2610.18354",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-12T20:00:00.000Z",
-      "abstract": "Game-theoretic benchmarks claim that large language model (LLM) strategic decision-making varies across game types, interaction structures, and capability dimensions. However, they only evaluate strat",
-      "authors": [
-        "Arastun Mammadli",
-        "Herbert Woisetschläger",
-        "Jawad Fayaz",
-        "Shiqiang Wang"
-      ],
-      "tags": [
-        "llm",
         "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.19063",
+      "title": "WorldMemBench: A Comprehensive Benchmark for Memory of Video World Models",
+      "url": "https://huggingface.co/papers/2610.19063",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-12T20:00:00.000Z",
+      "abstract": "As video models enable longer and more realistic interactive experiences, maintaining a world consistent with its history becomes essential. This requires both preserving previously observed content a",
+      "authors": [
+        "Nan Zhou",
+        "Jianxiong Gao",
+        "Qiuyu Wang",
+        "Wen Wang",
+        "Jiahao Wang"
+      ],
+      "tags": [
+        "benchmark"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -128,32 +76,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.17301",
-      "title": "The Agent Knew: Internal States Forecast Unauthorized Actions and Stop Them, and the Lies That Follow",
-      "url": "https://huggingface.co/papers/2610.17301",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-12T14:53:33.000Z",
-      "abstract": "Language-model agents sometimes act beyond their authorization and then misreport what they did. On CAPE-Bench, matched agent tasks in which one fact decides whether an action is authorized, frontier",
-      "authors": [
-        "Arya Fayyazi",
-        "Mehdi Kamal",
-        "Massoud Pedram"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

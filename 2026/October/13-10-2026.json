@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-16T01:32:08.527Z",
+  "generatedAt": "2026-10-16T06:34:03.713Z",
   "date": "13-10-2026",
-  "count": 22,
+  "count": 19,
   "summary": null,
   "items": [
     {
@@ -69,76 +69,22 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.20828",
-      "title": "CoTranslator: Reverse to Forward Chain-of-Thought Translator for Reasoning Distillation",
-      "url": "https://huggingface.co/papers/2610.20828",
+      "id": "hf_paper_2610.20731",
+      "title": "WorldCast: Exploring Intelligent Visual Generation in World State Prediction",
+      "url": "https://huggingface.co/papers/2610.20731",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-13T20:00:00.000Z",
-      "abstract": "Reasoning distillation requires chain-of-thought (CoT) data with correct answers, but obtaining such data efficiently remains challenging. Forward CoT generation (FCG) followed by rejection sampling (",
+      "abstract": "Humans interpret multimodal observations of the world and forecast how it will evolve. Recent multimodal generative systems have demonstrated similar capabilities: they can integrate multimodal contex",
       "authors": [
-        "Zinan Tang",
-        "Zhuoshi Pan",
-        "Kairui Chen",
-        "Ze Yan",
-        "Shaomian Zheng"
+        "Wenhao Yan",
+        "Haodong Li",
+        "Xiaotong Li",
+        "Yaxin Luo",
+        "Zhengrong Yue"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.20556",
-      "title": "Speculative Sampling in Interactive Video Generation",
-      "url": "https://huggingface.co/papers/2610.20556",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-13T20:00:00.000Z",
-      "abstract": "Interactive video generation commonly relies on small bidirectional chunks to reduce response latency. Yet our preliminary experiments show that larger chunks improve video quality and better utilize",
-      "authors": [
-        "Yubo Huang",
-        "Yuxuan Zhang",
-        "Jiaming Liu",
-        "Sirui Zhao",
-        "Enhong Chen"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.20526",
-      "title": "Lluna: Collaborative Unimodal Models for Missing-Modality Inference",
-      "url": "https://huggingface.co/papers/2610.20526",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-13T20:00:00.000Z",
-      "abstract": "Pretrained unimodal models offer a flexible route to multimodal prediction through collaboration, but this collaboration can become less accurate than a surviving unimodal model when modalities are mi",
-      "authors": [
-        "Haoyue Bai",
-        "Yinyi Luo",
-        "Heqing Huang",
-        "Xiaoyuan Yi",
-        "James Evans"
-      ],
-      "tags": [
-        "inference"
-      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
@@ -149,20 +95,76 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.19628",
-      "title": "Self-Conditioning Enables Deep Sequential Reasoning in Flow Matching",
-      "url": "https://huggingface.co/papers/2610.19628",
+      "id": "hf_paper_2610.20509",
+      "title": "VascuSR: Iterative Anatomy-Aware Diffusion for CT Super-Resolution",
+      "url": "https://huggingface.co/papers/2610.20509",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-13T20:00:00.000Z",
-      "abstract": "Recent work has explored visual reasoning through image generation, where models solve visual-reasoning problems by directly generating solution images. Intuitively, iterative samplers such as flow ma",
+      "abstract": "Generative super-resolution (SR) can recover sharp detail in computed tomography (CT) images from severely downsampled observations, but the missing high-frequency content is not uniquely determined b",
       "authors": [
-        "Zeyang Zhang",
-        "Linxiang Gao",
-        "Meiqi Gu",
-        "Xingyan Chen",
-        "Minrui Luo"
+        "Hairong Ni",
+        "Jiahe Huang",
+        "Minghao Guo",
+        "Wojciech Matusik",
+        "Rose Yu"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.17665",
+      "title": "RoTA-Bench: Evaluating 3D Spatial Reasoning through Interactive Projection Alignment",
+      "url": "https://huggingface.co/papers/2610.17665",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-13T20:00:00.000Z",
+      "abstract": "Can vision-language models turn 2D observations into 3D understanding that supports precise action? This requires inferring object geometry, anticipating the effects of rotation, and refining actions",
+      "authors": [
+        "Qingchuan Ma",
+        "Yuexiao Ma",
+        "Xiang Meng",
+        "Yixuan Zou",
+        "Tianyu Xie"
+      ],
+      "tags": [
+        "alignment"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.20341",
+      "title": "InfiniSplat v2: Analyzing and Improving Feed-Forward 3DGS from Any Views",
+      "url": "https://huggingface.co/papers/2610.20341",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-13T20:00:00.000Z",
+      "abstract": "Feed-forward Gaussian reconstruction builds 3D scenes directly from input images for novel view rendering, but learning Gaussian attributes from predicted geometry for high-quality rendering under lar",
+      "authors": [
+        "Yongzhen Hu",
+        "Hao Yu",
+        "Jiawei Wang",
+        "Xianming Zeng",
+        "Jianyun Xu"
       ],
       "tags": [],
       "score": 6,
@@ -175,18 +177,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.19361",
-      "title": "VLX-Go: Robust Embodied Tracking through Multi-Stage Learning and On-Policy Refinement",
-      "url": "https://huggingface.co/papers/2610.19361",
+      "id": "hf_paper_2610.20603",
+      "title": "CommerceGen-Studio: An End-to-End Framework for Commercial-Grade Main-Image Generation",
+      "url": "https://huggingface.co/papers/2610.20603",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-13T20:00:00.000Z",
-      "abstract": "Embodied visual tracking requires a robot to identify a designated target from visual observations and control its own motion to follow that target through an environment. Following an isolated person",
+      "abstract": "We present CommerceGen-Studio, an end-to-end framework for generating commercial-grade main images for e-commerce Stock Keeping Units (SKUs). Our framework is organized along a three-stage pipeline of",
       "authors": [
-        "Kyusong Lee",
-        "Heting Ying",
-        "Tiancheng Zhao"
+        "Xiaoli Xu",
+        "Zhengtao Wu",
+        "Zhengze Xu",
+        "Tao Liu",
+        "Yongchao Du"
       ],
       "tags": [],
       "score": 6,
@@ -199,44 +203,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.19729",
-      "title": "A Diagnostic Study of World-Space Human Recovery Under High Camera Dynamics",
-      "url": "https://huggingface.co/papers/2610.19729",
+      "id": "hf_paper_2610.19849",
+      "title": "DeltaStreamer: Towards Human-Like Agentic Streaming Video Understanding",
+      "url": "https://huggingface.co/papers/2610.19849",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-13T20:00:00.000Z",
-      "abstract": "Monocular world-space human recovery methods excel on current benchmarks, but these rarely include fast camera motion. We introduce the K-Pop stress test, broadcast dance videos that combine fast, lar",
+      "abstract": "We propose DeltaStreamer, a novel agentic framework for streaming video understanding inspired by how humans observe, remember, and investigate. Streaming video understanding requires a system to reta",
       "authors": [
-        "Hao-Jen Chien",
-        "Wei-Lun Chao",
-        "Yu-Lun Liu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.19420",
-      "title": "From Failures to Learnable Worlds: Policy-Conditioned Environment Generation for Navigation Agents",
-      "url": "https://huggingface.co/papers/2610.19420",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-13T20:00:00.000Z",
-      "abstract": "Simulated environments enable scalable training data generation for embodied agents, but more data does not necessarily provide what a particular agent needs to learn. Existing environment-generation",
-      "authors": [
-        "Yue Zhang",
-        "Han Lin",
-        "Zun Wang",
-        "Yidong Huang",
-        "Zaid Khan"
+        "Boyuan Sun",
+        "Deshui Miao",
+        "Wenzhao Gao",
+        "Shaoyong Jia",
+        "Shaohui Jiao"
       ],
       "tags": [
         "agent"
@@ -286,26 +266,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fdubstep-",
-      "title": "Dubstep and BookTok, a perfect match?",
-      "url": "https://www.404media.co/dubstep-and-booktok-a-perfect-match/",
-      "source": "404 Media",
-      "sourceIcon": "📡",
-      "type": "news",
-      "timestamp": "2026-10-13T16:50:28.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -415,30 +375,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.18762",
-      "title": "Looking Complete Is Not Being Grounded: Evaluating LLM Sitreps Against Human-Authored Situation Reports",
-      "url": "https://huggingface.co/papers/2610.18762",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-13T13:23:19.000Z",
-      "abstract": "Evaluation for automatic crisis reporting should measure what practitioners need, not what is convenient to compare. Through LLM-assisted, author-approved content analysis, we derive a 15-slot informa",
-      "authors": [
-        "Sachin Kumar"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
