@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T23:25:34.801Z",
+  "generatedAt": "2026-10-16T01:32:08.527Z",
   "date": "14-10-2026",
   "count": 37,
   "summary": null,
@@ -191,6 +191,33 @@
         "Christian Schroeder de Witt"
       ],
       "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2610.20588v1",
+      "title": "Your Transformer Is Secretly Elastic",
+      "url": "https://arxiv.org/abs/2610.20588v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-10-14T17:58:08Z",
+      "abstract": "Scaling up transformers has produced models with broad capabilities, deployed across heterogeneous hardware and fluctuating workloads. Yet, model families offer only a few fixed sizes (e.g., S, B, L),",
+      "authors": [
+        "Walter Simoncini",
+        "Dheeraj Varghese",
+        "Gertjan J. Burghouts",
+        "Cees G. M. Snoek"
+      ],
+      "tags": [
+        "transformer"
+      ],
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
@@ -633,28 +660,6 @@
       "abstract": "Learn how to deploy an available model from Amazon SageMaker JumpStart, run a lightweight and repeatable performance test using the SageMaker Python SDK, and delete the endpoint when testing is comple",
       "authors": [],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "siliconangle_ai_https%3A%2F%2Fsiliconangle.com%2F2026%2F",
-      "title": "Uvi raises $7.5M to help AI agents learn business context and run at eight times lower cost",
-      "url": "https://siliconangle.com/2026/10/14/uvi-raises-7-5m-help-ai-agents-learn-business-context/",
-      "source": "SiliconANGLE AI",
-      "sourceIcon": "📐",
-      "type": "news",
-      "timestamp": "2026-10-14T12:00:43.000Z",
-      "abstract": "Agentic artificial intelligence startup Uvi said today it has raised $7.5 million in seed funding to tackle an expensive problem around business context that’s draining millions of dollars annually fr",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
