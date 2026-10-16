@@ -1,9 +1,58 @@
 {
-  "generatedAt": "2026-10-16T16:20:25.792Z",
+  "generatedAt": "2026-10-16T19:36:27.057Z",
   "date": "12-10-2026",
-  "count": 3,
+  "count": 5,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2610.17697",
+      "title": "LeanPRM: Lean-Grounded Process Supervision for Natural Language Proof Verification",
+      "url": "https://huggingface.co/papers/2610.17697",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-12T20:00:00.000Z",
+      "abstract": "AI systems now write long and difficult mathematical proofs, and checking their step-by-step validity is becoming a bottleneck. A learned verifier could check proofs cheaply, but training one requires",
+      "authors": [
+        "Rodney Lafuente-Mercado",
+        "Salman Rahman",
+        "Jingyan Shen",
+        "James Shiffer",
+        "Saadia Gabriel"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.19247",
+      "title": "Copy-Paste Language Models",
+      "url": "https://huggingface.co/papers/2610.19247",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-12T20:00:00.000Z",
+      "abstract": "Transformers are intuitively considered to be efficient at copying from their inputs. We actually show that the ability of LLMs to copy in context can be improved through explicit modeling. We propose",
+      "authors": [
+        "Nathan Godey",
+        "Yoav Artzi"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2610.17959",
       "title": "Virtual Head Attention",
