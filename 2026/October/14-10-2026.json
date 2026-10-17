@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T00:38:01.579Z",
+  "generatedAt": "2026-10-17T05:11:29.924Z",
   "date": "14-10-2026",
   "count": 25,
   "summary": null,
@@ -42,6 +42,32 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.21185",
+      "title": "Mine, Sample, Render: Test-Time Diversity Alignment Of Generative Models",
+      "url": "https://huggingface.co/papers/2610.21185",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-14T20:00:00.000Z",
+      "abstract": "Modern generative models produce high-quality individual outputs but struggle to sample diversely, even when explicitly instructed to do so. We introduce MINE-SAMPLE-RENDER (MSR), a test-time approach",
+      "authors": [
+        "Kostas Triaridis",
+        "Morris E. Sharp",
+        "Nebojsa Jojic"
+      ],
+      "tags": [
+        "alignment"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -215,34 +241,6 @@
         "Jichen Pang"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.21095",
-      "title": "Can World and Action Modeling Benefit Each Other under Unified Causal Training?",
-      "url": "https://huggingface.co/papers/2610.21095",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-14T20:00:00.000Z",
-      "abstract": "World and action modeling are closely related, yet their reciprocal benefits under unified causal training remain unclear. We introduce OneWM, a simple framework for unified causal training that treat",
-      "authors": [
-        "Yue Su",
-        "Bokai Lin",
-        "Xinkai Wang",
-        "Chubin Zhang",
-        "Xiangnan Wu"
-      ],
-      "tags": [
-        "training"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
