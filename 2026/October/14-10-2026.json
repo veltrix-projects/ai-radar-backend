@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-19T00:17:29.457Z",
+  "generatedAt": "2026-10-19T04:59:11.036Z",
   "date": "14-10-2026",
-  "count": 21,
+  "count": 20,
   "summary": null,
   "items": [
     {
@@ -169,32 +169,6 @@
       "abstract": "Reusing the attention KV cache across requests is a standard way to cut prefill cost in long-context LLM serving, and production systems increasingly back the per-engine cache with a remote tier share",
       "authors": [
         "Muhammad Ibrahim"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.22352",
-      "title": "SUPRA-TEX: 3D Generation with Super-Aligned Texture",
-      "url": "https://huggingface.co/papers/2610.22352",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-14T20:00:00.000Z",
-      "abstract": "Single image 3D generation aims to dress a given 3D mesh with relightable materials while faithfully preserving the visual details of a reference image. Existing methods either introduce artifacts whe",
-      "authors": [
-        "Chen Yang",
-        "Jiemin Fang",
-        "Fanpeng Meng",
-        "Zihao Huang",
-        "Jichen Pang"
       ],
       "tags": [],
       "score": 6,
