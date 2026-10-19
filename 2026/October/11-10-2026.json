@@ -1,9 +1,38 @@
 {
-  "generatedAt": "2026-10-19T17:15:15.215Z",
+  "generatedAt": "2026-10-19T21:37:40.510Z",
   "date": "11-10-2026",
   "count": 2,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2610.16402",
+      "title": "EvoWeb: A Benchmark for Coding Agents on Evolving Web Applications",
+      "url": "https://huggingface.co/papers/2610.16402",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-11T20:00:00.000Z",
+      "abstract": "Web application development often proceeds through successive requests that extend an existing implementation. Yet web-generation benchmarks primarily evaluate development toward fixed specifications.",
+      "authors": [
+        "David Nukrai",
+        "Bar Alon",
+        "Nativ Levy",
+        "Ido Andrew Atad",
+        "Ido Cohen"
+      ],
+      "tags": [
+        "agent",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2610.16763",
       "title": "Relational Learning as World Modeling",
@@ -18,33 +47,6 @@
         "Gjergji Kasneci"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.16071",
-      "title": "Dream2Discern: Learning from Hard Latent Variants for Runtime Failure Prediction in Multi-Agent Systems",
-      "url": "https://huggingface.co/papers/2610.16071",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-11T20:00:00.000Z",
-      "abstract": "Reliable deployment of LLM-based multi-agent systems calls for runtime auditors that predict terminal outcomes from observed execution prefixes. These auditors typically learn from a limited corpus of",
-      "authors": [
-        "Boxuan Zhang",
-        "jianing Zhu",
-        "Xiaotian Han",
-        "Ruixiang Tang"
-      ],
-      "tags": [
-        "agent"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

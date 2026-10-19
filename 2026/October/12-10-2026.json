@@ -1,9 +1,32 @@
 {
-  "generatedAt": "2026-10-19T17:15:15.215Z",
+  "generatedAt": "2026-10-19T21:37:40.509Z",
   "date": "12-10-2026",
-  "count": 2,
+  "count": 3,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2610.17644",
+      "title": "DisaggKD: Efficient Knowledge Distillation through Teacher-Student Disaggregation and a Fused Loss",
+      "url": "https://huggingface.co/papers/2610.17644",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-12T20:00:00.000Z",
+      "abstract": "Knowledge distillation (KD) frameworks place teacher and student on the same GPUs, so per-GPU memory limits the teachers that fit. DisaggKD separates them across nodes: teacher replicas stream hidden",
+      "authors": [
+        "Ruixuan Tu",
+        "Yuyang Dong"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2610.18082",
       "title": "Failure Recovery via Belief Updates and World Modeling for Long-Horizon Agents",
