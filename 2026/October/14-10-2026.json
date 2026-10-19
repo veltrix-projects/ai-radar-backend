@@ -1,9 +1,81 @@
 {
-  "generatedAt": "2026-10-19T10:33:24.483Z",
+  "generatedAt": "2026-10-19T17:15:15.214Z",
   "date": "14-10-2026",
-  "count": 22,
+  "count": 20,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2610.22697",
+      "title": "What It Is, Not What It Says: Securing Agentic Browsing Interactions with Web Semantics",
+      "url": "https://huggingface.co/papers/2610.22697",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-14T20:00:00.000Z",
+      "abstract": "AI agents increasingly browse the web on users' behalf, yet they consume webpages as screenshots or text, exposing their LLMs to unvetted third-party content. Browsers enforce semantics under which wh",
+      "authors": [
+        "Umar Iqbal"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.22306",
+      "title": "ARC-SORT: Adaptive, Robust, Compensated Multi-Object Tracking with Interacting Multiple Models",
+      "url": "https://huggingface.co/papers/2610.22306",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-14T20:00:00.000Z",
+      "abstract": "Multi-object tracking in sports broadcasts is hard for two reasons: athletes move fast and change direction abruptly, and the camera pans and zooms at the same time. We present ARC-SORT (Adaptive, Rob",
+      "authors": [
+        "Girish Kumar Adari"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.21482",
+      "title": "AI-Driven Disaster Response and Displacement Monitoring",
+      "url": "https://huggingface.co/papers/2610.21482",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-14T20:00:00.000Z",
+      "abstract": "ARTIFICIAL INTELLIGENCE (AI) has demonstrated its potential across a wide range of humanitarian tasks, offering scalable and data-driven solutions to some of the world's most pressing challenges. For",
+      "authors": [
+        "Noora Al-Emadi",
+        "Muhammad Imran",
+        "Yin Yang",
+        "Ingmar Weber",
+        "Fabjan Lashi"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2610.22428",
       "title": "Embeddings Are Overpriced? A Frozen 16 MB Vocabulary for Small and Ternary Language Models",
@@ -97,139 +169,6 @@
         "agent",
         "benchmark"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.22602",
-      "title": "Stuck on Shuffle: On Attribute-Object Binding in Vision-Language Models",
-      "url": "https://huggingface.co/papers/2610.22602",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-14T20:00:00.000Z",
-      "abstract": "Retrieval is a fundamental task in multimodal systems: given an image or text query, the goal is to find the most relevant images or texts in a collection, often using a shared embedding space. Reliab",
-      "authors": [
-        "Netanel Y. Tamir",
-        "Michael Green",
-        "Issar Tzachor",
-        "Or Shimshi",
-        "Dvir Samuel"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.21046",
-      "title": "PremiseCheck: Efficient Fact-Checking of Human and AI Peer Reviews",
-      "url": "https://huggingface.co/papers/2610.21046",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-14T20:00:00.000Z",
-      "abstract": "Peer review is under strain from the growth of submissions, and review comments written by humans or AI can misstate what a paper says. We introduce ReviewFact, a benchmark that labels such factual er",
-      "authors": [
-        "Dingjie Song",
-        "Zhiling Yan",
-        "Ziqian Zhang",
-        "Yuxuan Zhang",
-        "Lichao Sun"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.21459",
-      "title": "Can Visual Generation Expand What Unified Multimodal Models Know?",
-      "url": "https://huggingface.co/papers/2610.21459",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-14T20:00:00.000Z",
-      "abstract": "Unified multimodal models (UMMs) receive image-generation supervision that exposes them to visual information not fully documented in text. Can learning to generate images expand what pretrained model",
-      "authors": [
-        "Wenkai Li",
-        "Wenyi Hong",
-        "Zhuoyi Yang",
-        "Jie Tang"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.21073",
-      "title": "Skip the Compressor: Coding Agents Fix More Issues When They Pick Whole Files",
-      "url": "https://huggingface.co/papers/2610.21073",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-14T20:00:00.000Z",
-      "abstract": "A coding agent works on repositories that can be far larger than its context window can hold. Prompt compressors and retrievers offer solutions to this problem, but patching an issue needs two things",
-      "authors": [
-        "Xiaocong Yang",
-        "Rishit Chatterjee",
-        "Himanshu Udupi",
-        "Vikram Ramavarapu",
-        "ChengXiang Zhai"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.22321",
-      "title": "AVC-Reward: Event-Centric Audio-Video Consistency Evaluation",
-      "url": "https://huggingface.co/papers/2610.22321",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-14T20:00:00.000Z",
-      "abstract": "As joint audio-video generation models become more capable, they can generate audio-visual scenes exhibiting three forms of complexity: multi-event composition, multi-layer audio mixture, and asymmetr",
-      "authors": [
-        "Yuruo Wu",
-        "Kaihang Pan",
-        "Kai Shen",
-        "Jiacheng Li",
-        "Shuyuan Tu"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
