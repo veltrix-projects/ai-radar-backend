@@ -1,25 +1,23 @@
 {
-  "generatedAt": "2026-10-19T04:59:11.036Z",
+  "generatedAt": "2026-10-19T10:33:24.483Z",
   "date": "14-10-2026",
-  "count": 20,
+  "count": 22,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.21185",
-      "title": "Mine, Sample, Render: Test-Time Diversity Alignment Of Generative Models",
-      "url": "https://huggingface.co/papers/2610.21185",
+      "id": "hf_paper_2610.22428",
+      "title": "Embeddings Are Overpriced? A Frozen 16 MB Vocabulary for Small and Ternary Language Models",
+      "url": "https://huggingface.co/papers/2610.22428",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-14T20:00:00.000Z",
-      "abstract": "Modern generative models produce high-quality individual outputs but struggle to sample diversely, even when explicitly instructed to do so. We introduce MINE-SAMPLE-RENDER (MSR), a test-time approach",
+      "abstract": "In a small language model the vocabulary is the single largest part. In Gemma 3 270M the embedding table holds 168M of 268M parameters, and because quantisation methods leave the embedding in 16-bit,",
       "authors": [
-        "Kostas Triaridis",
-        "Morris E. Sharp",
-        "Nebojsa Jojic"
+        "Sai Kiran Bathula"
       ],
       "tags": [
-        "alignment"
+        "embeddings"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -31,18 +29,19 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.21261",
-      "title": "Behavioral Compositionality of Sparse Autoencoder Representations",
-      "url": "https://huggingface.co/papers/2610.21261",
+      "id": "hf_paper_2610.22169",
+      "title": "Lexical Reference Frames: Interpreting LM Residual Streams in Native Semantics",
+      "url": "https://huggingface.co/papers/2610.22169",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-14T20:00:00.000Z",
-      "abstract": "Sparse autoencoders (SAEs) represent model activations with sparse, linearly decoded features, but the downstream effects of those features need not compose additively. We introduce SAE Additivity Res",
+      "abstract": "The vocabulary of a language model is its native semantics: the embedding and the unembedding fix the meaning of a state at the two ends of the residual stream. Between them, existing methods either r",
       "authors": [
-        "Haotian Ma",
-        "Ziye Mei",
-        "Frederic Sala"
+        "Jian Gu",
+        "Hongyu Zhang",
+        "Chunyang Chen",
+        "Aldeida Aleti"
       ],
       "tags": [],
       "score": 6,
@@ -55,20 +54,152 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.22280",
-      "title": "LEASH: Uncertainty-Aware Weak-to-Strong Escalation and Oversight for Computer-Use Agents",
-      "url": "https://huggingface.co/papers/2610.22280",
+      "id": "hf_paper_2610.21783",
+      "title": "Learning to Think and Explore in 3D World",
+      "url": "https://huggingface.co/papers/2610.21783",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-14T20:00:00.000Z",
-      "abstract": "Computer-use agents increasingly tackle long-horizon tasks, where running a frontier model at every step is expensive and a small open-weight model alone often fails. Weak-to-strong escalation offers",
+      "abstract": "We study how vision-language models (VLMs) can learn to think and actively explore in 3D space. Instead of providing multi-view images, videos, or 3D representations to the model, we preserve the nati",
       "authors": [
-        "Qingni Wang",
-        "Changdae Oh",
-        "Yuzhe Yang",
-        "Sharon Li",
-        "Jiachen Yang"
+        "Yijiang Li",
+        "Bingyang Wang",
+        "Nuno Vasconcelos"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.21082",
+      "title": "SciΠvot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents",
+      "url": "https://huggingface.co/papers/2610.21082",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-14T20:00:00.000Z",
+      "abstract": "Large language model (LLM) agents can keep scientific experiments running for months with little human supervision, but reliable autonomous research also requires scientific judgment. Evaluating scien",
+      "authors": [
+        "Youran Sun",
+        "Xingyu Ren",
+        "Chugang Yi",
+        "Kejia Zhang",
+        "Di Wu"
+      ],
+      "tags": [
+        "agent",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.22602",
+      "title": "Stuck on Shuffle: On Attribute-Object Binding in Vision-Language Models",
+      "url": "https://huggingface.co/papers/2610.22602",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-14T20:00:00.000Z",
+      "abstract": "Retrieval is a fundamental task in multimodal systems: given an image or text query, the goal is to find the most relevant images or texts in a collection, often using a shared embedding space. Reliab",
+      "authors": [
+        "Netanel Y. Tamir",
+        "Michael Green",
+        "Issar Tzachor",
+        "Or Shimshi",
+        "Dvir Samuel"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.21046",
+      "title": "PremiseCheck: Efficient Fact-Checking of Human and AI Peer Reviews",
+      "url": "https://huggingface.co/papers/2610.21046",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-14T20:00:00.000Z",
+      "abstract": "Peer review is under strain from the growth of submissions, and review comments written by humans or AI can misstate what a paper says. We introduce ReviewFact, a benchmark that labels such factual er",
+      "authors": [
+        "Dingjie Song",
+        "Zhiling Yan",
+        "Ziqian Zhang",
+        "Yuxuan Zhang",
+        "Lichao Sun"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.21459",
+      "title": "Can Visual Generation Expand What Unified Multimodal Models Know?",
+      "url": "https://huggingface.co/papers/2610.21459",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-14T20:00:00.000Z",
+      "abstract": "Unified multimodal models (UMMs) receive image-generation supervision that exposes them to visual information not fully documented in text. Can learning to generate images expand what pretrained model",
+      "authors": [
+        "Wenkai Li",
+        "Wenyi Hong",
+        "Zhuoyi Yang",
+        "Jie Tang"
+      ],
+      "tags": [
+        "multimodal"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.21073",
+      "title": "Skip the Compressor: Coding Agents Fix More Issues When They Pick Whole Files",
+      "url": "https://huggingface.co/papers/2610.21073",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-14T20:00:00.000Z",
+      "abstract": "A coding agent works on repositories that can be far larger than its context window can hold. Prompt compressors and retrievers offer solutions to this problem, but patching an issue needs two things",
+      "authors": [
+        "Xiaocong Yang",
+        "Rishit Chatterjee",
+        "Himanshu Udupi",
+        "Vikram Ramavarapu",
+        "ChengXiang Zhai"
       ],
       "tags": [
         "agent"
@@ -83,92 +214,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.22358",
-      "title": "PathFM: Fast Generative Forecasting of Multivariate Trajectories",
-      "url": "https://huggingface.co/papers/2610.22358",
+      "id": "hf_paper_2610.22321",
+      "title": "AVC-Reward: Event-Centric Audio-Video Consistency Evaluation",
+      "url": "https://huggingface.co/papers/2610.22321",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-14T20:00:00.000Z",
-      "abstract": "Time series foundation models are becoming increasingly popular for general-purpose forecasting. However, most leading models predict marginal quantiles, leaving the dependence structure of future tra",
+      "abstract": "As joint audio-video generation models become more capable, they can generate audio-visual scenes exhibiting three forms of complexity: multi-event composition, multi-layer audio mixture, and asymmetr",
       "authors": [
-        "Jiachen Yao",
-        "Xiyuan Zhang",
-        "Annan Yu",
-        "Boran Han",
-        "Abdul Fatir Ansari"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.22127",
-      "title": "Explaining the Roles of Experts in Mixture-of-Experts LLMs for Personalization",
-      "url": "https://huggingface.co/papers/2610.22127",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-14T20:00:00.000Z",
-      "abstract": "Personalization of Large Language Models (LLMs) is increasingly important for user-centric applications, yet prior methods mainly adapt dense LLMs, whose polysemantic neurons, each encoding multiple u",
-      "authors": [
-        "Sekh Mainul Islam",
-        "Pepa Atanasova",
-        "Isabelle Augenstein"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.22371",
-      "title": "Gen4P: Video Generators are 4D Perceivers",
-      "url": "https://huggingface.co/papers/2610.22371",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-14T20:00:00.000Z",
-      "abstract": "We introduce Gen4P, a unified framework for recovering 4D geometry and motion from monocular video. We show that a pretrained video generator can be repurposed into a feed-forward 4D perceiver without",
-      "authors": [
-        "Yitong Xia",
-        "Zeren Jiang",
-        "Chuanxia Zheng"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.21500",
-      "title": "When the KV Cache Is Slower Than the GPU: Scaling Remote KV Tiers for Context-Parallel Prefill",
-      "url": "https://huggingface.co/papers/2610.21500",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-14T20:00:00.000Z",
-      "abstract": "Reusing the attention KV cache across requests is a standard way to cut prefill cost in long-context LLM serving, and production systems increasingly back the per-engine cache with a remote tier share",
-      "authors": [
-        "Muhammad Ibrahim"
+        "Yuruo Wu",
+        "Kaihang Pan",
+        "Kai Shen",
+        "Jiacheng Li",
+        "Shuyuan Tu"
       ],
       "tags": [],
       "score": 6,

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-19T04:59:11.036Z",
+  "generatedAt": "2026-10-19T10:33:24.483Z",
   "date": "13-10-2026",
-  "count": 14,
+  "count": 11,
   "summary": null,
   "items": [
     {
@@ -49,71 +49,23 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.20680",
-      "title": "Diminishing Returns of Data in Sparse Autoencoders: Functional Behavior does not Guarantee Feature Reproducibility",
-      "url": "https://huggingface.co/papers/2610.20680",
+      "id": "hf_paper_2610.20019",
+      "title": "MorphAct: Robot Policies Morphing with the Worlds They Act In",
+      "url": "https://huggingface.co/papers/2610.20019",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-13T20:00:00.000Z",
-      "abstract": "Sparse autoencoders (SAEs) are typically trained on hundreds of millions to billions of activation tokens, yet little work has tested whether this scale is necessary. We study how much activation data",
+      "abstract": "Progress toward general intelligence in the physical world requires scaling robot learning across diverse environments and interactions. However, existing robot policies use shared parameters that rem",
       "authors": [
-        "Sambit Ghosh",
-        "Madelyn Mathai",
-        "R. Venkatesh Babu",
-        "Chirag Agarwal"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.20461",
-      "title": "Equal CER, Unequal Damage: Severity-Weighted Character Error Rate for OCR",
-      "url": "https://huggingface.co/papers/2610.20461",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-13T20:00:00.000Z",
-      "abstract": "Character Error Rate (CER), the standard metric for OCR and vision-language models (VLMs), charges a typo as much as a wrong name. We introduce semCER, which keeps CER's alignment and denominator and",
-      "authors": [
-        "Nguyen Nguyen",
-        "Yongyi Zang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.21025",
-      "title": "Learning to Read Out: Unembedding Dynamics in Language Model Pretraining",
-      "url": "https://huggingface.co/papers/2610.21025",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-13T20:00:00.000Z",
-      "abstract": "When does a language model acquire a capability? Developmental studies usually answer this by tracking when models start producing the correct token. But that prediction passes through the unembedding",
-      "authors": [
-        "Matteo He",
-        "William F. Shen",
-        "Alex Iacob",
-        "Andrej Jovanovic",
-        "Xinchi Qiu"
+        "Ziyan Liu",
+        "Jiting Liu",
+        "Weihong Zhong",
+        "Wenda Yu",
+        "Yeqiu Chen"
       ],
       "tags": [
-        "training"
+        "phi"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -125,18 +77,19 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.20993",
-      "title": "One Bias Score, Two Factors: How Mitigations Affect Option Bias in Multiple-Choice Evaluation",
-      "url": "https://huggingface.co/papers/2610.20993",
+      "id": "hf_paper_2610.20951",
+      "title": "LEV: Thinking Fast and Deep with Looped Decision Models",
+      "url": "https://huggingface.co/papers/2610.20951",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-13T20:00:00.000Z",
-      "abstract": "Reordering multiple-choice options can change a model's answer, an effect studied as selection bias (a preference for certain option letters) and as order sensitivity (changes in answers across option",
+      "abstract": "Decision models answer typed questions about an input with one probability per option, computed in a single forward pass without generating text. Like the fast System 1 of dual-process theory, they an",
       "authors": [
-        "Hyunjong Ok",
-        "Minjae Park",
-        "Jaeho Lee"
+        "Dingjie Song",
+        "Zhiling Yan",
+        "Yuxuan Zhang",
+        "Lichao Sun"
       ],
       "tags": [],
       "score": 6,
@@ -251,32 +204,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.18784",
-      "title": "Pack Light, CarryOn: Building Object-Oriented Context for Long-Horizon Agents",
-      "url": "https://huggingface.co/papers/2610.18784",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-13T13:35:27.000Z",
-      "abstract": "Long-horizon agents accumulate progress in persistent task state, yet repeatedly process interaction histories describing how that progress was achieved. This raises a natural question: can long-horiz",
-      "authors": [
-        "Yuchen Lu",
-        "Julian McAuley",
-        "Lei Zhang"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
