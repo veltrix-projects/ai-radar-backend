@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-19T21:37:40.509Z",
+  "generatedAt": "2026-10-20T00:49:13.565Z",
   "date": "13-10-2026",
-  "count": 7,
+  "count": 9,
   "summary": null,
   "items": [
     {
@@ -20,6 +20,58 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.19378",
+      "title": "Robust Explanatory Analysis for Structured Optimization Networks (REASON) in Learning",
+      "url": "https://huggingface.co/papers/2610.19378",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-13T20:00:00.000Z",
+      "abstract": "We seek a hierarchical resolution of residual error under a composite learning objective as a principled mechanism for identifying and exploiting additional information, particularly under distributio",
+      "authors": [
+        "Vahid Jebraeeli",
+        "Hamid Krim",
+        "Keisuke Fujii"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.19432",
+      "title": "Recognition Is Not Grounding: Benchmarking Multilingual Financial Evidence Extraction",
+      "url": "https://huggingface.co/papers/2610.19432",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-13T20:00:00.000Z",
+      "abstract": "Comparing financial disclosures across languages requires identifying shared accounting concepts and recovering all numerical facts that express them. Existing benchmarks evaluate aspects of these cap",
+      "authors": [
+        "Lingfei Qian",
+        "Yan Wang",
+        "Xueqing Peng",
+        "Polydoros Giannouris",
+        "Nadhem Zmandar"
+      ],
+      "tags": [
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
