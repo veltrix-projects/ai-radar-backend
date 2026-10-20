@@ -1,23 +1,28 @@
 {
-  "generatedAt": "2026-10-20T05:33:14.071Z",
+  "generatedAt": "2026-10-20T10:40:04.304Z",
   "date": "12-10-2026",
   "count": 2,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.17644",
-      "title": "DisaggKD: Efficient Knowledge Distillation through Teacher-Student Disaggregation and a Fused Loss",
-      "url": "https://huggingface.co/papers/2610.17644",
+      "id": "hf_paper_2610.17724",
+      "title": "Evidence-First Agentic Verification",
+      "url": "https://huggingface.co/papers/2610.17724",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-12T20:00:00.000Z",
-      "abstract": "Knowledge distillation (KD) frameworks place teacher and student on the same GPUs, so per-GPU memory limits the teachers that fit. DisaggKD separates them across nodes: teacher replicas stream hidden",
+      "abstract": "Long-horizon, semi-verifiable agentic tasks often rely on rubric-based evaluation, but the evidence needed to assess these tasks can be spread across the environment state and the execution trace. A j",
       "authors": [
-        "Ruixuan Tu",
-        "Yuyang Dong"
+        "Reza Sanayei",
+        "Razvan-Gabriel Dumitru",
+        "Sunjie Hou",
+        "MohammadHossein Rezaei",
+        "Haris Riaz"
       ],
-      "tags": [],
+      "tags": [
+        "agent"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

@@ -1,233 +1,27 @@
 {
-  "generatedAt": "2026-10-20T05:33:14.070Z",
+  "generatedAt": "2026-10-20T10:40:04.303Z",
   "date": "14-10-2026",
-  "count": 17,
+  "count": 9,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.22732",
-      "title": "TokenEconomizer: Experience-Driven Black-Box Cost Control for Coding Agents",
-      "url": "https://huggingface.co/papers/2610.22732",
+      "id": "hf_paper_2610.16782",
+      "title": "LIBERO-Industry: Benchmarking Robotic Manipulation under Industrial Process Constraints",
+      "url": "https://huggingface.co/papers/2610.16782",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-14T20:00:00.000Z",
-      "abstract": "Advances in frontier coding agents have sharply increased the token costs of AI-assisted software engineering. Their token efficiency is typically evaluated on isolated tasks, whereas real-world devel",
+      "abstract": "Industrial manipulation in flexible manufacturing, e.g., high-mix, low-volume (HMLV) electronics assembly, requires robot policies to adapt to changing products and production conditions. Such setting",
       "authors": [
-        "Aaron J. Li",
-        "Weijia Xu",
-        "Chandan Singh",
-        "Zixiao Chen",
-        "Jeevana Priya Inala"
+        "Ming Shin Cindy Sung",
+        "Duan Leijiahao",
+        "Haoxiang Wang",
+        "Boning Tan",
+        "Liangna Fu"
       ],
       "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.22448",
-      "title": "Lean4AgenticRL: Advancing Agentic RL with Verifiable Multi-level Process Rewards",
-      "url": "https://huggingface.co/papers/2610.22448",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-14T20:00:00.000Z",
-      "abstract": "Enhancing the agentic capabilities of Large Language Models (LLMs) to tackle complex software engineering (SWE) and general terminal-usage problems is a pressing challenge. Current state-of-the-art LL",
-      "authors": [
-        "Ruida Wang",
-        "Gerald Friedland",
-        "Tong Zhang",
-        "Chris Kong"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.22744",
-      "title": "OmniXRef: A Unified Framework for Multimodal Multi-Reference Video Editing",
-      "url": "https://huggingface.co/papers/2610.22744",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-14T20:00:00.000Z",
-      "abstract": "Creative intent in video editing can be expressed through text instructions (e.g., \"remove the people\"), image references (e.g., subject appearance), video references (e.g., camera movement), or a com",
-      "authors": [
-        "Xiaoyan Cong",
-        "Tianyu Wang",
-        "Hyeonho Jeong",
-        "Zhifei Zhang",
-        "Yuqian Zhou"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.22273",
-      "title": "Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries",
-      "url": "https://huggingface.co/papers/2610.22273",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-14T20:00:00.000Z",
-      "abstract": "Reasoning over long document contexts remains a challenge for large language models (LLMs). Standard retrieval methods are inherently reactive, bottlenecking agents with complex, cross-document reason",
-      "authors": [
-        "Anikait Singh",
-        "Teresa Zhang",
-        "Yoonho Lee",
-        "Roshen Sanjay Nair",
-        "Aviral Kumar"
-      ],
-      "tags": [
-        "llm",
-        "agent",
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.22708",
-      "title": "GlobeBench: Evaluating Text-Based World Model Capabilities for Scalable Environment Simulations",
-      "url": "https://huggingface.co/papers/2610.22708",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-14T20:00:00.000Z",
-      "abstract": "Text-based world models have recently shown potential to simulate complex RL environment state transitions for a diverse set of use cases. However, no standardized benchmark exists to compare, study a",
-      "authors": [
-        "Nicholas Saban",
-        "Charvi Bannur",
-        "Mariya Vasileva",
-        "Darshan Deshpande"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.22697",
-      "title": "What It Is, Not What It Says: Securing Agentic Browsing Interactions with Web Semantics",
-      "url": "https://huggingface.co/papers/2610.22697",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-14T20:00:00.000Z",
-      "abstract": "AI agents increasingly browse the web on users' behalf, yet they consume webpages as screenshots or text, exposing their LLMs to unvetted third-party content. Browsers enforce semantics under which wh",
-      "authors": [
-        "Umar Iqbal"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.22306",
-      "title": "ARC-SORT: Adaptive, Robust, Compensated Multi-Object Tracking with Interacting Multiple Models",
-      "url": "https://huggingface.co/papers/2610.22306",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-14T20:00:00.000Z",
-      "abstract": "Multi-object tracking in sports broadcasts is hard for two reasons: athletes move fast and change direction abruptly, and the camera pans and zooms at the same time. We present ARC-SORT (Adaptive, Rob",
-      "authors": [
-        "Girish Kumar Adari"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.21482",
-      "title": "AI-Driven Disaster Response and Displacement Monitoring",
-      "url": "https://huggingface.co/papers/2610.21482",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-14T20:00:00.000Z",
-      "abstract": "ARTIFICIAL INTELLIGENCE (AI) has demonstrated its potential across a wide range of humanitarian tasks, offering scalable and data-driven solutions to some of the world's most pressing challenges. For",
-      "authors": [
-        "Noora Al-Emadi",
-        "Muhammad Imran",
-        "Yin Yang",
-        "Ingmar Weber",
-        "Fabjan Lashi"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.22428",
-      "title": "Embeddings Are Overpriced? A Frozen 16 MB Vocabulary for Small and Ternary Language Models",
-      "url": "https://huggingface.co/papers/2610.22428",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-14T20:00:00.000Z",
-      "abstract": "In a small language model the vocabulary is the single largest part. In Gemma 3 270M the embedding table holds 168M of 268M parameters, and because quantisation methods leave the embedding in 16-bit,",
-      "authors": [
-        "Sai Kiran Bathula"
-      ],
-      "tags": [
-        "embeddings"
+        "benchmark"
       ],
       "score": 6,
       "priority": "MEDIUM",
