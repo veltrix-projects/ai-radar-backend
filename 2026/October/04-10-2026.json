@@ -1,33 +1,31 @@
 {
-  "generatedAt": "2026-10-20T10:40:04.346Z",
+  "generatedAt": "2026-10-20T19:28:53.293Z",
   "date": "04-10-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.06830",
-      "title": "MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents",
-      "url": "https://huggingface.co/papers/2610.06830",
+      "id": "hf_paper_2610.06563",
+      "title": "HERA: Harness-Environment Co-Evolution for Reliable Agentic Abstention",
+      "url": "https://huggingface.co/papers/2610.06563",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-04T20:00:00.000Z",
-      "abstract": "Memory has become integral to the LLM agent ecosystem, supporting information retention and reuse across interactions. However, most existing agent memory systems construct memory in a query-agnostic",
+      "abstract": "Large language model (LLM) agents are increasingly capable of acting in complex tool-use environments, yet they often fail to recognize when tasks are infeasible and no valid solution exists. Recent w",
       "authors": [
-        "Haozhen Zhang",
-        "Haodong Yue",
-        "Quanyu Long",
-        "Jianzhu Bao",
-        "Qingyuan Liu"
+        "Han Luo",
+        "Bingbing Wen",
+        "Guang Yang",
+        "Zora Zhiruo Wang",
+        "Pan Lu"
       ],
       "tags": [
-        "llm",
-        "multimodal",
         "agent"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
