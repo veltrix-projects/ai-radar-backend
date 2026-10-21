@@ -1,9 +1,58 @@
 {
-  "generatedAt": "2026-10-20T19:28:53.287Z",
+  "generatedAt": "2026-10-21T01:08:24.126Z",
   "date": "15-10-2026",
   "count": 9,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2610.23653",
+      "title": "A Language-Informed Loss for Visual Generation",
+      "url": "https://huggingface.co/papers/2610.23653",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-15T20:00:00.000Z",
+      "abstract": "End-to-end visual generation with pixel-space loss has recently achieved competitive performance without the need for learned image tokenizers. In this work, we study whether language-informed supervi",
+      "authors": [
+        "Suchir Agarwal",
+        "Keshigeyan Chandrasegaran",
+        "Ziyu Chen",
+        "Kyle Sargent",
+        "Juan Carlos Niebles"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.22894",
+      "title": "Competence-Based Evaluation of Logical Reasoning in Large Language Models",
+      "url": "https://huggingface.co/papers/2610.22894",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-15T20:00:00.000Z",
+      "abstract": "Recent advances in large language models (LLMs) have brought impressive performance across diverse tasks; however, shortcomings remain in logical reasoning, including inconsistencies under linguistic",
+      "authors": [
+        "Jize Jiang",
+        "Chengxiang Zhai"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2610.21810",
       "title": "N-Gram Memories at Two Bits: Quantizing Lookup Tables in Large Language Models",
@@ -21,57 +70,6 @@
         "Junhoo Lee"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2606.31876",
-      "title": "Harnessing Textual Refusal Directions for Multimodal Safety",
-      "url": "https://huggingface.co/papers/2606.31876",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-15T20:00:00.000Z",
-      "abstract": "Safety in Multimodal Large Language Models (MLLMs) depends on unsafe multimodal data for post-training alignment or activation steering. However, such data is hard to collect, must be gathered anew fo",
-      "authors": [
-        "Moreno D&#39;Incà",
-        "Nicu Sebe",
-        "Massimiliano Mancini"
-      ],
-      "tags": [
-        "multimodal",
-        "safety"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.24133",
-      "title": "A Conditional No-Hair Theorem for Transformers: How Language Models Forget Their Prompt",
-      "url": "https://huggingface.co/papers/2610.24133",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-15T20:00:00.000Z",
-      "abstract": "We ask how much an autoregressive transformer retains of its prompt after generating t tokens. Consider two different prompts followed by the same continuation text, so that any difference in their hi",
-      "authors": [
-        "Shuyang Xiang"
-      ],
-      "tags": [
-        "transformer"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
