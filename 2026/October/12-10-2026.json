@@ -1,25 +1,53 @@
 {
-  "generatedAt": "2026-10-21T06:11:27.977Z",
+  "generatedAt": "2026-10-21T17:26:35.399Z",
   "date": "12-10-2026",
-  "count": 1,
+  "count": 2,
   "summary": null,
   "items": [
     {
-      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
-      "title": "ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding",
-      "url": "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding/",
-      "source": "NVIDIA Blog",
-      "sourceIcon": "🟩",
-      "type": "tool",
-      "timestamp": "2026-10-12T16:00:54.000Z",
-      "abstract": "Hybrid models interleave state-space model (SSM) layers with a few attention layers. NVIDIA Nemotron 3, Qwen3.5 through Qwen3.8, Kimi-K3, and GLM-5.3-Flash are...]]>",
-      "authors": [],
-      "tags": [
-        "rag"
+      "id": "hf_paper_2610.18604",
+      "title": "LLM2R: From Large Language Models to 3D Reassemblers",
+      "url": "https://huggingface.co/papers/2610.18604",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-12T20:00:00.000Z",
+      "abstract": "3D part assembly aims to reconstruct a complete shape from a set of unassembled parts by predicting a rigid SE(3) transformation for each part. Because the placement of a part is rarely determined by",
+      "authors": [
+        "Zhouhan Zhong",
+        "Qiuhong Shen",
+        "Xingyi Yang",
+        "Jinyi Xu",
+        "Xinchao Wang"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.18950",
+      "title": "λ_0: Scaling Open-World Egocentric Human Data for Humanoid Loco-Manipulation",
+      "url": "https://huggingface.co/papers/2610.18950",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-12T20:00:00.000Z",
+      "abstract": "Humanoid loco-manipulation requires coordinated whole-body interaction with the physical world, yet collecting robot demonstrations at scale remains costly. Human demonstrations offer a scalable alter",
+      "authors": [
+        "humanoid Team"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

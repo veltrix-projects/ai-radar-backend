@@ -1,25 +1,32 @@
 {
-  "generatedAt": "2026-10-21T06:11:27.977Z",
+  "generatedAt": "2026-10-21T17:26:35.398Z",
   "date": "13-10-2026",
-  "count": 7,
+  "count": 6,
   "summary": null,
   "items": [
     {
-      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
-      "title": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents",
-      "url": "https://developer.nvidia.com/blog/rewrite-apache-spark-udfs-gpu-acceleration-ai-agents/",
-      "source": "NVIDIA Blog",
-      "sourceIcon": "🟩",
-      "type": "tool",
-      "timestamp": "2026-10-13T21:33:21.000Z",
-      "abstract": "Enterprise applications have become increasingly demanding. Agentic AI has compounded the need for vast amounts of enterprise data with frequent, complex...]]>",
-      "authors": [],
-      "tags": [
-        "agent"
+      "id": "hf_paper_2610.19425",
+      "title": "Evaluating Agentic Capabilities Before Post-Training: An End-to-End Approach",
+      "url": "https://huggingface.co/papers/2610.19425",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-13T20:00:00.000Z",
+      "abstract": "Agentic capabilities are increasingly important for modern LLMs, yet remain difficult to evaluate during pretraining. Existing approaches typically rely on static trajectory-derived tasks or likelihoo",
+      "authors": [
+        "Jiarui Qin",
+        "Junjie Huang",
+        "Yunjia Xi",
+        "Di Yin",
+        "Yong Yu"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "tags": [
+        "agent",
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -83,28 +90,6 @@
       "authors": [],
       "tags": [
         "gemini"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
-      "title": "NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform",
-      "url": "https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform/",
-      "source": "NVIDIA Blog",
-      "sourceIcon": "🟩",
-      "type": "tool",
-      "timestamp": "2026-10-13T14:19:40.000Z",
-      "abstract": "NVIDIA is making the full NVIDIA Run:ai platform available as open source software, giving customers, developers, and ecosystem partners access to...]]>",
-      "authors": [],
-      "tags": [
-        "open source"
       ],
       "score": 8,
       "priority": "HIGH",

@@ -1,57 +1,29 @@
 {
-  "generatedAt": "2026-10-21T06:11:27.973Z",
+  "generatedAt": "2026-10-21T17:26:35.396Z",
   "date": "18-10-2026",
-  "count": 8,
+  "count": 7,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.26203",
-      "title": "Focused Omni-Modal GUI Agents",
-      "url": "https://huggingface.co/papers/2610.26203",
+      "id": "hf_paper_2610.26857",
+      "title": "VideoMaMa++: Temporally Consistent Video Matting via Preserve-and-Refine Token",
+      "url": "https://huggingface.co/papers/2610.26857",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-18T20:00:00.000Z",
-      "abstract": "Graphical User Interface (GUI) agents increasingly act over streaming omni-modal observations spanning screenshots, audio, video, interaction history, and device states. However, exposing this complet",
+      "abstract": "Diffusion-based video matting has recently emerged as a leading approach, leveraging video diffusion priors from internet-scale pretraining to achieve strong zero-shot generalization from limited synt",
       "authors": [
-        "Fuyao Zhang",
-        "Wenwen He",
-        "Jiaming Zhang",
-        "Yurong Hao",
-        "Xuan Wang"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.26067",
-      "title": "PhysSkin++: Real-Time and Generalizable Physics-Based Animation via Self-Supervised Neural Skinning",
-      "url": "https://huggingface.co/papers/2610.26067",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-18T20:00:00.000Z",
-      "abstract": "Generalizing real-time physics-based animation across diverse 3D shapes and spatial discretizations remains challenging. In this paper, we introduce PhysSkin++, a physics-informed framework that learn",
-      "authors": [
-        "Yuanhang Lei",
-        "Baofei Liu",
-        "Xingxuan Li",
-        "Tao Cheng",
-        "Zixuan Wang"
+        "Sangbeom Lim",
+        "Seoung Wug Oh",
+        "Heeji Yoon",
+        "Seungryong Kim",
+        "Joon-Young Lee"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -59,46 +31,23 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.27334",
-      "title": "EMBER: Predicting TCR--pMHC Binding Without a Docked Complex",
-      "url": "https://huggingface.co/papers/2610.27334",
+      "id": "hf_paper_2610.27190",
+      "title": "On the Fragility of Tasks under Composition: Implicit Budgeting in Language Models",
+      "url": "https://huggingface.co/papers/2610.27190",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-18T20:00:00.000Z",
-      "abstract": "We propose EMBER, a structure-based framework for TCR--pMHC binding prediction that eliminates the need for a predicted docked complex, and with it the placement error that dominates such predictions.",
+      "abstract": "Modern language models are increasingly asked to handle several tasks within a single prompt. Doing so requires solving each task correctly while integrating the resulting answers into a coherent resp",
       "authors": [
-        "Lin Ha",
-        "Chen Zhou",
-        "Haozheng Luo",
-        "Han Liu",
-        "Xiaoyu Zhang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.25765",
-      "title": "TRACE: Tracking Multimodal Clinical Trajectories for Inpatient Risk Prediction",
-      "url": "https://huggingface.co/papers/2610.25765",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-18T20:00:00.000Z",
-      "abstract": "Accurate inpatient risk prediction requires modeling heterogeneous clinical evidence that accumulates irregularly over time. This challenge spans in-hospital mortality, prolonged length of stay, and r",
-      "authors": [
-        "Minjun Kim",
-        "Jong Hak Moon"
+        "Chenpan Li",
+        "Thies Brockmoeller",
+        "Stefanie Jegelka",
+        "Sharut Gupta",
+        "Nikolaos Karalias"
       ],
       "tags": [
-        "multimodal"
+        "rag"
       ],
       "score": 8,
       "priority": "HIGH",
@@ -110,48 +59,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.26754",
-      "title": "TokenGate: Adapting LLMs for Fast and Memory-Efficient Prefill with Learned Token Pruning",
-      "url": "https://huggingface.co/papers/2610.26754",
+      "id": "hf_paper_2610.26711",
+      "title": "PVBench: Quantifying Physical Plausibility in Video Generation with Object-Level Physical Measurements",
+      "url": "https://huggingface.co/papers/2610.26711",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-18T20:00:00.000Z",
-      "abstract": "Expert human readers process large inputs (e.g., code repositories and long documents) by skimming to closely read only what matters. On the other hand, language models process all input tokens throug",
+      "abstract": "Recent video generation models produce visually compelling outputs, yet their physical plausibility remains poorly measured. Physical plausibility asks whether generated objects obey geometry, kinemat",
       "authors": [
-        "Liana Patel",
-        "Rishabh Ranjan",
-        "Ion Stoica",
-        "Matei Zaharia",
-        "Carlos Guestrin"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2604.11331",
-      "title": "Any 3D Scene is Worth 1K Tokens: 3D-Grounded Representation for Scene Generation at Scale",
-      "url": "https://huggingface.co/papers/2604.11331",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-18T20:00:00.000Z",
-      "abstract": "Scene-level 3D generation has long been dominated by 2D multi-view or video diffusion models. Typically, these 2D-based approaches perform scene generation in a 2D latent space, which introduces two f",
-      "authors": [
-        "Dongxu Wei",
-        "Qi Xu",
-        "Zhiqi Li",
-        "Hangning Zhou",
-        "Cong Qiu"
+        "Kaiwei Chen",
+        "Moran Li",
+        "Zhenye Gan",
+        "Yabiao Wang",
+        "Chengjie Wang"
       ],
       "tags": [],
       "score": 6,
@@ -164,17 +85,76 @@
       "points": 0
     },
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web",
-      "url": "https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
+      "id": "hf_paper_2610.27327",
+      "title": "Unsupervised Tool Evolution for Coding Agents in Data-Lake Analytics",
+      "url": "https://huggingface.co/papers/2610.27327",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-10-18T18:20:28.000Z",
-      "abstract": "An AI agent that reads the web pays 2 kinds of cost. The first is the retrieval charge: what a search or fetch API bills per request. The second is model processing: content passed from retrieved page",
-      "authors": [],
+      "timestamp": "2026-10-18T20:00:00.000Z",
+      "abstract": "Coding agents can answer analytical questions over a data lake by discovering, cleaning, and joining the relevant data. However, they discard this work after each question and redo it from scratch for",
+      "authors": [
+        "Yuqing Yang",
+        "Yurong Liu",
+        "Deqing Fu",
+        "Manav Garg",
+        "Sravan Babu Bodapati"
+      ],
       "tags": [
         "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.27360",
+      "title": "On the Limits of Scale: Inverse Scaling in Vision-Language Models",
+      "url": "https://huggingface.co/papers/2610.27360",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-18T20:00:00.000Z",
+      "abstract": "Scaling laws suggest that increasing model size, training data, and compute generally yields monotonic performance improvements. While this often holds at the aggregate level, we present systematic ev",
+      "authors": [
+        "Rohit Saxena",
+        "Alessandro Suglia",
+        "Marek Rei",
+        "Pasquale Minervini"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.26837",
+      "title": "SpecKCast: Spectral Kalman Forecasting for Diffusion Acceleration",
+      "url": "https://huggingface.co/papers/2610.26837",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-18T20:00:00.000Z",
+      "abstract": "Diffusion Transformers (DiTs) achieve high-fidelity image and video generation, but they suffer from substantial inference costs due to repeated transformer evaluations across many denoising steps. Fe",
+      "authors": [
+        "Javad Rajabi",
+        "Hakki Can Karaimer",
+        "David B. Lindell",
+        "Babak Taati",
+        "Michael S. Brown"
+      ],
+      "tags": [
+        "diffusion"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -212,7 +192,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 169794,
+      "stars": 170771,
       "votes": 0,
       "points": 0
     }

@@ -1,50 +1,25 @@
 {
-  "generatedAt": "2026-10-21T06:11:27.973Z",
+  "generatedAt": "2026-10-21T17:26:35.396Z",
   "date": "17-10-2026",
-  "count": 4,
+  "count": 3,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.25288",
-      "title": "Vision as Proprioception: Estimating Humanoid Robot Pose from Video",
-      "url": "https://huggingface.co/papers/2610.25288",
+      "id": "hf_paper_2610.07609",
+      "title": "PhysLDM: Latent Diffusion for High-Fidelity Deformable Simulation",
+      "url": "https://huggingface.co/papers/2610.07609",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-17T20:00:00.000Z",
-      "abstract": "Estimating a humanoid robot's internal state from video has a wide range of real-world applications but remains unexplored. During interactions with a robot, its onboard state information may be unava",
+      "abstract": "Neural simulation of high-fidelity deformable bodies is a foundational challenge in computer graphics and physical AI. Long-horizon prediction for high-resolution 3D volumetric meshes is hard: autoreg",
       "authors": [
-        "Jiaxi Jiang",
-        "Matthias Heyrman",
-        "René Zurbrügg",
-        "Marco Hutter",
-        "Christian Holz"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.25159",
-      "title": "Legal Guidance in the Wild: How Users Seek Legal Help in Real-World LLM Conversations",
-      "url": "https://huggingface.co/papers/2610.25159",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-17T20:00:00.000Z",
-      "abstract": "People ask conversational AI models about their legal rights, obligations, procedures, and personal situations that may have legal consequences. To study this behavior, we first need to distinguish re",
-      "authors": [
-        "Amirreza Mohseni",
-        "Gerasimos Spanakis"
+        "Yu Zhang",
+        "Xudong Xu",
+        "Xingang Pan"
       ],
       "tags": [
-        "llm"
+        "diffusion"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -56,23 +31,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.25525",
-      "title": "StopLoss: Teaching Agents to Predict Failure and Stop Early",
-      "url": "https://huggingface.co/papers/2610.25525",
+      "id": "hf_paper_2610.24944",
+      "title": "Epi: Towards a Persistent, Self-Improving Agent for Autonomous Research",
+      "url": "https://huggingface.co/papers/2610.24944",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-17T20:00:00.000Z",
-      "abstract": "Coding agents keep working on runs that will fail verification, and asking a frontier model to watch for this is expensive in its own right. We introduce StopLoss, a small external monitor that learns",
+      "abstract": "We present Épi, an autonomous research agent that sustains investigations across model sessions and evolves its methods through accumulated experience. Épi combines persistent research history, hierar",
       "authors": [
-        "Jiarong Liang",
-        "Xueguang Ma",
-        "Dongfu Jiang",
-        "Yuxuan Zhang",
-        "Ping Nie"
+        "Yue Huang",
+        "Zhangchen Xu",
+        "Xiaonan Luo",
+        "Zheyuan Liu",
+        "Lichi Li"
       ],
       "tags": [
-        "agent"
+        "agent",
+        "autonomous"
       ],
       "score": 6,
       "priority": "MEDIUM",

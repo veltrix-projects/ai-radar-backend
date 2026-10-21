@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-21T06:11:27.980Z",
+  "generatedAt": "2026-10-21T17:26:35.400Z",
   "date": "07-10-2026",
-  "count": 1,
+  "count": 2,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,35 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.34565",
+      "title": "FlowState: Execution State as Memory for Long-Horizon LLM Agents",
+      "url": "https://huggingface.co/papers/2609.34565",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-07T20:00:00.000Z",
+      "abstract": "Long-horizon tasks require LLM agents to continually draw on information from earlier interactions. However, retaining the full history increases context costs, while compressing it risks losing detai",
+      "authors": [
+        "Minghao Li",
+        "Bangyan Li",
+        "Zifan Wang",
+        "Yulong Li",
+        "Hu Xu"
+      ],
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
