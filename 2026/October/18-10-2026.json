@@ -1,57 +1,31 @@
 {
-  "generatedAt": "2026-10-22T02:38:16.616Z",
+  "generatedAt": "2026-10-22T13:56:51.632Z",
   "date": "18-10-2026",
-  "count": 4,
+  "count": 3,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.26857",
-      "title": "VideoMaMa++: Temporally Consistent Video Matting via Preserve-and-Refine Token",
-      "url": "https://huggingface.co/papers/2610.26857",
+      "id": "hf_paper_2610.26659",
+      "title": "SpatialScout: Can VLM Agents Actively Explore and Map 3D Scenes?",
+      "url": "https://huggingface.co/papers/2610.26659",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-18T20:00:00.000Z",
-      "abstract": "Diffusion-based video matting has recently emerged as a leading approach, leveraging video diffusion priors from internet-scale pretraining to achieve strong zero-shot generalization from limited synt",
+      "abstract": "Spatial intelligence requires agents to actively acquire visual evidence and integrate observations into a coherent representation of the three-dimensional world. Yet spatial question answering offers",
       "authors": [
-        "Sangbeom Lim",
-        "Seoung Wug Oh",
-        "Heeji Yoon",
-        "Seungryong Kim",
-        "Joon-Young Lee"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.27190",
-      "title": "On the Fragility of Tasks under Composition: Implicit Budgeting in Language Models",
-      "url": "https://huggingface.co/papers/2610.27190",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-18T20:00:00.000Z",
-      "abstract": "Modern language models are increasingly asked to handle several tasks within a single prompt. Doing so requires solving each task correctly while integrating the resulting answers into a coherent resp",
-      "authors": [
-        "Chenpan Li",
-        "Thies Brockmoeller",
-        "Stefanie Jegelka",
-        "Sharut Gupta",
-        "Nikolaos Karalias"
+        "Zhaoxi Zhang",
+        "Hao Liang",
+        "Linxuan Wu",
+        "Yiming Wu",
+        "Yifu Yuan"
       ],
       "tags": [
-        "rag"
+        "agent"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -59,22 +33,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.26711",
-      "title": "PVBench: Quantifying Physical Plausibility in Video Generation with Object-Level Physical Measurements",
-      "url": "https://huggingface.co/papers/2610.26711",
+      "id": "hf_paper_2610.26828",
+      "title": "Agent World Model in the Wild: Computer-Use Agent Environment Synthesis",
+      "url": "https://huggingface.co/papers/2610.26828",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-18T20:00:00.000Z",
-      "abstract": "Recent video generation models produce visually compelling outputs, yet their physical plausibility remains poorly measured. Physical plausibility asks whether generated objects obey geometry, kinemat",
+      "abstract": "Agent learning is shifting from learning from human data toward learning through interaction with the world. However, scaling such learning directly in real-world computer systems is challenging and c",
       "authors": [
-        "Kaiwei Chen",
-        "Moran Li",
-        "Zhenye Gan",
-        "Yabiao Wang",
-        "Chengjie Wang"
+        "Zhaoyang Wang",
+        "Qianhui Wu",
+        "Haorui Wang",
+        "Simon Yu",
+        "Baolin Peng"
       ],
-      "tags": [],
+      "tags": [
+        "agent"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -111,7 +87,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 171593,
+      "stars": 172399,
       "votes": 0,
       "points": 0
     }

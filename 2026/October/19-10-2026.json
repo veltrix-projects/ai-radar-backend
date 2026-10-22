@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-22T02:38:16.616Z",
+  "generatedAt": "2026-10-22T13:56:51.631Z",
   "date": "19-10-2026",
-  "count": 16,
+  "count": 13,
   "summary": null,
   "items": [
     {
@@ -25,22 +25,23 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.27450",
-      "title": "Ask to Distill: Learning to Synthesize Data for On-Policy Distillation",
-      "url": "https://huggingface.co/papers/2610.27450",
+      "id": "hf_paper_2610.28763",
+      "title": "Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?",
+      "url": "https://huggingface.co/papers/2610.28763",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-19T20:00:00.000Z",
-      "abstract": "On-policy distillation (OPD) can succeed with surprisingly few training questions, motivating a view of questions as carriers of distributional knowledge transfer. How can we assess whether a newly ge",
+      "abstract": "Frontier coding agents are increasingly framed as end-to-end automated researchers, and ML for science offers a demanding test of that promise: improving a scientific model often requires domain insig",
       "authors": [
-        "Jiashuo Sun",
-        "Hao Zhang",
-        "Xueqiang Xu",
-        "Heng Wang",
-        "Yixuan Xie"
+        "Ming Zhong",
+        "Stacy Li",
+        "Nicholas Carlini",
+        "Matthew Jagielski"
       ],
-      "tags": [],
+      "tags": [
+        "agent"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -51,20 +52,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.19233",
-      "title": "Not All Features Are Created Equal: A Mechanistic Study of Vision-Language-Action Models",
-      "url": "https://huggingface.co/papers/2603.19233",
+      "id": "hf_paper_2610.28474",
+      "title": "Answering in the User's Variety: Calibrated Accommodation Pairs for Post-Training",
+      "url": "https://huggingface.co/papers/2610.28474",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-19T20:00:00.000Z",
-      "abstract": "A fine-tuned Vision-Language-Action (VLA) policy can easily place the alphabet soup in the basket on command, just as it saw during fine-tuning. However, if the basket is shifted five centimeters to t",
+      "abstract": "People adapt how they talk to the person in front of them. However, chat models tend to respond in Standard English regardless of the dialect used by the user. A uniform answer can hide whether traini",
       "authors": [
-        "Bryce Grant",
-        "Xijia Zhao",
-        "Peng Wang"
+        "Zhizhuo Kou",
+        "Heming Li",
+        "Jian Yang",
+        "Junyu Luo",
+        "Jingshu Peng"
       ],
-      "tags": [],
+      "tags": [
+        "training"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -75,19 +80,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.28069",
-      "title": "Training the Whole Agent, Not Just the Model",
-      "url": "https://huggingface.co/papers/2610.28069",
+      "id": "hf_paper_2610.28698",
+      "title": "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds",
+      "url": "https://huggingface.co/papers/2610.28698",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-19T20:00:00.000Z",
-      "abstract": "Training coding agents typically updates the policy while keeping the harness fixed. During training, trajectories reveal flawed repair strategies and interaction problems that vary across tasks and c",
+      "abstract": "Scaling data, diversity and model capacity has improved embodied learning in physical environments, where diverse experiences remain grounded in shared physical laws. Whether these gains extend to vir",
       "authors": [
-        "Lingxiao Tang",
-        "Wei Tao",
-        "Yiwen Guo",
-        "Lingfeng Bao"
+        "Kuan Zhang",
+        "Yukun Chen",
+        "Zhihao Yang",
+        "Yue Su",
+        "Xiangnan Wu"
       ],
       "tags": [
         "agent",
@@ -103,49 +109,23 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.27914",
-      "title": "World Models with Configurable Perception",
-      "url": "https://huggingface.co/papers/2610.27914",
+      "id": "hf_paper_2610.28887",
+      "title": "Building AI Research Teams for Autonomous Discovery of Linear Attention Architectures",
+      "url": "https://huggingface.co/papers/2610.28887",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-19T20:00:00.000Z",
-      "abstract": "Real-world observations are noisy and often contain excessive task-irrelevant information. Effective world modeling and planning need to abstract observations into world state representations while fi",
+      "abstract": "Autonomous agents can increasingly propose ideas, modify code, and run experiments, creating an opportunity to accelerate scientific discovery using teams of collaborative AI researchers. To escape lo",
       "authors": [
-        "Yijun Shen",
-        "Delong Chen",
-        "Xianming Hu",
-        "Kai Zhang",
-        "Pascale Fung"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.28388",
-      "title": "Self-Credit: Credit Assignment for Long-Horizon Agentic RL via Intra-group Rescaling",
-      "url": "https://huggingface.co/papers/2610.28388",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-19T20:00:00.000Z",
-      "abstract": "LLM agents are commonly trained with RLVR, but the sparse nature of typical RLVR rewards makes credit assignment challenging, especially for long-horizon tasks. We propose Self-Credit, an end-to-end a",
-      "authors": [
-        "Fangcong Yin",
-        "Ming Yin",
-        "Tanvi Bhandarkar",
-        "Aashu Singh",
-        "Eryk Helenowski"
+        "Yujian Liu",
+        "Li An",
+        "Zelin He",
+        "Jacob Helwig",
+        "Jiabao Ji"
       ],
       "tags": [
-        "agent"
+        "autonomous"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -157,79 +137,27 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.28074",
-      "title": "Slot-JEPA: Object-Structured Prediction Interfaces for Latent World Models",
-      "url": "https://huggingface.co/papers/2610.28074",
+      "id": "hf_paper_2610.28711",
+      "title": "Qwen-Audio-3.1-ASR Technical Report",
+      "url": "https://huggingface.co/papers/2610.28711",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-19T20:00:00.000Z",
-      "abstract": "As a prototypical latent world model, Joint-Embedding Predictive Architectures (JEPAs) provide strong semantic representations. However, dense patch representations expose a redundant interface to dow",
+      "abstract": "We present Qwen-Audio-3.1-ASR, a family of audio-language models that builds upon its predecesor Qwen-Audio-3.0-ASR with improved speech recognition and expanded capabilities in speaker-diarized trans",
       "authors": [
-        "Peisong Wen",
-        "Qianqian Xu",
-        "Minye Lei",
-        "Siran Dai",
-        "Yang Liu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.28284",
-      "title": "HRoPE: Homography Relative Positional Encoding",
-      "url": "https://huggingface.co/papers/2610.28284",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-19T20:00:00.000Z",
-      "abstract": "Geometric Relative Positional Encoding has become the primary mechanism for injecting spatial inductive biases into multi-view transformers. Existing designs condition attention on camera-level frustu",
-      "authors": [
-        "Huachen Gao",
-        "Yang Yang",
-        "Xiaoqian Liang",
-        "Xingyu Chen",
-        "Youjia Zhang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.28554",
-      "title": "OverSeer: Multi-Agent World Models Beyond What Agents See",
-      "url": "https://huggingface.co/papers/2610.28554",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-19T20:00:00.000Z",
-      "abstract": "Despite the success of video world models, extending them to multiple agents is difficult because it requires generating several agent-specific video streams that are consistent in time and between ag",
-      "authors": [
-        "Runjia Li",
-        "Kam Woh Ng",
-        "Minghao Chen",
-        "Junlin Han",
-        "Jianyuan Wang"
+        "Chuanmeng Bian",
+        "Daren Chen",
+        "Peixin Chen",
+        "Zhigao Chen",
+        "Chong Deng"
       ],
       "tags": [
-        "agent"
+        "qwen"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -316,7 +244,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 162935,
+      "stars": 163047,
       "votes": 0,
       "points": 0
     },
