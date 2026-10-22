@@ -1,9 +1,39 @@
 {
-  "generatedAt": "2026-10-22T18:14:13.225Z",
+  "generatedAt": "2026-10-22T21:47:08.902Z",
   "date": "18-10-2026",
-  "count": 2,
+  "count": 3,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2610.28679",
+      "title": "VerifierBench: Benchmarking the Generation of Executable Verifiers for LLM Agents",
+      "url": "https://huggingface.co/papers/2610.28679",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-18T20:00:00.000Z",
+      "abstract": "Agents need reliable ways to validate their outputs, both when completing tasks and when filtering synthetic training data. We study verifier generation: from the instruction and environment available",
+      "authors": [
+        "Jianing Yin",
+        "Ziyi Chen",
+        "Hao Wang",
+        "Yiyou Sun",
+        "Zijian Jin"
+      ],
+      "tags": [
+        "llm",
+        "agent",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2610.26659",
       "title": "SpatialScout: Can VLM Agents Actively Explore and Map 3D Scenes?",
@@ -59,7 +89,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 172814,
+      "stars": 173114,
       "votes": 0,
       "points": 0
     }
