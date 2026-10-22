@@ -1,22 +1,52 @@
 {
-  "generatedAt": "2026-10-22T13:56:51.631Z",
+  "generatedAt": "2026-10-22T18:14:13.224Z",
   "date": "19-10-2026",
-  "count": 13,
+  "count": 11,
   "summary": null,
   "items": [
     {
-      "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fit-aint-",
-      "title": "'It Ain't Right:' Texas Said It Would Halt Data Center Permits. The State is Pushing Ahead Anyway",
-      "url": "https://www.404media.co/it-aint-right-texas-said-it-would-halt-data-center-permits-the-state-is-pushing-ahead-anyway/",
-      "source": "404 Media",
-      "sourceIcon": "📡",
-      "type": "news",
-      "timestamp": "2026-10-19T21:40:42.000Z",
-      "abstract": "",
-      "authors": [],
+      "id": "hf_paper_2610.28027",
+      "title": "From RL Papers to Framework Code: Inclusion and Review in Seven Open-Source Training Frameworks",
+      "url": "https://huggingface.co/papers/2610.28027",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-19T20:00:00.000Z",
+      "abstract": "Practitioners use reinforcement learning methods for language models through training frameworks, so a method that a framework includes is one configuration change away for its users. We measure how o",
+      "authors": [
+        "Taiheng Pan"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.28827",
+      "title": "WorldStream: Streaming Interactive 3D Worlds with Hierarchical Planning and Persistent State",
+      "url": "https://huggingface.co/papers/2610.28827",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-19T20:00:00.000Z",
+      "abstract": "We present WorldStream, an open-ended 3D world model with three simultaneous capabilities: it extends playable terrain beyond any pre-specified map, acts on open-ended language in the running world, a",
+      "authors": [
+        "Xiaoxiao Ma",
+        "Weiyang Jin",
+        "Yanwen Ma",
+        "Haoran Li",
+        "Zhixiang Wei"
+      ],
       "tags": [],
-      "score": 4,
-      "priority": "LOW",
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -109,62 +139,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.28887",
-      "title": "Building AI Research Teams for Autonomous Discovery of Linear Attention Architectures",
-      "url": "https://huggingface.co/papers/2610.28887",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-19T20:00:00.000Z",
-      "abstract": "Autonomous agents can increasingly propose ideas, modify code, and run experiments, creating an opportunity to accelerate scientific discovery using teams of collaborative AI researchers. To escape lo",
-      "authors": [
-        "Yujian Liu",
-        "Li An",
-        "Zelin He",
-        "Jacob Helwig",
-        "Jiabao Ji"
-      ],
-      "tags": [
-        "autonomous"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.28711",
-      "title": "Qwen-Audio-3.1-ASR Technical Report",
-      "url": "https://huggingface.co/papers/2610.28711",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-19T20:00:00.000Z",
-      "abstract": "We present Qwen-Audio-3.1-ASR, a family of audio-language models that builds upon its predecesor Qwen-Audio-3.0-ASR with improved speech recognition and expanded capabilities in speaker-diarized trans",
-      "authors": [
-        "Chuanmeng Bian",
-        "Daren Chen",
-        "Peixin Chen",
-        "Zhigao Chen",
-        "Chong Deng"
-      ],
-      "tags": [
-        "qwen"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
       "title": "Making the internet better for AI agents might make it worse for everyone else",
       "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
@@ -244,27 +218,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 163047,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fpolice-s",
-      "title": "Police Say Scammers Used AI to Clone a Sheriff’s Voice",
-      "url": "https://www.404media.co/police-say-scammers-used-ai-to-clone-a-sheriffs-voice/",
-      "source": "404 Media",
-      "sourceIcon": "📡",
-      "type": "news",
-      "timestamp": "2026-10-19T16:16:17.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
+      "stars": 163134,
       "votes": 0,
       "points": 0
     },
