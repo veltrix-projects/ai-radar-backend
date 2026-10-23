@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-10-23T10:17:05.539Z",
+  "generatedAt": "2026-10-23T15:15:10.723Z",
   "date": "19-10-2026",
   "count": 7,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.28889",
-      "title": "Policy-Mask: Budget-Aware Adaptation of Diffusion Features to Discriminative Tasks",
-      "url": "https://huggingface.co/papers/2610.28889",
+      "id": "hf_paper_2610.27712",
+      "title": "RLSplat: Resource-Linear Budget Control for Feed-forward 3D Gaussian Splatting",
+      "url": "https://huggingface.co/papers/2610.27712",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-19T20:00:00.000Z",
-      "abstract": "Selecting intermediate features from a frozen diffusion model for discriminative tasks is non-trivial because the useful signal is distributed across the denoising trajectory, network depth, and chann",
+      "abstract": "Feed-forward 3D Gaussian Splatting (FF3DGS) reconstructs 3D scenes from images in a single forward pass, making it well-suited to applications that must operate within limited resource budgets. To fur",
       "authors": [
-        "Ivan Listopadov",
-        "Maksim Nakhodnov",
-        "Aibek Alanov"
+        "Injae Kim",
+        "Minseok Joo",
+        "Jihwan Park",
+        "Sehyung Kim",
+        "Minseong Bae"
       ],
-      "tags": [
-        "diffusion"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -110,7 +110,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 163334,
+      "stars": 163443,
       "votes": 0,
       "points": 0
     },

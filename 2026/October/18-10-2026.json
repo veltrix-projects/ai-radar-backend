@@ -1,26 +1,53 @@
 {
-  "generatedAt": "2026-10-23T10:17:05.540Z",
+  "generatedAt": "2026-10-23T15:15:10.723Z",
   "date": "18-10-2026",
-  "count": 3,
+  "count": 4,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.26252",
-      "title": "SEAM: Spectral Embedding Alignment and Merging for Low-Resource TTS",
-      "url": "https://huggingface.co/papers/2610.26252",
+      "id": "hf_paper_2610.27148",
+      "title": "Who Takes the Lead? Model Ability and Task-Conditioned Collaboration with Humans",
+      "url": "https://huggingface.co/papers/2610.27148",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-18T20:00:00.000Z",
-      "abstract": "Expanding the vocabulary of conditional text-to-speech (TTS) models typically requires extensive fine-tuning with paired audio, creating a major bottleneck for low-resource and cross-lingual adaptatio",
+      "abstract": "As language-model agents grow more capable, they can carry more of a task without asking anyone for help. Falling reliance on a human partner is easy to read as a failure of collaboration when it may",
       "authors": [
-        "Walaa Othman",
-        "Baher Mohammad",
-        "Stamatios Lefkimmiatis",
-        "Ammar Ali"
+        "Weien Li",
+        "Haochen Liu",
+        "Zeyu Li",
+        "Rui Song",
+        "Zixuan Dong"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.19705",
+      "title": "RouteWeaver: Weaving Mode Selection and Execution into Unified LLM Routing",
+      "url": "https://huggingface.co/papers/2610.19705",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-18T20:00:00.000Z",
+      "abstract": "LLM routing dynamically selects and coordinates heterogeneous language models across diverse tasks. However, existing approaches are largely built around a predefined execution paradigm, such as singl",
+      "authors": [
+        "Xiaohan Wang",
+        "Haozhen Zhang",
+        "Qingyuan Liu",
+        "Tao Feng",
+        "Wenya Wang"
       ],
       "tags": [
-        "alignment"
+        "llm"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -32,22 +59,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.30181",
-      "title": "Deep Search in Real-World Web Environments",
-      "url": "https://huggingface.co/papers/2610.30181",
+      "id": "hf_paper_2610.26233",
+      "title": "Heartbeat Thinking: Speculative Reasoning and Tool Execution While Listening in Realtime Voice Agents",
+      "url": "https://huggingface.co/papers/2610.26233",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-18T20:00:00.000Z",
-      "abstract": "Despite substantial progress in Deep Search agents, their ability to conduct end-to-end research in real-world open Web environments remains insufficiently evaluated. Unlike static retrieval settings,",
+      "abstract": "Tool-using voice agents often leave users waiting after speech ends, even when actionable information arrives earlier in the request. Speculative approaches begin work during speech, but chunk-bounded",
       "authors": [
-        "Xiaomin Yu",
-        "Hongliang Chen",
-        "Zhe Huang",
-        "Shilin Yan",
-        "Shao-Rong Su"
+        "Zhenyu Zhang",
+        "Kewei Fu",
+        "Yongqi Tong",
+        "Chenzhi Zheng",
+        "Wei Wu"
       ],
-      "tags": [],
+      "tags": [
+        "agent"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -84,7 +113,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 173807,
+      "stars": 174508,
       "votes": 0,
       "points": 0
     }

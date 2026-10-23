@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T10:17:05.539Z",
+  "generatedAt": "2026-10-23T15:15:10.722Z",
   "date": "20-10-2026",
   "count": 9,
   "summary": null,
@@ -30,7 +30,32 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 286657,
+      "stars": 287050,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.30468",
+      "title": "SplatLab: Autonomous Scientific Discovery for 3DGS Research",
+      "url": "https://huggingface.co/papers/2610.30468",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-20T20:00:00.000Z",
+      "abstract": "Reproducing a published 3DGS paper takes weeks of expert engineering before any extension can be proposed. Prior autonomous-research systems read papers, draft hypotheses, and write code, but are limi",
+      "authors": [
+        "Seemandhar Jain",
+        "Manmohan Chandraker"
+      ],
+      "tags": [
+        "autonomous"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
       "votes": 0,
       "points": 0
     },
@@ -77,34 +102,6 @@
         "Kaixin Li"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.30340",
-      "title": "Foundation4D: Towards a unified perception and reconstruction model for autonomous vehicles",
-      "url": "https://huggingface.co/papers/2610.30340",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-20T20:00:00.000Z",
-      "abstract": "We introduce Foundation4D, a unified feed-forward model for geometry estimation, 3D detection, semantic occupancy, and Gaussian reconstruction from multi-camera driving video. A shared backbone uses f",
-      "authors": [
-        "NVIDIA",
-        "Sérgio Agostinho",
-        "Maximilian Apodaca",
-        "Emmanuel Attia",
-        "Guillem Braso"
-      ],
-      "tags": [
-        "autonomous"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

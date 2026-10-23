@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-23T10:17:05.543Z",
+  "generatedAt": "2026-10-23T15:15:10.726Z",
   "date": "07-10-2026",
-  "count": 1,
+  "count": 2,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,32 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.12586",
+      "title": "Realism VS Accuracy: Event Sequence Forecasting from a Generative Modeling Perspective",
+      "url": "https://huggingface.co/papers/2610.12586",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-07T20:00:00.000Z",
+      "abstract": "Event sequences are chains of random events, each described by heterogeneous (numerical and categorical) features. The problem of event sequence forecasting occurs in finance, healthcare, business pro",
+      "authors": [
+        "Dmitry Osin",
+        "Egor Surkov",
+        "Petr Mokrov",
+        "Igor Udovichenko",
+        "Ivan Karpukhin"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
