@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T19:22:20.882Z",
+  "generatedAt": "2026-10-24T00:52:30.522Z",
   "date": "19-10-2026",
   "count": 7,
   "summary": null,
@@ -21,32 +21,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.27712",
-      "title": "RLSplat: Resource-Linear Budget Control for Feed-forward 3D Gaussian Splatting",
-      "url": "https://huggingface.co/papers/2610.27712",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-19T20:00:00.000Z",
-      "abstract": "Feed-forward 3D Gaussian Splatting (FF3DGS) reconstructs 3D scenes from images in a single forward pass, making it well-suited to applications that must operate within limited resource budgets. To fur",
-      "authors": [
-        "Injae Kim",
-        "Minseok Joo",
-        "Jihwan Park",
-        "Sehyung Kim",
-        "Minseong Bae"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -113,7 +87,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 163475,
+      "stars": 163511,
       "votes": 0,
       "points": 0
     },
@@ -154,6 +128,34 @@
       ],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.25835",
+      "title": "Diffusion Language Models Change Speed Across Tasks and Languages",
+      "url": "https://huggingface.co/papers/2610.25835",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-19T01:47:58.000Z",
+      "abstract": "Diffusion language models can write several tokens in one forward pass, and they decide during generation how many passes to spend. Two outputs of the same token length can therefore vary a lot in cos",
+      "authors": [
+        "Mohsen Fayyaz",
+        "Ali Modarressi",
+        "Daniel Israel",
+        "Lucas Bandarkar",
+        "Nanyun Peng"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
