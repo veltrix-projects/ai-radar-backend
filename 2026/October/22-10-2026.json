@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-26T11:53:22.065Z",
+  "generatedAt": "2026-10-26T17:55:49.135Z",
   "date": "22-10-2026",
-  "count": 25,
+  "count": 24,
   "summary": null,
   "items": [
     {
@@ -45,6 +45,78 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2606.00778",
+      "title": "A path-following framework on fiber bundle for variational inequalities",
+      "url": "https://huggingface.co/papers/2606.00778",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-22T20:00:00.000Z",
+      "abstract": "Developing general-purpose algorithms with global asymptotic convergence guarantees for variational inequalities (VIs) remains a longstanding challenge. This paper proposes a path-following framework",
+      "authors": [
+        "Hongbo Sun"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2609.16158",
+      "title": "The fixed-point bundle method over product-of-simplex domains arising from game equilibria",
+      "url": "https://huggingface.co/papers/2609.16158",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-22T20:00:00.000Z",
+      "abstract": "Developing general-purpose algorithms with global asymptotic convergence guarantees for Nash equilibria of general-sum games remains a longstanding challenge. This paper extends the fixed-point bundle",
+      "authors": [
+        "Hongbo Sun"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.32770",
+      "title": "On-Policy Self-Training: Data-Free Self-Improvement in Large Language Models",
+      "url": "https://huggingface.co/papers/2610.32770",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-22T20:00:00.000Z",
+      "abstract": "On-policy self-distillation enables post-training foundation models without relying on stronger external teachers. However, existing approaches rely on ground-truth question-answer pairs, human-curate",
+      "authors": [
+        "Leon Sick",
+        "Lukas Hoyer",
+        "Yannick Strümpler",
+        "Christian Reisswig",
+        "Timo Ropinski"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2610.32894",
       "title": "LoCA: Enabling Multi-Modality in Geospatial Location Encoders",
       "url": "https://huggingface.co/papers/2610.32894",
@@ -61,114 +133,6 @@
         "Dimitris Christofis"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.32250",
-      "title": "Easy-3Dfy: Object-Level Geometric Composition for Single-Image 3D Scene Construction",
-      "url": "https://huggingface.co/papers/2610.32250",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-22T20:00:00.000Z",
-      "abstract": "Single-image 3D scene construction is a fundamental problem in 3D vision. Recent methods such as SAM-3Dfy enable end-to-end reconstruction of 3D assets and their scene layouts, but still struggle with",
-      "authors": [
-        "Ziang Zhang",
-        "Wenyou Yi",
-        "Zehan Wang",
-        "Jiachen Xu",
-        "Xintong Han"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.32253",
-      "title": "RSIHub: A Composable Framework for Agent-Evolution Methods",
-      "url": "https://huggingface.co/papers/2610.32253",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-22T20:00:00.000Z",
-      "abstract": "Agent-evolution methods use execution feedback to improve prompts, skills, tools, and orchestration, but their implementations often rebuild the same experimental machinery. We present RSIHub, an open",
-      "authors": [
-        "Zimu Wang",
-        "Xiaobo Wang",
-        "Siyu Ye",
-        "Jiaqi Li",
-        "Silin Chen"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.32965",
-      "title": "RynnUnify: Towards Unified Embodied Brain",
-      "url": "https://huggingface.co/papers/2610.32965",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-22T20:00:00.000Z",
-      "abstract": "We introduce RynnUnify, a 16B unified embodied model that combines strong embodied understanding with long-horizon visual planning through interleaved video--language reasoning. With capabilities span",
-      "authors": [
-        "Minghao Zhu",
-        "Bohan Hou",
-        "Kun Xiang",
-        "Zixuan Wang",
-        "Yinzhou Tang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.32909",
-      "title": "HoloBoxing: A Simple Recipe for Humanoid Boxing with 7 Minutes of Single-GPU Training",
-      "url": "https://huggingface.co/papers/2610.32909",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-22T20:00:00.000Z",
-      "abstract": "HoloBoxing presents a simple recipe for learning humanoid boxing by building on a pretrained whole-body controller. The recipe separates reusable motor skills from task decisions: a compact planner re",
-      "authors": [
-        "Xihan Ma",
-        "Bo Zhang",
-        "Boxiong Li",
-        "Yuhan Bao",
-        "Ziyue Liu"
-      ],
-      "tags": [
-        "training"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
