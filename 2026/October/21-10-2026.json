@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-26T05:36:14.082Z",
+  "generatedAt": "2026-10-26T11:53:22.067Z",
   "date": "21-10-2026",
-  "count": 19,
+  "count": 20,
   "summary": null,
   "items": [
     {
@@ -25,47 +25,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.31198",
-      "title": "Different Tasks, Different Timesteps: Temporal Task-Aware Quantization for Diffusion Language Models",
-      "url": "https://huggingface.co/papers/2610.31198",
+      "id": "hf_paper_2610.32002",
+      "title": "DraMaze: A Multi-Agent Pipeline with Future-Aware Memory for Diverse Microdrama Script Generation",
+      "url": "https://huggingface.co/papers/2610.32002",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-21T20:00:00.000Z",
-      "abstract": "Diffusion Language Models (DLMs) introduce unique quantization challenges due to their iterative denoising process. In this work, we reveal that quantization sensitivity is both taskand time-dependent",
+      "abstract": "The rapid growth of microdramas has increased demand for high-quality script production. Long-form microdrama script generation with LLMs requires both diverse plot progression and long-range narrativ",
       "authors": [
-        "Ofek Avivi",
-        "Eliron Rahimi",
-        "Avi Mendelson",
-        "Chaim Baskin"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.31651",
-      "title": "BrickWright: Agentic Creation of Physically Feasible Brick Builds",
-      "url": "https://huggingface.co/papers/2610.31651",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-21T20:00:00.000Z",
-      "abstract": "Frontier coding agents are becoming increasingly adept at 3D modeling. Yet, they still face challenges when building objects meant to be assembled in the physical world, often creating invalid assembl",
-      "authors": [
-        "Ava Pun",
-        "Kevin Dai",
-        "Sally Chen",
-        "Maxwell Jones",
-        "Ruixuan Liu"
+        "Siyang He",
+        "Qiqi Wang",
+        "Fan Liu",
+        "Yuncheng Huang",
+        "Pengfei Xu"
       ],
       "tags": [
         "agent"
@@ -80,20 +53,72 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.30753",
-      "title": "FilmFlow: Agentic System for 3D Virtual Film Cinematography",
-      "url": "https://huggingface.co/papers/2610.30753",
+      "id": "hf_paper_2610.31931",
+      "title": "Every Weight Is a Path of Shared Discrete Decisions",
+      "url": "https://huggingface.co/papers/2610.31931",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-21T20:00:00.000Z",
-      "abstract": "Complex camera motion is central to visual storytelling, yet translating cinematographic intent into controllable, executable camera trajectories remains challenging. We introduce FilmFlow, an agentic",
+      "abstract": "We introduce TWIG (Tree-structured Weights with Inherited Gates), a representation in which every weight of a neural network is the end of a path of small discrete decisions: a sign, a shift by a powe",
       "authors": [
-        "Yiming Zhang",
-        "Jiarui Guo",
-        "Haojia Wei",
-        "Yifei Liu",
-        "Yifan Yang"
+        "Ammar Ali",
+        "Stamatis Lefkimmiatis"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.31066",
+      "title": "Dual Exam: Controlled Evaluation of Multimodal Agents and World Models",
+      "url": "https://huggingface.co/papers/2610.31066",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-21T20:00:00.000Z",
+      "abstract": "World Models (WMs) can support Multimodal Agents (MAs) through simulated experience, while Agent trajectories can inform World Model refinement. Evaluating this interaction requires separate evidence",
+      "authors": [
+        "Zhefan Rao",
+        "Meng Chu",
+        "Xuan Zhang",
+        "Jingfan Chen",
+        "Guohao Cai"
+      ],
+      "tags": [
+        "multimodal",
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.31162",
+      "title": "HiSTEVE 1.0: Harnessing Human-Interface VLA Agents for Open-World Games",
+      "url": "https://huggingface.co/papers/2610.31162",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-21T20:00:00.000Z",
+      "abstract": "Building virtual embodied agents that operate in open-ended games like human players is a long-standing goal requiring both long-horizon autonomy and reliable native-interface control. As a procedural",
+      "authors": [
+        "Zecong Tang",
+        "Zian Guan",
+        "Yuncheng Guo",
+        "Zhanqiu Zhang",
+        "Yiwen Guo"
       ],
       "tags": [
         "agent"
@@ -108,24 +133,50 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.31372",
-      "title": "RIDAR: Safeguarding Research Integrity in Autonomous Research Agents via Automated Detection and Runtime Intervention",
-      "url": "https://huggingface.co/papers/2610.31372",
+      "id": "hf_paper_2610.31569",
+      "title": "Echo: Coupled Action and Task Status Signal Denoising for Vision Language Action Models",
+      "url": "https://huggingface.co/papers/2610.31569",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-21T20:00:00.000Z",
-      "abstract": "Autonomous research agents are increasingly used to automate large portions of scientific research, yet they are prone to research integrity violations (RIVs): behaviors that compromise the validity,",
+      "abstract": "Recognizing task completion and failure enables robots to stop upon success and initiate recovery or replanning after failure. Existing methods augment Vision Language Action (VLA) policies with task",
       "authors": [
-        "Jiening Siow",
-        "Amy Xin",
-        "Junjie Wang",
-        "Ziyu Tang",
-        "Zijun Yao"
+        "Yufeng Liu",
+        "Bohao Fan",
+        "Juntu Zhao",
+        "Xinyi Wang",
+        "Hang Yu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.30932",
+      "title": "UserArena: Benchmarking Interactive User Simulation for Long-Horizon Shopping Agents",
+      "url": "https://huggingface.co/papers/2610.30932",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-21T20:00:00.000Z",
+      "abstract": "Agentic recommendation pursues shopper goals through sequences of context-dependent decisions. Developing and evaluating such policies requires faithful recommendation world models that capture both t",
+      "authors": [
+        "Jujia Zhao",
+        "Jiakai Tang",
+        "Jing Yu",
+        "Wen Chen",
+        "Jian Wu"
       ],
       "tags": [
         "agent",
-        "autonomous"
+        "benchmark"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -137,48 +188,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.30949",
-      "title": "IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems",
-      "url": "https://huggingface.co/papers/2610.30949",
+      "id": "hf_paper_2610.31734",
+      "title": "DirCast: Live Esports Directing and Commentary with a Single Streaming Video-Language Model",
+      "url": "https://huggingface.co/papers/2610.31734",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-21T20:00:00.000Z",
-      "abstract": "We present IQuest-Q1, a sparse Mixture-of-Experts (MoE) agentic foundation model with 320B total parameters (15B activated). IQuest-Q1 is developed through a three-stage process: (1) stable and effici",
+      "abstract": "A live esports broadcast needs a director who chooses which camera goes on air and a caster who talks over that choice, every second and without knowing what comes next. Streaming video language model",
       "authors": [
-        "A. Jian Yang",
-        "An Huang",
-        "Bo Dan",
-        "Chen Mu",
-        "Chengran Yang"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.31329",
-      "title": "WeVisOne-VL: Unified Visual Perception from Objects to Pixels",
-      "url": "https://huggingface.co/papers/2610.31329",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-21T20:00:00.000Z",
-      "abstract": "Existing vision-language models (VLMs) remain unreliable for fine-grained visual perception. In this report, we present WeVisOne-VL (WeChat Vision All-in-One), a powerful VLM that unifies object-level",
-      "authors": [
-        "Tianming Liang",
-        "Junyi Pan",
-        "Yuxi Li",
-        "Canmiao Fu",
-        "Zhipeng Huang"
+        "Zixian Gao",
+        "Lixin Xiu",
+        "Penghao Luo",
+        "Xiangcheng Cao",
+        "Ziqi Cai"
       ],
       "tags": [],
       "score": 6,

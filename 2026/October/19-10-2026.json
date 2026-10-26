@@ -1,26 +1,32 @@
 {
-  "generatedAt": "2026-10-26T05:36:14.084Z",
+  "generatedAt": "2026-10-26T11:53:22.068Z",
   "date": "19-10-2026",
   "count": 6,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.28950",
-      "title": "HyperDrone: Simulation-to-Reality Transfer at Millions of Frames per Second",
-      "url": "https://huggingface.co/papers/2610.28950",
+      "id": "hf_paper_2610.23234",
+      "title": "MultiAgent-OPD: End-to-End Training of Hierarchical Multi-Agent Systems with On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2610.23234",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-19T20:00:00.000Z",
-      "abstract": "We present HyperDrone, an extremely fast quadrotor simulator focused on high-performance batch rendering that is more than 20x faster than existing state-of-the-art batch quadrotor simulators. HyperDr",
+      "abstract": "In a hierarchical multi-agent system, a Leader assigns tasks and subagents carry them out. Jointly training the Leader and the subagents is difficult because a final answer gives only indirect feedbac",
       "authors": [
-        "Jonas Eschmann",
-        "Giuseppe Loianno"
+        "Yuhan Sun",
+        "Jiaxin Zhao",
+        "Yongdong Luo",
+        "Yibo Hu",
+        "Meiguang Jin"
       ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "tags": [
+        "agent",
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
