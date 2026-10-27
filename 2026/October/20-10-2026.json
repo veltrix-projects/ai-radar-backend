@@ -1,52 +1,28 @@
 {
-  "generatedAt": "2026-10-26T17:55:49.137Z",
+  "generatedAt": "2026-10-27T01:32:35.635Z",
   "date": "20-10-2026",
-  "count": 5,
+  "count": 4,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.30006",
-      "title": "Building Auditable AI Text Detectors with Sparse Autoencoders",
-      "url": "https://huggingface.co/papers/2610.30006",
+      "id": "hf_paper_2610.30524",
+      "title": "LLM2Cert: LLM Synthesis of Certificates with SMT/Lean Verification",
+      "url": "https://huggingface.co/papers/2610.30524",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-20T20:00:00.000Z",
-      "abstract": "AI-generated text detectors are increasingly deployed in consequential settings---peer review, education, admissions, journalism, and content moderation---where their outputs directly affect individua",
+      "abstract": "Lyapunov functions and barrier certificates give state-space guarantees of stability and safety, but synthesizing and verifying them---especially for nonlinear, high-dimensional systems---remains an o",
       "authors": [
-        "Liam Dugan",
-        "Callum McDougall",
-        "Matthew Denton",
-        "Philip Pham",
-        "Christine Kaeser-Chen"
+        "Zhipeng Cao",
+        "Peiyang Song",
+        "Nikolaus Vertovec",
+        "Weiru Cui",
+        "Zhihao Yang"
       ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.29477",
-      "title": "TenetBench: A Clause-Anchored Russian Corpus for Evaluating Language Models against Professional Codes of Ethics",
-      "url": "https://huggingface.co/papers/2610.29477",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-20T20:00:00.000Z",
-      "abstract": "Codes of professional ethics guide and restrict specialists, who increasingly work with assistants built on large language models. Such an assistant can breach the user's code, or help the user breach",
-      "authors": [
-        "Yegor Anichkov",
-        "Valery Vinogradov",
-        "Andrey Furov",
-        "Marina Polukoshko",
-        "Sergey Bolovtsov"
+      "tags": [
+        "llm"
       ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
