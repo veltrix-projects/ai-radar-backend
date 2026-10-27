@@ -1,24 +1,99 @@
 {
-  "generatedAt": "2026-10-27T07:02:58.634Z",
+  "generatedAt": "2026-10-27T13:25:06.926Z",
   "date": "23-10-2026",
-  "count": 14,
+  "count": 18,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.33568",
-      "title": "Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents",
-      "url": "https://huggingface.co/papers/2610.33568",
+      "id": "hf_paper_2610.33608",
+      "title": "Mycelium: A Meta-Study of Hallucination Detection Across Provenance, Typology, and Granularities",
+      "url": "https://huggingface.co/papers/2610.33608",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-23T20:00:00.000Z",
-      "abstract": "Successful tool-use trajectories are not necessarily useful supervision. Even successful interactions may underrepresent multi-step dependencies or contain actions that are unjustified by the informat",
+      "abstract": "Hallucination detection is increasingly important for evaluating and deploying large language models. However, existing methods are often compared across benchmarks that define and measure hallucinati",
       "authors": [
-        "Yihao Hu",
-        "Zhihao Wen",
-        "Yitong Lin",
-        "Siyuan Lu",
-        "Pan Wang"
+        "Julia Belikova",
+        "Elisei Rykov"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.33512",
+      "title": "Eat Your Precision: Precision Objective Mitigates Reward Hacking in Rubric-based RL",
+      "url": "https://huggingface.co/papers/2610.33512",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-23T20:00:00.000Z",
+      "abstract": "Rubric-based rewards enable effective reinforcement learning on non-verifiable tasks. However, because these rewards are typically defined as a weighted measure of rubric coverage, models are trained",
+      "authors": [
+        "Hyun Ryu",
+        "Jong-Heon Kim",
+        "Yiqing Xie",
+        "Seungone Kim",
+        "Carolyn Rose"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.33845",
+      "title": "Build, Don't Play: Self-Improving LLM Research Agents Develop a Hearthstone Battlegrounds AI That Rivals Top Players",
+      "url": "https://huggingface.co/papers/2610.33845",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-23T20:00:00.000Z",
+      "abstract": "Can LLM agents carry a hard real-world problem from raw data to a system that holds its own against people? We study this in Hearthstone Battlegrounds, an eight-player auto-battler with stochastic sho",
+      "authors": [
+        "Changlian Ma",
+        "Limin Wang"
+      ],
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.33503",
+      "title": "Novel or Not? PatEx-Gym: Agentic Prior-Art Search for Novelty Assessment in Patent Examination",
+      "url": "https://huggingface.co/papers/2610.33503",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-23T20:00:00.000Z",
+      "abstract": "Patent examination is a challenging real-world task that requires agents to discover sparse prior art, iteratively refine queries, inspect technical evidence, and produce novelty assessments documente",
+      "authors": [
+        "Qiyao Wang",
+        "Xinyi Chen",
+        "Hongbo Wang",
+        "Jiayuan Lu",
+        "Jianhang Li"
       ],
       "tags": [
         "agent"
@@ -26,6 +101,35 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.33472",
+      "title": "Qwen-Image-PE: Learning Visual Design for Text-to-Image Prompt Enhancement",
+      "url": "https://huggingface.co/papers/2610.33472",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-23T20:00:00.000Z",
+      "abstract": "Learning visual design is essential for prompt enhancement (PE) to turn underspecified user requests into coherent visual specifications for text-to-image (T2I) generation. Existing methods preserve u",
+      "authors": [
+        "Zekai Zhang",
+        "Yanran Zhang",
+        "Shengming Yin",
+        "Yan Shu",
+        "Zhening Liu"
+      ],
+      "tags": [
+        "qwen",
+        "text-to-image"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -289,7 +393,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 305645,
+      "stars": 305789,
       "votes": 0,
       "points": 0
     },

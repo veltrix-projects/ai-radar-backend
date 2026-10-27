@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-10-27T07:02:58.641Z",
+  "generatedAt": "2026-10-27T13:25:06.931Z",
   "date": "06-10-2026",
-  "count": 2,
+  "count": 3,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2610.23928",
+      "title": "miniTE: Diagnosing and Bridging the Execution Gap in Native NVFP4 Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2610.23928",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-06T20:00:00.000Z",
+      "abstract": "Native NVFP4 promises to accelerate reinforcement learning (RL) for large language models (LLMs), but achieving stable learning across separate training and sampling engines remains challenging. We sh",
+      "authors": [
+        "Zhen Li",
+        "Mingfa Feng",
+        "Yiming Zhang",
+        "Yang Yu",
+        "Changhai Zhou"
+      ],
+      "tags": [
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "google_deepmind_https%3A%2F%2Fdeepmind.google%2Fblog%2Fe",
       "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
