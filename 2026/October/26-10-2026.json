@@ -1,29 +1,9 @@
 {
-  "generatedAt": "2026-10-28T14:41:59.230Z",
+  "generatedAt": "2026-10-28T19:58:53.145Z",
   "date": "26-10-2026",
-  "count": 35,
+  "count": 32,
   "summary": null,
   "items": [
-    {
-      "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fai-arti",
-      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-      "source": "The Verge AI",
-      "sourceIcon": "🔺",
-      "type": "news",
-      "timestamp": "2026-10-26T23:34:58.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fgrept",
       "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
@@ -47,26 +27,6 @@
       "points": 0
     },
     {
-      "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fai-arti",
-      "title": "Anthropic is burning gas to feed the AI boom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
-      "source": "The Verge AI",
-      "sourceIcon": "🔺",
-      "type": "news",
-      "timestamp": "2026-10-26T21:45:31.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fproton-t",
       "title": "Proton To ‘Re-Interview’ Staff About AI To See Who Gets To Keep Their Job",
       "url": "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/",
@@ -80,6 +40,62 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.37364",
+      "title": "EmbeddingGemma 2: Unified and Efficient Multimodal Representations",
+      "url": "https://huggingface.co/papers/2610.37364",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-26T20:00:00.000Z",
+      "abstract": "We present EmbeddingGemma 2, an open multimodal embedding model which natively represents text, images, audio, video, and combinations thereof in a unified space. Our approach introduces improvements",
+      "authors": [
+        "Henrique Schechter Vera",
+        "Sahil Dua",
+        "Jovan Andonov",
+        "Sara Smoot",
+        "Sebastian Russo"
+      ],
+      "tags": [
+        "multimodal"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.37037",
+      "title": "Zooming without Zooming v2: From Seeing Details to Connecting Evidence for Generalizable Multimodal Perception",
+      "url": "https://huggingface.co/papers/2610.37037",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-26T20:00:00.000Z",
+      "abstract": "Multimodal perception forms the foundation of multimodal intelligence. In particular, spatial perception and multimodal long-context understanding are two pivotal tasks that underpin embodied AI and m",
+      "authors": [
+        "Lai Wei",
+        "Yatai Li",
+        "Liangbo He",
+        "Jun Lan",
+        "Renjie Gu"
+      ],
+      "tags": [
+        "multimodal"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -324,81 +340,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.37386",
-      "title": "Channel Selection for Mixture-of-Experts Decoding Needs No Calibration Data",
-      "url": "https://huggingface.co/papers/2610.37386",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-26T20:00:00.000Z",
-      "abstract": "Mixture-of-Experts (MoE) models are bottlenecked by loading routed-expert weights from memory during interactive decoding at small batch sizes. Because most intermediate channels in a routed expert co",
-      "authors": [
-        "Geunhyoung Kim",
-        "Sung Ju Hwang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.37341",
-      "title": "CodeCap-Bench: Can Code Serve as a Good Video Caption?",
-      "url": "https://huggingface.co/papers/2610.37341",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-26T20:00:00.000Z",
-      "abstract": "Video captioning aims to preserve visual information through compact descriptions, predominantly using natural language. However, precisely expressing fine-grained spatial structures and temporal dyna",
-      "authors": [
-        "Jiafu Tang",
-        "Yifan Xu",
-        "Eric Tang",
-        "Junjie Zhao",
-        "Shipeng Luo"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.37666",
-      "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
-      "url": "https://huggingface.co/papers/2610.37666",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-26T20:00:00.000Z",
-      "abstract": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstra",
-      "authors": [
-        "Chaehyun Kim",
-        "Chi-Pin Huang",
-        "Jisoo Kim",
-        "Min-Hung Chen",
-        "Yu-Chiang Frank Wang"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
       "title": "Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3",
       "url": "https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3/",
@@ -461,28 +402,6 @@
       "points": 0
     },
     {
-      "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fnews%2F",
-      "title": "The RealReal won’t let AI agents hog designer clothing",
-      "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
-      "source": "The Verge AI",
-      "sourceIcon": "🔺",
-      "type": "news",
-      "timestamp": "2026-10-26T17:30:55.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
       "title": "Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock",
       "url": "https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/",
@@ -520,6 +439,28 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls",
+      "url": "https://www.marktechpost.com/2026/10/26/nace-ai-releases-drex-for-search-for-ai-agents/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-10-26T16:46:09.000Z",
+      "abstract": "Nace AI has released Drex for Search, bringing its Drex decision models to document search for AI agents. Nace reports 92.05% on BrowseComp-Plus with 12.6 search calls, and fewer agent turns on Office",
+      "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -719,6 +660,29 @@
       "points": 0
     },
     {
+      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
+      "title": "Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang",
+      "url": "https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/",
+      "source": "MarkTechPost",
+      "sourceIcon": "📘",
+      "type": "research",
+      "timestamp": "2026-10-26T07:56:45.000Z",
+      "abstract": "Tsinghua researchers released AKV, an SGLang-based serving system for cache engineering. LLM agents drop and reposition KV cache instead of summarizing history, cutting average cost 27.7% across 4 age",
+      "authors": [],
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Ffanat",
       "title": "How Fanatics and OpenAI streamline the fan experience",
       "url": "https://openai.com/index/fanatics-streamline-fan-experience",
@@ -784,29 +748,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 291199,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fintro",
-      "title": "Introducing GPT-6.1 Terra",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-10-26T00:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "gpt"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
+      "stars": 291468,
       "votes": 0,
       "points": 0
     }
