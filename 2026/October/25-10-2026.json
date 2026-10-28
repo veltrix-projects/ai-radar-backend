@@ -1,9 +1,106 @@
 {
-  "generatedAt": "2026-10-28T19:58:53.146Z",
+  "generatedAt": "2026-10-28T23:53:54.521Z",
   "date": "25-10-2026",
   "count": 8,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2610.36184",
+      "title": "Lipi-Ghor: A Large-Scale, Diarized, Multi-Domain Bengali Speech Corpus and a Scalable Pipeline for Building It",
+      "url": "https://huggingface.co/papers/2610.36184",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-25T20:00:00.000Z",
+      "abstract": "Bengali, spoken by over 230 million people, remains severely under-resourced in spoken language research. Existing open Bengali ASR corpora are confined to short, read or crowd-sourced speech and lack",
+      "authors": [
+        "Sanjid Hasan",
+        "A H M Fuad",
+        "Risalat Labib",
+        "Bayazid Hasan Simon"
+      ],
+      "tags": [
+        "speech"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.36192",
+      "title": "Beyond the Estimate: Wiener-Informed Decoding for Easier Training of Pixel-Space Flow Models",
+      "url": "https://huggingface.co/papers/2610.36192",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-25T20:00:00.000Z",
+      "abstract": "Learning velocity fields directly in pixel space is difficult and slow. We show that coarse second-order image statistics can ease this task: frozen Wiener estimates improve velocity learning, with ga",
+      "authors": [
+        "Ziqiao Wang",
+        "Yang You"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.34894",
+      "title": "What Outcome RL Buys: Finishing, Reliability, Rarely Reach",
+      "url": "https://huggingface.co/papers/2610.34894",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-25T20:00:00.000Z",
+      "abstract": "Outcome RL raises pass@1 but not pass@k at large k (Yue et al., 2025). But every pass@1 is scored under a token budget. Every recipe also trains under one. On physics and math problems at fixed token",
+      "authors": [
+        "Shan Yang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.36082",
+      "title": "How Much Does the Hint Matter? Scope Conditions for Hindsight Self-Distillation in Financial Reasoning",
+      "url": "https://huggingface.co/papers/2610.36082",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-25T20:00:00.000Z",
+      "abstract": "Financial institutions operating under data-residency constraints are restricted to open-weight models small enough to locally host, which trail frontier systems on multi-step quantitative reasoning.",
+      "authors": [
+        "Johnny Yu",
+        "Cyril Gorlla"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2610.35013",
       "title": "Multiscale Policy Optimization for Long-Horizon LLM Agents",
@@ -62,118 +159,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.34674",
-      "title": "Benchmarking Obstacle-Conditioned Safety in Household Robot Navigation",
-      "url": "https://huggingface.co/papers/2610.34674",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-25T20:00:00.000Z",
-      "abstract": "Safe household navigation requires robots to regulate clearance and speed according to what an obstacle is and how close it is, without unnecessary conservatism. Yet existing evaluations do not test w",
-      "authors": [
-        "Hyunwoong Bae",
-        "Jisu Han",
-        "Jiyeon Choi",
-        "Dohoon Kim",
-        "Taesup Moon"
-      ],
-      "tags": [
-        "benchmark",
-        "safety"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.36077",
-      "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
-      "url": "https://huggingface.co/papers/2610.36077",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-25T20:00:00.000Z",
-      "abstract": "Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. However, scaling this process faces two bottlenecks: constructing heterogeneous, verif",
-      "authors": [
-        "Weidong Tang",
-        "Ruiheng Wang",
-        "Jingxuan Zhang",
-        "Hexin Wang",
-        "Haoyuan Chen"
-      ],
-      "tags": [
-        "multimodal",
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.34921",
-      "title": "PhysEvolve: Verifier-grounded Self-evolution for Physical Reasoning with Executable Worlds",
-      "url": "https://huggingface.co/papers/2610.34921",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-25T20:00:00.000Z",
-      "abstract": "Physical reasoning underpins how embodied systems understand and act in the physical world, yet vision-language models (VLMs) remain unreliable on questions about dynamics and physical causality. Prog",
-      "authors": [
-        "Jinyuan Hu",
-        "Yilei Jiang",
-        "Chen Tang",
-        "Minghong Cai",
-        "Xinran Liu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.26185",
-      "title": "MoveBench: A Rubric-Based Benchmark for Evaluating Large Language Models in Sports and Health Coaching",
-      "url": "https://huggingface.co/papers/2610.26185",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-25T20:00:00.000Z",
-      "abstract": "Despite rapid advances in large language models (LLMs), their deployment in the sports and health domain remains high-risk due to the absence of domain-specific evaluation benchmarks. Existing general",
-      "authors": [
-        "Yitong Li",
-        "Jiang Bian",
-        "Jingling Wang",
-        "Pan Ding",
-        "Chengying Gu"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "gh_132464395",
       "title": "Snailclimb/JavaGuide — Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
       "url": "https://github.com/Snailclimb/JavaGuide",
@@ -200,7 +185,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 159316,
+      "stars": 159317,
       "votes": 0,
       "points": 0
     },
@@ -222,7 +207,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 164782,
+      "stars": 164841,
       "votes": 0,
       "points": 0
     }
