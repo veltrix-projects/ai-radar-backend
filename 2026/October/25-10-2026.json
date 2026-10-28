@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-27T22:44:59.931Z",
+  "generatedAt": "2026-10-28T01:55:14.391Z",
   "date": "25-10-2026",
-  "count": 12,
+  "count": 10,
   "summary": null,
   "items": [
     {
@@ -20,6 +20,34 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.35295",
+      "title": "Did the Model Use That? Counterfactual Training Boosts Self-Attribution in Language Models",
+      "url": "https://huggingface.co/papers/2610.35295",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-25T20:00:00.000Z",
+      "abstract": "A fundamental challenge for explainable and accountable language models is revealing how external information influences their answers. This paper examines whether models are self-attributive: that is",
+      "authors": [
+        "Zikai Zhou",
+        "Jiacheng Sang",
+        "Yilin Xu",
+        "Yufei Jin",
+        "Monica S. Lam"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -129,57 +157,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.35001",
-      "title": "More Memory, Better Videos? A Controlled Study of Visual Memory in Long-Video Generation",
-      "url": "https://huggingface.co/papers/2610.35001",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-25T20:00:00.000Z",
-      "abstract": "Long-video generators increasingly retrieve past visual observations to prevent identity drift. The intuition is compelling: more access to history should make future video more consistent. But an ima",
-      "authors": [
-        "Yuzhuo Chen",
-        "Huafeng Shi",
-        "Xinyu Wang",
-        "Yulong Xu",
-        "Yucheng Wang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.34654",
-      "title": "Thinking-in-Bets at Test Time Reduces Sycophantic Revisions in LLM Agents",
-      "url": "https://huggingface.co/papers/2610.34654",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-25T20:00:00.000Z",
-      "abstract": "Language model agents often abandon correct work when a user challenges it, yet simply telling them to stand firm makes them ignore real mistakes. Once an agent reads a complaint, it tends to discount",
-      "authors": [
-        "Nghi D. Q. Bui"
-      ],
-      "tags": [
-        "llm",
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
       "title": "Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time",
       "url": "https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/",
@@ -251,26 +228,6 @@
       "points": 0
     },
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner",
-      "url": "https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-10-25T11:32:29.000Z",
-      "abstract": "Anthropic has launched OSS Scanner, a free, opt-in vulnerability scanner for critical open-source projects. The Anthropic OSS Scanner runs the company&#8217;s strongest models, including Claude Mythos",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "gh_1075372545",
       "title": "msitarzewski/agency-agents — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whi",
       "url": "https://github.com/msitarzewski/agency-agents",
@@ -288,7 +245,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 164492,
+      "stars": 164524,
       "votes": 0,
       "points": 0
     }

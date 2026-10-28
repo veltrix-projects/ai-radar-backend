@@ -1,9 +1,34 @@
 {
-  "generatedAt": "2026-10-27T22:44:59.933Z",
+  "generatedAt": "2026-10-28T01:55:14.393Z",
   "date": "23-10-2026",
-  "count": 15,
+  "count": 14,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2610.33817",
+      "title": "EnvLunch: The Environment as a Free Lunch for Learning to Interact",
+      "url": "https://huggingface.co/papers/2610.33817",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-23T20:00:00.000Z",
+      "abstract": "For agentic data analysis, language-model agents often require a large number of annotated tasks to learn how to interact effectively with executable environments (i.e., databases). While high-quality",
+      "authors": [
+        "Wei Liu",
+        "Min Gao",
+        "Yali Du",
+        "Yulan He"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2610.33861",
       "title": "ReGE: Stronger Agents through Experience Synthesis",
@@ -102,32 +127,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.33413",
-      "title": "AV-FABLE: Audio-Visual Manipulation Forensics in Long-Form Videos",
-      "url": "https://huggingface.co/papers/2610.33413",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-23T20:00:00.000Z",
-      "abstract": "Localized AI manipulations in long-form videos often affect brief events within otherwise authentic content, making video-level classification insufficient for forensic analysis. Existing audio-visual",
-      "authors": [
-        "Yuesheng Huang",
-        "Hoi Fan Au",
-        "Jiaqi Hou",
-        "Ruicheng Zhang",
-        "Jiarui He"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Fb",
       "title": "Bringing foundational models to the front lines of TB screening",
       "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
@@ -180,29 +179,6 @@
       "abstract": "The Global Performance Tuner is a feature for automatic performance tuning released in NVIDIA TensorRT 11.1. It provides automatic, accuracy-aware and...]]>",
       "authors": [],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fscali",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-10-23T17:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "gpt",
-        "rag"
-      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
@@ -340,7 +316,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 306276,
+      "stars": 306390,
       "votes": 0,
       "points": 0
     }
