@@ -1,27 +1,27 @@
 {
-  "generatedAt": "2026-10-21T23:48:19.920Z",
+  "generatedAt": "2026-10-28T07:44:20.126Z",
   "date": "12-10-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.18604",
-      "title": "LLM2R: From Large Language Models to 3D Reassemblers",
-      "url": "https://huggingface.co/papers/2610.18604",
+      "id": "hf_paper_2610.19025",
+      "title": "How Far Can Coding Agents Go in Visual Generation?",
+      "url": "https://huggingface.co/papers/2610.19025",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-12T20:00:00.000Z",
-      "abstract": "3D part assembly aims to reconstruct a complete shape from a set of unassembled parts by predicting a rigid SE(3) transformation for each part. Because the placement of a part is rarely determined by",
+      "abstract": "Modern image generation largely relies on specialized generative models that leave the process of image construction implicit in learned parameters. We explore an alternative: general-purpose coding a",
       "authors": [
-        "Zhouhan Zhong",
-        "Qiuhong Shen",
-        "Xingyi Yang",
-        "Jinyi Xu",
-        "Xinchao Wang"
+        "Hengguang Zhou",
+        "Yuanhao Ban",
+        "Jiaqi Feng",
+        "Xiaohuan Pei",
+        "Justin Cui"
       ],
       "tags": [
-        "llm"
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",

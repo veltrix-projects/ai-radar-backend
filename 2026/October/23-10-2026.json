@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-10-28T01:55:14.393Z",
+  "generatedAt": "2026-10-28T07:44:20.120Z",
   "date": "23-10-2026",
-  "count": 14,
+  "count": 11,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2610.33624",
+      "title": "RSI Arena: Towards Recursive Self-Improvement with Human Feedback",
+      "url": "https://huggingface.co/papers/2610.33624",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-23T20:00:00.000Z",
+      "abstract": "Can AI agents autonomously train useful language models and improve them using feedback from users? We introduce RSI Arena, a two-stage study of autonomous post-training as a step toward recursive sel",
+      "authors": [
+        "Yue Huang",
+        "Yanbo Wang",
+        "Lichi Li",
+        "Yuanyuan Chen",
+        "Andreas Haupt"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2610.33817",
       "title": "EnvLunch: The Environment as a Free Lunch for Learning to Interact",
@@ -18,103 +44,6 @@
         "Min Gao",
         "Yali Du",
         "Yulan He"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.33861",
-      "title": "ReGE: Stronger Agents through Experience Synthesis",
-      "url": "https://huggingface.co/papers/2610.33861",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-23T20:00:00.000Z",
-      "abstract": "Repeated attempts at interactive tasks uncover facts, useful operations, and failures that can inform subsequent execution. We introduce ReGE, a framework for turning this recorded experience into gui",
-      "authors": [
-        "Jiarong Liang",
-        "Yubo Wang",
-        "Zijie Liu",
-        "Yuxuan Zhang",
-        "Ping Nie"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.33877",
-      "title": "Semantic Concept Steering Breaks the Explanation Drift Loop in Continual Learning",
-      "url": "https://huggingface.co/papers/2610.33877",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-23T20:00:00.000Z",
-      "abstract": "Catastrophic forgetting in continual learning (CL) manifests not only as accuracy degradation but also as explanation drift: models maintain predictive accuracy while silently shifting attention from",
-      "authors": [
-        "Yehonatan Elisha",
-        "Oren Barkan",
-        "Noam Koenigstein"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.33718",
-      "title": "RoboJev: An Open Vision-Language Judge for Robot Success Detection",
-      "url": "https://huggingface.co/papers/2610.33718",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-23T20:00:00.000Z",
-      "abstract": "Many robot manipulation videos do not indicate whether the task was successfully completed. RoboJev-27B is an open-weight vision-language model that takes a task instruction, 10 frames of a manipulati",
-      "authors": [
-        "Josef Liyanjun Chen"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.33732",
-      "title": "Trust Mechanisms for Offline Generative AI at the Edge: A Connectivity-Regime Framework and an Empirical Study on a Raspberry Pi 5",
-      "url": "https://huggingface.co/papers/2610.33732",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-23T20:00:00.000Z",
-      "abstract": "Generative AI and large language models (LLMs) are moving into the Internet of Things, yet most deployments assume cloud connectivity, and many IoT settings have intermittent, restricted, or no connec",
-      "authors": [
-        "Georgios Feretzakis",
-        "Alexandros Papaspyridis"
       ],
       "tags": [],
       "score": 6,
@@ -316,7 +245,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 306390,
+      "stars": 306496,
       "votes": 0,
       "points": 0
     }

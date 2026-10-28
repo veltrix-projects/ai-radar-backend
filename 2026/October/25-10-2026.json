@@ -1,97 +1,22 @@
 {
-  "generatedAt": "2026-10-28T01:55:14.391Z",
+  "generatedAt": "2026-10-28T07:44:20.119Z",
   "date": "25-10-2026",
-  "count": 10,
+  "count": 7,
   "summary": null,
   "items": [
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model",
-      "url": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-10-25T21:15:21.000Z",
-      "abstract": "Nanbeige LLM Lab released Nanbeige4.3-33B, a 33B dense Apache 2.0 model with 512K context. It reports 80.9 on Terminal-Bench 2.1 and will teach the upcoming Nanbeige4.3-3B.\nThe post Nanbeige Releases",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.35295",
-      "title": "Did the Model Use That? Counterfactual Training Boosts Self-Attribution in Language Models",
-      "url": "https://huggingface.co/papers/2610.35295",
+      "id": "hf_paper_2610.34714",
+      "title": "SearchHorizonBench: A Benchmark for Search Value in AI Agents",
+      "url": "https://huggingface.co/papers/2610.34714",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-25T20:00:00.000Z",
-      "abstract": "A fundamental challenge for explainable and accountable language models is revealing how external information influences their answers. This paper examines whether models are self-attributive: that is",
+      "abstract": "AI agents must decide when another search is worth its cost. Answer-success probabilities capture question difficulty, while this decision requires estimating the additional benefit of search. We intr",
       "authors": [
-        "Zikai Zhou",
-        "Jiacheng Sang",
-        "Yilin Xu",
-        "Yufei Jin",
-        "Monica S. Lam"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.34886",
-      "title": "ThinkBit: Search Codewords, Recalibrate Scales, Select by Reasoning",
-      "url": "https://huggingface.co/papers/2610.34886",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-25T20:00:00.000Z",
-      "abstract": "Reasoning language models generate thousands of tokens per answer, and generation speed is limited by memory bandwidth, so storing weights in two bits instead of bfloat16 can potentially make inferenc",
-      "authors": [
-        "Rhea Sanjay Sukthanker",
-        "Pashmina Cameron"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.34735",
-      "title": "iPrefBench: A User-Centric Benchmark for Personalized Mobile Use Agents",
-      "url": "https://huggingface.co/papers/2610.34735",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-25T20:00:00.000Z",
-      "abstract": "An agent that truly knows and acts on behalf of its user has been a long-standing promise of AI assistants. Computer-use agents bring this promise within reach by capably executing fully specified tas",
-      "authors": [
-        "Yuting Ning",
-        "Ruijia Cheng",
-        "Sushobhan Ghosh",
-        "Peitong Duan",
-        "HungShi Lin"
+        "Jingjie Ning",
+        "Xueqi Li",
+        "Yibo Kong"
       ],
       "tags": [
         "agent",
@@ -107,17 +32,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.35450",
-      "title": "OBB-PBD: Extending Parallel Box Decoding to Oriented Bounding Boxes for Referring Expression Grounding in Aerial Imagery",
-      "url": "https://huggingface.co/papers/2610.35450",
+      "id": "hf_paper_2610.34724",
+      "title": "Harness-Model Collaboration for Long-Horizon Continual Learning",
+      "url": "https://huggingface.co/papers/2610.34724",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-25T20:00:00.000Z",
-      "abstract": "Referring expression grounding in overhead imagery requires oriented bounding boxes rather than horizontal ones, since aerial objects appear at arbitrary orientations. Most grounding models emit box c",
+      "abstract": "Long-horizon agents continuously encounter reusable procedural knowledge, yet existing systems typically rely either on model adaptation or external memory, trading persistent learning for rapid reuse",
       "authors": [
-        "Chang Woo Song",
-        "Yeong Jun Koh"
+        "Zhen Bi",
+        "Zhizhi Peng",
+        "Yan Wang",
+        "Xueshu Chen",
+        "Haofei Zhang"
       ],
       "tags": [],
       "score": 6,
@@ -130,22 +58,47 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.35328",
-      "title": "Constrained Decoding: Harmful or Beneficial? Revisiting Its Impact on LLM Performance",
-      "url": "https://huggingface.co/papers/2610.35328",
+      "id": "hf_paper_2610.36269",
+      "title": "Cross-modal Steering Vectors Exist Across Both Image and Text Generation",
+      "url": "https://huggingface.co/papers/2610.36269",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-25T20:00:00.000Z",
-      "abstract": "Constrained decoding guarantees that Large Language Models (LLMs) produce outputs conforming to predefined formats, but is often assumed to inherently degrade reasoning. We examine this assumption thr",
+      "abstract": "Are concepts and mechanisms unified across modalities in current AI models, or instead implemented separately for each one? We operationalize this broad question of modality unification by studying cr",
       "authors": [
-        "Ngoc Trinh Hung Nguyen",
-        "Alonso Silva",
-        "Armen Aghasaryan",
-        "Mehwish Alam"
+        "Donghao Zeng",
+        "Nishant Subramani",
+        "Tamar Rott Shaham",
+        "Benno Krojer"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.22543",
+      "title": "On the SPOT: Enhancing Speculative Decoding for Diffusion Language Models via Commit-Order Prediction",
+      "url": "https://huggingface.co/papers/2610.22543",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-25T20:00:00.000Z",
+      "abstract": "Diffusion language models (DLMs) promise parallel text generation, but in practice face an unresolved speed-quality trade-off. Exact decoding fills in only one masked position per model pass, while fa",
+      "authors": [
+        "Eliezer Shlomi",
+        "Eliron Rahimi",
+        "Avi Mendelson",
+        "Chaim Baskin"
       ],
       "tags": [
-        "llm"
+        "diffusion"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -157,39 +110,25 @@
       "points": 0
     },
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time",
-      "url": "https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
+      "id": "hf_paper_2610.36068",
+      "title": "Rollback: Experience Backtracking in World Models for Policy Improvement",
+      "url": "https://huggingface.co/papers/2610.36068",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-10-25T16:53:40.000Z",
-      "abstract": "Hugging Face released Carbon-X, an open 14.8B DNA language model built on Qwen3-14B. It reads raw DNA in chat, answers in English, and averages 66.7% across 5 DNA benchmarks under Apache 2.0.\nThe post",
-      "authors": [],
+      "timestamp": "2026-10-25T20:00:00.000Z",
+      "abstract": "Action-conditioned world models offer a scalable alternative to costly real-world interaction for improving robot policies. However, existing world-model-based methods largely treat world models as fo",
+      "authors": [
+        "Jiayi Luo",
+        "Yang Zhang",
+        "Liliang Chen",
+        "Nan Wang",
+        "Chen Gao"
+      ],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster",
-      "url": "https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-10-25T12:12:18.000Z",
-      "abstract": "Stanford and UC Berkeley researchers released TokenGate, a drop-in learned token pruning module for LLMs. It cuts long-context prefill time-to-first-token by 1.4x to 11.3x and peak memory by 1.5x to 3",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -223,7 +162,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 159302,
+      "stars": 159303,
       "votes": 0,
       "points": 0
     },
@@ -245,7 +184,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 164524,
+      "stars": 164565,
       "votes": 0,
       "points": 0
     }
