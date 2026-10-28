@@ -1,9 +1,63 @@
 {
-  "generatedAt": "2026-10-28T07:44:20.122Z",
+  "generatedAt": "2026-10-28T14:41:59.333Z",
   "date": "19-10-2026",
-  "count": 1,
+  "count": 3,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2610.26030",
+      "title": "Truncate or Not? A Scaling Study of Looped Transformers with Truncated Backpropagation",
+      "url": "https://huggingface.co/papers/2610.26030",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-19T20:00:00.000Z",
+      "abstract": "Looped transformers reuse a shared block of layers to increase computational depth without increasing the number of trainable parameters. They are trained with backpropagation through time (BPTT). To",
+      "authors": [
+        "Xuyuan Xiong",
+        "Siyu Chen",
+        "Zihan Shao",
+        "Yue Su",
+        "Weiyang Jin"
+      ],
+      "tags": [
+        "transformer"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.33066",
+      "title": "OvisOCR3 Technical Report",
+      "url": "https://huggingface.co/papers/2610.33066",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-19T20:00:00.000Z",
+      "abstract": "We introduce OvisOCR3, a 0.8B model for a broad range of OCR-related tasks. OvisOCR3 unifies document parsing, general OCR, key information extraction (KIE), document figure captioning, and cross-page",
+      "authors": [
+        "Yu Xia",
+        "Yinglun Li",
+        "Yuhui Chen",
+        "Jinlong Huang",
+        "Yuyang Wanyan"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "meta_ai_blog_https%3A%2F%2Fengineering.fb.com%2F2026%",
       "title": "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",

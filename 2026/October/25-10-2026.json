@@ -1,25 +1,110 @@
 {
-  "generatedAt": "2026-10-28T07:44:20.119Z",
+  "generatedAt": "2026-10-28T14:41:59.232Z",
   "date": "25-10-2026",
   "count": 7,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.34714",
-      "title": "SearchHorizonBench: A Benchmark for Search Value in AI Agents",
-      "url": "https://huggingface.co/papers/2610.34714",
+      "id": "hf_paper_2610.34674",
+      "title": "Benchmarking Obstacle-Conditioned Safety in Household Robot Navigation",
+      "url": "https://huggingface.co/papers/2610.34674",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-25T20:00:00.000Z",
-      "abstract": "AI agents must decide when another search is worth its cost. Answer-success probabilities capture question difficulty, while this decision requires estimating the additional benefit of search. We intr",
+      "abstract": "Safe household navigation requires robots to regulate clearance and speed according to what an obstacle is and how close it is, without unnecessary conservatism. Yet existing evaluations do not test w",
       "authors": [
-        "Jingjie Ning",
-        "Xueqi Li",
-        "Yibo Kong"
+        "Hyunwoong Bae",
+        "Jisu Han",
+        "Jiyeon Choi",
+        "Dohoon Kim",
+        "Taesup Moon"
       ],
       "tags": [
-        "agent",
+        "benchmark",
+        "safety"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.36077",
+      "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
+      "url": "https://huggingface.co/papers/2610.36077",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-25T20:00:00.000Z",
+      "abstract": "Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. However, scaling this process faces two bottlenecks: constructing heterogeneous, verif",
+      "authors": [
+        "Weidong Tang",
+        "Ruiheng Wang",
+        "Jingxuan Zhang",
+        "Hexin Wang",
+        "Haoyuan Chen"
+      ],
+      "tags": [
+        "multimodal",
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.34921",
+      "title": "PhysEvolve: Verifier-grounded Self-evolution for Physical Reasoning with Executable Worlds",
+      "url": "https://huggingface.co/papers/2610.34921",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-25T20:00:00.000Z",
+      "abstract": "Physical reasoning underpins how embodied systems understand and act in the physical world, yet vision-language models (VLMs) remain unreliable on questions about dynamics and physical causality. Prog",
+      "authors": [
+        "Jinyuan Hu",
+        "Yilei Jiang",
+        "Chen Tang",
+        "Minghong Cai",
+        "Xinran Liu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.26185",
+      "title": "MoveBench: A Rubric-Based Benchmark for Evaluating Large Language Models in Sports and Health Coaching",
+      "url": "https://huggingface.co/papers/2610.26185",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-25T20:00:00.000Z",
+      "abstract": "Despite rapid advances in large language models (LLMs), their deployment in the sports and health domain remains high-risk due to the absence of domain-specific evaluation benchmarks. Existing general",
+      "authors": [
+        "Yitong Li",
+        "Jiang Bian",
+        "Jingling Wang",
+        "Pan Ding",
+        "Chengying Gu"
+      ],
+      "tags": [
         "benchmark"
       ],
       "score": 6,
@@ -32,98 +117,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.34724",
-      "title": "Harness-Model Collaboration for Long-Horizon Continual Learning",
-      "url": "https://huggingface.co/papers/2610.34724",
+      "id": "hf_paper_2610.36022",
+      "title": "Learning and Reasoning with Geometry: How Generation Helps Spatial Understanding",
+      "url": "https://huggingface.co/papers/2610.36022",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-25T20:00:00.000Z",
-      "abstract": "Long-horizon agents continuously encounter reusable procedural knowledge, yet existing systems typically rely either on model adaptation or external memory, trading persistent learning for rapid reuse",
+      "abstract": "Image and video generators can produce spatially consistent visual content, but how to use this capability to improve spatial understanding remains underexplored. We study this problem from two perspe",
       "authors": [
-        "Zhen Bi",
-        "Zhizhi Peng",
-        "Yan Wang",
-        "Xueshu Chen",
-        "Haofei Zhang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.36269",
-      "title": "Cross-modal Steering Vectors Exist Across Both Image and Text Generation",
-      "url": "https://huggingface.co/papers/2610.36269",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-25T20:00:00.000Z",
-      "abstract": "Are concepts and mechanisms unified across modalities in current AI models, or instead implemented separately for each one? We operationalize this broad question of modality unification by studying cr",
-      "authors": [
-        "Donghao Zeng",
-        "Nishant Subramani",
-        "Tamar Rott Shaham",
-        "Benno Krojer"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.22543",
-      "title": "On the SPOT: Enhancing Speculative Decoding for Diffusion Language Models via Commit-Order Prediction",
-      "url": "https://huggingface.co/papers/2610.22543",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-25T20:00:00.000Z",
-      "abstract": "Diffusion language models (DLMs) promise parallel text generation, but in practice face an unresolved speed-quality trade-off. Exact decoding fills in only one masked position per model pass, while fa",
-      "authors": [
-        "Eliezer Shlomi",
-        "Eliron Rahimi",
-        "Avi Mendelson",
-        "Chaim Baskin"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.36068",
-      "title": "Rollback: Experience Backtracking in World Models for Policy Improvement",
-      "url": "https://huggingface.co/papers/2610.36068",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-25T20:00:00.000Z",
-      "abstract": "Action-conditioned world models offer a scalable alternative to costly real-world interaction for improving robot policies. However, existing world-model-based methods largely treat world models as fo",
-      "authors": [
-        "Jiayi Luo",
-        "Yang Zhang",
-        "Liliang Chen",
-        "Nan Wang",
-        "Chen Gao"
+        "Rui Yang",
+        "Yanwei Li",
+        "Sili Chen",
+        "Jingjia Huang",
+        "Yi Lin"
       ],
       "tags": [],
       "score": 6,
@@ -162,7 +169,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 159303,
+      "stars": 159314,
       "votes": 0,
       "points": 0
     },
@@ -184,7 +191,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 164565,
+      "stars": 164637,
       "votes": 0,
       "points": 0
     }

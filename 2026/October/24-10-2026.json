@@ -1,79 +1,24 @@
 {
-  "generatedAt": "2026-10-28T07:44:20.120Z",
+  "generatedAt": "2026-10-28T14:41:59.316Z",
   "date": "24-10-2026",
-  "count": 4,
+  "count": 2,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.34491",
-      "title": "What Effort Level Should I Choose? On the Economics of Reasoning Effort in LLM Agents",
-      "url": "https://huggingface.co/papers/2610.34491",
+      "id": "hf_paper_2610.34073",
+      "title": "Memory Tax: Dissecting the Net Value of Agent Memory",
+      "url": "https://huggingface.co/papers/2610.34073",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-24T20:00:00.000Z",
-      "abstract": "Generative models increasingly expose a reasoning effort setting that lets users scale inference-time compute, trading higher cost for potentially improved performance. Users must choose an effort lev",
+      "abstract": "Memory is increasingly used in long-horizon agents, yet the net value of building memory over direct retrieval from raw history remains largely unclear. Through a large-scale evaluation across multipl",
       "authors": [
-        "Kaiser Sun",
-        "Yongchan Kwon",
-        "Zain Hasan",
-        "Shang Zhu",
-        "Kaitlyn Zhou"
-      ],
-      "tags": [
-        "llm",
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.34283",
-      "title": "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence",
-      "url": "https://huggingface.co/papers/2610.34283",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-24T20:00:00.000Z",
-      "abstract": "Training a spatial VLM to answer which side an object lies on does not require it to preserve the metric displacement that determines that answer, while supervision for a distance estimate may leave c",
-      "authors": [
-        "Yihao Hu",
-        "Yitong Lin",
-        "Pan Wang",
-        "Zhihao Wen",
-        "Hang Wang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.34386",
-      "title": "ParetoRSI-Gym: Can AI Agents Improve Language Models Across Multiple Domains?",
-      "url": "https://huggingface.co/papers/2610.34386",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-24T20:00:00.000Z",
-      "abstract": "Recursive self-improvement (RSI) requires an agentic system to design, train, and evaluate its own successor. Data-driven post-training is a central part of that loop, yet existing evaluations measure",
-      "authors": [
-        "Haojin Wang",
-        "Yangzhen Wu",
-        "Zeyi Chen",
-        "Jian Xie",
-        "Jiaying Ye"
+        "Xuan He",
+        "Sining Zhoubian",
+        "Ruozhen Yang",
+        "Yuhao Wen",
+        "Zhineng Wang"
       ],
       "tags": [
         "agent"
