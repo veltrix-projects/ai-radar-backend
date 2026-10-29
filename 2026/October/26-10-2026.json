@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-29T03:32:48.127Z",
+  "generatedAt": "2026-10-29T10:34:11.249Z",
   "date": "26-10-2026",
-  "count": 26,
+  "count": 21,
   "summary": null,
   "items": [
     {
@@ -39,6 +39,35 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.37230",
+      "title": "TAO: Tool-Aware Joint Scheduling for LLM-Based Agentic Serving",
+      "url": "https://huggingface.co/papers/2610.37230",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-26T20:00:00.000Z",
+      "abstract": "Agentic services alternate between model inference on clustered GPUs and external tools on distributed CPUs. In this scenario, existing systems (1) overlook tool-return readiness in service evaluation",
+      "authors": [
+        "Shuhuai Li",
+        "Shengdong Ye",
+        "Dongdong Ge",
+        "Yinyu Ye",
+        "Jianghao Lin"
+      ],
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -119,166 +148,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.37662",
-      "title": "Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?",
-      "url": "https://huggingface.co/papers/2610.37662",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-26T20:00:00.000Z",
-      "abstract": "Discrete visual tokens represent vision in a discrete form analogous to language, offering a native interface for multimodal modeling under a shared next-token prediction objective. However, quantizat",
-      "authors": [
-        "Jialv Zou",
-        "Xiaotong Li",
-        "Zhengrong Yue",
-        "Xu Huang",
-        "Yaxin Luo"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.37624",
-      "title": "Rare, Relevant, and Still Wrong: How Memory Fails LLM Group Decisions",
-      "url": "https://huggingface.co/papers/2610.37624",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-26T20:00:00.000Z",
-      "abstract": "When an LLM group's discussion is compressed into a short memory for a final decision maker, what should the memory keep? Two natural heuristics keep the rarest claims or the claims relevant to the de",
-      "authors": [
-        "Anouar Imel",
-        "Imad Charradi",
-        "Abderrahman Sghir",
-        "Khalil El Khammar"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.35864",
-      "title": "VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Generation",
-      "url": "https://huggingface.co/papers/2610.35864",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-26T20:00:00.000Z",
-      "abstract": "Diffusion video models produce striking clips, but they cannot reliably render an exact formula, a correct chart, a rule-consistent game or narration synchronized to on-screen events. A different rout",
-      "authors": [
-        "Muxi Diao",
-        "Wenbin Xu",
-        "Lele Yang",
-        "Xuyang Ma",
-        "Yuzhe Chen"
-      ],
-      "tags": [
-        "multimodal",
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.36791",
-      "title": "RynnWorld-Latent: A Cross-Embodiment World Model Conditioned on Universal Latent Actions",
-      "url": "https://huggingface.co/papers/2610.36791",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-26T20:00:00.000Z",
-      "abstract": "Learning controllable world dynamics from heterogeneous interaction videos is challenging because robot embodiments use incompatible action spaces, while human videos lack native control labels. We pr",
-      "authors": [
-        "Haoyu Zhao",
-        "Yinzhou Tang",
-        "Zixuan Wang",
-        "Minghao Zhu",
-        "Dongchi Huang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.37381",
-      "title": "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations",
-      "url": "https://huggingface.co/papers/2610.37381",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-26T20:00:00.000Z",
-      "abstract": "Vision--Language--Action (VLA) models generate robot actions from visual observations and language instructions, but their understanding of physical dynamics remains limited. Video world models can ca",
-      "authors": [
-        "Hanqing Wang",
-        "Zhaotian Cai",
-        "Ruichuan An",
-        "Bohan Zeng",
-        "Tao Zhang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.37255",
-      "title": "Your Policy Is Secretly a Harness: The Decision Geometry of Agent Interfaces",
-      "url": "https://huggingface.co/papers/2610.37255",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-26T20:00:00.000Z",
-      "abstract": "Language model agents are post-trained and deployed through a harness, the prompts, tools, and control logic that present a task to the model and execute its outputs. Harnesses are often revised and j",
-      "authors": [
-        "Jian Mu",
-        "Ruibo Shen",
-        "Yao Shu"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -609,7 +478,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 291750,
+      "stars": 291948,
       "votes": 0,
       "points": 0
     }

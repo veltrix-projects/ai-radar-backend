@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-29T03:32:48.130Z",
+  "generatedAt": "2026-10-29T10:34:11.252Z",
   "date": "22-10-2026",
-  "count": 6,
+  "count": 9,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,88 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.31670",
+      "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
+      "url": "https://huggingface.co/papers/2610.31670",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-22T20:00:00.000Z",
+      "abstract": "Robot foundation models are typically evaluated through costly closed-loop rollouts, motivating low-cost offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests tha",
+      "authors": [
+        "Yunfei Xie",
+        "Howard H. Qian",
+        "Shiyi Lan",
+        "Kaiyu Hang",
+        "Chen Wei"
+      ],
+      "tags": [
+        "alignment"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.32749",
+      "title": "Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes",
+      "url": "https://huggingface.co/papers/2610.32749",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-22T20:00:00.000Z",
+      "abstract": "Streaming audio-visual target speaker extraction (AVTSE) is essential for latency-sensitive applications. However, current causal systems face two coupled gaps. First, standard benchmarks fix the numb",
+      "authors": [
+        "Wendi Sang",
+        "Kai Li",
+        "Yifan Li",
+        "Jianqiang Huang",
+        "Xiaolin Hu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.33245",
+      "title": "AdaPRA: Process Reward Agents with Adaptive Rubrics for Data Science",
+      "url": "https://huggingface.co/papers/2610.33245",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-22T20:00:00.000Z",
+      "abstract": "Data science agents can automate end-to-end machine learning workflows, yet they remain far from competitive on human leaderboards. Agents make process errors such as insufficient exploration, unsound",
+      "authors": [
+        "Atharva Naik",
+        "Vivek Chari",
+        "Pol Llado",
+        "Daniel Fried",
+        "Carolyn Rosé"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

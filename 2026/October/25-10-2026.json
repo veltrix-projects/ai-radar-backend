@@ -1,9 +1,64 @@
 {
-  "generatedAt": "2026-10-29T03:32:48.128Z",
+  "generatedAt": "2026-10-29T10:34:11.250Z",
   "date": "25-10-2026",
-  "count": 8,
+  "count": 10,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2610.35684",
+      "title": "OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images",
+      "url": "https://huggingface.co/papers/2610.35684",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-25T20:00:00.000Z",
+      "abstract": "Generating videos of a specific subject from a few reference images remains challenging when the camera reveals surfaces that are not visible in the input. Early subject-to-video (S2V) methods conditi",
+      "authors": [
+        "Junyeong Ahn",
+        "Geonwoo Kim",
+        "Kinam Kim",
+        "Gihwi Kim",
+        "Hoonjin Jung"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.35201",
+      "title": "DTCA: Denoising Token Credit Assignment for Reinforcement Learning in Diffusion Language Models",
+      "url": "https://huggingface.co/papers/2610.35201",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-25T20:00:00.000Z",
+      "abstract": "Diffusion language models (DLMs) generate text through iterative denoising, enabling bidirectional context modeling and parallel token refinement. Recent studies have applied reinforcement learning (R",
+      "authors": [
+        "Hongze Chen",
+        "Miao Pan",
+        "Lizhou Liang",
+        "Qinfeng Li",
+        "Xinyin Ma"
+      ],
+      "tags": [
+        "diffusion",
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2610.36184",
       "title": "Lipi-Ghor: A Large-Scale, Diarized, Multi-Domain Bengali Speech Corpus and a Scalable Pipeline for Building It",
@@ -185,7 +240,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 159317,
+      "stars": 159321,
       "votes": 0,
       "points": 0
     },
@@ -207,7 +262,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 164874,
+      "stars": 164954,
       "votes": 0,
       "points": 0
     }
