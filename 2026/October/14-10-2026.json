@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-10-29T10:34:11.255Z",
+  "generatedAt": "2026-10-29T17:11:34.192Z",
   "date": "14-10-2026",
-  "count": 5,
+  "count": 6,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2610.22507",
+      "title": "RealCLI: Toward a Unified Evaluation of Human-Agent Collaboration for CLI Agents",
+      "url": "https://huggingface.co/papers/2610.22507",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-14T20:00:00.000Z",
+      "abstract": "Command-line interface (CLI) agents increasingly execute longer-horizon tasks, yet existing benchmarks either assume that user instructions remain fixed throughout execution or evaluate task outcomes",
+      "authors": [
+        "Yunqi Liu",
+        "Peiyu Wang",
+        "Bingli Wang",
+        "Leo Luo",
+        "Xuanwu Song"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2610.22684",
       "title": "AlphaBet: Reinforcement Learning for LLM Event Forecasting Agents",

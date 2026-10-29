@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-29T10:34:11.252Z",
+  "generatedAt": "2026-10-29T17:11:34.188Z",
   "date": "22-10-2026",
-  "count": 9,
+  "count": 10,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,31 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2601.15351",
+      "title": "OmniSpectra: A Unified Foundation Model for Universal Spectra Representation Learning",
+      "url": "https://huggingface.co/papers/2601.15351",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-22T20:00:00.000Z",
+      "abstract": "Standard sequence models encode position by token rank rather than physical coordinate, typically forcing practitioners to destructively resample continuous physical signals such as spectra observed a",
+      "authors": [
+        "Md Khairul Islam",
+        "Zeyu Xia",
+        "Adam S. Bolton",
+        "Judy Fox"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

@@ -1,24 +1,27 @@
 {
-  "generatedAt": "2026-10-23T15:15:10.729Z",
+  "generatedAt": "2026-10-29T17:11:34.195Z",
   "date": "29-09-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Fh",
-      "title": "How Diffusion Controller unifies and simplifies AI image generation",
-      "url": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/",
-      "source": "Google Research",
-      "sourceIcon": "🔍",
+      "id": "hf_paper_2610.30161",
+      "title": "TauIndianBankBench: Procedure-Aware, Action-Oriented Evaluation of Tool-Using Conversational Agents",
+      "url": "https://huggingface.co/papers/2610.30161",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-09-29T18:38:27.000Z",
-      "abstract": "Algorithms &amp; Theory",
-      "authors": [],
-      "tags": [
-        "diffusion"
+      "timestamp": "2026-09-29T20:00:00.000Z",
+      "abstract": "Many Indian banks serve customers through FAQ pages and scripted chatbots. Assistants based on language models could respond faster and carry out requests such as blocking a card, but only if they giv",
+      "authors": [
+        "Krishanu Adhikary",
+        "Prashant Devadiga"
       ],
-      "score": 4,
-      "priority": "LOW",
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
