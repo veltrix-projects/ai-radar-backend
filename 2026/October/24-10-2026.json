@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-10-30T19:31:49.448Z",
+  "generatedAt": "2026-10-30T23:22:10.691Z",
   "date": "24-10-2026",
-  "count": 1,
+  "count": 2,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2610.34298",
+      "title": "Matched Capabilities, Different Behaviors: A Controlled Study of MCP and CLI Interfaces for Language Agents",
+      "url": "https://huggingface.co/papers/2610.34298",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-24T20:00:00.000Z",
+      "abstract": "Language agents increasingly act through external tools and interactive environments, making the interface between the model and its executable capabilities part of the decision process. Model Context",
+      "authors": [
+        "Zhenning Shi",
+        "Liang Pang",
+        "Yongqi Li"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2609.05881",
       "title": "Broken on Arrival: Non-Functional Quantized LLM Artifacts in Public Model Registries and How to Catch Them",
