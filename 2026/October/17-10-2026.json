@@ -1,27 +1,31 @@
 {
-  "generatedAt": "2026-10-27T07:02:58.637Z",
+  "generatedAt": "2026-10-30T19:31:49.452Z",
   "date": "17-10-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.25118",
-      "title": "How Much Feedback Is Needed to Break Template Protection? The Geometric Vulnerability of Biometric Authentication",
-      "url": "https://huggingface.co/papers/2610.25118",
+      "id": "hf_paper_2610.25276",
+      "title": "Holo4D: Holistic 4D Reconstruction as Geometric Control for Video Diffusion",
+      "url": "https://huggingface.co/papers/2610.25276",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-17T20:00:00.000Z",
-      "abstract": "Biometric authentication systems increasingly use privacy-preserving mechanisms to protect sensitive templates. However, the authentication interface itself may still leak information that enables rec",
+      "abstract": "Synthesizing a monocular video from a new camera trajectory requires preserving the observed scene geometry and motion while completing regions that become newly visible. Feed-forward 4D reconstructor",
       "authors": [
-        "Eliron Rahimi",
-        "Margarita Osadchy",
-        "Orr Dunkelman"
+        "Yushi Lan",
+        "Zeren Jiang",
+        "Koichi Namekata",
+        "Xingang Pan",
+        "Chuanxia Zheng"
       ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "tags": [
+        "diffusion"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
