@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-30T07:25:31.530Z",
+  "generatedAt": "2026-10-30T14:23:28.859Z",
   "date": "27-10-2026",
-  "count": 14,
+  "count": 18,
   "summary": null,
   "items": [
     {
@@ -14,6 +14,110 @@
       "timestamp": "2026-10-27T20:50:39.000Z",
       "abstract": "Many AI workloads need only a fraction of a GPU. Giving each one an entire device can leave capacity idle; sharing GPUs lets platform teams serve more workloads...]]>",
       "authors": [],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.38331",
+      "title": "Multi-Token Prediction Done Right",
+      "url": "https://huggingface.co/papers/2610.38331",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-27T20:00:00.000Z",
+      "abstract": "Multi-Token Prediction (MTP) is now a common ingredient in language-model pre-training, as it improves downstream performance and enables faster inference through speculative decoding. We identify a f",
+      "authors": [
+        "Jayden Teoh"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.38342",
+      "title": "Investor's Last Exam: Can AI Agents Do Equity Investment Without Seeing the Future?",
+      "url": "https://huggingface.co/papers/2610.38342",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-27T20:00:00.000Z",
+      "abstract": "Financial agents must form forecasts and investment judgments from decision-time evidence, with predictions evaluated against subsequent outcomes. Existing benchmarks assess financial knowledge, resea",
+      "authors": [
+        "Huangfei Jiang",
+        "Anning Hu",
+        "Kai Sheng",
+        "Yuchen Cai",
+        "Rui Ge"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.38568",
+      "title": "A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement",
+      "url": "https://huggingface.co/papers/2610.38568",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-27T20:00:00.000Z",
+      "abstract": "Recursive self-improvement requires models not only to acquire useful training experience, but also to decide when their current experience has ceased to be useful. Existing methods often focus on wha",
+      "authors": [
+        "Yu Liu",
+        "Youxing Li",
+        "Yuedong Tan",
+        "Zhiwei Yang",
+        "Zihan Su"
+      ],
+      "tags": [
+        "multimodal"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.38678",
+      "title": "AskStream: When and What to Ask Proactively under Uncertainty in Streaming Video Understanding",
+      "url": "https://huggingface.co/papers/2610.38678",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-27T20:00:00.000Z",
+      "abstract": "Recent advances in multimodal large language models have increased interest in interaction paradigms for video understanding. The evolution from offline to streaming and proactive interaction has grad",
+      "authors": [
+        "Lu Wang",
+        "Zhuoran Jin",
+        "Longxiang Wang",
+        "Junhong Chen",
+        "Yupu Hao"
+      ],
       "tags": [],
       "score": 8,
       "priority": "HIGH",

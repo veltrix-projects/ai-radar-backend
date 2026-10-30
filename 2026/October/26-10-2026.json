@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-30T07:25:31.531Z",
+  "generatedAt": "2026-10-30T14:23:28.860Z",
   "date": "26-10-2026",
-  "count": 10,
+  "count": 9,
   "summary": null,
   "items": [
     {
@@ -47,24 +47,22 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.37161",
-      "title": "WorkFactory: Turning Professional Intents into Executable Work for Scalable Agent Training",
-      "url": "https://huggingface.co/papers/2610.37161",
+      "id": "hf_paper_2610.36671",
+      "title": "Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs",
+      "url": "https://huggingface.co/papers/2610.36671",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-26T20:00:00.000Z",
-      "abstract": "Scaling supervised training for working agents requires diverse professional tasks that yield reliable expert demonstrations. However, missing or inconsistent task information can obstruct teacher exe",
+      "abstract": "Diffusion vision-language models (DVLMs) process their entire input at every denoising step. Since visual tokens make up 89-97% of this input on the benchmarks we study, most of the decoding computati",
       "authors": [
-        "Ziyang Zeng",
-        "Tingyang Chen",
-        "Jia Deng",
-        "Qiyao Wang",
-        "Shuo Tang"
+        "Donghyeon Cho",
+        "Joowon Kim",
+        "Seungho Shin",
+        "Eunho Yang"
       ],
       "tags": [
-        "agent",
-        "training"
+        "diffusion"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -76,54 +74,21 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.37626",
-      "title": "Know, then Draw: A New Learning Paradigm for Visual Generation",
-      "url": "https://huggingface.co/papers/2610.37626",
+      "id": "hf_paper_2610.36420",
+      "title": "SO-101 Bench: Accessible Spatial Manipulation",
+      "url": "https://huggingface.co/papers/2610.36420",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-26T20:00:00.000Z",
-      "abstract": "Visual generation requires both high-level semantic knowledge and fine-grained pixel details. We propose a learning paradigm that assigns these roles to autoregressive pretraining for knowledge acquis",
+      "abstract": "Low-cost arms such as the SO-101 have become the most common entry point to robot learning, yet no released policy performs spatially constrained, language-conditioned tasks on them out of the box, an",
       "authors": [
-        "Yucheng Mao",
-        "Chongjian Ge",
-        "Zhuowen Tu",
-        "Hao Tan",
-        "Hanwen Jiang"
+        "Truman Hickok"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.37230",
-      "title": "TAO: Tool-Aware Joint Scheduling for LLM-Based Agentic Serving",
-      "url": "https://huggingface.co/papers/2610.37230",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-26T20:00:00.000Z",
-      "abstract": "Agentic services alternate between model inference on clustered GPUs and external tools on distributed CPUs. In this scenario, existing systems (1) overlook tool-return readiness in service evaluation",
-      "authors": [
-        "Shuhuai Li",
-        "Shengdong Ye",
-        "Dongdong Ge",
-        "Yinyu Ye",
-        "Jianghao Lin"
-      ],
-      "tags": [
-        "llm",
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

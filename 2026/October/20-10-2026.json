@@ -1,54 +1,31 @@
 {
-  "generatedAt": "2026-10-30T07:25:31.534Z",
+  "generatedAt": "2026-10-30T14:23:28.862Z",
   "date": "20-10-2026",
-  "count": 2,
+  "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.30132",
-      "title": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data",
-      "url": "https://huggingface.co/papers/2610.30132",
+      "id": "hf_paper_2610.29927",
+      "title": "Your Benchmark Is an Empirical Measure Over Difficulty",
+      "url": "https://huggingface.co/papers/2610.29927",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-20T20:00:00.000Z",
-      "abstract": "Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs), but it needs training data that are long, diverse, challenging, and verifiable",
+      "abstract": "A benchmark is not merely a collection of test questions; it naturally induces an empirical measure over difficulty. In this work, we develop this measure-based view of benchmark evaluation. This pers",
       "authors": [
-        "Zhennan Wan",
-        "Jianfei Chen"
+        "Yifan Sun",
+        "Naicheng Yu",
+        "Jiawen Gong",
+        "Jingyan Shen",
+        "Huan Zhang"
       ],
       "tags": [
-        "llm"
+        "benchmark"
       ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.29702",
-      "title": "CausGround: Causal Interaction Grounding for Adaptive Embodied Planning",
-      "url": "https://huggingface.co/papers/2610.29702",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-20T20:00:00.000Z",
-      "abstract": "Multimodal large language models (MLLMs) show promising reasoning capabilities, but reliable physical interaction requires planning that accounts for when actions are executable and how they change th",
-      "authors": [
-        "Yijun Shen",
-        "Diqi He",
-        "Jinbang Guo",
-        "Wanyue Zhang",
-        "Jiaming Mi"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
