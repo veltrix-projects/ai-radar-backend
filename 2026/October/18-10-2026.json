@@ -1,37 +1,34 @@
 {
-  "generatedAt": "2026-10-28T23:53:54.530Z",
+  "generatedAt": "2026-10-30T07:25:31.536Z",
   "date": "18-10-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "gh_1266797999",
-      "title": "DietrichGebert/ponytail — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-10-18T01:55:14Z",
-      "abstract": "",
-      "authors": [],
+      "id": "hf_paper_2610.27100",
+      "title": "LOB-Impact Benchmark: Emergent Market Impact in Generative Limit Order Book Models",
+      "url": "https://huggingface.co/papers/2610.27100",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-18T20:00:00.000Z",
+      "abstract": "Realistic market impact is essential for generative limit order book (LOB) models to serve as world models for trading agents. If a simulator misprices this mechanism, agents learn policies that are o",
+      "authors": [
+        "George Nigmatulin",
+        "Valentin Mohl",
+        "Sascha Frey",
+        "Kang Li",
+        "Aramis Marti-Shahandeh"
+      ],
       "tags": [
-        "agent-skills",
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "claude-code-plugin",
-        "cursor-rules",
-        "developer-tools",
-        "llm",
-        "prompt-engineering",
-        "yagni"
+        "benchmark"
       ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 179047,
+      "stars": 0,
       "votes": 0,
       "points": 0
     }
