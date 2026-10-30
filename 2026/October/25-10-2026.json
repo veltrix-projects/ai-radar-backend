@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-10-29T21:53:37.981Z",
+  "generatedAt": "2026-10-30T01:26:02.543Z",
   "date": "25-10-2026",
-  "count": 7,
+  "count": 6,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2610.36095",
+      "title": "Instruction Capacity: Behavior and Degradation of Language Models under Controlled Load",
+      "url": "https://huggingface.co/papers/2610.36095",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-25T20:00:00.000Z",
+      "abstract": "The quality with which language models follow instructions falls as the load grows, yet there is still no quantity that expresses the limit of a model in units of load with an uncertainty. We propose",
+      "authors": [
+        "Hennadii Kutomanov"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2610.35671",
       "title": "Evaluating DeepSeek V4.1 Flash-1017 for loss of control and harmful manipulation risks",
@@ -86,53 +108,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.36192",
-      "title": "Beyond the Estimate: Wiener-Informed Decoding for Easier Training of Pixel-Space Flow Models",
-      "url": "https://huggingface.co/papers/2610.36192",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-25T20:00:00.000Z",
-      "abstract": "Learning velocity fields directly in pixel space is difficult and slow. We show that coarse second-order image statistics can ease this task: frozen Wiener estimates improve velocity learning, with ga",
-      "authors": [
-        "Ziqiao Wang",
-        "Yang You"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.34894",
-      "title": "What Outcome RL Buys: Finishing, Reliability, Rarely Reach",
-      "url": "https://huggingface.co/papers/2610.34894",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-25T20:00:00.000Z",
-      "abstract": "Outcome RL raises pass@1 but not pass@k at large k (Yue et al., 2025). But every pass@1 is scored under a token budget. Every recipe also trains under one. On physics and math problems at fixed token",
-      "authors": [
-        "Shan Yang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "gh_132464395",
       "title": "Snailclimb/JavaGuide — Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
       "url": "https://github.com/Snailclimb/JavaGuide",
@@ -159,7 +134,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 159332,
+      "stars": 159333,
       "votes": 0,
       "points": 0
     },
@@ -181,7 +156,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 165119,
+      "stars": 165160,
       "votes": 0,
       "points": 0
     }
