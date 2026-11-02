@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-11-02T02:37:59.758Z",
+  "generatedAt": "2026-11-02T10:17:44.470Z",
   "date": "28-10-2026",
-  "count": 18,
+  "count": 11,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2610.39276",
+      "title": "MemSteer: Turning User Histories into Supervision for Agent Memory Optimization",
+      "url": "https://huggingface.co/papers/2610.39276",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-28T23:28:49.000Z",
+      "abstract": "An effective agent memory system should adapt to a user's history and task requirements. Human-annotated supervision can guide this adaptation by providing feedback for evaluating and improving memory",
+      "authors": [
+        "Jie Huang",
+        "Cuiling Lan",
+        "Qize Yu",
+        "Xiulian Peng",
+        "Yan Lu"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
       "title": "Creating AI value with enterprise context",
@@ -25,47 +53,23 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.39293",
-      "title": "Unlocking Any-Order Generation in Pretrained Autoregressive Image Models",
-      "url": "https://huggingface.co/papers/2610.39293",
+      "id": "hf_paper_2610.39086",
+      "title": "HALO: Human-Grounded Granular Evaluation of Proactive Agents",
+      "url": "https://huggingface.co/papers/2610.39086",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-28T20:00:00.000Z",
-      "abstract": "Autoregressive (AR) image generators are powerful in principle but inflexible in practice: training with a fixed raster-scan order hardcodes a single factorization of the image distribution into the m",
+      "abstract": "Proactive agents must decide whether, when, and how far to assist without an explicit request. Existing evaluations often rely on automated scores or binary verdicts, offering limited human diagnosis",
       "authors": [
-        "Rishav Pramanik",
-        "Marco Pedersoli",
-        "Zhaozheng Yin"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.40564",
-      "title": "Training Foundation Models with a Single Algorithm",
-      "url": "https://huggingface.co/papers/2610.40564",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-28T20:00:00.000Z",
-      "abstract": "Foundation models are typically trained in stages: pretraining, midtraining, supervised fine-tuning (SFT), and reinforcement learning (RL), with changes in both data and learning algorithms. We show t",
-      "authors": [
-        "Yuda Song",
-        "Alvin Zhang",
-        "Fahim Tajwar",
-        "Daman Arora",
-        "Jeff Schneider"
+        "Wenqi Pei",
+        "Xinyu Wang",
+        "Jinrui Liu",
+        "Cynthia Zhuge",
+        "Jie Sheng"
       ],
       "tags": [
-        "training"
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -77,151 +81,23 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.39302",
-      "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
-      "url": "https://huggingface.co/papers/2610.39302",
+      "id": "hf_paper_2610.40738",
+      "title": "Apriel Voice 27B Preview: An Open Model for Speech, Reasoning, and Tool Use",
+      "url": "https://huggingface.co/papers/2610.40738",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-28T20:00:00.000Z",
-      "abstract": "Whether models trained on different modalities converge to the same representation of the world is central to AI. The Platonic Representation Hypothesis (PRH) conjectures that they do as they scale, b",
+      "abstract": "A capable voice assistant must do more than recognize words; it must understand requests, reason over context, sustain conversations, and act through tools. We present Apriel Voice 27B Preview, an ope",
       "authors": [
-        "Randall Balestriero",
-        "Yann LeCun"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.39423",
-      "title": "FDSML: Formula-Driven Supervised Metric Learning with Parameter-Aware Triplet Loss",
-      "url": "https://huggingface.co/papers/2610.39423",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-28T20:00:00.000Z",
-      "abstract": "Formula-Driven Supervised Learning (FDSL) enables vision pre-training without real images, but existing methods cast pre-training as classification on discretized labels, discarding continuity in the",
-      "authors": [
-        "Hina Otake",
-        "Shinei Arakawa",
-        "Keitaro Tanaka",
-        "Yoshihiro Fukuhara",
-        "Hirokatsu Kataoka"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.39301",
-      "title": "Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities",
-      "url": "https://huggingface.co/papers/2610.39301",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-28T20:00:00.000Z",
-      "abstract": "We present Youtu-Parsing-Omni, an omni-modal parser that converts documents, images, audio, and video into structured records grounded in space and time, providing a perception layer for agents that r",
-      "authors": [
-        "Yunhang Shen",
-        "Zhangquan Chen",
-        "Xiaotian Li",
-        "Zhongpeng Cai",
-        "Qing Zhou"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.39287",
-      "title": "OpenFlyV2: An onboard vision-language-action model for aerial perception and navigation",
-      "url": "https://huggingface.co/papers/2610.39287",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-28T20:00:00.000Z",
-      "abstract": "Human cognition flexibly draws on a shared perceptual foundation to understand environments, attend to referenced entities, reason about spatial relationships, and act. Endowing aerial robots with an",
-      "authors": [
-        "Junli Liu",
-        "Zhongrui You",
-        "Chenhui Li",
-        "Zhen Li",
-        "Yuyang Tian"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.40453",
-      "title": "PhysInsert: Physically Plausible Object Insertion with Geometric Priors and Bidirectional Object-Scene Interactions",
-      "url": "https://huggingface.co/papers/2610.40453",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-28T20:00:00.000Z",
-      "abstract": "We present PhysInsert, a framework for physically plausible reference-based object insertion that jointly adapts objects and their surrounding scenes. Existing methods often rely on masked inputs, gen",
-      "authors": [
-        "Yue Gong",
-        "Le Zhang",
-        "Rui Chen",
-        "Song Chang",
-        "Xiaochao Qu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.39663",
-      "title": "AB-Attention: Accurate Block Attention for Accelerating Video Diffusion Transformers",
-      "url": "https://huggingface.co/papers/2610.39663",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-28T20:00:00.000Z",
-      "abstract": "Video diffusion transformers generate high-quality videos, but the quadratic cost of 3D full attention dominates their inference. Dynamic block-sparse attention reduces this cost by computing exact at",
-      "authors": [
-        "Bin Xu",
-        "Mo Zhang",
-        "Zhengfeiyang Zhang",
-        "Xinfeng Yang",
-        "Yixing Ma"
+        "Aman Tiwari",
+        "Akshay Kalkunte",
+        "Akintunde Oladipo",
+        "Jash Shah",
+        "Tara Bogavelli"
       ],
       "tags": [
-        "transformer",
-        "diffusion"
+        "speech"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -233,23 +109,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.40647",
-      "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
-      "url": "https://huggingface.co/papers/2610.40647",
+      "id": "hf_paper_2610.40945",
+      "title": "On the Origin and Evolution of Training-Inference Mismatch in LLM Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2610.40945",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-28T20:00:00.000Z",
-      "abstract": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer det",
+      "abstract": "On-policy reinforcement learning for large language models assumes that training responses are sampled from the current policy. In practice, an inference engine samples the responses and a separate tr",
       "authors": [
-        "Jiongfan Yang",
-        "Weichen Fan",
-        "Haiwen Diao",
-        "Zhongang Cai",
-        "Ziwei Liu"
+        "Yu Li",
+        "Yufa Zhou",
+        "Tian Lan"
       ],
       "tags": [
-        "transformer"
+        "llm",
+        "inference",
+        "training",
+        "reinforcement learning"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -261,50 +138,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.40614",
-      "title": "L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory",
-      "url": "https://huggingface.co/papers/2610.40614",
+      "id": "hf_paper_2610.40799",
+      "title": "CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents",
+      "url": "https://huggingface.co/papers/2610.40799",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-28T20:00:00.000Z",
-      "abstract": "Interactive world models generate visual content conditioned on user actions, yet maintaining spatial consistency over long-horizon exploration in real time remains challenging. Existing approaches re",
+      "abstract": "Across coding, web, and tool-use tasks, language-model agents are now routinely trained with the same recipe: supervised fine-tuning (SFT) to learn the interface, then multi-turn reinforcement learnin",
       "authors": [
-        "Jinhyeok Choi",
-        "JoungBin Lee",
-        "Jongmin Lee",
-        "Minkyeong Jeon",
-        "Jiyoung Kim"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.39264",
-      "title": "Online Dense Reinforcement Learning with Planning-Grounding Agent for UI Navigation on Live IOS Apps",
-      "url": "https://huggingface.co/papers/2610.39264",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-28T20:00:00.000Z",
-      "abstract": "While frontier vision-language models demonstrate strong capabilities in user interface (UI) navigation, their high inference costs prohibit everyday use. Conversely, smaller models trained via superv",
-      "authors": [
-        "Peitong Duan",
-        "Khashayar Gatmiry",
-        "Jeffrey Nichols",
-        "Samy Bengio",
-        "Emmanuel Abbe"
+        "Yijia Fan",
+        "Xilin He",
+        "Yilei Jiang",
+        "Dongming Wu",
+        "Jiaxu Wang"
       ],
       "tags": [
         "agent",
-        "reinforcement learning"
+        "training"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -413,36 +264,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.38293",
-      "title": "EPSBench: Benchmarking LLM Agents for Earnings Forecasting",
-      "url": "https://huggingface.co/papers/2610.38293",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-28T01:24:11.000Z",
-      "abstract": "Quarterly earnings forecasting requires an agent to connect financial evidence to the income-statement line items that produce a company's reported earnings. We introduce EPSBench, a benchmark for stu",
-      "authors": [
-        "Yanbin Yin",
-        "Chuyu Xu",
-        "Liqin Ye",
-        "Jing Peng",
-        "Chao Zhang"
-      ],
-      "tags": [
-        "llm",
-        "agent",
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
