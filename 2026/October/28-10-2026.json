@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-02T10:17:44.470Z",
+  "generatedAt": "2026-11-02T20:25:58.743Z",
   "date": "28-10-2026",
-  "count": 11,
+  "count": 5,
   "summary": null,
   "items": [
     {
@@ -53,110 +53,22 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.39086",
-      "title": "HALO: Human-Grounded Granular Evaluation of Proactive Agents",
-      "url": "https://huggingface.co/papers/2610.39086",
+      "id": "hf_paper_2610.40256",
+      "title": "When Requirements Interact: Scaling Long-Horizon Coding via Interdependent Specifications",
+      "url": "https://huggingface.co/papers/2610.40256",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-28T20:00:00.000Z",
-      "abstract": "Proactive agents must decide whether, when, and how far to assist without an explicit request. Existing evaluations often rely on automated scores or binary verdicts, offering limited human diagnosis",
+      "abstract": "To succeed in real-world long-horizon software development, coding agents must satisfy multi-dimensional task specifications, such as interface compatibility and error handling, and do so without brea",
       "authors": [
-        "Wenqi Pei",
-        "Xinyu Wang",
-        "Jinrui Liu",
-        "Cynthia Zhuge",
-        "Jie Sheng"
+        "Yishuo Cai",
+        "Minzheng Wang",
+        "Liang Zhao",
+        "Linghao Zhang",
+        "Lei Li"
       ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.40738",
-      "title": "Apriel Voice 27B Preview: An Open Model for Speech, Reasoning, and Tool Use",
-      "url": "https://huggingface.co/papers/2610.40738",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-28T20:00:00.000Z",
-      "abstract": "A capable voice assistant must do more than recognize words; it must understand requests, reason over context, sustain conversations, and act through tools. We present Apriel Voice 27B Preview, an ope",
-      "authors": [
-        "Aman Tiwari",
-        "Akshay Kalkunte",
-        "Akintunde Oladipo",
-        "Jash Shah",
-        "Tara Bogavelli"
-      ],
-      "tags": [
-        "speech"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.40945",
-      "title": "On the Origin and Evolution of Training-Inference Mismatch in LLM Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2610.40945",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-28T20:00:00.000Z",
-      "abstract": "On-policy reinforcement learning for large language models assumes that training responses are sampled from the current policy. In practice, an inference engine samples the responses and a separate tr",
-      "authors": [
-        "Yu Li",
-        "Yufa Zhou",
-        "Tian Lan"
-      ],
-      "tags": [
-        "llm",
-        "inference",
-        "training",
-        "reinforcement learning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.40799",
-      "title": "CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents",
-      "url": "https://huggingface.co/papers/2610.40799",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-28T20:00:00.000Z",
-      "abstract": "Across coding, web, and tool-use tasks, language-model agents are now routinely trained with the same recipe: supervised fine-tuning (SFT) to learn the interface, then multi-turn reinforcement learnin",
-      "authors": [
-        "Yijia Fan",
-        "Xilin He",
-        "Yilei Jiang",
-        "Dongming Wu",
-        "Jiaxu Wang"
-      ],
-      "tags": [
-        "agent",
-        "training"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -189,26 +101,6 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fopena",
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-10-28T13:15:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
       "title": "Pairing industrial AI autonomy and human control",
       "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
@@ -222,48 +114,6 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fthe-f",
-      "title": "The future of the firm",
-      "url": "https://openai.com/index/the-future-of-the-firm",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-10-28T10:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Flegor",
-      "title": "Legora is building the agentic operating system for legal work",
-      "url": "https://openai.com/index/legora",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-10-28T09:30:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
