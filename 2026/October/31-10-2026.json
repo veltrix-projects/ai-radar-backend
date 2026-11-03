@@ -1,9 +1,94 @@
 {
-  "generatedAt": "2026-11-03T02:29:49.897Z",
+  "generatedAt": "2026-11-03T09:54:05.441Z",
   "date": "31-10-2026",
-  "count": 6,
+  "count": 8,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2611.01484",
+      "title": "CrossSWE: Benchmarking Cross-Repository Joint Development for Coding Agents",
+      "url": "https://huggingface.co/papers/2611.01484",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-31T23:16:52.000Z",
+      "abstract": "As coding agents achieve increasingly high success rates on software engineering benchmarks, recent efforts have sought to increase task complexity through longer horizons and more extensive code modi",
+      "authors": [
+        "Silin Chen",
+        "Yuling Shi",
+        "Heng Lian",
+        "Zihan Zhang",
+        "Xiaodong Gu"
+      ],
+      "tags": [
+        "agent",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.01560",
+      "title": "Democratizing Robot-Use Agents: A Unified Harness with Open Models",
+      "url": "https://huggingface.co/papers/2611.01560",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-31T20:00:00.000Z",
+      "abstract": "Robot-use Agents (RUAs) have shown promising zero-shot manipulation capabilities, but reliance on frontier, proprietary models limits research into further training. To democratize RUA research, we in",
+      "authors": [
+        "Jiarui Yuan",
+        "Yuxin Zuo",
+        "Xiaoyu Huang",
+        "Wenbo Zhang",
+        "Kwanyoung Park"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.02102",
+      "title": "NorthCUA Technical Report: Turbocharging Computer-Use Agents through Experience at Scale",
+      "url": "https://huggingface.co/papers/2611.02102",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-31T20:00:00.000Z",
+      "abstract": "Scaling computer-use agents from individual actions to complex software work requires experience that connects decisions to complete outcomes. We present NorthCUA, an integrated system for turbochargi",
+      "authors": [
+        "Chaoyun Zhang",
+        "Bingxuan Li",
+        "Pinxue Guo",
+        "Yangfan Gao",
+        "Zikun Cai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "siliconangle_ai_https%3A%2F%2Fsiliconangle.com%2F2026%2F",
       "title": "Can enterprise AI pay for the boom?",
@@ -99,26 +184,6 @@
       "tags": [
         "agent"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "siliconangle_ai_https%3A%2F%2Fsiliconangle.com%2F2026%2F",
-      "title": "Google, Anthropic and others to support new AI crawling opt-out standard",
-      "url": "https://siliconangle.com/2026/10/30/google-anthropic-and-others-to-support-new-ai-crawling-opt-out-standard/",
-      "source": "SiliconANGLE AI",
-      "sourceIcon": "📐",
-      "type": "news",
-      "timestamp": "2026-10-31T02:00:23.000Z",
-      "abstract": "Google LLC, Microsoft Corp., Anthropic PBC and OpenAI Group PBC today announced plans to support an upcoming website crawling standard. The technology will enable website operators to block artificial",
-      "authors": [],
-      "tags": [],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",

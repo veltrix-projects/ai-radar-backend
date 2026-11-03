@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-11-03T02:29:49.899Z",
+  "generatedAt": "2026-11-03T09:54:05.567Z",
   "date": "29-10-2026",
-  "count": 16,
+  "count": 12,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2610.41216",
+      "title": "TinyAstral: Transferring Self-Evolving Harnesses to Tiny Generalist Manipulation Agents",
+      "url": "https://huggingface.co/papers/2610.41216",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-29T23:53:42.000Z",
+      "abstract": "Robot agents built on vision-language models depend on both the planner and its harness: the tools, feedback, memory, and recovery logic around it. Can improvements to a large teacher's harness be car",
+      "authors": [
+        "Kehong Gong",
+        "Xiaoxu Zheng",
+        "Guanli Hou",
+        "Seunghun Lee",
+        "Mengqi Guo"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
       "title": "How the UK Amazon Quick User Group grew in 2026",
@@ -25,45 +53,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.41278",
-      "title": "AuditFL: A Contract-Backed Clearing Layer for Open Federated Learning",
-      "url": "https://huggingface.co/papers/2610.41278",
+      "id": "hf_paper_2610.41574",
+      "title": "BYOD: Build Your Own DLM - Efficient Autoregressive-to-Diffusion Language Model Conversion",
+      "url": "https://huggingface.co/papers/2610.41574",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-29T20:00:00.000Z",
-      "abstract": "Federated learning (FL) keeps raw data local, but most deployments still rely on a trusted coordinator for client admission, checkpoint distribution, update collection, aggregation, and rewards. This",
+      "abstract": "Unlike autoregressive (AR) models, diffusion language models (DLMs) permit parallel token updates, flexible generation, and bidirectional attention, but leading systems rely on costly pretraining or f",
       "authors": [
-        "Alexandros Balla",
-        "Spyros Lalis"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.42010",
-      "title": "TurnTurk-GPT: Text-Based Turn-Taking Prediction for Turkish",
-      "url": "https://huggingface.co/papers/2610.42010",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-29T20:00:00.000Z",
-      "abstract": "This paper presents TurnTurk-GPT, a text-based turn-taking predictor for Turkish obtained by fine-tuning a Turkish GPT-2 model with the TurnGPT objective on synthetic and real dialogue, and evaluates",
-      "authors": [
-        "Ahmet Tuğrul Bayrak",
-        "Fatma Nur Korkmaz",
-        "Nur Yağmur Tuncer",
-        "Mustafa Sertaç Türkel"
+        "Ruurd J. A. Kuiper",
+        "Robert A. Bagheri"
       ],
       "tags": [
-        "gpt"
+        "diffusion"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -75,27 +78,28 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.42149",
-      "title": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
-      "url": "https://huggingface.co/papers/2610.42149",
+      "id": "hf_paper_2611.00172",
+      "title": "From Fragmentation to Fusion: A Survey and Roadmap for Omnimodal Embeddings",
+      "url": "https://huggingface.co/papers/2611.00172",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-29T20:00:00.000Z",
-      "abstract": "Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought re",
+      "abstract": "Embedding models underpin virtually every modern AI system, from search engines to recommendation systems. Despite shared mathematical foundations, research on embedding models remains fragmented by m",
       "authors": [
-        "Byungwoo Jeon",
-        "Yoonwoo Jeong",
-        "Hyunseok Lee",
-        "Minsu Cho",
-        "Jinwoo Shin"
+        "Ziyin Zhang",
+        "Yuyu Guo",
+        "Ying Zhang",
+        "Siqiao Xue",
+        "Zihan Liao"
       ],
       "tags": [
-        "multimodal"
+        "rag",
+        "embeddings"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -143,46 +147,6 @@
       "points": 0
     },
     {
-      "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fpodcast-",
-      "title": "Podcast: Flock CEO Says the Backlash Isn’t Real",
-      "url": "https://www.404media.co/podcast-flock-ceo-says-the-backlash-isnt-real/",
-      "source": "404 Media",
-      "sourceIcon": "📡",
-      "type": "news",
-      "timestamp": "2026-10-29T17:34:52.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fupdat",
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "url": "https://openai.com/index/updated-model-spec",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-10-29T17:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "meta_ai_blog_https%3A%2F%2Fengineering.fb.com%2F2026%",
       "title": "Catching Bugs Before They Land: JiTTesting’s Human-on-the-Loop Approach at Full Scale",
       "url": "https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale/",
@@ -203,34 +167,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.40914",
-      "title": "No Channels Left Behind: Understanding Diffusion Acceleration through Residual Gates",
-      "url": "https://huggingface.co/papers/2610.40914",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-29T15:35:11.000Z",
-      "abstract": "Training acceleration methods for diffusion transformers, such as REPA and dispersive regularization, are commonly explained by additional supervision, spatial-structure priors, or improved feature ge",
-      "authors": [
-        "Junha Park",
-        "Jaemyung Yu",
-        "Jaehui Hwang",
-        "Jong-Seok Lee",
-        "Dongyoon Han"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "Unlocking Tensor Core Performance for Machine Learning Interatomic Potentials",
       "url": "https://developer.nvidia.com/blog/unlocking-tensor-core-performance-for-machine-learning-interatomic-potentials/",
@@ -244,30 +180,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.40488",
-      "title": "rTaste: Do Research Agents Have Taste? Evaluating Early Stage Research Judgment",
-      "url": "https://huggingface.co/papers/2610.40488",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-29T13:15:53.000Z",
-      "abstract": "Do research agents have taste, the judgment of which experiments are worth running before their outcomes are known? We give six frontier models seven recent NLP papers. Each model, working as a resear",
-      "authors": [
-        "Art Kanke"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -301,7 +213,35 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 182924,
+      "stars": 183177,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.40191",
+      "title": "Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Improvement",
+      "url": "https://huggingface.co/papers/2610.40191",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-29T10:47:39.000Z",
+      "abstract": "Video generation is shifting from end-to-end synthesis toward agentic generation, where planning, tool use, and feedback enable coherent, controllable multi-shot videos. In parallel, video world model",
+      "authors": [
+        "Liaoyuan Fan",
+        "Yuhao Zheng",
+        "Dongxing Mao",
+        "Hangyu Ran",
+        "Siyuan Hu"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
       "votes": 0,
       "points": 0
     },
@@ -328,46 +268,27 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fhow-w",
-      "title": "How we detect frontier model misalignment",
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-10-29T09:00:00.000Z",
-      "abstract": "",
-      "authors": [],
+      "id": "hf_paper_2610.39419",
+      "title": "Diagnosing the Reference Gap: What Visual Scaffolds Can and Cannot Fix in Multimodal Reasoning",
+      "url": "https://huggingface.co/papers/2610.39419",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-29T02:00:35.000Z",
+      "abstract": "Multimodal large language models can recognize visual content yet struggle to reason reliably over it across multiple steps. In counting, a model may see all objects but lose track of which ones it ha",
+      "authors": [
+        "Guizhen Chen",
+        "Weiwen Xu",
+        "Wotao Yin",
+        "Anh Tuan Luu",
+        "Hou Pong Chan"
+      ],
       "tags": [
-        "alignment"
+        "multimodal"
       ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.40727",
-      "title": "VoxLock: Target-Speaker Extraction for Voice Agents Without an Enrollment Step",
-      "url": "https://huggingface.co/papers/2610.40727",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-29T06:16:03.000Z",
-      "abstract": "A voice agent's speech recognizer transcribes everyone near the microphone, including people other than the caller. I fine-tuned a public causal target-speaker extraction model (REAL-TSE, 27M paramete",
-      "authors": [
-        "Arbaz Siddiqui"
-      ],
-      "tags": [
-        "llm",
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

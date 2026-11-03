@@ -1,37 +1,9 @@
 {
-  "generatedAt": "2026-11-03T02:29:49.900Z",
+  "generatedAt": "2026-11-03T09:54:05.630Z",
   "date": "28-10-2026",
-  "count": 6,
+  "count": 4,
   "summary": null,
   "items": [
-    {
-      "id": "hf_paper_2610.39276",
-      "title": "MemSteer: Turning User Histories into Supervision for Agent Memory Optimization",
-      "url": "https://huggingface.co/papers/2610.39276",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-28T23:28:49.000Z",
-      "abstract": "An effective agent memory system should adapt to a user's history and task requirements. Human-annotated supervision can guide this adaptation by providing feedback for evaluating and improving memory",
-      "authors": [
-        "Jie Huang",
-        "Cuiling Lan",
-        "Qize Yu",
-        "Xiulian Peng",
-        "Yan Lu"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
       "title": "Creating AI value with enterprise context",
@@ -53,50 +25,26 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.40901",
-      "title": "TSFLab: A Self-Improving Agent-Agnostic Workbench for Time Series Forecasting Research",
-      "url": "https://huggingface.co/papers/2610.40901",
+      "id": "hf_paper_2610.40293",
+      "title": "MAServeBench: Benchmarking Multi-Agent LLM Serving Systems with Hierarchical Collaboration Workloads",
+      "url": "https://huggingface.co/papers/2610.40293",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-28T20:00:00.000Z",
-      "abstract": "As publications and products on time series forecasting (TSF) proliferate, researchers face a growing burden of analyzing existing work. First, not all publications release code. For instance, only ab",
+      "abstract": "Large language model (LLM)-based multi-agent systems (MAS) coordinate specialized agents to solve complex tasks, turning each user request into interdependent model and tool operations. Unlike indepen",
       "authors": [
-        "ChengAo Shen",
-        "Yanjun Zhao",
-        "Haoxin Liu",
-        "Bonnie Chen",
-        "Miles Ma"
+        "Shengxuan Qiu",
+        "Haochen Huang",
+        "Shuzhang Zhong",
+        "Zizhuo Fu",
+        "Zebin Yang"
       ],
       "tags": [
-        "agent"
+        "llm",
+        "agent",
+        "benchmark"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.40256",
-      "title": "When Requirements Interact: Scaling Long-Horizon Coding via Interdependent Specifications",
-      "url": "https://huggingface.co/papers/2610.40256",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-28T20:00:00.000Z",
-      "abstract": "To succeed in real-world long-horizon software development, coding agents must satisfy multi-dimensional task specifications, such as interface compatibility and error handling, and do so without brea",
-      "authors": [
-        "Yishuo Cai",
-        "Minzheng Wang",
-        "Liang Zhao",
-        "Linghao Zhang",
-        "Lei Li"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
