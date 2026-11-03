@@ -1,28 +1,52 @@
 {
-  "generatedAt": "2026-11-03T09:54:05.441Z",
+  "generatedAt": "2026-11-03T17:25:54.896Z",
   "date": "31-10-2026",
   "count": 8,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2611.01484",
-      "title": "CrossSWE: Benchmarking Cross-Repository Joint Development for Coding Agents",
-      "url": "https://huggingface.co/papers/2611.01484",
+      "id": "hf_paper_2611.02112",
+      "title": "Order-Only On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2611.02112",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-10-31T23:16:52.000Z",
-      "abstract": "As coding agents achieve increasingly high success rates on software engineering benchmarks, recent efforts have sought to increase task complexity through longer horizons and more extensive code modi",
+      "timestamp": "2026-10-31T20:00:00.000Z",
+      "abstract": "On-policy distillation (OPD) trains a student on its own generations by matching the teacher's token probabilities. These probabilities entangle two kinds of information: which tokens the teacher pref",
       "authors": [
-        "Silin Chen",
-        "Yuling Shi",
-        "Heng Lian",
-        "Zihan Zhang",
-        "Xiaodong Gu"
+        "Guangzeng Han",
+        "Yu Wu",
+        "Xiaolei Huang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.02074",
+      "title": "SWE-Trail: History-Guided Trajectory Collection for Coding Agent Training",
+      "url": "https://huggingface.co/papers/2611.02074",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-31T20:00:00.000Z",
+      "abstract": "Coding agents solve repository issues through long sequences of exploration, editing, and validation. These trajectories are increasingly used as post-training data, so how they are collected shapes w",
+      "authors": [
+        "Ziming Li",
+        "Lu Yu",
+        "Jiatan Huang",
+        "Qing Cui",
+        "Jun Zhou"
       ],
       "tags": [
         "agent",
-        "benchmark"
+        "training"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -34,22 +58,23 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.01560",
-      "title": "Democratizing Robot-Use Agents: A Unified Harness with Open Models",
-      "url": "https://huggingface.co/papers/2611.01560",
+      "id": "hf_paper_2611.01860",
+      "title": "Advances in Agentic Computer Graphics",
+      "url": "https://huggingface.co/papers/2611.01860",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-31T20:00:00.000Z",
-      "abstract": "Robot-use Agents (RUAs) have shown promising zero-shot manipulation capabilities, but reliance on frontier, proprietary models limits research into further training. To democratize RUA research, we in",
+      "abstract": "Computer graphics is built on code. Large language model (LLM) agents can now generate graphics code and iteratively refine it through various feedback. This capability opens the door to a potentially",
       "authors": [
-        "Jiarui Yuan",
-        "Yuxin Zuo",
-        "Xiaoyu Huang",
-        "Wenbo Zhang",
-        "Kwanyoung Park"
+        "Hengyu Liu",
+        "Jihyeon Je",
+        "Ruiqi Wang",
+        "Mingxuan Wu",
+        "Haven Feng"
       ],
       "tags": [
+        "phi",
         "agent"
       ],
       "score": 6,
@@ -62,46 +87,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.02102",
-      "title": "NorthCUA Technical Report: Turbocharging Computer-Use Agents through Experience at Scale",
-      "url": "https://huggingface.co/papers/2611.02102",
+      "id": "hf_paper_2611.01460",
+      "title": "Can Large Language Model Agents Learn by Watching Tutorial Videos?",
+      "url": "https://huggingface.co/papers/2611.01460",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-31T20:00:00.000Z",
-      "abstract": "Scaling computer-use agents from individual actions to complex software work requires experience that connects decisions to complete outcomes. We present NorthCUA, an integrated system for turbochargi",
+      "abstract": "Humans continuously acquire knowledge from carefully crafted materials such as books and tutorial videos, carrying that understanding into future tasks. Millions of such instructional videos are uploa",
       "authors": [
-        "Chaoyun Zhang",
-        "Bingxuan Li",
-        "Pinxue Guo",
-        "Yangfan Gao",
-        "Zikun Cai"
+        "Haoyu Zhao",
+        "Zafeirios Fountas",
+        "Jun Wang"
       ],
       "tags": [
         "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "siliconangle_ai_https%3A%2F%2Fsiliconangle.com%2F2026%2F",
-      "title": "Can enterprise AI pay for the boom?",
-      "url": "https://siliconangle.com/2026/10/31/can-enterprise-ai-pay-for-the-boom/",
-      "source": "SiliconANGLE AI",
-      "sourceIcon": "📐",
-      "type": "news",
-      "timestamp": "2026-10-31T17:12:02.000Z",
-      "abstract": "The artificial intelligence buildout is making an enormous bet on what businesses will eventually be willing to pay for intelligence. In our research this summer on forecasting the AI bubble, we argue",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

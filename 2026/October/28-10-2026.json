@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-03T09:54:05.630Z",
+  "generatedAt": "2026-11-03T17:25:54.898Z",
   "date": "28-10-2026",
-  "count": 4,
+  "count": 5,
   "summary": null,
   "items": [
     {
@@ -25,25 +25,49 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.40293",
-      "title": "MAServeBench: Benchmarking Multi-Agent LLM Serving Systems with Hierarchical Collaboration Workloads",
-      "url": "https://huggingface.co/papers/2610.40293",
+      "id": "hf_paper_2610.39639",
+      "title": "Where Do Vision Language Models Fail at 3D Reasoning?",
+      "url": "https://huggingface.co/papers/2610.39639",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-28T20:00:00.000Z",
-      "abstract": "Large language model (LLM)-based multi-agent systems (MAS) coordinate specialized agents to solve complex tasks, turning each user request into interdependent model and tool operations. Unlike indepen",
+      "abstract": "Vision-language models can get individual judgments right while struggling to recover and consistently use the exact properties of a 3D object. To characterize this gap, we introduce BedBench, a contr",
       "authors": [
-        "Shengxuan Qiu",
-        "Haochen Huang",
-        "Shuzhang Zhong",
-        "Zizhuo Fu",
-        "Zebin Yang"
+        "Khai Le-Duc",
+        "Nguyen Kim Hai Bui",
+        "An Ngo",
+        "Nam D. Hoang",
+        "Yueqi Song"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.39278",
+      "title": "WorldFlow: Joint Video and 3D Motion Prediction via Large-Scale Pretraining",
+      "url": "https://huggingface.co/papers/2610.39278",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-28T20:00:00.000Z",
+      "abstract": "Predicting future physical states stands as a central challenge in embodied intelligence. Existing video world models leave 3D dynamics implicit, action-based formulations remain tied to specific robo",
+      "authors": [
+        "Yuhao Lu",
+        "Jiongxu Chen",
+        "Hexiang Wei",
+        "Jiajin Wu",
+        "Juelin Li"
       ],
       "tags": [
-        "llm",
-        "agent",
-        "benchmark"
+        "training"
       ],
       "score": 6,
       "priority": "MEDIUM",
