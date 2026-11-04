@@ -1,27 +1,49 @@
 {
-  "generatedAt": "2026-11-04T02:29:44.716Z",
+  "generatedAt": "2026-11-04T09:41:39.193Z",
   "date": "26-10-2026",
-  "count": 2,
+  "count": 3,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.35219",
-      "title": "Multi-Agent Relay Thinking",
-      "url": "https://huggingface.co/papers/2610.35219",
+      "id": "hf_paper_2610.37914",
+      "title": "Muon Makes the First Mixture-of-Experts Layer Harder to Balance",
+      "url": "https://huggingface.co/papers/2610.37914",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-26T20:00:00.000Z",
-      "abstract": "Existing multi-agent collaboration (MAC) methods have primarily explored a group thinking collaboration topology, where agents independently generate solutions and aggregate their outputs. In this wor",
+      "abstract": "Many open mixture-of-experts (MoE) language models train with Muon instead of AdamW. Most balance the load with a bias on each expert's routing score, adjusted after every step. Their recipes disagree",
       "authors": [
-        "Xu Liu",
-        "Jungang Qiao",
-        "Guikun Chen",
-        "Xiaojuan Qi",
-        "Wenguan Wang"
+        "Marcos Hernanz"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.36915",
+      "title": "Do We Need an LLM to Know Why Sources Conflict? Decision Models for Knowledge-Conflict Typing in RAG",
+      "url": "https://huggingface.co/papers/2610.36915",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-26T20:00:00.000Z",
+      "abstract": "When the sources retrieved for a query disagree, the right response depends on why they disagree: a question with several valid answers, a contested topic, stale information and a false source each ca",
+      "authors": [
+        "Parv Khatri",
+        "Harshul Jain",
+        "Mehak Kapoor",
+        "Tanya Sah"
       ],
       "tags": [
-        "agent"
+        "llm",
+        "rag"
       ],
       "score": 6,
       "priority": "MEDIUM",

@@ -1,26 +1,56 @@
 {
-  "generatedAt": "2026-11-04T02:29:44.713Z",
+  "generatedAt": "2026-11-04T09:41:39.192Z",
   "date": "29-10-2026",
-  "count": 5,
+  "count": 6,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.41994",
-      "title": "DAMI: Dual-Axis Memory Initialization for Enhanced Long-Context Retrieval in Gated Linear Attention",
-      "url": "https://huggingface.co/papers/2610.41994",
+      "id": "hf_paper_2610.39813",
+      "title": "EvoTeam: Multi-Agent Collaboration via Evolving Teams",
+      "url": "https://huggingface.co/papers/2610.39813",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-29T20:00:00.000Z",
-      "abstract": "Linear attention scales linearly with sequence length, but its finite-state memory can limit long-context retrieval. In gated linear recurrences, memory retention depends on state decay, which is shap",
+      "abstract": "LLM-based multi-agent systems (MAS) rely on collaboration among specialized agents to solve complex tasks. Existing methods improve MAS by refining the prompts, skills, and execution strategies of ind",
       "authors": [
-        "Zhangchi Feng",
-        "Harry Jiang",
-        "Yangyifei Luo",
-        "Ray Zhang",
-        "Richong Zhang"
+        "Qinuo Cao",
+        "Xin He",
+        "Dianxuan Fu",
+        "Lizhi Zhang",
+        "Zhaoqing Xing"
       ],
-      "tags": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.39714",
+      "title": "MoLRSI: A Recursive Self-Improving AI agent for Molecular Discovery",
+      "url": "https://huggingface.co/papers/2610.39714",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-29T20:00:00.000Z",
+      "abstract": "Molecular discovery requires navigating vast combinatorial search spaces while balancing competing biological objectives. AI agents can automate expert-defined molecular design protocols, but automati",
+      "authors": [
+        "Yikun Zhang",
+        "Xiwei Cheng",
+        "Mingze Yuan",
+        "Yu Zhang",
+        "Brian Shim"
+      ],
+      "tags": [
+        "agent"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -97,7 +127,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 183783,
+      "stars": 184045,
       "votes": 0,
       "points": 0
     },

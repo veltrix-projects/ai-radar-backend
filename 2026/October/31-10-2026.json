@@ -1,107 +1,55 @@
 {
-  "generatedAt": "2026-11-04T02:29:44.711Z",
+  "generatedAt": "2026-11-04T09:41:39.190Z",
   "date": "31-10-2026",
-  "count": 5,
+  "count": 3,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2611.02112",
-      "title": "Order-Only On-Policy Distillation",
-      "url": "https://huggingface.co/papers/2611.02112",
+      "id": "hf_paper_2611.02017",
+      "title": "Switch-SWE: Do Coding Agents Hold Focus When Switching Between Unfinished Tasks?",
+      "url": "https://huggingface.co/papers/2611.02017",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-31T20:00:00.000Z",
-      "abstract": "On-policy distillation (OPD) trains a student on its own generations by matching the teacher's token probabilities. These probabilities entangle two kinds of information: which tokens the teacher pref",
+      "abstract": "Software development sessions often involve several unfinished tasks rather than one issue carried through to completion. As coding agents take on repository-level development, they need to recover an",
       "authors": [
-        "Guangzeng Han",
-        "Yu Wu",
-        "Xiaolei Huang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.02074",
-      "title": "SWE-Trail: History-Guided Trajectory Collection for Coding Agent Training",
-      "url": "https://huggingface.co/papers/2611.02074",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-31T20:00:00.000Z",
-      "abstract": "Coding agents solve repository issues through long sequences of exploration, editing, and validation. These trajectories are increasingly used as post-training data, so how they are collected shapes w",
-      "authors": [
-        "Ziming Li",
-        "Lu Yu",
-        "Jiatan Huang",
-        "Qing Cui",
-        "Jun Zhou"
-      ],
-      "tags": [
-        "agent",
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.01860",
-      "title": "Advances in Agentic Computer Graphics",
-      "url": "https://huggingface.co/papers/2611.01860",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-31T20:00:00.000Z",
-      "abstract": "Computer graphics is built on code. Large language model (LLM) agents can now generate graphics code and iteratively refine it through various feedback. This capability opens the door to a potentially",
-      "authors": [
-        "Hengyu Liu",
-        "Jihyeon Je",
-        "Ruiqi Wang",
-        "Mingxuan Wu",
-        "Haven Feng"
-      ],
-      "tags": [
-        "phi",
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.01460",
-      "title": "Can Large Language Model Agents Learn by Watching Tutorial Videos?",
-      "url": "https://huggingface.co/papers/2611.01460",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-31T20:00:00.000Z",
-      "abstract": "Humans continuously acquire knowledge from carefully crafted materials such as books and tutorial videos, carrying that understanding into future tasks. Millions of such instructional videos are uploa",
-      "authors": [
-        "Haoyu Zhao",
-        "Zafeirios Fountas",
-        "Jun Wang"
+        "Shuochen Chang",
+        "Qianli Ma",
+        "Yibo Miao",
+        "Qingyang Liu",
+        "Bingjie Gao"
       ],
       "tags": [
         "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.01927",
+      "title": "Is Your Long-Horizon Benchmark Really Deep? Measuring and Synthesizing Depth in Terminal Tasks",
+      "url": "https://huggingface.co/papers/2611.01927",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-31T20:00:00.000Z",
+      "abstract": "Long-horizon terminal tasks are used to evaluate and train agents. Human-curated datasets are scarce, so many synthesis methods have emerged. They usually measure the length of a task by the turns a m",
+      "authors": [
+        "Yu Jiang",
+        "Yue Huang",
+        "Hang Hua",
+        "Yuyang Wu",
+        "Zixuan Weng"
+      ],
+      "tags": [
+        "benchmark"
       ],
       "score": 6,
       "priority": "MEDIUM",
