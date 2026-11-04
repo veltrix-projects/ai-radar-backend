@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-04T09:41:39.190Z",
+  "generatedAt": "2026-11-04T17:39:02.889Z",
   "date": "01-11-2026",
-  "count": 2,
+  "count": 3,
   "summary": null,
   "items": [
     {
@@ -48,6 +48,34 @@
       ],
       "tags": [
         "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.03998",
+      "title": "Dory1.0-4B: A Looped Normalized-GPT",
+      "url": "https://huggingface.co/papers/2611.03998",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-01T19:00:00.000Z",
+      "abstract": "We introduce Dory1.0-4B, a 4-billion-parameter looped (latent-recurrent) language model with elastic depth: a single checkpoint serves different inference compute budgets. Dory1.0-4B is built on a nor",
+      "authors": [
+        "Maxim Fishman",
+        "Simeng Sun",
+        "Shantanu Acharya",
+        "Faisal Ladhak",
+        "Brian Chmiel"
+      ],
+      "tags": [
+        "gpt"
       ],
       "score": 6,
       "priority": "MEDIUM",
