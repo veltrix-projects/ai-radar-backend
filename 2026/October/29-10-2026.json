@@ -1,56 +1,25 @@
 {
-  "generatedAt": "2026-11-04T17:39:02.891Z",
+  "generatedAt": "2026-11-04T22:59:30.474Z",
   "date": "29-10-2026",
-  "count": 6,
+  "count": 4,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.39813",
-      "title": "EvoTeam: Multi-Agent Collaboration via Evolving Teams",
-      "url": "https://huggingface.co/papers/2610.39813",
+      "id": "hf_paper_2611.00352",
+      "title": "Cross-Prompt Reuse of Entity-Replacement Responses",
+      "url": "https://huggingface.co/papers/2611.00352",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-29T20:00:00.000Z",
-      "abstract": "LLM-based multi-agent systems (MAS) rely on collaboration among specialized agents to solve complex tasks. Existing methods improve MAS by refining the prompts, skills, and execution strategies of ind",
+      "abstract": "With model weights fixed, we measure how much of an entity-replacement response transfers between English factual questions, beyond whether answers change. We add the hidden-state change from two sour",
       "authors": [
-        "Qinuo Cao",
-        "Xin He",
-        "Dianxuan Fu",
-        "Lizhi Zhang",
-        "Zhaoqing Xing"
+        "Jinkun Chen",
+        "Xuemin Yu",
+        "Sijia Han",
+        "Vlado Keselj"
       ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.39714",
-      "title": "MoLRSI: A Recursive Self-Improving AI agent for Molecular Discovery",
-      "url": "https://huggingface.co/papers/2610.39714",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-29T20:00:00.000Z",
-      "abstract": "Molecular discovery requires navigating vast combinatorial search spaces while balancing competing biological objectives. AI agents can automate expert-defined molecular design protocols, but automati",
-      "authors": [
-        "Yikun Zhang",
-        "Xiwei Cheng",
-        "Mingze Yuan",
-        "Yu Zhang",
-        "Brian Shim"
-      ],
-      "tags": [
-        "agent"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -69,26 +38,6 @@
       "type": "news",
       "timestamp": "2026-10-29T16:00:12.000Z",
       "abstract": "Over the last year we&#8217;ve been sharing our work leveraging large language models to catch bugs on the fly — a novel approach we call Catching Just-in-Time Tests (JiTTests). Now, we&#8217;re shari",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
-      "title": "Unlocking Tensor Core Performance for Machine Learning Interatomic Potentials",
-      "url": "https://developer.nvidia.com/blog/unlocking-tensor-core-performance-for-machine-learning-interatomic-potentials/",
-      "source": "NVIDIA Blog",
-      "sourceIcon": "🟩",
-      "type": "tool",
-      "timestamp": "2026-10-29T15:00:00.000Z",
-      "abstract": "Atomistic simulations help researchers understand how molecules and materials behave, from chemical reactions and phase transitions to mechanical failure. These...]]>",
       "authors": [],
       "tags": [],
       "score": 8,
@@ -127,7 +76,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 184045,
+      "stars": 184503,
       "votes": 0,
       "points": 0
     },

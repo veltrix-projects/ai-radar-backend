@@ -1,56 +1,23 @@
 {
-  "generatedAt": "2026-11-04T17:39:02.890Z",
+  "generatedAt": "2026-11-04T22:59:30.471Z",
   "date": "31-10-2026",
-  "count": 3,
+  "count": 2,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2611.02017",
-      "title": "Switch-SWE: Do Coding Agents Hold Focus When Switching Between Unfinished Tasks?",
-      "url": "https://huggingface.co/papers/2611.02017",
+      "id": "hf_paper_2611.01598",
+      "title": "QFabric: Guarded Cross-Domain Task Recovery and Its Limits on a Linux-RTOS Board",
+      "url": "https://huggingface.co/papers/2611.01598",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-31T20:00:00.000Z",
-      "abstract": "Software development sessions often involve several unfinished tasks rather than one issue carried through to completion. As coding agents take on repository-level development, they need to recover an",
+      "abstract": "Heterogeneous embedded boards pair a Linux application processor with a real-time microcontroller (MCU), which suggests moving a task between the two domains when its timing degrades. We present QFabr",
       "authors": [
-        "Shuochen Chang",
-        "Qianli Ma",
-        "Yibo Miao",
-        "Qingyang Liu",
-        "Bingjie Gao"
+        "Ayushman Bhattacharya",
+        "Anwesha Chakraborty"
       ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.01927",
-      "title": "Is Your Long-Horizon Benchmark Really Deep? Measuring and Synthesizing Depth in Terminal Tasks",
-      "url": "https://huggingface.co/papers/2611.01927",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-31T20:00:00.000Z",
-      "abstract": "Long-horizon terminal tasks are used to evaluate and train agents. Human-curated datasets are scarce, so many synthesis methods have emerged. They usually measure the length of a task by the turns a m",
-      "authors": [
-        "Yu Jiang",
-        "Yue Huang",
-        "Hang Hua",
-        "Yuyang Wu",
-        "Zixuan Weng"
-      ],
-      "tags": [
-        "benchmark"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
