@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-03T22:25:06.176Z",
+  "generatedAt": "2026-11-04T02:29:44.710Z",
   "date": "01-11-2026",
-  "count": 9,
+  "count": 7,
   "summary": null,
   "items": [
     {
@@ -140,32 +140,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.03219",
-      "title": "Can Coding Agents Sustain Continual Evolution without Forgetting?",
-      "url": "https://huggingface.co/papers/2611.03219",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-01T19:00:00.000Z",
-      "abstract": "Recently, harness self-evolution has emerged as an important paradigm for improving agent performance. Prior studies show that evolving the agent harness can effectively enhance agent capabilities wit",
-      "authors": [
-        "Shangziqi Zhao",
-        "Yitong Zhang",
-        "Jia Li"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
       "title": "Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon",
       "url": "https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/",
@@ -176,30 +150,6 @@
       "abstract": "Nace AI open-sources Drex Max v1, a 27B multimodal decision model scoring 67.52 that runs on Apple Silicon.\nThe post Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple S",
       "authors": [],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent",
-      "url": "https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-11-01T07:47:17.000Z",
-      "abstract": "DeepSeek released dsh-superagent, an MIT-licensed research prototype that turns GitHub and Feishu requests into parallel worker sessions. In DeepSeek’s own simulation, p95 task completion fell to 15.7",
-      "authors": [],
-      "tags": [
-        "deepseek",
-        "rag",
-        "agent"
-      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",

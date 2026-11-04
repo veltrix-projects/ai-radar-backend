@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-03T22:25:06.177Z",
+  "generatedAt": "2026-11-04T02:29:44.712Z",
   "date": "30-10-2026",
-  "count": 9,
+  "count": 10,
   "summary": null,
   "items": [
     {
@@ -38,6 +38,34 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.01120",
+      "title": "StreamDuo: A Live Commentator and a Research Agent for Unseen Games",
+      "url": "https://huggingface.co/papers/2611.01120",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-30T20:00:00.000Z",
+      "abstract": "Streaming video LLMs can now commentate live gameplay, but they are trained and tested on the same games. We study cross-game streaming commentary, in which a model trained on one game commentates gam",
+      "authors": [
+        "Zixian Gao",
+        "Penghao Luo",
+        "Xiangcheng Cao",
+        "Lixin Xiu",
+        "Ziqi Cai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
