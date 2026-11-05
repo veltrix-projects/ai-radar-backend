@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-05T03:17:36.600Z",
+  "generatedAt": "2026-11-05T11:16:44.732Z",
   "date": "02-11-2026",
-  "count": 25,
+  "count": 15,
   "summary": null,
   "items": [
     {
@@ -47,300 +47,50 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.04634",
-      "title": "VeriSpoof: Beyond Real or Fake with One Audio LLM",
-      "url": "https://huggingface.co/papers/2611.04634",
+      "id": "hf_paper_2611.05609",
+      "title": "On the Generalization Limitation of On-Policy Distillation for Post-RL Consolidation",
+      "url": "https://huggingface.co/papers/2611.05609",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-02T19:00:00.000Z",
-      "abstract": "A speech deepfake detector estimates whether a recording is synthetic, but a forensic analyst also asks which system produced it, whether recordings share a source, and what evidence supports each con",
+      "abstract": "Multi-teacher on-policy distillation (MOPD) extends on-policy distillation (OPD) to consolidate capabilities from multiple teachers. Although prior work reports near-perfect in-distribution (IND) dist",
       "authors": [
-        "Yang Xiao",
-        "Ting Dang"
+        "Yichen Wang",
+        "Yufa Zhou",
+        "Siqi Zhu",
+        "Haozheng Luo",
+        "Jingzhi Bao"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.40131",
+      "title": "VideoMemBench: How Well Do MLLMs Remember in Video Conversations?",
+      "url": "https://huggingface.co/papers/2610.40131",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-02T19:00:00.000Z",
+      "abstract": "Multimodal large language models (MLLMs) can now process hour-long videos, making extended multi-turn dialogue over a single video a natural mode of use. Sustaining such a dialogue requires more than",
+      "authors": [
+        "Zhengdong Hu",
+        "Chao Wang",
+        "Kaituo Feng",
+        "Huanjin Yao",
+        "Mingfei Lu"
       ],
       "tags": [
         "llm"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.04391",
-      "title": "Human-to-Robot Transfer via Bridging Representation and Action Space in VLAs",
-      "url": "https://huggingface.co/papers/2611.04391",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-02T19:00:00.000Z",
-      "abstract": "Pretrained Vision-Language-Action (VLA) policies provide a strong starting point for deployment, but adapting them to a target robot and environment still requires costly embodiment-specific demonstra",
-      "authors": [
-        "Junhyeong Park",
-        "Wook Jung",
-        "Taeyoung Kim",
-        "Huiwon Jang",
-        "Jinwoo Shin"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.04166",
-      "title": "Say the Same, Act Differently: Diagnosing and Steering Text-Action Divergence in Reasoning VLAs",
-      "url": "https://huggingface.co/papers/2611.04166",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-02T19:00:00.000Z",
-      "abstract": "Reasoning vision-language-action (VLA) models pair physical control with natural-language rationales that supervisors can read to monitor embodied safety. Prior attacks on VLA reasoning corrupt the ra",
-      "authors": [
-        "Zihao Feng",
-        "Qingzhao Zhang",
-        "Chunyu Xia",
-        "Bo Yu",
-        "Z. Morley Mao"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.04414",
-      "title": "SphereFlow: Missing Modality Imputation via Geometric Transport on Hypersphere",
-      "url": "https://huggingface.co/papers/2611.04414",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-02T19:00:00.000Z",
-      "abstract": "Missing modality imputation aims to synthesize unobserved modalities from observed ones. Existing methods treat each modality as living on its own latent manifold, forcing the generator to learn a lon",
-      "authors": [
-        "Huihan Wang",
-        "Juncheng Wang",
-        "Yuxiang Feng",
-        "Wenlong Hou",
-        "Guoqi Yu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.04169",
-      "title": "Length Is Cheap, Competition Is Not: Attention Predicts Context Rot in Retrieval",
-      "url": "https://huggingface.co/papers/2611.04169",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-02T19:00:00.000Z",
-      "abstract": "Why do language models fail on long inputs? The common answer is length. We show that, for retrieval, length is cheap and competition is not. On five open models (0.5B to 3B parameters, four families)",
-      "authors": [
-        "Yinuo Liu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.05345",
-      "title": "Adversarial Speculative Reasoning Improves Long Horizon Agents",
-      "url": "https://huggingface.co/papers/2611.05345",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-02T19:00:00.000Z",
-      "abstract": "Speculative decoding has been treated purely as a systems optimization that speeds up large language model decoding without changing the model behavior. Under this view, the growing effort to train be",
-      "authors": [
-        "Hongyin Luo",
-        "Wei Fang",
-        "Lijie Yang",
-        "Owen Stepan",
-        "Daniel Suit"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.04785",
-      "title": "Kierston & KierstonBench: Simulation of Allentown, PA and Evaluation of Language Models in Crime Investigation and Surveillance Tasks",
-      "url": "https://huggingface.co/papers/2611.04785",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-02T19:00:00.000Z",
-      "abstract": "Large language models are candidates for collecting and analyzing records in criminal investigations and mass surveillance. Their capability and accuracy in this work cannot currently be measured. Rea",
-      "authors": [
-        "Andrew Semenov",
-        "Svyatoslav Dorofeev"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.05193",
-      "title": "Factorized MLLM Embeddings for Composed Image Retrieval",
-      "url": "https://huggingface.co/papers/2611.05193",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-02T19:00:00.000Z",
-      "abstract": "Composed Image Retrieval (CIR) aims to retrieve a target image given a reference image and a modification text. Although recent approaches leveraging Multimodal Large Language Models (MLLMs) have show",
-      "authors": [
-        "WonJun Moon",
-        "Seongchan Kim",
-        "Dahun Kim",
-        "Seungryong Kim"
-      ],
-      "tags": [
-        "llm",
-        "embeddings"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.04814",
-      "title": "Think Less, Locally: Local Preference Learning for Reasoning Compression",
-      "url": "https://huggingface.co/papers/2611.04814",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-02T19:00:00.000Z",
-      "abstract": "Large reasoning models achieve strong performance on challenging tasks, but their long chain-of-thought often incurs substantial inference costs by continuing to deliberate after sufficient informatio",
-      "authors": [
-        "Muyao Yuan",
-        "Liyan Xu",
-        "Weizhan Zhang",
-        "Muyan Jiao",
-        "Jiangnan Li"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.05306",
-      "title": "You don't need long context",
-      "url": "https://huggingface.co/papers/2611.05306",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-02T19:00:00.000Z",
-      "abstract": "Later tokens are costlier to generate than earlier tokens. On frontier open weight models, the disparity in cost may rise to as much as 7x. Through frequent compaction, we show across a broad range of",
-      "authors": [
-        "Peter Belcak",
-        "Saurav Muralidharan",
-        "Jindong Jiang",
-        "Yonggan Fu",
-        "Wonmin Byeon"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.02476",
-      "title": "GigaSpeech 3: Scaling Multi-Dialect Arabic Speech Recognition with Weakly Labeled Data",
-      "url": "https://huggingface.co/papers/2611.02476",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-02T19:00:00.000Z",
-      "abstract": "Dialectal Arabic speech recognition remains constrained by the scarcity of dialect-resolved transcribed speech despite the abundance of web audio. We introduce GigaSpeech 3, a corpus of 39,000 hours a",
-      "authors": [
-        "Junzhe Liu",
-        "Yujie Tu",
-        "Yifan Yang",
-        "Peng Wang",
-        "Haoran Wang"
-      ],
-      "tags": [
-        "speech"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Deep Principle Releases Hydrogen-1.0: A 753B Open-Weight Model for Scientific Discovery",
-      "url": "https://www.marktechpost.com/2026/11/02/deep-principle-hydrogen-1-0-open-weight-scientific-model/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-11-02T18:41:41.000Z",
-      "abstract": "Deep Principle has released Hydrogen-1.0, an open-weight scientific model for chemistry, materials science and life sciences. It is built by post-training Z.ai&#8217;s GLM-5.3 on domain data, laborato",
-      "authors": [],
-      "tags": [],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
@@ -493,34 +243,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.03806",
-      "title": "BEND 2.0: Benchmarking the Capabilities Needed to Design DNA",
-      "url": "https://huggingface.co/papers/2611.03806",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-02T14:00:07.000Z",
-      "abstract": "Genomic foundation models are increasingly used to propose DNA sequences and edits. But successful design requires capabilities that current benchmarks do not measure. Here we introduce BEND 2.0 (BENc",
-      "authors": [
-        "Andreas Bjerregaard",
-        "Rachael DeVries",
-        "Dionysia Danai Brilli",
-        "Panagiotis Antoniadis",
-        "Yan Li"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
       "title": "Stop counting tokens, start counting what ships",
       "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
@@ -563,6 +285,34 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2611.02857",
+      "title": "Solv3R: 3D Looped Transformer as a Multi-view Solver",
+      "url": "https://huggingface.co/papers/2611.02857",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-02T04:59:45.000Z",
+      "abstract": "Classical structure-from-motion reconstruction proceeds iteratively, refining camera poses and scene geometry from a current estimate. This allows maps to easily expand without recomputing already com",
+      "authors": [
+        "Jeong-gi Kwak",
+        "Andrea Tagliasacchi",
+        "Sho Kagami",
+        "Yuki Ono",
+        "Kwang Moo Yi"
+      ],
+      "tags": [
+        "transformer"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "gh_1136590548",
       "title": "affaan-m/ECC — The agent harness performance optimization system. Skills, instincts, memory, security, and research",
       "url": "https://github.com/affaan-m/ECC",
@@ -588,7 +338,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 297298,
+      "stars": 297490,
       "votes": 0,
       "points": 0
     }

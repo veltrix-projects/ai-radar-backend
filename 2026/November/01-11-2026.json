@@ -1,28 +1,52 @@
 {
-  "generatedAt": "2026-11-05T03:17:36.601Z",
+  "generatedAt": "2026-11-05T11:16:44.734Z",
   "date": "01-11-2026",
-  "count": 1,
+  "count": 2,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2611.03998",
-      "title": "Dory1.0-4B: A Looped Normalized-GPT",
-      "url": "https://huggingface.co/papers/2611.03998",
+      "id": "hf_paper_2611.03404",
+      "title": "VidDub: Replacement-Aware Distillation for Two-Step Video Dubbing",
+      "url": "https://huggingface.co/papers/2611.03404",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-01T19:00:00.000Z",
-      "abstract": "We introduce Dory1.0-4B, a 4-billion-parameter looped (latent-recurrent) language model with elastic depth: a single checkpoint serves different inference compute budgets. Dory1.0-4B is built on a nor",
+      "abstract": "Video dubbing aims to synthesize lip movements that match target speech while preserving the speaker identity, head pose, and background of a source video. Existing editors are predominantly trained v",
       "authors": [
-        "Maxim Fishman",
-        "Simeng Sun",
-        "Shantanu Acharya",
-        "Faisal Ladhak",
-        "Brian Chmiel"
+        "Yexin Liu",
+        "Yunlong Lin",
+        "Zehan Wang",
+        "Guangxin He",
+        "Xinli Xu"
       ],
-      "tags": [
-        "gpt"
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.03228",
+      "title": "AnchorComplete: Recovering Complete Scene Meshes from Partial Point Clouds",
+      "url": "https://huggingface.co/papers/2611.03228",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-01T19:00:00.000Z",
+      "abstract": "Most image-based 3D reconstructors primarily recover visible surfaces, producing partial point clouds with large holes and leaving unobserved geometry unresolved. To address this limitation, we introd",
+      "authors": [
+        "Weirong Chen",
+        "Ismail El-Yamany",
+        "Ganlin Zhang",
+        "Chuanxia Zheng",
+        "Andrea Vedaldi"
       ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

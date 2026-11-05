@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-05T03:17:36.602Z",
+  "generatedAt": "2026-11-05T11:16:44.751Z",
   "date": "30-10-2026",
-  "count": 5,
+  "count": 6,
   "summary": null,
   "items": [
     {
@@ -25,22 +25,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.37257",
-      "title": "GameVerse: A Minute-Scale Gameplay Dataset for Long-Horizon Interactive World Modeling",
-      "url": "https://huggingface.co/papers/2610.37257",
+      "id": "hf_paper_2611.01120",
+      "title": "StreamDuo: A Live Commentator and a Research Agent for Unseen Games",
+      "url": "https://huggingface.co/papers/2611.01120",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-30T20:00:00.000Z",
-      "abstract": "Recent advances in interactive world models have made it possible to generate controllable, dynamic environments from action inputs. Yet current models struggle to maintain coherence beyond roughly on",
+      "abstract": "Streaming video LLMs can now commentate live gameplay, but they are trained and tested on the same games. We study cross-game streaming commentary, in which a model trained on one game commentates gam",
       "authors": [
-        "Kang He",
-        "Wenshuo Peng",
-        "Chuanhao Li",
-        "Zihui Gao",
-        "Xiaojie Xu"
+        "Zixian Gao",
+        "Penghao Luo",
+        "Xiangcheng Cao",
+        "Lixin Xiu",
+        "Ziqi Cai"
       ],
-      "tags": [],
+      "tags": [
+        "agent"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -104,6 +106,34 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2610.41432",
+      "title": "Hybrid Computer Use: A Unified Programmatic, Semantic, and Visual Interface for General Agents",
+      "url": "https://huggingface.co/papers/2610.41432",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-30T04:38:29.000Z",
+      "abstract": "Computer-use agents increasingly tackle tasks ranging from everyday desktop activities to long-horizon professional workflows. Yet interfaces centered on screenshots and mouse-and-keyboard actions can",
+      "authors": [
+        "Haoqing Wang",
+        "Xiaoyi Zhang",
+        "Sicheng Fan",
+        "Zhexin Zhang",
+        "Xinjie Zhang"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
