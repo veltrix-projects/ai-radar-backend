@@ -1,159 +1,28 @@
 {
-  "generatedAt": "2026-11-06T04:16:09.067Z",
+  "generatedAt": "2026-11-06T12:18:26.892Z",
   "date": "01-11-2026",
-  "count": 6,
+  "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2611.03768",
-      "title": "Multi-layer Indexer: Overlapping Selection and Attention in DeepSeek Sparse Attention",
-      "url": "https://huggingface.co/papers/2611.03768",
+      "id": "hf_paper_2611.03743",
+      "title": "EvoMemState: Evolving Memory State for Personal Agents",
+      "url": "https://huggingface.co/papers/2611.03743",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-01T19:00:00.000Z",
-      "abstract": "Sparse attention cuts the cost of long-context inference by making the attention matrix sparse: each query attends only a subset of the sequence, chosen by a fixed pattern or, in recent production LLM",
+      "abstract": "Long-term memory enables large language model (LLM) agents to provide continuous personalized assistance by retaining user information across interactions. Existing systems support this process throug",
       "authors": [
-        "Serdarcan Dilbaz",
-        "Arjun Krishna",
-        "Kiran Kamble",
-        "Daniel M. Bikel"
-      ],
-      "tags": [
-        "deepseek"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.03394",
-      "title": "TaoMate-HD: Progressive-Resolution Autoregressive Audio-Video Generation",
-      "url": "https://huggingface.co/papers/2611.03394",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-01T19:00:00.000Z",
-      "abstract": "Streaming digital humans produce detailed video while continuing speech as new text arrives. High-resolution denoising is costly, and text updates can cause repeated or interrupted speech. We present",
-      "authors": [
-        "Qijun Gan",
-        "Chenwei Zhang",
-        "Xinyang Li",
-        "Meiguang Jin",
-        "Junfeng Ma"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.03330",
-      "title": "The SIMPLE Law for Energy Cost of LLM Inference",
-      "url": "https://huggingface.co/papers/2611.03330",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-01T19:00:00.000Z",
-      "abstract": "Generative AI is billed per token, yet tokens are not equally expensive. Each token enters the KV-cache and raises the cost of those that follow, so energy grows non-linearly along a sequence whose to",
-      "authors": [
-        "Hiari Pizzini Cavagna",
-        "Andrea Proia",
-        "Daniele Cesarini",
-        "Zeynep Kiziltan",
-        "Andrea Bartolini"
-      ],
-      "tags": [
-        "llm",
-        "inference"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.03517",
-      "title": "Ask, Don't Equip: Question-Driven Coding Agents for Deep Kernel Optimization",
-      "url": "https://huggingface.co/papers/2611.03517",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-01T19:00:00.000Z",
-      "abstract": "LLM agents for GPU kernel optimization sit at two ends of a structure-freedom tradeoff. Scripted agents fix what the model does at each step, via a learned policy, an optimization menu, or fixed roles",
-      "authors": [
-        "Gabriele Oliaro",
-        "Jaeseong Lee",
-        "Zhaoyuan Su",
-        "Sreeram Vennam",
-        "Zhihao Jia"
+        "Zhishang Xiang",
+        "Yunbo Tang",
+        "Zhongqiao Liu",
+        "Junkai Chen",
+        "Zerui Chen"
       ],
       "tags": [
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.03852",
-      "title": "Why Pay for Long Reasoning When Rewrite Do Trick? Causal Effects of Reasoning History Compaction on Future Generation and Agent Cost",
-      "url": "https://huggingface.co/papers/2611.03852",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-01T19:00:00.000Z",
-      "abstract": "Reasoning substantially improves language models' ability to solve difficult problems, but long reasoning traces make these gains expensive. Efficient reasoning should express useful analysis in fewer",
-      "authors": [
-        "Anton Hristov"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.01926",
-      "title": "TAC-CoT: Tool-Empowered Implicit Chain-of-Thought via Interleaving Explicit Tokens",
-      "url": "https://huggingface.co/papers/2611.01926",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-01T09:05:15.000Z",
-      "abstract": "LLM-based agentic systems are increasingly combined with CoT reasoning to solve tasks that require accurate reasoning, external knowledge, and multi-step deliberation. Yet, explicit CoT incurs substan",
-      "authors": [
-        "Juseon Do",
-        "Sangmin Bae",
-        "Jeesu Jung",
-        "Hwanjun Song"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-06T04:16:09.066Z",
+  "generatedAt": "2026-11-06T12:18:26.891Z",
   "date": "03-11-2026",
-  "count": 16,
+  "count": 14,
   "summary": null,
   "items": [
     {
@@ -30,7 +30,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 313085,
+      "stars": 313300,
       "votes": 0,
       "points": 0
     },
@@ -57,18 +57,76 @@
       "points": 0
     },
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "NVIDIA Shows 3 Ways to Speed Up MoE Inference on DGX Spark, Lifting Ling-3.0-flash Throughput 42.5%",
-      "url": "https://www.marktechpost.com/2026/11/03/nvidia-dgx-spark-moe-inference-ling-3-0-flash/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
+      "id": "hf_paper_2611.06741",
+      "title": "TailSteer: Trajectory-Tail Steering for Drift-Resistant Multi-turn Image Editing",
+      "url": "https://huggingface.co/papers/2611.06741",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-11-03T20:28:22.000Z",
-      "abstract": "NVIDIA shows how 3 stacked optimizations speed up MoE inference on a single DGX Spark. On Ant Group inclusionAI's 124B Ling-3.0-flash, GSM8K decode throughput rose 42.5% with no detectable accuracy ch",
-      "authors": [],
-      "tags": [
-        "inference"
+      "timestamp": "2026-11-03T19:00:00.000Z",
+      "abstract": "Strong single-turn editing performance does not guarantee reliable multi-turn interaction: as edited outputs are repeatedly reused, small unintended changes can accumulate into severe visual drift. Th",
+      "authors": [
+        "Ruikang Li",
+        "Zixuan Chen",
+        "Jiarui Wu",
+        "Mingde Yao",
+        "Yiyuan Zhang"
       ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.06982",
+      "title": "Decode Before You Hear: Speculative Listening for Chunk-Interleaved Full-Duplex Speech Language Models",
+      "url": "https://huggingface.co/papers/2611.06982",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-03T19:00:00.000Z",
+      "abstract": "Chunk-interleaved full-duplex speech language models listen and speak in fixed time chunks, and each chunk must be processed before the next one arrives. Their workload is asymmetric across chunks: li",
+      "authors": [
+        "Yutong Bian",
+        "Yanglin Zhang",
+        "Yuxiang Wang",
+        "Luoyuan Zhang",
+        "Rongshen He"
+      ],
+      "tags": [
+        "speech"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.04527",
+      "title": "Future Representation Distillation for Imagination-free World Action Models",
+      "url": "https://huggingface.co/papers/2611.04527",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-03T19:00:00.000Z",
+      "abstract": "World Action Models (WAMs) use the predictive knowledge of pretrained video diffusion models for robot control through future video prediction. However, iterative video denoising is costly, and inaccu",
+      "authors": [
+        "Jaehyeong Jo",
+        "Sangwon Jang",
+        "Sihyun Yu",
+        "Seonghyeon Ye",
+        "Yekyung Nah"
+      ],
+      "tags": [],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
@@ -79,24 +137,22 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.06425",
-      "title": "D3D: Decoupled Diffusion Drafting for Asynchronous Speculative Decoding",
-      "url": "https://huggingface.co/papers/2611.06425",
+      "id": "hf_paper_2611.06817",
+      "title": "Open-HumanScale: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models",
+      "url": "https://huggingface.co/papers/2611.06817",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-03T19:00:00.000Z",
-      "abstract": "Target-conditioned diffusion drafters predict candidate tokens in parallel, yet each new block must wait for updated target-model hidden states. This forces drafting and verification to run sequential",
+      "abstract": "Egocentric human video offers a scalable source of manipulation priors for robot learning, yet translating raw data scale into generalizable robot policies demands rigorous data curation and training",
       "authors": [
-        "Baoyou Chen",
-        "Ruiqiao Mei",
-        "Guancong Lin",
-        "Tao Song",
-        "Weihao Yuan"
+        "Juncheng Ma",
+        "Jiaxin Li",
+        "Jiankai Tu",
+        "Bo Liang",
+        "Guodong Lv"
       ],
-      "tags": [
-        "diffusion"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -193,58 +249,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.05648",
-      "title": "NitroFusion2: Bringing Adversarial Loss to the Text Stream of Multimodal Diffusion Transformers",
-      "url": "https://huggingface.co/papers/2611.05648",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-03T16:33:28.000Z",
-      "abstract": "Adversarial diffusion distillation has conventionally relied on image features for discrimination. We revisit this choice for multimodal diffusion transformers (MMDiTs), whose text stream becomes imag",
-      "authors": [
-        "Dar-Yen Chen",
-        "Yi-Zhe Song"
-      ],
-      "tags": [
-        "transformer",
-        "diffusion",
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.05593",
-      "title": "GaussianRenderFormer: Transformer-based Rendering of 3D Gaussian Splats",
-      "url": "https://huggingface.co/papers/2611.05593",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-03T15:26:14.000Z",
-      "abstract": "Can a neural network learn to render 3D Gaussian splats on its own, with no rasterizer in the renderer? We present GaussianRenderFormer, a transformer that takes a set of Gaussians and a camera and ou",
-      "authors": [
-        "Shahaf Valencia Levy",
-        "Sagie Benaim"
-      ],
-      "tags": [
-        "transformer"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Famerica-",
       "title": "America Votes: 'CEKEVPATIVG EDELDOA'",
       "url": "https://www.404media.co/america-votes-cekevpativg-edeldoa/",
@@ -257,6 +261,31 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.05376",
+      "title": "From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence",
+      "url": "https://huggingface.co/papers/2611.05376",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-03T13:59:52.000Z",
+      "abstract": "For a decade, progress in artificial intelligence has been measured by how much a machine can do on its own. Large foundation models now write code and run multistep tasks, and personal agents act on",
+      "authors": [
+        "Hao Fei"
+      ],
+      "tags": [
+        "agent",
+        "autonomous"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -287,54 +316,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.05029",
-      "title": "DRAP: Dynamics-Risk Adaptive Plasticity for Continual Learning in Physical AI",
-      "url": "https://huggingface.co/papers/2611.05029",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-03T10:05:06.000Z",
-      "abstract": "Continual learning in physical AI differs from conventional continual learning because small per-step policy errors can accumulate over a trajectory. Each deviation may move the agent outside the trai",
-      "authors": [
-        "Oswaldo Ludwig"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.04760",
-      "title": "Koopman Generative Operators for Efficient Probabilistic Time-Series Forecasting",
-      "url": "https://huggingface.co/papers/2611.04760",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-03T07:08:37.000Z",
-      "abstract": "Probabilistic time-series forecasting requires models that simultaneously capture structured temporal dynamics, expressive uncertainty, and efficient inference, yet existing approaches fall short of t",
-      "authors": [
-        "Raz Marshanski",
-        "Liran Nochumsohn",
-        "Mayank Jauhari",
-        "Boris N. Oreshkin",
-        "Omri Azencot"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
       "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
       "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
@@ -347,29 +328,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.04408",
-      "title": "Halley: A Predictive Control Plane for Optical AI Data Center Networks",
-      "url": "https://huggingface.co/papers/2611.04408",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-03T01:45:50.000Z",
-      "abstract": "A frontier AI model is trained in an AI data center, on tens of thousands of accelerators joined by a dedicated network, and every training step ends with all of them exchanging data at once. Between",
-      "authors": [
-        "Manav Mishra",
-        "Krishna M. Sivalingam"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
