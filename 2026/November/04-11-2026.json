@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-06T19:35:19.367Z",
+  "generatedAt": "2026-11-06T23:52:32.420Z",
   "date": "04-11-2026",
-  "count": 20,
+  "count": 18,
   "summary": null,
   "items": [
     {
@@ -25,28 +25,6 @@
       "points": 0
     },
     {
-      "id": "siliconangle_ai_https%3A%2F%2Fsiliconangle.com%2F2026%2F",
-      "title": "Meta acquires AI coding startup Conductor, whose app runs several coding agents at once",
-      "url": "https://siliconangle.com/2026/11/04/meta-acquires-ai-coding-startup-conductor-whose-app-runs-several-coding-agents-at-once/",
-      "source": "SiliconANGLE AI",
-      "sourceIcon": "📐",
-      "type": "news",
-      "timestamp": "2026-11-04T22:20:12.000Z",
-      "abstract": "Meta Platforms Inc. has acquired artificial intelligence coding startup Conductor in a deal first reported today by Axios. Conductor confirmed it&#8217;s joining Meta in a post on its website. Terms w",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "How NVIDIA Uses AI Agents to Streamline AI Factory Operations",
       "url": "https://developer.nvidia.com/blog/how-nvidia-uses-ai-agents-to-streamline-ai-factory-operations/",
@@ -62,28 +40,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "siliconangle_ai_https%3A%2F%2Fsiliconangle.com%2F2026%2F",
-      "title": "AI agents meet billable hours as Certinia rethinks services delivery",
-      "url": "https://siliconangle.com/2026/11/04/professional-services-ai-agents-certinia/",
-      "source": "SiliconANGLE AI",
-      "sourceIcon": "📐",
-      "type": "news",
-      "timestamp": "2026-11-04T21:55:39.000Z",
-      "abstract": "Certinia Inc. is bringing AI into the software firms use to sell projects, assign staff, deliver work and bill clients. AI&#8217;s ability to instantaneously draw from a deep well of information and p",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -139,6 +95,31 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2611.08483",
+      "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+      "url": "https://huggingface.co/papers/2611.08483",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-04T19:00:00.000Z",
+      "abstract": "LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process",
+      "authors": [
+        "Qile Jiang",
+        "George Em Karniadakis"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2609.37820",
       "title": "Information Games: Strategic Crowding and Firm Repositioning in Language-Model Space",
       "url": "https://huggingface.co/papers/2609.37820",
@@ -180,32 +161,6 @@
       "tags": [
         "training"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.08449",
-      "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
-      "url": "https://huggingface.co/papers/2611.08449",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-04T19:00:00.000Z",
-      "abstract": "Models for physical AI tasks, such as robotics and autonomous driving, need not reason solely in language. They can use visual plans--points, bounding boxes, and trajectories--to represent spatial goa",
-      "authors": [
-        "Yu-Cheng Chou",
-        "Shihao Wang",
-        "Jin Huang",
-        "Chi-Pin Huang",
-        "Chiao-An Yang"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -408,19 +363,22 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fdaybr",
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-11-04T07:00:00.000Z",
-      "abstract": "",
-      "authors": [],
+      "id": "hf_paper_2611.06498",
+      "title": "Signed but Steerable: Measuring and Closing the Text-Vector Integrity Gap in Offline Retrieval-Augmented Generation",
+      "url": "https://huggingface.co/papers/2611.06498",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-04T08:32:04.000Z",
+      "abstract": "Offline retrieval-augmented generation (RAG) on edge devices is updated through signed knowledge packs that carry text and precomputed embedding vectors. A signature proves who published a pack, not t",
+      "authors": [
+        "Georgios Feretzakis",
+        "Alexandros Papaspyridis"
+      ],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

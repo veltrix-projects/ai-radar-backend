@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T19:35:19.368Z",
+  "generatedAt": "2026-11-06T23:52:32.421Z",
   "date": "02-11-2026",
   "count": 7,
   "summary": null,
@@ -47,19 +47,27 @@
       "points": 0
     },
     {
-      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
-      "title": "Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One",
-      "url": "https://developer.nvidia.com/blog/making-kubernetes-ai-ready-for-nvidia-vera-rubin-on-day-one/",
-      "source": "NVIDIA Blog",
-      "sourceIcon": "🟩",
-      "type": "tool",
-      "timestamp": "2026-11-02T18:00:00.000Z",
-      "abstract": "Configuring and optimizing Kubernetes for new GPU hardware such as NVIDIA Vera Rubin is complex and error-prone. Drivers, kernels, runtimes, networking,...]]>",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "id": "hf_paper_2611.04386",
+      "title": "StepX-OPD: Rethinking Multi-Teacher On-Policy Distillation in Diffusion Models",
+      "url": "https://huggingface.co/papers/2611.04386",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-02T19:00:00.000Z",
+      "abstract": "A deployable text-to-image diffusion model must hold several capabilities at once, such as instruction following, text rendering and human preference, and must sample in a few steps. Capabilities and",
+      "authors": [
+        "Chenru Wang",
+        "Xuanyang Zhang",
+        "Yucheng Han",
+        "Wenbo Nie",
+        "Wei Cheng"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
