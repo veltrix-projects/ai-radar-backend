@@ -1,24 +1,25 @@
 {
-  "generatedAt": "2026-11-06T04:16:09.069Z",
+  "generatedAt": "2026-11-06T19:35:19.372Z",
   "date": "26-10-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.36544",
-      "title": "Monitor Accuracy Isn't the Answer: A Decision-Value Framework for Evaluating AI Agent Restart Monitors",
-      "url": "https://huggingface.co/papers/2610.36544",
+      "id": "hf_paper_2610.37739",
+      "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
+      "url": "https://huggingface.co/papers/2610.37739",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-26T20:00:00.000Z",
-      "abstract": "Classification accuracy and true-positive and false-positive rates alone do not determine whether restarting an AI agent improves success. Using an exact alarm-to-action identity for an independent cl",
+      "abstract": "Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still missing, and evaluating them on research-level pr",
       "authors": [
-        "Siddharth Jain",
-        "Venkat N. Vedam"
+        "Jiarui Yao",
+        "Ruida Wang",
+        "Tong Zhang"
       ],
       "tags": [
-        "agent"
+        "benchmark"
       ],
       "score": 6,
       "priority": "MEDIUM",

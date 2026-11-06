@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-06T12:18:26.892Z",
+  "generatedAt": "2026-11-06T19:35:19.368Z",
   "date": "02-11-2026",
-  "count": 10,
+  "count": 7,
   "summary": null,
   "items": [
     {
@@ -47,64 +47,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.04277",
-      "title": "Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training",
-      "url": "https://huggingface.co/papers/2611.04277",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-02T19:00:00.000Z",
-      "abstract": "Harness evolution from a common base exhibits Locality, Complementarity, and Nonstationarity: variants repair different failures, and their utility changes as the policy learns. Rather than seeking a",
-      "authors": [
-        "Kangning Zhang",
-        "Wenxiang Jiao",
-        "Bowen Fang",
-        "Shuai Shao",
-        "Jiachen Zhu"
-      ],
-      "tags": [
-        "agent",
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.04894",
-      "title": "VisSearch-Bench: Evaluating Long Horizon Visual Search in Multimodal Agents",
-      "url": "https://huggingface.co/papers/2611.04894",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-02T19:00:00.000Z",
-      "abstract": "Multimodal agents use web and image tools to answer questions beyond their internal knowledge. Some search tasks use images mainly to identify an initial entity, then rely on text retrieval. These tas",
-      "authors": [
-        "ZhengXian Wu",
-        "Qianhao Nie",
-        "Zhuohong Chen",
-        "Junjie Gao",
-        "Yuyao Zhang"
-      ],
-      "tags": [
-        "multimodal",
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One",
       "url": "https://developer.nvidia.com/blog/making-kubernetes-ai-ready-for-nvidia-vera-rubin-on-day-one/",
@@ -113,26 +55,6 @@
       "type": "tool",
       "timestamp": "2026-11-02T18:00:00.000Z",
       "abstract": "Configuring and optimizing Kubernetes for new GPU hardware such as NVIDIA Vera Rubin is complex and error-prone. Drivers, kernels, runtimes, networking,...]]>",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
-      "title": "Build World Models for Interactive Simulation with NVIDIA Cosmos",
-      "url": "https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos/",
-      "source": "NVIDIA Blog",
-      "sourceIcon": "🟩",
-      "type": "tool",
-      "timestamp": "2026-11-02T17:00:00.000Z",
-      "abstract": "Physical AI developers working with world models face two distinct challenges: adapting models to their sensors, tasks, and data, and getting those models into...]]>",
       "authors": [],
       "tags": [],
       "score": 8,
