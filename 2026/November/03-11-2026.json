@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-06T23:52:32.420Z",
+  "generatedAt": "2026-11-07T03:47:22.017Z",
   "date": "03-11-2026",
-  "count": 7,
+  "count": 8,
   "summary": null,
   "items": [
     {
@@ -30,7 +30,35 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 313593,
+      "stars": 313658,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.06500",
+      "title": "Tools Need Not Speak in Text: Latent Context Compression for Agents",
+      "url": "https://huggingface.co/papers/2611.06500",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-03T19:00:00.000Z",
+      "abstract": "Large language model (LLM) agents typically append raw tool outputs to their context. Over multi-step interactions, long and noisy observations incur substantial context overhead and dilute the agent'",
+      "authors": [
+        "Yuetong Liu",
+        "Zhehao Zhou",
+        "Yitong Zhang",
+        "Haorui Chen",
+        "Jia Li"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
       "votes": 0,
       "points": 0
     },
