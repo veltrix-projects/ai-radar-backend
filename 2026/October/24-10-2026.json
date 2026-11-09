@@ -1,25 +1,28 @@
 {
-  "generatedAt": "2026-11-06T19:35:19.373Z",
+  "generatedAt": "2026-11-09T09:58:54.716Z",
   "date": "24-10-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.34074",
-      "title": "Identically Trained Language Models Break on Different Jailbreaks",
-      "url": "https://huggingface.co/papers/2610.34074",
+      "id": "hf_paper_2610.35959",
+      "title": "AgentBaton: Efficient Model Collaboration in Agentic Tasks",
+      "url": "https://huggingface.co/papers/2610.35959",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-24T20:00:00.000Z",
-      "abstract": "Jailbreak benchmarks test one checkpoint and treat which jailbreaks break it as a property of its pretraining data and safety training. We ask whether another pretraining run of the same data, given t",
+      "abstract": "Solving long-horizon agentic tasks requires language agents to interact with their environments over multiple steps, and reliable performance often comes from the expensive capable models available th",
       "authors": [
-        "Chi-Wei Chang",
-        "Mu-Tien Kuo",
-        "Kuan-Wei Lee",
-        "Meng-Hsun Tsai"
+        "Junlong Li",
+        "Jindong Jiang",
+        "Yonggan Fu",
+        "Jiarui Yao",
+        "Hanrong Ye"
       ],
-      "tags": [],
+      "tags": [
+        "agent"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

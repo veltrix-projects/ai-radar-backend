@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-09T02:13:18.086Z",
+  "generatedAt": "2026-11-09T09:58:54.709Z",
   "date": "03-11-2026",
-  "count": 8,
+  "count": 7,
   "summary": null,
   "items": [
     {
@@ -30,7 +30,36 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 314588,
+      "stars": 314691,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.06808",
+      "title": "LLMs Don't Know What They Know: Benchmarking Temporal Self-Knowledge for Financial Backtesting",
+      "url": "https://huggingface.co/papers/2611.06808",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-03T19:00:00.000Z",
+      "abstract": "Financial backtests of large language models (LLMs) are meaningful only if the model did not already know the outcomes it is asked to predict. Practitioners guard against this by trusting a vendor's s",
+      "authors": [
+        "Lingfei Qian",
+        "Yan Wang",
+        "Xueqing Peng",
+        "Yupeng Cao",
+        "Yuechen Jiang"
+      ],
+      "tags": [
+        "llm",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
       "votes": 0,
       "points": 0
     },
@@ -63,60 +92,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.06741",
-      "title": "TailSteer: Trajectory-Tail Steering for Drift-Resistant Multi-turn Image Editing",
-      "url": "https://huggingface.co/papers/2611.06741",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-03T19:00:00.000Z",
-      "abstract": "Strong single-turn editing performance does not guarantee reliable multi-turn interaction: as edited outputs are repeatedly reused, small unintended changes can accumulate into severe visual drift. Th",
-      "authors": [
-        "Ruikang Li",
-        "Zixuan Chen",
-        "Jiarui Wu",
-        "Mingde Yao",
-        "Yiyuan Zhang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.06982",
-      "title": "Decode Before You Hear: Speculative Listening for Chunk-Interleaved Full-Duplex Speech Language Models",
-      "url": "https://huggingface.co/papers/2611.06982",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-03T19:00:00.000Z",
-      "abstract": "Chunk-interleaved full-duplex speech language models listen and speak in fixed time chunks, and each chunk must be processed before the next one arrives. Their workload is asymmetric across chunks: li",
-      "authors": [
-        "Yutong Bian",
-        "Yanglin Zhang",
-        "Yuxiang Wang",
-        "Luoyuan Zhang",
-        "Rongshen He"
-      ],
-      "tags": [
-        "speech"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "google_deepmind_https%3A%2F%2Fdeepmind.google%2Fblog%2Fa",
       "title": "Agentic cheminformatics with Google Antigravity",
       "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
@@ -132,31 +107,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.05376",
-      "title": "From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence",
-      "url": "https://huggingface.co/papers/2611.05376",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-03T13:59:52.000Z",
-      "abstract": "For a decade, progress in artificial intelligence has been measured by how much a machine can do on its own. Large foundation models now write code and run multistep tasks, and personal agents act on",
-      "authors": [
-        "Hao Fei"
-      ],
-      "tags": [
-        "agent",
-        "autonomous"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -198,6 +148,28 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.04434",
+      "title": "Sketchpad: certified exact arithmetic with a small vision-language model",
+      "url": "https://huggingface.co/papers/2611.04434",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-03T02:25:42.000Z",
+      "abstract": "Language models are accurate on most long-arithmetic problems, but their accuracy is estimated on samples and carries no guarantee for an unseen input; tool use is exact but moves the computation outs",
+      "authors": [
+        "Mostafa 'Neo' Mohsenvand"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

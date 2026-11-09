@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-09T02:13:18.086Z",
+  "generatedAt": "2026-11-09T09:58:54.708Z",
   "date": "04-11-2026",
-  "count": 13,
+  "count": 14,
   "summary": null,
   "items": [
     {
@@ -27,23 +27,51 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.07298",
-      "title": "Reducing Representational Interference in Retrieval Embeddings with Trainable Prefix Tokens",
-      "url": "https://huggingface.co/papers/2611.07298",
+      "id": "hf_paper_2611.07461",
+      "title": "The Last Mile to the Real World: Agent-Native Primitives as Reusable Building Blocks for Solving Real-World Tasks",
+      "url": "https://huggingface.co/papers/2611.07461",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-11-04T20:30:28.000Z",
-      "abstract": "Embedding models compress variable-length text into fixed-size vector representations, but this compression can entangle semantic content with residual token-level information, such as artifacts arisi",
+      "timestamp": "2026-11-04T19:00:00.000Z",
+      "abstract": "How can an agent handle a real-world task end to end? Frontier models with their own harnesses still fall short on real-world benchmarks: on Terminal-Bench 4.0, GPT-5.6 Sol with Codex resolves 37.3% o",
       "authors": [
-        "Seongtae Hong",
-        "Youngjoon Jang",
-        "Jungseob Lee",
-        "Chanjun Park",
-        "Heuiseok Lim"
+        "Haibo Jin",
+        "Peng Kuang",
+        "Xiaopeng Yuan",
+        "Lucheng Fu",
+        "Jerry Wang"
       ],
       "tags": [
-        "embeddings"
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.07624",
+      "title": "Beneath the Surface: What We Overlook When We Talk About Agent Evolution",
+      "url": "https://huggingface.co/papers/2611.07624",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-04T19:00:00.000Z",
+      "abstract": "Agent harness evolution enables recursive self-improvement (RSI) without updating model weights. We examine whether higher benchmark scores yield reliable, efficient, and transferable improvement. We",
+      "authors": [
+        "Xiaobo Wang",
+        "Zimu Wang",
+        "Siyu Ye",
+        "Jiaqi Li",
+        "Min Tang"
+      ],
+      "tags": [
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -70,29 +98,6 @@
       "tags": [
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2609.37820",
-      "title": "Information Games: Strategic Crowding and Firm Repositioning in Language-Model Space",
-      "url": "https://huggingface.co/papers/2609.37820",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-04T19:00:00.000Z",
-      "abstract": "When firms respond to new market opportunities, their capacity choices alter the future discounted free cash flows available to both competitors and investors. In competitive markets, these investment",
-      "authors": [
-        "Marcus Gawronsky",
-        "Chun-Sung Huang"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -249,20 +254,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.06976",
-      "title": "On the Opportunities and Challenges of Prefill-to-Autoregressive Cross-Model Transfer",
-      "url": "https://huggingface.co/papers/2611.06976",
+      "id": "hf_paper_2611.06748",
+      "title": "EvoWorld: Towards Out-of-Sight World Evolution in Generative Video Models",
+      "url": "https://huggingface.co/papers/2611.06748",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-11-04T08:33:47.000Z",
-      "abstract": "Prefill-to-Autoregressive Cross-model Transfer (PACT), a form of latent communication between language models, combines a larger model's prompt representations with a smaller model's efficient generat",
+      "timestamp": "2026-11-04T11:26:45.000Z",
+      "abstract": "Generative video models are increasingly used as visual world simulators, yet their primary strength lies in rendering plausible pixels rather than reasoning about how a world should evolve. Coherent",
       "authors": [
-        "Zhenyi Shen",
-        "Junru Lu",
-        "Wei Liu",
-        "Jiangnan Ye",
-        "Jiazheng Li"
+        "Yequan Bie",
+        "Dengyang Jiang",
+        "Zhixuan Chen",
+        "Xiaozhuan Liang",
+        "Haoxuan Che"
       ],
       "tags": [],
       "score": 6,
@@ -286,6 +291,32 @@
       "authors": [
         "Georgios Feretzakis",
         "Alexandros Papaspyridis"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.06043",
+      "title": "Confucius4-R2T2: A Stable-Prefix Streaming ASR Model for Real Real-Time Transcription",
+      "url": "https://huggingface.co/papers/2611.06043",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-04T01:46:50.000Z",
+      "abstract": "Streaming speech recognition is increasingly consumed by machines, such as translators and voice agents, that act on each token as it appears. A token that is later revised costs wasted work or a wron",
+      "authors": [
+        "Daniel Huang",
+        "Qi He",
+        "Shaoxiong Duan",
+        "Yingjie Li",
+        "Qiao Cheng"
       ],
       "tags": [],
       "score": 6,
