@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-09T09:58:54.709Z",
+  "generatedAt": "2026-11-09T20:28:38.035Z",
   "date": "03-11-2026",
-  "count": 7,
+  "count": 6,
   "summary": null,
   "items": [
     {
@@ -30,7 +30,35 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 314691,
+      "stars": 314934,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.06844",
+      "title": "Where to Connect? Boosting MLLMs via Dynamic Gated Pathways across ALL ViT and LLM Layers",
+      "url": "https://huggingface.co/papers/2611.06844",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-03T19:00:00.000Z",
+      "abstract": "A central yet under-explored question in Multimodal Large Language Models (MLLMs) is where to connect---how visual information from a hierarchical vision encoder should be wired into the layer-wise se",
+      "authors": [
+        "Yingying Yan",
+        "Jiaqi Tang",
+        "Wei Wei",
+        "Qianzhou Wang",
+        "Lei Zhang"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
       "votes": 0,
       "points": 0
     },
@@ -53,34 +81,6 @@
       "tags": [
         "llm",
         "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.06500",
-      "title": "Tools Need Not Speak in Text: Latent Context Compression for Agents",
-      "url": "https://huggingface.co/papers/2611.06500",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-03T19:00:00.000Z",
-      "abstract": "Large language model (LLM) agents typically append raw tool outputs to their context. Over multi-step interactions, long and noisy observations incur substantial context overhead and dilute the agent'",
-      "authors": [
-        "Yuetong Liu",
-        "Zhehao Zhou",
-        "Yitong Zhang",
-        "Haorui Chen",
-        "Jia Li"
-      ],
-      "tags": [
-        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -148,28 +148,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.04434",
-      "title": "Sketchpad: certified exact arithmetic with a small vision-language model",
-      "url": "https://huggingface.co/papers/2611.04434",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-03T02:25:42.000Z",
-      "abstract": "Language models are accurate on most long-arithmetic problems, but their accuracy is estimated on samples and carries no guarantee for an unseen input; tool use is exact but moves the computation outs",
-      "authors": [
-        "Mostafa 'Neo' Mohsenvand"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
