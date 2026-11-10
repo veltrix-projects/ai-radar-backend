@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-11-10T10:37:03.652Z",
+  "generatedAt": "2026-11-10T18:22:03.834Z",
   "date": "30-10-2026",
   "count": 2,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2611.01112",
+      "title": "Auriga Technical Report: A Task-Agnostic Agent Harness for Zero-Shot Embodied Manipulation",
+      "url": "https://huggingface.co/papers/2611.01112",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-30T20:00:00.000Z",
+      "abstract": "Vision-language models can interpret instructions and plan manipulation tasks, yet struggle when acting directly as robot policies. On RoboDojo, a large planning-execution gap separates high-level tas",
+      "authors": [
+        "Chengcheng Wang",
+        "Yuheng Shi",
+        "Siyu Xu",
+        "Yutong Wang",
+        "Jinjing Zhao"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "google_deepmind_https%3A%2F%2Fdeepmind.google%2Fblog%2Fs",
       "title": "Speeding up planning decisions with AI",
@@ -18,34 +46,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2610.42148",
-      "title": "Flide: Accelerating Decision Inference with Exact State Forking",
-      "url": "https://huggingface.co/papers/2610.42148",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-30T13:59:38.000Z",
-      "abstract": "Decision models such as Jev have emerged as a highly promising paradigm for LLM agent systems, providing lightweight and reliable categorical reasoning for rapid System One execution. However, existin",
-      "authors": [
-        "Bobo Li",
-        "Jiajia Song",
-        "Hao Fei",
-        "Wynne Hsu",
-        "Mong Li Lee"
-      ],
-      "tags": [
-        "inference"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-10T10:37:03.649Z",
+  "generatedAt": "2026-11-10T18:22:03.832Z",
   "date": "04-11-2026",
-  "count": 8,
+  "count": 5,
   "summary": null,
   "items": [
     {
@@ -20,31 +20,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.08647",
-      "title": "IWIBench: Evaluating Gradient-Free Model Driven Intra-weight Injection",
-      "url": "https://huggingface.co/papers/2611.08647",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-04T19:00:00.000Z",
-      "abstract": "Intra-weight injection lets one model change another model's behaviour by editing its weights directly, without gradients. Such edits can range from altering lexical associations to enforcing output f",
-      "authors": [
-        "Chris von Csefalvay",
-        "Pranav Doma",
-        "Achyuthan Unni Krishnan",
-        "Tamás Földi"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -102,50 +77,6 @@
       "abstract": "Data Mining &amp; Modeling",
       "authors": [],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
-      "title": "How NVIDIA Factory Operations Blueprint Coordinates AI Agents to Investigate Production Issues",
-      "url": "https://developer.nvidia.com/blog/how-nvidia-factory-operations-blueprint-coordinates-ai-agents-to-investigate-production-issues/",
-      "source": "NVIDIA Blog",
-      "sourceIcon": "🟩",
-      "type": "tool",
-      "timestamp": "2026-11-04T17:00:00.000Z",
-      "abstract": "A Siemens report estimates that unplanned downtime costs an average large plant in the surveyed sectors $253 million per year. Whether investigating a failed...]]>",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
-      "title": "Use NVIDIA NeMo to Turn Agent Failures into Tests and Harness Fixes",
-      "url": "https://developer.nvidia.com/blog/use-nvidia-nemo-to-turn-agent-failures-into-tests-and-harness-fixes/",
-      "source": "NVIDIA Blog",
-      "sourceIcon": "🟩",
-      "type": "tool",
-      "timestamp": "2026-11-04T16:00:00.000Z",
-      "abstract": "Turn production evidence into prioritized issues and custom evaluations that help you improve prompts, tools, models, memory, skills, and harness code. When you...]]>",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",

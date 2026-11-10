@@ -1,9 +1,141 @@
 {
-  "generatedAt": "2026-11-10T10:37:03.645Z",
+  "generatedAt": "2026-11-10T18:22:03.828Z",
   "date": "08-11-2026",
-  "count": 6,
+  "count": 12,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2611.12875",
+      "title": "Click3R: Interactive Stereo 3D Reconstruction with Sparse Correspondence Clicks",
+      "url": "https://huggingface.co/papers/2611.12875",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-08T19:00:00.000Z",
+      "abstract": "Despite impressive progress, existing feed-forward large 3D reconstruction models produce a single, irrevocable prediction. When these models fail, there is no mechanism to correct their mistakes. To",
+      "authors": [
+        "Hao Gu",
+        "Jin Yao",
+        "Zezhou Cheng"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.12870",
+      "title": "SWAM: Scaling World Action Models with Cross-Modal Alignment",
+      "url": "https://huggingface.co/papers/2611.12870",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-08T19:00:00.000Z",
+      "abstract": "World action models jointly predict video and actions conditioned on language. Existing studies focus primarily on architectures and training mechanisms, typically treating language-video alignment ac",
+      "authors": [
+        "Yu Zhou",
+        "Xinyuan Xia",
+        "Xuankun Yang",
+        "Yinghao Yang",
+        "Wendi Chen"
+      ],
+      "tags": [
+        "alignment"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.11890",
+      "title": "Training Vision Transformers to Focus: Emergence of Spatial Attention Head Specialization",
+      "url": "https://huggingface.co/papers/2611.11890",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-08T19:00:00.000Z",
+      "abstract": "Self-supervised learning in Vision Transformer models, such as DINO, enables robust visual perception without requiring labeled data by leveraging large-scale image datasets. However, these models lac",
+      "authors": [
+        "Yuji Nozawa",
+        "Yu-Chieh Lin",
+        "Youyang Ng"
+      ],
+      "tags": [
+        "transformer",
+        "training"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.12886",
+      "title": "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning",
+      "url": "https://huggingface.co/papers/2611.12886",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-08T19:00:00.000Z",
+      "abstract": "Agentic reinforcement learning (RL) and multi-teacher on-policy distillation (MOPD) offer complementary routes to post-training. For visual agents, however, tool use presents two related challenges. M",
+      "authors": [
+        "Haozhi Yuan",
+        "Handong Li",
+        "Yifan Zhang",
+        "Qianshan Wei"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.12806",
+      "title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
+      "url": "https://huggingface.co/papers/2611.12806",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-08T19:00:00.000Z",
+      "abstract": "Tactile sensing is an indispensable modality for contact-rich dexterous manipulation, a capability that hints at the ultimate frontiers of embodied intelligence. However, commercially available tactil",
+      "authors": [
+        "Bing Han",
+        "Yichuan Peng",
+        "Haoyu Dong",
+        "Yuanmeng Hu",
+        "Yongyi Jia"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2611.12324",
       "title": "How Many Exposures Does a World Model Need? Learning Unseen Game Mechanics at Test Time",
@@ -46,6 +178,34 @@
         "Weiping Shen"
       ],
       "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.11558",
+      "title": "InfraRSI: Harnessing Recursive Self-Improvement for Training Infrastructure",
+      "url": "https://huggingface.co/papers/2611.11558",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-08T13:59:37.000Z",
+      "abstract": "While Recursive Self-Improvement (RSI) accelerates isolated algorithm and kernel synthesis, distributed LLM training depends on tightly coupled launch settings, operator kernels, and communication sch",
+      "authors": [
+        "InfraRSI Team",
+        "Yuchuan Tian",
+        "Haocheng Mei",
+        "Ye Yuan",
+        "Chao Xu"
+      ],
+      "tags": [
+        "training"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
