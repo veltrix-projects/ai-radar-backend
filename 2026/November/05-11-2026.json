@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-10T18:22:03.831Z",
+  "generatedAt": "2026-11-10T23:36:16.587Z",
   "date": "05-11-2026",
-  "count": 12,
+  "count": 10,
   "summary": null,
   "items": [
     {
@@ -19,6 +19,31 @@
       ],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.09709",
+      "title": "RidgeFill: Training-Free Late-Layer Cache Fill for Faster Prefill",
+      "url": "https://huggingface.co/papers/2611.09709",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-05T19:00:00.000Z",
+      "abstract": "RidgeFill shortens prefill by not computing most of a model's upper layers for the prompt. The lower layers run exactly up to a split; from the split layer's state a per-layer map predicts every later",
+      "authors": [
+        "Dylan Johnston",
+        "Robert P. Smith"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -71,28 +96,6 @@
         "rag",
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.10123",
-      "title": "All Quiet on the Neural Front: Language Models Do Not Report Injected Pain States",
-      "url": "https://huggingface.co/papers/2611.10123",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-05T19:00:00.000Z",
-      "abstract": "Can a language model report the pain state it represents? Work identified a linear pain direction whose amplification leads fine-tuned models to choose destructive actions. We tested whether three ope",
-      "authors": [
-        "Emilio Ferrara"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -165,26 +168,6 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Faustr",
-      "title": "Australian universities are creating AI-native graduates",
-      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-11-05T17:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS",
       "url": "https://developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os/",
@@ -238,36 +221,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.08240",
-      "title": "FewStepRL: Fine-tuning Few-step Diffusion Models with Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2611.08240",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-05T11:19:52.000Z",
-      "abstract": "Reinforcement learning (RL) has become a standard post-training method for diffusion models, but most RL objectives roll out the current policy at every iteration, and with a many-step sampler these r",
-      "authors": [
-        "Haitao Lin",
-        "Minsi Ren",
-        "Yang Li",
-        "Xingtong Ge",
-        "Zheyuan Hu"
-      ],
-      "tags": [
-        "diffusion",
-        "fine-tuning",
-        "reinforcement learning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
