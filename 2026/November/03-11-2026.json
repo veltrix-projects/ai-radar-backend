@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T02:50:37.553Z",
+  "generatedAt": "2026-11-10T10:37:03.650Z",
   "date": "03-11-2026",
   "count": 5,
   "summary": null,
@@ -30,32 +30,30 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 315142,
+      "stars": 315301,
       "votes": 0,
       "points": 0
     },
     {
-      "id": "hf_paper_2611.06844",
-      "title": "Where to Connect? Boosting MLLMs via Dynamic Gated Pathways across ALL ViT and LLM Layers",
-      "url": "https://huggingface.co/papers/2611.06844",
+      "id": "hf_paper_2611.05791",
+      "title": "FlyHash for LLM Agent Memory: An Empirical Validation and a New Application",
+      "url": "https://huggingface.co/papers/2611.05791",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-11-03T19:00:00.000Z",
-      "abstract": "A central yet under-explored question in Multimodal Large Language Models (MLLMs) is where to connect---how visual information from a hierarchical vision encoder should be wired into the layer-wise se",
+      "timestamp": "2026-11-03T19:57:24.000Z",
+      "abstract": "Large language model (LLM) agents increasingly rely on external memory stores to retain information across conversations, typically via dense vector embeddings searched with approximate nearest-neighb",
       "authors": [
-        "Yingying Yan",
-        "Jiaqi Tang",
-        "Wei Wei",
-        "Qianzhou Wang",
-        "Lei Zhang"
+        "Mohan Bheemadolu",
+        "Chrisogonas O. Odhiambo"
       ],
       "tags": [
-        "llm"
+        "llm",
+        "agent"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

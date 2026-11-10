@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-10T02:50:37.553Z",
+  "generatedAt": "2026-11-10T10:37:03.649Z",
   "date": "04-11-2026",
-  "count": 10,
+  "count": 8,
   "summary": null,
   "items": [
     {
@@ -149,60 +149,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.07025",
-      "title": "LowRAM: Low-Rank Keys and Amortised Values for Composable KV Cache Compression at Test-Time",
-      "url": "https://huggingface.co/papers/2611.07025",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-04T14:00:06.000Z",
-      "abstract": "Autoregressive decoding relies on the KV cache, whose memory footprint grows linearly with context length and caps batch size and throughput. Existing post-training methods exploit redundancy across t",
-      "authors": [
-        "Teresa Delgado",
-        "Hugo Hazard",
-        "Martin Benfeghoul",
-        "Jun Wang",
-        "Zafeirios Fountas"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.06856",
-      "title": "LongBanana: An Expert-Verified Benchmark for Long-Context Multi-Reference Image Synthesis",
-      "url": "https://huggingface.co/papers/2611.06856",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-04T13:11:56.000Z",
-      "abstract": "We introduce LongBanana, to our knowledge the first expert-designed and expert-verified benchmark for long-context multi-reference image synthesis in the age of agent-driven image generation. The task",
-      "authors": [
-        "Haoxiang Cao",
-        "Yuxuan Zhang",
-        "Penghui Du",
-        "Bo Li",
-        "Jiajiong Cao"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

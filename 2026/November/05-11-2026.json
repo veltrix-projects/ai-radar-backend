@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-11-10T02:50:37.551Z",
+  "generatedAt": "2026-11-10T10:37:03.649Z",
   "date": "05-11-2026",
   "count": 20,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2611.08969",
+      "title": "PhysioWave-T: Token-Efficient Wavelet Foundation Models for Biosignals",
+      "url": "https://huggingface.co/papers/2611.08969",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-05T23:30:15.000Z",
+      "abstract": "We present PhysioWave-T, a token-efficient wavelet foundation model family for EEG, ECG, and sEMG. Dynamic scale folding recombines J+1 wavelet subbands prior to tokenization, compressing sequence len",
+      "authors": [
+        "Yanlong Chen",
+        "Simone Benatti",
+        "Luca Benini",
+        "Cuntai Guan",
+        "Yawei Li"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fmeta-gen",
       "title": "Everyone Everywhere Hated Meta’s New AI Training Terms. Now, They’re On Pause",
@@ -47,6 +73,62 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2611.10329",
+      "title": "SIRIS: Can LLMs Tell When Simulation Errors Matter in AI-Driven Systems Research",
+      "url": "https://huggingface.co/papers/2611.10329",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-05T19:00:00.000Z",
+      "abstract": "LLM agents increasingly drive systems research and rely on simulators to evaluate candidate designs at scale. Simulators are imperfect by design: their modeling limitations can distort predictions yet",
+      "authors": [
+        "Jinwoo Hwang",
+        "Sukmin Cho",
+        "Tao Zhang",
+        "Soheil Abbasloo",
+        "Jongse Park"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.09124",
+      "title": "Toward the Era of Agentic Embodied Intelligence",
+      "url": "https://huggingface.co/papers/2611.09124",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-05T19:00:00.000Z",
+      "abstract": "Foundation models increasingly guide robot actions, yet sustained autonomy requires efficient control and failure recovery. We introduce A2-MEAS, an embodied multi-agent framework built around code as",
+      "authors": [
+        "Chao Liang",
+        "Ke Chen",
+        "Fengxiaoxiao Li",
+        "Shibo Huang",
+        "Yufeng Sun"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2611.09891",
       "title": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
       "url": "https://huggingface.co/papers/2611.09891",
@@ -65,29 +147,6 @@
       "tags": [
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.09634",
-      "title": "Steerable Multi-Objective Group-Relative Preference Optimization with Jointly Trained Low-Rank Adapters",
-      "url": "https://huggingface.co/papers/2611.09634",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-05T19:00:00.000Z",
-      "abstract": "Language model deployment often requires different trade-offs between competing objectives as user preferences change, yet standard post-training methods typically produce a single policy for a fixed",
-      "authors": [
-        "Constantinos Karouzos",
-        "Nikolaos Aletras"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -280,25 +339,25 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.08290",
-      "title": "AutoCompress: Automated Hardware-Guided Model Compression",
-      "url": "https://huggingface.co/papers/2611.08290",
+      "id": "hf_paper_2611.08452",
+      "title": "ReproBridge: Building Reproducibility into ML Research Artifacts",
+      "url": "https://huggingface.co/papers/2611.08452",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-11-05T11:53:48.000Z",
-      "abstract": "LLM pruning must preserve quality while meeting hardware- and workload-specific constraints on latency, throughput, and memory. Existing pruning workflows often target parameter counts, requiring prac",
+      "timestamp": "2026-11-05T13:45:36.000Z",
+      "abstract": "Reproducing machine learning experiments requires reconstructing procedures from information scattered across papers, released code, and supporting artifacts. For coding agents, reproduction success c",
       "authors": [
-        "Sheldon Liang",
-        "Ali Taghibakhshi",
-        "Saurav Muralidharan",
-        "Sharath Turuvekere Sreenivas",
-        "Ashwath Aithal"
+        "Yubo Wang",
+        "Rui Meng",
+        "Jaehyun Nam",
+        "Tomas Pfister",
+        "Jinsung Yoon"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -306,48 +365,26 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.08264",
-      "title": "SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes",
-      "url": "https://huggingface.co/papers/2611.08264",
+      "id": "hf_paper_2611.08240",
+      "title": "FewStepRL: Fine-tuning Few-step Diffusion Models with Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2611.08240",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-11-05T11:37:29.000Z",
-      "abstract": "We identify a key limitation of existing feed-forward 3DGS methods: Gaussian attributes are typically predicted in a radial-distance-normalized space that canonicalizes a global radial statistic of th",
+      "timestamp": "2026-11-05T11:19:52.000Z",
+      "abstract": "Reinforcement learning (RL) has become a standard post-training method for diffusion models, but most RL objectives roll out the current policy at every iteration, and with a many-step sampler these r",
       "authors": [
-        "Hao Yu",
-        "Zhenwei Wang",
-        "Yongzhen Hu",
-        "Yuning Gong",
-        "Junta Wu"
+        "Haitao Lin",
+        "Minsi Ren",
+        "Yang Li",
+        "Xingtong Ge",
+        "Zheyuan Hu"
       ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.08179",
-      "title": "Knowing When to Teach: Learning from Teachable Prefixes in Multilingual Reasoning Distillation",
-      "url": "https://huggingface.co/papers/2611.08179",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-05T10:34:23.000Z",
-      "abstract": "On-Policy Self-Distillation (OPSD) improves reasoning by training a student on its own reasoning, using the same model conditioned on reference solutions as a teacher. Applying OPSD to multilingual re",
-      "authors": [
-        "Jaewon Cho",
-        "Minseo Yoon",
-        "Jinyoung Park",
-        "Jinwoo Seo",
-        "Jaewon Chu"
+      "tags": [
+        "diffusion",
+        "fine-tuning",
+        "reinforcement learning"
       ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -423,34 +460,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.07723",
-      "title": "Static Recovery Is Not Dynamic Stability: Dynamics-Aware Benchmarking of Protein Motif Scaffolding",
-      "url": "https://huggingface.co/papers/2611.07723",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-05T04:38:23.000Z",
-      "abstract": "Protein motif scaffolding benchmarks assess whether generative models can build scaffolds around functionally important residues. Their conclusions depend on which motifs are tested and which criteria",
-      "authors": [
-        "Emile de Bruyn",
-        "Moritz Schäffler",
-        "Jannik Schneider",
-        "Sebastian R. Schmidt",
-        "Chanwoong Hwang"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

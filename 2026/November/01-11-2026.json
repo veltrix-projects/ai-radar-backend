@@ -1,28 +1,52 @@
 {
-  "generatedAt": "2026-11-09T02:13:18.088Z",
+  "generatedAt": "2026-11-10T10:37:03.651Z",
   "date": "01-11-2026",
-  "count": 1,
+  "count": 2,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2611.03743",
-      "title": "EvoMemState: Evolving Memory State for Personal Agents",
-      "url": "https://huggingface.co/papers/2611.03743",
+      "id": "hf_paper_2611.02810",
+      "title": "TRIO: Task Refinement with Individual Optimization for Retrieval-Augmented Generation",
+      "url": "https://huggingface.co/papers/2611.02810",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-01T19:00:00.000Z",
-      "abstract": "Long-term memory enables large language model (LLM) agents to provide continuous personalized assistance by retaining user information across interactions. Existing systems support this process throug",
+      "abstract": "This paper studies retrieval-augmented generation (RAG), which leverages external knowledge to improve the performance of language models. Despite the remarkable progress, current RAG approaches are s",
       "authors": [
-        "Zhishang Xiang",
-        "Yunbo Tang",
-        "Zhongqiao Liu",
-        "Junkai Chen",
-        "Zerui Chen"
+        "Yingtao Ren",
+        "Xiao Luo",
+        "Yiwei Fu",
+        "Jinzhao Zhou",
+        "Yu-Cheng Chang"
       ],
-      "tags": [
-        "agent"
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.01729",
+      "title": "ODE Policy: Robot Learning via Action Dynamics, Not Actions",
+      "url": "https://huggingface.co/papers/2611.01729",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-01T04:25:12.000Z",
+      "abstract": "Most robot policies, whether trained by imitation learning (IL) or reinforcement learning (RL), map observations to action values at discrete control steps and leave the continuity of physical motion",
+      "authors": [
+        "Jindou Jia",
+        "Jingliang Li",
+        "Kuangji Zuo",
+        "Tuo An",
+        "Yuxuan Hu"
       ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

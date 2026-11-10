@@ -1,56 +1,9 @@
 {
-  "generatedAt": "2026-11-10T02:50:37.555Z",
+  "generatedAt": "2026-11-10T10:37:03.652Z",
   "date": "30-10-2026",
-  "count": 4,
+  "count": 2,
   "summary": null,
   "items": [
-    {
-      "id": "hf_paper_2611.01182",
-      "title": "Fast and Exact Relative-Position Attention via Structure-Aware Kernels",
-      "url": "https://huggingface.co/papers/2611.01182",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-30T20:00:00.000Z",
-      "abstract": "Relative-position attention mechanisms offer compelling alternatives to RoPE across various transformer architectures, delivering superior performance in domains such as audio. These mechanisms typica",
-      "authors": [
-        "Delyan Boychev",
-        "Ivo Petrov",
-        "Dimitar I. Dimitrov"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.00448",
-      "title": "Learning to evolve by matching velocities",
-      "url": "https://huggingface.co/papers/2611.00448",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-10-30T19:03:28.000Z",
-      "abstract": "Learning the continuous-time evolution of nonlinear dynamical systems relies on trajectory-based objectives, which require simulating the learned dynamics during training and backpropagating through t",
-      "authors": [
-        "Nicola Farenga",
-        "Andrea Manzoni"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "google_deepmind_https%3A%2F%2Fdeepmind.google%2Fblog%2Fs",
       "title": "Speeding up planning decisions with AI",
@@ -72,22 +25,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2610.41711",
-      "title": "Hierarchical Residuals: A Minimalist Decoupling of Residual Width from Compute Width",
-      "url": "https://huggingface.co/papers/2610.41711",
+      "id": "hf_paper_2610.42148",
+      "title": "Flide: Accelerating Decision Inference with Exact State Forking",
+      "url": "https://huggingface.co/papers/2610.42148",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-10-30T09:18:22.000Z",
-      "abstract": "Residual connections underpin Transformers, but they implicitly tie the residual width carried through depth to the compute width used inside each layer. We introduce Hierarchical Residuals (HiRes), a",
+      "timestamp": "2026-10-30T13:59:38.000Z",
+      "abstract": "Decision models such as Jev have emerged as a highly promising paradigm for LLM agent systems, providing lightweight and reliable categorical reasoning for rapid System One execution. However, existin",
       "authors": [
-        "Ziteng Wang",
-        "Jianqiao Lu",
-        "Xinyu Ma",
-        "Jintao Zhang",
-        "Jun Zhu"
+        "Bobo Li",
+        "Jiajia Song",
+        "Hao Fei",
+        "Wynne Hsu",
+        "Mong Li Lee"
       ],
-      "tags": [],
+      "tags": [
+        "inference"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
