@@ -1,9 +1,66 @@
 {
-  "generatedAt": "2026-11-10T23:36:16.557Z",
+  "generatedAt": "2026-11-11T03:48:55.489Z",
   "date": "08-11-2026",
   "count": 10,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2611.11994",
+      "title": "EmoHarness: Boosting Multimodal Emotion Understanding with Meta-Harness Evolving",
+      "url": "https://huggingface.co/papers/2611.11994",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-08T19:00:00.000Z",
+      "abstract": "Small multimodal models can misjudge emotion when words, voice, and visual cues conflict. We present EmoHarness, which runs such a model, the frozen student, inside a harness: the prompts, settings, a",
+      "authors": [
+        "Fenghai Li",
+        "Bingxuan Li",
+        "Jiawen Zhang",
+        "Yifan Shen",
+        "Jiateng Liu"
+      ],
+      "tags": [
+        "multimodal"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.11995",
+      "title": "Infrathon: Benchmarking Language Agents for Real-World, Long-Horizon AI Infra Optimization",
+      "url": "https://huggingface.co/papers/2611.11995",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-08T19:00:00.000Z",
+      "abstract": "In this work, we study whether frontier agent can continually improve real-world AI infrastructure over long horizons. We introduce Infrathon, a benchmark of diverse, long-horizon AI infrastructure op",
+      "authors": [
+        "Zhengyu Hu",
+        "Zheyuan Xiao",
+        "Yike Wang",
+        "Hamish Ivison",
+        "Haoyu Wang"
+      ],
+      "tags": [
+        "agent",
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2611.12167",
       "title": "FraudBench: A Legal Evaluation of AI Deception",
@@ -136,33 +193,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.12886",
-      "title": "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning",
-      "url": "https://huggingface.co/papers/2611.12886",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-08T19:00:00.000Z",
-      "abstract": "Agentic reinforcement learning (RL) and multi-teacher on-policy distillation (MOPD) offer complementary routes to post-training. For visual agents, however, tool use presents two related challenges. M",
-      "authors": [
-        "Haozhi Yuan",
-        "Handong Li",
-        "Yifan Zhang",
-        "Qianshan Wei"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "hf_paper_2611.11558",
       "title": "InfraRSI: Harnessing Recursive Self-Improvement for Training Infrastructure",
       "url": "https://huggingface.co/papers/2611.11558",
@@ -226,26 +256,6 @@
         "deepseek",
         "qwen"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "MoE Routing Strategies Explained: Top-K, Expert-Choice, Sigmoid Gating and Dynamic Routing (2026 Guide)",
-      "url": "https://www.marktechpost.com/2026/11/07/moe-routing-strategies-explained/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-11-08T06:18:33.000Z",
-      "abstract": "MoE routing strategies decide which experts process each token. This guide explains 7 methods, from Mixtral's top-2 softmax to DeepSeek-V4's hash routing, with the models that use each one.\nThe post M",
-      "authors": [],
-      "tags": [],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
