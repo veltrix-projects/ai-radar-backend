@@ -1,24 +1,27 @@
 {
-  "generatedAt": "2026-11-10T02:50:37.555Z",
+  "generatedAt": "2026-11-11T19:00:35.463Z",
   "date": "31-10-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2611.01362",
-      "title": "\"PRISM\" Is Not All You Need: Cross-Topic Name Collisions and Scientific Paper Retrieval",
-      "url": "https://huggingface.co/papers/2611.01362",
+      "id": "hf_paper_2611.01527",
+      "title": "From Tool State to Scientific Action: Auditing Decision Provenance in Biomedical Research Agents",
+      "url": "https://huggingface.co/papers/2611.01527",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-10-31T20:00:08.000Z",
-      "abstract": "Scientific names increasingly connect papers from different research topics, leaving readers to recover a paper's identity from context. We study this convergence in 564,861 AI-related arXiv records.",
+      "timestamp": "2026-10-31T23:58:26.000Z",
+      "abstract": "A scientific agent can give the same verdict while reading and citing different evidence. BioAgent-DF tests this separation using paired reference and candidate values saved at the same scientific com",
       "authors": [
-        "Jingjie Ning",
-        "Xueqi Li",
-        "Yibo Kong"
+        "Xingyu Yi",
+        "Xinya Zhang",
+        "Yunshen Zhou",
+        "Haoyu Bao"
       ],
-      "tags": [],
+      "tags": [
+        "agent"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

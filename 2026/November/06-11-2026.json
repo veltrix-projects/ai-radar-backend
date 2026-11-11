@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-11T11:34:39.647Z",
+  "generatedAt": "2026-11-11T19:00:35.460Z",
   "date": "06-11-2026",
-  "count": 6,
+  "count": 7,
   "summary": null,
   "items": [
     {
@@ -25,20 +25,49 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.12955",
-      "title": "Predictive Surprise as Self-Grounding Concept Bottleneck for Interpretable Time Series",
-      "url": "https://huggingface.co/papers/2611.12955",
+      "id": "hf_paper_2611.10866",
+      "title": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
+      "url": "https://huggingface.co/papers/2611.10866",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-06T19:00:00.000Z",
-      "abstract": "Time-series classifiers deployed in risk-sensitive domains must be (1) accurate, (2) interpretable, and (3) able to abstain when evidence is weak. Existing methods do not deliver all 3 at once, and th",
+      "abstract": "How little of a pretrained large language model (LLM) has to change for it to acquire new capabilities? We find that zeroing fewer than 0.05% of its weights, with no other modification, matches full f",
       "authors": [
-        "Sachith Abeywickrama",
-        "Emadeldeen Eldele",
-        "Min Wu",
-        "Xiaoli Li",
-        "Chau Yuen"
+        "Jack Lu",
+        "Zhenbang Yang",
+        "Mike Lasby",
+        "Tejas Pote",
+        "Yani Ioannou"
+      ],
+      "tags": [
+        "llm",
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.10649",
+      "title": "MACaQ: Fast, Model Agnostic Calibrated Quantization for Low-Precision Weights and Activations",
+      "url": "https://huggingface.co/papers/2611.10649",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-06T19:00:00.000Z",
+      "abstract": "Weight-activation quantization can reduce the memory and compute cost of neural-network inference, but recent methods often require expensive optimization and architecture-specific propagation of basi",
+      "authors": [
+        "Lorenz K. Muller",
+        "Philippe Bich",
+        "Chiara Boretti",
+        "Hyun-Min Chang",
+        "Jiawei Zhuang"
       ],
       "tags": [],
       "score": 6,
