@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-11T03:48:55.491Z",
+  "generatedAt": "2026-11-11T11:34:39.647Z",
   "date": "06-11-2026",
-  "count": 11,
+  "count": 6,
   "summary": null,
   "items": [
     {
@@ -25,95 +25,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.10592",
-      "title": "MotionGraphicsBench: Evaluating Motion Graphics Generation with Programmatic Verification",
-      "url": "https://huggingface.co/papers/2611.10592",
+      "id": "hf_paper_2611.12955",
+      "title": "Predictive Surprise as Self-Grounding Concept Bottleneck for Interpretable Time Series",
+      "url": "https://huggingface.co/papers/2611.12955",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-06T19:00:00.000Z",
-      "abstract": "Large language models can generate motion graphics from static images and natural language requests, but it remains difficult to evaluate how well models can follow requests that combine spatial, appe",
+      "abstract": "Time-series classifiers deployed in risk-sensitive domains must be (1) accurate, (2) interpretable, and (3) able to abstain when evidence is weak. Existing methods do not deliver all 3 at once, and th",
       "authors": [
-        "Jiaju Ma",
-        "Ashvini Kumar Jindal",
-        "Chuhua Wang",
-        "Sumithra Bhakthavatsalam"
-      ],
-      "tags": [
-        "phi"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.10556",
-      "title": "onóna: Twin Embeddings with Tied Unembeddings",
-      "url": "https://huggingface.co/papers/2611.10556",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-06T19:00:00.000Z",
-      "abstract": "Weight tying reduces the parameter cost of language models, but the usual tied output head is limited to a single softmax. We introduce onóna, a two-table parameterization that increases output expres",
-      "authors": [
-        "Cheng Luo",
-        "Xinnan Dai",
-        "Zhongzhu Zhou",
-        "Zefan Cai",
-        "Ruijie Zhu"
-      ],
-      "tags": [
-        "embeddings"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2512.23818",
-      "title": "Energy-Tweedie: Score meets Score, Energy meets Energy",
-      "url": "https://huggingface.co/papers/2512.23818",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-06T19:00:00.000Z",
-      "abstract": "Denoising and score estimation are classically linked through Tweedie's formula, which relates the posterior mean under Gaussian noise to the Stein score of the noisy marginal. In this work, we extend",
-      "authors": [
-        "Andrej Leban"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.10304",
-      "title": "Longtail-SWE: High-Quality SWE Tasks for Underrepresented Languages",
-      "url": "https://huggingface.co/papers/2611.10304",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-06T18:04:32.000Z",
-      "abstract": "Challenging repository-level benchmarks remain limited for many programming language ecosystems, where filtering scarce candidates with ambiguous descriptions or defective tests can discard valuable e",
-      "authors": [
-        "Vladimir Dobrovolskii",
-        "Ibragim Badertdinov",
-        "Alexander Golubev"
+        "Sachith Abeywickrama",
+        "Emadeldeen Eldele",
+        "Min Wu",
+        "Xiaoli Li",
+        "Chau Yuen"
       ],
       "tags": [],
       "score": 6,
@@ -201,50 +126,6 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fpartn",
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "url": "https://openai.com/index/partnering-with-hacktron",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-11-06T08:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.09195",
-      "title": "InstantHMR : Real-Time Human Mesh Recovery on Your Phone",
-      "url": "https://huggingface.co/papers/2611.09195",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-06T04:17:27.000Z",
-      "abstract": "Real-time 3D human mesh recovery from a single image on mobile devices is a challenging problem with many applications, including robotics, biomechanics, AR/VR, and exergames. Current state-of-the-art",
-      "authors": [
-        "Mohamed Adjel",
-        "Kahina Chalabi",
-        "Vincent Bonnet"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

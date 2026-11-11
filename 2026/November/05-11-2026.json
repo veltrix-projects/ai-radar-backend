@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-11T03:48:55.491Z",
+  "generatedAt": "2026-11-11T11:34:39.648Z",
   "date": "05-11-2026",
-  "count": 11,
+  "count": 8,
   "summary": null,
   "items": [
     {
@@ -27,104 +27,28 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.09501",
-      "title": "e-means: outperforming k-means (in one-tenth the epochs)",
-      "url": "https://huggingface.co/papers/2611.09501",
+      "id": "hf_paper_2611.12934",
+      "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
+      "url": "https://huggingface.co/papers/2611.12934",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-05T19:00:00.000Z",
-      "abstract": "Lloyd's k-means algorithm is a long-running standard for clustering, with applications in data analysis, retrieval, quantization and data curation. In this paper, we introduce an exponential moving av",
+      "abstract": "While multimodal agents now carry out complex data analysis with tools, their ability to turn decades of satellite imagery into reliable land-change analysis, crucial for Earth observation science, re",
       "authors": [
-        "Swann Bessa",
-        "Pierre-Emmanuel Mazaré",
-        "Gergely Szilvasy",
-        "Hugo Touvron",
-        "David Picard"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.09709",
-      "title": "RidgeFill: Training-Free Late-Layer Cache Fill for Faster Prefill",
-      "url": "https://huggingface.co/papers/2611.09709",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-05T19:00:00.000Z",
-      "abstract": "RidgeFill shortens prefill by not computing most of a model's upper layers for the prompt. The lower layers run exactly up to a split; from the split layer's state a per-layer map predicts every later",
-      "authors": [
-        "Dylan Johnston",
-        "Robert P. Smith"
+        "Haoran Zhang",
+        "Huizhen Sun",
+        "Hanbin Wen",
+        "Jie Leng",
+        "Jiaxin Zhu"
       ],
       "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2501.08686",
-      "title": "Knowledge Graph-based Retrieval-Augmented Generation for Schema Matching",
-      "url": "https://huggingface.co/papers/2501.08686",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-05T19:00:00.000Z",
-      "abstract": "Traditional similarity-based schema matching methods fail to resolve semantic ambiguities and conflicts in complex, domain-specific mappings due to a lack of commonsense and domain-specific knowledge.",
-      "authors": [
-        "Chuangtao Ma",
-        "Sriom Chakrabarti",
-        "Arijit Khan",
-        "Bálint Molnár"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.08935",
-      "title": "SkinMind: Equipping Agentic RAG with Human-Inspired Graph Probing for Reliable Dermatology AI",
-      "url": "https://huggingface.co/papers/2611.08935",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-05T19:00:00.000Z",
-      "abstract": "Reliable dermatology AI requires access to verifiable evidence distributed across heterogeneous textual and visual sources. However, conventional retrieval-augmented generation (RAG) typically relies",
-      "authors": [
-        "Jing Hao",
-        "Weinan Zhou",
-        "Zhihong Lu",
-        "Yaling Shen",
-        "Yiming Xu"
-      ],
-      "tags": [
-        "rag",
+        "multimodal",
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
