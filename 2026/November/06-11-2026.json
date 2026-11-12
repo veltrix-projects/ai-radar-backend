@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-12T08:58:20.511Z",
+  "generatedAt": "2026-11-12T17:22:14.863Z",
   "date": "06-11-2026",
-  "count": 8,
+  "count": 6,
   "summary": null,
   "items": [
     {
@@ -25,78 +25,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.10486",
-      "title": "Test-Time Scaling for Diffusion Language Models with Frequency-Aware Remasking",
-      "url": "https://huggingface.co/papers/2611.10486",
+      "id": "hf_paper_2608.22237",
+      "title": "Read Less, Solve More: Token-Efficient Sparse Reading of External Content for AI Agents",
+      "url": "https://huggingface.co/papers/2608.22237",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-06T19:00:00.000Z",
-      "abstract": "Diffusion language models (DLMs) generate text through iterative denoising, where decisions about which tokens to commit or remask strongly affect output quality. Existing certainty-aware strategies r",
+      "abstract": "Web-facing AI agents repeatedly access webpages, documents, repositories, and tool responses, yet reading interfaces often expose entire objects when only sparse evidence is needed. This over-reading",
       "authors": [
-        "Bowen Zuo",
-        "Yue Yu",
-        "Dongruo Zhou",
-        "Yinglun Zhu"
+        "Zedong Liu",
+        "Jiaan Wu",
+        "Xinyang Ma",
+        "Le Xu",
+        "Kai Wang"
       ],
       "tags": [
-        "diffusion"
+        "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.10866",
-      "title": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
-      "url": "https://huggingface.co/papers/2611.10866",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-06T19:00:00.000Z",
-      "abstract": "How little of a pretrained large language model (LLM) has to change for it to acquire new capabilities? We find that zeroing fewer than 0.05% of its weights, with no other modification, matches full f",
-      "authors": [
-        "Jack Lu",
-        "Zhenbang Yang",
-        "Mike Lasby",
-        "Tejas Pote",
-        "Yani Ioannou"
-      ],
-      "tags": [
-        "llm",
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.10649",
-      "title": "MACaQ: Fast, Model Agnostic Calibrated Quantization for Low-Precision Weights and Activations",
-      "url": "https://huggingface.co/papers/2611.10649",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-06T19:00:00.000Z",
-      "abstract": "Weight-activation quantization can reduce the memory and compute cost of neural-network inference, but recent methods often require expensive optimization and architecture-specific propagation of basi",
-      "authors": [
-        "Lorenz K. Muller",
-        "Philippe Bich",
-        "Chiara Boretti",
-        "Hyun-Min Chang",
-        "Jiawei Zhuang"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

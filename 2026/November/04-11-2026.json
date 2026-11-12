@@ -1,28 +1,51 @@
 {
-  "generatedAt": "2026-11-12T08:58:20.512Z",
+  "generatedAt": "2026-11-12T17:22:14.864Z",
   "date": "04-11-2026",
-  "count": 4,
+  "count": 5,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2611.07464",
-      "title": "FINCOSMOS: An Open-World Evaluation Paradigm for Agents in Finance",
-      "url": "https://huggingface.co/papers/2611.07464",
+      "id": "hf_paper_2611.08379",
+      "title": "Module-Aware Optimization for Graph Neural Networks",
+      "url": "https://huggingface.co/papers/2611.08379",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-04T19:00:00.000Z",
-      "abstract": "Language agents increasingly work for users on the open Web, and finance is where trusting them is hardest. The data must come from the Web, the strategy lives in the user's head, and correctness depe",
+      "abstract": "Different optimizers impose different geometries on parameter updates. Adaptive methods such as Adam and AdamW use coordinate-wise updates, while matrix-aware optimizers such as Muon utilize weight-ma",
       "authors": [
-        "Yupeng Cao",
-        "Xueqing Peng",
-        "Lingfei Qian",
-        "Haohang Li",
-        "Yangyang Yu"
+        "Guy Hadad",
+        "Haggai Roitman",
+        "Moshe Eliasof",
+        "Bracha Shapira"
       ],
-      "tags": [
-        "agent"
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.08286",
+      "title": "Interactive Visual Gym: Evaluating Visual Interaction Models with Simulated Users in Interactive Worlds",
+      "url": "https://huggingface.co/papers/2611.08286",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-04T19:00:00.000Z",
+      "abstract": "Visual interaction models that support users during ongoing physical tasks require evaluation in closed loop, where assistant responses can change subsequent user behavior and task outcomes. Existing",
+      "authors": [
+        "Chenhao Zheng",
+        "Zixian Ma",
+        "Kai Li",
+        "Kanchana Ranasinghe",
+        "Jieyu Zhang"
       ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
