@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-11T19:00:35.460Z",
+  "generatedAt": "2026-11-12T01:35:18.206Z",
   "date": "06-11-2026",
-  "count": 7,
+  "count": 8,
   "summary": null,
   "items": [
     {
@@ -18,6 +18,33 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.10486",
+      "title": "Test-Time Scaling for Diffusion Language Models with Frequency-Aware Remasking",
+      "url": "https://huggingface.co/papers/2611.10486",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-06T19:00:00.000Z",
+      "abstract": "Diffusion language models (DLMs) generate text through iterative denoising, where decisions about which tokens to commit or remask strongly affect output quality. Existing certainty-aware strategies r",
+      "authors": [
+        "Bowen Zuo",
+        "Yue Yu",
+        "Dongruo Zhou",
+        "Yinglun Zhu"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
