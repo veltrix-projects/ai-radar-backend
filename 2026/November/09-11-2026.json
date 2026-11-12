@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-12T17:22:14.852Z",
+  "generatedAt": "2026-11-12T22:47:49.112Z",
   "date": "09-11-2026",
-  "count": 17,
+  "count": 18,
   "summary": null,
   "items": [
     {
@@ -101,6 +101,56 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.11306",
+      "title": "ScrapeBench: Evaluating Legal Compliance of AI Agents in Website Scraping",
+      "url": "https://huggingface.co/papers/2611.11306",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-09T19:00:00.000Z",
+      "abstract": "AI agents deployed on the open web are becoming more capable of performing actions that may breach contractual provisions and violate computer security laws. In this paper, we introduce ScrapeBench, t",
+      "authors": [
+        "Joseph Marvin Imperial",
+        "Daniel Slate",
+        "Noam Kolt"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.13766",
+      "title": "FAME-QP: A GPU-Accelerated Quadratic-Programming Solver for Real-Time Model Predictive Control",
+      "url": "https://huggingface.co/papers/2611.13766",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-09T19:00:00.000Z",
+      "abstract": "We present FAME-QP, a GPU-accelerated solver for dense quadratic programs arising in linear model predictive control. FAME-QP combines constraint-dependent operator representations with fused single-",
+      "authors": [
+        "Santosh Mohan Rajkumar",
+        "Debdipta Goswami",
+        "Stephanie Stockar"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -237,28 +287,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.14116",
-      "title": "Visual Similarity in Adult Word Extension and Artificial Word Learning",
-      "url": "https://huggingface.co/papers/2611.14116",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-09T19:00:00.000Z",
-      "abstract": "When two objects share a name, how much does their visual similarity explain, and what do the teaching examples add? First, we reanalyzed trial-level data from a large adult word-extension study (Lewi",
-      "authors": [
-        "Patricio M. Vera"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
       "title": "Nancy Pelosi’s replacement is ready to regulate AI",
       "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
@@ -371,7 +399,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 301648,
+      "stars": 301893,
       "votes": 0,
       "points": 0
     },
@@ -393,7 +421,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 167855,
+      "stars": 167914,
       "votes": 0,
       "points": 0
     }
