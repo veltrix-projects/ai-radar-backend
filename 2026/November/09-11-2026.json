@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-13T11:18:57.598Z",
+  "generatedAt": "2026-11-13T18:37:15.964Z",
   "date": "09-11-2026",
-  "count": 13,
+  "count": 12,
   "summary": null,
   "items": [
     {
@@ -108,51 +108,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.14815",
-      "title": "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
-      "url": "https://huggingface.co/papers/2611.14815",
+      "id": "hf_paper_2611.14256",
+      "title": "A Cross-Scenario Survey and Analysis of Self-Evolving Multimodal Agents",
+      "url": "https://huggingface.co/papers/2611.14256",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-09T19:00:00.000Z",
-      "abstract": "Driving world models aim to simulate how a scene unfolds under different ego actions. This requires plausible motion of surrounding vehicles as well as precise ego-trajectory control. Learning vehicle",
+      "abstract": "Recent work shows that multimodal agents increasingly self-improve without recurring human annotation. However, each self-improvement mechanism is designed and evaluated within a single scenario, leav",
       "authors": [
-        "Junyoung Seo",
-        "Jaewoo Seo",
-        "Seungryong Kim",
-        "Laura Leal-Taixé",
-        "Xiuming Zhang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.11306",
-      "title": "ScrapeBench: Evaluating Legal Compliance of AI Agents in Website Scraping",
-      "url": "https://huggingface.co/papers/2611.11306",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-09T19:00:00.000Z",
-      "abstract": "AI agents deployed on the open web are becoming more capable of performing actions that may breach contractual provisions and violate computer security laws. In this paper, we introduce ScrapeBench, t",
-      "authors": [
-        "Joseph Marvin Imperial",
-        "Daniel Slate",
-        "Noam Kolt"
+        "Jingjing Jiang"
       ],
       "tags": [
+        "multimodal",
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -160,20 +133,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.13766",
-      "title": "FAME-QP: A GPU-Accelerated Quadratic-Programming Solver for Real-Time Model Predictive Control",
-      "url": "https://huggingface.co/papers/2611.13766",
+      "id": "hf_paper_2611.14046",
+      "title": "Structured Confidence Perturbation via Fisher Geometry for Adversarial Training",
+      "url": "https://huggingface.co/papers/2611.14046",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-09T19:00:00.000Z",
-      "abstract": "We present FAME-QP, a GPU-accelerated solver for dense quadratic programs arising in linear model predictive control. FAME-QP combines constraint-dependent operator representations with fused single-",
+      "abstract": "Adversarial training is often plagued by \"pseudo-attacks\", perturbations that significantly increase the loss value but fail to truly alter the model's confidence structure. To address this, we propos",
       "authors": [
-        "Santosh Mohan Rajkumar",
-        "Debdipta Goswami",
-        "Stephanie Stockar"
+        "Chenlong Wei",
+        "Hanling Wang",
+        "Chong Zhang",
+        "Qinkai Yu",
+        "Fangyu Wu"
       ],
-      "tags": [],
+      "tags": [
+        "training"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -269,7 +246,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 302120,
+      "stars": 302287,
       "votes": 0,
       "points": 0
     },
@@ -291,7 +268,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 167990,
+      "stars": 168058,
       "votes": 0,
       "points": 0
     }

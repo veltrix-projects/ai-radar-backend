@@ -1,60 +1,32 @@
 {
-  "generatedAt": "2026-11-13T03:01:40.578Z",
+  "generatedAt": "2026-11-13T18:37:15.965Z",
   "date": "08-11-2026",
-  "count": 2,
+  "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2611.12304",
-      "title": "Evolving Infra: Agent-Adaptive LLM Serving at Scale",
-      "url": "https://huggingface.co/papers/2611.12304",
+      "id": "hf_paper_2611.12872",
+      "title": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents",
+      "url": "https://huggingface.co/papers/2611.12872",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-08T19:00:00.000Z",
-      "abstract": "Agentic workloads are a major source of LLM inference demand. Existing prefill--decode (PD) disaggregated serving systems offer limited flexibility for runtime adaptation of compute allocation and KV",
+      "abstract": "As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typic",
       "authors": [
-        "Hao Kang",
-        "Weili Xu",
-        "Ziyang Li",
-        "Zheng Du",
-        "Hanchen Li"
+        "Haozhen Zhang",
+        "Bohan Liu",
+        "Jianzhu Bao",
+        "Qingyuan Liu",
+        "Haodong Yue"
       ],
       "tags": [
-        "llm",
+        "multimodal",
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.13028",
-      "title": "GTAGym: Real AAA Game Tasks Environment for Evaluation and Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2611.13028",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-08T19:00:00.000Z",
-      "abstract": "AAA games offer a rich testbed for evaluating agent perception, reasoning, and control. However, evaluating whether agents can complete tasks in AAA games is challenging and often human-annotated beca",
-      "authors": [
-        "Jiajun Chen",
-        "Shicheng Fang",
-        "Jiahao Lu",
-        "Yuxin Wang",
-        "Xipeng Qiu"
-      ],
-      "tags": [
-        "reinforcement learning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
