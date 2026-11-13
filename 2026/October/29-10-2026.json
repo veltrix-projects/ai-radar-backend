@@ -1,25 +1,27 @@
 {
-  "generatedAt": "2026-11-13T03:01:40.583Z",
+  "generatedAt": "2026-11-13T11:18:57.602Z",
   "date": "29-10-2026",
-  "count": 4,
+  "count": 5,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2607.24999",
-      "title": "CogBattery: Human-Referenced Evaluation of Cognitive Task Behavior and Structure in Language Models",
-      "url": "https://huggingface.co/papers/2607.24999",
+      "id": "hf_paper_2610.41453",
+      "title": "Evidence-Guided Recovery for AI Agents with Ambiguous Tool Outcomes and Partial Execution",
+      "url": "https://huggingface.co/papers/2610.41453",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-29T20:00:00.000Z",
-      "abstract": "Human cognitive tasks let us compare language models with humans under controlled conditions. Yet a model can reproduce the direction of a human effect while making different errors. CogBattery evalua",
+      "abstract": "Tool timeouts can leave AI agents facing ambiguous tool outcomes and partial execution: an action may have failed, committed or remained in flight while other workflow steps have already completed. We",
       "authors": [
-        "Dengzhe Hou",
-        "Lingyu Jiang",
-        "Fangzhou Lin",
-        "Kazunori D Yamada"
+        "Genliang Zhu",
+        "Xiaobo Chen",
+        "Ziyuan Wang",
+        "Chu Wang"
       ],
-      "tags": [],
+      "tags": [
+        "agent"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -30,20 +32,44 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.27343",
-      "title": "WMIP: A Working-Memory-Inspired Programmable Probe of Cumulative State Tracking in Large Language Models",
-      "url": "https://huggingface.co/papers/2603.27343",
+      "id": "hf_paper_2611.00428",
+      "title": "Do Multimodal Models Decide Consistently on Equivalent Optical Spectra?",
+      "url": "https://huggingface.co/papers/2611.00428",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-29T20:00:00.000Z",
-      "abstract": "Human working memory lets people maintain and update information. Large language models (LLMs) face a related demand when tracking updates within a single prompt without writing out intermediate state",
+      "abstract": "A spectrum can be given to a model as a table in nanometers or as a plot in photon energy, and the decision should not depend on which one it sees. When the data needed for an answer are missing, the",
       "authors": [
-        "Dengzhe Hou",
-        "Lingyu Jiang",
-        "Deng Li",
-        "Zirui Li",
-        "Fangzhou Lin"
+        "Ziyuan Wang",
+        "Genliang Zhu",
+        "Xiaobo Chen"
+      ],
+      "tags": [
+        "multimodal"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.00359",
+      "title": "Humanized but Still True? Auditing Facts and Detection in AI-Text Humanizers",
+      "url": "https://huggingface.co/papers/2611.00359",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-10-29T20:00:00.000Z",
+      "abstract": "AI \"humanizers\" rewrite machine-generated text so that detectors classify it as human-written. Public leaderboards score evasion and embedding similarity, but not whether checkable details survive. We",
+      "authors": [
+        "Ziyuan Wang",
+        "Genliang Zhu",
+        "Xiaobo Chen"
       ],
       "tags": [],
       "score": 6,
@@ -102,7 +128,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 189779,
+      "stars": 189913,
       "votes": 0,
       "points": 0
     }

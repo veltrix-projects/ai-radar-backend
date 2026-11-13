@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-13T03:01:40.581Z",
+  "generatedAt": "2026-11-13T11:18:57.601Z",
   "date": "03-11-2026",
-  "count": 5,
+  "count": 6,
   "summary": null,
   "items": [
     {
@@ -30,25 +30,49 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 316764,
+      "stars": 316920,
       "votes": 0,
       "points": 0
     },
     {
-      "id": "hf_paper_2611.05862",
-      "title": "CARTBench: Rubric-Based Evaluation of Shopping Advice for Complex and Ambiguous Requests with Timelines",
-      "url": "https://huggingface.co/papers/2611.05862",
+      "id": "hf_paper_2611.05984",
+      "title": "On the Design of Hyper-Connections: Simplification, Stability, and Scalability",
+      "url": "https://huggingface.co/papers/2611.05984",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-03T19:00:00.000Z",
-      "abstract": "Large language model (LLM) shopping assistants now recommend products in multi-turn conversations. However, reliable evaluation faces Data scarcity and Difficulty Standardizing Criteria. To address th",
+      "abstract": "Hyper-Connections (HC) architectures are increasingly adopted in frontier language models, yet their components remain insufficiently understood and introduce non-negligible training overhead. In this",
       "authors": [
-        "Yuqin Dai",
-        "Zhanwei Zhang",
-        "Honghui Yang",
-        "Zhouheng Yao",
-        "Yueqi Zhang"
+        "Xiangdong Zhang",
+        "Xiaohan Qin",
+        "Sunan Zou",
+        "Tuo Dai",
+        "Bizhao Shi"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.08538",
+      "title": "Subliminal Learning in Vision-Language Models",
+      "url": "https://huggingface.co/papers/2611.08538",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-03T19:00:00.000Z",
+      "abstract": "Subliminal learning is a phenomenon in large language models (LLMs) where a teacher passes a hidden preference to a student through training data unrelated to that preference. We study whether sublimi",
+      "authors": [
+        "Arman Hatami",
+        "Romina Aalishah",
+        "Ilya E. Monosov"
       ],
       "tags": [],
       "score": 6,

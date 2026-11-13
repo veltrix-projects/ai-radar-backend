@@ -1,51 +1,28 @@
 {
-  "generatedAt": "2026-11-13T03:01:40.580Z",
+  "generatedAt": "2026-11-13T11:18:57.600Z",
   "date": "04-11-2026",
-  "count": 5,
+  "count": 4,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2611.08379",
-      "title": "Module-Aware Optimization for Graph Neural Networks",
-      "url": "https://huggingface.co/papers/2611.08379",
+      "id": "hf_paper_2611.08219",
+      "title": "Agent-R^2: Scaling Agents for Realistic Productivity Work via Real-Source Data Synthesis",
+      "url": "https://huggingface.co/papers/2611.08219",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-04T19:00:00.000Z",
-      "abstract": "Different optimizers impose different geometries on parameter updates. Adaptive methods such as Adam and AdamW use coordinate-wise updates, while matrix-aware optimizers such as Muon utilize weight-ma",
+      "abstract": "Large language models have made rapid progress in agentic reasoning and tool use, raising expectations for agents that can take over realistic productivity work from humans. However, current agents st",
       "authors": [
-        "Guy Hadad",
-        "Haggai Roitman",
-        "Moshe Eliasof",
-        "Bracha Shapira"
+        "Teng Pan",
+        "Zixuan Wang",
+        "Yuchen Yan",
+        "Qifei Wu",
+        "Yao Chen"
       ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.08286",
-      "title": "Interactive Visual Gym: Evaluating Visual Interaction Models with Simulated Users in Interactive Worlds",
-      "url": "https://huggingface.co/papers/2611.08286",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-04T19:00:00.000Z",
-      "abstract": "Visual interaction models that support users during ongoing physical tasks require evaluation in closed loop, where assistant responses can change subsequent user behavior and task outcomes. Existing",
-      "authors": [
-        "Chenhao Zheng",
-        "Zixian Ma",
-        "Kai Li",
-        "Kanchana Ranasinghe",
-        "Jieyu Zhang"
+      "tags": [
+        "agent"
       ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
