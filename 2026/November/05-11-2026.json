@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-11-13T18:37:15.967Z",
+  "generatedAt": "2026-11-14T00:02:58.414Z",
   "date": "05-11-2026",
-  "count": 4,
+  "count": 3,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2611.09567",
+      "title": "TurtLES: A Large-Scale Benchmark for Turbulent 3D Neural PDE Surrogates",
+      "url": "https://huggingface.co/papers/2611.09567",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-05T19:00:00.000Z",
+      "abstract": "Machine-learning surrogates are increasingly used to accelerate computational fluid dynamics, yet progress is limited by the lack of benchmarks capturing realistic, time-dependent turbulent flows. We",
+      "authors": [
+        "Jarno Platenburg",
+        "Armand Kassaï Koupaï",
+        "Paola Cinnella",
+        "Patrick Gallinari"
+      ],
+      "tags": [
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "google_deepmind_https%3A%2F%2Fdeepmind.google%2Fblog%2Fg",
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
@@ -27,26 +54,6 @@
       "points": 0
     },
     {
-      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
-      "title": "Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS",
-      "url": "https://developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os/",
-      "source": "NVIDIA Blog",
-      "sourceIcon": "🟩",
-      "type": "tool",
-      "timestamp": "2026-11-05T17:00:00.000Z",
-      "abstract": "One underperforming GPU can slow an entire distributed training job. The node may pass basic health checks and show normal utilization, leaving operators to...]]>",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Fd",
       "title": "Detecting signs of hypertension using wearable sensors",
       "url": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/",
@@ -60,26 +67,6 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
-      "title": "Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory",
-      "url": "https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory/",
-      "source": "NVIDIA Blog",
-      "sourceIcon": "🟩",
-      "type": "tool",
-      "timestamp": "2026-11-05T16:00:00.000Z",
-      "abstract": "In an AI factory, high bandwidth memory (HBM)is the fastest, most expensive, and most contested memory tier. Every byte spent on a redundant weight copy, an...]]>",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

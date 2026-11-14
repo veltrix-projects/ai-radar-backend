@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-13T18:37:15.962Z",
+  "generatedAt": "2026-11-14T00:02:58.410Z",
   "date": "11-11-2026",
-  "count": 21,
+  "count": 18,
   "summary": null,
   "items": [
     {
@@ -59,6 +59,112 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.17190",
+      "title": "Consensus Capture in Reference-Based UAV Video Stabilization: A Benchmark on Dynamic Urban Scenes",
+      "url": "https://huggingface.co/papers/2611.17190",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-11T19:00:00.000Z",
+      "abstract": "Reference-frame stabilization registers every frame of a hovering-drone video onto one reference frame, keeping object positions comparable. The registration pipelines it relies on are selected on fea",
+      "authors": [
+        "Robert Fonod",
+        "Nikolas Geroliminis"
+      ],
+      "tags": [
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.16961",
+      "title": "The Value of Thinking: Learning When to Reason in Hybrid Decision Models",
+      "url": "https://huggingface.co/papers/2611.16961",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-11T19:00:00.000Z",
+      "abstract": "Existing adaptive-reasoning methods shorten the explicit reasoning a model writes, or skip it by switching modes; either way the answer is still written out token by token. Rather than deciding how mu",
+      "authors": [
+        "Zhengxu Yu",
+        "Ke Xu",
+        "Meng Fang",
+        "Haitham Ammar",
+        "Weilin Luo"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.17334",
+      "title": "Unbundling Multimodal Vision Encoding",
+      "url": "https://huggingface.co/papers/2611.17334",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-11T19:00:00.000Z",
+      "abstract": "How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language",
+      "authors": [
+        "Ellis Brown",
+        "Chris Hoang",
+        "Shengyi Qian",
+        "Shang-Wen Li",
+        "Mike Lewis"
+      ],
+      "tags": [
+        "multimodal"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.16409",
+      "title": "Experience-Handoff Reinforcement Learning for Recursive Self-Improvement",
+      "url": "https://huggingface.co/papers/2611.16409",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-11T19:00:00.000Z",
+      "abstract": "It is common to train Large Language Models (LLMs) for agentic tasks with Reinforcement Learning (RL) from scalar rewards. However, this throws away the fine-grained information about the environment",
+      "authors": [
+        "Doyoung Kim",
+        "Byeongguk Jeon",
+        "Kailin Zhang",
+        "Sherry Yang"
+      ],
+      "tags": [
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -173,135 +279,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.16905",
-      "title": "Factored One-sided Adam-Moment for Practical and Scalable SOAP",
-      "url": "https://huggingface.co/papers/2611.16905",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-11T19:00:00.000Z",
-      "abstract": "Second-order optimizers (e.g., Shampoo, SOAP) have emerged as compelling alternatives to Adam/AdamW and promise faster per-step convergence than AdamW in transformer training. However, they still rema",
-      "authors": [
-        "Jaemyung Yu",
-        "Byeongho Heo",
-        "Sangdoo Yun",
-        "Dongyoon Han"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.16217",
-      "title": "WorldDraft: If Code Builds the World, Can Video Models Just Render It?",
-      "url": "https://huggingface.co/papers/2611.16217",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-11T19:00:00.000Z",
-      "abstract": "Multimodal coding agents decouple 4D world construction from visual generation, repurposing video models from world generators toward generative renderers. This division of labor raises a fundamental",
-      "authors": [
-        "Zhiyu Hou",
-        "Wen-Jie Shu",
-        "Harold Haodong Chen",
-        "Weilin Ruan",
-        "Chenfei Liao"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.16517",
-      "title": "UniSpark: Exploring Hybrid Attention for Multimodal Understanding and Generation",
-      "url": "https://huggingface.co/papers/2611.16517",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-11T19:00:00.000Z",
-      "abstract": "We present UniSpark-9B, a unified multimodal model that investigates hybrid attention for visual understanding and generation. Built on a Mixture-of-Transformer-Experts backbone with approximately 9B",
-      "authors": [
-        "Jiancheng Pan",
-        "Yuzheng Liu",
-        "Hengyuan Cao",
-        "Qiyuan Zhang",
-        "Yangyan Li"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.16748",
-      "title": "PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models",
-      "url": "https://huggingface.co/papers/2611.16748",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-11T19:00:00.000Z",
-      "abstract": "Video generation models produce visually realistic videos but still struggle with physical dynamics and causal consistency. Learning from generated videos requires fine-grained physical supervision, y",
-      "authors": [
-        "Yuxuan Chen",
-        "Xiaojie Li",
-        "Hao Chen",
-        "Juncheng Ma",
-        "Kewei Zhang"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.16321",
-      "title": "From Large Language Models to Efficient System One Models via Adaptive Computation",
-      "url": "https://huggingface.co/papers/2611.16321",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-11T19:00:00.000Z",
-      "abstract": "Transferring LLMs into System One decision models typically replaces the language modeling head with a decision head while retaining the full backbone, making every decision pay for all layers. Yet it",
-      "authors": [
-        "Minh-Anh Nguyen"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fscientis",
       "title": "Scientists Discovered An ‘Invisible’ Object In Space. It’s Challenging Our Understanding of the Cosmos",
       "url": "https://www.404media.co/scientists-discovered-an-invisible-object-in-space/",
@@ -362,26 +339,6 @@
       "points": 0
     },
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension",
-      "url": "https://www.marktechpost.com/2026/11/11/marktechpost-gpu-leaderboard-chrome-extension-launch/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-11-11T15:51:14.000Z",
-      "abstract": "Marktechpost Launches GPU Leaderboard and the Deploy It Chrome Extension\nThe post Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension appeared first on MarkTechPost.\n]]>",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fsilicon-",
       "title": "Silicon Valley Podcast Hosts Try to Understand Why Regular People Are Mad",
       "url": "https://www.404media.co/silicon-valley-podcast-hosts-try-to-understand-why-regular-people-are-mad/",
@@ -434,26 +391,6 @@
       "tags": [
         "gpt"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "MBZUAI&#8217;s IFM Releases PAN 2, an Open 29B World Model for Physical AI",
-      "url": "https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-11-11T07:38:57.000Z",
-      "abstract": "The Institute of Foundation Models at MBZUAI released PAN 2, an Apache 2.0 world model that couples an LLM planner with a 29B diffusion transformer to simulate up to 20 seconds of action outcomes as v",
-      "authors": [],
-      "tags": [],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
