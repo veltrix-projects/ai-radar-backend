@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-14T00:02:58.410Z",
+  "generatedAt": "2026-11-14T06:48:42.176Z",
   "date": "11-11-2026",
-  "count": 18,
+  "count": 19,
   "summary": null,
   "items": [
     {
@@ -59,6 +59,60 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.16728",
+      "title": "EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming",
+      "url": "https://huggingface.co/papers/2611.16728",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-11T19:00:00.000Z",
+      "abstract": "Generalist manipulation policies can benefit from the complementary experience of humans, real robots, and simulated agents. However, differences in morphology, sensing, and control interfaces make it",
+      "authors": [
+        "Yaru Niu",
+        "Binghong Chen",
+        "Changwei Yao",
+        "Shangtao Li",
+        "Zhenlong Fang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.17336",
+      "title": "Back to Pixels: Lifting Latent Video Diffusion into Pixel Space",
+      "url": "https://huggingface.co/papers/2611.17336",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-11T19:00:00.000Z",
+      "abstract": "Frontier video generation models work in a VAE latent space that compresses video in both space and time. This compression made training tractable, but now limits high-resolution, controllable, and in",
+      "authors": [
+        "Yanke Song",
+        "Shuo Chen",
+        "Chris Rockwell",
+        "Guande He",
+        "Nan Liu"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -241,34 +295,6 @@
         "Kairui Hu"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.17167",
-      "title": "Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents",
-      "url": "https://huggingface.co/papers/2611.17167",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-11T19:00:00.000Z",
-      "abstract": "Decision models answer a question with a typed output, such as a choice among options with a probability for each, so one model can choose an agent's actions, evaluate actions already taken, or score",
-      "authors": [
-        "Haochen Liu",
-        "Qianhao Zhu",
-        "Zixuan Wang",
-        "Dingming Li",
-        "Tongbo Chen"
-      ],
-      "tags": [
-        "agent"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
