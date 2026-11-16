@@ -1,26 +1,28 @@
 {
-  "generatedAt": "2026-11-11T11:34:39.651Z",
+  "generatedAt": "2026-11-16T18:43:46.485Z",
   "date": "01-11-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2611.03142",
-      "title": "DepthGraft: Structural Regularization through Hierarchical Cross-Layer KV Reconstruction",
-      "url": "https://huggingface.co/papers/2611.03142",
+      "id": "hf_paper_2611.02822",
+      "title": "Disen-Forcing: Disentangling Semantic Anchoring from Motion for Autoregressive Video Diffusion",
+      "url": "https://huggingface.co/papers/2611.02822",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-01T19:00:00.000Z",
-      "abstract": "Scaling depth is a key route to stronger large language models, but Pre-LN architectures often suffer from depth-wise information dilution, limiting the effective use of deep layers. While cross-layer",
+      "abstract": "Autoregressive video diffusion models (AR-VDMs) enable real-time, long-horizon video generation but degrade rapidly once the inference horizon outruns the training horizon, due to compounding exposure",
       "authors": [
-        "Xiaohan Qin",
-        "Xiangdong Zhang",
-        "Yu Wang",
-        "Huaijin Wu",
-        "Zhuo Xia"
+        "Zhengyang Yu",
+        "Akio Hayakawa",
+        "Masato Ishii",
+        "Qingtao Yu",
+        "Xuesong Li"
       ],
-      "tags": [],
+      "tags": [
+        "diffusion"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

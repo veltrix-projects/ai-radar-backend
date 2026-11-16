@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-16T08:10:04.467Z",
+  "generatedAt": "2026-11-16T18:43:46.484Z",
   "date": "03-11-2026",
-  "count": 4,
+  "count": 5,
   "summary": null,
   "items": [
     {
@@ -30,7 +30,35 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 318087,
+      "stars": 318224,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.07226",
+      "title": "Loopback Transformer: Towards a Unified View of Residual Looped Transformers",
+      "url": "https://huggingface.co/papers/2611.07226",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-03T19:00:00.000Z",
+      "abstract": "Looped Transformers reduce parameter count by repeatedly applying shared blocks, but parameter sharing alone does not determine how the results of repeated computation are reused. We take the depth-me",
+      "authors": [
+        "Xuan Ouyang",
+        "Zefan Cai",
+        "Chenlong Zhang",
+        "Cheng Luo",
+        "Ke Wan"
+      ],
+      "tags": [
+        "transformer"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
       "votes": 0,
       "points": 0
     },

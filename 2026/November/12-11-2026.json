@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-16T08:10:04.429Z",
+  "generatedAt": "2026-11-16T18:43:46.479Z",
   "date": "12-11-2026",
-  "count": 33,
+  "count": 29,
   "summary": null,
   "items": [
     {
@@ -255,51 +255,24 @@
       "points": 0
     },
     {
-      "id": "arxiv_2611.17332v1",
-      "title": "ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
-      "url": "https://arxiv.org/abs/2611.17332v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
+      "id": "hf_paper_2611.18482",
+      "title": "MMFlash: Faster Speculative Decoding for Vision-Language Models",
+      "url": "https://huggingface.co/papers/2611.18482",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-11-12T18:59:52Z",
-      "abstract": "Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia. In industry, teams such as those behind DeepSe",
+      "timestamp": "2026-11-12T19:00:00.000Z",
+      "abstract": "Speculative decoding accelerates generation by letting a lightweight drafter propose tokens for parallel verification by a target model. Diffusion drafters such as DFlash propose an entire token block",
       "authors": [
-        "Jie Wang",
-        "Tong Zhu",
-        "JiaHao Kuang",
-        "Zhe Xu",
-        "Yunkai Chai"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2611.17329v1",
-      "title": "Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation",
-      "url": "https://arxiv.org/abs/2611.17329v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-11-12T18:59:37Z",
-      "abstract": "Institutional portfolios operate under investment policy statements that specify asset allocation constraints, often conditioned on market regime information. Deep reinforcement learning has been show",
-      "authors": [
-        "Zeynep Yıldız",
-        "Satchit Chatterji",
-        "Ercan Atam",
-        "Erman Acar"
+        "Sicheng Feng",
+        "Zigeng Chen",
+        "Song Wang",
+        "Gongfan Fang",
+        "Xinchao Wang"
       ],
       "tags": [],
-      "score": 4,
-      "priority": "LOW",
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -308,24 +281,24 @@
       "points": 0
     },
     {
-      "id": "arxiv_2605.24432v2",
-      "title": "Found in Conversation: LLMs Teach Themselves to Close the Multi-Turn Gap",
-      "url": "https://arxiv.org/abs/2605.24432v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
+      "id": "hf_paper_2611.18130",
+      "title": "JFinBench: A Continuously Refreshable Japanese Financial Benchmark from the Latest Certification Exams",
+      "url": "https://huggingface.co/papers/2611.18130",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-11-12T18:59:29Z",
-      "abstract": "Large Language Model (LLM) interactions are typically underspecified, with users clarifying all necessary details across multiple conversational turns. Yet recent work shows that LLMs perform far wors",
+      "timestamp": "2026-11-12T19:00:00.000Z",
+      "abstract": "Large language models (LLMs) are increasingly applied to finance, creating a need for benchmarks that evaluate their capabilities across financial systems with different regulations and practices. How",
       "authors": [
-        "Tianlang Chen",
-        "Shirley Wu",
-        "Jure Leskovec"
+        "Issa Sugiura",
+        "Taro Makino",
+        "Takashi Ishida"
       ],
       "tags": [
-        "llm"
+        "benchmark"
       ],
-      "score": 4,
-      "priority": "LOW",
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -334,23 +307,102 @@
       "points": 0
     },
     {
-      "id": "arxiv_2611.17323v1",
-      "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
-      "url": "https://arxiv.org/abs/2611.17323v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
+      "id": "hf_paper_2611.18529",
+      "title": "eDIAR: Training-Free Open-Speaker Streaming Diarization for Long Meetings and Large Archives via e-means",
+      "url": "https://huggingface.co/papers/2611.18529",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-11-12T18:59:06Z",
-      "abstract": "Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline de",
+      "timestamp": "2026-11-12T19:00:00.000Z",
+      "abstract": "Meetings last up to an hour, and nobody knows in advance how many people will speak. Neural diarizers with a fixed number of output slots, such as Streaming Sortformer and Nemotron-3, are accurate and",
       "authors": [
-        "Ethan Lin",
-        "Akanksha Sarkar",
-        "Ziang Liu",
-        "Kristin Branson",
-        "Jennifer J. Sun"
+        "Kyudan Jung",
+        "Jihwan Kim",
+        "Minwoo Lee",
+        "Eunji Shin",
+        "Jaegul Choo"
       ],
       "tags": [
-        "rag",
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.18549",
+      "title": "JVT: Just Video Transformer makes pixel-space video diffusion simple",
+      "url": "https://huggingface.co/papers/2611.18549",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-12T19:00:00.000Z",
+      "abstract": "Direct diffusion modeling of high-dimensional raw video data is challenging, and existing pixel-space methods often rely on specialized architectures. We introduce JVT (Just Video Transformer), a simp",
+      "authors": [
+        "Jianjun Zhou",
+        "Hua Geng",
+        "Haoyu Guo"
+      ],
+      "tags": [
+        "transformer",
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.17820",
+      "title": "Aligning AI Teams",
+      "url": "https://huggingface.co/papers/2611.17820",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-12T19:00:00.000Z",
+      "abstract": "Previous work has shown that alignment training on individual LLM agents can fail to transfer to multi-agent settings. We investigate the underlying mechanisms for this failure, and explore interventi",
+      "authors": [
+        "Siddarth Srinivasan",
+        "Morgan Jane Matthews",
+        "Jascha Sohl-Dickstein",
+        "Erik Jones"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.18397",
+      "title": "Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent",
+      "url": "https://huggingface.co/papers/2611.18397",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-12T19:00:00.000Z",
+      "abstract": "We introduce Gamer, a generalist agent framework built for long-horizon tasks in complex interactive environments. Its end-to-end architecture combines perception, memory management, and multi-step re",
+      "authors": [
+        "Run Luo",
+        "Kuan Zhang",
+        "Qi Deng",
+        "Yukun Chen",
+        "Zhihao Yang"
+      ],
+      "tags": [
         "agent"
       ],
       "score": 6,
@@ -363,48 +415,20 @@
       "points": 0
     },
     {
-      "id": "arxiv_2611.17320v1",
-      "title": "Learning When Diffusion Language Models Should Regenerate",
-      "url": "https://arxiv.org/abs/2611.17320v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
+      "id": "hf_paper_2611.18442",
+      "title": "CANTraj: Recovering Vehicle Trajectories from CAN Signals in Naturalistic Driving",
+      "url": "https://huggingface.co/papers/2611.18442",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-11-12T18:58:50Z",
-      "abstract": "Remasking allows diffusion language models to revisit generated text, but effective correction requires knowing when and what to revise. Our diagnosis on Sudoku reveals two gaps. Hidden states contain",
+      "timestamp": "2026-11-12T19:00:00.000Z",
+      "abstract": "Open driving releases and usage-based insurance programs often claim to prevent privacy breaches by omitting GPS records when sharing or collecting vehicle data. However, removing GPS coordinates from",
       "authors": [
-        "Minhae Oh",
-        "Jeonghye Kim",
-        "Jinwoo Koo",
-        "Yeongoon Kim",
-        "Jimin Seo"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2611.17316v1",
-      "title": "CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation",
-      "url": "https://arxiv.org/abs/2611.17316v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-11-12T18:58:22Z",
-      "abstract": "Coding agents tackle successive tasks on an evolving repository, carrying forward edits and writing memory before the next task is known. Selecting memory for unknown next tasks requires balancing fut",
-      "authors": [
-        "Peiwen Li",
-        "Harshit Verma",
-        "Sophia Zhou",
-        "Haiwen Wang",
-        "Ngoc Bui"
+        "Yuhang Wang",
+        "Jingxin Yang",
+        "Chuheng Wei",
+        "Suyang Chen",
+        "Haozhuang Chi"
       ],
       "tags": [],
       "score": 6,
@@ -417,17 +441,20 @@
       "points": 0
     },
     {
-      "id": "arxiv_2611.17314v1",
-      "title": "Linking Rapid Learning to Compositional Structure in Neural Networks: Evidence from Additive Analogies in Meta-Learned Parameter Spaces",
-      "url": "https://arxiv.org/abs/2611.17314v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
+      "id": "hf_paper_2611.18338",
+      "title": "MEM-SQL: Memory-Empowered Text-to-SQL",
+      "url": "https://huggingface.co/papers/2611.18338",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-11-12T18:57:49Z",
-      "abstract": "Humans can learn rapidly from limited experience, while neural networks typically require extensive training. In this work, we investigate what properties of a neural network can enable it to learn ra",
+      "timestamp": "2026-11-12T19:00:00.000Z",
+      "abstract": "Text-to-SQL systems translate natural language questions into SQL queries over increasingly complex databases. However, widely used benchmarks evaluate questions independently, overlooking settings wh",
       "authors": [
-        "Abigail L. Tenenbaum",
-        "R. Thomas McCoy"
+        "Xiaoqi Wang",
+        "Wenqi Pei",
+        "Shizheng Hou",
+        "Yilai Liu",
+        "Han Chen"
       ],
       "tags": [],
       "score": 6,
@@ -440,66 +467,18 @@
       "points": 0
     },
     {
-      "id": "arxiv_2611.17313v1",
-      "title": "Sketching Language Models for Context Attribution",
-      "url": "https://arxiv.org/abs/2611.17313v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
+      "id": "hf_paper_2611.17811",
+      "title": "AI Reviews Are Biased Towards the Appendix",
+      "url": "https://huggingface.co/papers/2611.17811",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-11-12T18:57:48Z",
-      "abstract": "Context attribution asks how removing parts of a prompt changes a language model's output. We study leave-one-out (LOO) attribution for a prompt of $n$ tokens and a fixed measurement function. Computi",
+      "timestamp": "2026-11-12T19:00:00.000Z",
+      "abstract": "Large language models (LLMs) are increasingly used by reviewers to highlight weaknesses during the reviewing process, and their outputs often shape the reviews that humans submit. Prior work studies h",
       "authors": [
-        "Christopher Liaw",
-        "Aranyak Mehta",
-        "Grigoris Velegkas",
-        "Felix Zhou"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2611.17309v1",
-      "title": "Classical Energies Learn to Reason 1,000x Faster than Looped Models",
-      "url": "https://arxiv.org/abs/2611.17309v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-11-12T18:56:56Z",
-      "abstract": "Looped models have emerged as a prominent paradigm for reasoning, with successes on simple reasoning puzzles such as Sudoku-Extreme and Maze-Unique. However, these models can be unstable, slow to trai",
-      "authors": [
-        "Benjamin Hoover",
-        "Hugh Blayney",
-        "James C. R. Whittington"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2611.17308v1",
-      "title": "Quantifying structural stability of transparent models for general insurance pricing",
-      "url": "https://arxiv.org/abs/2611.17308v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-11-12T18:56:54Z",
-      "abstract": "The short duration of general insurance contracts leads to rapid distributional shifts in the data, warranting regular model updates. This process may yield a post-update model that differs considerab",
-      "authors": [
-        "Félix Côté",
-        "Marie-Pier Côté"
+        "Saptarshi Ghosh",
+        "Mohammad Saim",
+        "Tianyu Jiang"
       ],
       "tags": [],
       "score": 6,
@@ -512,99 +491,27 @@
       "points": 0
     },
     {
-      "id": "arxiv_2611.17303v1",
-      "title": "Towards a Theory of Learnability via Debate",
-      "url": "https://arxiv.org/abs/2611.17303v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
+      "id": "hf_paper_2611.18359",
+      "title": "Envisioning Agentic Robotics: A New Era of Robotic Systems",
+      "url": "https://huggingface.co/papers/2611.18359",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-11-12T18:55:58Z",
-      "abstract": "Debate has been recently proposed as a training protocol that is hoped to produce more aligned models even as model capabilities scale. The idea is that the human, instead of providing supervision in",
+      "timestamp": "2026-11-12T19:00:00.000Z",
+      "abstract": "The release of GPT-6 Astra marks the emergence of a new paradigm in robotics: agentic robotics. Within weeks, frontier models with agentic harnesses matched or exceeded task-specific policies on many",
       "authors": [
-        "Tosca Lechner",
-        "Vinayak Pathak",
-        "Sivan Sabato",
-        "Ruth Urner"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2611.17302v1",
-      "title": "FLEX-LBP: Learning Local Binary Patterns with Exact Binary Inference for Texture Classification",
-      "url": "https://arxiv.org/abs/2611.17302v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-11-12T18:55:56Z",
-      "abstract": "Local Binary Patterns (LBP) remain among the most widely used texture descriptors, from industrial inspection to medical imaging. Yet their radius, sampling angles, color transform and thresholds are",
-      "authors": [
-        "Mohamed Alimoussa",
-        "Amal El Kaid"
+        "Grid Robotics",
+        "Qingfeng Lan",
+        "Duo Li",
+        "Siyao Li",
+        "Yiheng Lyu"
       ],
       "tags": [
-        "inference"
+        "agent",
+        "robotics"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2601.21419v3",
-      "title": "Understanding and Learning Prediction Targets in Diffusion Models",
-      "url": "https://arxiv.org/abs/2601.21419v3",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-11-12T18:55:20Z",
-      "abstract": "Recent advances in diffusion and flow matching models have highlighted a shift in the preferred prediction target -- moving from noise ($\\varepsilon$) and velocity (v) to direct data (x) prediction --",
-      "authors": [
-        "Qing Jin",
-        "Chaoyang Wang"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2611.17298v1",
-      "title": "Consistent Video-to-Video Translation via Explicit Correspondences",
-      "url": "https://arxiv.org/abs/2611.17298v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-11-12T18:55:09Z",
-      "abstract": "Interactive video-to-video applications require real-time generation while maintaining long-range temporal consistency. However, recent methods achieve speed by restricting attention to a fixed-length",
-      "authors": [
-        "Gaurav Parmar",
-        "Zhengqi Li",
-        "Richard Zhang",
-        "Jun-Yan Zhu",
-        "Srinivasa Narasimhan"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

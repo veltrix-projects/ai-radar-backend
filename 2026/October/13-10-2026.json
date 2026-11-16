@@ -1,45 +1,26 @@
 {
-  "generatedAt": "2026-11-10T10:37:03.659Z",
+  "generatedAt": "2026-11-16T18:43:46.491Z",
   "date": "13-10-2026",
-  "count": 2,
+  "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "google_deepmind_https%3A%2F%2Fdeepmind.google%2Fblog%2Fd",
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "source": "Google DeepMind",
-      "sourceIcon": "🔵",
+      "id": "hf_paper_2611.12901",
+      "title": "Rethinking in Spikes: Mitigating Hallucinations in MDLMs with Step-Aware Decoding",
+      "url": "https://huggingface.co/papers/2611.12901",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-10-13T19:43:07.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "gemini"
+      "timestamp": "2026-10-13T20:00:00.000Z",
+      "abstract": "Recent advancements in multimodal diffusion language models (MDLMs) have exhibited strong global modeling capabilities through iterative refinement. We observe that mask uncertainty follows an overall",
+      "authors": [
+        "Zhongxing Xu",
+        "Zhonghua Wang",
+        "Zhe Qian",
+        "Shiyan Su",
+        "Ming Hu"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "google_deepmind_https%3A%2F%2Fdeepmind.google%2Fblog%2Fg",
-      "title": "Gemini 4 Argon for Robotics",
-      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "source": "Google DeepMind",
-      "sourceIcon": "🔵",
-      "type": "research",
-      "timestamp": "2026-10-13T16:01:58.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "gemini",
-        "robotics"
-      ],
+      "tags": [],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",

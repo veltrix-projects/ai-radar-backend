@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-16T08:10:04.463Z",
+  "generatedAt": "2026-11-16T18:43:46.480Z",
   "date": "11-11-2026",
-  "count": 16,
+  "count": 11,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,57 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.16378",
+      "title": "Evidence-Governed Adoption of Self-Generated Updates in Autonomous AI Agents",
+      "url": "https://huggingface.co/papers/2611.16378",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-11T19:00:00.000Z",
+      "abstract": "Autonomous agents modify prompts, memories, tools, workflows, and policies using interaction histories. Yet a plausible modification is not necessarily suitable for persistent adoption: candidate sele",
+      "authors": [
+        "Subodh Lonkar"
+      ],
+      "tags": [
+        "agent",
+        "autonomous"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.16439",
+      "title": "HALO: Human-Aligned Data Collection for WhoLe-body MObile Manipulation",
+      "url": "https://huggingface.co/papers/2611.16439",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-11T19:00:00.000Z",
+      "abstract": "Learning whole-body mobile manipulation requires demonstrations that coordinate bimanual actions with locomotion across extended workspaces. However, existing interfaces trade off direct robot control",
+      "authors": [
+        "Shuai Yang",
+        "Fangyi Xu",
+        "Yishu Shen",
+        "Kecheng Zheng",
+        "Yinghao Xu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -69,190 +120,6 @@
       "tags": [
         "diffusion"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.17190",
-      "title": "Consensus Capture in Reference-Based UAV Video Stabilization: A Benchmark on Dynamic Urban Scenes",
-      "url": "https://huggingface.co/papers/2611.17190",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-11T19:00:00.000Z",
-      "abstract": "Reference-frame stabilization registers every frame of a hovering-drone video onto one reference frame, keeping object positions comparable. The registration pipelines it relies on are selected on fea",
-      "authors": [
-        "Robert Fonod",
-        "Nikolas Geroliminis"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.16961",
-      "title": "The Value of Thinking: Learning When to Reason in Hybrid Decision Models",
-      "url": "https://huggingface.co/papers/2611.16961",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-11T19:00:00.000Z",
-      "abstract": "Existing adaptive-reasoning methods shorten the explicit reasoning a model writes, or skip it by switching modes; either way the answer is still written out token by token. Rather than deciding how mu",
-      "authors": [
-        "Zhengxu Yu",
-        "Ke Xu",
-        "Meng Fang",
-        "Haitham Ammar",
-        "Weilin Luo"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.17334",
-      "title": "Unbundling Multimodal Vision Encoding",
-      "url": "https://huggingface.co/papers/2611.17334",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-11T19:00:00.000Z",
-      "abstract": "How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language",
-      "authors": [
-        "Ellis Brown",
-        "Chris Hoang",
-        "Shengyi Qian",
-        "Shang-Wen Li",
-        "Mike Lewis"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.16409",
-      "title": "Experience-Handoff Reinforcement Learning for Recursive Self-Improvement",
-      "url": "https://huggingface.co/papers/2611.16409",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-11T19:00:00.000Z",
-      "abstract": "It is common to train Large Language Models (LLMs) for agentic tasks with Reinforcement Learning (RL) from scalar rewards. However, this throws away the fine-grained information about the environment",
-      "authors": [
-        "Doyoung Kim",
-        "Byeongguk Jeon",
-        "Kailin Zhang",
-        "Sherry Yang"
-      ],
-      "tags": [
-        "reinforcement learning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2607.13920",
-      "title": "DeepStress: Stress-Testing Deep Search Agents",
-      "url": "https://huggingface.co/papers/2607.13920",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-11T19:00:00.000Z",
-      "abstract": "While search agents demonstrate impressive capabilities in multi-step question answering, their robustness to poor-quality evidence remains under-explored. Such evidence is rare in benchmark corpora,",
-      "authors": [
-        "Ismael Rousseau",
-        "Geraldine Damnati",
-        "Frederic Bechet"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.17331",
-      "title": "TTB: Test-time Baking for Efficient Rendering of Decoder-only View Synthesis Models",
-      "url": "https://huggingface.co/papers/2611.17331",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-11T19:00:00.000Z",
-      "abstract": "Decoder-only Large View Synthesis Models (LVSMs) with KV-cache have recently achieved state-of-the-art quality by regressing novel views from neural networks without reconstructing 3D geometry, while",
-      "authors": [
-        "Chin-Yang Lin",
-        "Ryo Hachiuma",
-        "Jaesung Choe",
-        "Min-Hung Chen",
-        "Yu-Chiang Frank Wang"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.17060",
-      "title": "Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors",
-      "url": "https://huggingface.co/papers/2611.17060",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-11T19:00:00.000Z",
-      "abstract": "Large foundation models such as GPT-6 Astra and Claude Fable 5.1 have recently been shown to control robots directly from visual observations. They nevertheless remain brittle on long-horizon, contact",
-      "authors": [
-        "Hao Li",
-        "Fangzhou Hong",
-        "Zhaoxi Chen",
-        "Hui En Pang",
-        "Kairui Hu"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
