@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T18:43:46.481Z",
+  "generatedAt": "2026-11-17T02:12:23.565Z",
   "date": "09-11-2026",
   "count": 7,
   "summary": null,
@@ -68,21 +68,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.14504",
-      "title": "Emergent Biological Capabilities in a Foundation Model for Molecular Interactions",
-      "url": "https://huggingface.co/papers/2611.14504",
+      "id": "hf_paper_2611.13509",
+      "title": "Mobile AI Factory: Building Specialized Language Models for Your Mobile Device",
+      "url": "https://huggingface.co/papers/2611.13509",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-09T19:00:00.000Z",
-      "abstract": "Foundation models trained on large unlabeled corpora develop emergent capabilities, tasks that go beyond the training objective. We extend this paradigm to multimodal biology with Bonbon, a foundation",
+      "abstract": "Small language models (SLMs) running on mobile devices can keep user data private and work without connectivity. But they perform well only when fine-tuned for the target task and sized for the target",
       "authors": [
-        "Adi Mashiach"
+        "Evan Li",
+        "Krishna Deshpande",
+        "Wen Cheng",
+        "Shyamnath Gollakota"
       ],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -147,7 +150,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 168648,
+      "stars": 168757,
       "votes": 0,
       "points": 0
     }

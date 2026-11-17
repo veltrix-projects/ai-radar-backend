@@ -1,59 +1,31 @@
 {
-  "generatedAt": "2026-11-16T08:10:04.464Z",
+  "generatedAt": "2026-11-17T02:12:23.566Z",
   "date": "08-11-2026",
-  "count": 2,
+  "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2611.12750",
-      "title": "The Narrative Gap: Can LLMs Help Us Navigate Diverse Narratives Across Languages?",
-      "url": "https://huggingface.co/papers/2611.12750",
+      "id": "hf_paper_2611.12068",
+      "title": "MIRIX-2.0: Multi-Agent Memory System",
+      "url": "https://huggingface.co/papers/2611.12068",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-08T19:00:00.000Z",
-      "abstract": "Large language models (LLMs) increasingly mediate how people seek and consume information, including accounts that differ across languages and regions, especially on contested topics. Supporting diver",
+      "abstract": "Long-term memory lets LLM agents personalize, stay consistent, and reuse what worked before. Parametric memories need training, consolidation can lose details for good, and keeping every record leaves",
       "authors": [
-        "Nikhil Sharma",
-        "Kelly Marchisio",
-        "Kenton Murray",
-        "Ziang Xiao"
+        "Wei-Chieh Huang",
+        "Weizhi Zhang",
+        "Jiayan Nan",
+        "Peng Xia",
+        "Yu Wang"
       ],
       "tags": [
-        "llm"
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.12872",
-      "title": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents",
-      "url": "https://huggingface.co/papers/2611.12872",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-08T19:00:00.000Z",
-      "abstract": "As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typic",
-      "authors": [
-        "Haozhen Zhang",
-        "Bohan Liu",
-        "Jianzhu Bao",
-        "Qingyuan Liu",
-        "Haodong Yue"
-      ],
-      "tags": [
-        "multimodal",
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

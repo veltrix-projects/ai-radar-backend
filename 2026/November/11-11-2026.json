@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-16T18:43:46.480Z",
+  "generatedAt": "2026-11-17T02:12:23.564Z",
   "date": "11-11-2026",
-  "count": 11,
+  "count": 10,
   "summary": null,
   "items": [
     {
@@ -25,6 +25,108 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2611.16312",
+      "title": "Alloy: A Multi-Material Physics Engine for Robot Learning",
+      "url": "https://huggingface.co/papers/2611.16312",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-11T19:00:00.000Z",
+      "abstract": "Robots handle much more than rigid objects: towels, cables, water, sand. The simulators used to train robots at scale are strongest on rigid bodies, and adding another material usually means a second",
+      "authors": [
+        "Pranay Gupta",
+        "Deepanshu Rohilla"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.17169",
+      "title": "Parsed, Plausible, Wrong: Output Format Controls Silent Errors in Small-Model Semantic Parsing",
+      "url": "https://huggingface.co/papers/2611.17169",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-11T19:00:00.000Z",
+      "abstract": "A small fine-tuned parser that emits a well-formed but wrong tree fails silently: nothing downstream can tell. We ask whether the output format, a free design choice, controls how often this happens.",
+      "authors": [
+        "Umar Ahmed",
+        "Maxim Dunaev",
+        "Mohammad Nour Al Awad",
+        "Sergey Ivanov",
+        "Ivan Khodnenko"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.17440",
+      "title": "Interpreting Coding Agents Through Their Behavioral Trajectories",
+      "url": "https://huggingface.co/papers/2611.17440",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-11T19:00:00.000Z",
+      "abstract": "Standard coding-agent benchmarks primarily evaluate binary task success, treating execution as a black box and obscuring the behaviors that produce those outcomes. We analyze a large corpus of 143,209",
+      "authors": [
+        "Ibragim Badertdinov",
+        "Alexander Golubev"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.17194",
+      "title": "eDMD: Endpoint Distribution Matching for Few-Step Diffusion Distillation",
+      "url": "https://huggingface.co/papers/2611.17194",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-11T19:00:00.000Z",
+      "abstract": "Distribution matching distillation (DMD) has emerged as a leading paradigm for distilling diffusion models into few-step students, where an auxiliary fake score model tracks the student's distribution",
+      "authors": [
+        "Tong Zhao",
+        "Xianfang Zeng",
+        "Yucheng Han",
+        "Ruoyu Wang",
+        "Mingkun Lei"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2611.16378",
       "title": "Evidence-Governed Adoption of Self-Generated Updates in Autonomous AI Agents",
       "url": "https://huggingface.co/papers/2611.16378",
@@ -39,86 +141,6 @@
       "tags": [
         "agent",
         "autonomous"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.16439",
-      "title": "HALO: Human-Aligned Data Collection for WhoLe-body MObile Manipulation",
-      "url": "https://huggingface.co/papers/2611.16439",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-11T19:00:00.000Z",
-      "abstract": "Learning whole-body mobile manipulation requires demonstrations that coordinate bimanual actions with locomotion across extended workspaces. However, existing interfaces trade off direct robot control",
-      "authors": [
-        "Shuai Yang",
-        "Fangyi Xu",
-        "Yishu Shen",
-        "Kecheng Zheng",
-        "Yinghao Xu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.16728",
-      "title": "EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming",
-      "url": "https://huggingface.co/papers/2611.16728",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-11T19:00:00.000Z",
-      "abstract": "Generalist manipulation policies can benefit from the complementary experience of humans, real robots, and simulated agents. However, differences in morphology, sensing, and control interfaces make it",
-      "authors": [
-        "Yaru Niu",
-        "Binghong Chen",
-        "Changwei Yao",
-        "Shangtao Li",
-        "Zhenlong Fang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.17336",
-      "title": "Back to Pixels: Lifting Latent Video Diffusion into Pixel Space",
-      "url": "https://huggingface.co/papers/2611.17336",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-11T19:00:00.000Z",
-      "abstract": "Frontier video generation models work in a VAE latent space that compresses video in both space and time. This compression made training tractable, but now limits high-resolution, controllable, and in",
-      "authors": [
-        "Yanke Song",
-        "Shuo Chen",
-        "Chris Rockwell",
-        "Guande He",
-        "Nan Liu"
-      ],
-      "tags": [
-        "diffusion"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -190,26 +212,6 @@
       "points": 0
     },
     {
-      "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fsilicon-",
-      "title": "Silicon Valley Podcast Hosts Try to Understand Why Regular People Are Mad",
-      "url": "https://www.404media.co/silicon-valley-podcast-hosts-try-to-understand-why-regular-people-are-mad/",
-      "source": "404 Media",
-      "sourceIcon": "📡",
-      "type": "news",
-      "timestamp": "2026-11-11T15:12:05.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "google_deepmind_https%3A%2F%2Fdeepmind.google%2Fblog%2Fa",
       "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
       "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
@@ -220,28 +222,6 @@
       "abstract": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
       "authors": [],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fchatg",
-      "title": "ChatGPT Plus for veterans and servicemembers",
-      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-11-11T08:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "gpt"
-      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
