@@ -1,9 +1,32 @@
 {
-  "generatedAt": "2026-11-17T02:12:23.565Z",
+  "generatedAt": "2026-11-17T10:54:20.391Z",
   "date": "10-11-2026",
-  "count": 7,
+  "count": 6,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2611.16010",
+      "title": "Iris-Z: Scaling One Generative Model Past Specialist Geometry Models",
+      "url": "https://huggingface.co/papers/2611.16010",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-10T19:00:00.000Z",
+      "abstract": "Language moved from many task-specific models to one unified model: a single generative model with a single generative training task that handles all of them within the same backbone, and keeps improv",
+      "authors": [
+        "Alejandro Cañada",
+        "Chema Garabito"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2611.15640",
       "title": "MemInStream: Memorizing or Merely Recognizing? Rethinking Streaming Video Memory Evaluation",
@@ -55,34 +78,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.15789",
-      "title": "VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender",
-      "url": "https://huggingface.co/papers/2611.15789",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-10T19:00:00.000Z",
-      "abstract": "Controllable real-world video generation models can condition on a rendered graybox proxy video, which fixes layout, motion and camera. Coding agents can build such videos by reconstructing a 4D scene",
-      "authors": [
-        "Yuzhe Chen",
-        "Muxi Diao",
-        "Lele Yang",
-        "Wenbin Xu",
-        "Xuyang Liu"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "google_deepmind_https%3A%2F%2Fdeepmind.google%2Fblog%2Fg",
       "title": "Gemini 4 Carbon is now available",
       "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
@@ -95,26 +90,6 @@
       "tags": [
         "gemini"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
-      "title": "Running AV Reasoning Models Within Onboard Compute and Latency Limits",
-      "url": "https://developer.nvidia.com/blog/running-av-reasoning-models-within-onboard-compute-and-latency-limits/",
-      "source": "NVIDIA Blog",
-      "sourceIcon": "🟩",
-      "type": "tool",
-      "timestamp": "2026-11-10T16:00:00.000Z",
-      "abstract": "Autonomous vehicle (AV) developers need reasoning models that can operate within the compute and latency constraints of an onboard system. Larger models provide...]]>",
-      "authors": [],
-      "tags": [],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
