@@ -1,27 +1,27 @@
 {
-  "generatedAt": "2026-11-17T10:54:20.393Z",
+  "generatedAt": "2026-11-18T09:28:50.803Z",
   "date": "08-11-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2611.12068",
-      "title": "MIRIX-2.0: Multi-Agent Memory System",
-      "url": "https://huggingface.co/papers/2611.12068",
+      "id": "hf_paper_2611.12069",
+      "title": "MPEG-Diffusion: Mixed-Resolution Video Generation",
+      "url": "https://huggingface.co/papers/2611.12069",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-08T19:00:00.000Z",
-      "abstract": "Long-term memory lets LLM agents personalize, stay consistent, and reuse what worked before. Parametric memories need training, consolidation can lose details for good, and keeping every record leaves",
+      "abstract": "Video diffusion transformers (DiTs) generate realistic videos, but their heavy computational cost limits broader real-world applications. Mixed-resolution generation reduces this cost by generating th",
       "authors": [
-        "Wei-Chieh Huang",
-        "Weizhi Zhang",
-        "Jiayan Nan",
-        "Peng Xia",
-        "Yu Wang"
+        "Dennis Menn",
+        "Tianpei Gu",
+        "Guande He",
+        "Aryan V S",
+        "Yanke Song"
       ],
       "tags": [
-        "agent"
+        "diffusion"
       ],
       "score": 6,
       "priority": "MEDIUM",

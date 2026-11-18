@@ -1,22 +1,23 @@
 {
-  "generatedAt": "2026-11-16T18:43:46.484Z",
+  "generatedAt": "2026-11-18T09:28:50.805Z",
   "date": "02-11-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
-      "title": "Raising the quality of insights in agentic analytics",
-      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-      "source": "MIT Tech Review",
-      "sourceIcon": "🏛️",
+      "id": "hf_paper_2611.04395",
+      "title": "Correct Labels Are Not Enough: Reliable Metadata Can Silently Control Model Behavior",
+      "url": "https://huggingface.co/papers/2611.04395",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-11-02T17:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "agent"
+      "timestamp": "2026-11-02T19:00:00.000Z",
+      "abstract": "Fine-tuning data can include metadata that predicts the correct answer, such as a reward-model score or a quality label. We ask whether a model learns to rely on this metadata even when every training",
+      "authors": [
+        "Renee Jia",
+        "Jinzhou Wu"
       ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

@@ -1,9 +1,62 @@
 {
-  "generatedAt": "2026-11-18T01:46:32.686Z",
+  "generatedAt": "2026-11-18T09:28:50.800Z",
   "date": "15-11-2026",
-  "count": 9,
+  "count": 10,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2611.20441",
+      "title": "Abstention Direction in Large Language Models: Mechanistic Interpretability of Abstention Across Query Ambiguity, Knowledge Limits, and Safety Alignment",
+      "url": "https://huggingface.co/papers/2611.20441",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-15T19:00:00.000Z",
+      "abstract": "Abstention, the withholding of a response by a large language model (LLM) under uncertainty or safety risks, is essential for trustworthy models. The causes of abstention fall into three perspectives:",
+      "authors": [
+        "Koki Itai",
+        "Jun Hirako",
+        "Hiroaki Yamagiwa"
+      ],
+      "tags": [
+        "alignment",
+        "safety"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.21412",
+      "title": "Flexible Multi-Stack Super-Resolution of Clinical Brain MRI Using Hetero-Orientation Variational Encoding: Expert Reader Evaluation in a Nigerian Cohort",
+      "url": "https://huggingface.co/papers/2611.21412",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-15T19:00:00.000Z",
+      "abstract": "High-resolution brain MRI is important for neuroradiological assessment, yet routine clinical protocols often rely on fast, anisotropic 2D acquisitions, particularly in resource-constrained settings.",
+      "authors": [
+        "Kabir Hamzah Muhammad",
+        "Lorena Garcia-Foncillas Macias",
+        "Soumya Snigdha Kundu",
+        "Emily Guilhem",
+        "Jon Cleary"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2611.20595",
       "title": "Invariant-Aware Harness Enforcement to Protect LLM Agents from Silent API Failures",
@@ -135,20 +188,22 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.21218",
-      "title": "InclusionMed: Benchmarking AI for Inclusive Healthcare",
-      "url": "https://huggingface.co/papers/2611.21218",
+      "id": "hf_paper_2611.21392",
+      "title": "VideoNexus: Video Perception Beyond the Reasoning Context",
+      "url": "https://huggingface.co/papers/2611.21392",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-15T19:00:00.000Z",
-      "abstract": "Advancing medical AI for inclusive healthcare requires evaluation across diverse healthcare roles, tasks, and care settings, but benchmark coverage remains uneven. We introduce InclusionMed, an open m",
+      "abstract": "Understanding long videos requires locating evidence, resolving visual details, and integrating observations into an answer. Even when relevant evidence is present, performing these operations within",
       "authors": [
-        "The InclusionMed Collaboration"
+        "Yancheng Long",
+        "Xuanyu Zheng",
+        "Wei Chen",
+        "Luoyuan Zhang",
+        "Haoyang Xu"
       ],
-      "tags": [
-        "benchmark"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -159,21 +214,25 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.20385",
-      "title": "DominoBench: Evaluating Multi-Step Physical Reasoning from Still Images",
-      "url": "https://huggingface.co/papers/2611.20385",
+      "id": "hf_paper_2611.21791",
+      "title": "Regularized Score Centering",
+      "url": "https://huggingface.co/papers/2611.21791",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-15T19:00:00.000Z",
-      "abstract": "Can a vision-language model look at a picture of a chain reaction and tell what will happen? Recent multimodal models describe scenes fluently and solve textbook physics problems, which suggests they",
+      "abstract": "Asynchronous reinforcement learning increases training throughput, but data from stale policies and numerical mismatch between training and inference can destabilize learning. To stabilize off-policy",
       "authors": [
-        "Emilio Ferrara"
+        "Hao Bai",
+        "Chenlu Ye",
+        "Xuanchang Zhang",
+        "Aviral Kumar",
+        "Tong Zhang"
       ],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -194,28 +253,6 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls",
-      "url": "https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-11-15T10:06:21.000Z",
-      "abstract": "Bland has released Tofu-1, a full-duplex speech-to-speech model for noisy, high-stakes phone calls. It is in enterprise research preview, with no published benchmarks, size or pricing yet.\nThe post Bl",
-      "authors": [],
-      "tags": [
-        "speech"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
