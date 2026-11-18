@@ -1,9 +1,35 @@
 {
-  "generatedAt": "2026-11-17T10:54:20.394Z",
+  "generatedAt": "2026-11-18T01:46:32.693Z",
   "date": "05-11-2026",
-  "count": 2,
+  "count": 3,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2611.09825",
+      "title": "BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design",
+      "url": "https://huggingface.co/papers/2611.09825",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-05T19:00:00.000Z",
+      "abstract": "The key-value (KV) cache dominates memory capacity and bandwidth in long-context LLM serving. While 4-bit microscaling formats (NVFP4, MXFP4) shrink the cache and run attention on FP4 Tensor Cores, a",
+      "authors": [
+        "Dayou Du",
+        "Woon Yee Ng",
+        "Guangming Sheng",
+        "Nick Lau",
+        "Jianyi Cheng"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "google_deepmind_https%3A%2F%2Fdeepmind.google%2Fblog%2Fg",
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",

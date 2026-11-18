@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-17T10:54:20.387Z",
+  "generatedAt": "2026-11-18T01:46:32.687Z",
   "date": "14-11-2026",
-  "count": 13,
+  "count": 10,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,32 @@
       "tags": [
         "agent"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.19771",
+      "title": "JEPA4R: Embodied JEPA World Models with 4D Point Planning",
+      "url": "https://huggingface.co/papers/2611.19771",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-14T19:00:00.000Z",
+      "abstract": "Joint-embedding predictive architecture (JEPA) world models predict future embeddings instead of pixels and plan in latent space. Two challenges remain: 2D images leave the metric geometry that manipu",
+      "authors": [
+        "Jiarui Dong",
+        "Zhiheng Liang",
+        "Yanjun Li",
+        "Zeyu Zhang",
+        "Heejeong Nam"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -94,110 +120,6 @@
         "agent",
         "benchmark"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2605.09614",
-      "title": "Reflection Anchors for Propagation-Aware Visual Retention in Long-Chain Multimodal Reasoning",
-      "url": "https://huggingface.co/papers/2605.09614",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-14T19:00:00.000Z",
-      "abstract": "Long chain-of-thought (CoT) reasoning improves large vision--language models, but visual information often fades during generation, limiting long-horizon multimodal reasoning. Existing methods either",
-      "authors": [
-        "Xuan Gong",
-        "Hanbo Huang",
-        "Hao Zheng",
-        "Yiran Zhang",
-        "Wenbin Dai"
-      ],
-      "tags": [
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.20192",
-      "title": "GlyphAtlas: Disentangling Stroke Detail from Layout for Scene Text Synthesis",
-      "url": "https://huggingface.co/papers/2611.20192",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-14T19:00:00.000Z",
-      "abstract": "Scene text synthesis requires stroke-accurate characters rendered in a specified layout, as well as visual coherence with the surrounding scene. To achieve this, existing methods commonly pre-render t",
-      "authors": [
-        "Luozheng Qin",
-        "Changhai Zhou",
-        "Yiyi Zhou"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.19937",
-      "title": "AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data",
-      "url": "https://huggingface.co/papers/2611.19937",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-14T19:00:00.000Z",
-      "abstract": "Real-world portfolio management requires converting noisy market observations into coordinated, simultaneous allocations across multiple assets under shared capital constraints. Advances in forecastin",
-      "authors": [
-        "Annan Wang",
-        "Yuchen Xie",
-        "Yu Cen",
-        "Leon Liangyu Chen",
-        "Qianyu Julie Zhu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.20254",
-      "title": "VoxMel TTS Technical Report",
-      "url": "https://huggingface.co/papers/2611.20254",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-14T19:00:00.000Z",
-      "abstract": "Continuous autoregressive TTS relies on an acoustic target that enables stable next-latent modeling while preserving fine-grained acoustic details. While existing approaches employ learned compressed",
-      "authors": [
-        "Wenhao Guan",
-        "Jiaxin Ye",
-        "Haitao Li",
-        "Yifan Duan",
-        "Junxi Liu"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

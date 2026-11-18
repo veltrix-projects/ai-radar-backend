@@ -1,73 +1,26 @@
 {
-  "generatedAt": "2026-11-17T10:54:20.391Z",
+  "generatedAt": "2026-11-18T01:46:32.692Z",
   "date": "10-11-2026",
-  "count": 6,
+  "count": 4,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2611.16010",
-      "title": "Iris-Z: Scaling One Generative Model Past Specialist Geometry Models",
-      "url": "https://huggingface.co/papers/2611.16010",
+      "id": "hf_paper_2611.14960",
+      "title": "Termination Lag: Coding Agents Solve Early but Stop Late",
+      "url": "https://huggingface.co/papers/2611.14960",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-10T19:00:00.000Z",
-      "abstract": "Language moved from many task-specific models to one unified model: a single generative model with a single generative training task that handles all of them within the same backbone, and keeps improv",
+      "abstract": "Coding agents can solve a task well before they stop working on it. We characterize termination lag--the number of steps between an agent's first correct patch and the end of its run--across five mode",
       "authors": [
-        "Alejandro Cañada",
-        "Chema Garabito"
+        "Musa Cim",
+        "Burak Topcu",
+        "Mahmut Taylan Kandemir"
       ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.15640",
-      "title": "MemInStream: Memorizing or Merely Recognizing? Rethinking Streaming Video Memory Evaluation",
-      "url": "https://huggingface.co/papers/2611.15640",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-10T19:00:00.000Z",
-      "abstract": "Streaming video understanding aims to continuously process incoming visual observations, making the retention and retrieval of relevant information increasingly important as the video history grows. A",
-      "authors": [
-        "Zhenqi He",
-        "Dunyuan Xu",
-        "Yang Bo",
-        "Kien T. Pham",
-        "Yanghao Wang"
+      "tags": [
+        "agent"
       ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.14505",
-      "title": "Continual-ARC: Measuring Skill Acquisition over a Working Lifetime",
-      "url": "https://huggingface.co/papers/2611.14505",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-10T19:00:00.000Z",
-      "abstract": "Agent harnesses have emerged as a promising mechanism for continual learning, alongside test-time parametric learning. However, the current benchmarks have several limitations: they generally focus on",
-      "authors": [
-        "Daniel Lenton",
-        "Yusha Arif",
-        "Haris Mahmood"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

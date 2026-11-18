@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T10:54:20.395Z",
+  "generatedAt": "2026-11-18T01:46:32.697Z",
   "date": "03-11-2026",
   "count": 3,
   "summary": null,
@@ -30,27 +30,23 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 318718,
+      "stars": 319193,
       "votes": 0,
       "points": 0
     },
     {
-      "id": "hf_paper_2611.07222",
-      "title": "SPILLWAY: Separating Target Admission from Sanitization to Defend Tool-Using Agents against Prompt Injection",
-      "url": "https://huggingface.co/papers/2611.07222",
+      "id": "hf_paper_2611.06238",
+      "title": "Zuse: A Decision Model for European Languages",
+      "url": "https://huggingface.co/papers/2611.06238",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-03T19:00:00.000Z",
-      "abstract": "Tool-using agents act on email, files, and payments, so an instruction hidden in a web page or a shared document can make an agent send data or money to an attacker. Many runtime defenses put a langua",
+      "abstract": "Decision models read a document and return a probability for each of a fixed set of options instead of generating text. Several appeared in 2026, but none has published results outside English. We des",
       "authors": [
-        "Woosang Lim",
-        "Yeseul Chang",
-        "Jaewoo Lee"
+        "Umair Mehmood Imam"
       ],
-      "tags": [
-        "agent"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
