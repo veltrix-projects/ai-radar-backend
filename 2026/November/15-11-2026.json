@@ -1,51 +1,24 @@
 {
-  "generatedAt": "2026-11-18T09:28:50.800Z",
+  "generatedAt": "2026-11-18T18:17:47.545Z",
   "date": "15-11-2026",
-  "count": 10,
+  "count": 5,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2611.20441",
-      "title": "Abstention Direction in Large Language Models: Mechanistic Interpretability of Abstention Across Query Ambiguity, Knowledge Limits, and Safety Alignment",
-      "url": "https://huggingface.co/papers/2611.20441",
+      "id": "hf_paper_2611.21925",
+      "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
+      "url": "https://huggingface.co/papers/2611.21925",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-15T19:00:00.000Z",
-      "abstract": "Abstention, the withholding of a response by a large language model (LLM) under uncertainty or safety risks, is essential for trustworthy models. The causes of abstention fall into three perspectives:",
+      "abstract": "Speculative-diffusion decoding uses a small parallel drafter model to generate b draft tokens in one forward pass, which then undergo parallel verification via a larger target model. Faster inference",
       "authors": [
-        "Koki Itai",
-        "Jun Hirako",
-        "Hiroaki Yamagiwa"
-      ],
-      "tags": [
-        "alignment",
-        "safety"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.21412",
-      "title": "Flexible Multi-Stack Super-Resolution of Clinical Brain MRI Using Hetero-Orientation Variational Encoding: Expert Reader Evaluation in a Nigerian Cohort",
-      "url": "https://huggingface.co/papers/2611.21412",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-15T19:00:00.000Z",
-      "abstract": "High-resolution brain MRI is important for neuroradiological assessment, yet routine clinical protocols often rely on fast, anisotropic 2D acquisitions, particularly in resource-constrained settings.",
-      "authors": [
-        "Kabir Hamzah Muhammad",
-        "Lorena Garcia-Foncillas Macias",
-        "Soumya Snigdha Kundu",
-        "Emily Guilhem",
-        "Jon Cleary"
+        "Jameson Sandler",
+        "Shane Bergsma",
+        "Mostafa Elhoushi",
+        "Bin Claire Zhang",
+        "Gavia Gray"
       ],
       "tags": [],
       "score": 6,
@@ -58,74 +31,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.20595",
-      "title": "Invariant-Aware Harness Enforcement to Protect LLM Agents from Silent API Failures",
-      "url": "https://huggingface.co/papers/2611.20595",
+      "id": "hf_paper_2611.21938",
+      "title": "HubEgo-100K: In-the-Wild Egocentric Video of Skilled Work for Robot Learning",
+      "url": "https://huggingface.co/papers/2611.21938",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-15T19:00:00.000Z",
-      "abstract": "LLM agents answer questions by calling APIs and trusting the results. An API can fail silently. It ignores part of a request, such as a misnamed filter, yet returns HTTP 200 and a plausible but wrong",
+      "abstract": "Robot policies trained by imitation generalize poorly outside the environments and objects seen in training. Published data-scaling studies find that generalization grows with the diversity of trainin",
       "authors": [
-        "Sajib Acharjee Dip",
-        "Brian Ouyang",
-        "Lala Motlhabi"
-      ],
-      "tags": [
-        "llm",
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.21605",
-      "title": "ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization",
-      "url": "https://huggingface.co/papers/2611.21605",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-15T19:00:00.000Z",
-      "abstract": "Visual agents answer questions about ultra-high-resolution photos by zooming into the relevant regions. However, existing agents often answer from common sense instead of reading the evidence. Reinfor",
-      "authors": [
-        "Huawei Lin",
-        "Jinting Liu",
-        "Tongyan Wang",
-        "Xuyang Chen",
-        "Ruihua Shi"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.21479",
-      "title": "LynnReal-Hand: Unlocking World Interaction with Hand Control",
-      "url": "https://huggingface.co/papers/2611.21479",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-15T19:00:00.000Z",
-      "abstract": "Interactive video world models enable exploration through text and camera controls, yet direct object interaction requires finer control. Hands provide a natural interface, but translating continuous",
-      "authors": [
-        "Shaohao Rui",
-        "Chaoyang Zhang",
-        "Xiaofeng Mao",
-        "Weijie Ma"
+        "Javad Amirian",
+        "Armin Kiani",
+        "Loïc Schaeffer",
+        "Tim Sprecher",
+        "Mohamed Taha"
       ],
       "tags": [],
       "score": 6,
@@ -138,20 +57,22 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.21439",
-      "title": "A Reinforcement Learning Method to Navigate SMEFT Operator Space",
-      "url": "https://huggingface.co/papers/2611.21439",
+      "id": "hf_paper_2611.21382",
+      "title": "VisualArtifactSpec 1.0: Evaluating Visual Artifacts under Task Specifications",
+      "url": "https://huggingface.co/papers/2611.21382",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-15T19:00:00.000Z",
-      "abstract": "In particle physics, discrepancies between experimental measurements and Standard Model (SM) predictions are commonly interpreted within new theoretical models. In this context, the Standard Model Eff",
+      "abstract": "Visual artifact tasks test agents' ability to translate task specifications and source materials into outputs that meet practical needs. Evaluation across artifact families helps distinguish broadly a",
       "authors": [
-        "Jacky Kumar"
+        "Shuyi Ouyang",
+        "Xiaojun Tang",
+        "Zijian Zou",
+        "Xintong Zhang",
+        "Mingli Song"
       ],
-      "tags": [
-        "reinforcement learning"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -162,20 +83,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.21072",
-      "title": "Sage S2.1 Flash Technical Report",
-      "url": "https://huggingface.co/papers/2611.21072",
+      "id": "hf_paper_2611.21421",
+      "title": "AuXSpec: Learning to Autoformalize Program Specifications via Executable Postconditions",
+      "url": "https://huggingface.co/papers/2611.21421",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-15T19:00:00.000Z",
-      "abstract": "We introduce Sage S1.5 Flash, a 320-billion-parameter general-purpose mixture-of-experts model designed to reason over scientific evidence and act in interactive environments. Sage Sci-Perception uses",
+      "abstract": "Formal specifications define intended program behavior and underpin verification, but writing them in theorem provers such as Lean is slow and expertise-intensive, making specification a major bottlen",
       "authors": [
-        "Kun Cai",
-        "Haodong Chen",
-        "Guangran Cheng",
-        "Qingxiu Cheng",
-        "Xu Dai"
+        "Haocheng Wang",
+        "Weixuan Yuan",
+        "Florian Hübler",
+        "Yinya Huang",
+        "Zhijiang Guo"
       ],
       "tags": [],
       "score": 6,
@@ -206,52 +127,6 @@
       "tags": [],
       "score": 6,
       "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.21791",
-      "title": "Regularized Score Centering",
-      "url": "https://huggingface.co/papers/2611.21791",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-15T19:00:00.000Z",
-      "abstract": "Asynchronous reinforcement learning increases training throughput, but data from stale policies and numerical mismatch between training and inference can destabilize learning. To stabilize off-policy",
-      "authors": [
-        "Hao Bai",
-        "Chenlu Ye",
-        "Xuanchang Zhang",
-        "Aviral Kumar",
-        "Tong Zhang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fthis-com",
-      "title": "This Comic Kills Technofascists",
-      "url": "https://www.404media.co/this-comic-kills-technofascists/",
-      "source": "404 Media",
-      "sourceIcon": "📡",
-      "type": "news",
-      "timestamp": "2026-11-15T13:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

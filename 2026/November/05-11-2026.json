@@ -1,61 +1,9 @@
 {
-  "generatedAt": "2026-11-18T09:28:50.804Z",
+  "generatedAt": "2026-11-18T18:17:47.548Z",
   "date": "05-11-2026",
-  "count": 5,
+  "count": 3,
   "summary": null,
   "items": [
-    {
-      "id": "hf_paper_2611.08977",
-      "title": "Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model",
-      "url": "https://huggingface.co/papers/2611.08977",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-05T19:00:00.000Z",
-      "abstract": "Looping is a powerful inductive bias for reasoning. By repeatedly iterating a recurrent block, looped models can scale their effective depth and enable multi-step reasoning in latent space. However, e",
-      "authors": [
-        "William Xingxu Chen",
-        "Alexi Gladstone",
-        "Zeyu Michael Li",
-        "Heng Ji",
-        "Yilun Du"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.09825",
-      "title": "BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design",
-      "url": "https://huggingface.co/papers/2611.09825",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-05T19:00:00.000Z",
-      "abstract": "The key-value (KV) cache dominates memory capacity and bandwidth in long-context LLM serving. While 4-bit microscaling formats (NVFP4, MXFP4) shrink the cache and run attention on FP4 Tensor Cores, a",
-      "authors": [
-        "Dayou Du",
-        "Woon Yee Ng",
-        "Guangming Sheng",
-        "Nick Lau",
-        "Jianyi Cheng"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "hf_paper_2611.08922",
       "title": "Glyph: An Interpretability Engine for AI-Driven Scientific Discovery in Clinical Data",

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-18T09:28:50.801Z",
+  "generatedAt": "2026-11-18T18:17:47.546Z",
   "date": "12-11-2026",
-  "count": 8,
+  "count": 3,
   "summary": null,
   "items": [
     {
@@ -18,108 +18,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.17610",
-      "title": "More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs",
-      "url": "https://huggingface.co/papers/2611.17610",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-12T19:00:00.000Z",
-      "abstract": "Evaluations of multi-agent language models often compare communicating architectures against a single greedy pass. This practice confounds coordination with sample multiplicity and inference compute.",
-      "authors": [
-        "Seyed Mahmoud Sajjadi Mohammadabadi"
-      ],
-      "tags": [
-        "llm",
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.18330",
-      "title": "Marimba: A System One Model for Speech",
-      "url": "https://huggingface.co/papers/2611.18330",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-12T19:00:00.000Z",
-      "abstract": "Speech applications require decisions about term presence, turn completion, and language within an audio window. We present Marimba, an interface for typed speech decisions built on frozen Qwen3-ASR 0",
-      "authors": [
-        "Solano Amadori"
-      ],
-      "tags": [
-        "speech"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.18981",
-      "title": "GPBam: A Retrieval-Aware German Public Law Exam Benchmark",
-      "url": "https://huggingface.co/papers/2611.18981",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-12T19:00:00.000Z",
-      "abstract": "Legal reasoning in civil-law systems is not rule-lookup: the German state examination asks for a structured opinion (Gutachten) that names the governing norms, applies them to the facts, and argues to",
-      "authors": [
-        "Abdullah Al Zubaer",
-        "Lorenz Wendlinger",
-        "Simon Alexander Nonn",
-        "Michael Granitzer",
-        "Jelena Mitrović"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.18919",
-      "title": "Correcting Persistent Failures in Point-Cloud Grasping Policies using Human Demonstrations in Virtual Reality",
-      "url": "https://huggingface.co/papers/2611.18919",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-12T19:00:00.000Z",
-      "abstract": "Robots in homes, warehouses and farms must pick up objects they have never seen, usually without a 3D model or a category label. A grasping policy that works directly on the point cloud from a depth s",
-      "authors": [
-        "Achyuthan Unni Krishnan",
-        "Karthik Rengarajan",
-        "Bharath Narasimhan",
-        "Chris von Csefalvay"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -145,32 +43,6 @@
       "tags": [
         "benchmark"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.18856",
-      "title": "Self-Improvement Memory Enables Continual Recursive Self-Improvement",
-      "url": "https://huggingface.co/papers/2611.18856",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-12T19:00:00.000Z",
-      "abstract": "Harness optimization is often studied with a fixed policy model and benchmark. When either changes, the optimizer must decide which parts of an evolved harness to reuse or revise, but the harness alon",
-      "authors": [
-        "Xin Yu",
-        "Fei Xia",
-        "Jiaqi Pan",
-        "Youbao Tang",
-        "Chengzhi Liu"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
