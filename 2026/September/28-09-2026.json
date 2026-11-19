@@ -1,26 +1,28 @@
 {
-  "generatedAt": "2026-10-19T21:37:40.515Z",
+  "generatedAt": "2026-11-19T17:28:53.087Z",
   "date": "28-09-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.14022",
-      "title": "OPMD: On-Policy Mechanism Distillation Beyond Output Supervision",
-      "url": "https://huggingface.co/papers/2610.14022",
+      "id": "hf_paper_2611.23257",
+      "title": "StatePortal: Agentic Checkpoint Synthesis for Testing Deep States in Interactive Software",
+      "url": "https://huggingface.co/papers/2611.23257",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-09-28T20:00:00.000Z",
-      "abstract": "On-policy distillation (OPD) improves language-model by supervising a student on prefixes sampled from its own policy, but its supervision remains confined to the output space. Consequently, OPD trans",
+      "abstract": "Large language models have reduced the effort to generate code for interactive software with graphical user interfaces (GUIs). For such software, a key testing bottleneck is reaching a deep state, one",
       "authors": [
-        "Yingdong Shi",
-        "Zhihong Li",
-        "Changming Li",
-        "Jingyi Yu",
-        "Quan Li"
+        "Zhiyuan Peng",
+        "Wei Tao",
+        "Chenhao Ying",
+        "Yuan Luo",
+        "Yiwen Guo"
       ],
-      "tags": [],
+      "tags": [
+        "agent"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

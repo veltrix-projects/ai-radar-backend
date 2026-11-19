@@ -1,21 +1,27 @@
 {
-  "generatedAt": "2026-09-18T16:38:39.378Z",
+  "generatedAt": "2026-11-19T17:28:53.088Z",
   "date": "25-08-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Fa",
-      "title": "AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR",
-      "url": "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/",
-      "source": "Google Research",
-      "sourceIcon": "🔍",
+      "id": "hf_paper_2611.23236",
+      "title": "PGPO: Prototype-Guided Progressive Obfuscation for Privacy-Preserving LLM-Enhanced Recommendation",
+      "url": "https://huggingface.co/papers/2611.23236",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-08-25T19:10:59.000Z",
-      "abstract": "Human-Computer Interaction and Visualization",
-      "authors": [],
+      "timestamp": "2026-08-25T20:00:00.000Z",
+      "abstract": "LLM-enhanced recommender systems encode item side information into semantic embeddings, but these embeddings may leak sensitive textual attributes through inversion attacks. Existing input-side defens",
+      "authors": [
+        "Shengxiang Lin",
+        "Jiajie Su",
+        "Pengyang Zhou",
+        "Xiang Chen",
+        "Xiaolin Zheng"
+      ],
       "tags": [
-        "agent"
+        "llm"
       ],
       "score": 6,
       "priority": "MEDIUM",

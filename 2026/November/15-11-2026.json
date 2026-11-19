@@ -1,25 +1,28 @@
 {
-  "generatedAt": "2026-11-19T08:10:03.201Z",
+  "generatedAt": "2026-11-19T17:28:53.034Z",
   "date": "15-11-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2611.21114",
-      "title": "VAE Rhythm: Temporal Decoding Traces for AI-Generated Video Detection",
-      "url": "https://huggingface.co/papers/2611.21114",
+      "id": "hf_paper_2611.21553",
+      "title": "BLIP-Live: Balancing Timeliness & Firing Precision in Proactive Streaming Video Agents",
+      "url": "https://huggingface.co/papers/2611.21553",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-15T19:00:00.000Z",
-      "abstract": "Visible artifacts are an unreliable cue for detecting generated videos, because newer generators learn to remove them. We instead detect a trace left by the generation pipeline itself. Most video gene",
+      "abstract": "Streaming video understanding is becoming increasingly important for real-world interactive systems. Such systems must be proactive for natural and useful human interaction: they should respond as soo",
       "authors": [
-        "Ke Sun",
-        "Shuwei Li",
-        "Haiyang Mei",
-        "Mike Zheng Shou"
+        "Kanchana Ranasinghe",
+        "Honglu Zhou",
+        "Dominick Reilly",
+        "Le Xue",
+        "Shusheng Yang"
       ],
-      "tags": [],
+      "tags": [
+        "agent"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
