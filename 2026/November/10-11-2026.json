@@ -1,32 +1,9 @@
 {
-  "generatedAt": "2026-11-19T00:35:57.740Z",
+  "generatedAt": "2026-11-19T08:10:03.203Z",
   "date": "10-11-2026",
-  "count": 4,
+  "count": 3,
   "summary": null,
   "items": [
-    {
-      "id": "hf_paper_2611.15671",
-      "title": "The Noise Floor of a Quantization Comparison: Engine, restart, batch and kernel drift, measured against 8-bit and 4-bit effects in two decision models",
-      "url": "https://huggingface.co/papers/2611.15671",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-10T19:00:00.000Z",
-      "abstract": "A quantized model is usually judged by comparing it with its BF16 original, but that comparison changes more than the weights. It often changes the serving engine, it always runs on a different server",
-      "authors": [
-        "Aleks Blagojevich",
-        "Trevor Sunderland"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "google_deepmind_https%3A%2F%2Fdeepmind.google%2Fblog%2Fg",
       "title": "Gemini 4 Carbon is now available",

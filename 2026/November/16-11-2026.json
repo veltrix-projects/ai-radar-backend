@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-19T00:35:57.735Z",
+  "generatedAt": "2026-11-19T08:10:03.201Z",
   "date": "16-11-2026",
-  "count": 17,
+  "count": 12,
   "summary": null,
   "items": [
     {
@@ -25,16 +25,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.11937",
-      "title": "Attention at Absolute Zero",
-      "url": "https://huggingface.co/papers/2611.11937",
+      "id": "hf_paper_2611.22673",
+      "title": "FVScore: Specification-Driven Neuro-Symbolic Video Evaluation",
+      "url": "https://huggingface.co/papers/2611.22673",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-16T19:00:00.000Z",
-      "abstract": "Attention scores candidate supports of an answer, which we call witnesses, and reads the scores at a temperature. We build a higher-order attention layer whose state lives on pairs of items: for a pai",
+      "abstract": "We introduce Faithfulness Video Score (FVSCORE), a neuro-symbolic framework for specification-driven video generation evaluation. Existing evaluators rely on holistic MLLM judgments or vision-language",
       "authors": [
-        "Mostafa &#39;Neo&#39; Mohsenvand"
+        "Do Xuan Long",
+        "Long T. Le",
+        "Yiwen Song",
+        "Min-Yen Kan",
+        "Tomas Pfister"
       ],
       "tags": [],
       "score": 6,
@@ -47,74 +51,19 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.23140",
-      "title": "GameRealm: Grounding Visual Learning in Interactive Games",
-      "url": "https://huggingface.co/papers/2611.23140",
+      "id": "hf_paper_2611.22790",
+      "title": "NexSight: Verifiable Tasks for Fine-Grained Agentic Long-Video Understanding",
+      "url": "https://huggingface.co/papers/2611.22790",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-16T19:00:00.000Z",
-      "abstract": "Visual foundation models are central to physical intelligence, yet their development remains constrained by fragmented training datasets, inconsistent annotation quality, and limited multimodal superv",
+      "abstract": "Fine-grained questions about long videos ask how many times an action occurs, in what order events unfold, or exactly when a state changes. Answering them can require finding brief moments scattered a",
       "authors": [
-        "Weiguang Zhao",
-        "Yifan Wang",
-        "Ni Yang",
-        "Yating Wang",
-        "Xingyu Miao"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.22563",
-      "title": "CADMAGEDDON: High-Fidelity CAD Reconstruction with Local Inference",
-      "url": "https://huggingface.co/papers/2611.22563",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-16T19:00:00.000Z",
-      "abstract": "CAD practitioners often work with proprietary parts that they are unwilling to share with external services. For individuals and small companies, bringing this work in-house also requires computationa",
-      "authors": [
-        "Oleg Pavlov",
-        "Nikita Gavrilov",
-        "Soslan Kabisov",
-        "Gennadii Savrasov",
-        "Andrey Kuznetsov"
-      ],
-      "tags": [
-        "inference"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.22565",
-      "title": "MillBill: A Machining Agent with Geometric Feedback",
-      "url": "https://huggingface.co/papers/2611.22565",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-16T19:00:00.000Z",
-      "abstract": "Turning a CAD model into a machining program requires both process knowledge and geometric precision. Language models can generate such workflows by writing geometry and toolpath code for each part, b",
-      "authors": [
-        "Gennadii Savrasov",
-        "Artem Slavin",
-        "Soslan Kabisov",
-        "Andrey Kuznetsov",
-        "Anton Konushin"
+        "Tianci Xie",
+        "Li Chen",
+        "Pinxue Guo",
+        "Rui Zheng"
       ],
       "tags": [
         "agent"
@@ -129,102 +78,23 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.23034",
-      "title": "M3OPD-Reasoner: An Open Recipe for Post-Training Multimodal Reasoning with Multi-Teacher On-Policy Distillation",
-      "url": "https://huggingface.co/papers/2611.23034",
+      "id": "hf_paper_2607.21179",
+      "title": "Out of Sight, Still in Mind: Token Compression for Omni-LLMs",
+      "url": "https://huggingface.co/papers/2607.21179",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-16T19:00:00.000Z",
-      "abstract": "Multi-Teacher On-Policy Distillation (MOPD) enables a single student to absorb the skills of several domain teachers by learning from its own generated responses. We present Multimodal Model Multi-Tea",
+      "abstract": "The goal of this paper is to reduce the input token cost of Omni-modal large language models (Omni-LLMs) at inference time. Omni-LLMs reason jointly over audio, video and text, but the cost of the thr",
       "authors": [
-        "Nguyen Quang Trung",
-        "Hoang Phan",
-        "Shuo Sun",
-        "Longyin Zhang",
-        "AiTi Aw"
+        "Suho Yoo",
+        "Youngjoon Jang",
+        "Hyebin Cho",
+        "Joon Son Chung"
       ],
       "tags": [
-        "multimodal",
-        "training"
+        "llm"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.23026",
-      "title": "TPHC: Improving Hyper-Connections with Tensor-Parallel Grouped Updates",
-      "url": "https://huggingface.co/papers/2611.23026",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-16T19:00:00.000Z",
-      "abstract": "Hyper-Connections (HC) expand the residual stream of a Transformer into N parallel streams, and manifold-constrained HC (mHC) stabilizes them at scale. However, mHC benefits little from more than four",
-      "authors": [
-        "Xinying Hu",
-        "You Wu",
-        "Haoyi Wu",
-        "Jianchao Tan",
-        "Kefeng Zhang"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.21152",
-      "title": "From Repositories to Training Environments: Scaling Long-Horizon Coding Agents with Environment Evolution Loop",
-      "url": "https://huggingface.co/papers/2611.21152",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-16T19:00:00.000Z",
-      "abstract": "Training coding agents for long-horizon tasks requires environments with verifiable feedback. Existing pipelines often follow a linear process that ends with validation, establishing usability but pro",
-      "authors": [
-        "Yang Tian",
-        "Tianyu Zheng",
-        "Xiyuan Yang",
-        "Yaxin Du",
-        "Chengran Yang"
-      ],
-      "tags": [
-        "agent",
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.23108",
-      "title": "FMT: Lossless Image Compression in a Fixed Number of Parallel Steps",
-      "url": "https://huggingface.co/papers/2611.23108",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-16T19:00:00.000Z",
-      "abstract": "Learned lossless codecs make smaller files than common classical codecs, yet the images we archive and train on still use classical codecs. A main reason is time: a learned codec takes seconds to deco",
-      "authors": [
-        "Ammar Ali"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

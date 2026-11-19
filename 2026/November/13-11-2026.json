@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-19T00:35:57.737Z",
+  "generatedAt": "2026-11-19T08:10:03.202Z",
   "date": "13-11-2026",
-  "count": 3,
+  "count": 4,
   "summary": null,
   "items": [
     {
@@ -57,6 +57,32 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.19200",
+      "title": "LogT: Logically Think with Images for Visual Search",
+      "url": "https://huggingface.co/papers/2611.19200",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-13T19:00:00.000Z",
+      "abstract": "Thinking with images empowers vision-language models (VLMs) to use an external Zoom-in tool for fine-grained visual search. Recent works employ supervised fine-tuning (SFT) and reinforcement learning",
+      "authors": [
+        "Yanjun Fu",
+        "Quanzeng You",
+        "Jiadong Guo",
+        "Yujie Lu",
+        "Sai Charitha Akula"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
