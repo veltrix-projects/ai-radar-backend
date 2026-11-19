@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-11-18T18:17:47.545Z",
+  "generatedAt": "2026-11-19T00:35:57.736Z",
   "date": "15-11-2026",
-  "count": 5,
+  "count": 6,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2611.20995",
+      "title": "CONGA: Compiling Gaussian Fiber Geometry for Structured Bayesian Inference",
+      "url": "https://huggingface.co/papers/2611.20995",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-15T19:00:00.000Z",
+      "abstract": "In structured Bayesian models, a large latent block is often Gaussian conditional on a smaller set of parameters, yet generic inference methods relearn this geometry during warmup. We study how this s",
+      "authors": [
+        "Víctor Gallego"
+      ],
+      "tags": [
+        "inference"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2611.21925",
       "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",

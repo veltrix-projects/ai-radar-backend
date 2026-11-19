@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T18:17:47.546Z",
+  "generatedAt": "2026-11-19T00:35:57.738Z",
   "date": "12-11-2026",
   "count": 3,
   "summary": null,
@@ -25,24 +25,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.17621",
-      "title": "AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs",
-      "url": "https://huggingface.co/papers/2611.17621",
+      "id": "hf_paper_2611.18553",
+      "title": "WeightBench: Evaluating Language Models as Weight-Space Programmers",
+      "url": "https://huggingface.co/papers/2611.18553",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-12T19:00:00.000Z",
-      "abstract": "Kernel optimization is essential for efficient large language model (LLM) training and inference on Ascend NPUs. Existing Ascend kernel benchmarks primarily focus on kernel generation, with less empha",
+      "abstract": "Recent work shows that large language models (LLMs) can operate directly on the parameters of other neural networks. They can read what a network was trained to do, fix a network that fails, and write",
       "authors": [
-        "AI Training Platform Team",
-        "Bingwei Zhang",
-        "Jing Li",
-        "Amir Abdullin",
-        "Sihang Chen"
+        "Aayush Marasini",
+        "Barsat Khadka",
+        "Nick Rahimi"
       ],
-      "tags": [
-        "benchmark"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
