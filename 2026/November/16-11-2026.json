@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T23:41:38.660Z",
+  "generatedAt": "2026-11-20T04:55:16.064Z",
   "date": "16-11-2026",
   "count": 9,
   "summary": null,
@@ -18,6 +18,32 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.22666",
+      "title": "VSpark: Speculative Decoding for Autoregressive Vision-Language-Action Models",
+      "url": "https://huggingface.co/papers/2611.22666",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-16T19:00:00.000Z",
+      "abstract": "Our aim is to accelerate autoregressive vision-language-action models (VLAs), which generate robot actions one token at a time. Speculative decoding makes this possible: a lightweight draft model prop",
+      "authors": [
+        "Suho Yoo",
+        "Youngjoon Jang",
+        "Hyebin Cho",
+        "Taeyeop Lee",
+        "Jaewook Jeong"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -65,31 +91,6 @@
         "Jiafei Duan"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.23386",
-      "title": "Chorus: Shared N-gram Embeddings with Layer-wise Adaptation",
-      "url": "https://huggingface.co/papers/2611.23386",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-16T19:00:00.000Z",
-      "abstract": "Language models can gain capacity at little computational cost from n-gram embedding tables: large tables of learned vectors for short sequences of consecutive tokens, which are looked up and added to",
-      "authors": [
-        "Stephen Chung",
-        "Wenyu Du"
-      ],
-      "tags": [
-        "embeddings"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

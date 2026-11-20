@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-19T23:41:38.662Z",
+  "generatedAt": "2026-11-20T04:55:16.067Z",
   "date": "11-11-2026",
-  "count": 4,
+  "count": 5,
   "summary": null,
   "items": [
     {
@@ -17,6 +17,33 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.17460",
+      "title": "Unfinished-Bench: Measuring Rule Violations by Persistent Agents in Realistic Work Environments",
+      "url": "https://huggingface.co/papers/2611.17460",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-11T19:00:00.000Z",
+      "abstract": "AI agents are increasingly equipped with persistence toward task completion to run delegated work autonomously for long periods, under many unstated constraints from internal documents and other peopl",
+      "authors": [
+        "Seunghyun Lee",
+        "Jaehui Hwang",
+        "Dongyoon Han",
+        "Sangdoo Yun"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

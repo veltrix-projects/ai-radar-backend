@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-19T23:41:38.659Z",
+  "generatedAt": "2026-11-20T04:55:16.063Z",
   "date": "17-11-2026",
-  "count": 18,
+  "count": 14,
   "summary": null,
   "items": [
     {
@@ -59,6 +59,59 @@
       "tags": [
         "agent"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.24809",
+      "title": "On-Policy Morphing into Hybrid Attention Models",
+      "url": "https://huggingface.co/papers/2611.24809",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-17T19:00:00.000Z",
+      "abstract": "Hybrid attention models combine full and linear attention to achieve a better quality--efficiency trade-off. Converting pretrained Transformers into such models requires identifying which layers shoul",
+      "authors": [
+        "Disen Lan",
+        "Xuanda Wang",
+        "Jianbin Zheng",
+        "Huafeng Kuang",
+        "Wei Tang"
+      ],
+      "tags": [
+        "phi"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.23835",
+      "title": "NarrowSpec: Draft Hidden Width Need Not Match the Target in Speculative Decoding",
+      "url": "https://huggingface.co/papers/2611.23835",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-17T19:00:00.000Z",
+      "abstract": "Speculative decoding is widely used to speed up generation in large language models (LLMs), with a small draft model proposing tokens that one forward pass of the target model verifies. Draft models t",
+      "authors": [
+        "Alagappan Valliappan",
+        "Ankit More",
+        "Dheevatsa Mudigere",
+        "Jatin Mitra"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -230,134 +283,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.23751",
-      "title": "Thinking Fast, Anywhere: One System-1 for the Decision Points of Any Agent Workflow",
-      "url": "https://huggingface.co/papers/2611.23751",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-17T19:00:00.000Z",
-      "abstract": "Autonomous LLM agents incur substantial cost and latency by invoking a large model (System-2) at every step, even when many intermediate actions choose among a small set of known candidates. Existing",
-      "authors": [
-        "Rui Li",
-        "Liyang He",
-        "Zheng Zhang",
-        "Zhenya Huang",
-        "Qi Liu"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.24654",
-      "title": "CurvDelta: Low-Curvature Delta Modeling For Surgical Learning and Unlearning",
-      "url": "https://huggingface.co/papers/2611.24654",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-17T19:00:00.000Z",
-      "abstract": "A central challenge in adapting large language models (LLMs) is capability preservation: an adaptation can achieve its target while degrading general capabilities. We introduce CurvDelta, a scalable f",
-      "authors": [
-        "Zeguan Xiao",
-        "Zhuocheng Liang",
-        "Yun Chen",
-        "Yong Wang",
-        "Guanhua Chen"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.24789",
-      "title": "HINT-WAM: Hindsight-Informed Training for World Action Models",
-      "url": "https://huggingface.co/papers/2611.24789",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-17T19:00:00.000Z",
-      "abstract": "World action models (WAMs) have shown promising generalization and data efficiency in robot manipulation by coupling action generation with predictions of future visual dynamics. Translating these cap",
-      "authors": [
-        "Phuong Tuan Dat",
-        "Qi Li",
-        "Xinchao Wang"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.24651",
-      "title": "Piccolo: Co-Evolving Decision Models and Data through Recursive Self-Improvement",
-      "url": "https://huggingface.co/papers/2611.24651",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-17T19:00:00.000Z",
-      "abstract": "We present Piccolo, a family of multimodal decision models (0.8B to 27B) that coevolves model capabilities and training data via Agentic Data Engineering and recursive self-improvement (RSI). The mode",
-      "authors": [
-        "Zhenqing Ling",
-        "Qirui Jiao",
-        "Daoyuan Chen",
-        "Cheng Chen",
-        "Xinji Mai"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fintro",
-      "title": "Introducing GPT-6.2 Astra and Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-11-17T17:45:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "gpt"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "Co-Designing Sparse Attention for Efficient Long-Context Inference",
       "url": "https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference/",
@@ -413,26 +338,6 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fstren",
-      "title": "Strengthening NATO and allied cyber defenses with AI",
-      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-11-17T00:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
