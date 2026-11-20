@@ -1,27 +1,50 @@
 {
-  "generatedAt": "2026-11-20T13:44:04.264Z",
+  "generatedAt": "2026-11-20T21:37:22.593Z",
   "date": "15-11-2026",
-  "count": 1,
+  "count": 2,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2611.20455",
-      "title": "Embeddings vs. Grep: Rethinking the Dense Advantage in Code Search",
-      "url": "https://huggingface.co/papers/2611.20455",
+      "id": "hf_paper_2611.21885",
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "url": "https://huggingface.co/papers/2611.21885",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-15T19:00:00.000Z",
-      "abstract": "Code-search benchmarks show dense encoders well ahead of BM25, yet coding agents do well with grep. What does this dense advantage measure? Existing benchmarks cannot tell: they use curated queries, o",
+      "abstract": "Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt, a scaffold or extra computation at inference is gone once the task ends. A frontier",
       "authors": [
-        "Siqiao Xue",
-        "Ziyin Zhang",
-        "Zihan Liao",
-        "Jin Qin",
-        "Yixiang Mu"
+        "Jiajun Fan",
+        "Neil He",
+        "Changyi Yang",
+        "Andy Mao",
+        "Xi Zhu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.21053",
+      "title": "System 1 agents: a method for local, reliable and fast agentic AI",
+      "url": "https://huggingface.co/papers/2611.21053",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-15T19:00:00.000Z",
+      "abstract": "Agentic artificial intelligence could automate analyses of sensitive clinical data, but current agents depend on large language models (LLMs). Cloud LLMs expose patient data. Local LLMs hallucinate, a",
+      "authors": [
+        "Eleftherios Tzanis",
+        "Michail E. Klontzas"
       ],
       "tags": [
-        "embeddings"
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",

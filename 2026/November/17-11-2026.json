@@ -1,22 +1,26 @@
 {
-  "generatedAt": "2026-11-20T13:44:04.262Z",
+  "generatedAt": "2026-11-20T21:37:22.592Z",
   "date": "17-11-2026",
-  "count": 9,
+  "count": 7,
   "summary": null,
   "items": [
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work",
-      "url": "https://www.marktechpost.com/2026/11/17/perplexity-computer-multiagent-effort-level/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
+      "id": "hf_paper_2611.25200",
+      "title": "Squoosh Bench: Evaluating UX-1 on 318 Historical Website A/B Tests",
+      "url": "https://huggingface.co/papers/2611.25200",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-11-17T22:52:04.000Z",
-      "abstract": "Perplexity added Multiagent to Computer, an effort level above Ultra where a lead agent runs up to 16 agents on Claude, GPT and Gemini models that share findings and check each other’s work.\nThe post",
-      "authors": [],
-      "tags": [
-        "agent"
+      "timestamp": "2026-11-17T19:00:00.000Z",
+      "abstract": "Experimentation teams must decide which proposed website changes to test with live traffic. We evaluated whether forecasts from simulated shoppers could inform that choice. We screened 412 historical",
+      "authors": [
+        "Rohith Pasula",
+        "Johari Dramiga",
+        "Viraj Shah",
+        "Suzan Halim",
+        "Tyler Dooskin"
       ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -27,37 +31,24 @@
       "points": 0
     },
     {
-      "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fbreaking",
-      "title": "BREAKING: Everything",
-      "url": "https://www.404media.co/breaking-everything/",
-      "source": "404 Media",
-      "sourceIcon": "📡",
-      "type": "news",
-      "timestamp": "2026-11-17T21:58:52.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fa-man-an",
-      "title": "A Man and His Muse AI Agent Sue Meta",
-      "url": "https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/",
-      "source": "404 Media",
-      "sourceIcon": "📡",
-      "type": "news",
-      "timestamp": "2026-11-17T19:41:33.000Z",
-      "abstract": "",
-      "authors": [],
+      "id": "hf_paper_2611.23875",
+      "title": "In Situ Training of Optical Neural Networks by Coding Agents",
+      "url": "https://huggingface.co/papers/2611.23875",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-17T19:00:00.000Z",
+      "abstract": "Optical neural networks promise fast, energy-efficient computing, but every device departs from its design and must be trained with the hardware. In situ training relies on an expert-built calibrated",
+      "authors": [
+        "Ilker Oguz",
+        "Colin Christian",
+        "Christophe Moser",
+        "Demetri Psaltis",
+        "Gordon Wetzstein"
+      ],
       "tags": [
-        "agent"
+        "agent",
+        "training"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -113,32 +104,6 @@
         "Sergey Zagoruyko"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.25005",
-      "title": "Inhabitant: An Agent Framework for Long-Horizon Human-Scene Interaction with Spatial Control and Quantitative Feedback",
-      "url": "https://huggingface.co/papers/2611.25005",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-17T19:00:00.000Z",
-      "abstract": "Recent work on human-scene interaction (HSI) generation moves from single interactions to long-horizon interaction, where a language-model agent plans and executes a sequence of interactions in a 3D s",
-      "authors": [
-        "Yao Zhang",
-        "Zhuchenyang Liu",
-        "Yu Xiao"
-      ],
-      "tags": [
-        "agent"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
