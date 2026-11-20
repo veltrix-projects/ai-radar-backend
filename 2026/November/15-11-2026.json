@@ -1,55 +1,27 @@
 {
-  "generatedAt": "2026-11-20T04:55:16.065Z",
+  "generatedAt": "2026-11-20T13:44:04.264Z",
   "date": "15-11-2026",
-  "count": 2,
+  "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2611.21373",
-      "title": "WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection",
-      "url": "https://huggingface.co/papers/2611.21373",
+      "id": "hf_paper_2611.20455",
+      "title": "Embeddings vs. Grep: Rethinking the Dense Advantage in Code Search",
+      "url": "https://huggingface.co/papers/2611.20455",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-15T19:00:00.000Z",
-      "abstract": "Recent advances in video generation call for reliable detection grounded in explicit forensic evidence. However, current methods primarily depend on single-pass chain-of-thought reasoning that overloo",
+      "abstract": "Code-search benchmarks show dense encoders well ahead of BM25, yet coding agents do well with grep. What does this dense advantage measure? Existing benchmarks cannot tell: they use curated queries, o",
       "authors": [
-        "Yipeng Du",
-        "Yuxi Li",
-        "Ying Zhang",
-        "Chong Sun",
-        "Chen Li"
+        "Siqiao Xue",
+        "Ziyin Zhang",
+        "Zihan Liao",
+        "Jin Qin",
+        "Yixiang Mu"
       ],
       "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.21553",
-      "title": "BLIP-Live: Balancing Timeliness & Firing Precision in Proactive Streaming Video Agents",
-      "url": "https://huggingface.co/papers/2611.21553",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-15T19:00:00.000Z",
-      "abstract": "Streaming video understanding is becoming increasingly important for real-world interactive systems. Such systems must be proactive for natural and useful human interaction: they should respond as soo",
-      "authors": [
-        "Kanchana Ranasinghe",
-        "Honglu Zhou",
-        "Dominick Reilly",
-        "Le Xue",
-        "Shusheng Yang"
-      ],
-      "tags": [
-        "agent"
+        "embeddings"
       ],
       "score": 6,
       "priority": "MEDIUM",

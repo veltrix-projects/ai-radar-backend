@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-20T04:55:16.063Z",
+  "generatedAt": "2026-11-20T13:44:04.262Z",
   "date": "17-11-2026",
-  "count": 14,
+  "count": 9,
   "summary": null,
   "items": [
     {
@@ -69,152 +69,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.24809",
-      "title": "On-Policy Morphing into Hybrid Attention Models",
-      "url": "https://huggingface.co/papers/2611.24809",
+      "id": "hf_paper_2611.25179",
+      "title": "Phantom Success, Silent Failure: Auditing the Success Checkers of Simulated Manipulation Benchmarks",
+      "url": "https://huggingface.co/papers/2611.25179",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-17T19:00:00.000Z",
-      "abstract": "Hybrid attention models combine full and linear attention to achieve a better quality--efficiency trade-off. Converting pretrained Transformers into such models requires identifying which layers shoul",
+      "abstract": "Simulated manipulation benchmarks measure policy performance using hand-written success checkers that label each episode as a success or failure. Passing an expert demonstration shows that a checker a",
       "authors": [
-        "Disen Lan",
-        "Xuanda Wang",
-        "Jianbin Zheng",
-        "Huafeng Kuang",
-        "Wei Tang"
-      ],
-      "tags": [
-        "phi"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.23835",
-      "title": "NarrowSpec: Draft Hidden Width Need Not Match the Target in Speculative Decoding",
-      "url": "https://huggingface.co/papers/2611.23835",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-17T19:00:00.000Z",
-      "abstract": "Speculative decoding is widely used to speed up generation in large language models (LLMs), with a small draft model proposing tokens that one forward pass of the target model verifies. Draft models t",
-      "authors": [
-        "Alagappan Valliappan",
-        "Ankit More",
-        "Dheevatsa Mudigere",
-        "Jatin Mitra"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.24844",
-      "title": "General progress substitutes for specific training data in language models",
-      "url": "https://huggingface.co/papers/2611.24844",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-17T19:00:00.000Z",
-      "abstract": "Language models acquire their capabilities from training data, and developers withhold data during training to keep models from learning capabilities that could be misused. How long this delays a capa",
-      "authors": [
-        "Mark Marosi",
-        "Peter Antal"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.24059",
-      "title": "Replay, Don't Resample: Off-Policy Consolidation of Long-Horizon RL Experts",
-      "url": "https://huggingface.co/papers/2611.24059",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-17T19:00:00.000Z",
-      "abstract": "Frontier post-training follows a common recipe: train one expert per domain with reinforcement learning (RL), then consolidate the experts into one model via multi-teacher on-policy distillation (MOPD",
-      "authors": [
-        "Zhenrui Yue",
-        "Gongxiaohui Chen",
-        "Huimin Zeng",
-        "Honglei Zhuang",
-        "Jiashuo Sun"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.24917",
-      "title": "Unified Law for Visual Tasks (The Four Laws of Computer Vision)",
-      "url": "https://huggingface.co/papers/2611.24917",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-17T19:00:00.000Z",
-      "abstract": "In this paper, we propose a Unified Law for Visual Tasks, which could be further divided into Four Laws of Computer Vision, with the goal of enabling a single framework or method to uniformly train on",
-      "authors": [
-        "Sen Fang",
-        "Yalin Feng",
-        "Yancheng Zhang",
-        "Yanxin Zhang",
-        "Zonglin Lyu"
-      ],
-      "tags": [
-        "computer vision"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.23779",
-      "title": "TabBioMed: A Large-Scale Benchmark for Biomedical Tabular Learning",
-      "url": "https://huggingface.co/papers/2611.23779",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-17T19:00:00.000Z",
-      "abstract": "Recent advances in machine learning have accelerated biomedical prediction, but evaluation on structured biomedical data remains fragmented, especially for datasets with high dimensionality, large sam",
-      "authors": [
-        "Pau Mateo-Bernadó",
-        "Saivenkata Nagavyjayanthi Polapragada",
-        "David Bonet",
-        "Pol Arbiol Rakuljic",
-        "Laia Mogas Pladevall"
+        "Zirui Song",
+        "Jiadong Zhang",
+        "Zheng Lu",
+        "Xiaosong Ma",
+        "Xiaojun Chang"
       ],
       "tags": [
         "benchmark"
@@ -229,20 +97,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.23994",
-      "title": "WaveView: The Novel View Is in the Noise",
-      "url": "https://huggingface.co/papers/2611.23994",
+      "id": "hf_paper_2611.25279",
+      "title": "Accord: Universal Online Metric Localization and Dense Mapping from one Camera and an IMU",
+      "url": "https://huggingface.co/papers/2611.25279",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-17T19:00:00.000Z",
-      "abstract": "Generative novel view synthesis (NVS) employs a diffusion model to render a static or dynamic scene from a target camera view. Explicit warp methods complete a reprojection of the source with video di",
+      "abstract": "Dense metric mapping from a single camera and IMU remains challenging: visual-inertial odometry (VIO) provides metric motion but sparse geometry, whereas feed-forward depth models predict dense struct",
       "authors": [
-        "Kaiwen Wang",
-        "Jan-Hendrik Pauls",
-        "Yinzhe Shen",
-        "Frank Bieder",
-        "Christoph Stiller"
+        "Jaafar Mahmoud",
+        "Arthur Movsesyan",
+        "Cuong Huynh",
+        "Mikhail Iumanov",
+        "Sergey Zagoruyko"
       ],
       "tags": [],
       "score": 6,
@@ -255,23 +123,21 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.24408",
-      "title": "StrideWorld: Benchmarking Scene Rigidity and Action Consistency in Interactive Video World Model",
-      "url": "https://huggingface.co/papers/2611.24408",
+      "id": "hf_paper_2611.25005",
+      "title": "Inhabitant: An Agent Framework for Long-Horizon Human-Scene Interaction with Spatial Control and Quantitative Feedback",
+      "url": "https://huggingface.co/papers/2611.25005",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-17T19:00:00.000Z",
-      "abstract": "Interactive video world models turn user commands into the exploration of a generated scene, which requires the scene to keep its 3D structure as the camera moves and each action to keep a stable effe",
+      "abstract": "Recent work on human-scene interaction (HSI) generation moves from single interactions to long-horizon interaction, where a language-model agent plans and executes a sequence of interactions in a 3D s",
       "authors": [
-        "Chuang Wang",
-        "Rui Nie",
-        "Jie Song",
-        "Junyuan Gao",
-        "Jiahe Song"
+        "Yao Zhang",
+        "Zhuchenyang Liu",
+        "Yu Xiao"
       ],
       "tags": [
-        "benchmark"
+        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
