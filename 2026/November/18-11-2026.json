@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T21:37:22.591Z",
+  "generatedAt": "2026-11-21T02:54:53.247Z",
   "date": "18-11-2026",
   "count": 24,
   "summary": null,
@@ -20,6 +20,60 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.26239",
+      "title": "Teaching Vision-Language-Action Models to Stop Safely",
+      "url": "https://huggingface.co/papers/2611.26239",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-18T19:00:00.000Z",
+      "abstract": "Vision-language-action (VLA) models enable robots to perform diverse tasks from visual observations and language instructions. While prior work has explored task suppression and refusal, stopping proh",
+      "authors": [
+        "Zheyuan Liu",
+        "Chuhan Wang",
+        "Jinduo Guo",
+        "Yue Huang",
+        "Xiangchi Yuan"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.25604",
+      "title": "PAD: Policy-Aware Data Valuation for Autonomous Driving",
+      "url": "https://huggingface.co/papers/2611.25604",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-18T19:00:00.000Z",
+      "abstract": "End-to-end autonomous driving increasingly depends on scaling training demonstrations, yet data growth does not guarantee proportional gains. However, additional data do not guarantee better policies:",
+      "authors": [
+        "Chengkai Xu",
+        "Yicheng Guo",
+        "Jiaqi Liu",
+        "Yiming Cui",
+        "Shiyu Fang"
+      ],
+      "tags": [
+        "autonomous"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -279,58 +333,6 @@
       "tags": [
         "llm"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.26617",
-      "title": "One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning",
-      "url": "https://huggingface.co/papers/2611.26617",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-18T19:00:00.000Z",
-      "abstract": "Videos reveal how the world changes, but rarely the actions that cause those changes. Latent action learning recovers such supervision from visual transitions, yet often learns the underlying dynamics",
-      "authors": [
-        "Yuxin Jiang",
-        "Wenqiang Sun",
-        "Jiaqi Li",
-        "Yuchao Gu",
-        "Lvmin Zhang"
-      ],
-      "tags": [
-        "transformer",
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.26590",
-      "title": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models",
-      "url": "https://huggingface.co/papers/2611.26590",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-18T19:00:00.000Z",
-      "abstract": "Vision-language models (VLMs) integrate visual and textual information, but their outputs do not reveal internal concept representations. Global workspace theory (GWT) proposes that information is sel",
-      "authors": [
-        "Jiahao Huang",
-        "Jun Wang"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
