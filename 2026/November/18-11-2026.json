@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T02:54:53.247Z",
+  "generatedAt": "2026-11-21T10:27:26.634Z",
   "date": "18-11-2026",
   "count": 24,
   "summary": null,
@@ -20,6 +20,32 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.26232",
+      "title": "Time Series Structure Learning with Local Causal Parent Discovery",
+      "url": "https://huggingface.co/papers/2611.26232",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-18T19:00:00.000Z",
+      "abstract": "Learning and inference on time series can pose significant statistical challenges, including autocorrelated observations, distribution shift over time, and the curse of dimensionality. These challenge",
+      "authors": [
+        "Jacqueline Maasch",
+        "Shu Wan",
+        "Hank Zhu",
+        "Huan Liu",
+        "Zhiguang Wang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -518,28 +544,6 @@
       "authors": [],
       "tags": [
         "gpt"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode",
-      "url": "https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-11-18T07:10:53.000Z",
-      "abstract": "SID AI released SID-2, an agentic search model trained with reinforcement learning. A single agent reaches 0.585 NDCG in 3.11 seconds, and a 12-agent SID-2 Swarm scores 0.720 NDCG, above GPT-6 Astra o",
-      "authors": [],
-      "tags": [
-        "agent"
       ],
       "score": 8,
       "priority": "HIGH",
