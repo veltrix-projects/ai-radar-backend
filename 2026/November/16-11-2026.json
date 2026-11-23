@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-22T23:41:26.198Z",
+  "generatedAt": "2026-11-23T04:48:21.405Z",
   "date": "16-11-2026",
-  "count": 6,
+  "count": 7,
   "summary": null,
   "items": [
     {
@@ -15,6 +15,34 @@
       "abstract": "Molecular dynamics (MD) is an indispensable tool across physics, chemistry, biology, and materials science. Owing to its arithmetic structure, particularly the...]]>",
       "authors": [],
       "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.22343",
+      "title": "PURE: A Diagnostic Benchmark for Multi-Granularity Multimodal Identity Matching",
+      "url": "https://huggingface.co/papers/2611.22343",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-16T19:00:00.000Z",
+      "abstract": "Identity matching asks whether two records denote the same identity, yet the answer depends on the target granularity. Two records may match at the base level but not at the variant level: they share",
+      "authors": [
+        "Hengyu You",
+        "Xintong Wang",
+        "Jin Cao",
+        "Liang Ding"
+      ],
+      "tags": [
+        "multimodal",
+        "benchmark"
+      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
