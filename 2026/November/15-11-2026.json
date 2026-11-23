@@ -1,50 +1,27 @@
 {
-  "generatedAt": "2026-11-23T04:48:21.405Z",
+  "generatedAt": "2026-11-23T15:31:15.797Z",
   "date": "15-11-2026",
-  "count": 2,
+  "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2611.21885",
-      "title": "Language Models Can Rewrite Their Own Weights",
-      "url": "https://huggingface.co/papers/2611.21885",
+      "id": "hf_paper_2611.21485",
+      "title": "Lost in the Hallway: Benchmarking Persistent Spatial Memory Across Revisits",
+      "url": "https://huggingface.co/papers/2611.21485",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-15T19:00:00.000Z",
-      "abstract": "Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt, a scaffold or extra computation at inference is gone once the task ends. A frontier",
+      "abstract": "Persistent spatial understanding is essential for embodied agents to operate reliably in environments they repeatedly encounter. It requires recognizing revisited places despite viewpoint changes, dis",
       "authors": [
-        "Jiajun Fan",
-        "Neil He",
-        "Changyi Yang",
-        "Andy Mao",
-        "Xi Zhu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.21053",
-      "title": "System 1 agents: a method for local, reliable and fast agentic AI",
-      "url": "https://huggingface.co/papers/2611.21053",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-15T19:00:00.000Z",
-      "abstract": "Agentic artificial intelligence could automate analyses of sensitive clinical data, but current agents depend on large language models (LLMs). Cloud LLMs expose patient data. Local LLMs hallucinate, a",
-      "authors": [
-        "Eleftherios Tzanis",
-        "Michail E. Klontzas"
+        "Henry Zheng",
+        "Weibo Gong",
+        "Yang Yue",
+        "Rui Huang",
+        "Yang Zhang"
       ],
       "tags": [
-        "agent"
+        "benchmark"
       ],
       "score": 6,
       "priority": "MEDIUM",

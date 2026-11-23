@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-23T04:48:21.336Z",
+  "generatedAt": "2026-11-23T15:31:15.786Z",
   "date": "18-11-2026",
-  "count": 20,
+  "count": 12,
   "summary": null,
   "items": [
     {
@@ -20,6 +20,60 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.26613",
+      "title": "AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control",
+      "url": "https://huggingface.co/papers/2611.26613",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-18T19:00:00.000Z",
+      "abstract": "Frontier multimodal language agents such as GPT-6 Astra have demonstrated strong capabilities in controlling robots directly via low-level numerical actions without high-level primitives. However, exi",
+      "authors": [
+        "Yiyang Du",
+        "Yuxuan Kuang",
+        "Qitao Zhao",
+        "Yixuan Wang",
+        "Zhanqiu Guo"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.25773",
+      "title": "Duopra: From Full-Duplex Conversation to Full-Duplex Agency",
+      "url": "https://huggingface.co/papers/2611.25773",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-18T19:00:00.000Z",
+      "abstract": "Full-duplex interaction models exhibit strong conversational agency, enabling natural, low-latency turn-taking, backchannels, and interruptions. However, completing tasks further requires task agency:",
+      "authors": [
+        "Chiyu Chen",
+        "Pengzhou Cheng",
+        "Yuezhao Ma",
+        "Xiaocheng Li",
+        "Can Liu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -67,268 +121,6 @@
         "Jinduo Guo",
         "Yue Huang",
         "Xiangchi Yuan"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.25604",
-      "title": "PAD: Policy-Aware Data Valuation for Autonomous Driving",
-      "url": "https://huggingface.co/papers/2611.25604",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-18T19:00:00.000Z",
-      "abstract": "End-to-end autonomous driving increasingly depends on scaling training demonstrations, yet data growth does not guarantee proportional gains. However, additional data do not guarantee better policies:",
-      "authors": [
-        "Chengkai Xu",
-        "Yicheng Guo",
-        "Jiaqi Liu",
-        "Yiming Cui",
-        "Shiyu Fang"
-      ],
-      "tags": [
-        "autonomous"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.26627",
-      "title": "RL Post-Training in Diffusion Transformers Is Activation Steering",
-      "url": "https://huggingface.co/papers/2611.26627",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-18T19:00:00.000Z",
-      "abstract": "Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering reques",
-      "authors": [
-        "Tuna Han Salih Meral",
-        "Kaan Oktay",
-        "Alec Helbling",
-        "Atakan Kara",
-        "Duen Horng Chau"
-      ],
-      "tags": [
-        "transformer",
-        "diffusion",
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.25567",
-      "title": "Online Mistake Detection in Instruction-Conditioned Procedural Video",
-      "url": "https://huggingface.co/papers/2611.25567",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-18T19:00:00.000Z",
-      "abstract": "An assistant monitoring a person performing a procedure is most useful when it can detect mistakes while there is still time to recover. This requires judging actions against task instructions as the",
-      "authors": [
-        "Amit Feldman",
-        "Ilan Shimshoni",
-        "Rotem Dror"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.26540",
-      "title": "AURA: AUdio-dRiven streaming Avatar",
-      "url": "https://huggingface.co/papers/2611.26540",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-18T19:00:00.000Z",
-      "abstract": "Current audio-driven video diffusion models can synthesize realistic talking-head videos but generally require dozens of diffusion denoising steps over multi-second video chunks, making them unsuitabl",
-      "authors": [
-        "Nathaniel Cohen",
-        "Nicolas Dufour",
-        "Amélie Royer",
-        "Alasdair Newson",
-        "Patrick Pérez"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.26211",
-      "title": "SpecWM: Turning Verification into Refinement for Streaming World Models",
-      "url": "https://huggingface.co/papers/2611.26211",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-18T19:00:00.000Z",
-      "abstract": "Recently, video world models have advanced interactive generation, with large models offering higher quality and smaller models enabling faster inference. Existing speculative methods combine their st",
-      "authors": [
-        "Jiaming Li",
-        "Lingzhen Li",
-        "Xiaze Yang",
-        "Chenyu Zhu",
-        "Kaiqi Liu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.26511",
-      "title": "Direct3D-V3: Latent-Free Diffusion Transformers in the Native Voxel Domain",
-      "url": "https://huggingface.co/papers/2611.26511",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-18T19:00:00.000Z",
-      "abstract": "Native 3D generation has largely been built around latent diffusion, with recent advances concentrating on stronger variational autoencoders (VAE) and increasingly elaborate latent representations, fr",
-      "authors": [
-        "Shuang Wu",
-        "Jiachen Qian",
-        "Youtian Lin",
-        "Feihu Zhang",
-        "Philip Torr"
-      ],
-      "tags": [
-        "transformer",
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.26450",
-      "title": "A CPU Inside an LLM: Zero-Gradient Compilation of Exact Circuits into Pretrained Weights",
-      "url": "https://huggingface.co/papers/2611.26450",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-18T19:00:00.000Z",
-      "abstract": "Pretrained language models (LMs) remain unreliable on exact multi-digit arithmetic without gradient fine-tuning or external tool interpreters. We introduce closed-form, zero-gradient circuit-grafting",
-      "authors": [
-        "Tanmay Sah"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.26286",
-      "title": "Twice-Told Critiques: Claim-Level Homogenization of Peer Review in the LLM Era",
-      "url": "https://huggingface.co/papers/2611.26286",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-18T19:00:00.000Z",
-      "abstract": "Peer review relies on several readers finding different problems. We measure critique overlap in conference and journal reviews. At ICLR, measured overlap rose from 12.0% in 2026 to 21.3% in 2027, in",
-      "authors": [
-        "Ilya Gusev"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.26408",
-      "title": "Training Vision Models for LLM-Driven Weight-Space Programming",
-      "url": "https://huggingface.co/papers/2611.26408",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-18T19:00:00.000Z",
-      "abstract": "It has been demonstrated that, in certain settings, large language models can perform weight-space programming to directly modify the weights of neural networks. However, it is unknown how dedicated t",
-      "authors": [
-        "Timo Ropinski",
-        "Sebastian Kranz"
-      ],
-      "tags": [
-        "llm",
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.25935",
-      "title": "TwinD: Generalizing Deepfake Detection from Blending to Entire Face Synthesis",
-      "url": "https://huggingface.co/papers/2611.25935",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-18T19:00:00.000Z",
-      "abstract": "Facial deepfake detectors are usually trained on blending fakes, where a generated face is pasted back into a real frame. Recent generators synthesize the entire face and leave no traces of blending.",
-      "authors": [
-        "Andrii Yermakov",
-        "Jan Cech",
-        "Mario Fritz",
-        "Jiri Matas"
       ],
       "tags": [],
       "score": 6,

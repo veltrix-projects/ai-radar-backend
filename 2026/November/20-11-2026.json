@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-23T04:48:21.333Z",
+  "generatedAt": "2026-11-23T15:31:15.687Z",
   "date": "20-11-2026",
-  "count": 35,
+  "count": 45,
   "summary": null,
   "items": [
     {
@@ -351,6 +351,137 @@
       "points": 0
     },
     {
+      "id": "arxiv_2611.27983v1",
+      "title": "Optimal Linear Regression Without a Variance",
+      "url": "https://arxiv.org/abs/2611.27983v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-11-20T18:58:45Z",
+      "abstract": "We study high-probability linear regression in the infinite variance regime, wherecthe regression noise has only a finite conditional $α$-moment $ν$ for some unknown $α\\in(1,2)$, and the covariates ma",
+      "authors": [
+        "Artin Tajdini",
+        "Jasper C. H. Lee",
+        "Jonathan Scarlett",
+        "Kevin Jamieson"
+      ],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2602.04417v3",
+      "title": "EMA Policy Gradient: Taming Reinforcement Learning for LLMs with EMA Anchor and Top-k KL",
+      "url": "https://arxiv.org/abs/2602.04417v3",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-11-20T18:57:23Z",
+      "abstract": "Reinforcement Learning (RL) has enabled Large Language Models (LLMs) to acquire increasingly complex reasoning and agentic behaviors. In this work, we propose two simple techniques to improve policy g",
+      "authors": [
+        "Lunjun Zhang",
+        "Jimmy Ba"
+      ],
+      "tags": [
+        "llm",
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2611.27978v1",
+      "title": "A Methodologically Rigorous Benchmark of Linear Regression,RNN, and LSTM for S&amp;P 500 Forecasting:Identifying Sources of Performance Inflation in Financial DeepLearning",
+      "url": "https://arxiv.org/abs/2611.27978v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-11-20T18:57:15Z",
+      "abstract": "This study examines one-day-ahead forecasting of the S&amp;P 500 closing level using a 2006-2025 dataset that includes fundamental price data, macroeconomic indicators, and engineered technical featur",
+      "authors": [
+        "Hari Sitaula",
+        "Joseph Opitz"
+      ],
+      "tags": [
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2605.08144v3",
+      "title": "NoiseRater: Meta-Learned Noise Valuation for Diffusion Model Training",
+      "url": "https://arxiv.org/abs/2605.08144v3",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-11-20T18:51:45Z",
+      "abstract": "Training a diffusion model involves two sources of randomness for each data sample: the timestep and the Gaussian noise realization. The timestep has been studied extensively through scheduling and we",
+      "authors": [
+        "Haokai Zhao",
+        "Da Xing",
+        "Hanqun Cao",
+        "Tinson Xu",
+        "Xinyu Xiang"
+      ],
+      "tags": [
+        "diffusion",
+        "training"
+      ],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2611.27970v1",
+      "title": "On the Complete Feature Set for ADHD Classification in Children and Adolescents Based on EEG Signals",
+      "url": "https://arxiv.org/abs/2611.27970v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-11-20T18:51:08Z",
+      "abstract": "Attention-deficit/hyperactivity disorder is a neurodevelopmental condition that can affect attention, activity and impulse control. Electroencephalography (EEG) records brain activity as children and",
+      "authors": [
+        "Javier Sanchis",
+        "Álvaro Navarro",
+        "Jorge García-Carrasco",
+        "Tahar Kechadi",
+        "Juan Trujillo"
+      ],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fpolicy%",
       "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
       "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
@@ -363,6 +494,212 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2609.38721v2",
+      "title": "UniEvo-VL: An On-policy Self-Distillation Training Recipe for Multimodal Model Self-improvement",
+      "url": "https://arxiv.org/abs/2609.38721v2",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-11-20T18:48:38Z",
+      "abstract": "Modern multimodal models bring generation and understanding into a single unified system, which enables them to provide and learn from their own feedback. Motivated by this unified capacity, we introd",
+      "authors": [
+        "Fang Wu",
+        "Da Xing",
+        "Ji Wang",
+        "Yanjie Huang",
+        "Junxi Wang"
+      ],
+      "tags": [
+        "multimodal",
+        "training"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2611.19050v2",
+      "title": "SPARC: Evidence-guided adaptive model composition for materials discovery",
+      "url": "https://arxiv.org/abs/2611.19050v2",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-11-20T18:48:04Z",
+      "abstract": "Closed-loop experimentation requires more than selecting the next experiment. It must also determine which existing measurements and model-derived relationships are sufficiently supported to influence",
+      "authors": [
+        "Sissi Feng",
+        "Yuchen Han",
+        "Runze Zhang",
+        "Jiaru Bai",
+        "Yixi Li"
+      ],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2611.27962v1",
+      "title": "Model Carving: Training Transformers That Optimize Their Own Topology",
+      "url": "https://arxiv.org/abs/2611.27962v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-11-20T18:41:39Z",
+      "abstract": "Machine learning has largely kept separate the choice of architecture and the process of training. A classic Transformer, for instance, trains a fixed set of attention and MLP sublayers at every layer",
+      "authors": [
+        "Kaden Zheng",
+        "Pratyusha Sharma"
+      ],
+      "tags": [
+        "transformer",
+        "training"
+      ],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2611.27959v1",
+      "title": "Ranking-Preserving Coreset Selection for Efficient Evolutionary Hyperparameter Optimization",
+      "url": "https://arxiv.org/abs/2611.27959v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-11-20T18:35:28Z",
+      "abstract": "Hyperparameter optimization (HPO) is essential for high predictive performance, but its computational cost becomes prohibitive when candidate configurations require repeated training on large datasets",
+      "authors": [
+        "Mamoona Tasadduq",
+        "Maryam Bashir"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2609.40195v2",
+      "title": "MemLife: Curating and Reasoning over Long-Term Egocentric Video Memories",
+      "url": "https://arxiv.org/abs/2609.40195v2",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-11-20T18:34:41Z",
+      "abstract": "Long-term egocentric video enables personalized AI assistants to reason about daily life. However, as video histories grow to hundreds of hours spanning months or years, reprocessing raw clips for eve",
+      "authors": [
+        "Guangzhi Xiong",
+        "Xinyuan Zhang",
+        "Xiao Yang",
+        "Hyokun Yun",
+        "Kai Zhang"
+      ],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2606.19566v2",
+      "title": "What Graph Unlearning Cannot Erase: Physics-Induced Leakage of Cyberattack Information in Electric Vehicle Charging Networks",
+      "url": "https://arxiv.org/abs/2606.19566v2",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-11-20T18:34:22Z",
+      "abstract": "Electric vehicle charging stations (EVCSs) can expose distribution feeders to cyberattacks. While machine learning methods, including graph neural networks (GNNs), can localize which bus is compromise",
+      "authors": [
+        "Nanhong Liu",
+        "Mucun Sun",
+        "Jie Zhang"
+      ],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2611.20794v4",
+      "title": "Regularizing Treatment Leakage for LLM-based Uplift Estimation",
+      "url": "https://arxiv.org/abs/2611.20794v4",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-11-20T18:29:05Z",
+      "abstract": "Large language models (LLMs) provide semantic features for uplift estimation, but treatment-revealing text can induce prediction shortcuts that do not transfer to deployment. We propose LLM-based Upli",
+      "authors": [
+        "Bojing Feng",
+        "Jinqiu Deng",
+        "Zihan Hong",
+        "Yuan Xue",
+        "Wenqi Xiang"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2609.30186v2",
+      "title": "ScopeAct: Scoping Decision Models for Reliable Multi-Step Execution in Mobile GUI Agents",
+      "url": "https://arxiv.org/abs/2609.30186v2",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-11-20T18:26:43Z",
+      "abstract": "Vision-language models (VLMs) enable mobile GUI agents to execute complex tasks, but frequent VLM invocations incur substantial latency and API costs. Prior work mitigates this overhead by delegating",
+      "authors": [
+        "Linghua Zhang"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -426,29 +763,6 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only",
-      "url": "https://www.marktechpost.com/2026/11/20/radixark-daisyrose-27b-agentic-model/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-11-20T17:42:29.000Z",
-      "abstract": "RadixArk released DaisyRose-27B, an Apache 2.0 agentic coding model post-trained from Qwen3.8-27B with reinforcement learning only. It more than doubles Terminal Bench 4.1 pass@1 to 12.0 and runs on a",
-      "authors": [],
-      "tags": [
-        "agent",
-        "reinforcement learning"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -538,28 +852,6 @@
       "points": 0
     },
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B",
-      "url": "https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-11-20T14:44:52.000Z",
-      "abstract": "NVIDIA released Nemotron-Labs-Sigma, 14 open 3B and 8B continuous diffusion language model checkpoints. Sigma denoises text in a learned 16-D embedding space, distills to few-step samplers, and decode",
-      "authors": [],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fpodcast",
       "title": "The week everything fell apart",
       "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
@@ -580,20 +872,24 @@
       "points": 0
     },
     {
-      "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fai-arti",
-      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-      "source": "The Verge AI",
-      "sourceIcon": "🔺",
-      "type": "news",
-      "timestamp": "2026-11-20T12:30:47.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "gemini"
+      "id": "hf_paper_2611.27915",
+      "title": "StereoVLM: Binocular Vision-Language Models for Metric 3D Spatial Reasoning",
+      "url": "https://huggingface.co/papers/2611.27915",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-20T12:52:02.000Z",
+      "abstract": "Vision-language models (VLMs) exhibit strong semantic understanding but remain limited in their ability to reason about metric 3D space in the physical world. Existing VLMs typically infer 3D scene st",
+      "authors": [
+        "Chi Yan",
+        "Guoyang Zhao",
+        "Wentao Yuan",
+        "Yixiao Ge",
+        "Yanning Zhou"
       ],
-      "score": 4,
-      "priority": "LOW",
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -618,36 +914,6 @@
       "downloads": 0,
       "likes": 0,
       "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "gh_1136590548",
-      "title": "affaan-m/ECC — The agent harness performance optimization system. Skills, instincts, memory, security, and research",
-      "url": "https://github.com/affaan-m/ECC",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-11-20T01:13:45Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "ai-agents",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "developer-tools",
-        "llm",
-        "mcp",
-        "productivity",
-        "JavaScript"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 309073,
       "votes": 0,
       "points": 0
     },

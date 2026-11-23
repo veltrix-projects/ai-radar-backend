@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-23T04:48:21.405Z",
+  "generatedAt": "2026-11-23T15:31:15.797Z",
   "date": "16-11-2026",
-  "count": 7,
+  "count": 9,
   "summary": null,
   "items": [
     {
@@ -18,6 +18,55 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.22479",
+      "title": "Exploited Before It Was Fixed? Vulnerability Timelines from Open, Machine-Readable Evidence",
+      "url": "https://huggingface.co/papers/2611.22479",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-16T19:00:00.000Z",
+      "abstract": "-05-X-03), Known Exploited Vulnerabilities (KEV) catalogs, and exploitation sightings.\n  We introduce an evidence model implemented in Vulnerability-Lookup that selects the earliest evidence for each",
+      "authors": [
+        "Cédric Bonhomme",
+        "Alexandre Dulaunoy"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.22495",
+      "title": "Motion-Aware Reward Modeling for Instruction-Guided Video Editing",
+      "url": "https://huggingface.co/papers/2611.22495",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-16T19:00:00.000Z",
+      "abstract": "Reward models for instruction-guided video editing can favor temporal consistency at the expense of motion. We study this failure, termed motion collapse, using controlled motion-suppression variants",
+      "authors": [
+        "Li Li",
+        "Xiangbo Gao",
+        "Bo Ni",
+        "Samyadeep Basu",
+        "Viet Dac Lai"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

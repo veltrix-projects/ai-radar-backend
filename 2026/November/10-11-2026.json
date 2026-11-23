@@ -1,24 +1,23 @@
 {
-  "generatedAt": "2026-11-23T04:48:21.408Z",
+  "generatedAt": "2026-11-23T15:31:15.799Z",
   "date": "10-11-2026",
   "count": 4,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2611.15941",
-      "title": "Lang-SVG: Hierarchical Image Vectorization with Language Priors",
-      "url": "https://huggingface.co/papers/2611.15941",
+      "id": "hf_paper_2611.15449",
+      "title": "Reading the Unreadable: Text-Aware Image Super-Resolution Needs Reasoning",
+      "url": "https://huggingface.co/papers/2611.15449",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-10T19:00:00.000Z",
-      "abstract": "Image vectorization reconstructs raster images as compact scalable vector graph- ics (SVG), providing a structured and editable code representation of images. However, most existing vectorization meth",
+      "abstract": "Text-aware image super-resolution (TAISR) aims to recover high-resolution images from low-resolution inputs while preserving textual content. Existing methods treat this as a visual restoration proble",
       "authors": [
-        "Xi Liu",
-        "Chaoyi Zhou",
-        "Run Wang",
-        "Jiaang Li",
-        "Feng Luo"
+        "Jaeseong Lee",
+        "Jinwoo Kim",
+        "Jinho Jeong",
+        "Seon Joo Kim"
       ],
       "tags": [],
       "score": 6,
