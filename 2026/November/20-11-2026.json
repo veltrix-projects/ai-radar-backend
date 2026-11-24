@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-24T02:40:38.226Z",
+  "generatedAt": "2026-11-24T13:04:38.550Z",
   "date": "20-11-2026",
-  "count": 30,
+  "count": 14,
   "summary": null,
   "items": [
     {
@@ -69,28 +69,6 @@
       "points": 0
     },
     {
-      "id": "siliconangle_ai_https%3A%2F%2Fsiliconangle.com%2F2026%2F",
-      "title": "Anthropic researcher claims to have proven Riemann hypothesis using Claude",
-      "url": "https://siliconangle.com/2026/11/20/anthropic-researcher-claims-to-have-proven-riemann-hypothesis-using-claude/",
-      "source": "SiliconANGLE AI",
-      "sourceIcon": "📐",
-      "type": "news",
-      "timestamp": "2026-11-20T21:28:11.000Z",
-      "abstract": "An Anthropic PBC researcher claims to have used Claude to prove the Riemann hypothesis, which is widely considered to be the most important open question in mathematics. Levent Alpöge announced his di",
-      "authors": [],
-      "tags": [
-        "claude"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
       "title": "How Standard Bank Group automates AI risk assessment for generative AI",
       "url": "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/",
@@ -151,329 +129,19 @@
       "points": 0
     },
     {
-      "id": "arxiv_2611.27983v1",
-      "title": "Optimal Linear Regression Without a Variance",
-      "url": "https://arxiv.org/abs/2611.27983v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
+      "id": "hf_paper_2611.28618",
+      "title": "Distilling Visual Agents from Limited Interaction Experience",
+      "url": "https://huggingface.co/papers/2611.28618",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-11-20T18:58:45Z",
-      "abstract": "We study high-probability linear regression in the infinite variance regime, wherecthe regression noise has only a finite conditional $α$-moment $ν$ for some unknown $α\\in(1,2)$, and the covariates ma",
+      "timestamp": "2026-11-20T19:00:00.000Z",
+      "abstract": "How much interaction experience is needed to distill a capable visual agent? We study learning from few tasks and recorded interaction histories. Our framework selects representative trajectories usin",
       "authors": [
-        "Artin Tajdini",
-        "Jasper C. H. Lee",
-        "Jonathan Scarlett",
-        "Kevin Jamieson"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2602.04417v3",
-      "title": "EMA Policy Gradient: Taming Reinforcement Learning for LLMs with EMA Anchor and Top-k KL",
-      "url": "https://arxiv.org/abs/2602.04417v3",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-11-20T18:57:23Z",
-      "abstract": "Reinforcement Learning (RL) has enabled Large Language Models (LLMs) to acquire increasingly complex reasoning and agentic behaviors. In this work, we propose two simple techniques to improve policy g",
-      "authors": [
-        "Lunjun Zhang",
-        "Jimmy Ba"
-      ],
-      "tags": [
-        "llm",
-        "reinforcement learning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2611.27978v1",
-      "title": "A Methodologically Rigorous Benchmark of Linear Regression,RNN, and LSTM for S&amp;P 500 Forecasting:Identifying Sources of Performance Inflation in Financial DeepLearning",
-      "url": "https://arxiv.org/abs/2611.27978v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-11-20T18:57:15Z",
-      "abstract": "This study examines one-day-ahead forecasting of the S&amp;P 500 closing level using a 2006-2025 dataset that includes fundamental price data, macroeconomic indicators, and engineered technical featur",
-      "authors": [
-        "Hari Sitaula",
-        "Joseph Opitz"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2605.08144v3",
-      "title": "NoiseRater: Meta-Learned Noise Valuation for Diffusion Model Training",
-      "url": "https://arxiv.org/abs/2605.08144v3",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-11-20T18:51:45Z",
-      "abstract": "Training a diffusion model involves two sources of randomness for each data sample: the timestep and the Gaussian noise realization. The timestep has been studied extensively through scheduling and we",
-      "authors": [
-        "Haokai Zhao",
-        "Da Xing",
-        "Hanqun Cao",
-        "Tinson Xu",
-        "Xinyu Xiang"
-      ],
-      "tags": [
-        "diffusion",
-        "training"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2611.27970v1",
-      "title": "On the Complete Feature Set for ADHD Classification in Children and Adolescents Based on EEG Signals",
-      "url": "https://arxiv.org/abs/2611.27970v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-11-20T18:51:08Z",
-      "abstract": "Attention-deficit/hyperactivity disorder is a neurodevelopmental condition that can affect attention, activity and impulse control. Electroencephalography (EEG) records brain activity as children and",
-      "authors": [
-        "Javier Sanchis",
-        "Álvaro Navarro",
-        "Jorge García-Carrasco",
-        "Tahar Kechadi",
-        "Juan Trujillo"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2609.38721v2",
-      "title": "UniEvo-VL: An On-policy Self-Distillation Training Recipe for Multimodal Model Self-improvement",
-      "url": "https://arxiv.org/abs/2609.38721v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-11-20T18:48:38Z",
-      "abstract": "Modern multimodal models bring generation and understanding into a single unified system, which enables them to provide and learn from their own feedback. Motivated by this unified capacity, we introd",
-      "authors": [
-        "Fang Wu",
-        "Da Xing",
-        "Ji Wang",
-        "Yanjie Huang",
-        "Junxi Wang"
-      ],
-      "tags": [
-        "multimodal",
-        "training"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2611.19050v2",
-      "title": "SPARC: Evidence-guided adaptive model composition for materials discovery",
-      "url": "https://arxiv.org/abs/2611.19050v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-11-20T18:48:04Z",
-      "abstract": "Closed-loop experimentation requires more than selecting the next experiment. It must also determine which existing measurements and model-derived relationships are sufficiently supported to influence",
-      "authors": [
-        "Sissi Feng",
-        "Yuchen Han",
-        "Runze Zhang",
-        "Jiaru Bai",
-        "Yixi Li"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2611.27962v1",
-      "title": "Model Carving: Training Transformers That Optimize Their Own Topology",
-      "url": "https://arxiv.org/abs/2611.27962v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-11-20T18:41:39Z",
-      "abstract": "Machine learning has largely kept separate the choice of architecture and the process of training. A classic Transformer, for instance, trains a fixed set of attention and MLP sublayers at every layer",
-      "authors": [
-        "Kaden Zheng",
-        "Pratyusha Sharma"
-      ],
-      "tags": [
-        "transformer",
-        "training"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2611.27959v1",
-      "title": "Ranking-Preserving Coreset Selection for Efficient Evolutionary Hyperparameter Optimization",
-      "url": "https://arxiv.org/abs/2611.27959v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-11-20T18:35:28Z",
-      "abstract": "Hyperparameter optimization (HPO) is essential for high predictive performance, but its computational cost becomes prohibitive when candidate configurations require repeated training on large datasets",
-      "authors": [
-        "Mamoona Tasadduq",
-        "Maryam Bashir"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2609.40195v2",
-      "title": "MemLife: Curating and Reasoning over Long-Term Egocentric Video Memories",
-      "url": "https://arxiv.org/abs/2609.40195v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-11-20T18:34:41Z",
-      "abstract": "Long-term egocentric video enables personalized AI assistants to reason about daily life. However, as video histories grow to hundreds of hours spanning months or years, reprocessing raw clips for eve",
-      "authors": [
-        "Guangzhi Xiong",
-        "Xinyuan Zhang",
-        "Xiao Yang",
-        "Hyokun Yun",
-        "Kai Zhang"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2606.19566v2",
-      "title": "What Graph Unlearning Cannot Erase: Physics-Induced Leakage of Cyberattack Information in Electric Vehicle Charging Networks",
-      "url": "https://arxiv.org/abs/2606.19566v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-11-20T18:34:22Z",
-      "abstract": "Electric vehicle charging stations (EVCSs) can expose distribution feeders to cyberattacks. While machine learning methods, including graph neural networks (GNNs), can localize which bus is compromise",
-      "authors": [
-        "Nanhong Liu",
-        "Mucun Sun",
-        "Jie Zhang"
-      ],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2611.20794v4",
-      "title": "Regularizing Treatment Leakage for LLM-based Uplift Estimation",
-      "url": "https://arxiv.org/abs/2611.20794v4",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-11-20T18:29:05Z",
-      "abstract": "Large language models (LLMs) provide semantic features for uplift estimation, but treatment-revealing text can induce prediction shortcuts that do not transfer to deployment. We propose LLM-based Upli",
-      "authors": [
-        "Bojing Feng",
-        "Jinqiu Deng",
-        "Zihan Hong",
-        "Yuan Xue",
-        "Wenqi Xiang"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2609.30186v2",
-      "title": "ScopeAct: Scoping Decision Models for Reliable Multi-Step Execution in Mobile GUI Agents",
-      "url": "https://arxiv.org/abs/2609.30186v2",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-11-20T18:26:43Z",
-      "abstract": "Vision-language models (VLMs) enable mobile GUI agents to execute complex tasks, but frequent VLM invocations incur substantial latency and API costs. Prior work mitigates this overhead by delegating",
-      "authors": [
-        "Linghua Zhang"
+        "Siyu Zhou",
+        "Jing Jiang",
+        "Chengqi Zhang",
+        "Guodong Long"
       ],
       "tags": [
         "agent"
@@ -548,32 +216,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.27915",
-      "title": "StereoVLM: Binocular Vision-Language Models for Metric 3D Spatial Reasoning",
-      "url": "https://huggingface.co/papers/2611.27915",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-20T12:52:02.000Z",
-      "abstract": "Vision-language models (VLMs) exhibit strong semantic understanding but remain limited in their ability to reason about metric 3D space in the physical world. Existing VLMs typically infer 3D scene st",
-      "authors": [
-        "Chi Yan",
-        "Guoyang Zhao",
-        "Wentao Yuan",
-        "Yixiao Ge",
-        "Yanning Zhou"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fcomba",
       "title": "Combatting adversarial distillation",
       "url": "https://openai.com/index/combatting-adversarial-distillation",
@@ -587,32 +229,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.27398",
-      "title": "Taking Apart and Putting Together: Tracking Objects Through Physical Transformations",
-      "url": "https://huggingface.co/papers/2611.27398",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-20T05:03:29.000Z",
-      "abstract": "We introduce Transformation Tracking and Understanding (TTU), extending video object tracking to environments where objects undergo physical assemblies and disassemblies. TTU requires continuously tra",
-      "authors": [
-        "Davide Gardenal",
-        "Mingxuan Liu",
-        "Flavio Vella",
-        "Quentin Guimard",
-        "Elisa Ricci"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -635,26 +251,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Use Kimi Code CLI with models on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-11-20T00:33:30.000Z",
-      "abstract": "Kimi Code CLI v2.7.0 adds a native Amazon Bedrock provider, so you can connect the open source coding agent to models like Kimi K3.1 Pro using your standard AWS credential chain (named profiles or SSO",
-      "authors": [],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

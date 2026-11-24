@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T02:40:38.225Z",
+  "generatedAt": "2026-11-24T13:04:38.549Z",
   "date": "21-11-2026",
   "count": 9,
   "summary": null,
@@ -25,6 +25,88 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2611.29361",
+      "title": "Beyond Attention Maps: Understanding and Improving Medical MLLMs via Visual Values",
+      "url": "https://huggingface.co/papers/2611.29361",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-21T19:00:00.000Z",
+      "abstract": "Current MLLM methods largely focus on whether models attend to the right visual regions, implicitly treating spatial attention map as the primary key of effective visual perception. To examine this as",
+      "authors": [
+        "Yichen Zhao",
+        "Fenghe Tang",
+        "Wenxin Ma",
+        "Rongsheng Wang",
+        "Zihao Wan"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.29238",
+      "title": "GameAnything: From Any Inspirations to Playable Game Worlds",
+      "url": "https://huggingface.co/papers/2611.29238",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-21T19:00:00.000Z",
+      "abstract": "AI-driven game development holds the potential to transform diverse human inspirations into interactive experiences. However, existing systems and benchmarks primarily focus on explicit development sp",
+      "authors": [
+        "Wenyi Wu",
+        "Siqi Liu",
+        "Yuru Feng",
+        "Zixuan Song",
+        "Aayush Salvi"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.29338",
+      "title": "A Glimpse of Training VLMs as Foundation Models for Robotic Manipulation",
+      "url": "https://huggingface.co/papers/2611.29338",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-21T19:00:00.000Z",
+      "abstract": "Recently, GPT-6 Astra demonstrates strong generalization in robot control, yet limited disclosure of its training leaves open how such capabilities can be reproduced. We introduce nanoAstra, an approa",
+      "authors": [
+        "Meng-Hao Guo",
+        "Yi Zhang",
+        "Zhe-Han Mo",
+        "Han-Zheng Wang",
+        "Jia-Jun Wang"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "siliconangle_ai_https%3A%2F%2Fsiliconangle.com%2F2026%2F",
       "title": "Inference now drives two-thirds of AI workloads, changing where chips get deployed",
       "url": "https://siliconangle.com/2026/11/21/inference-two-thirds-ai-workloads-chip-deployment-positron-sc26/",
@@ -37,26 +119,6 @@
       "tags": [
         "inference"
       ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "siliconangle_ai_https%3A%2F%2Fsiliconangle.com%2F2026%2F",
-      "title": "Sovereign AI: Where control becomes an architectural requirement",
-      "url": "https://siliconangle.com/2026/11/21/sovereign-ai-where-control-becomes-an-architectural-requirement/",
-      "source": "SiliconANGLE AI",
-      "sourceIcon": "📐",
-      "type": "news",
-      "timestamp": "2026-11-21T17:50:18.000Z",
-      "abstract": "We believe sovereignty is becoming an architectural requirement for firms operating globally, especially in highly regulated industries. The business question for buyers is how much control an organiz",
-      "authors": [],
-      "tags": [],
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
@@ -107,29 +169,6 @@
       "points": 0
     },
     {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min",
-      "url": "https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-11-21T11:46:17.000Z",
-      "abstract": "OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $",
-      "authors": [],
-      "tags": [
-        "gpt",
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
       "title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
       "url": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/",
@@ -141,28 +180,6 @@
       "authors": [],
       "tags": [
         "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "siliconangle_ai_https%3A%2F%2Fsiliconangle.com%2F2026%2F",
-      "title": "Three insights you may have missed from theCUBE’s coverage of the Dell Technologies New York Symposium",
-      "url": "https://siliconangle.com/2026/11/20/three-insights-missed-thecubes-coverage-dell-technologies-new-york-symposium-dellnewyorksymposium/",
-      "source": "SiliconANGLE AI",
-      "sourceIcon": "📐",
-      "type": "news",
-      "timestamp": "2026-11-21T00:21:22.000Z",
-      "abstract": "AI operational readiness requires more than selecting the right servers, storage and computing capacity. Those considerations are particularly consequential for financial institutions, where reliabili",
-      "authors": [],
-      "tags": [
-        "rag"
       ],
       "score": 6,
       "priority": "MEDIUM",

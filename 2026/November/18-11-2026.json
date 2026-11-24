@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-24T02:40:38.229Z",
+  "generatedAt": "2026-11-24T13:04:38.552Z",
   "date": "18-11-2026",
-  "count": 9,
+  "count": 8,
   "summary": null,
   "items": [
     {
@@ -47,55 +47,25 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.26809",
-      "title": "Search From the Start: Search-Native Pretraining for Language Models",
-      "url": "https://huggingface.co/papers/2611.26809",
+      "id": "hf_paper_2611.25927",
+      "title": "Fast-JEPA: Advancing the Success-Latency Frontier for Latent World Models",
+      "url": "https://huggingface.co/papers/2611.25927",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-18T19:00:00.000Z",
-      "abstract": "Modern language models (LMs) are increasingly deployed with access to search tools at inference. Yet pretraining remains predominantly focused on predicting static text, with search capabilities typic",
+      "abstract": "Latent world models predict the outcomes of action sequences, but comparing candidate plans through recursive rollout remains expensive at test time. We introduce Fast-JEPA, a latent world model plann",
       "authors": [
-        "Kaustubh Ponkshe",
-        "Gyung Hyun Je",
-        "Stefan Taga",
-        "Colin Raffel",
-        "Martin Jaggi"
+        "Yao Zhang",
+        "Bin Yu",
+        "Shijie Lian",
+        "Haishan Liu",
+        "Changti Wu"
       ],
-      "tags": [
-        "training"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.26613",
-      "title": "AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control",
-      "url": "https://huggingface.co/papers/2611.26613",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-18T19:00:00.000Z",
-      "abstract": "Frontier multimodal language agents such as GPT-6 Astra have demonstrated strong capabilities in controlling robots directly via low-level numerical actions without high-level primitives. However, exi",
-      "authors": [
-        "Yiyang Du",
-        "Yuxuan Kuang",
-        "Qitao Zhao",
-        "Yixuan Wang",
-        "Zhanqiu Guo"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

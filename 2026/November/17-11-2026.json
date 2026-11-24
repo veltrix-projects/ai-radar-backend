@@ -1,103 +1,28 @@
 {
-  "generatedAt": "2026-11-24T02:40:38.229Z",
+  "generatedAt": "2026-11-24T13:04:38.552Z",
   "date": "17-11-2026",
-  "count": 7,
+  "count": 4,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2611.25252",
-      "title": "Moving Generality from Model to Modeler: LLM Agents for PHM on a Deployment-Style Benchmark",
-      "url": "https://huggingface.co/papers/2611.25252",
+      "id": "hf_paper_2611.23946",
+      "title": "How Complete Must an Environment Be to Train a Capable GUI Agent?",
+      "url": "https://huggingface.co/papers/2611.23946",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-17T19:00:00.000Z",
-      "abstract": "Coding agents built on large language models (LLMs) now help develop many models published as general solutions. Should generality instead reside in the agent that builds a model for each new task? We",
+      "abstract": "Graphical user interface (GUI) agents are widely trained in executable GUI environments. To lower cost, build environments in batches, and reduce manual effort, each work trades away part of the envir",
       "authors": [
-        "Zhenling Chen",
-        "Zhiguo Zeng",
-        "Anne Barros"
-      ],
-      "tags": [
-        "llm",
-        "agent",
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.24025",
-      "title": "Intent Contracts: Taking Tools Away from Agents",
-      "url": "https://huggingface.co/papers/2611.24025",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-17T19:00:00.000Z",
-      "abstract": "Intent contracts are an authorization interface for tool-using LLM agents in which the planning model holds no tools. For each step it submits a short logged contract: a goal, a verbatim quotation of",
-      "authors": [
-        "Ziyuan Wang",
-        "Genliang Zhu",
-        "Xiaobo Chen",
-        "Chu Wang"
+        "Jingxing Wang",
+        "Teng Wang",
+        "Xingyu Lou",
+        "Zihan Guo",
+        "Jun Wang"
       ],
       "tags": [
         "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.24636",
-      "title": "Clover-35B-A3B-Preview Technical Report",
-      "url": "https://huggingface.co/papers/2611.24636",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-17T19:00:00.000Z",
-      "abstract": "We introduce Clover-35B-A3B-Preview (Clover), a mixture-of-experts diffusion language model with 35 billion total parameters and 3 billion activated parameters, supporting thinking-mode generation. Cl",
-      "authors": [
-        "DiffuSpace Technical Team"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.24077",
-      "title": "AeroRSI: Recursive Self-Improvement for Aerial Vision-Language Navigation",
-      "url": "https://huggingface.co/papers/2611.24077",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-17T19:00:00.000Z",
-      "abstract": "Vision-language-action (VLA) models enable unmanned aerial vehicles (UAVs) to follow natural-language instructions, yet still fail frequently in closed-loop flight. Correcting these failures requires",
-      "authors": [
-        "Shiwei Wu",
-        "Yuwen Pan",
-        "Zhi Li",
-        "Yaowen Li",
-        "Yan Zhou"
-      ],
-      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
