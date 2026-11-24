@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-24T13:04:38.550Z",
+  "generatedAt": "2026-11-24T23:08:33.786Z",
   "date": "20-11-2026",
-  "count": 14,
+  "count": 15,
   "summary": null,
   "items": [
     {
@@ -129,23 +129,49 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.28618",
-      "title": "Distilling Visual Agents from Limited Interaction Experience",
-      "url": "https://huggingface.co/papers/2611.28618",
+      "id": "hf_paper_2611.29064",
+      "title": "Single-Transformer Latent Diffusion",
+      "url": "https://huggingface.co/papers/2611.29064",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-20T19:00:00.000Z",
-      "abstract": "How much interaction experience is needed to distill a capable visual agent? We study learning from few tasks and recorded interaction histories. Our framework selects representative trajectories usin",
+      "abstract": "Latent generative models typically rely on three separate networks: an encoder that tokenizes pixels, a generator that models the latent distribution, and a decoder that maps latents back to pixels. U",
       "authors": [
-        "Siyu Zhou",
-        "Jing Jiang",
-        "Chengqi Zhang",
-        "Guodong Long"
+        "Hao-Yu Hsu",
+        "Shenlong Wang",
+        "Alexander G. Schwing"
       ],
       "tags": [
-        "agent"
+        "transformer",
+        "diffusion"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.28489",
+      "title": "Open Vision Banana: An Open Framework for Unified Visual Perception through Generation in RGB Space",
+      "url": "https://huggingface.co/papers/2611.28489",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-20T19:00:00.000Z",
+      "abstract": "Vision Banana showed that a closed image generator, instruction-tuned to paint perception outputs as RGB images, becomes a generalist vision model. Does this carry over to open generators, and if not,",
+      "authors": [
+        "Xu Lin",
+        "Ruilin Yao",
+        "Haoran Xu",
+        "Zixiang Wang",
+        "Ming Ma"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

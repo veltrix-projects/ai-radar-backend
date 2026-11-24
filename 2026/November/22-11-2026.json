@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-11-24T13:04:38.549Z",
+  "generatedAt": "2026-11-24T23:08:33.784Z",
   "date": "22-11-2026",
-  "count": 19,
+  "count": 16,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2611.30813",
-      "title": "HIVE-Bench: Evaluating Patch-Level Visual Representations for Egocentric Robot Manipulation",
-      "url": "https://huggingface.co/papers/2611.30813",
+      "id": "hf_paper_2611.31225",
+      "title": "Self-Supervised Dataset Distillation via Mutual Information Maximization",
+      "url": "https://huggingface.co/papers/2611.31225",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-22T19:00:00.000Z",
-      "abstract": "Pretrained vision is a common start for robot learning, but most comparisons still score one pooled vector from a third-person image. Bimanual policies instead read dense patch tokens from cameras on",
+      "abstract": "Dataset distillation (DD) aims to compress a large dataset into a small synthetic one that remains effective for training neural networks. Despite its success in supervised learning, DD remains undere",
       "authors": [
-        "Qiwei Liang",
-        "Zhengtu Liang",
-        "Minghao Lai",
-        "Yikeng Chen",
-        "Yiming Wang"
+        "Mohammad Hossein Moslemi",
+        "Mahdi Beitollahi",
+        "Zhimin Mei",
+        "Jiale Cai",
+        "Bissan Ghaddar"
       ],
       "tags": [],
       "score": 6,
@@ -31,20 +31,16 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.31115",
-      "title": "RUIBench: What Makes a Good Robot-Use Interface?",
-      "url": "https://huggingface.co/papers/2611.31115",
+      "id": "hf_paper_2611.30737",
+      "title": "CCFinance: Reconstructing Financial News Samples from Web Archives",
+      "url": "https://huggingface.co/papers/2611.30737",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-22T19:00:00.000Z",
-      "abstract": "Foundation models can reason about complex physical tasks, yet translating this intelligence into reliable robot execution remains challenging. We argue that a critical, often overlooked factor is the",
+      "abstract": "Proprietary news archives assign stories to firms, so reproducing a financial study often requires access to both the articles and the vendor's assignments. CCFinance lets researchers reconstruct firm",
       "authors": [
-        "Yanzhe Chen",
-        "Zhijun Cao",
-        "Zechen Bai",
-        "Wenzheng Zeng",
-        "Kevin Yuchen Ma"
+        "Marcus Gawronsky"
       ],
       "tags": [],
       "score": 6,
@@ -57,21 +53,23 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.30989",
-      "title": "WorldLeague: Benchmarking Physical Agency",
-      "url": "https://huggingface.co/papers/2611.30989",
+      "id": "hf_paper_2611.31094",
+      "title": "Unlocking the Power of Loops in Pretrained LLMs with Loop Residuals",
+      "url": "https://huggingface.co/papers/2611.31094",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-22T19:00:00.000Z",
-      "abstract": "AI systems can now operate Blender, follow instructions in complex video games, and manipulate objects with robot arms. What range of physical goals can today's AI systems achieve autonomously? Answer",
+      "abstract": "Looped Transformers iterate a shared block of layers to increase computation without adding parameters, offering stronger performance and test-time scaling. However, this power has so far required tra",
       "authors": [
-        "Xinyang Zhou",
-        "Qi Li",
-        "Xinchao Wang"
+        "Xuanlei Zhao",
+        "Hailun Xu",
+        "Kai Wang",
+        "Yang Luo",
+        "Yingxuan Ren"
       ],
       "tags": [
-        "benchmark"
+        "llm"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -83,20 +81,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.30573",
-      "title": "Write, Evolve, Read: Streaming Cameras into a Persistent World State for 4D Occupancy Forecasting",
-      "url": "https://huggingface.co/papers/2611.30573",
+      "id": "hf_paper_2611.31239",
+      "title": "Lyris: Layout-Guided Long Video Generation with Persistent 3D Memory",
+      "url": "https://huggingface.co/papers/2611.31239",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-22T19:00:00.000Z",
-      "abstract": "4D occupancy forecasting predicts the 3D semantic occupancy of a driving scene seconds ahead. Over a few seconds, the scene changes little while the vehicle moves, so most of the space ahead has alrea",
+      "abstract": "Exploring a scene from as little as a single photo requires generating a long, camera-controlled walkthrough that extends far beyond what was captured, yet remains consistent upon return. Memory-based",
       "authors": [
-        "ZiAn Wang",
-        "Tianyi Wang",
-        "Zhihao Chen",
-        "Manni Cui",
-        "Junkai Chen"
+        "Chen Wang",
+        "Jiahui Huang",
+        "Riccardo de Lutio",
+        "Alex Trevithick",
+        "Bryan Chu"
       ],
       "tags": [],
       "score": 6,
@@ -109,180 +107,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.31048",
-      "title": "Distill the Correction, Not the Rewrite: Hindsight Twins for Self-Improving Text-to-Image Models",
-      "url": "https://huggingface.co/papers/2611.31048",
+      "id": "hf_paper_2611.30254",
+      "title": "Innata-0: A Native Embodied World System with Model-Agent Co-Design",
+      "url": "https://huggingface.co/papers/2611.30254",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-22T19:00:00.000Z",
-      "abstract": "Text-to-image models can learn from their own mistakes by distilling a self-teacher conditioned on a vision-language critic's revised prompt. However, such self-teachers barely improve alignment, and",
+      "abstract": "The physical world is open-ended, dynamic, and partially observable. While foundation models have advanced embodied intelligence, standalone models struggle with long-horizon execution, and simply int",
       "authors": [
-        "Jiaze Li",
-        "Jingyang Chen",
-        "Wenhao Zhao",
-        "Haoran Xu",
-        "Zhenlong Yuan"
-      ],
-      "tags": [
-        "text-to-image"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.30771",
-      "title": "GameDojo: Benchmarking Real-Time Interactive Agents in Video Games",
-      "url": "https://huggingface.co/papers/2611.30771",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-22T19:00:00.000Z",
-      "abstract": "Interactive intelligence requires agents to act on observations and adapt to the consequences of actions. Studying these abilities calls for diverse, challenging tasks under controlled conditions. We",
-      "authors": [
-        "Kuan Zhang",
-        "Zhihao Yang",
-        "Yukun Chen",
-        "Xingyilang Yin",
-        "Mingyu Ouyang"
-      ],
-      "tags": [
-        "agent",
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.27494",
-      "title": "Typhoon OCR 2: From Thai Document Transcription to Multilingual, Multi-Task OCR",
-      "url": "https://huggingface.co/papers/2611.27494",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-22T19:00:00.000Z",
-      "abstract": "Typhoon OCR 1.5 focused on reading Thai documents. However, in real-world workflows, users often need to extract specific information or preserve the structure of an entire page for further processing",
-      "authors": [
-        "Surapon Nonesung",
-        "Natapong Nitarach",
-        "Sittipong Sripaisarnmongkol",
-        "Kunat Pipatanakul",
-        "Warit Sirichotedumrong"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.30581",
-      "title": "A Pipeline-Parallel System for Depth-Recurrent Models",
-      "url": "https://huggingface.co/papers/2611.30581",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-22T19:00:00.000Z",
-      "abstract": "Depth-recurrent (Looped) models raise effective depth by applying a shared stack of blocks several times. Scaling them usually requires pipeline parallelism, but commonly used interleaved 1F1B is draw",
-      "authors": [
-        "Yunjia Xi",
-        "Jiarui Qin",
-        "Di Yin",
-        "Xing Sun"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.30637",
-      "title": "SWEEP-Bench: Do Embodied Policies Act on the Speed They See?",
-      "url": "https://huggingface.co/papers/2611.30637",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-22T19:00:00.000Z",
-      "abstract": "Robot policies must adapt to the speed of moving objects, yet existing benchmarks rarely measure this ability across diverse tasks and speeds. We introduce SWEEP-Bench, a simulation benchmark with 80",
-      "authors": [
-        "Hiroaki Honda",
-        "Koya Sakamoto",
-        "Shu Morikuni",
-        "Yusuke Iwasawa",
-        "Taiki Miyanishi"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.27689",
-      "title": "Embodied-Harness: Towards Recursive Self-Improvement for Robotic Manipulation",
-      "url": "https://huggingface.co/papers/2611.27689",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-22T19:00:00.000Z",
-      "abstract": "Vision-language model (VLM)-based agents offer a promising approach to robotic manipulation, yet remain limited by inadequate memory organization, uncertain failure attribution, and limited reuse of e",
-      "authors": [
-        "Zhenxuan Fan",
-        "Zhuoya Wang",
-        "Yuqian Yuan",
-        "Wenqiao Zhang",
-        "Juncheng Li"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.30013",
-      "title": "3AGameFactory-Motion: Agentic Rigging and Reliable Complex Motion Generation for Diverse 3D Assets",
-      "url": "https://huggingface.co/papers/2611.30013",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-22T19:00:00.000Z",
-      "abstract": "Animating arbitrary 3D assets from instructions requires both structural inference and motion control, yet existing motion benchmarks mostly cover conventional human or animal skeletons with simple in",
-      "authors": [
-        "Bohan Zeng",
-        "Kaixin Zhu",
-        "Yifan Yang",
-        "Dongge Yu",
-        "Zihao Wu"
+        "Innata Team",
+        "Yu Bai",
+        "Ziyi Bai",
+        "Yuxuan Cai",
+        "Chenrui He"
       ],
       "tags": [
         "agent"
@@ -297,24 +135,105 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.29897",
-      "title": "Motion Mamba 2.0: Autoregressive Diffusion Mamba for Long-Horizon Humanoid Control",
-      "url": "https://huggingface.co/papers/2611.29897",
+      "id": "hf_paper_2611.31209",
+      "title": "WorldLatent: A Unified 4D Latent Space for World Perception and Generation",
+      "url": "https://huggingface.co/papers/2611.31209",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-22T19:00:00.000Z",
-      "abstract": "Long-horizon, real-time controllable motion generation is essential for interactive animation and humanoid robotics, where an agent must respond to changing instructions and spatial goals while moving",
+      "abstract": "Generative Pre-Training (GPT) represents a profound milestone in natural language processing, serving as the foundation for most of today's state-of-the-art large language models. By casting diverse u",
       "authors": [
-        "Yue Huang",
-        "Tianshan Zhang",
-        "Zeyu Zhang",
-        "Jayeon Kang",
-        "Akide Liu"
+        "Jingxi Chen",
+        "Yujia Chen",
+        "Cornelia Fermuller",
+        "Yiannis Aloimonos",
+        "Wen-Sheng Chu"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.31015",
+      "title": "Can Latent Reasoning Drive LLM Outputs Without a Trace?",
+      "url": "https://huggingface.co/papers/2611.31015",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-22T19:00:00.000Z",
+      "abstract": "LLMs typically solve complex tasks with chain-of-thought (CoT) reasoning, which is also the main tool for monitoring them for misaligned behavior. However, standard transformers can also solve tasks w",
+      "authors": [
+        "Tomer Ashuach",
+        "Zorik Gekhman",
+        "Avi Caciularu",
+        "Ori Ram",
+        "Jonathan Herzig"
       ],
       "tags": [
-        "diffusion"
+        "llm"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.31198",
+      "title": "ToolSmith: An Automatic Tool-Generation Framework for Multimodal Search Agents",
+      "url": "https://huggingface.co/papers/2611.31198",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-22T19:00:00.000Z",
+      "abstract": "Recent multimodal search agents use reasoning, vision, and live web search across many turns to answer questions beyond parametric knowledge by orchestrating a small library of hand-crafted search and",
+      "authors": [
+        "Rui Sun",
+        "Junhua Huang",
+        "Luca Zancato",
+        "Md Mofijul Islam",
+        "Kai-Wei Chang"
+      ],
+      "tags": [
+        "multimodal",
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.30495",
+      "title": "DexDuet: Learning Contact-Preserving Bimanual Dexterity from Human Demonstrations",
+      "url": "https://huggingface.co/papers/2611.30495",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-22T19:00:00.000Z",
+      "abstract": "Human demonstrations provide a rich source of bimanual dexterous skills, yet transferring them to robot hands remains challenging. Existing methods primarily optimize object trajectory tracking, often",
+      "authors": [
+        "Haoran Zhang",
+        "Haokai Ding",
+        "Han Zhou",
+        "Zuxing Lu",
+        "Heng Zhang"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -416,7 +335,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 197650,
+      "stars": 197959,
       "votes": 0,
       "points": 0
     },

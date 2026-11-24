@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-24T13:04:38.552Z",
+  "generatedAt": "2026-11-24T23:08:33.787Z",
   "date": "18-11-2026",
-  "count": 8,
+  "count": 10,
   "summary": null,
   "items": [
     {
@@ -47,22 +47,102 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.25927",
-      "title": "Fast-JEPA: Advancing the Success-Latency Frontier for Latent World Models",
-      "url": "https://huggingface.co/papers/2611.25927",
+      "id": "hf_paper_2611.28158",
+      "title": "Measuring and Teaching Language Model Agents to Act on Delayed Consequences",
+      "url": "https://huggingface.co/papers/2611.28158",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-18T19:00:00.000Z",
-      "abstract": "Latent world models predict the outcomes of action sequences, but comparing candidate plans through recursive rollout remains expensive at test time. We introduce Fast-JEPA, a latent world model plann",
+      "abstract": "Language model agents are increasingly asked to run ongoing multi-day operations rather than finish isolated single-turn tasks. In daily operations, today's choices reshape later observations and cash",
       "authors": [
-        "Yao Zhang",
-        "Bin Yu",
-        "Shijie Lian",
-        "Haishan Liu",
-        "Changti Wu"
+        "Shardul Bansal",
+        "Seth Schilbe",
+        "Jarrod Barnes"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.26358",
+      "title": "Beam Model Technical Report",
+      "url": "https://huggingface.co/papers/2611.26358",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-18T19:00:00.000Z",
+      "abstract": "Beam is a sparse Mixture-of-Experts (MoE) model with 501.3B total parameters and 23.4B active parameters, specifically built and optimized for coding, reasoning, and agentic workloads. Beam delivers f",
+      "authors": [
+        "Reflection Team",
+        "Adam Abdulhamid",
+        "Osama Abuelsorour",
+        "Yasmin Alameddine",
+        "Carlo Alfano"
       ],
       "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.26863",
+      "title": "LLMs Memorize Their Own Hallucinations During Post-Training",
+      "url": "https://huggingface.co/papers/2611.26863",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-18T19:00:00.000Z",
+      "abstract": "Reasoning domains have shaped the post-training recipes of frontier models even though they are trained and deployed in domains beyond math and code. In this paper, we study the consequences of direct",
+      "authors": [
+        "Anirudh Atmakuru",
+        "Tanya Goyal"
+      ],
+      "tags": [
+        "llm",
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.18639",
+      "title": "SynthDCB: World Distillation for Scalable Device Control Benchmarking",
+      "url": "https://huggingface.co/papers/2611.18639",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-18T19:00:00.000Z",
+      "abstract": "Scaling device-control evaluation requires scaling both interactive worlds and the tasks agents must solve. We introduce SynthDCB, a benchmark for environment awareness and device control built throug",
+      "authors": [
+        "Zichen Zhu",
+        "Dingye Liu",
+        "Nan Jiang",
+        "Danyang Zhang",
+        "Hang Zheng"
+      ],
+      "tags": [
+        "benchmark"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -105,26 +185,6 @@
       "tags": [
         "training"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
-      "title": "Tackling GPU Bottlenecks in Plane-Wave DFT with K-Point Batching and Mixed Precision",
-      "url": "https://developer.nvidia.com/blog/tackling-gpu-bottlenecks-in-plane-wave-dft-with-k-point-batching-and-mixed-precision/",
-      "source": "NVIDIA Blog",
-      "sourceIcon": "🟩",
-      "type": "tool",
-      "timestamp": "2026-11-18T15:00:00.000Z",
-      "abstract": "Training a next-generation machine learning interatomic potential (MLIP) requires ground truth: tens to hundreds of millions of density functional theory (DFT)...]]>",
-      "authors": [],
-      "tags": [],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",

@@ -1,25 +1,28 @@
 {
-  "generatedAt": "2026-11-20T04:55:16.069Z",
+  "generatedAt": "2026-11-24T23:08:33.791Z",
   "date": "08-11-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2611.08136",
-      "title": "How Far Can Untrained Neural Networks Go in Anomaly Detection? From Tables to Pixels",
-      "url": "https://huggingface.co/papers/2611.08136",
+      "id": "hf_paper_2611.12164",
+      "title": "Let the Fixer Decide: Training a Code Localizer from the Fixer's Likelihood",
+      "url": "https://huggingface.co/papers/2611.12164",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-08T19:00:00.000Z",
-      "abstract": "Anomaly detection (AD) is often framed as a representation-learning problem, where strong performance is expected to require learned features or AD-specific optimization. However, this view can overlo",
+      "abstract": "Code localizers are usually trained to predict the files a reference patch edits, but the code a fixer needs to read is not the same as the code it changes. We propose Fixer-Guided Localization (FGL):",
       "authors": [
-        "Hyojun Yi",
-        "Geunyoung Kim",
-        "Hogeon Seo",
-        "Seunghyoung Ryu"
+        "Khalil Hennara",
+        "Muhammad Hreden",
+        "Zeina Aldallal",
+        "Sara Chrouf",
+        "Safwan AlModhayan"
       ],
-      "tags": [],
+      "tags": [
+        "training"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
