@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-24T23:08:33.786Z",
+  "generatedAt": "2026-11-25T05:32:08.629Z",
   "date": "20-11-2026",
-  "count": 15,
+  "count": 12,
   "summary": null,
   "items": [
     {
@@ -129,52 +129,25 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.29064",
-      "title": "Single-Transformer Latent Diffusion",
-      "url": "https://huggingface.co/papers/2611.29064",
+      "id": "hf_paper_2611.28574",
+      "title": "EvoViM: Recursively Self-Evolving Visual Agents for Exploration with Deferred Queries",
+      "url": "https://huggingface.co/papers/2611.28574",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-20T19:00:00.000Z",
-      "abstract": "Latent generative models typically rely on three separate networks: an encoder that tokenizes pixels, a generator that models the latent distribution, and a decoder that maps latents back to pixels. U",
+      "abstract": "Multimodal large language model (MLLM) agents have shown promising capabilities in task-oriented environments. However, they still struggle when queries are deferred until after exploration, requiring",
       "authors": [
-        "Hao-Yu Hsu",
-        "Shenlong Wang",
-        "Alexander G. Schwing"
+        "Xinyu Cao",
+        "Tianjie Ju",
+        "Zhuosheng Zhang"
       ],
       "tags": [
-        "transformer",
-        "diffusion"
+        "agent"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.28489",
-      "title": "Open Vision Banana: An Open Framework for Unified Visual Perception through Generation in RGB Space",
-      "url": "https://huggingface.co/papers/2611.28489",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-20T19:00:00.000Z",
-      "abstract": "Vision Banana showed that a closed image generator, instruction-tuned to paint perception outputs as RGB images, becomes a generalist vision model. Does this carry over to open generators, and if not,",
-      "authors": [
-        "Xu Lin",
-        "Ruilin Yao",
-        "Haoran Xu",
-        "Zixiang Wang",
-        "Ming Ma"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -274,48 +247,6 @@
       "tags": [
         "inference"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Fbusiness%2Fcu",
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "url": "https://openai.com/business/customer-stories/hebbia",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-11-20T00:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "gpt"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fintro",
-      "title": "Can AI help scientists identify promising drug candidates?",
-      "url": "https://openai.com/index/introducing-medchembench",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-11-20T00:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",

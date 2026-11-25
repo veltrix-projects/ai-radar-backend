@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-24T23:08:33.787Z",
+  "generatedAt": "2026-11-25T05:32:08.630Z",
   "date": "18-11-2026",
-  "count": 10,
+  "count": 7,
   "summary": null,
   "items": [
     {
@@ -99,60 +99,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.26863",
-      "title": "LLMs Memorize Their Own Hallucinations During Post-Training",
-      "url": "https://huggingface.co/papers/2611.26863",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-18T19:00:00.000Z",
-      "abstract": "Reasoning domains have shaped the post-training recipes of frontier models even though they are trained and deployed in domains beyond math and code. In this paper, we study the consequences of direct",
-      "authors": [
-        "Anirudh Atmakuru",
-        "Tanya Goyal"
-      ],
-      "tags": [
-        "llm",
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.18639",
-      "title": "SynthDCB: World Distillation for Scalable Device Control Benchmarking",
-      "url": "https://huggingface.co/papers/2611.18639",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-18T19:00:00.000Z",
-      "abstract": "Scaling device-control evaluation requires scaling both interactive worlds and the tasks agents must solve. We introduce SynthDCB, a benchmark for environment awareness and device control built throug",
-      "authors": [
-        "Zichen Zhu",
-        "Dingye Liu",
-        "Nan Jiang",
-        "Danyang Zhang",
-        "Hang Zheng"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "google_deepmind_https%3A%2F%2Fdeepmind.google%2Fblog%2Fg",
       "title": "Genie 4 is now available",
       "url": "https://deepmind.google/blog/genie-4-is-now-available/",
@@ -163,28 +109,6 @@
       "abstract": "",
       "authors": [],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
-      "title": "Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos",
-      "url": "https://developer.nvidia.com/blog/build-training-ready-physical-ai-datasets-with-two-prompts-in-nvidia-cosmos/",
-      "source": "NVIDIA Blog",
-      "sourceIcon": "🟩",
-      "type": "tool",
-      "timestamp": "2026-11-18T17:00:00.000Z",
-      "abstract": "World model accuracy starts with high-quality, diverse training datasets. Yet capturing rare defects, nighttime incidents, and other challenging scenarios is...]]>",
-      "authors": [],
-      "tags": [
-        "training"
-      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
