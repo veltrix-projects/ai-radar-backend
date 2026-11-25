@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-25T05:32:08.630Z",
+  "generatedAt": "2026-11-25T16:28:20.021Z",
   "date": "18-11-2026",
-  "count": 7,
+  "count": 6,
   "summary": null,
   "items": [
     {
@@ -47,46 +47,16 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.28158",
-      "title": "Measuring and Teaching Language Model Agents to Act on Delayed Consequences",
-      "url": "https://huggingface.co/papers/2611.28158",
+      "id": "hf_paper_2611.25509",
+      "title": "LingSante MedGuard Technical Report",
+      "url": "https://huggingface.co/papers/2611.25509",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-18T19:00:00.000Z",
-      "abstract": "Language model agents are increasingly asked to run ongoing multi-day operations rather than finish isolated single-turn tasks. In daily operations, today's choices reshape later observations and cash",
+      "abstract": "As medical AI is increasingly used for patient consultation and clinical decision support, identifying harmful, non-compliant, or ethically problematic responses is essential for responsible deploymen",
       "authors": [
-        "Shardul Bansal",
-        "Seth Schilbe",
-        "Jarrod Barnes"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.26358",
-      "title": "Beam Model Technical Report",
-      "url": "https://huggingface.co/papers/2611.26358",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-18T19:00:00.000Z",
-      "abstract": "Beam is a sparse Mixture-of-Experts (MoE) model with 501.3B total parameters and 23.4B active parameters, specifically built and optimized for coding, reasoning, and agentic workloads. Beam delivers f",
-      "authors": [
-        "Reflection Team",
-        "Adam Abdulhamid",
-        "Osama Abuelsorour",
-        "Yasmin Alameddine",
-        "Carlo Alfano"
+        "LingSante MedGuard Team"
       ],
       "tags": [],
       "score": 6,

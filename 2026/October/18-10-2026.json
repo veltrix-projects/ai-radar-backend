@@ -1,27 +1,27 @@
 {
-  "generatedAt": "2026-10-30T07:25:31.536Z",
+  "generatedAt": "2026-11-25T16:28:20.027Z",
   "date": "18-10-2026",
   "count": 1,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2610.27100",
-      "title": "LOB-Impact Benchmark: Emergent Market Impact in Generative Limit Order Book Models",
-      "url": "https://huggingface.co/papers/2610.27100",
+      "id": "hf_paper_2611.31258",
+      "title": "RECAP: Training Long-horizon LLM Agents with Context Compaction",
+      "url": "https://huggingface.co/papers/2611.31258",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-10-18T20:00:00.000Z",
-      "abstract": "Realistic market impact is essential for generative limit order book (LOB) models to serve as world models for trading agents. If a simulator misprices this mechanism, agents learn policies that are o",
+      "abstract": "Context compaction enables large language model agents to tackle long-horizon tasks within limited context budgets by replacing interaction histories with compressed summaries. However, learning effec",
       "authors": [
-        "George Nigmatulin",
-        "Valentin Mohl",
-        "Sascha Frey",
-        "Kang Li",
-        "Aramis Marti-Shahandeh"
+        "Yulun Jiang",
+        "Maria Brbic",
+        "Michael Moor"
       ],
       "tags": [
-        "benchmark"
+        "llm",
+        "agent",
+        "training"
       ],
       "score": 6,
       "priority": "MEDIUM",
