@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-25T16:28:20.021Z",
+  "generatedAt": "2026-11-26T00:34:17.705Z",
   "date": "18-11-2026",
-  "count": 6,
+  "count": 5,
   "summary": null,
   "items": [
     {
@@ -27,36 +27,20 @@
       "points": 0
     },
     {
-      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
-      "title": "Connecting Energy Use to Scientific Output with Science per Joule",
-      "url": "https://developer.nvidia.com/blog/connecting-energy-use-to-scientific-output-with-science-per-joule/",
-      "source": "NVIDIA Blog",
-      "sourceIcon": "🟩",
-      "type": "tool",
-      "timestamp": "2026-11-18T21:26:33.000Z",
-      "abstract": "For high-performance computing (HPC) centers operating under a fixed power budget, every joule spent computing needs to translate into useful scientific work....]]>",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.25509",
-      "title": "LingSante MedGuard Technical Report",
-      "url": "https://huggingface.co/papers/2611.25509",
+      "id": "hf_paper_2611.25946",
+      "title": "Point Dynamics as Proxy for Robotic World Models",
+      "url": "https://huggingface.co/papers/2611.25946",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-18T19:00:00.000Z",
-      "abstract": "As medical AI is increasingly used for patient consultation and clinical decision support, identifying harmful, non-compliant, or ethically problematic responses is essential for responsible deploymen",
+      "abstract": "Robotic world models predict future video frames from the current observation and a sequence of robot actions. While recent models follow the given actions closely, manipulated objects often collapse",
       "authors": [
-        "LingSante MedGuard Team"
+        "Dong An",
+        "Tianyu Liu",
+        "Haoran Ding",
+        "Wen Yang",
+        "Anqing Duan"
       ],
       "tags": [],
       "score": 6,

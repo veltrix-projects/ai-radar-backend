@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-25T16:28:20.021Z",
+  "generatedAt": "2026-11-26T00:34:17.705Z",
   "date": "19-11-2026",
-  "count": 5,
+  "count": 6,
   "summary": null,
   "items": [
     {
@@ -47,19 +47,50 @@
       "points": 0
     },
     {
-      "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fransomwa",
-      "title": "To Catch a Ransomware Scammer, FBI Posed as Both Victim and Attacker",
-      "url": "https://www.404media.co/ransomware-fraud-attack-fbi-indictment/",
-      "source": "404 Media",
-      "sourceIcon": "📡",
-      "type": "news",
-      "timestamp": "2026-11-19T18:11:50.000Z",
-      "abstract": "",
-      "authors": [],
+      "id": "hf_paper_2611.27404",
+      "title": "Degradation of Language Models under Controlled Load: Synchronization, Rule Execution and Misfires on the Background",
+      "url": "https://huggingface.co/papers/2611.27404",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-19T19:00:00.000Z",
+      "abstract": "As the load grows, a language model makes more and more errors, but different processes stand behind this decline in quality. The model may lose the correspondence with the source text, it may keep it",
+      "authors": [
+        "Hennadii Kutomanov"
+      ],
       "tags": [],
-      "score": 4,
-      "priority": "LOW",
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2510.22622",
+      "title": "Mega-MMDF and DeepfakeBench-MM: Benchmarking Multimodal Deepfake Detection Across Diverse Forgery Pipelines",
+      "url": "https://huggingface.co/papers/2510.22622",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-19T19:00:00.000Z",
+      "abstract": "Audio-visual deepfakes can spread misinformation and enable impersonation, undermining trust in digital media. However, existing datasets provide limited coverage of forgery operations and their combi",
+      "authors": [
+        "Kangran Zhao",
+        "Xiaoyu Zhang",
+        "Yupeng Chen",
+        "Yize Chen",
+        "Weinan Guan"
+      ],
+      "tags": [
+        "multimodal",
+        "benchmark"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
