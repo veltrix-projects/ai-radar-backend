@@ -1,9 +1,65 @@
 {
-  "generatedAt": "2026-11-26T00:34:17.702Z",
+  "generatedAt": "2026-11-26T09:01:12.295Z",
   "date": "22-11-2026",
-  "count": 10,
+  "count": 11,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2611.30844",
+      "title": "DyLoMo-DiT: Dynamic Looped Mixture-of-Experts Diffusion Transformers",
+      "url": "https://huggingface.co/papers/2611.30844",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-22T19:00:00.000Z",
+      "abstract": "Diffusion Transformers (DiTs) scale model capacity by increasing both parameter count and computation. Mixture-of-Experts (MoE) variants expand parameter capacity while keeping per-token computation r",
+      "authors": [
+        "Lernie Li",
+        "Yuanliu Liu",
+        "Pengfei Xiong",
+        "Wei Zhang"
+      ],
+      "tags": [
+        "transformer",
+        "diffusion"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.30564",
+      "title": "Seeing Is Locating: Spatial Awareness and Geographic Bias in Decision Language Models",
+      "url": "https://huggingface.co/papers/2611.30564",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-22T19:00:00.000Z",
+      "abstract": "Decision models, which output probability distributions over candidate labels instead of generating text, are increasingly used as classifiers and evaluators for inputs associated with real-world loca",
+      "authors": [
+        "Wilson Wongso",
+        "Hada Melino Muhammad",
+        "Xiachong Lin",
+        "Hao Xue",
+        "Flora D. Salim"
+      ],
+      "tags": [
+        "phi"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2611.30017",
       "title": "OWE-Bench: A long-horizon benchmark for measuring real-world engineering",
@@ -115,28 +171,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.31442",
-      "title": "Small Learned Projections for Semantic-Reversal-Aware Retrieval with Spectral Acceleration: A Four-Domain Empirical Study",
-      "url": "https://huggingface.co/papers/2611.31442",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-22T19:00:00.000Z",
-      "abstract": "Dense-embedding retrievers can fail adversarially: when a query is answered by a document A and reversed by a near-copy B that differs from A by a small meaning-changing edit (a \"trap\"), raw cosine ov",
-      "authors": [
-        "Sayed Amir Karim"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
       "title": "NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor",
       "url": "https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/",
@@ -206,7 +240,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 198649,
+      "stars": 198786,
       "votes": 0,
       "points": 0
     },
