@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-26T09:01:12.296Z",
+  "generatedAt": "2026-11-26T19:10:25.671Z",
   "date": "19-11-2026",
-  "count": 7,
+  "count": 4,
   "summary": null,
   "items": [
     {
@@ -60,83 +60,6 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.27962",
-      "title": "Model Carving: Training Transformers That Optimize Their Own Topology",
-      "url": "https://huggingface.co/papers/2611.27962",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-19T19:00:00.000Z",
-      "abstract": "Machine learning has largely kept separate the choice of architecture and the process of training. A classic Transformer, for instance, trains a fixed set of attention and MLP sublayers at every layer",
-      "authors": [
-        "Kaden Zheng",
-        "Pratyusha Sharma"
-      ],
-      "tags": [
-        "transformer",
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.27404",
-      "title": "Degradation of Language Models under Controlled Load: Synchronization, Rule Execution and Misfires on the Background",
-      "url": "https://huggingface.co/papers/2611.27404",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-19T19:00:00.000Z",
-      "abstract": "As the load grows, a language model makes more and more errors, but different processes stand behind this decline in quality. The model may lose the correspondence with the source text, it may keep it",
-      "authors": [
-        "Hennadii Kutomanov"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2510.22622",
-      "title": "Mega-MMDF and DeepfakeBench-MM: Benchmarking Multimodal Deepfake Detection Across Diverse Forgery Pipelines",
-      "url": "https://huggingface.co/papers/2510.22622",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-19T19:00:00.000Z",
-      "abstract": "Audio-visual deepfakes can spread misinformation and enable impersonation, undermining trust in digital media. However, existing datasets provide limited coverage of forgery operations and their combi",
-      "authors": [
-        "Kangran Zhao",
-        "Xiaoyu Zhang",
-        "Yupeng Chen",
-        "Yize Chen",
-        "Weinan Guan"
-      ],
-      "tags": [
-        "multimodal",
-        "benchmark"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-26T09:01:12.294Z",
+  "generatedAt": "2026-11-26T19:10:25.669Z",
   "date": "23-11-2026",
-  "count": 25,
+  "count": 19,
   "summary": null,
   "items": [
     {
@@ -87,47 +87,18 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.32199",
-      "title": "Steerable by Design: Conditional Pretraining for Robust Control of Language Models",
-      "url": "https://huggingface.co/papers/2611.32199",
+      "id": "hf_paper_2611.32938",
+      "title": "Efficient Video Retrieval Augmented Generation via Token Allocation",
+      "url": "https://huggingface.co/papers/2611.32938",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-23T19:00:00.000Z",
-      "abstract": "Our goal is to build language models that are steerable by design. Today's language models are pretrained with next-token prediction, which relegates alignment and control to the final 1% of training",
+      "abstract": "Efficient long-video understanding requires identifying relevant evidence while minimizing the tokens processed by vision-language models (VLMs). Existing video retrieval-augmented generation (RAG) me",
       "authors": [
-        "Henry Castillo",
-        "Yanchen Liu",
-        "Claudio Mayrink Verdun",
-        "Dylan Hadfield-Menell"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.32351",
-      "title": "LookAnything: A Foundation Model for Holistic Gaze Following",
-      "url": "https://huggingface.co/papers/2611.32351",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-23T19:00:00.000Z",
-      "abstract": "Human gaze provides a rich window into attention and intent, making its understanding essential for applications ranging from social signal analysis to human-robot interaction. Existing methods typica",
-      "authors": [
-        "Jiayu Tang",
-        "Yuchen Zhou",
-        "Hongsheng Wu",
-        "Hanjing Ye",
-        "Ke Huang"
+        "Ayush Barik",
+        "Fan Lai",
+        "Francis Y. Yan"
       ],
       "tags": [],
       "score": 6,
@@ -140,46 +111,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.32393",
-      "title": "Fractal Neural Synthesis: Constant-Storage Procedural Weight Derivation via Complex Quadratic Boundary Dynamics",
-      "url": "https://huggingface.co/papers/2611.32393",
+      "id": "hf_paper_2611.32786",
+      "title": "Simulator-as-Proxy World Model for Robot Manipulation",
+      "url": "https://huggingface.co/papers/2611.32786",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-23T19:00:00.000Z",
-      "abstract": "Conventional neural networks store synaptic parameters as explicit tensors whose persistent Flash footprint scales linearly (O(W)) with parameter count, constraining resource-limited edge microcontrol",
+      "abstract": "Video world models for robots are increasingly conditioned on a simulated or rendered proxy of the scene, on the assumption that the video will show what the proxy shows. Testing this assumption requi",
       "authors": [
-        "Volkan Dagli",
-        "Zerrin Dagli",
-        "Daghan Dagli"
-      ],
-      "tags": [
-        "rag"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.32816",
-      "title": "SpatialArena: Where Do Geometric Foundation Models Stand?",
-      "url": "https://huggingface.co/papers/2611.32816",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-23T19:00:00.000Z",
-      "abstract": "3D perception is shifting from task-specific pipelines to geometric foundation models: monocular depth networks, feed-forward 3D/4D reconstruction models, and vision--language models that predict geom",
-      "authors": [
-        "Yu Chen",
-        "Haosen Yang",
-        "Su Ee Tan",
-        "Zhensong Zhang",
-        "Jifei Song"
+        "Tingting Liao",
+        "Mingjia Huo",
+        "Hao Li",
+        "Zhengzhong Liu",
+        "Eric P. Xing"
       ],
       "tags": [],
       "score": 6,
@@ -192,96 +137,22 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.31977",
-      "title": "Distill to Loop: Turning Pretrained Diffusion Transformers into Looped Models with Adjustable Depth",
-      "url": "https://huggingface.co/papers/2611.31977",
+      "id": "hf_paper_2611.33307",
+      "title": "Lost in Translation, Not in Confidence: Benchmarking and Calibrating Multilingual Decision Models",
+      "url": "https://huggingface.co/papers/2611.33307",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-23T19:00:00.000Z",
-      "abstract": "Looped transformers reuse one block of shared weights along the depth of the network. Recent looped diffusion transformers are trained from scratch, which repeats the full pretraining cost although st",
+      "abstract": "Decision models are language models fine-tuned to return a probability for each option of a typed query, which routers and guardrails threshold directly. They are built on multilingual bases but ranke",
       "authors": [
-        "Chenru Wang",
-        "Shengwei An"
+        "Mingzhe Du",
+        "Thong Thanh Nguyen",
+        "Nguyen Tran Cong Duy",
+        "See-Kiong Ng",
+        "Luu Anh Tuan"
       ],
       "tags": [
-        "transformer",
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.31752",
-      "title": "Separating Measurement Failures from Defence Failures in Split Language-Model Privacy",
-      "url": "https://huggingface.co/papers/2611.31752",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-23T19:00:00.000Z",
-      "abstract": "Split-training privacy evaluations fail through distinct mechanisms. Evaluators can overlook an exposed gradient channel, align reconstructions against shifted labels, or deploy uncalibrated probes be",
-      "authors": [
-        "Georgios Politis",
-        "Evangelos Pappas"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.32782",
-      "title": "Measuring Layer-wise Intrinsic Dimensionality of FFNs in LLMs via PCA",
-      "url": "https://huggingface.co/papers/2611.32782",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-23T19:00:00.000Z",
-      "abstract": "Modern large language models (LLMs) keep the feed-forward network (FFN) intermediate width identical across every layer, a convention inherited from the original Transformer. Yet mechanistic work sugg",
-      "authors": [
-        "Daehee Kim"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.32649",
-      "title": "ICLWorld: Benchmarking In-Context Learning of Agents from Digital to Physical Worlds",
-      "url": "https://huggingface.co/papers/2611.32649",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-23T19:00:00.000Z",
-      "abstract": "In-context learning (ICL) lets agents acquire new rules from context and adapt to user-specific requirements at inference time. The same frontier agents now operate both computers and robots, yet thei",
-      "authors": [
-        "Qingle Liu",
-        "Jieming Li",
-        "Pei-lin Li",
-        "Shenghan Zheng",
-        "Ruize Yang"
-      ],
-      "tags": [
-        "agent",
         "benchmark"
       ],
       "score": 6,
@@ -294,22 +165,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.32918",
-      "title": "InstructReplay: Replaying Assistant Turns to Preserve General Behavior During Factual Fine-Tuning",
-      "url": "https://huggingface.co/papers/2611.32918",
+      "id": "hf_paper_2611.32002",
+      "title": "Change the Base, Change the Game: Rethinking Pan-sharpening",
+      "url": "https://huggingface.co/papers/2611.32002",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-23T19:00:00.000Z",
-      "abstract": "Fine-tuning an instruction-tuned language model on new facts often erodes its general abilities. We find that standard fine-tuning lowers instruction-following, reasoning and coding benchmarks by 35 p",
+      "abstract": "Many pan-sharpening (PS) networks reconstruct high-resolution multispectral (HRMS) images by adding learned residuals to 4times-interpolated low-resolution multispectral (LRMS) inputs, incorporating p",
       "authors": [
-        "Xiaofeng Shi",
-        "Qian Kou",
-        "Hua Zhou"
+        "Jeonghyeok Do",
+        "Geunhyuk Youk",
+        "Munchurl Kim"
       ],
-      "tags": [
-        "fine-tuning"
-      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -320,18 +189,26 @@
       "points": 0
     },
     {
-      "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fgoogle-w",
-      "title": "Google Wants To Make a 24/7 AI TV Channel. You’ll Be the Main Character",
-      "url": "https://www.404media.co/google-wants-to-make-a-24-7-ai-tv-channel-youll-be-the-main-character/",
-      "source": "404 Media",
-      "sourceIcon": "📡",
-      "type": "news",
-      "timestamp": "2026-11-23T18:17:22.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
+      "id": "hf_paper_2611.33457",
+      "title": "Playfulness as Feedback for Agentic Game Development",
+      "url": "https://huggingface.co/papers/2611.33457",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-23T19:00:00.000Z",
+      "abstract": "Coding agents can generate runnable games from natural-language descriptions. However, a runnable game does not guarantee an excellent gameplay experience for players. In our view, a playful game shou",
+      "authors": [
+        "Weijia Mao",
+        "Kevin Qinghong Lin",
+        "Zhen Fang",
+        "Danze Chen",
+        "Dongxing Mao"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -419,26 +296,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fim-not-g",
-      "title": "“I’m not going to remove the repository”",
-      "url": "https://www.404media.co/im-not-going-to-remove-the-repository/",
-      "source": "404 Media",
-      "sourceIcon": "📡",
-      "type": "news",
-      "timestamp": "2026-11-23T15:35:22.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -571,7 +428,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 310778,
+      "stars": 311006,
       "votes": 0,
       "points": 0
     }

@@ -1,31 +1,29 @@
 {
-  "generatedAt": "2026-11-26T09:01:12.295Z",
+  "generatedAt": "2026-11-26T19:10:25.670Z",
   "date": "22-11-2026",
-  "count": 11,
+  "count": 7,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2611.30844",
-      "title": "DyLoMo-DiT: Dynamic Looped Mixture-of-Experts Diffusion Transformers",
-      "url": "https://huggingface.co/papers/2611.30844",
+      "id": "hf_paper_2611.31237",
+      "title": "Let Vision-Language Models Generate Images through Their Representations",
+      "url": "https://huggingface.co/papers/2611.31237",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-22T19:00:00.000Z",
-      "abstract": "Diffusion Transformers (DiTs) scale model capacity by increasing both parameter count and computation. Mixture-of-Experts (MoE) variants expand parameter capacity while keeping per-token computation r",
+      "abstract": "Recent unified multimodal models aim to combine visual understanding and generation within a single model, yet effectively integrating the two capabilities remains challenging. Leveraging pretrained v",
       "authors": [
-        "Lernie Li",
-        "Yuanliu Liu",
-        "Pengfei Xiong",
-        "Wei Zhang"
+        "JB Kim",
+        "Byungwoo Jeon",
+        "Kyungmin Lee",
+        "Hyeonmo Kang",
+        "Cheonbok Park"
       ],
-      "tags": [
-        "transformer",
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -33,132 +31,16 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2611.30564",
-      "title": "Seeing Is Locating: Spatial Awareness and Geographic Bias in Decision Language Models",
-      "url": "https://huggingface.co/papers/2611.30564",
+      "id": "hf_paper_2611.30895",
+      "title": "Speak When You See It: Proactive Task Assistants Should Wait for Evidence, Not the Clock",
+      "url": "https://huggingface.co/papers/2611.30895",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
       "timestamp": "2026-11-22T19:00:00.000Z",
-      "abstract": "Decision models, which output probability distributions over candidate labels instead of generating text, are increasingly used as classifiers and evaluators for inputs associated with real-world loca",
+      "abstract": "Proactive assistants that guide people through physical tasks must decide, every few seconds, whether a step is complete and whether a mistake has occurred. We find that two benchmarks for this task l",
       "authors": [
-        "Wilson Wongso",
-        "Hada Melino Muhammad",
-        "Xiachong Lin",
-        "Hao Xue",
-        "Flora D. Salim"
-      ],
-      "tags": [
-        "phi"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.30017",
-      "title": "OWE-Bench: A long-horizon benchmark for measuring real-world engineering",
-      "url": "https://huggingface.co/papers/2611.30017",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-22T19:00:00.000Z",
-      "abstract": "We present OWE-Bench (OpenWorldEngineer-Bench), a benchmark of 26 long-horizon engineering tasks written by domain experts in software engineering, physical engineering, machine learning, and scientif",
-      "authors": [
-        "Jacob Cole",
-        "Martin Dimakis",
-        "Victor Barres",
-        "Bertie Vidgen",
-        "Edward Hu"
-      ],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.31358",
-      "title": "Nemotron-Labs-VisualCreation: Pixel as Code for Agentic Visual Creation",
-      "url": "https://huggingface.co/papers/2611.31358",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-22T19:00:00.000Z",
-      "abstract": "Visual creation demands expressive imagery together with precise control over text, layout, and structure. We introduce Nemotron-Labs-VisualCreation, an agentic framework that connects these capabilit",
-      "authors": [
-        "Guo Chen",
-        "Fuxiao Liu",
-        "Haoqin Tu",
-        "Yiyang Zhou",
-        "Andrew Tao"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.31129",
-      "title": "FATCAT: Fault Injection Attacks Targeting Chip-level Alignment",
-      "url": "https://huggingface.co/papers/2611.31129",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-22T19:00:00.000Z",
-      "abstract": "Model alignment is the primary safety and security mechanism for enforcing refusal of malicious prompts in modern foundation models; yet, existing adversarial evaluations implicitly assume underlying",
-      "authors": [
-        "Peter Horvath",
-        "Ilia Shumailov",
-        "Zhuoran Liu",
-        "Lukasz Chmielewski",
-        "Lejla Batina"
-      ],
-      "tags": [
-        "alignment"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.30963",
-      "title": "Foresight Forcing: Learning Spatial Foresight for Robotic Manipulation",
-      "url": "https://huggingface.co/papers/2611.30963",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-22T19:00:00.000Z",
-      "abstract": "Robotic manipulation policies can improve action prediction by anticipating how objects move and how their spatial relationships change. World Action Models (WAMs) learn to predict future visual obser",
-      "authors": [
-        "Mishuo Han",
-        "Zhixuan Liang",
-        "Zhaoyuan Wan",
-        "Wendi Chen",
-        "Jiarui Chen"
+        "Bohe Chen"
       ],
       "tags": [],
       "score": 6,
@@ -240,7 +122,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 198786,
+      "stars": 199089,
       "votes": 0,
       "points": 0
     },
