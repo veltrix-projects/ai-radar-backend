@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-11-27T02:18:48.981Z",
+  "generatedAt": "2026-11-27T11:04:38.478Z",
   "date": "15-11-2026",
   "count": 2,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2611.20844",
+      "title": "DetourBench: Trajectory-Level Evaluation of Interactive Agents with Exact Minimum-Action Bounds",
+      "url": "https://huggingface.co/papers/2611.20844",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-15T19:00:00.000Z",
+      "abstract": "Benchmarks judge language-model agents mainly by whether they reach the correct final state, not by how they got there. Endpoint scoring cannot separate an agent that retrieved exactly the evidence a",
+      "authors": [
+        "Hanlin Tian",
+        "Sihan Zhu",
+        "Zhao Yang",
+        "Yuxiang Wang",
+        "Zhiquan Hu"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2611.21155",
       "title": "Edit Recommendation: Can LLMs Anticipate Edit Requests from Users, and When?",
@@ -18,34 +46,6 @@
       ],
       "tags": [
         "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.21056",
-      "title": "Evaluation-Free Recursive Self-Improvement for Coding Agents",
-      "url": "https://huggingface.co/papers/2611.21056",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-15T19:00:00.000Z",
-      "abstract": "Recent self-improving coding agents have achieved strong benchmark performance by iteratively modifying their own executable implementations. A common pattern uses downstream task-derived evidence to",
-      "authors": [
-        "Zhe Ren",
-        "Guowei Rong",
-        "Yimeng Chen",
-        "Nanbo Li",
-        "Piotr Piękos"
-      ],
-      "tags": [
-        "agent"
       ],
       "score": 6,
       "priority": "MEDIUM",
