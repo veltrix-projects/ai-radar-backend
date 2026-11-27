@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-27T11:04:38.473Z",
+  "generatedAt": "2026-11-27T20:05:04.595Z",
   "date": "20-11-2026",
-  "count": 9,
+  "count": 10,
   "summary": null,
   "items": [
     {
@@ -102,6 +102,35 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.28849",
+      "title": "Guarding with Judgment: Learning to Intervene for Multimodal Safety",
+      "url": "https://huggingface.co/papers/2611.28849",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-20T19:00:00.000Z",
+      "abstract": "When visual context makes an ordinary request unsafe to answer as asked, a blanket refusal may leave the user's need unresolved. Choosing how to help requires distinguishing an established hazard from",
+      "authors": [
+        "Jipei He",
+        "Cheng Cheng",
+        "Liuguo Wang",
+        "Zihan Wen",
+        "Changlin Yu"
+      ],
+      "tags": [
+        "multimodal",
+        "safety"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
