@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-27T20:05:04.595Z",
+  "generatedAt": "2026-11-28T02:50:22.381Z",
   "date": "19-11-2026",
-  "count": 4,
+  "count": 5,
   "summary": null,
   "items": [
     {
@@ -59,6 +59,30 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.27112",
+      "title": "Markdown Is Not a Firewall: four coding agents, one rules file, four boundaries",
+      "url": "https://huggingface.co/papers/2611.27112",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-19T19:00:00.000Z",
+      "abstract": "Teams put a one-page rules file in a repository and call it a control on coding agents. A registered study found agents rarely look up a repository's contribution rules. I asked the security question:",
+      "authors": [
+        "Sandeep Dhuri"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

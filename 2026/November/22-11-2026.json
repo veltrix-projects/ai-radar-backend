@@ -1,9 +1,58 @@
 {
-  "generatedAt": "2026-11-27T20:05:04.594Z",
+  "generatedAt": "2026-11-28T02:50:22.379Z",
   "date": "22-11-2026",
-  "count": 9,
+  "count": 11,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2611.30025",
+      "title": "Damped Atomic Wave Integration Neurons (DAWIN): A Universal Primitive for Continuous-Time Spatiotemporal Learning",
+      "url": "https://huggingface.co/papers/2611.30025",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-22T19:00:00.000Z",
+      "abstract": "Conventional artificial neurons separate spatial feature aggregation from continuous physical time, limiting their ability to model irregular observations. We introduce the Damped Atomic Wave Integrat",
+      "authors": [
+        "Byunggu Yu",
+        "Justin Kim"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.30723",
+      "title": "BiSAT: Bidirectionally Aligned Semantic-Acoustic Tokenization for Speech Language Models",
+      "url": "https://huggingface.co/papers/2611.30723",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-22T19:00:00.000Z",
+      "abstract": "Speech language models (LMs) generate speech as sequences of discrete tokens. Their tokenizer must therefore preserve both acoustic detail and linguistic content at a low bitrate. Semantic-enhanced to",
+      "authors": [
+        "Y. Lu",
+        "L. Wang",
+        "S. Okada"
+      ],
+      "tags": [
+        "speech"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "hf_paper_2611.30494",
       "title": "Revisiting LLMs as Context Engineers",
@@ -178,7 +227,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 199718,
+      "stars": 200075,
       "votes": 0,
       "points": 0
     },
