@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T02:50:22.376Z",
+  "generatedAt": "2026-11-28T11:08:12.130Z",
   "date": "24-11-2026",
   "count": 27,
   "summary": null,
@@ -38,6 +38,32 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2611.33885",
+      "title": "LayoutRecall: Preserving Appearance in Multi-Round 3D Layout-Controlled Image Editing",
+      "url": "https://huggingface.co/papers/2611.33885",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-11-24T19:00:00.000Z",
+      "abstract": "3D layout-controlled image editing gives users explicit control over object placement and camera viewpoint. In a sequence of edits, however, the latest image can lose the appearance of an object when",
+      "authors": [
+        "Yankuan Chi",
+        "Xin Lin",
+        "Baihan Yang",
+        "Yuheng Liu",
+        "Jason Li"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -223,34 +249,6 @@
         "Mike Zheng Shou"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2611.34457",
-      "title": "ProxyGenBench: Benchmarking Proxy-Guided Video Generation",
-      "url": "https://huggingface.co/papers/2611.34457",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-11-24T19:00:00.000Z",
-      "abstract": "Recent video generators produce realistic videos, yet controlling how scenes unfold remains challenging. Structural proxies, such as animated 3D blockouts, guide generation by specifying scene layout,",
-      "authors": [
-        "Zhenchen Tang",
-        "Haolin Lu",
-        "Songlin Yang",
-        "Xiaotong Zhao",
-        "Ran Zhang"
-      ],
-      "tags": [
-        "benchmark"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
